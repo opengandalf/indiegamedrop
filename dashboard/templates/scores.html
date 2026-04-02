@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+{% block title %}Scores{% endblock %}
+
+{% block content %}
+<h2>Top Hidden Gems</h2>
+<div style="overflow-x:auto">
+<table>
+    <thead><tr><th>Name</th><th>Gem Score</th><th>Classification</th><th>Tier</th></tr></thead>
+    <tbody>
+    {% for r in gems %}
+    <tr>
+        <td><a href="https://store.steampowered.com/app/{{ r['steam_app_id'] }}" target="_blank">{{ r['name']|e }}</a></td>
+        <td>{{ "%.1f"|format(r['gem_score']) }}</td>
+        <td><span class="chip complete">{{ r['classification'] or '—' }}</span></td>
+        <td>{{ r['refresh_tier'] or '—' }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</div>
+
+{% if rising %}
+<h2>Rising Stars</h2>
+<div style="overflow-x:auto">
+<table>
+    <thead><tr><th>Name</th><th>Rising Score</th><th>Classification</th></tr></thead>
+    <tbody>
+    {% for r in rising %}
+    <tr>
+        <td><a href="https://store.steampowered.com/app/{{ r['steam_app_id'] }}" target="_blank">{{ r['name']|e }}</a></td>
+        <td>{{ "%.1f"|format(r['rising_score']) }}</td>
+        <td>{{ r['classification'] or '—' }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</div>
+{% endif %}
+
+{% if hyped %}
+<h2>Most Hyped</h2>
+<div style="overflow-x:auto">
+<table>
+    <thead><tr><th>Name</th><th>Hype Score</th><th>Classification</th></tr></thead>
+    <tbody>
+    {% for r in hyped %}
+    <tr>
+        <td><a href="https://store.steampowered.com/app/{{ r['steam_app_id'] }}" target="_blank">{{ r['name']|e }}</a></td>
+        <td>{{ "%.1f"|format(r['hype_score']) }}</td>
+        <td>{{ r['classification'] or '—' }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</div>
+{% endif %}
+
+<div class="chart-container">
+    <h3 style="margin-bottom:0.75rem;color:var(--muted);font-size:0.8rem;text-transform:uppercase">Gem Score Distribution</h3>
+    <canvas id="distChart" height="120"></canvas>
+</div>
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+new Chart(document.getElementById('distChart'), {
+    type: 'bar',
+    data: { labels: {{ dist_labels|tojson }}, datasets: [{ label: 'Games', data: {{ dist_data|tojson }}, backgroundColor: '#4ecdc4', borderRadius: 4 }] },
+    options: { responsive: true, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#8b949e' }, grid: { display: false } }, y: { ticks: { color: '#8b949e' }, grid: { color: '#30363d' } } } }
+});
+</script>
+{% endblock %}

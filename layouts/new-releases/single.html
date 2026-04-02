@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{ partial "game-grid-page.html" (dict
+  "Title" .Title
+  "Description" "The latest indie games to hit Steam. Fresh releases from the past week."
+  "DataURL" "data/new_releases.json"
+  "GridID" "releases-grid"
+  "DefaultSort" "review_percentage"
+  "SortOptions" (slice
+    (dict "value" "review_percentage" "label" "Review Score")
+    (dict "value" "review_count" "label" "Review Count")
+    (dict "value" "price_usd" "label" "Price")
+  )
+  "EmptyTitle" "No new releases tracked yet"
+  "EmptyDesc" "Run the data pipeline to populate this page."
+  "IncludeSparkline" false
+) }}
+{{ end }}

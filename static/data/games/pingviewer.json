@@ -1,0 +1,75 @@
+{
+  "steam_app_id": 2489430,
+  "name": "PingViewer",
+  "slug": "pingviewer",
+  "developer": "ynot01",
+  "publisher": "Prismapunch Games",
+  "release_date": "Aug 16, 2024",
+  "price_usd": 0.99,
+  "genres": [
+    "Casual",
+    "Indie",
+    "Simulation",
+    "Utilities"
+  ],
+  "tags": [
+    "Casual",
+    "Indie",
+    "Simulation",
+    "Utilities"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "PingViewer is a network visualization tool that displays real-time ping on a graph. At a glance, you can understand your current network stability for gaming.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489430/header.jpg?t=1758326986",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489430/ss_38564ffd894f72ea5e565275566520a00e131e76.600x338.jpg?t=1758326986",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489430/ss_a493acb9e1cdd4fe81aef1a714fa7770d808a99c.600x338.jpg?t=1758326986",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489430/ss_554b3a1f9d15b18b1ae6162943f019b5df2a26ef.600x338.jpg?t=1758326986",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489430/a31da208ddd2557c4122c199782bf06653f37f0e/ss_a31da208ddd2557c4122c199782bf06653f37f0e.600x338.jpg?t=1758326986",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489430/2598ebb0c44d30291f505a439b83132f9a64f32e/ss_2598ebb0c44d30291f505a439b83132f9a64f32e.600x338.jpg?t=1758326986",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489430/ss_aff28e7deadb02ab0cecc25d499b9441809139ac.600x338.jpg?t=1758326986",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489430/ss_315c592cb3ef86a00cae0cb56aba931066ca070e.600x338.jpg?t=1758326986"
+  ],
+  "detailed_description": "<strong>PingViewer</strong> is a graphical ping displayer. At a glance, you can understand how stable and delayed <strong>your</strong> connection is.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489430/extras/851ef0abb623afd06b9702800e1b9cb3.poster.avif?t=1758326986\" width=300 height=120 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489430/extras/851ef0abb623afd06b9702800e1b9cb3.webm?t=1758326986\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489430/extras/851ef0abb623afd06b9702800e1b9cb3.mp4?t=1758326986\" type=\"video/mp4\"></video></span><br><br>Felt a stutter in your online session? Check the graph.<h2 class=\"bb_tag\" ><strong>Features:</strong></h2><ul class=\"bb_ul\"><li>Intuitive color-coded interface, <strong>quick reads</strong> enabling quick awareness.<br></li><li><strong>Hover</strong> any ping bar for a detailed readout and timestamp.<br></li><li>Pause & clear for <strong>focus</strong> & <strong>sampling</strong>.<br></li><li><strong>Overlay any game</strong> or desktop environment by enabling \"<strong>Pin PingViewer</strong>\". (Fullscreen games running as administrator must be ran borderless or windowed)<br></li><li>Press \"<strong>Mini Mode</strong>\" on the left to switch to a more low-profile UI.<br></li><li><strong>Customize color schemes</strong>, transparency, and scaling.<br></li><li><strong>Configure IP destinations</strong> with presets of common DNS servers.</li></ul><h2 class=\"bb_tag\" >Convenient for:</h2><ul class=\"bb_ul\"><li>Figuring out whether your ping is stable enough to enter a multiplayer match without headache.<br></li><li>Testing out different network configurations (router positions, ethernet cables).<br></li><li>Visualizing your ping for a livestream or just for yourself as an in-game overlay.<br></li><li>Showing it to your friends to excuse poor gameplay, as I have done so very many times.</li></ul>",
+  "about_the_game": "<strong>PingViewer</strong> is a graphical ping displayer. At a glance, you can understand how stable and delayed <strong>your</strong> connection is.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489430/extras/851ef0abb623afd06b9702800e1b9cb3.poster.avif?t=1758326986\" width=300 height=120 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489430/extras/851ef0abb623afd06b9702800e1b9cb3.webm?t=1758326986\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2489430/extras/851ef0abb623afd06b9702800e1b9cb3.mp4?t=1758326986\" type=\"video/mp4\"></video></span><br><br>Felt a stutter in your online session? Check the graph.<h2 class=\"bb_tag\" ><strong>Features:</strong></h2><ul class=\"bb_ul\"><li>Intuitive color-coded interface, <strong>quick reads</strong> enabling quick awareness.<br></li><li><strong>Hover</strong> any ping bar for a detailed readout and timestamp.<br></li><li>Pause & clear for <strong>focus</strong> & <strong>sampling</strong>.<br></li><li><strong>Overlay any game</strong> or desktop environment by enabling \"<strong>Pin PingViewer</strong>\". (Fullscreen games running as administrator must be ran borderless or windowed)<br></li><li>Press \"<strong>Mini Mode</strong>\" on the left to switch to a more low-profile UI.<br></li><li><strong>Customize color schemes</strong>, transparency, and scaling.<br></li><li><strong>Configure IP destinations</strong> with presets of common DNS servers.</li></ul><h2 class=\"bb_tag\" >Convenient for:</h2><ul class=\"bb_ul\"><li>Figuring out whether your ping is stable enough to enter a multiplayer match without headache.<br></li><li>Testing out different network configurations (router positions, ethernet cables).<br></li><li>Visualizing your ping for a livestream or just for yourself as an in-game overlay.<br></li><li>Showing it to your friends to excuse poor gameplay, as I have done so very many times.</li></ul>",
+  "supported_languages": "English, Polish, Russian, German, Korean, Simplified Chinese",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 5,
+  "review_positive": 5,
+  "review_percentage": 100.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 5,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "review_count": 5,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

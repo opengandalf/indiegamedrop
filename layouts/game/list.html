@@ -1,0 +1,255 @@
+{{ define "main" }}
+<div class="game-detail-page" id="game-page">
+  <div class="loading-state" id="game-loading">Loading game data...</div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.10.3/sql-wasm.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+
+<script>
+const baseURL = {{ .Site.BaseURL }};
+let db = null;
+
+async function init() {
+  const params = new URLSearchParams(window.location.search);
+  const slug = params.get('slug');
+  if (!slug) {
+    document.getElementById('game-loading').textContent = 'No game specified.';
+    return;
+  }
+
+  try {
+    const SQL = await initSqlJs({
+      locateFile: file => `https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.10.3/${file}`
+    });
+
+    const response = await fetch(baseURL + 'data/browse.db.gz');
+    const compressed = await response.arrayBuffer();
+    const decompressed = new Response(
+      new Blob([compressed]).stream().pipeThrough(new DecompressionStream('gzip'))
+    ).arrayBuffer();
+    const dbData = new Uint8Array(await decompressed);
+    db = new SQL.Database(dbData);
+
+    // Find game by slug
+    const stmt = db.prepare("SELECT * FROM games WHERE slug = ?");
+    stmt.bind([slug]);
+    if (!stmt.step()) {
+      document.getElementById('game-loading').textContent = 'Game not found.';
+      stmt.free();
+      return;
+    }
+    const game = stmt.getAsObject();
+    stmt.free();
+
+    renderGame(game);
+  } catch(e) {
+    console.error(e);
+    document.getElementById('game-loading').textContent = 'Failed to load game data.';
+  }
+}
+
+function renderGame(g) {
+  const reviewClass = g.review_percentage >= 90 ? 'positive'
+    : g.review_percentage >= 70 ? 'mixed' : 'negative';
+  const priceStr = g.price_usd > 0 ? `$${g.price_usd.toFixed(2)}` : 'Free to Play';
+  const imgUrl = g.header_image_url ||
+    `https://cdn.akamai.steamstatic.com/steam/apps/${g.steam_app_id}/header.jpg`;
+
+  let tags = '';
+  try {
+    const tagList = JSON.parse(g.tags || '[]');
+    if (Array.isArray(tagList)) {
+      tags = tagList.map(t => `<span class="tag">${t}</span>`).join('');
+    }
+  } catch(e) {}
+
+  let genres = '';
+  try {
+    const genreList = JSON.parse(g.genres || '[]');
+    if (Array.isArray(genreList)) {
+      genres = genreList.map(t => `<span class="tag">${t}</span>`).join('');
+    }
+  } catch(e) {}
+
+  let platforms = '';
+  try {
+    const platData = JSON.parse(g.platforms || '{}');
+    if (typeof platData === 'object' && !Array.isArray(platData)) {
+      platforms = Object.entries(platData)
+        .filter(([,v]) => v)
+        .map(([k]) => k === 'windows' ? '🪟 Windows' : k === 'mac' ? '🍎 macOS' : k === 'linux' ? '🐧 Linux' : k)
+        .join(' · ');
+    }
+  } catch(e) {}
+
+  const ownerStr = g.owner_estimate > 0 ? formatOwners(g.owner_estimate) + ' owners' : '';
+
+  const page = document.getElementById('game-page');
+  page.innerHTML = `
+    <div class="game-hero">
+      <div class="game-hero-img">
+        <img src="${imgUrl}" alt="${g.name}">
+      </div>
+      <div class="game-hero-info">
+        <h1>${g.name}</h1>
+        ${g.developer ? `<div class="game-developer">by ${g.developer}</div>` : ''}
+        <div class="game-stats-row">
+          <span class="review-score ${reviewClass} large">${g.review_percentage.toFixed(0)}%</span>
+          <span>${g.review_count.toLocaleString('en-GB')} reviews</span>
+          <span class="game-price">${priceStr}</span>
+          ${ownerStr ? `<span>${ownerStr}</span>` : ''}
+        </div>
+        <div class="game-meta">
+          ${g.release_date ? `<span>📅 ${g.release_date}</span>` : ''}
+          ${platforms ? `<span>${platforms}</span>` : ''}
+        </div>
+        <div class="tags-row">${tags || genres}</div>
+        ${g.short_description ? `<p class="game-desc">${g.short_description}</p>` : ''}
+        <div class="game-actions">
+          <a href="https://store.steampowered.com/app/${g.steam_app_id}" target="_blank" class="btn-steam">
+            View on Steam →
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="game-sections">
+      <div class="game-section" id="price-section">
+        <h2>💰 Price History</h2>
+        <div class="chart-container">
+          <canvas id="price-chart"></canvas>
+        </div>
+        <div id="price-empty" style="display:none;" class="empty-msg">No price history available yet.</div>
+      </div>
+
+      <div class="game-section" id="similar-section">
+        <h2>🎮 Similar Games</h2>
+        <div class="similar-grid" id="similar-grid"></div>
+        <div id="similar-empty" style="display:none;" class="empty-msg">No similar games found yet.</div>
+      </div>
+    </div>
+  `;
+
+  loadPriceHistory(g.steam_app_id);
+  loadSimilarGames(g.steam_app_id);
+}
+
+function formatOwners(n) {
+  if (n >= 1000000) return (n / 1000000).toFixed(1).replace(/\.0$/, '') + 'M';
+  if (n >= 1000) return (n / 1000).toFixed(0) + 'K';
+  return n.toLocaleString('en-GB');
+}
+
+function loadPriceHistory(appId) {
+  try {
+    const rows = db.exec("SELECT snapshot_date, price_usd FROM price_history WHERE steam_app_id = ? ORDER BY snapshot_date", [appId]);
+    if (!rows.length || !rows[0].values.length) {
+      document.getElementById('price-empty').style.display = '';
+      document.getElementById('price-chart').style.display = 'none';
+      return;
+    }
+
+    const dates = rows[0].values.map(r => r[0]);
+    const prices = rows[0].values.map(r => r[1]);
+
+    new Chart(document.getElementById('price-chart'), {
+      type: 'line',
+      data: {
+        labels: dates,
+        datasets: [{
+          label: 'Price (USD)',
+          data: prices,
+          borderColor: '#4ecdc4',
+          backgroundColor: 'rgba(78, 205, 196, 0.1)',
+          fill: true,
+          tension: 0.3,
+          pointRadius: 2,
+        }]
+      },
+      options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            callbacks: {
+              label: (ctx) => `$${ctx.parsed.y.toFixed(2)}`
+            }
+          }
+        },
+        scales: {
+          x: {
+            ticks: { color: '#8b949e', maxTicksLimit: 8 },
+            grid: { color: 'rgba(139,148,158,0.1)' }
+          },
+          y: {
+            ticks: {
+              color: '#8b949e',
+              callback: (v) => '$' + v.toFixed(2)
+            },
+            grid: { color: 'rgba(139,148,158,0.1)' },
+            beginAtZero: true
+          }
+        }
+      }
+    });
+  } catch(e) {
+    console.error('Price history error:', e);
+    document.getElementById('price-empty').style.display = '';
+    document.getElementById('price-chart').style.display = 'none';
+  }
+}
+
+function loadSimilarGames(appId) {
+  try {
+    const stmt = db.prepare(`
+      SELECT g.*, sg.score
+      FROM similar_games sg
+      JOIN games g ON sg.similar_app_id = g.steam_app_id
+      WHERE sg.steam_app_id = ?
+      ORDER BY sg.score DESC
+      LIMIT 8
+    `);
+    stmt.bind([appId]);
+
+    const games = [];
+    while (stmt.step()) games.push(stmt.getAsObject());
+    stmt.free();
+
+    if (!games.length) {
+      document.getElementById('similar-empty').style.display = '';
+      return;
+    }
+
+    const grid = document.getElementById('similar-grid');
+    grid.innerHTML = games.map(g => {
+      const reviewClass = g.review_percentage >= 90 ? 'positive'
+        : g.review_percentage >= 70 ? 'mixed' : 'negative';
+      const priceStr = g.price_usd > 0 ? `$${g.price_usd.toFixed(2)}` : 'Free';
+      const imgUrl = g.header_image_url ||
+        `https://cdn.akamai.steamstatic.com/steam/apps/${g.steam_app_id}/header.jpg`;
+      const matchPct = (g.score * 100).toFixed(0);
+
+      return `
+        <a href="${baseURL}game/?slug=${g.slug}" class="similar-card">
+          <img src="${imgUrl}" alt="${g.name}" loading="lazy">
+          <div class="similar-info">
+            <div class="similar-title">${g.name}</div>
+            <div class="similar-meta">
+              <span class="review-score ${reviewClass}">${g.review_percentage.toFixed(0)}%</span>
+              <span>${g.review_count.toLocaleString('en-GB')} reviews</span>
+              <span class="match-badge">${matchPct}% match</span>
+            </div>
+          </div>
+        </a>`;
+    }).join('');
+  } catch(e) {
+    console.error('Similar games error:', e);
+    document.getElementById('similar-empty').style.display = '';
+  }
+}
+
+document.addEventListener('DOMContentLoaded', init);
+</script>
+{{ end }}

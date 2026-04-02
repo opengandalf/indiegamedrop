@@ -1,0 +1,76 @@
+{
+  "steam_app_id": 3033470,
+  "name": "From The Mystery Zone",
+  "slug": "from-the-mystery-zone",
+  "developer": "kakeia",
+  "publisher": "kakeia",
+  "release_date": "Jun 27, 2024",
+  "price_usd": 4.93,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Casual",
+    "Indie"
+  ],
+  "tags": [
+    "Action",
+    "Adventure",
+    "Casual",
+    "Indie"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "You find yourself in a pitch-dark world. Avoid dangerous events, restore memory, and escape from the “Mystery Zone”.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3033470/header.jpg?t=1719770926",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3033470/ss_ae7223b9671af61eb42efaafbbbc5cc96e1966ee.600x338.jpg?t=1719770926",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3033470/ss_368e2221beb4beb6e9c71f862675df9cc80ce484.600x338.jpg?t=1719770926",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3033470/ss_fbafac0e7a8c9ff1cf0e8b95dbccb8901eee6130.600x338.jpg?t=1719770926",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3033470/ss_ef1bae73f7a6b469041ac210e6ffac4e3c4ddf8c.600x338.jpg?t=1719770926",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3033470/ss_4930a589f4976c02e3b3a9943891e89433060645.600x338.jpg?t=1719770926"
+  ],
+  "detailed_description": "You find yourself in a pitch-dark world. Avoid dangerous events, restore memory, and escape from the “Mystery Zone”.<br><br>\"From The Mystery Zone” is a short first-person minesweeper game.<br><br><br>【Difficulty Level】<br><ul class=\"bb_ul\"><li> There will be major changes to the difficulty level immediately after the game's release. For details, please see the \"Adjustments\" at the bottom of the description.<br>You can adjust the number of dangerous events.<br>You can adjust the level of difficulty from beginner to expert minesweeper players.<br><br>【Play time】<br>60 minutes or more (depending on the difficulty)<br>If you are not good at Minesweeper or find it difficult, please lower the difficulty.<br>Also, Minesweeper cannot be solved completely and there is an element of luck involved.<br><br><br> 【Rules】<br>“00”, “21”, “62”…Numbers in the grid<br>The right side of the number indicates the number of dangerous events around you.<br>　If the number is “03”, there are 3 dangerous events in the surrounding 8 squares.<br>The left side of the number indicates the current hierarchy?<br><br>【Dangerous events】<br>Do not touch.<br>Do not examine.<br>Do not walk over it.<br>Flagging is easy to understand.<br><br>【Goal】<br>Restore memory<br><br>Space: Jump.<br>Left click: Check a grid.<br>Right click: Flag a grid.<br>Q: Open Menu<br><br><br>\"Adjustments 2024/06/28\"<br>・There was a bug where an event that resets your progress would occur when you got a game over.<br>We fixed this in the last patch so that it wouldn't happen, and we've made it a feature from this version onwards.<br>This has made the game more difficult.<br><br>・The algorithm for placing events (bombs) has been changed.<br>To reduce the element of luck, the first square is now always set to \"0\".<br>Also, if you haven't taken any damage, you can return to stage selection without initializing your data by selecting \"Return to Title\" from the menu.<br><br>・Details of the algorithm for placing events (bombs)<br>In the previous version, the part that was automatically generated is now created so that a path from the start to the goal is created, and events (bombs) are not placed on that path.</li></ul>",
+  "about_the_game": "You find yourself in a pitch-dark world. Avoid dangerous events, restore memory, and escape from the “Mystery Zone”.<br><br>\"From The Mystery Zone” is a short first-person minesweeper game.<br><br><br>【Difficulty Level】<br><ul class=\"bb_ul\"><li> There will be major changes to the difficulty level immediately after the game's release. For details, please see the \"Adjustments\" at the bottom of the description.<br>You can adjust the number of dangerous events.<br>You can adjust the level of difficulty from beginner to expert minesweeper players.<br><br>【Play time】<br>60 minutes or more (depending on the difficulty)<br>If you are not good at Minesweeper or find it difficult, please lower the difficulty.<br>Also, Minesweeper cannot be solved completely and there is an element of luck involved.<br><br><br> 【Rules】<br>“00”, “21”, “62”…Numbers in the grid<br>The right side of the number indicates the number of dangerous events around you.<br>　If the number is “03”, there are 3 dangerous events in the surrounding 8 squares.<br>The left side of the number indicates the current hierarchy?<br><br>【Dangerous events】<br>Do not touch.<br>Do not examine.<br>Do not walk over it.<br>Flagging is easy to understand.<br><br>【Goal】<br>Restore memory<br><br>Space: Jump.<br>Left click: Check a grid.<br>Right click: Flag a grid.<br>Q: Open Menu<br><br><br>\"Adjustments 2024/06/28\"<br>・There was a bug where an event that resets your progress would occur when you got a game over.<br>We fixed this in the last patch so that it wouldn't happen, and we've made it a feature from this version onwards.<br>This has made the game more difficult.<br><br>・The algorithm for placing events (bombs) has been changed.<br>To reduce the element of luck, the first square is now always set to \"0\".<br>Also, if you haven't taken any damage, you can return to stage selection without initializing your data by selecting \"Return to Title\" from the menu.<br><br>・Details of the algorithm for placing events (bombs)<br>In the previous version, the part that was automatically generated is now created so that a path from the start to the goal is created, and events (bombs) are not placed on that path.</li></ul>",
+  "supported_languages": "English, Japanese",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Partial Controller Support",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 7,
+  "review_positive": 3,
+  "review_percentage": 42.9,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 7,
+      "review_percentage": 42.9,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-26",
+      "review_count": 7,
+      "review_percentage": 42.9,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

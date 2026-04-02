@@ -1,0 +1,70 @@
+{
+  "steam_app_id": 2114480,
+  "name": "Scripted Land",
+  "slug": "scripted-land",
+  "developer": "Hyakuren Soft",
+  "publisher": "Hyakuren Soft",
+  "release_date": "Jul 28, 2025",
+  "price_usd": 7.49,
+  "genres": [
+    "Indie",
+    "Simulation"
+  ],
+  "tags": [
+    "Indie",
+    "Simulation"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Code your territory's AI to make it prosper! Manage production and processing, strengthen your adventurers and let them explore! Can you prevent enemy invasion and win the war? This is a hex-based 2D game in which coded Lua scripts are registered with NPCs to run a territory.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2114480/header.jpg?t=1756641879",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2114480/ss_6efee4a9b53661b7063b12ada7d922f2a5551701.600x338.jpg?t=1756641879",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2114480/ss_686c77346d09d0678bb88f642f462c2bd90c6e7d.600x338.jpg?t=1756641879",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2114480/ss_c3297a880974b4252a2bb74b0872b189561cdfc9.600x338.jpg?t=1756641879",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2114480/ss_6f9da9e3ba77cd80e3e72a0dc652469b76788d8b.600x338.jpg?t=1756641879"
+  ],
+  "detailed_description": "This game is a game where you can code the AI of NPCs for those who think \"I want them to act smarter\" or \"I want them to act more efficiently\" about the NPCs in the game.<br>You can write the behavior of your production and transportation subjects in the Lua programming language to make them more efficient in production, defense, and exploration.<br><br>Note that NPC behavior must be written in Lua script, so the difficulty level is for people who can code normally.<br>If you have any requests about the game, please post them on the Steam forum.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>A hex-style 2D game in which you create Lua scripts and register them with your lords for action.<br></li><li>The game allows you to register different scripts for multiple NPCs, allowing you to manage your territory with an awareness of the division of roles.<br></li><li>All actions, from the actions of the NPCs to building instructions, can be described in scripts, which can be created and executed up to 32 times faster to check the results.<br></li><li>A tutorial stage to show you what kind of scripts to write and a random map to evaluate your scripts are provided.</li></ul>",
+  "about_the_game": "This game is a game where you can code the AI of NPCs for those who think \"I want them to act smarter\" or \"I want them to act more efficiently\" about the NPCs in the game.<br>You can write the behavior of your production and transportation subjects in the Lua programming language to make them more efficient in production, defense, and exploration.<br><br>Note that NPC behavior must be written in Lua script, so the difficulty level is for people who can code normally.<br>If you have any requests about the game, please post them on the Steam forum.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>A hex-style 2D game in which you create Lua scripts and register them with your lords for action.<br></li><li>The game allows you to register different scripts for multiple NPCs, allowing you to manage your territory with an awareness of the division of roles.<br></li><li>All actions, from the actions of the NPCs to building instructions, can be described in scripts, which can be created and executed up to 32 times faster to check the results.<br></li><li>A tutorial stage to show you what kind of scripts to write and a random map to evaluate your scripts are provided.</li></ul>",
+  "supported_languages": "English, Japanese",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 4,
+  "review_positive": 4,
+  "review_percentage": 100.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 4,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "review_count": 4,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

@@ -1,0 +1,78 @@
+{
+  "steam_app_id": 2333430,
+  "name": "Running Guys",
+  "slug": "running-guys",
+  "developer": "Cats & Foxes",
+  "publisher": "Cats & Foxes",
+  "release_date": "Mar 21, 2023",
+  "price_usd": 1.99,
+  "genres": [
+    "Action",
+    "Indie",
+    "Early Access"
+  ],
+  "tags": [
+    "Action",
+    "Indie",
+    "Early Access"
+  ],
+  "platforms": [
+    "windows",
+    "linux"
+  ],
+  "short_description": "A police officer, a thief, and a bag full of cash, with a hole in it. This is the story of a wild pursuit on this 2D platformer.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333430/header.jpg?t=1716040041",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333430/ss_c86efd078a2d45de9d677e0833926b4ee960c2a9.600x338.jpg?t=1716040041",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333430/ss_dec0047e7d9a2a104c30fe6f568c5c02a7d634c6.600x338.jpg?t=1716040041",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333430/ss_e3d4a0b168ecba1d5a4b8ccf92caa0159324d3c7.600x338.jpg?t=1716040041",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333430/ss_b9e0bf39587de2b9a4c8505cb7e865c6639657d0.600x338.jpg?t=1716040041",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333430/ss_f003d76085d2a8a021fa76a73d0a208ab22692e8.600x338.jpg?t=1716040041"
+  ],
+  "detailed_description": "<strong>Running Guys</strong> is a very small <strong>running game</strong> where a police officer chases a thief.<br><br>This game was developed in two weeks almost 10 years ago and revived recently (as many children enjoyed it at a science fair).<br><br>There is only one level (you should give it a chance :P), but we will rework this game in a few weeks to make it with Unreal Engine (mainly to test exports on different platforms).<br><br>You should definitely grab it now, as it has a low price :P<br><br><br>Little tip, when you just hit the ground after a jump or a fall, do a roll!",
+  "about_the_game": "<strong>Running Guys</strong> is a very small <strong>running game</strong> where a police officer chases a thief.<br><br>This game was developed in two weeks almost 10 years ago and revived recently (as many children enjoyed it at a science fair).<br><br>There is only one level (you should give it a chance :P), but we will rework this game in a few weeks to make it with Unreal Engine (mainly to test exports on different platforms).<br><br>You should definitely grab it now, as it has a low price :P<br><br><br>Little tip, when you just hit the ground after a jump or a fall, do a roll!",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Spanish - Latin America<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Multi-player",
+    "PvP",
+    "Shared/Split Screen PvP",
+    "Shared/Split Screen",
+    "Full controller support",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 1,
+  "review_positive": 1,
+  "review_percentage": 100.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 1,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "review_count": 1,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

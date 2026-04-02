@@ -1,0 +1,80 @@
+{
+  "steam_app_id": 2209470,
+  "name": "Interplayer",
+  "slug": "interplayer",
+  "developer": "hna",
+  "publisher": "hna",
+  "release_date": "Nov 24, 2022",
+  "price_usd": 2.99,
+  "genres": [
+    "Casual",
+    "Indie",
+    "Simulation"
+  ],
+  "tags": [
+    "Casual",
+    "Indie",
+    "Simulation"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Pick up the tokens, write the source code, and repair the data that your doctor has deleted! Write source code that achieves the input and expected output pairs set for each stage. The code is written in tolerance, a dedicated language.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209470/header.jpg?t=1683199323",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209470/ss_f6296d6083fc598cee170ed0d68058587254bd69.600x338.jpg?t=1683199323",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209470/ss_f7ff4120008edd25a00ea5d76bc8a52a06831902.600x338.jpg?t=1683199323",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209470/ss_ec8c9ed64a4d7685993206a2e20f907654c292ad.600x338.jpg?t=1683199323",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209470/ss_f64fe821fec33b0b3e679467996766a3c9e258b5.600x338.jpg?t=1683199323",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209470/ss_f14c98e539dfa691dc9fca40b4b97e80ee75328e.600x338.jpg?t=1683199323",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209470/ss_360c5e2b3b1a5c9ec2a9d5cadbc56873992dec87.600x338.jpg?t=1683199323",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209470/ss_8a4635817d26f7691819d824e4a36a916ad72404.600x338.jpg?t=1683199323",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209470/ss_37e2403a0b665eab0cbd141ce7311d0967b4f385.600x338.jpg?t=1683199323",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209470/ss_fb9d1662184de57b5c845ab3b447d992bba162b5.600x338.jpg?t=1683199323",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209470/ss_d3028028023333ce26c3ec7061f17935e4baac5d.600x338.jpg?t=1683199323",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209470/ss_a117b515ff0f9d16e55391daa06c7bc24703bd99.600x338.jpg?t=1683199323"
+  ],
+  "detailed_description": "One day, your doctor intentionally deletes data from our project. You, an assistant who follows the incompetent doctor, are instructed by him to try to recover the deleted data.<br><br>\"Interplayer\" is a game in which you write source code by moving the player around, picking up tokens and collecting them. Write source code that achieves the pairs of inputs and corresponding outputs set for each stage. For example, double the numerical value of the input and output it, convert it to an n-decimal number, etc....<br><br><br>For example, output the input value multiplied by 10, etc...<br>Inputs [3, 6, 10] => Outputs [30, 60, 100]<br><br>Programmers these days have been programming by tapping on their keyboards and typing whatever letters they want. But what if we add constraints? With Interplayer, you program in tokens, and the order and number of times you can write tokens is constrained. How do you achieve the expected input/output pairs within these constraints? Experience a new approach to programming with \"Interplayer\".<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209470/extras/b859d4e03a3664c67630f52e24fbec10.avif?t=1683199323\" width=480 height=270 /></span><h2 class=\"bb_tag\" >Dedicated language specifically for this game</h2>The language written in the game is tolerance language, a dedicated programming language created for this game. You will need to understand this unknown language by referring to the in-game references. But don't worry! Because the tolerance language has a highly readable syntax strongly influenced by Python, with only simple functions, and it is easy for programmers to understand them (except for the stack statement!). . For example, if the tokens \"var,\" \"=,\" and \"1\" are present in a stage, you can assign <strong>1</strong> to the variable <strong>var</strong> by writing <strong>var = 1</strong>. Other complex processes can be described in the game by combining various control statements such as \"if\" and \"while\".<h2 class=\"bb_tag\" >Unique stack statement</h2>One of the unique features is the <strong>stack statement</strong> grammar, where <strong>a = 1 + 1</strong>, for example, is written as <strong>1 1 + = a</strong> in the stack statement. In other words, the stack statement complicates the order in this game, which is about the order in which tokens are picked up.",
+  "about_the_game": "One day, your doctor intentionally deletes data from our project. You, an assistant who follows the incompetent doctor, are instructed by him to try to recover the deleted data.<br><br>\"Interplayer\" is a game in which you write source code by moving the player around, picking up tokens and collecting them. Write source code that achieves the pairs of inputs and corresponding outputs set for each stage. For example, double the numerical value of the input and output it, convert it to an n-decimal number, etc....<br><br><br>For example, output the input value multiplied by 10, etc...<br>Inputs [3, 6, 10] => Outputs [30, 60, 100]<br><br>Programmers these days have been programming by tapping on their keyboards and typing whatever letters they want. But what if we add constraints? With Interplayer, you program in tokens, and the order and number of times you can write tokens is constrained. How do you achieve the expected input/output pairs within these constraints? Experience a new approach to programming with \"Interplayer\".<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209470/extras/b859d4e03a3664c67630f52e24fbec10.avif?t=1683199323\" width=480 height=270 /></span><h2 class=\"bb_tag\" >Dedicated language specifically for this game</h2>The language written in the game is tolerance language, a dedicated programming language created for this game. You will need to understand this unknown language by referring to the in-game references. But don't worry! Because the tolerance language has a highly readable syntax strongly influenced by Python, with only simple functions, and it is easy for programmers to understand them (except for the stack statement!). . For example, if the tokens \"var,\" \"=,\" and \"1\" are present in a stage, you can assign <strong>1</strong> to the variable <strong>var</strong> by writing <strong>var = 1</strong>. Other complex processes can be described in the game by combining various control statements such as \"if\" and \"while\".<h2 class=\"bb_tag\" >Unique stack statement</h2>One of the unique features is the <strong>stack statement</strong> grammar, where <strong>a = 1 + 1</strong>, for example, is written as <strong>1 1 + = a</strong> in the stack statement. In other words, the stack statement complicates the order in this game, which is about the order in which tokens are picked up.",
+  "supported_languages": "Japanese, English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 19,
+  "review_positive": 18,
+  "review_percentage": 94.7,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 20,
+      "review_percentage": 95.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "review_count": 19,
+      "review_percentage": 94.7,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

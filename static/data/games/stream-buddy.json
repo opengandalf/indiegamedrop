@@ -1,0 +1,82 @@
+{
+  "steam_app_id": 505550,
+  "name": "Stream Buddy",
+  "slug": "stream-buddy",
+  "developer": "Stardale Studio",
+  "publisher": "Stardale Studio",
+  "release_date": "Oct 19, 2016",
+  "price_usd": 0.0,
+  "genres": [
+    "Utilities",
+    "Video Production",
+    "Early Access"
+  ],
+  "tags": [
+    "Utilities",
+    "Video Production",
+    "Early Access"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Enhance your online Twitch stream with Stream Buddy. Use Stream Buddy to provide mini games for your viewers, adding a new level of viewer interaction! Even more, our 3d avatar system allows you to use a Stream Buddy character without need of webcam, including voice to mouth movement!",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/505550/header.jpg?t=1697661665",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/505550/ss_3a1a660a48ebfa394d383814f25f9518ab049f49.600x338.jpg?t=1697661665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/505550/ss_b7a389e085c8e209b7f865fb90ef21515f0906cc.600x338.jpg?t=1697661665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/505550/ss_04998c7532e6da6c065c0a2383285e9b108afad1.600x338.jpg?t=1697661665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/505550/ss_d75019fb559560b1bb22b0da9258fa3dd8d10167.600x338.jpg?t=1697661665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/505550/ss_7c784acdc0d9dc2834db013177c551676e2fe564.600x338.jpg?t=1697661665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/505550/ss_399ae48be7ce3311a6cd7cbd92074019b6252edd.600x338.jpg?t=1697661665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/505550/ss_cc01ab5286c811d3843ab06b4bdf0debf451cc78.600x338.jpg?t=1697661665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/505550/ss_6069ca7650eb033ea163fa5168d660bcd952702f.600x338.jpg?t=1697661665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/505550/ss_8cbe6ef5c3dc802a07c84a2a64ab0b2aa6e6a8bd.600x338.jpg?t=1697661665"
+  ],
+  "detailed_description": "Stream Buddy is a tool for Twitch streamers to help you provide more entertainment for your viewers. With Stream Buddy you can use mini-games for giveaways or for fun, and also use a 3d avatar as your persona where when you talk into your microphone, the avatars mouth will move to look like the avatar is talking.<br><br>Stream Buddy hooks into the Twitch API, meaning <strong><u>you will require a Twitch.TV account</u></strong> to use some features, allowing for viewers to interact with Stream Buddy. With the mini-games, players can enter during the lobby phase of the game by typing \"!play\", then random players that enter are selected in random chance games to play.<br><br>Another great feature of Stream Buddy is Viewer Street. With Viewer Street, you can watch your stream viewers chatting in real time live as if they are characters walking down the street in Stream Buddy. When a user enters a message in your Twitch chat, their character is created in Stream Buddy Viewer Street and their messages will then appear above their head. If you don't like the viewer, you can use the overhead camera to shoot them down by shooting down a hailstorm of bullets to destroy that viewer.<br><br><strong><u>Features that require a Twitch.TV Account:</u></strong><br>- Mini-games where Twitch viewers can enter.<br>- Viewer Street - where your twitch viewers can appear in Stream Buddy along with their chat messages.<br>- <strong><i>Note: Port 6667 TCP/UDP must be open to access Twitch chat api.</i></strong> Some routers might block this port by default, however you can usually open access to this port in you router settings. Port 6667 is a very common IRC port and Stream Buddy uses it to connect to irc.twitch.tv to access your stream chat in real time.<br><br><strong><u>Features that don't require a Twitch.TV Account:</u></strong><br>- 3d avatar and moving mouth which syncs to your microphone (microphone required moving mouth synced to microphone input).",
+  "about_the_game": "Stream Buddy is a tool for Twitch streamers to help you provide more entertainment for your viewers. With Stream Buddy you can use mini-games for giveaways or for fun, and also use a 3d avatar as your persona where when you talk into your microphone, the avatars mouth will move to look like the avatar is talking.<br><br>Stream Buddy hooks into the Twitch API, meaning <strong><u>you will require a Twitch.TV account</u></strong> to use some features, allowing for viewers to interact with Stream Buddy. With the mini-games, players can enter during the lobby phase of the game by typing \"!play\", then random players that enter are selected in random chance games to play.<br><br>Another great feature of Stream Buddy is Viewer Street. With Viewer Street, you can watch your stream viewers chatting in real time live as if they are characters walking down the street in Stream Buddy. When a user enters a message in your Twitch chat, their character is created in Stream Buddy Viewer Street and their messages will then appear above their head. If you don't like the viewer, you can use the overhead camera to shoot them down by shooting down a hailstorm of bullets to destroy that viewer.<br><br><strong><u>Features that require a Twitch.TV Account:</u></strong><br>- Mini-games where Twitch viewers can enter.<br>- Viewer Street - where your twitch viewers can appear in Stream Buddy along with their chat messages.<br>- <strong><i>Note: Port 6667 TCP/UDP must be open to access Twitch chat api.</i></strong> Some routers might block this port by default, however you can usually open access to this port in you router settings. Port 6667 is a very common IRC port and Stream Buddy uses it to connect to irc.twitch.tv to access your stream chat in real time.<br><br><strong><u>Features that don't require a Twitch.TV Account:</u></strong><br>- 3d avatar and moving mouth which syncs to your microphone (microphone required moving mouth synced to microphone input).",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Steam Achievements"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 29,
+  "review_positive": 18,
+  "review_percentage": 62.1,
+  "owner_estimate": 10000,
+  "ccu_estimate": 1,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 26,
+      "review_percentage": 57.7,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 29,
+      "review_percentage": 62.1,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-30",
+      "review_count": 29,
+      "review_percentage": 62.1,
+      "ccu_estimate": 1,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

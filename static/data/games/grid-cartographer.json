@@ -1,0 +1,72 @@
+{
+  "steam_app_id": 684690,
+  "name": "Grid Cartographer",
+  "slug": "grid-cartographer",
+  "developer": "David Walters",
+  "publisher": "David Walters",
+  "release_date": "Jun 19, 2018",
+  "price_usd": 24.99,
+  "genres": [
+    "Design & Illustration"
+  ],
+  "tags": [
+    "Design & Illustration"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Grid Cartographer is an intuitive map creation tool. Use it to quickly craft table-top dungeon encounters, block-out computer game environments, or as the perfect companion for classic role-playing games.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/684690/header.jpg?t=1772186412",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/684690/ss_3dd799050949065e86c56eab7f3339fb3aabc9b9.600x338.jpg?t=1772186412",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/684690/ss_60859c376d2996519c2723c3d609b7b8c1314222.600x338.jpg?t=1772186412",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/684690/ss_37d7483721c7da7978b9487668d8beaeaac271de.600x338.jpg?t=1772186412",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/684690/ss_b5bd3a2f5dbe34590f562644e6c1d1489887a2fb.600x338.jpg?t=1772186412",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/684690/ss_b8812065002a92f7121e63594f5146a91fd905d5.600x338.jpg?t=1772186412"
+  ],
+  "detailed_description": "Grid Cartographer is a powerful map creation and design tool, with many features:<br><br> • Square, Hexagon and Tile-map Grid Types.<br> • Unlimited floor area with named floors and multiple tabbed 'regions'.<br> • Quick brush selection with a popup overlay.<br> • Standard editing tools such as undo, redo and cut, copy and paste.<br> • Range of selection tools including marquee, paint and wand.<br> • Text labelling and a quick note system.<br> • Fog-of-war overlays in several different styles.<br> • Map themes including blueprint, phosphor and parchment styles.<br> • 3D view mode for first-person visualisation.<br> • Avatar cursor to help track your movements as you explore a map.<br> • Interactive wall levers and treasure chests.<br> • Custom marker and terrain tile art import.<br> • Flexible grid setup for limited areas or infinite planes.<h2 class=\"bb_tag\" >Import and Export</h2><ul class=\"bb_ul\"><li>Import TSV maps and room notes from donjon dungeon generator.<br></li><li>Export maps to PNG, BMP or TGA with powerful filtering options to create a 'player map'.<br></li><li>Export maps to OBJ mesh or JSON/XML data for use with Unity, Godot and Unreal Engine.<br></li><li>Scripting system for exporting to proprietary data formats. (AppGameKit example available)</li></ul>",
+  "about_the_game": "Grid Cartographer is a powerful map creation and design tool, with many features:<br><br> • Square, Hexagon and Tile-map Grid Types.<br> • Unlimited floor area with named floors and multiple tabbed 'regions'.<br> • Quick brush selection with a popup overlay.<br> • Standard editing tools such as undo, redo and cut, copy and paste.<br> • Range of selection tools including marquee, paint and wand.<br> • Text labelling and a quick note system.<br> • Fog-of-war overlays in several different styles.<br> • Map themes including blueprint, phosphor and parchment styles.<br> • 3D view mode for first-person visualisation.<br> • Avatar cursor to help track your movements as you explore a map.<br> • Interactive wall levers and treasure chests.<br> • Custom marker and terrain tile art import.<br> • Flexible grid setup for limited areas or infinite planes.<h2 class=\"bb_tag\" >Import and Export</h2><ul class=\"bb_ul\"><li>Import TSV maps and room notes from donjon dungeon generator.<br></li><li>Export maps to PNG, BMP or TGA with powerful filtering options to create a 'player map'.<br></li><li>Export maps to OBJ mesh or JSON/XML data for use with Unity, Godot and Unreal Engine.<br></li><li>Scripting system for exporting to proprietary data formats. (AppGameKit example available)</li></ul>",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 73,
+  "review_positive": 70,
+  "review_percentage": 95.9,
+  "owner_estimate": 10000,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 1,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 71,
+      "review_percentage": 97.2,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 73,
+      "review_percentage": 95.9,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-31",
+      "review_count": 73,
+      "review_percentage": 95.9,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

@@ -1,0 +1,103 @@
+/* ── Articles: grid, cards, single article pages ─────────────────────────── */
+
+.article-grid {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)) !important;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+  width: 100%;
+}
+
+.article-grid .article-card-link {
+  display: block;
+  width: 100%;
+}
+
+.article-card {
+  background: var(--igdrop-card-bg);
+  border: 1px solid var(--igdrop-border);
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.2s, border-color 0.2s;
+}
+
+.article-card-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.article-card-link:hover .article-card {
+  transform: translateY(-3px);
+  border-color: var(--igdrop-accent);
+  box-shadow: 0 8px 24px rgba(78,205,196,0.12);
+}
+
+.article-card-placeholder {
+  width: 100%;
+  height: 180px;
+  background: var(--igdrop-gradient-subtle);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.article-card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.article-card-body {
+  padding: 1rem;
+}
+
+.article-card-body h3 {
+  margin: 0.5rem 0;
+  font-size: 1.1rem;
+}
+
+.article-card-body h3 a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.article-card-body h3 a:hover {
+  color: var(--igdrop-accent);
+}
+
+.article-card-body p {
+  color: var(--igdrop-muted);
+  font-size: 0.9rem;
+  margin: 0.5rem 0 0;
+  line-height: 1.5;
+}
+
+.article-card-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.8rem;
+  color: var(--igdrop-muted);
+}
+
+.article-card-tags {
+  display: flex;
+  gap: 0.3rem;
+}
+
+.article-card-tags .tag {
+  background: rgba(78, 205, 196, 0.12);
+  color: var(--igdrop-accent);
+  padding: 0.1rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.7rem;
+  border: 1px solid rgba(78, 205, 196, 0.2);
+}
+
+/* Override PaperMod entry list styles inside articles page */
+.articles-page .article-grid .article-card {
+  margin: 0;
+  border: 1px solid var(--igdrop-border);
+}

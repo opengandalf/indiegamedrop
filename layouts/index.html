@@ -1,0 +1,152 @@
+{{ define "main" }}
+<div class="hero-section">
+  <img src="{{ "images/logo.jpg" | relURL }}" alt="IndieGameDrop" class="hero-logo">
+  <h1>IndieGameDrop</h1>
+  <p class="tagline">Finding the next big indie before everyone else</p>
+  <a href="https://x.com/IndieGameDrop" target="_blank" rel="noopener" class="twitter-follow-btn">
+    𝕏 Follow @IndieGameDrop
+  </a>
+</div>
+
+<!-- This Week in Numbers -->
+{{ partial "stats-bar.html" . }}
+
+<!-- Today's Fastest Rising (hidden when empty) -->
+<div id="rising-section" style="display:none">
+  <div class="section-header">
+    <h2>Today's Fastest Rising</h2>
+    <a href="{{ "rising/" | relURL }}">View all &rarr;</a>
+  </div>
+  <div class="game-grid" id="rising-preview"></div>
+</div>
+
+<!-- Hidden Gem of the Day -->
+<div class="section-header">
+  <h2>Hidden Gem of the Day</h2>
+  <a href="{{ "hidden-gems/" | relURL }}">View all &rarr;</a>
+</div>
+<div id="gem-of-day"></div>
+
+<!-- Just Dropped -->
+<div class="section-header">
+  <h2>Just Dropped</h2>
+  <a href="{{ "new-releases/" | relURL }}">View all &rarr;</a>
+</div>
+<div class="game-grid" id="new-releases-preview"></div>
+
+<!-- Latest Articles -->
+<div class="section-header">
+  <h2>Latest Articles</h2>
+</div>
+<div id="latest-articles">
+  {{ range first 3 ((where .Site.RegularPages "Type" "posts").ByDate.Reverse) }}
+  <article style="margin-bottom: 1.5rem; padding: 1rem; background: var(--igdrop-card-bg); border: 1px solid var(--igdrop-border); border-radius: 8px;">
+    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    <p style="color: var(--igdrop-muted); font-size: 0.9rem;">{{ .Date.Format "2 January 2006" }}</p>
+    <p>{{ .Plain | truncate 300 }}</p>
+  </article>
+  {{ end }}
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const baseURL = '{{ "" | relURL }}';
+
+  // Load rising games — only show section if there's data
+  fetch(baseURL + 'data/rising.json')
+    .then(r => r.json())
+    .then(games => {
+      if (games.length > 0) {
+        const section = document.getElementById('rising-section');
+        const container = document.getElementById('rising-preview');
+        section.style.display = 'block';
+        games.slice(0, 3).forEach(game => {
+          container.innerHTML += buildGameCard(game, baseURL);
+        });
+      }
+    })
+    .catch(() => {});
+
+  // Load gem of the day
+  fetch(baseURL + 'data/gems.json')
+    .then(r => r.json())
+    .then(gems => {
+      const container = document.getElementById('gem-of-day');
+      if (gems.length > 0) {
+        const gem = pickGemOfTheDay(gems);
+        container.innerHTML = `
+          <a href="${baseURL}game/?slug=${gem.slug}" class="featured-card-link">
+            <div class="featured-card">
+              <img src="${gem.header_image_url}" alt="${gem.name}" onerror="this.style.display='none'">
+              <div class="featured-content">
+                <h3>${gem.name}</h3>
+                <p>${gem.short_description || ''}</p>
+                <div class="card-meta">
+                  <span class="review-score positive">${(gem.review_percentage || 0).toFixed(0)}% positive</span>
+                  <span>${(gem.review_count || 0).toLocaleString('en-GB')} reviews</span>
+                </div>
+              </div>
+            </div>
+          </a>`;
+      } else {
+        container.innerHTML = '<div class="empty-state"><p>No hidden gems found yet.</p></div>';
+      }
+    })
+    .catch(() => {
+      document.getElementById('gem-of-day').innerHTML = '<div class="empty-state"><p>No data available.</p></div>';
+    });
+
+  // Load new releases
+  fetch(baseURL + 'data/new_releases.json')
+    .then(r => r.json())
+    .then(games => {
+      const container = document.getElementById('new-releases-preview');
+      games.slice(0, 3).forEach(game => {
+        container.innerHTML += buildGameCard(game, baseURL);
+      });
+      if (games.length === 0) {
+        container.innerHTML = '<div class="empty-state"><p>No new releases tracked yet.</p></div>';
+      }
+    })
+    .catch(() => {
+      document.getElementById('new-releases-preview').innerHTML = '<div class="empty-state"><p>No data available.</p></div>';
+    });
+});
+
+function pickGemOfTheDay(gems) {
+  const dayKey = new Date().toISOString().slice(0, 10); // UTC date keeps it consistent across visitors
+  let hash = 0;
+  for (let i = 0; i < dayKey.length; i++) {
+    hash = ((hash << 5) - hash) + dayKey.charCodeAt(i);
+    hash |= 0;
+  }
+  const index = Math.abs(hash) % gems.length;
+  return gems[index];
+}
+
+function buildGameCard(game, baseURL) {
+  const reviewPct = game.review_percentage || 0;
+  let reviewClass = 'positive';
+  if (reviewPct < 70) reviewClass = 'mixed';
+  if (reviewPct < 40) reviewClass = 'negative';
+  const price = game.price_usd === 0 ? '<span class="price-tag free">Free</span>' : `<span class="price-tag">$${(game.price_usd || 0).toFixed(2)}</span>`;
+  const genres = (game.genres || []).slice(0, 3).map(g => `<span class="tag">${g}</span>`).join('');
+
+  return `
+    <div class="game-card">
+      <a href="${baseURL}game/?slug=${game.slug}">
+        <img src="${game.header_image_url}" alt="${game.name}" loading="lazy" onerror="this.src='https://cdn.akamai.steamstatic.com/steam/apps/0/header.jpg'">
+      </a>
+      <div class="card-body">
+        <h3 class="card-title"><a href="${baseURL}game/?slug=${game.slug}">${game.name}</a></h3>
+        <div class="card-meta">
+          <span class="review-score ${reviewClass}">${reviewPct.toFixed(0)}%</span>
+          <span>${(game.review_count || 0).toLocaleString('en-GB')} reviews</span>
+          ${price}
+        </div>
+        <div class="tags">${genres}</div>
+      </div>
+    </div>`;
+}
+</script>
+{{ end }}

@@ -1,0 +1,80 @@
+{
+  "steam_app_id": 1254410,
+  "name": "破阵图(Grids of World)",
+  "slug": "破阵图grids-of-world",
+  "developer": "IncreZero Studio",
+  "publisher": "IncreZero Studio",
+  "release_date": "Apr 23, 2021",
+  "price_usd": 0.99,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG",
+    "Strategy"
+  ],
+  "tags": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG",
+    "Strategy"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Grids of World is an indie game developed by individual based on Tic-Tac-Toe principle.There are 9 strongholds in game,winning rules require players to occupy three consecutive strongholds forming a line.You can play with computer or online players to experience Team strategy and individual battle.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1254410/header.jpg?t=1619184271",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1254410/ss_c3eca73306db1c7fc1d62d8099d19a284b64a275.600x338.jpg?t=1619184271",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1254410/ss_150f35b4127e4f970f7b6dc8889b01b2552f367b.600x338.jpg?t=1619184271",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1254410/ss_2e96faa34e40c52e5ed0203a595efbeba18af2f2.600x338.jpg?t=1619184271",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1254410/ss_60201387e17d84dc3ad56bc38e0f60ebb3686382.600x338.jpg?t=1619184271",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1254410/ss_7e6f0a5402a95693f54d59bd16d7cb582e602608.600x338.jpg?t=1619184271"
+  ],
+  "detailed_description": "The game is made based on the principle of Tic-Tac-Toe.<br>In order to win, the player needs three consecutive strongholds to form a line.<br>The game is made by UE4. Players can conduct game with computer or other players online.<br><br>[Gameplay]<br>In game,There are 9 strongholds in total.<br>Attacking the stronghold requires all guard AIs to be killed. Otherwise, the attack to stronghold is invalid. <br>Once the stronghold is occupied, the stronghold will be prompted on the UI interface in the upper right corner of the player.<br>When the stronghold UI shows that the strongholds occupied by a certain team of players is three consecutive strongholds in a line,determine the team's victory.",
+  "about_the_game": "The game is made based on the principle of Tic-Tac-Toe.<br>In order to win, the player needs three consecutive strongholds to form a line.<br>The game is made by UE4. Players can conduct game with computer or other players online.<br><br>[Gameplay]<br>In game,There are 9 strongholds in total.<br>Attacking the stronghold requires all guard AIs to be killed. Otherwise, the attack to stronghold is invalid. <br>Once the stronghold is occupied, the stronghold will be prompted on the UI interface in the upper right corner of the player.<br>When the stronghold UI shows that the strongholds occupied by a certain team of players is three consecutive strongholds in a line,determine the team's victory.",
+  "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 8,
+  "review_positive": 5,
+  "review_percentage": 62.5,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 8,
+      "review_percentage": 62.5,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-24",
+      "review_count": 8,
+      "review_percentage": 62.5,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

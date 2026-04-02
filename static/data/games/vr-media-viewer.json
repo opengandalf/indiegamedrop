@@ -1,0 +1,68 @@
+{
+  "steam_app_id": 1167550,
+  "name": "VR MEDIA VIEWER",
+  "slug": "vr-media-viewer",
+  "developer": "BoninblueDesignLaboratory",
+  "publisher": "BoninblueDesignLaboratory",
+  "release_date": "Nov 24, 2019",
+  "price_usd": 6.29,
+  "genres": [
+    "Utilities"
+  ],
+  "tags": [
+    "Utilities"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "This application is a VR media viewer that can view various digital contents such as image files, audio files, 2D video files, VR video files.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167550/header.jpg?t=1768883038",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167550/ss_2bf134d6023d25f240ce9377d4ff97d0641b5a3b.600x338.jpg?t=1768883038",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167550/ss_9d1d4d8ba86abfc6e6a4d5eef68fe133593ca911.600x338.jpg?t=1768883038",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167550/ss_b7cc7e4978343e130956cf10a3779b8064906f73.600x338.jpg?t=1768883038",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167550/ss_95b537f386918992a58cc953076213f0620e20a1.600x338.jpg?t=1768883038",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167550/ss_9d80d3bb173936b39189b2a127792eaf18a558c6.600x338.jpg?t=1768883038"
+  ],
+  "detailed_description": "<p class=\"bb_paragraph\" >This application is a VR media viewer that can view various digital contents such as image files, audio files, 2D video files, VR video files. (180° screen, 360° screen, side-by-side / top-and-bottom stereoscopic support)</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Application features</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >【 File browser specialized for repeated use 】Designed with emphasis on comfort when file-browsing repeatedly, such as a home screen for immediate access to frequently used folders, favorites with editing functions, and history for accessing previously viewed folders.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >【 Easy operation and flexible media screen 】Basic functions such as play, stop, move between files (supports gaze control). Screen editing such as screen duplication, enlargement / reduction, rotation, curved screen. And switching of situations for VR media such as side-by-side / top-and-bottom, 2D screen, 180 ° screen, and 360 ° screen is easy and flexibl.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Supported media formats</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >【 Image 】JPG, JFIF, PNG, BMP, GIF (*1), WEBP (*1), MPO (*2), VRJPG (*3)</p><p class=\"bb_paragraph\" >【 Movie (*4) 】MP4, MOV, AVI, MKV, WEBM, ASF, WMV, M4V, TS, M2TS, MTS, VOB, 3GP, OGV, DIVX </p><p class=\"bb_paragraph\" >【 Sound 】MP3, WAV, AAC, FLAC, AC3, WMA, M4A, OGG, AIFF, OPUS </p><p class=\"bb_paragraph\" >【 Subtitle 】SRT</p><p class=\"bb_paragraph\" >【 Stereoscopic 】Side-by-side, Top-and-bottom</p><p class=\"bb_paragraph\" >【 Stereoscopic projection 】Equirectangular, Fisheye (Only when using 180° screen)</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >* : The maximum size of an image file that can be read is 16K (16384 * 16384 pixels).</p><p class=\"bb_paragraph\" >* : The maximum size of a video file that can be read is 8K (8192 * 8192 pixels).</p><p class=\"bb_paragraph\" >*1 : Supports animation</p><p class=\"bb_paragraph\" >*2 : Stereoscopic photo format</p><p class=\"bb_paragraph\" >*3 : Google VR180 format</p><p class=\"bb_paragraph\" >*4 : Even if the extension of the video file format is the same, there are many cases where it can be played or cannot be played depending on the conversion method. We are paying close attention to the latest video playback technology so that we can play as many videos as possible, but there are unsupported files such as new formats born in real time and videos with very large file sizes. I would appreciate your understanding. If you are worried about playing your video files, we recommend that you try the demo version before purchasing. In addition, the subtitle data stored in the file is not supported. Please use the SRT file to display the subtitles.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Also, it supports third-party decoders (LAV Filters etc.), so please try it if you can not play the video. (In that case, install the decoder yourself, then change the video API to DirectShow in the VR MEDIA VIEWER)</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >About demo vertion</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >We offer a free demo version that allows you to check whether your files can be displayed and played correctly. The demo version has a 5 minute usage limit, and there are no settings, favorites, or history retention after closing the application. Of course, those restrictions are removed in the product version.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Please note that this application has only been tested on the following devices. If you are using a device not listed below, we kindly ask that you try the demo version before considering a purchase.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >【 Tested and confirmed compatible devices 】Oculus Rift CV1, Oculus Quest, Oculus Quest 2, Meta Quest 3, HTC Vive, HTC Vive Pro, HTC Vive Pro 2, Valve Index, PICO 4, Windows MR FMVHMD1 (Fujitsu)</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" > About support for Windows Mixed Reality </h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Windows Mixed Reality headsets have been released by many companies and have not been marked for Windows Mixed Reality because they have not been confirmed to work on all models, but operated normally in environments using \"FMVHMD1 (Fujitsu)\" and \"Windows Mixed Reality for SteamVR\" (However, it does not support controller vibration).</p>",
+  "about_the_game": "<p class=\"bb_paragraph\" >This application is a VR media viewer that can view various digital contents such as image files, audio files, 2D video files, VR video files. (180° screen, 360° screen, side-by-side / top-and-bottom stereoscopic support)</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Application features</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >【 File browser specialized for repeated use 】Designed with emphasis on comfort when file-browsing repeatedly, such as a home screen for immediate access to frequently used folders, favorites with editing functions, and history for accessing previously viewed folders.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >【 Easy operation and flexible media screen 】Basic functions such as play, stop, move between files (supports gaze control). Screen editing such as screen duplication, enlargement / reduction, rotation, curved screen. And switching of situations for VR media such as side-by-side / top-and-bottom, 2D screen, 180 ° screen, and 360 ° screen is easy and flexibl.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Supported media formats</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >【 Image 】JPG, JFIF, PNG, BMP, GIF (*1), WEBP (*1), MPO (*2), VRJPG (*3)</p><p class=\"bb_paragraph\" >【 Movie (*4) 】MP4, MOV, AVI, MKV, WEBM, ASF, WMV, M4V, TS, M2TS, MTS, VOB, 3GP, OGV, DIVX </p><p class=\"bb_paragraph\" >【 Sound 】MP3, WAV, AAC, FLAC, AC3, WMA, M4A, OGG, AIFF, OPUS </p><p class=\"bb_paragraph\" >【 Subtitle 】SRT</p><p class=\"bb_paragraph\" >【 Stereoscopic 】Side-by-side, Top-and-bottom</p><p class=\"bb_paragraph\" >【 Stereoscopic projection 】Equirectangular, Fisheye (Only when using 180° screen)</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >* : The maximum size of an image file that can be read is 16K (16384 * 16384 pixels).</p><p class=\"bb_paragraph\" >* : The maximum size of a video file that can be read is 8K (8192 * 8192 pixels).</p><p class=\"bb_paragraph\" >*1 : Supports animation</p><p class=\"bb_paragraph\" >*2 : Stereoscopic photo format</p><p class=\"bb_paragraph\" >*3 : Google VR180 format</p><p class=\"bb_paragraph\" >*4 : Even if the extension of the video file format is the same, there are many cases where it can be played or cannot be played depending on the conversion method. We are paying close attention to the latest video playback technology so that we can play as many videos as possible, but there are unsupported files such as new formats born in real time and videos with very large file sizes. I would appreciate your understanding. If you are worried about playing your video files, we recommend that you try the demo version before purchasing. In addition, the subtitle data stored in the file is not supported. Please use the SRT file to display the subtitles.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Also, it supports third-party decoders (LAV Filters etc.), so please try it if you can not play the video. (In that case, install the decoder yourself, then change the video API to DirectShow in the VR MEDIA VIEWER)</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >About demo vertion</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >We offer a free demo version that allows you to check whether your files can be displayed and played correctly. The demo version has a 5 minute usage limit, and there are no settings, favorites, or history retention after closing the application. Of course, those restrictions are removed in the product version.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Please note that this application has only been tested on the following devices. If you are using a device not listed below, we kindly ask that you try the demo version before considering a purchase.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >【 Tested and confirmed compatible devices 】Oculus Rift CV1, Oculus Quest, Oculus Quest 2, Meta Quest 3, HTC Vive, HTC Vive Pro, HTC Vive Pro 2, Valve Index, PICO 4, Windows MR FMVHMD1 (Fujitsu)</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" > About support for Windows Mixed Reality </h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Windows Mixed Reality headsets have been released by many companies and have not been marked for Windows Mixed Reality because they have not been confirmed to work on all models, but operated normally in environments using \"FMVHMD1 (Fujitsu)\" and \"Windows Mixed Reality for SteamVR\" (However, it does not support controller vibration).</p>",
+  "supported_languages": "English, Japanese",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Tracked Controller Support",
+    "VR Supported"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 34,
+  "review_positive": 31,
+  "review_percentage": 91.2,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 33,
+      "review_percentage": 93.9,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-24",
+      "review_count": 34,
+      "review_percentage": 91.2,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

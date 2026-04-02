@@ -1,0 +1,65 @@
+{
+  "steam_app_id": 929270,
+  "name": "ViewTracker",
+  "slug": "viewtracker",
+  "developer": "John Kevin Corcoran",
+  "publisher": "John Kevin Corcoran",
+  "release_date": "Sep 13, 2018",
+  "price_usd": 14.99,
+  "genres": [
+    "Utilities"
+  ],
+  "tags": [
+    "Utilities"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Webcam head tracking for games",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/929270/header.jpg?t=1565220890",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/929270/ss_afe12d1e6841be2961c7f32dae3f8b12b803e2ac.600x338.jpg?t=1565220890",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/929270/ss_ef3571d325adf9a99985adbcc51ddc3bf5742f51.600x338.jpg?t=1565220890",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/929270/ss_2473613d8d84dab00cc7c77827c148e55b571afe.600x338.jpg?t=1565220890",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/929270/ss_2aaaf200cc5d3b0f919137e2c310c2c427464e66.600x338.jpg?t=1565220890",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/929270/ss_95afcba07b25ac3c2cee4943c4403b4d5a3e845a.600x338.jpg?t=1565220890"
+  ],
+  "detailed_description": "ViewTracker is a gaming utility that turns your webcam into a head tracking controller. Simply launch any supported game while ViewTracker is running and begin using the position of your head to change your view in-game. Enjoy stable and responsive head tracking with no hardware requirement other than a supported webcam.<br><br>Gamers have been using head tracking for years and many find it indispensable. It has proven to be especially suitable for simulator games such as flight sims or racing/vehicle sims. Using your head to change your view feels natural and allows you to keep your hands on the controls while looking around.<br><br>Most head tracking solutions involve devices that must be worn on your head and are either expensive or require a lot of time and effort to build yourself. ViewTracker is able to be accurate and reliable while only using a webcam. It uses recent machine learning techniques that have been adapted specifically for head tracking and works well even if you wear glasses or have objects in the background.<br><br>ViewTracker uses some of your computer’s resources to run the tracking, but care has been taken to minimize its impact on gaming performance. It doesn’t use graphics card resources and makes use of CPU resources that are often left unused when gaming on modern multi-core processors.<br><br>Most webcams should be compatible as long as they provide at least 30 FPS at at 640x480 resolution or above. It must have a 64-bit driver for Windows 10 and be DirectShow compatible.<br><br>ViewTracker requires that you are connected to the internet and logged-on to Steam in order to run.<br><br>Any game that has a head tracking option should be compatible with ViewTracker. Some games that are known to work:<br><br><ul class=\"bb_ul\"><li> Aerofly FS2<br></li><li> Assetto Corsa<br></li><li> American Truck Simulator<br></li><li> Arma II<br></li><li> Arma III<br></li><li> BeamNG.drive<br></li><li> DCS: World<br></li><li> Elite: Dangerous<br></li><li> Euro Truck Simulator 2<br></li><li> Farming Simulator 2017<br></li><li> GRID<br></li><li> IL-2 Sturmovik Battle of Stalingrad<br></li><li> Kerbal Space Program<br></li><li> Live for Speed<br></li><li> Prepar3D v4<br></li><li> Project Cars 2 (must launch in Steam VR mode)<br></li><li> Star Citizen<br></li><li> Train Simulator 2018<br></li><li> War Thunder<br></li><li> X-Plane 11</li></ul><br>This list is not complete and more games will be added when it's verified that they work.",
+  "about_the_game": "ViewTracker is a gaming utility that turns your webcam into a head tracking controller. Simply launch any supported game while ViewTracker is running and begin using the position of your head to change your view in-game. Enjoy stable and responsive head tracking with no hardware requirement other than a supported webcam.<br><br>Gamers have been using head tracking for years and many find it indispensable. It has proven to be especially suitable for simulator games such as flight sims or racing/vehicle sims. Using your head to change your view feels natural and allows you to keep your hands on the controls while looking around.<br><br>Most head tracking solutions involve devices that must be worn on your head and are either expensive or require a lot of time and effort to build yourself. ViewTracker is able to be accurate and reliable while only using a webcam. It uses recent machine learning techniques that have been adapted specifically for head tracking and works well even if you wear glasses or have objects in the background.<br><br>ViewTracker uses some of your computer’s resources to run the tracking, but care has been taken to minimize its impact on gaming performance. It doesn’t use graphics card resources and makes use of CPU resources that are often left unused when gaming on modern multi-core processors.<br><br>Most webcams should be compatible as long as they provide at least 30 FPS at at 640x480 resolution or above. It must have a 64-bit driver for Windows 10 and be DirectShow compatible.<br><br>ViewTracker requires that you are connected to the internet and logged-on to Steam in order to run.<br><br>Any game that has a head tracking option should be compatible with ViewTracker. Some games that are known to work:<br><br><ul class=\"bb_ul\"><li> Aerofly FS2<br></li><li> Assetto Corsa<br></li><li> American Truck Simulator<br></li><li> Arma II<br></li><li> Arma III<br></li><li> BeamNG.drive<br></li><li> DCS: World<br></li><li> Elite: Dangerous<br></li><li> Euro Truck Simulator 2<br></li><li> Farming Simulator 2017<br></li><li> GRID<br></li><li> IL-2 Sturmovik Battle of Stalingrad<br></li><li> Kerbal Space Program<br></li><li> Live for Speed<br></li><li> Prepar3D v4<br></li><li> Project Cars 2 (must launch in Steam VR mode)<br></li><li> Star Citizen<br></li><li> Train Simulator 2018<br></li><li> War Thunder<br></li><li> X-Plane 11</li></ul><br>This list is not complete and more games will be added when it's verified that they work.",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [],
+  "trailer_url": "",
+  "total_recommendations": 262,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 270,
+  "review_positive": 203,
+  "review_percentage": 75.2,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 263,
+      "review_percentage": 75.3,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 270,
+      "review_percentage": 75.2,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

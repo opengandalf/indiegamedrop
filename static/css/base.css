@@ -1,0 +1,32 @@
+/* ── Base: CSS variables, reset, body, typography ──────────────────────────── */
+
+:root {
+  --igdrop-bg: #0b0f1a;
+  --igdrop-card-bg: #131929;
+  --igdrop-accent: #4ecdc4;
+  --igdrop-accent-secondary: #8b5cf6;
+  --igdrop-text: #d1d5e0;
+  --igdrop-text-secondary: #8892a8;
+  --igdrop-green: #4ecdc4;
+  --igdrop-red: #f85149;
+  --igdrop-border: #1e2a40;
+  --igdrop-muted: #6b7a94;
+  --igdrop-gradient: linear-gradient(135deg, #4ecdc4 0%, #3b82f6 40%, #8b5cf6 70%, #c060d0 100%);
+  --igdrop-gradient-subtle: linear-gradient(135deg, rgba(78,205,196,0.15) 0%, rgba(59,130,246,0.15) 40%, rgba(139,92,246,0.15) 70%, rgba(192,96,208,0.15) 100%);
+}
+
+body {
+  background-color: var(--igdrop-bg) !important;
+  color: var(--igdrop-text) !important;
+}
+
+.dark {
+  --theme: var(--igdrop-bg);
+  --primary: var(--igdrop-text);
+  --secondary: var(--igdrop-muted);
+  --tertiary: var(--igdrop-card-bg);
+  --content: var(--igdrop-text);
+  --hljs-bg: var(--igdrop-card-bg);
+  --code-bg: var(--igdrop-card-bg);
+  --border: var(--igdrop-border);
+}

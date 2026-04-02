@@ -1,0 +1,68 @@
+baseURL = "https://indiegamedrop.gg/"
+googleAnalytics = "G-R1FX9VTEFL"
+languageCode = "en-gb"
+title = "IndieGameDrop"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "dark"
+  disableThemeToggle = true
+  ShowShareButtons = true
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  description = "Data-driven indie game discovery. Finding the next big indie before everyone else."
+  customCSS = ["/css/custom.css"]
+  images = ["images/logo.jpg"]
+  favicon = "/favicon.ico"
+
+[params.social]
+  twitter = "IndieGameDrop"
+
+[[params.socialIcons]]
+  name = "twitter"
+  url = "https://x.com/IndieGameDrop"
+
+[params.homeInfoParams]
+  Title = "IndieGameDrop"
+  Content = "Finding the next big indie before everyone else"
+
+[params.label]
+  text = "IndieGameDrop"
+  icon = "images/logo.jpg"
+  iconHeight = 28
+
+[menu]
+  [[menu.main]]
+    name = "🏠 Home"
+    url = "/"
+    weight = 0
+  [[menu.main]]
+    name = "📈 Rising"
+    url = "/rising/"
+    weight = 1
+  [[menu.main]]
+    name = "🆕 New Releases"
+    url = "/new-releases/"
+    weight = 2
+  [[menu.main]]
+    name = "💎 Hidden Gems"
+    url = "/hidden-gems/"
+    weight = 3
+  [[menu.main]]
+    name = "🔍 Browse"
+    url = "/browse/"
+    weight = 4
+  [[menu.main]]
+    name = "📝 Articles"
+    url = "/articles/"
+    weight = 5
+  [[menu.main]]
+    name = "ℹ️ About"
+    url = "/about/"
+    weight = 7
+
+[taxonomies]
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS"]

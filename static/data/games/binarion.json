@@ -1,0 +1,68 @@
+{
+  "steam_app_id": 2276340,
+  "name": "Binarion",
+  "slug": "binarion",
+  "developer": "Radivoj Radivojevic",
+  "publisher": "Radivoj Radivojevic",
+  "release_date": "Mar 24, 2023",
+  "price_usd": 1.99,
+  "genres": [
+    "Casual"
+  ],
+  "tags": [
+    "Casual"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Improve your intellect with this unique puzzle game where you solve delta grid to find two binary prime factors from a given multiplication product.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276340/header.jpg?t=1679645443",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276340/ss_951ce8c15fc1bc98a8073af909a571b757247f83.600x338.jpg?t=1679645443",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276340/ss_798d6713c2b6fd2b3b31ee6327ad83ce9f9e0df0.600x338.jpg?t=1679645443",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276340/ss_a171c6f779db94e87bb060cea7754b633d0e1823.600x338.jpg?t=1679645443",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276340/ss_8c09068f2c4ec72686ed9b29951717bd2d27d149.600x338.jpg?t=1679645443",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2276340/ss_56ee2ac9a7d0d2af8dc5471a6dc97d0d49296af1.600x338.jpg?t=1679645443"
+  ],
+  "detailed_description": "Binarion is a mini game, a numeric puzzle with new and original concept.<br />\r\nYou are presented with delta grid in which each tile is a bit (semi-product) of the multiplication of two binary numbers.<br />\r\nBits of binary number A are the most left edge tiles of the grid, while bits of binary number B are most right edge tiles of the grid. Top is lowest bit times lowest bit.<br />\r\nYour goal is to click on most left and most right tiles to set or clear them. All inner tiles of the grid will be automatically adjusted and you do not need to click on them.<br />\r\nAs a help, on the right of the grid you see row sum pattern. The pattern tells you how many enabled bits (semi-products) need to be in particular row of the grid if the grid is to be correctly filled and reveal primes.<br />\r\nWhile the grid is wrong or unfilled, for each row you will see red number that tell you how much set bits this row is missing. If this indicator is negative, it means you have excess amount of set bits. Because factors are always primes there is always only one correct solution of entire grid, plus left to right mirror of it.",
+  "about_the_game": "Binarion is a mini game, a numeric puzzle with new and original concept.<br />\r\nYou are presented with delta grid in which each tile is a bit (semi-product) of the multiplication of two binary numbers.<br />\r\nBits of binary number A are the most left edge tiles of the grid, while bits of binary number B are most right edge tiles of the grid. Top is lowest bit times lowest bit.<br />\r\nYour goal is to click on most left and most right tiles to set or clear them. All inner tiles of the grid will be automatically adjusted and you do not need to click on them.<br />\r\nAs a help, on the right of the grid you see row sum pattern. The pattern tells you how many enabled bits (semi-products) need to be in particular row of the grid if the grid is to be correctly filled and reveal primes.<br />\r\nWhile the grid is wrong or unfilled, for each row you will see red number that tell you how much set bits this row is missing. If this indicator is negative, it means you have excess amount of set bits. Because factors are always primes there is always only one correct solution of entire grid, plus left to right mirror of it.",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 1,
+  "review_positive": 0,
+  "review_percentage": 0.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 1,
+      "review_percentage": 0.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "review_count": 1,
+      "review_percentage": 0.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

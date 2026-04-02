@@ -1,0 +1,166 @@
+/* ── Layout: nav, header, footer, hero, containers, wide-screen ──────────── */
+
+/* Navigation — gradient underline accent */
+.nav {
+  border-bottom: 2px solid transparent;
+  border-image: var(--igdrop-gradient) 1;
+}
+
+nav#menu a:hover {
+  color: var(--igdrop-accent) !important;
+}
+
+/* Hero Section — banner background, same width as content */
+.hero-section {
+  text-align: center;
+  padding: 4rem 1rem 3.5rem;
+  margin-bottom: 2rem;
+  border-radius: 12px;
+  position: relative;
+  overflow: hidden;
+  background: url('../images/banner.jpg') center center / cover no-repeat;
+  width: 100%;
+}
+
+.hero-section::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    rgba(11,15,26,0.3) 0%,
+    rgba(11,15,26,0.7) 60%,
+    rgba(11,15,26,0.95) 100%
+  );
+}
+
+.hero-section > * {
+  position: relative;
+  z-index: 1;
+}
+
+.hero-logo {
+  display: none;
+}
+
+.hero-section h1 {
+  font-size: 2.8rem;
+  color: #fff;
+  margin-bottom: 0.5rem;
+  font-weight: 800;
+  text-shadow: 0 2px 12px rgba(0,0,0,0.5);
+}
+
+.hero-section .tagline {
+  font-size: 1.3rem;
+  color: rgba(255,255,255,0.8);
+  text-shadow: 0 1px 8px rgba(0,0,0,0.5);
+}
+
+/* Wide screen overrides — PaperMod defaults to ~720px which is way too narrow */
+.main {
+  max-width: 1400px !important;
+  width: 95% !important;
+  margin: 0 auto !important;
+}
+
+/* Match header nav width to main content */
+.header .nav {
+  max-width: 1400px !important;
+  width: 95% !important;
+}
+
+/* Article pages: header, cover, and body all the same width */
+/* Wider than default PaperMod but still readable (~85 chars/line) */
+.post-single .post-header,
+.post-single .post-content,
+.post-single .entry-cover,
+.post-single figure,
+.post-single .post-meta,
+.post-single .post-tags,
+.post-single .paginav,
+.post-single .toc {
+  max-width: 860px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Figures/images inside articles match body width */
+.post-content figure,
+.post-content img {
+  max-width: 100%;
+}
+
+.post-content figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* But game grids inside articles can go full width */
+.post-content .game-grid,
+.post-content .data-charts-grid,
+.post-content .charts-section {
+  max-width: 100% !important;
+}
+
+/* Section Headers */
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid transparent;
+  border-image: linear-gradient(90deg, var(--igdrop-accent), transparent) 1;
+}
+
+.section-header h2 {
+  margin: 0;
+  color: #fff;
+}
+
+.section-header a {
+  color: var(--igdrop-accent);
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: color 0.2s;
+}
+
+.section-header a:hover {
+  color: var(--igdrop-accent-secondary);
+}
+
+/* Empty State */
+.empty-state {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: var(--igdrop-muted);
+}
+
+.empty-state h3 {
+  color: var(--igdrop-text);
+}
+
+/* Twitter follow button on hero */
+.twitter-follow-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 1rem;
+  padding: 0.6rem 1.4rem;
+  background: #1d9bf0;
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.95rem;
+  border-radius: 999px;
+  text-decoration: none;
+  transition: background 0.2s ease, transform 0.15s ease, box-shadow 0.2s ease;
+  box-shadow: 0 2px 12px rgba(29, 155, 240, 0.3);
+}
+.twitter-follow-btn:hover {
+  background: #1a8cd8;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 20px rgba(29, 155, 240, 0.45);
+  text-decoration: none;
+  color: #fff;
+}

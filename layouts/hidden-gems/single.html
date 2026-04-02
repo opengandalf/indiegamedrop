@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{ partial "game-grid-page.html" (dict
+  "Title" .Title
+  "Description" "Games with 90%+ positive reviews but fewer than 1,000 total reviews. Quality games that deserve more attention."
+  "DataURL" "data/gems.json"
+  "GridID" "gems-grid"
+  "DefaultSort" "gem_score"
+  "SortOptions" (slice
+    (dict "value" "gem_score" "label" "Gem Score")
+    (dict "value" "review_percentage" "label" "Review %")
+    (dict "value" "price_usd" "label" "Price")
+  )
+  "EmptyTitle" "No hidden gems found yet"
+  "EmptyDesc" "Check back once data starts flowing."
+  "IncludeSparkline" false
+) }}
+{{ end }}

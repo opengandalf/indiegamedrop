@@ -1,0 +1,78 @@
+{
+  "steam_app_id": 304970,
+  "name": "SolidFace Parametric CAD Modeler 2D/3D",
+  "slug": "solidface-parametric-cad-modeler-2d3d",
+  "developer": "SolidFace Technology Inc., Oscar L.",
+  "publisher": "SolidFace Technology Inc.",
+  "release_date": "Dec 22, 2014",
+  "price_usd": 0.0,
+  "genres": [
+    "Animation & Modeling",
+    "Design & Illustration",
+    "Utilities"
+  ],
+  "tags": [
+    "Animation & Modeling",
+    "Design & Illustration",
+    "Utilities"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "SolidFace is a 2D/3D parametric historic constructive CAD modeler. In addition to 3D modeling, it allows project creation entirely in 2D, such as mechanical parts, civilian plants, layouts, etc. Solidface is a sum of Parasolid ® Siemens 3D modeler core and 15 years of 2D/3D CAD development resulting in a product with powerful...",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304970/header.jpg?t=1447362085",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304970/ss_12edd3c26a0b04fd6c5c2500462aca9c848ced75.600x338.jpg?t=1447362085",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304970/ss_cd9c1af77f2e6aa114435cfdf0ffab5f53fc44a1.600x338.jpg?t=1447362085",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304970/ss_d7dde6faac414804e5945930b5633bc5313ca89e.600x338.jpg?t=1447362085",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304970/ss_e7b35e149ebffce9a87215552a23075e856ab933.600x338.jpg?t=1447362085",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304970/ss_ab87f6efeddd7c29ac249397b8e4b8352147f76a.600x338.jpg?t=1447362085"
+  ],
+  "detailed_description": "<h2 class=\"bb_tag\" >Part module</h2>SolidFace Sketch automatically creates parametric reference for modeling features that can be edited in a very simple and interactive way. This is an in-house developed module and fully integrated with the 3D module.<br><br>SolidFace allows multiple bodies creation. A powerful tool helps in the development of dependent parts from a single part file.<br><br>The parameterization allows not only an easy model editing, but also parts family creation that is an important issue in automating creation of variant models with the same constructive basis, such as fasteners, automotive, hydraulic and civil components. From a parametric part you can automatically generate dozens of others parts through parameters association, such as thickness, length, number and diameter of holes, color, material, information, text, etc.<h2 class=\"bb_tag\" >Assembly module</h2>Easy, accurate and effective, this module enables you to build assemblies using modeled parts and sub-assemblies. The automatic link between the modules facilitates the manipulation of assembly parts, thus any editing on a part or assembly, results in an automatic change in the assembly that references this component.<br><br>You can build assemblies by inserting components created outside the assembly document; this is known as bottom-up assembling or if you need to construct a component that needs dimension references of some assembly components, you can create it, within the Assembly module. This operation is called in-context or top-down part creation.<br><br>To facilitate the assembly process, the part elements can be enabled or disabled at any time without interfering the process of inserting (bottom-up) or creating (top-down) new components.<h2 class=\"bb_tag\" >Drawing module</h2>Besides the 2D draft capabilities explained in the SolidFace drawing product, you can also insert parts and assemblies into the drawing module in order to generate automatic orthographic, sections and details views. These views and dimensional annotations are created according to DIN and ANSI norms. Personalized by the designer. The 3D models views can be displayed in several model styles. The sections or details views are automatically created and aligned with the base view.<br><br>Another advantage of the automatic link between the modules is the ability to copy and paste 2D geometric entities to the 3D Sketch module in order to use it as reference geometry to 3D features operations like extrude, revolve, etc.<h2 class=\"bb_tag\" >Exploded view</h2>An exploded view is a diagram, picture or technical drawing of an object, that shows the relationship or order of assembly of various parts. This allows the components (parts and sub-assemblies) to be visualized with defined displacements. The exploded view can be enabled or disabled at any time of the project creation.<h2 class=\"bb_tag\" >3D Direct modeling</h2>Interact directly with the geometry of the model. Manipulate it by pushing, pulling, or twisting.<br><br>Keeping the steps that create the final model, direct modelling allows the features geometry to be parametric modified by editing the feature used to create the new faces.<h2 class=\"bb_tag\" >2D/3D Movement simulation</h2>One of the many capabilities of logical conditions is to enable the system to detect the collision of components assembly. The collision or the simulation process can be aborted and analyzed at any time. This makes possible not just a simple mechanism video demonstration but also a real-time movement simulation.<br><br>The parameterization capability is one of the greatest advantages of SolidFace and it is present in all design steps. 3D Motion simulation is no different; the simulation is updated simultaneously with the movement. Another important capability is the simulation of 2D mechanisms, which can be performed either in 2D drawing or in 3D sketch module.<h2 class=\"bb_tag\" >Product specification</h2><ul class=\"bb_ul\"><li>Part module;<br></li><li>Sketch module;<br></li><li>Assembly module;<br></li><li>Drawing module;<br></li><li>Exploded view;<br></li><li>Communication with other applications through the Windows ® clipboard (Clipboard);<br></li><li>Communication with other CAD software via standard X_T®, X_B®, DWG®, DXF®, BMP, etc;<br></li><li>3D history construction tree and direct command editing;<br></li><li>Associative dimensioning and fully adapted to a number of standards;<br></li><li>Geometric operations and editing through direct entity or feature tree selection;<br></li><li>Parametric and associative geometric construction references such as midpoint, center of arcs and circles, endpoint, etc;<br></li><li>Creation of complex geometries such as cams, gears etc;<br></li><li>3D features construction such as Extrude, Revolve, Loft, Sweep, etc;<br></li><li>3D family of parts creation using CSV (Excel files association) or TXT table files;<br></li><li>Configurable toolbars;<br></li><li>Possibility of managing multiple projects simultaneously (multiple instances);<br></li><li>The graphics screen can be divided up to 16 view windows, allowing the visualization of several project details;<br></li><li>Print Preview;<br></li><li>3D and PDF® printing compatibility;<br></li><li>Local and global variables;<br></li><li>Definition of parametric variables via commands, questions, or variable tables;<br></li><li>Logical conditions If-then-else;<br></li><li>Parametric generation of bill of materials with associative link with Excel ® and Access ®;</li></ul>",
+  "about_the_game": "<h2 class=\"bb_tag\" >Part module</h2>SolidFace Sketch automatically creates parametric reference for modeling features that can be edited in a very simple and interactive way. This is an in-house developed module and fully integrated with the 3D module.<br><br>SolidFace allows multiple bodies creation. A powerful tool helps in the development of dependent parts from a single part file.<br><br>The parameterization allows not only an easy model editing, but also parts family creation that is an important issue in automating creation of variant models with the same constructive basis, such as fasteners, automotive, hydraulic and civil components. From a parametric part you can automatically generate dozens of others parts through parameters association, such as thickness, length, number and diameter of holes, color, material, information, text, etc.<h2 class=\"bb_tag\" >Assembly module</h2>Easy, accurate and effective, this module enables you to build assemblies using modeled parts and sub-assemblies. The automatic link between the modules facilitates the manipulation of assembly parts, thus any editing on a part or assembly, results in an automatic change in the assembly that references this component.<br><br>You can build assemblies by inserting components created outside the assembly document; this is known as bottom-up assembling or if you need to construct a component that needs dimension references of some assembly components, you can create it, within the Assembly module. This operation is called in-context or top-down part creation.<br><br>To facilitate the assembly process, the part elements can be enabled or disabled at any time without interfering the process of inserting (bottom-up) or creating (top-down) new components.<h2 class=\"bb_tag\" >Drawing module</h2>Besides the 2D draft capabilities explained in the SolidFace drawing product, you can also insert parts and assemblies into the drawing module in order to generate automatic orthographic, sections and details views. These views and dimensional annotations are created according to DIN and ANSI norms. Personalized by the designer. The 3D models views can be displayed in several model styles. The sections or details views are automatically created and aligned with the base view.<br><br>Another advantage of the automatic link between the modules is the ability to copy and paste 2D geometric entities to the 3D Sketch module in order to use it as reference geometry to 3D features operations like extrude, revolve, etc.<h2 class=\"bb_tag\" >Exploded view</h2>An exploded view is a diagram, picture or technical drawing of an object, that shows the relationship or order of assembly of various parts. This allows the components (parts and sub-assemblies) to be visualized with defined displacements. The exploded view can be enabled or disabled at any time of the project creation.<h2 class=\"bb_tag\" >3D Direct modeling</h2>Interact directly with the geometry of the model. Manipulate it by pushing, pulling, or twisting.<br><br>Keeping the steps that create the final model, direct modelling allows the features geometry to be parametric modified by editing the feature used to create the new faces.<h2 class=\"bb_tag\" >2D/3D Movement simulation</h2>One of the many capabilities of logical conditions is to enable the system to detect the collision of components assembly. The collision or the simulation process can be aborted and analyzed at any time. This makes possible not just a simple mechanism video demonstration but also a real-time movement simulation.<br><br>The parameterization capability is one of the greatest advantages of SolidFace and it is present in all design steps. 3D Motion simulation is no different; the simulation is updated simultaneously with the movement. Another important capability is the simulation of 2D mechanisms, which can be performed either in 2D drawing or in 3D sketch module.<h2 class=\"bb_tag\" >Product specification</h2><ul class=\"bb_ul\"><li>Part module;<br></li><li>Sketch module;<br></li><li>Assembly module;<br></li><li>Drawing module;<br></li><li>Exploded view;<br></li><li>Communication with other applications through the Windows ® clipboard (Clipboard);<br></li><li>Communication with other CAD software via standard X_T®, X_B®, DWG®, DXF®, BMP, etc;<br></li><li>3D history construction tree and direct command editing;<br></li><li>Associative dimensioning and fully adapted to a number of standards;<br></li><li>Geometric operations and editing through direct entity or feature tree selection;<br></li><li>Parametric and associative geometric construction references such as midpoint, center of arcs and circles, endpoint, etc;<br></li><li>Creation of complex geometries such as cams, gears etc;<br></li><li>3D features construction such as Extrude, Revolve, Loft, Sweep, etc;<br></li><li>3D family of parts creation using CSV (Excel files association) or TXT table files;<br></li><li>Configurable toolbars;<br></li><li>Possibility of managing multiple projects simultaneously (multiple instances);<br></li><li>The graphics screen can be divided up to 16 view windows, allowing the visualization of several project details;<br></li><li>Print Preview;<br></li><li>3D and PDF® printing compatibility;<br></li><li>Local and global variables;<br></li><li>Definition of parametric variables via commands, questions, or variable tables;<br></li><li>Logical conditions If-then-else;<br></li><li>Parametric generation of bill of materials with associative link with Excel ® and Access ®;</li></ul>",
+  "supported_languages": "English<strong>*</strong>, Portuguese - Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 1,
+  "review_positive": 1,
+  "review_percentage": 100.0,
+  "owner_estimate": 10000,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 1,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-22",
+      "review_count": 1,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "review_count": 1,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

@@ -1,0 +1,75 @@
+{
+  "steam_app_id": 1219070,
+  "name": "HexiHashi",
+  "slug": "hexihashi",
+  "developer": "NCC Moore, Steve McRae",
+  "publisher": "Devonian Interactive",
+  "release_date": "Jan 19, 2021",
+  "price_usd": 1.99,
+  "genres": [
+    "Casual",
+    "Indie"
+  ],
+  "tags": [
+    "Casual",
+    "Indie"
+  ],
+  "platforms": [
+    "windows",
+    "mac",
+    "linux"
+  ],
+  "short_description": "A minimalistic puzzle game with beautiful piano music. Solve puzzles by placing light bridges between nodes on a triangular grid.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219070/header.jpg?t=1611055102",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219070/ss_8a15c86ea50b539ee2c9121762d9387711d1439d.600x338.jpg?t=1611055102",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219070/ss_c4188f797e33b6cc9d55910d589a7f1ce323f338.600x338.jpg?t=1611055102",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219070/ss_68a2e3f6dc7ba82b37701f7ebf7fdfe8ca34aaff.600x338.jpg?t=1611055102",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219070/ss_663cb333401489f2980dbdc954c975df5f073374.600x338.jpg?t=1611055102",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219070/ss_17cdc2aeb6948303607198b3bd178f1f855c8202.600x338.jpg?t=1611055102"
+  ],
+  "detailed_description": "HexiHashi is a minimalistic puzzle game based on the classic puzzle \"Hashiwokakero.\"   You are presented with a field of nodes, each having a number.  Nodes may be connected to each other along gridlines with either single or double bridges.  A puzzle is complete when all nodes are connected, and the number of bridges connected to each node is equal to the number indicated on that node.  HexiHashi is a fresh and original take on this classic puzzle.  <br />\r\n<br />\r\nWhereas classic Hashi is played on a rectangular grid, HexiHashi is played on a triangular grid.  A game of classic Hashi can be solved nearly completely using deductive reasoning, with normally only one or two moves per game requiring an intuitive guess.  In HexiHashi, because each node has six possible connections instead of four, pure deduction will normally solve less than 10% of a puzzle (even small ones).  As a result, gameplay focuses more on inuitive heuristics, testing hypotheses, backtracking, and tweaking of solutions.  One puzzle in HexiHashi may have more than one acceptable solution, but our puzzle generation algorithm guarantees that every puzzle is solvable.  <br />\r\n<br />\r\nFeatures: <br />\r\n- Beautiful piano score by the inimitable Steve McRae<br />\r\n- Dynamic sound effects which harmonize with the background music<br />\r\n- Puzzle Generation Algorithm providing endless replayability<br />\r\n- Time Attack, Move Master, and Endless modes<br />\r\n- Cool-looking Hint system<br />\r\n- Levelling System <br />\r\n<br />\r\nHexiHashi will scratch the puzzle-itch of any avid puzzler.  Buy it for yourself! Buy it for a friend!  Buy it for a friend's dog!  Buy two copies!  C'mon, it's only three bucks. (American).",
+  "about_the_game": "HexiHashi is a minimalistic puzzle game based on the classic puzzle \"Hashiwokakero.\"   You are presented with a field of nodes, each having a number.  Nodes may be connected to each other along gridlines with either single or double bridges.  A puzzle is complete when all nodes are connected, and the number of bridges connected to each node is equal to the number indicated on that node.  HexiHashi is a fresh and original take on this classic puzzle.  <br />\r\n<br />\r\nWhereas classic Hashi is played on a rectangular grid, HexiHashi is played on a triangular grid.  A game of classic Hashi can be solved nearly completely using deductive reasoning, with normally only one or two moves per game requiring an intuitive guess.  In HexiHashi, because each node has six possible connections instead of four, pure deduction will normally solve less than 10% of a puzzle (even small ones).  As a result, gameplay focuses more on inuitive heuristics, testing hypotheses, backtracking, and tweaking of solutions.  One puzzle in HexiHashi may have more than one acceptable solution, but our puzzle generation algorithm guarantees that every puzzle is solvable.  <br />\r\n<br />\r\nFeatures: <br />\r\n- Beautiful piano score by the inimitable Steve McRae<br />\r\n- Dynamic sound effects which harmonize with the background music<br />\r\n- Puzzle Generation Algorithm providing endless replayability<br />\r\n- Time Attack, Move Master, and Endless modes<br />\r\n- Cool-looking Hint system<br />\r\n- Levelling System <br />\r\n<br />\r\nHexiHashi will scratch the puzzle-itch of any avid puzzler.  Buy it for yourself! Buy it for a friend!  Buy it for a friend's dog!  Buy two copies!  C'mon, it's only three bucks. (American).",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Stats",
+    "Steam Leaderboards",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 18,
+  "review_positive": 14,
+  "review_percentage": 77.8,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 18,
+      "review_percentage": 77.8,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-24",
+      "review_count": 18,
+      "review_percentage": 77.8,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

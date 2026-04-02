@@ -1,0 +1,71 @@
+{
+  "steam_app_id": 2146050,
+  "name": "Savage Turret",
+  "slug": "savage-turret",
+  "developer": "Yurii Selinnyi",
+  "publisher": "Yurii Selinnyi",
+  "release_date": "Sep 22, 2023",
+  "price_usd": 10.0,
+  "genres": [
+    "Strategy",
+    "Early Access"
+  ],
+  "tags": [
+    "Strategy",
+    "Early Access"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "A short adventure into a world of alternative render pipelines & custom shaders. Expect driving, flying, shooting, and tower defence.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2146050/header.jpg?t=1735664018",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2146050/ss_83f53c259b4133dc2b5cce160cb2f14e2665a6f4.600x338.jpg?t=1735664018",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2146050/ss_57a80fd3050a76bb8f42e26470b42f5169c14e7d.600x338.jpg?t=1735664018",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2146050/ss_cd400ce05c405688efa9bc4c8e153f5dd4fad30e.600x338.jpg?t=1735664018",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2146050/ss_702f3ffd6011ef5edad4882a398465b77398d350.600x338.jpg?t=1735664018",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2146050/ss_b9ed83579a8ac778b7fcc822cf3e61a82adfcb60.600x338.jpg?t=1735664018",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2146050/ss_e935e35441e9b5f8933984fc6b3322b47f93bdb9.600x338.jpg?t=1735664018"
+  ],
+  "detailed_description": "Expect a short demo-like gameplay section featuring driving, first-person combat and tower defence.<br>No loading screens, Content is loading and light are baked as you go. <br>The shaders are the distinctive feature of this project. Custom baked light, TopDown (2D) dynamic lights, traced primitive reflections (cubes and spheres).<br><br>No fail state yet: infinite ammo, infinite resources, no damage from enemies (they still attack you though) and the tower base can't be destroyed. There are also no guardrails or map markers to keep players on the right track. But it is kind of fun that way)<br>Yet, progression triggers, checkpoints and save systems are functional. <br>The game in its current state can take 15 minutes to finish. You'll be treated with a final title screen, signifying that you have already experienced all it has to offer.<br> <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2146050/extras/7e1811c60f848aa919b24da17cc67bc3.avif?t=1735664018\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2146050/extras_big/7e1811c60f848aa919b24da17cc67bc3.avif?t=1735664018 width=800 height=356 /></span><br><br>While the demo is short, it doesn't have placeholder or \"vertical slice\" scripts. All systems are scalable - more similar content can easily be added using the existing architecture.",
+  "about_the_game": "Expect a short demo-like gameplay section featuring driving, first-person combat and tower defence.<br>No loading screens, Content is loading and light are baked as you go. <br>The shaders are the distinctive feature of this project. Custom baked light, TopDown (2D) dynamic lights, traced primitive reflections (cubes and spheres).<br><br>No fail state yet: infinite ammo, infinite resources, no damage from enemies (they still attack you though) and the tower base can't be destroyed. There are also no guardrails or map markers to keep players on the right track. But it is kind of fun that way)<br>Yet, progression triggers, checkpoints and save systems are functional. <br>The game in its current state can take 15 minutes to finish. You'll be treated with a final title screen, signifying that you have already experienced all it has to offer.<br> <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2146050/extras/7e1811c60f848aa919b24da17cc67bc3.avif?t=1735664018\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2146050/extras_big/7e1811c60f848aa919b24da17cc67bc3.avif?t=1735664018 width=800 height=356 /></span><br><br>While the demo is short, it doesn't have placeholder or \"vertical slice\" scripts. All systems are scalable - more similar content can easily be added using the existing architecture.",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 2,
+  "review_positive": 2,
+  "review_percentage": 100.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 2,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "review_count": 2,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

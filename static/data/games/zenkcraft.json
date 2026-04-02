@@ -1,0 +1,70 @@
+{
+  "steam_app_id": 2098510,
+  "name": "Zenkcraft",
+  "slug": "zenkcraft",
+  "developer": "Gas Lantern Games",
+  "publisher": "Gas Lantern Games",
+  "release_date": "Aug 12, 2022",
+  "price_usd": 2.99,
+  "genres": [
+    "Utilities"
+  ],
+  "tags": [
+    "Utilities"
+  ],
+  "platforms": [
+    "windows",
+    "linux"
+  ],
+  "short_description": "Zenkcraft is a modern spellcraft templating program that offers both a Legacy and Remastered version. Zenkcraft was originally made back in March of 2019 and previously existed as a free to download software but I have made tons of updates and enhancements with the feedback received.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2098510/header.jpg?t=1752361517",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2098510/ss_8c1293dde983f413d6b67e6acced48d05ff60d16.600x338.jpg?t=1752361517",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2098510/ss_60608e6c96355090f556e4d714f074f4eb925799.600x338.jpg?t=1752361517",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2098510/ss_6bd2b0c834e9a7cd9ed090d7c8ccae6e9e680724.600x338.jpg?t=1752361517",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2098510/ss_96b80b3dc76fbf438fdf23531e1d1932443fee9c.600x338.jpg?t=1752361517",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2098510/ss_09ad4687bb14ebe70ed1ca967a2fe7aba08825cf.600x338.jpg?t=1752361517",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2098510/ss_08b421c8f642cf9643651a0e2aa6f592e1a52bd4.600x338.jpg?t=1752361517",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2098510/ss_fbb59945eb622e88e81653e56a32223651d32667.600x338.jpg?t=1752361517",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2098510/ss_7972ab544c944ef095d74fa962ba6a53c4b85490.600x338.jpg?t=1752361517",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2098510/ss_58dcd787af2b1fc6a9b2e6527cfb9d042682e31f.600x338.jpg?t=1752361517"
+  ],
+  "detailed_description": "<p class=\"bb_paragraph\" >Zenkcraft is a modern spellcraft templating program for MMORPG's. Zenkcraft was originally made back in March of 2019 and previously existed as a free to download software, but the application has been rebuilt from the ground up adding many customizations and enhancements. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Zenkcraft allows you to completely customize your character's template to see all skills, stats, resists, and all other info in a comprehensive and interactive program. Easily add items to your template from several different methods and build your report for a spellcrafter to use. Several features such as Auto Template allow Zenkcraft to calculate and complete your template for you, with many other features such as the powerful ROGify tool. All changes are kept in the patch notes.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><u><strong>Core Zenkcraft Features</strong></u></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Modern, interactive Spellcrafting tool with a very user-friendly UI that is tuned to all the settings of the Eden server.</p></li><li><p class=\"bb_paragraph\" >All expected functionality such as exporting/importing, template guidance, and a variety of settings.</p></li><li><p class=\"bb_paragraph\" >Ability to add items directly from DAoC into Zenkcraft by delving an item with shift+i. Includes all stats, procs/changes, quality, etc.</p></li><li><p class=\"bb_paragraph\" >Add Spellcrafting gems directly into DAoC with a very easy interface.</p></li><li><p class=\"bb_paragraph\" >Upload and download templates from a public online database with a few clicks, showing all kinds of information.</p></li><li><p class=\"bb_paragraph\" >Full screen and windowed mode available as well as adjustable resolution.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><u><strong>Recent Updates:</strong></u></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Completed transition to a modern version of the Unity Engine. This will improve overall performance and stability.</p></li><li><p class=\"bb_paragraph\" >Added a Vault feature to store items between templates (See Vault Tab).</p></li><li><p class=\"bb_paragraph\" >Made Zenkcraft server selectable so that you can use different settings, templates, and vault items based on your selected server.</p></li><li><p class=\"bb_paragraph\" >ToA classes and information has been added to make Zenkcraft compatible with ToA servers.</p></li><li><p class=\"bb_paragraph\" >Added a Properties Tab to track armor/weapon types, speed, and other information. This was a necessity in order to finish development of the Vault.</p></li><li><p class=\"bb_paragraph\" >Changed save directory to the \"My Documents\" folder as opposed to the Zenkcraft directory (in addition to Vault items). This means you can delete Zenkcraft and add a new version, with all templates and Vault items being retained.</p></li><li><p class=\"bb_paragraph\" >Several changes to Zenkcraft to align with the Eden server.</p></li><li><p class=\"bb_paragraph\" >Several performance enhancements across multiple functionalities (I'm a better programmer than I was 3 years ago).</p></li><li><p class=\"bb_paragraph\" >Completion of Auto Template.</p></li><li><p class=\"bb_paragraph\" >Added ROGify, which uses items in the Vault to build a template. There is a lot of information on this in Zenkcraft and this is a very powerful tool, so please check out the Notes and ROGify tabs within Zenkcraft for more info.</p></li><li><p class=\"bb_paragraph\" >Added the Spellcrafting Gem reagents (material cost) for all gems and added the info to the Spellcrafting report.</p></li></ul>",
+  "about_the_game": "<p class=\"bb_paragraph\" >Zenkcraft is a modern spellcraft templating program for MMORPG's. Zenkcraft was originally made back in March of 2019 and previously existed as a free to download software, but the application has been rebuilt from the ground up adding many customizations and enhancements. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Zenkcraft allows you to completely customize your character's template to see all skills, stats, resists, and all other info in a comprehensive and interactive program. Easily add items to your template from several different methods and build your report for a spellcrafter to use. Several features such as Auto Template allow Zenkcraft to calculate and complete your template for you, with many other features such as the powerful ROGify tool. All changes are kept in the patch notes.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><u><strong>Core Zenkcraft Features</strong></u></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Modern, interactive Spellcrafting tool with a very user-friendly UI that is tuned to all the settings of the Eden server.</p></li><li><p class=\"bb_paragraph\" >All expected functionality such as exporting/importing, template guidance, and a variety of settings.</p></li><li><p class=\"bb_paragraph\" >Ability to add items directly from DAoC into Zenkcraft by delving an item with shift+i. Includes all stats, procs/changes, quality, etc.</p></li><li><p class=\"bb_paragraph\" >Add Spellcrafting gems directly into DAoC with a very easy interface.</p></li><li><p class=\"bb_paragraph\" >Upload and download templates from a public online database with a few clicks, showing all kinds of information.</p></li><li><p class=\"bb_paragraph\" >Full screen and windowed mode available as well as adjustable resolution.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><u><strong>Recent Updates:</strong></u></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Completed transition to a modern version of the Unity Engine. This will improve overall performance and stability.</p></li><li><p class=\"bb_paragraph\" >Added a Vault feature to store items between templates (See Vault Tab).</p></li><li><p class=\"bb_paragraph\" >Made Zenkcraft server selectable so that you can use different settings, templates, and vault items based on your selected server.</p></li><li><p class=\"bb_paragraph\" >ToA classes and information has been added to make Zenkcraft compatible with ToA servers.</p></li><li><p class=\"bb_paragraph\" >Added a Properties Tab to track armor/weapon types, speed, and other information. This was a necessity in order to finish development of the Vault.</p></li><li><p class=\"bb_paragraph\" >Changed save directory to the \"My Documents\" folder as opposed to the Zenkcraft directory (in addition to Vault items). This means you can delete Zenkcraft and add a new version, with all templates and Vault items being retained.</p></li><li><p class=\"bb_paragraph\" >Several changes to Zenkcraft to align with the Eden server.</p></li><li><p class=\"bb_paragraph\" >Several performance enhancements across multiple functionalities (I'm a better programmer than I was 3 years ago).</p></li><li><p class=\"bb_paragraph\" >Completion of Auto Template.</p></li><li><p class=\"bb_paragraph\" >Added ROGify, which uses items in the Vault to build a template. There is a lot of information on this in Zenkcraft and this is a very powerful tool, so please check out the Notes and ROGify tabs within Zenkcraft for more info.</p></li><li><p class=\"bb_paragraph\" >Added the Spellcrafting Gem reagents (material cost) for all gems and added the info to the Spellcrafting report.</p></li></ul>",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 118,
+  "review_positive": 113,
+  "review_percentage": 95.8,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 99,
+      "review_percentage": 96.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "review_count": 118,
+      "review_percentage": 95.8,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

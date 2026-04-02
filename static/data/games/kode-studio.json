@@ -1,0 +1,74 @@
+{
+  "steam_app_id": 779260,
+  "name": "Kode Studio",
+  "slug": "kode-studio",
+  "developer": "Robert Konrad",
+  "publisher": "Robert Konrad",
+  "release_date": "May 1, 2018",
+  "price_usd": 0.0,
+  "genres": [
+    "Utilities"
+  ],
+  "tags": [
+    "Utilities"
+  ],
+  "platforms": [
+    "windows",
+    "mac",
+    "linux"
+  ],
+  "short_description": "Use the Kha framework to develop super-portable high performance games in the Haxe programming language (similar to Java or C#) and GLSL. Export to HTML5 or create native binaries for all common systems. Kode Studio bundles all required functionality in one easy to use all-in-one IDE.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/779260/header.jpg?t=1542310832",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/779260/ss_c3d0b54f0bb873eab957232843bb5ce488340f05.600x338.jpg?t=1542310832",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/779260/ss_4bac231ae58a64d719af90f95f688d72abd412df.600x338.jpg?t=1542310832",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/779260/ss_89d5c246081d8a7ccd8af825a3044669b28b6bc0.600x338.jpg?t=1542310832",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/779260/ss_5203c97d442b17d593161980d3a36fb2c9d0c2df.600x338.jpg?t=1542310832",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/779260/ss_e0921f4d13905ffd15078fd2f94333e1f3781aae.600x338.jpg?t=1542310832"
+  ],
+  "detailed_description": "Kode Studio is an all-in-one integrated development environment for portable and high performance game development and creative coding. The bundled Kha framework provides a low-level but easy to learn API on top of the Haxe programming language (similar to Java or C#) and GLSL (for shader programming). Your program can be exported to very efficient HTML5 which makes use of the latest browser features where available (WebGL 2, WebAudio,...) but falls back gracefully when run in older browsers all the way back to Internet Explorer 9. But your program can also be exported to small and efficient binaries for all currently common systems. This includes support for PlayStation 4, Xbox One and Switch (please contact us with prove of your developer status with the console manufacturers to receive the console plugins).<br />\r\nKode Studio is based on Visual Studio Code and many of its extensions can be used.",
+  "about_the_game": "Kode Studio is an all-in-one integrated development environment for portable and high performance game development and creative coding. The bundled Kha framework provides a low-level but easy to learn API on top of the Haxe programming language (similar to Java or C#) and GLSL (for shader programming). Your program can be exported to very efficient HTML5 which makes use of the latest browser features where available (WebGL 2, WebAudio,...) but falls back gracefully when run in older browsers all the way back to Internet Explorer 9. But your program can also be exported to small and efficient binaries for all currently common systems. This includes support for PlayStation 4, Xbox One and Switch (please contact us with prove of your developer status with the console manufacturers to receive the console plugins).<br />\r\nKode Studio is based on Visual Studio Code and many of its extensions can be used.",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 67,
+  "review_positive": 53,
+  "review_percentage": 79.1,
+  "owner_estimate": 10000,
+  "ccu_estimate": 2,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 55,
+      "review_percentage": 76.4,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 66,
+      "review_percentage": 78.8,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-02",
+      "review_count": 67,
+      "review_percentage": 79.1,
+      "ccu_estimate": 2,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

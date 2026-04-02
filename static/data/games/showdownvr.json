@@ -1,0 +1,84 @@
+{
+  "steam_app_id": 529940,
+  "name": "ShowdownVR",
+  "slug": "showdownvr",
+  "developer": "Frontseat Studio",
+  "publisher": "Frontseat Studio",
+  "release_date": "Sep 19, 2016",
+  "price_usd": 1.99,
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Action"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Test yourself in atmospheric battle arena by dodging attacks, scoring, earning action points with combos and using them to ultimately crush your foes with counter attacks. Enjoy the perks of slowing time, teleporting and even taking over and steering a ship in the middle of a mighty ocean!",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/header.jpg?t=1477724572",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_12c2f9b59f2d2bcc34773b852aef42def37299d6.600x338.jpg?t=1477724572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_84194c1fbfe205b638e2b19a9e444bb9269bef0e.600x338.jpg?t=1477724572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_bbc5a03ed6f4d47c74ba7a05a1f27f402104e173.600x338.jpg?t=1477724572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_dc98508187fe58704759c2fbc0d80795f27a58f5.600x338.jpg?t=1477724572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_4cae3e38beccd320f723655241ca79894b978127.600x338.jpg?t=1477724572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_e91014811fdae6e976054779548a1c9a27256852.600x338.jpg?t=1477724572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_44bf42ba5134ab1dfee92229508bd55e499a8b79.600x338.jpg?t=1477724572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_c3b73b7564d1ef3f88bc76eba6a8bb36f3d10465.600x338.jpg?t=1477724572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_cdfe11299f22af92e8208dd56144812c69bcefaa.600x338.jpg?t=1477724572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_78db77ad9278449011d798a22b33fd76f8892f0c.600x338.jpg?t=1477724572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_ab91336f2804ec2eb9bf7fa244e432df604d8009.600x338.jpg?t=1477724572"
+  ],
+  "detailed_description": "Test your limits in an atmospheric battle arena by dodging enemy projectiles, scoring points, earning action points with combos and using them to ultimately crush your foes with counter attacks. Enjoy the perks of slowing down time, teleporting around an open world, even taking over and steering a ship in the middle of a mighty ocean!<br><br>Choosing between five intensity difficulties and two playing styles offers a wide range of experience with a chance to gradually improve your skills. Compete as an individual while also representing your country and continent on the leaderboards.<br><br>ShowdownVR is shipping with some of the world’s first technologies used in VR: NVIDIA’s WaveWorks, Multi-Res Shading, Lens Matched Shading with dynamic versions of both (dynamic multires and dynamic lens matched shading), VR SLI. Everything built-in with an extended menu for full customization and benchmarking.<h2 class=\"bb_tag\" >Key features:</h2><ul class=\"bb_ul\"><li>Immersive virtual reality carnage<br></li><li>2 × 2 km wide open world battle arena<br></li><li>Five difficulty levels<br></li><li>Two game modes: The One and Dodger<br></li><li>Fully dynamic world<br></li><li>Easy to play, hard to master. Comes with manual and master sheet.<br></li><li>Leaderboards: Continent, Country, Individual<br></li><li>NVIDIA WaveWorks for real-time ocean simulation<br></li><li>NVIDIA Multi-Res Shading, Lens Matched Shading with dynamic shading options.<br></li><li>NVIDIA VR SLI<br></li><li>Benchmark</li></ul><br><i>Heavily inspired by Matrix, Quake and Doom; fast, intensive, powerful, unforgiving.</i><br><br><strong>Specific inspirations</strong><ul class=\"bb_ul\"><li>Matrix: bullet time, dodging, music style<br></li><li>Quake: arena, competitive, fast twitch / accurate combat<br></li><li>Doom: fast, intensive, bloody kills</li></ul><h2 class=\"bb_tag\" >Gameplay</h2>There is a wide variety of approaches for players to use. The goal is very simple: score the largest amount of points possible in the time given to you. By dodging plasma projectiles you gain points and combos to earn action points. These can be used for the following perks: teleporting, attack, multi-attack, slowing down time. By killing your foes you gain additional time, which enables you to score more points. Enemies can be killed by your projectiles or can get run over by a ship that you can control at any time, even when you're not on it. They can also get knocked out and drown when hit by a larger wave. When you get hit, you don't gain a point and your combo progress decreases. This makes it harder to gain action points that enable the use of player's abilities - which in return enable player to gain more points.<h2 class=\"bb_tag\" >Showdown: Virtual reality carnage</h2>Every copy of the game comes bundled with an accompanying piece of work in a form of a book \"Showdown: Virtual reality carnage\". A personalized white paper about the implementation, customization and usage of features in Unreal Engine 4 during the development of virtualy reality game ShowdownVR. It presents a strong practical case of why open source game engines are the future. You can find it in game's directory under \"Bonus content\" folder.<h2 class=\"bb_tag\" >Gameworks</h2>Quick word on using NVIDIA's tech. The exact tech specifications are available in white paper  \"Showdown: Virtual reality carnage\", released with the game. There is a very fundemental, objective reason for using these features: it's the best performing piece of code out there. It's important to remember that most problems with GM come with bad implementations. Showdown's water takes about 1ms on CPU and about as much on GPU, no matter the GPU brand! Everything is controlled by us in Unreal's source code, there is no over-tesselation or any similar bottlenecks. Multi-Res Shading, Lens Matched Shading and SLI work only on NVIDIA and are a bonus option.<br><br><br><br>Nejc L.,<br>Frontseat Studio",
+  "about_the_game": "Test your limits in an atmospheric battle arena by dodging enemy projectiles, scoring points, earning action points with combos and using them to ultimately crush your foes with counter attacks. Enjoy the perks of slowing down time, teleporting around an open world, even taking over and steering a ship in the middle of a mighty ocean!<br><br>Choosing between five intensity difficulties and two playing styles offers a wide range of experience with a chance to gradually improve your skills. Compete as an individual while also representing your country and continent on the leaderboards.<br><br>ShowdownVR is shipping with some of the world’s first technologies used in VR: NVIDIA’s WaveWorks, Multi-Res Shading, Lens Matched Shading with dynamic versions of both (dynamic multires and dynamic lens matched shading), VR SLI. Everything built-in with an extended menu for full customization and benchmarking.<h2 class=\"bb_tag\" >Key features:</h2><ul class=\"bb_ul\"><li>Immersive virtual reality carnage<br></li><li>2 × 2 km wide open world battle arena<br></li><li>Five difficulty levels<br></li><li>Two game modes: The One and Dodger<br></li><li>Fully dynamic world<br></li><li>Easy to play, hard to master. Comes with manual and master sheet.<br></li><li>Leaderboards: Continent, Country, Individual<br></li><li>NVIDIA WaveWorks for real-time ocean simulation<br></li><li>NVIDIA Multi-Res Shading, Lens Matched Shading with dynamic shading options.<br></li><li>NVIDIA VR SLI<br></li><li>Benchmark</li></ul><br><i>Heavily inspired by Matrix, Quake and Doom; fast, intensive, powerful, unforgiving.</i><br><br><strong>Specific inspirations</strong><ul class=\"bb_ul\"><li>Matrix: bullet time, dodging, music style<br></li><li>Quake: arena, competitive, fast twitch / accurate combat<br></li><li>Doom: fast, intensive, bloody kills</li></ul><h2 class=\"bb_tag\" >Gameplay</h2>There is a wide variety of approaches for players to use. The goal is very simple: score the largest amount of points possible in the time given to you. By dodging plasma projectiles you gain points and combos to earn action points. These can be used for the following perks: teleporting, attack, multi-attack, slowing down time. By killing your foes you gain additional time, which enables you to score more points. Enemies can be killed by your projectiles or can get run over by a ship that you can control at any time, even when you're not on it. They can also get knocked out and drown when hit by a larger wave. When you get hit, you don't gain a point and your combo progress decreases. This makes it harder to gain action points that enable the use of player's abilities - which in return enable player to gain more points.<h2 class=\"bb_tag\" >Showdown: Virtual reality carnage</h2>Every copy of the game comes bundled with an accompanying piece of work in a form of a book \"Showdown: Virtual reality carnage\". A personalized white paper about the implementation, customization and usage of features in Unreal Engine 4 during the development of virtualy reality game ShowdownVR. It presents a strong practical case of why open source game engines are the future. You can find it in game's directory under \"Bonus content\" folder.<h2 class=\"bb_tag\" >Gameworks</h2>Quick word on using NVIDIA's tech. The exact tech specifications are available in white paper  \"Showdown: Virtual reality carnage\", released with the game. There is a very fundemental, objective reason for using these features: it's the best performing piece of code out there. It's important to remember that most problems with GM come with bad implementations. Showdown's water takes about 1ms on CPU and about as much on GPU, no matter the GPU brand! Everything is controlled by us in Unreal's source code, there is no over-tesselation or any similar bottlenecks. Multi-Res Shading, Lens Matched Shading and SLI work only on NVIDIA and are a bonus option.<br><br><br><br>Nejc L.,<br>Frontseat Studio",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Full controller support",
+    "Tracked Controller Support",
+    "VR Only",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 8,
+  "review_positive": 5,
+  "review_percentage": 62.5,
+  "owner_estimate": 10000,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 8,
+      "review_percentage": 62.5,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 8,
+      "review_percentage": 62.5,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-30",
+      "review_count": 8,
+      "review_percentage": 62.5,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

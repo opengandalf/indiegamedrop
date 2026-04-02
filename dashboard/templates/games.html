@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% block title %}Games{% endblock %}
+
+{% block content %}
+<h2>Games Browser ({{ total }} results)</h2>
+<form class="filters" method="get">
+    <input type="text" name="q" placeholder="Search games..." value="{{ search|e }}" style="width:250px">
+    <select name="status">
+        {% for val, label in [('', 'All'), ('complete', 'Complete'), ('pending', 'Pending'), ('failed', 'Failed')] %}
+        <option value="{{ val }}" {{ 'selected' if val == status else '' }}>{{ label }}</option>
+        {% endfor %}
+    </select>
+    <button type="submit" style="background:var(--accent);color:var(--bg);border:none;padding:0.5rem 1rem;border-radius:4px;cursor:pointer;font-weight:600">Filter</button>
+</form>
+<div style="overflow-x:auto">
+<table>
+    <thead><tr><th>Name</th><th>App ID</th><th>Status</th><th>Price</th><th>Gem Score</th><th>Tier</th><th>Last Snapshot</th></tr></thead>
+    <tbody>
+    {% for r in rows %}
+    <tr>
+        <td><a href="https://store.steampowered.com/app/{{ r['steam_app_id'] }}" target="_blank">{{ r['name']|e }}</a></td>
+        <td>{{ r['steam_app_id'] }}</td>
+        <td><span class="chip {{ r['detail_status'] or 'null' }}">{{ r['detail_status'] or 'null' }}</span></td>
+        <td>{{ "$%.2f"|format(r['price']) if r['price'] else "—" }}</td>
+        <td>{{ "%.1f"|format(r['gem_score']) if r['gem_score'] else "—" }}</td>
+        <td>{{ r['refresh_tier'] or '—' }}</td>
+        <td>{{ r['last_snap'] or '—' }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</div>
+<div class="pagination">
+    {% if page_num > 1 %}
+    <a href="?page={{ page_num - 1 }}&status={{ status }}&q={{ search }}">← Prev</a>
+    {% endif %}
+    <span class="current">{{ page_num }} / {{ total_pages }}</span>
+    {% if page_num < total_pages %}
+    <a href="?page={{ page_num + 1 }}&status={{ status }}&q={{ search }}">Next →</a>
+    {% endif %}
+</div>
+{% endblock %}

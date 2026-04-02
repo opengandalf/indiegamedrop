@@ -1,0 +1,55 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<p>Unreleased indie games with the highest follower counts and growth. The ones to keep your eye on.</p>
+
+<div class="game-grid" id="watchlist-grid"></div>
+<div class="empty-state" id="empty-state" style="display:none;">
+  <h3>No upcoming games tracked yet</h3>
+  <p>Watchlist data will appear as games are tracked.</p>
+</div>
+
+<script src="{{ "js/filters.js" | relURL }}"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const baseURL = document.querySelector('script[src*="filters"]') ?
+    '{{ "" | relURL }}' : '/';
+  fetch('{{ "data/watchlist.json" | relURL }}')
+    .then(r => r.json())
+    .then(games => {
+      const container = document.getElementById('watchlist-grid');
+      const emptyState = document.getElementById('empty-state');
+      if (!games || games.length === 0) {
+        emptyState.style.display = 'block';
+        return;
+      }
+      games.forEach(game => {
+        container.innerHTML += buildWatchlistCard(game);
+      });
+    })
+    .catch(() => {
+      document.getElementById('empty-state').style.display = 'block';
+    });
+});
+
+function buildWatchlistCard(game) {
+  const baseURL = '{{ "" | relURL }}';
+  return `
+    <div class="game-card">
+      <a href="${baseURL}game/?slug=${game.slug}">
+        <img src="${game.header_image_url}" alt="${game.name}" loading="lazy"
+             onerror="this.src='https://cdn.akamai.steamstatic.com/steam/apps/0/header.jpg'">
+      </a>
+      <div class="card-body">
+        <h3 class="card-title"><a href="${baseURL}game/?slug=${game.slug}">${game.name}</a></h3>
+        <div class="card-meta">
+          <span>Expected: ${game.release_date || 'TBA'}</span>
+          <span class="change-indicator up">Hype: ${(game.hype_score || 0).toFixed(2)}</span>
+        </div>
+        <div class="tags">
+          ${(game.genres || []).slice(0, 3).map(g => `<span class="tag">${g}</span>`).join('')}
+        </div>
+      </div>
+    </div>`;
+}
+</script>
+{{ end }}

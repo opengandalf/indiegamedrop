@@ -1,0 +1,67 @@
+{
+  "steam_app_id": 868480,
+  "name": "NextFX",
+  "slug": "nextfx",
+  "developer": "Subsun LLC",
+  "publisher": "Subsun LLC",
+  "release_date": "Jul 6, 2018",
+  "price_usd": 0.0,
+  "genres": [
+    "Utilities",
+    "Early Access"
+  ],
+  "tags": [
+    "Utilities",
+    "Early Access"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Add Filters to enhance the visuals in your favorite games.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868480/header.jpg?t=1554483039",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868480/ss_2b096a116c41c5ceb8f8ad72f8d26a0fdeff748d.600x338.jpg?t=1554483039",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868480/ss_7a386d735e86d3e29a2cc7ea48199909eb44e523.600x338.jpg?t=1554483039",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868480/ss_02709daa3151381fd5b1efd77773ccd64b5a32f2.600x338.jpg?t=1554483039",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868480/ss_2e93a0d6ffc58b6cdd8dc646e9b49bf3b490e2eb.600x338.jpg?t=1554483039",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868480/ss_121004f2098e52cf0cc52f43ae1801c74fcb8e10.600x338.jpg?t=1554483039"
+  ],
+  "detailed_description": "NextFX allows users to add filters and post processing effects to enhance DirectX 11 game visuals. The tool intercepts the rendering of games and applies multiple effects specified by the user in real-time, empowering users to create customized and immersive gaming experiences. <br><br>Note: It's <strong>not recommended</strong> to use NextFX with games that implement anti-cheating software.<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li> Edit Effect Parameters in Real-Time <br></li><li> Create  and Save Multiple Effect Profiles per Game<br></li><li> Add Custom User Created Effects</li></ul><h2 class=\"bb_tag\" >How it Works:</h2><br><strong>1)</strong> Launch a DirectX 11 Steam game<br><strong>2)</strong> Launch NextFX<br><br>If the game's game's graphic API is supported, it will show up in the NextFX Window<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868480/extras/0759a20683f83a7b7026fe8966dee984.avif?t=1554483039\" width=408 height=92 /></span><br><br><strong>3)</strong> Click \"Enable\"<br><strong>4)</strong> Press CTRL+N in the game window to show NextFX Settings<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868480/extras/536b91653f5754320d08f10d9e329980.avif?t=1554483039\" width=180 height=198 /></span><br><br><strong>4)</strong> Press CTRL+N in the game window to refocus the game<br><br>Please contact us if there are any issues with a title.<br>contact: support@subsun.io",
+  "about_the_game": "NextFX allows users to add filters and post processing effects to enhance DirectX 11 game visuals. The tool intercepts the rendering of games and applies multiple effects specified by the user in real-time, empowering users to create customized and immersive gaming experiences. <br><br>Note: It's <strong>not recommended</strong> to use NextFX with games that implement anti-cheating software.<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li> Edit Effect Parameters in Real-Time <br></li><li> Create  and Save Multiple Effect Profiles per Game<br></li><li> Add Custom User Created Effects</li></ul><h2 class=\"bb_tag\" >How it Works:</h2><br><strong>1)</strong> Launch a DirectX 11 Steam game<br><strong>2)</strong> Launch NextFX<br><br>If the game's game's graphic API is supported, it will show up in the NextFX Window<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868480/extras/0759a20683f83a7b7026fe8966dee984.avif?t=1554483039\" width=408 height=92 /></span><br><br><strong>3)</strong> Click \"Enable\"<br><strong>4)</strong> Press CTRL+N in the game window to show NextFX Settings<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868480/extras/536b91653f5754320d08f10d9e329980.avif?t=1554483039\" width=180 height=198 /></span><br><br><strong>4)</strong> Press CTRL+N in the game window to refocus the game<br><br>Please contact us if there are any issues with a title.<br>contact: support@subsun.io",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 7,
+  "review_positive": 3,
+  "review_percentage": 42.9,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 7,
+      "review_percentage": 42.9,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 7,
+      "review_percentage": 42.9,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

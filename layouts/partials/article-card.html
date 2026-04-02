@@ -1,0 +1,29 @@
+{{/*
+  Article card partial.
+  Parameters: a Hugo page (.) from a range over posts.
+*/}}
+<a href="{{ .Permalink }}" class="article-card-link">
+  <article class="article-card" data-tags="{{ delimit .Params.tags "," }}">
+    {{ $coverImg := "" }}
+    {{ with .Params.cover }}{{ with .image }}{{ $coverImg = . }}{{ end }}{{ end }}
+    {{ if $coverImg }}
+      <img src="{{ $coverImg }}" alt="{{ .Title }}" loading="lazy">
+    {{ else }}
+      <div class="article-card-placeholder">
+        <span>📝</span>
+      </div>
+    {{ end }}
+    <div class="article-card-body">
+      <div class="article-card-meta">
+        <time>{{ .Date.Format "2 Jan 2006" }}</time>
+        <span class="article-card-tags">
+          {{ range .Params.tags }}
+            <span class="tag">{{ . | humanize }}</span>
+          {{ end }}
+        </span>
+      </div>
+      <h3>{{ .Title }}</h3>
+      <p>{{ .Summary | plainify | truncate 150 }}</p>
+    </div>
+  </article>
+</a>

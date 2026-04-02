@@ -1,0 +1,73 @@
+{
+  "steam_app_id": 2262930,
+  "name": "Bombe",
+  "slug": "bombe",
+  "developer": "Charlie Brej",
+  "publisher": "Charlie Brej",
+  "release_date": "Jun 4, 2023",
+  "price_usd": 6.99,
+  "genres": [
+    "Casual"
+  ],
+  "tags": [
+    "Casual"
+  ],
+  "platforms": [
+    "windows",
+    "mac",
+    "linux"
+  ],
+  "short_description": "Minesweeper, but you only solve each situation once.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262930/header.jpg?t=1715417627",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262930/ss_504dcdcf455e3bc930540d708b6b957a1b5c1066.600x338.jpg?t=1715417627",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262930/ss_8be1ca2f59d98a91f183c3a69ad189b63151ec16.600x338.jpg?t=1715417627",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262930/ss_60fb9f4de4ad22734829065c1d3b3b935987e5c8.600x338.jpg?t=1715417627",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262930/ss_96620b5f50d96fab2d47d509f4d671b3c6a5991f.600x338.jpg?t=1715417627",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262930/ss_7615b7f74fcb7814ab365c718a3e693683a82f6d.600x338.jpg?t=1715417627",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262930/ss_2a1d17aa13385bdf9b26813b8598e90a077e42c2.600x338.jpg?t=1715417627"
+  ],
+  "detailed_description": "Minesweeper, but you only solve each situation once.<br><ul class=\"bb_ul\"><li>Regions (number bubbles connected by lines) generated from clues on the board<br></li><li>Rules act on regions to mark bombs, clear squares or create new regions<br></li><li>A checker tells you if your rule is formally correct<br></li><li>Rules are auto applied forever after, resolving the situations you have solved before<br></li><li>Only the hard situations remain.<br></li><li>A hint system can mark the determinable squares and remove all unnecessary regions from the board.<br></li><li>Regions can be hidden or discarded using rules<br></li><li>Thousands of levels to play, all solvable without guessing.</li></ul>",
+  "about_the_game": "Minesweeper, but you only solve each situation once.<br><ul class=\"bb_ul\"><li>Regions (number bubbles connected by lines) generated from clues on the board<br></li><li>Rules act on regions to mark bombs, clear squares or create new regions<br></li><li>A checker tells you if your rule is formally correct<br></li><li>Rules are auto applied forever after, resolving the situations you have solved before<br></li><li>Only the hard situations remain.<br></li><li>A hint system can mark the determinable squares and remove all unnecessary regions from the board.<br></li><li>Regions can be hidden or discarded using rules<br></li><li>Thousands of levels to play, all solvable without guessing.</li></ul>",
+  "supported_languages": "English, Simplified Chinese, Traditional Chinese, French, Japanese, Polish, German, Dutch, Danish, Russian, Swedish, Korean, Portuguese - Brazil, Ukrainian",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 364,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 370,
+  "review_positive": 354,
+  "review_percentage": 95.7,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 326,
+      "review_percentage": 96.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "review_count": 370,
+      "review_percentage": 95.7,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

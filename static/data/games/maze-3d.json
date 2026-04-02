@@ -1,0 +1,84 @@
+{
+  "steam_app_id": 1004310,
+  "name": "Maze 3D",
+  "slug": "maze-3d",
+  "developer": "Jake Peng",
+  "publisher": "Jake Peng",
+  "release_date": "Jan 7, 2019",
+  "price_usd": 2.99,
+  "genres": [
+    "Casual",
+    "Indie",
+    "Strategy"
+  ],
+  "tags": [
+    "Casual",
+    "Indie",
+    "Strategy"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "moving from green to red, can move forward, backward, left, right, up and down, A total of 10 levels, 3 modes, 2 types, The first game will randomly generate a maze, and automatically load in next play, or randomly generated again if you want.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1004310/header.jpg?t=1693970665",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1004310/ss_ad456384e21b91a6207e4ecf6ff3dccf3981e1ee.600x338.jpg?t=1693970665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1004310/ss_901297079f8b6913e3afcb700166374ec5f418e8.600x338.jpg?t=1693970665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1004310/ss_877d004a36f6a74d781d12f6605ea61fcad9a8f9.600x338.jpg?t=1693970665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1004310/ss_03249128ebfdf0f7da8563fa0771ec248cc4f423.600x338.jpg?t=1693970665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1004310/ss_8bbd9844527d6abc1a9f161c62f136d05460dac3.600x338.jpg?t=1693970665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1004310/ss_f840a1c1236e07772f63cdfe7aa8fd1c41b404ec.600x338.jpg?t=1693970665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1004310/ss_a64ea2634d49127c3680cce7bbff9e365af63d61.600x338.jpg?t=1693970665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1004310/ss_7704c68090c80c098544ec14acd927ba8dff748c.600x338.jpg?t=1693970665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1004310/ss_eef4345b43dbfec6c75375ecc264f0e503feb98d.600x338.jpg?t=1693970665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1004310/ss_803ca3a23d66b8e5f7c2333971f7f976558a8dda.600x338.jpg?t=1693970665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1004310/ss_c3b566de62050ccab91261f2c165ce3db1966369.600x338.jpg?t=1693970665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1004310/ss_8efd27a6e53a35204370553d3a2103968de2e2bf.600x338.jpg?t=1693970665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1004310/ss_58571dd4a6d8b2d7471ded9c709ae16cb5657f0f.600x338.jpg?t=1693970665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1004310/ss_b813bad13cb3d7ce3023b1e94cc91f050af32d4e.600x338.jpg?t=1693970665",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1004310/ss_95cf6af10923891d160a2f6d8b21fce45d314ea5.600x338.jpg?t=1693970665"
+  ],
+  "detailed_description": "This 3D maze is made up of many small balls. Blue represents the footing point and white indicates the path. In the normal mode, only the connected white ball can be used to go to another connected blue ball.<br />\r\nThe blue ball representing the starting point will be replaced with green, and the end point will be red, representing the player's current position is a larger green ball, the game goal is to go from the starting point to the end.<br />\r\n<br />\r\nThere are six directions, front, back, left, right, up and down.<br />\r\nThere will also be an orange arrow under the player's current position. When moving forward (w key), it will move to the orange arrow. The orange arrow will turn according to the game lens. Drag the right mouse button to change the game lens.<br />\r\n<br />\r\nThere are a total of 10 levels, 3 modes, 2 types, 4 auxiliary functions.<br />\r\nThe level represents the length of the side of the maze, the minimum is 5, the maximum is 14, the larger the side length, the larger the cube (the range of the maze).<br />\r\nMode 1 is the normal mode, and only the connected white ball can be used to go to another connected blue ball.<br />\r\nMode 2 has the small white arrow that can be used to jump directly to the blue ball pointed by the connected white small arrow.<br />\r\nMode 3 has the Label pattern that can be used to transfer directly to another blue ball witch has the same color, pattern and layer of Label pattern.<br />\r\nThere are a total of 420 types of label patterns (0~1 annulus, 1~3 layers, 7 colors, 10 shapes), which are randomly selected each time a maze is created.<br />\r\nThe four auxiliary functions are filtering, color changing, brightness and memory.<br />\r\n<br />\r\nThe game will randomly generate a maze when first play, and automatically load in next play.<br />\r\nYou can press \"Delete Record\" before playing, and you will re-generate the maze randomly when you start playing.<br />\r\nOr press \"random\" during the play to randomly generate the maze.",
+  "about_the_game": "This 3D maze is made up of many small balls. Blue represents the footing point and white indicates the path. In the normal mode, only the connected white ball can be used to go to another connected blue ball.<br />\r\nThe blue ball representing the starting point will be replaced with green, and the end point will be red, representing the player's current position is a larger green ball, the game goal is to go from the starting point to the end.<br />\r\n<br />\r\nThere are six directions, front, back, left, right, up and down.<br />\r\nThere will also be an orange arrow under the player's current position. When moving forward (w key), it will move to the orange arrow. The orange arrow will turn according to the game lens. Drag the right mouse button to change the game lens.<br />\r\n<br />\r\nThere are a total of 10 levels, 3 modes, 2 types, 4 auxiliary functions.<br />\r\nThe level represents the length of the side of the maze, the minimum is 5, the maximum is 14, the larger the side length, the larger the cube (the range of the maze).<br />\r\nMode 1 is the normal mode, and only the connected white ball can be used to go to another connected blue ball.<br />\r\nMode 2 has the small white arrow that can be used to jump directly to the blue ball pointed by the connected white small arrow.<br />\r\nMode 3 has the Label pattern that can be used to transfer directly to another blue ball witch has the same color, pattern and layer of Label pattern.<br />\r\nThere are a total of 420 types of label patterns (0~1 annulus, 1~3 layers, 7 colors, 10 shapes), which are randomly selected each time a maze is created.<br />\r\nThe four auxiliary functions are filtering, color changing, brightness and memory.<br />\r\n<br />\r\nThe game will randomly generate a maze when first play, and automatically load in next play.<br />\r\nYou can press \"Delete Record\" before playing, and you will re-generate the maze randomly when you start playing.<br />\r\nOr press \"random\" during the play to randomly generate the maze.",
+  "supported_languages": "English, Traditional Chinese",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Partial Controller Support",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 5,
+  "review_positive": 5,
+  "review_percentage": 100.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 5,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 5,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

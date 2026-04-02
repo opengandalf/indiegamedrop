@@ -1,0 +1,71 @@
+{
+  "steam_app_id": 3215770,
+  "name": "DiuTaMaPro",
+  "slug": "diutamapro",
+  "developer": "YAOQINGBING",
+  "publisher": "YAOQINGBING",
+  "release_date": "Nov 5, 2024",
+  "price_usd": 0.99,
+  "genres": [
+    "Utilities"
+  ],
+  "tags": [
+    "Utilities"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "This is a simple and easy-to-use auxiliary tool that is different from traditional peripheral macros, supporting multi-threading and random intervals.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3215770/header.jpg?t=1730802035",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3215770/ss_d1a00d2674f8d55ce93195962ab1b68de8218d30.600x338.jpg?t=1730802035",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3215770/ss_9fa27c993f4eb7bff3f4f34b50d2fde2e841040a.600x338.jpg?t=1730802035",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3215770/ss_8880b45103ccaf74d4e644a22d03e4c2b15d4e1b.600x338.jpg?t=1730802035",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3215770/ss_f201bc4614987e360835ab59251cdbc628aed9ce.600x338.jpg?t=1730802035",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3215770/ss_67c275a013b766fbc09676adbd8ae2ac2ccb30de.600x338.jpg?t=1730802035",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3215770/ss_99921d25c3cc4ebea8bb22d82e6009148513cfd7.600x338.jpg?t=1730802035",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3215770/ss_1309b3bb9ec6d617efa87aae22508d64e8a4bad0.600x338.jpg?t=1730802035",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3215770/ss_e38e8554437ba63b2b77fd597696f541e6c05dcb.600x338.jpg?t=1730802035",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3215770/ss_235516fc2cea26328c5d9cc4bde54b301fdce5ff.600x338.jpg?t=1730802035",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3215770/ss_8ead8eb8621576626bdae89d24210a972ba45c54.600x338.jpg?t=1730802035",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3215770/ss_60db8db32d2985721599683b54c0a4f8ce7a80a3.600x338.jpg?t=1730802035"
+  ],
+  "detailed_description": "This is a simple and easy-to-use key assistance tool,<br />\r\n<br />\r\nIt supports customizing keyboard keys as well as the left and right buttons of the mouse. It supports setting intervals and enabling random intervals. By default, it works in multi-threading mode, which is a different tool from peripheral macros.<br />\r\n<br />\r\nAll keys are triggered according to the delay interval set by the user, without prioritizing the order. Therefore, it does not support sequential execution, and multiple keys will not wait for each other. This is a completely different operating method from traditional peripheral macros.<br />\r\n<br />\r\nThis tool cannot 100% support all applications under default conditions. If you encounter special programs that cannot run, It is recommended to use a virtual machine, start this tool on the physical machine, and then serve the virtual machine, activating the virtual machine window. This method can bypass all detection mechanisms 100%, because applications in the virtual machine do not have the right to access background programs on the physical machine. This method may have unexpected effects when used with a synchronizer~",
+  "about_the_game": "This is a simple and easy-to-use key assistance tool,<br />\r\n<br />\r\nIt supports customizing keyboard keys as well as the left and right buttons of the mouse. It supports setting intervals and enabling random intervals. By default, it works in multi-threading mode, which is a different tool from peripheral macros.<br />\r\n<br />\r\nAll keys are triggered according to the delay interval set by the user, without prioritizing the order. Therefore, it does not support sequential execution, and multiple keys will not wait for each other. This is a completely different operating method from traditional peripheral macros.<br />\r\n<br />\r\nThis tool cannot 100% support all applications under default conditions. If you encounter special programs that cannot run, It is recommended to use a virtual machine, start this tool on the physical machine, and then serve the virtual machine, activating the virtual machine window. This method can bypass all detection mechanisms 100%, because applications in the virtual machine do not have the right to access background programs on the physical machine. This method may have unexpected effects when used with a synchronizer~",
+  "supported_languages": "English, Simplified Chinese",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 1,
+  "review_positive": 1,
+  "review_percentage": 100.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 1,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-27",
+      "review_count": 1,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

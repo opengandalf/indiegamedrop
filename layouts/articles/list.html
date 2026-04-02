@@ -1,0 +1,58 @@
+{{ define "main" }}
+<div class="articles-page">
+  <div class="hero-section" style="padding: 2rem 1rem 1.5rem;">
+    <h1>Articles</h1>
+    <p class="tagline">Data-driven analysis, spotlights, and trends from 80,000+ indie games</p>
+  </div>
+
+  <!-- Tag Filter Bar -->
+  <div class="tag-filter-bar">
+    <button class="tag-filter-btn active" data-tag="all">All</button>
+    {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+      <button class="tag-filter-btn" data-tag="{{ $name }}">{{ $name | humanize }}</button>
+    {{ end }}
+  </div>
+
+  <!-- Article Grid -->
+  <div class="article-grid" id="article-grid">
+    {{ range (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
+      {{ partial "article-card.html" . }}
+    {{ end }}
+  </div>
+
+  <div class="empty-state" id="no-articles" style="display:none;">
+    <h3>No articles match this filter</h3>
+    <p>Try selecting a different tag.</p>
+  </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const buttons = document.querySelectorAll('.tag-filter-btn');
+  const cards = document.querySelectorAll('.article-card');
+  const empty = document.getElementById('no-articles');
+
+  buttons.forEach(btn => {
+    btn.addEventListener('click', function() {
+      buttons.forEach(b => b.classList.remove('active'));
+      this.classList.add('active');
+
+      const tag = this.dataset.tag;
+      let visible = 0;
+
+      cards.forEach(card => {
+        const tags = card.dataset.tags.split(',');
+        if (tag === 'all' || tags.includes(tag)) {
+          card.style.display = '';
+          visible++;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+
+      empty.style.display = visible === 0 ? '' : 'none';
+    });
+  });
+});
+</script>
+{{ end }}

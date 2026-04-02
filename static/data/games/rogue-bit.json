@@ -1,0 +1,84 @@
+{
+  "steam_app_id": 949790,
+  "name": "Rogue Bit",
+  "slug": "rogue-bit",
+  "developer": "Bigosaur",
+  "publisher": "Bigosaur",
+  "release_date": "Oct 10, 2018",
+  "price_usd": 2.99,
+  "genres": [
+    "Indie",
+    "Simulation"
+  ],
+  "tags": [
+    "Indie",
+    "Simulation"
+  ],
+  "platforms": [
+    "windows",
+    "mac",
+    "linux"
+  ],
+  "short_description": "A single bit of computer memory became sentient and decided to escape from digital into the real world. Explore RAM, modify bytes and hack machine code and CPU registers to set it free.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949790/header.jpg?t=1745504915",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949790/ss_1800e96a82686d98182a6bcce5a592fc4c114bd1.600x338.jpg?t=1745504915",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949790/ss_69eaa69df0ef4a2d489eff2e36921d345bd49dcd.600x338.jpg?t=1745504915",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949790/ss_a3cb12b7049a1adf02d517c8df19541c946306b9.600x338.jpg?t=1745504915",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949790/ss_126727e583383c569f44d2ad6e8c733b0383e045.600x338.jpg?t=1745504915",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949790/ss_4f7c993020fbc080ef3f7c8abd931b55a7490e8e.600x338.jpg?t=1745504915",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949790/ss_93ec36d466f0d7f7866e6a9452d83342bb27f135.600x338.jpg?t=1745504915",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949790/ss_ccbf0f8557708cddb847e8f829355f49b8c8e76a.600x338.jpg?t=1745504915",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949790/ss_cecc9bf4645a803b4fdca5ed50e8200ea5117ef8.600x338.jpg?t=1745504915"
+  ],
+  "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949790/extras/67a8cd524e67ad13b98f5c8e42742ec7.avif?t=1745504915\" width=616 height=135 /></span><br><br>You play the game as a single bit of computer memory. You can invade other bytes around you and thus modify their values. <br><br>The game features various types of puzzles:<h2 class=\"bb_tag\" >Explore</h2><br>With ability to XOR into adjacent bytes, you can navigate your way through existing data in the memory. The game automatically marks the bytes you cannot go through without getting yourself overwritten and prevents you entering those. Both binary and ASCII views are available, which you can utilize to find an open path for a particular puzzle.<h2 class=\"bb_tag\" >Decipher programs</h2><br>Various programs run on the computer you are trying to escape from. The game includes a disassembler showing you the assembly language corresponding to the machine code that is being executed. Don't worry if you don't know any Assembly. There are only a handful of CPU instructions and they are introduced gradually as you complete the puzzles. Reading the assembly code, you can track the program logic, see which parts of RAM it reads and writes to and manipulate data in those locations to get the program to do what you want.<h2 class=\"bb_tag\" >Invade CPU registers</h2><br>The computer you are trying to escape has a simple CPU with a couple of registers. You can trick the CPU to load yourself into the registers and affect code execution or offload yourself into otherwise unreachable memory locations.<h2 class=\"bb_tag\" >Hack</h2><br>For some puzzles, it isn't enough to change the data in RAM or registers. You can also change the machine code to get the computer to do different things.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949790/extras/a7b61ac46e9b0318901e8065fad48df8.avif?t=1745504915\" width=616 height=83 /></span><h2 class=\"bb_tag\" >Tips</h2><br>Carefully observe the bytes on the screen and what the CPU is doing. Sometimes you need to read the code in straightforward manner. Sometimes you need to work your way backwards: find the line of the code you want executed and then trace the code backwards to figure out how to trick the CPU to get to that instruction.<br><br>The game only has about 30 puzzles, but some of those might take considerable effort to solve. So take it easy and don't rush to the end. If you solve a puzzle by accident, don't go forward until you understand why it happened. You might miss some small detail and get completely stuck on the next puzzle.<h2 class=\"bb_tag\" >TL;DR</h2><br>The game is about the way computers work internally. This isn't a game about writing new programs, but hacking existing programs and their data to clear the path or teleport across memory until you find a way to escape the computer completely. <br><br>Having some programming knowledge makes the game easier, but it isn't required. All the elements required to solve the puzzles are explained in the game. As long as you like doing basic math, you should be able to figure it out. That being said, it isn't a game for general population. It's meant for players who are interested in computer internals, assembly and machine languages and programming.",
+  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949790/extras/67a8cd524e67ad13b98f5c8e42742ec7.avif?t=1745504915\" width=616 height=135 /></span><br><br>You play the game as a single bit of computer memory. You can invade other bytes around you and thus modify their values. <br><br>The game features various types of puzzles:<h2 class=\"bb_tag\" >Explore</h2><br>With ability to XOR into adjacent bytes, you can navigate your way through existing data in the memory. The game automatically marks the bytes you cannot go through without getting yourself overwritten and prevents you entering those. Both binary and ASCII views are available, which you can utilize to find an open path for a particular puzzle.<h2 class=\"bb_tag\" >Decipher programs</h2><br>Various programs run on the computer you are trying to escape from. The game includes a disassembler showing you the assembly language corresponding to the machine code that is being executed. Don't worry if you don't know any Assembly. There are only a handful of CPU instructions and they are introduced gradually as you complete the puzzles. Reading the assembly code, you can track the program logic, see which parts of RAM it reads and writes to and manipulate data in those locations to get the program to do what you want.<h2 class=\"bb_tag\" >Invade CPU registers</h2><br>The computer you are trying to escape has a simple CPU with a couple of registers. You can trick the CPU to load yourself into the registers and affect code execution or offload yourself into otherwise unreachable memory locations.<h2 class=\"bb_tag\" >Hack</h2><br>For some puzzles, it isn't enough to change the data in RAM or registers. You can also change the machine code to get the computer to do different things.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949790/extras/a7b61ac46e9b0318901e8065fad48df8.avif?t=1745504915\" width=616 height=83 /></span><h2 class=\"bb_tag\" >Tips</h2><br>Carefully observe the bytes on the screen and what the CPU is doing. Sometimes you need to read the code in straightforward manner. Sometimes you need to work your way backwards: find the line of the code you want executed and then trace the code backwards to figure out how to trick the CPU to get to that instruction.<br><br>The game only has about 30 puzzles, but some of those might take considerable effort to solve. So take it easy and don't rush to the end. If you solve a puzzle by accident, don't go forward until you understand why it happened. You might miss some small detail and get completely stuck on the next puzzle.<h2 class=\"bb_tag\" >TL;DR</h2><br>The game is about the way computers work internally. This isn't a game about writing new programs, but hacking existing programs and their data to clear the path or teleport across memory until you find a way to escape the computer completely. <br><br>Having some programming knowledge makes the game easier, but it isn't required. All the elements required to solve the puzzles are explained in the game. As long as you like doing basic math, you should be able to figure it out. That being said, it isn't a game for general population. It's meant for players who are interested in computer internals, assembly and machine languages and programming.",
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Camera Comfort",
+    "Color Alternatives",
+    "Custom Volume Controls",
+    "Keyboard Only Option",
+    "Playable without Timed Input",
+    "Save Anytime",
+    "Includes level editor",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 120,
+  "rising_score": 0.0001,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 6.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 122,
+  "review_positive": 109,
+  "review_percentage": 89.3,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 116,
+      "review_percentage": 90.5,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 122,
+      "review_percentage": 89.3,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

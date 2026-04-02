@@ -1,0 +1,70 @@
+{
+  "steam_app_id": 2174170,
+  "name": "VInput",
+  "slug": "vinput",
+  "developer": "宵夜97",
+  "publisher": "宵夜97",
+  "release_date": "Nov 23, 2022",
+  "price_usd": 2.99,
+  "genres": [
+    "Animation & Modeling",
+    "Utilities"
+  ],
+  "tags": [
+    "Animation & Modeling",
+    "Utilities"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "VInput is a plug-in for sending data to VTubeStudio. Support game controller and racing steering wheel, time data, hardware monitor data and custom formula.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2174170/header.jpg?t=1674996516",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2174170/ss_308da8c3e387b9755c5d059ec9c0854ad707c0cd.600x338.jpg?t=1674996516",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2174170/ss_21e05a8808340dc9ee04abd1ea13d1cffb5e4781.600x338.jpg?t=1674996516",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2174170/ss_f9d24a62f905e72d42b41163cc647898a0017434.600x338.jpg?t=1674996516",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2174170/ss_67cef3f73ea69cb977f303d932d1540f3ee9605c.600x338.jpg?t=1674996516",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2174170/ss_781a908902c47dbb4399d46e2948a10ee02e6ee4.600x338.jpg?t=1674996516",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2174170/ss_508272486ae57e4c420d7b799d289c3b18611c4b.600x338.jpg?t=1674996516"
+  ],
+  "detailed_description": "VInput is a plug-in for sending data to VTubeStudio. Support game controller, racing steering wheel, time data, hardware monitoring data and custom formula.<br><br><strong> Controller </strong><br>It supports full key detection of game controller. Tested devices include (XBox Controller, PS5 Controller)<br>Note: The Nintendo Switch Controller is special and can only be used after key mapping in steam.<br>Support common racing steering wheel.<br><br><strong> Time data </strong><br>Support time data of year, month, day, hour, minute, second, millisecond, week and more.<br><br><strong> Hardware monitoring data </strong><br>It supports data such as occupancy, frequency and temperature of hardware devices such as motherboard, CPU, graphics card and hard disk.<br><br><strong> Custom Formula </strong><br>For complex requirements, such as the position of fingers on the fine control handle, you can use the custom formula function to calculate and output the existing data.<br>The output of the formula itself can also be used as input by other formulas.<br>Because formulas are scripts in Lua language in essence, you can write complex judgment logic in addition to formulas.<br><br>QQ Group:751202335 enter password:123<br><br><i>Model in video is not included</i>",
+  "about_the_game": "VInput is a plug-in for sending data to VTubeStudio. Support game controller, racing steering wheel, time data, hardware monitoring data and custom formula.<br><br><strong> Controller </strong><br>It supports full key detection of game controller. Tested devices include (XBox Controller, PS5 Controller)<br>Note: The Nintendo Switch Controller is special and can only be used after key mapping in steam.<br>Support common racing steering wheel.<br><br><strong> Time data </strong><br>Support time data of year, month, day, hour, minute, second, millisecond, week and more.<br><br><strong> Hardware monitoring data </strong><br>It supports data such as occupancy, frequency and temperature of hardware devices such as motherboard, CPU, graphics card and hard disk.<br><br><strong> Custom Formula </strong><br>For complex requirements, such as the position of fingers on the fine control handle, you can use the custom formula function to calculate and output the existing data.<br>The output of the formula itself can also be used as input by other formulas.<br>Because formulas are scripts in Lua language in essence, you can write complex judgment logic in addition to formulas.<br><br>QQ Group:751202335 enter password:123<br><br><i>Model in video is not included</i>",
+  "supported_languages": "English, Simplified Chinese",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Partial Controller Support"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 6,
+  "review_positive": 6,
+  "review_percentage": 100.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 5,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "review_count": 6,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

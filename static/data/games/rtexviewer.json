@@ -1,0 +1,69 @@
+{
+  "steam_app_id": 2366410,
+  "name": "rTexViewer",
+  "slug": "rtexviewer",
+  "developer": "raylib technologies",
+  "publisher": "raylib technologies",
+  "release_date": "Apr 12, 2023",
+  "price_usd": 19.99,
+  "genres": [
+    "Photo Editing",
+    "Utilities",
+    "Game Development"
+  ],
+  "tags": [
+    "Photo Editing",
+    "Utilities",
+    "Game Development"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "A simple and easy-to-use textures viewer, editor and image board.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366410/header.jpg?t=1764025129",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366410/ss_9a643c0725aaa23ff838d130ba11cba76b8f3e45.600x338.jpg?t=1764025129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366410/ss_6975fe8df343d5815d087b9d18cc8ceeb436ff45.600x338.jpg?t=1764025129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366410/ss_b7f2a3f05ee63bc5b2175c1ad3dd0af1e9621969.600x338.jpg?t=1764025129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366410/ss_f95c6140a723099cba985bb7aacde65e59939089.600x338.jpg?t=1764025129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366410/ss_b81a0617f712d9d945363056a4fa89f418b61481.600x338.jpg?t=1764025129"
+  ],
+  "detailed_description": "<p class=\"bb_paragraph\" ><strong>A simple and easy-to-use textures viewer, editor and image board. </strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366410/extras/d95ef69e4b55a85896aab171eb13d198.avif?t=1764025129\" width=774 height=70 /></span></p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><strong>rTexViewer</strong> is a powerful image viewing and editing tool that allows you to organize images into an image board, perfect to generate moodboards for reference and inspiration. It also includes multiple image editing tools to optimize pixel format, crop, resize, flip or apply custom GLSL shader effects, including an integrated shader code editor with hot-reloading. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >With <strong>rTexViewer</strong>, you can easily view and manage your game textures or sprites, and also export them in multiple formats.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366410/extras/4fec858b6f7aee4ab42f5497dbd2e63c.avif?t=1764025129\" width=774 height=70 /></span></h2><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Three view image modes</strong>: <strong>TABS</strong>, <strong>BOARD</strong> or <strong>FOLDER</strong></p></li><li><p class=\"bb_paragraph\" > Load/Save images/full-board as <strong>.rtv</strong> project file (non-destructive, image data compressed) </p></li><li><p class=\"bb_paragraph\" > Load <strong>image file formats</strong>: <strong>.png</strong>, <strong>.qoi</strong>, <strong>.bmp</strong>, <strong>.tga</strong>, <strong>.jpg</strong>, <strong>.gif</strong>, <strong>.hdr</strong>, <strong>.ppm</strong>, <strong>.pgm</strong></p></li><li><p class=\"bb_paragraph\" > Load <strong>compressed texture</strong> formats: <strong>.dds</strong>, <strong>.pkm</strong>, <strong>.ktx</strong>, <strong>.pvr</strong>, <strong>.astc</strong> (if supported by GPU)</p></li><li><p class=\"bb_paragraph\" ><strong>Load images from URL</strong>, just copy & paste image URL into program </p></li><li><p class=\"bb_paragraph\" > View image options: <strong>Zoom</strong>, <strong>Pan</strong>, <strong>Alpha</strong>, <strong>Background</strong> and <strong>Scale filter</strong></p></li><li><p class=\"bb_paragraph\" > View image information: <strong>Name</strong>, <strong>Size</strong>, <strong>Format</strong>, <strong>Memory</strong>, <strong>Selected Pixel info</strong>, <strong>Color Palette</strong></p></li><li><p class=\"bb_paragraph\" > Edit images: Change image <strong>pixel-format with real-time preview</strong></p></li><li><p class=\"bb_paragraph\" > Edit images: <strong>Flip</strong>, <strong>Rotate</strong>, <strong>Resize</strong>, <strong>Resize Canvas</strong>, <strong>Crop</strong>, <strong>Alpha Clean</strong> and more</p></li><li><p class=\"bb_paragraph\" > Edit images: <strong>Visual crop mode</strong>, just draw a rectangle and crop</p></li><li><p class=\"bb_paragraph\" > Edit images: Define a <strong>text description</strong> for the image, saved on <strong>.rtv</strong></p></li><li><p class=\"bb_paragraph\" > Edit images: Assign <strong>GLSL fragment shaders</strong> for custom effects, saved on <strong>rtv</strong></p></li><li><p class=\"bb_paragraph\" ><strong>Image shader code editor</strong> with auto-hot-reloading of shader changes</p></li><li><p class=\"bb_paragraph\" ><strong>Multiple sample GLSL shaders provided</strong> for reference and new effects creation</p></li><li><p class=\"bb_paragraph\" ><strong>Export</strong> single images as <strong>.png</strong>, <strong>.qoi</strong>, <strong>.dds</strong>, <strong>.raw</strong> or byte array <strong>.h</strong></p></li><li><p class=\"bb_paragraph\" ><strong>Export</strong> full image board as a single image <strong>.png</strong>, <strong>.qoi</strong> or <strong>.dds</strong></p></li><li><p class=\"bb_paragraph\" ><strong>Export image palette</strong> as <strong>.png</strong> or <strong>.pal</strong> (up to 256 colors)</p></li><li><p class=\"bb_paragraph\" > Multiple UI styles supported, select your best style</p></li><li><p class=\"bb_paragraph\" > Multiple window options: clean mode, borderless, top-most, mouse pass-through</p></li><li><p class=\"bb_paragraph\" > Command-line support for <strong>batch image processing</strong> and formats conversion</p></li><li><p class=\"bb_paragraph\" ><strong>Completely portable (single-file, no-dependencies)</strong></p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366410/extras/69039b86ba599a3cdc5bc146108035de.avif?t=1764025129\" width=774 height=70 /></span></p><p class=\"bb_paragraph\" ><strong>rTexViewer</strong> is handmade software, it has been meticulously developed using the C programming language, with great attention put on every line of code written. This approach usually results in highly optimized and efficient code, but it is also more time-consuming and require a higher level of technical skills. The result is great performance and small memory footprint.</p>",
+  "about_the_game": "<p class=\"bb_paragraph\" ><strong>A simple and easy-to-use textures viewer, editor and image board. </strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366410/extras/d95ef69e4b55a85896aab171eb13d198.avif?t=1764025129\" width=774 height=70 /></span></p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><strong>rTexViewer</strong> is a powerful image viewing and editing tool that allows you to organize images into an image board, perfect to generate moodboards for reference and inspiration. It also includes multiple image editing tools to optimize pixel format, crop, resize, flip or apply custom GLSL shader effects, including an integrated shader code editor with hot-reloading. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >With <strong>rTexViewer</strong>, you can easily view and manage your game textures or sprites, and also export them in multiple formats.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366410/extras/4fec858b6f7aee4ab42f5497dbd2e63c.avif?t=1764025129\" width=774 height=70 /></span></h2><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Three view image modes</strong>: <strong>TABS</strong>, <strong>BOARD</strong> or <strong>FOLDER</strong></p></li><li><p class=\"bb_paragraph\" > Load/Save images/full-board as <strong>.rtv</strong> project file (non-destructive, image data compressed) </p></li><li><p class=\"bb_paragraph\" > Load <strong>image file formats</strong>: <strong>.png</strong>, <strong>.qoi</strong>, <strong>.bmp</strong>, <strong>.tga</strong>, <strong>.jpg</strong>, <strong>.gif</strong>, <strong>.hdr</strong>, <strong>.ppm</strong>, <strong>.pgm</strong></p></li><li><p class=\"bb_paragraph\" > Load <strong>compressed texture</strong> formats: <strong>.dds</strong>, <strong>.pkm</strong>, <strong>.ktx</strong>, <strong>.pvr</strong>, <strong>.astc</strong> (if supported by GPU)</p></li><li><p class=\"bb_paragraph\" ><strong>Load images from URL</strong>, just copy & paste image URL into program </p></li><li><p class=\"bb_paragraph\" > View image options: <strong>Zoom</strong>, <strong>Pan</strong>, <strong>Alpha</strong>, <strong>Background</strong> and <strong>Scale filter</strong></p></li><li><p class=\"bb_paragraph\" > View image information: <strong>Name</strong>, <strong>Size</strong>, <strong>Format</strong>, <strong>Memory</strong>, <strong>Selected Pixel info</strong>, <strong>Color Palette</strong></p></li><li><p class=\"bb_paragraph\" > Edit images: Change image <strong>pixel-format with real-time preview</strong></p></li><li><p class=\"bb_paragraph\" > Edit images: <strong>Flip</strong>, <strong>Rotate</strong>, <strong>Resize</strong>, <strong>Resize Canvas</strong>, <strong>Crop</strong>, <strong>Alpha Clean</strong> and more</p></li><li><p class=\"bb_paragraph\" > Edit images: <strong>Visual crop mode</strong>, just draw a rectangle and crop</p></li><li><p class=\"bb_paragraph\" > Edit images: Define a <strong>text description</strong> for the image, saved on <strong>.rtv</strong></p></li><li><p class=\"bb_paragraph\" > Edit images: Assign <strong>GLSL fragment shaders</strong> for custom effects, saved on <strong>rtv</strong></p></li><li><p class=\"bb_paragraph\" ><strong>Image shader code editor</strong> with auto-hot-reloading of shader changes</p></li><li><p class=\"bb_paragraph\" ><strong>Multiple sample GLSL shaders provided</strong> for reference and new effects creation</p></li><li><p class=\"bb_paragraph\" ><strong>Export</strong> single images as <strong>.png</strong>, <strong>.qoi</strong>, <strong>.dds</strong>, <strong>.raw</strong> or byte array <strong>.h</strong></p></li><li><p class=\"bb_paragraph\" ><strong>Export</strong> full image board as a single image <strong>.png</strong>, <strong>.qoi</strong> or <strong>.dds</strong></p></li><li><p class=\"bb_paragraph\" ><strong>Export image palette</strong> as <strong>.png</strong> or <strong>.pal</strong> (up to 256 colors)</p></li><li><p class=\"bb_paragraph\" > Multiple UI styles supported, select your best style</p></li><li><p class=\"bb_paragraph\" > Multiple window options: clean mode, borderless, top-most, mouse pass-through</p></li><li><p class=\"bb_paragraph\" > Command-line support for <strong>batch image processing</strong> and formats conversion</p></li><li><p class=\"bb_paragraph\" ><strong>Completely portable (single-file, no-dependencies)</strong></p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2366410/extras/69039b86ba599a3cdc5bc146108035de.avif?t=1764025129\" width=774 height=70 /></span></p><p class=\"bb_paragraph\" ><strong>rTexViewer</strong> is handmade software, it has been meticulously developed using the C programming language, with great attention put on every line of code written. This approach usually results in highly optimized and efficient code, but it is also more time-consuming and require a higher level of technical skills. The result is great performance and small memory footprint.</p>",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 0,
+  "review_positive": 0,
+  "review_percentage": 0.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 1,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "review_count": 0,
+      "review_percentage": 0.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

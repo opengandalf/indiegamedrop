@@ -1,0 +1,581 @@
+/* ── Game Profile Page ────────────────────────────────────────────────────── */
+
+.game-hero {
+  display: flex;
+  gap: 2rem;
+  margin: 2rem 0;
+  background: var(--igdrop-card-bg);
+  border: 1px solid var(--igdrop-border);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.game-hero-img {
+  flex-shrink: 0;
+  width: 460px;
+}
+
+.game-hero-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.game-hero-info {
+  padding: 1.5rem;
+  flex: 1;
+}
+
+.game-hero-info h1 {
+  margin: 0 0 0.3rem;
+  font-size: 1.8rem;
+}
+
+.game-developer {
+  color: var(--igdrop-muted);
+  margin-bottom: 1rem;
+}
+
+.game-stats-row {
+  display: flex;
+  gap: 1.2rem;
+  align-items: center;
+  margin-bottom: 0.8rem;
+  flex-wrap: wrap;
+}
+
+.review-score.large {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.game-price {
+  font-weight: bold;
+  color: var(--igdrop-accent);
+}
+
+.game-meta {
+  display: flex;
+  gap: 1.5rem;
+  color: var(--igdrop-muted);
+  font-size: 0.9rem;
+  margin-bottom: 0.8rem;
+}
+
+.tags-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin-bottom: 1rem;
+}
+
+.game-desc {
+  color: var(--igdrop-muted);
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.game-info-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background: var(--igdrop-card-bg);
+  border: 1px solid var(--igdrop-border);
+  border-radius: 8px;
+}
+
+.game-info-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.game-info-item .label {
+  font-size: 0.8rem;
+  color: var(--igdrop-muted);
+  text-transform: uppercase;
+}
+
+.game-info-item .value {
+  font-weight: 600;
+  color: #fff;
+}
+
+/* Game sections (about, charts, reviews, similar) */
+.game-sections {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.game-section {
+  background: var(--igdrop-card-bg);
+  border: 1px solid var(--igdrop-border);
+  border-radius: 12px;
+  padding: 1.5rem;
+}
+
+.game-section h2 {
+  margin: 0 0 1rem;
+  font-size: 1.3rem;
+}
+
+/* ── Score Breakdown Panel ────────────────────────────────────────────────── */
+
+.score-breakdown {
+  background: var(--igdrop-card-bg);
+  border: 1px solid var(--igdrop-border);
+  border-radius: 10px;
+  padding: 1.2rem 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.score-main {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.score-bar-container {
+  flex: 1;
+  height: 8px;
+  background: rgba(255,255,255,0.08);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.score-bar-fill {
+  height: 100%;
+  border-radius: 4px;
+  transition: width 0.5s ease;
+}
+
+.score-pct {
+  font-size: 1.6rem;
+  font-weight: 700;
+  min-width: 3.5rem;
+  text-align: right;
+}
+
+.score-count {
+  color: var(--igdrop-muted);
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.score-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-bottom: 0.8rem;
+}
+
+.score-stat {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.score-stat-label {
+  font-size: 0.7rem;
+  color: var(--igdrop-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.score-stat-value {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--igdrop-text);
+}
+
+.score-velocity {
+  color: var(--igdrop-green);
+}
+
+.score-sparkline {
+  display: block;
+  margin-top: 2px;
+}
+
+.score-badges {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.25rem 0.65rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.badge-gem {
+  border: 1px solid;
+}
+
+.badge-gem-early {
+  color: #d29922;
+  border-color: #d29922;
+  background: rgba(210,153,34,0.12);
+}
+
+.badge-gem-rising {
+  color: var(--igdrop-accent);
+  border-color: var(--igdrop-accent);
+  background: rgba(78,205,196,0.12);
+}
+
+.badge-gem-proven {
+  color: #a371f7;
+  border-color: #a371f7;
+  background: rgba(163,113,247,0.12);
+}
+
+.badge-rising {
+  color: #3fb950;
+  border: 1px solid #3fb950;
+  background: rgba(63,185,80,0.12);
+}
+
+/* ── Trailer section ──────────────────────────────────────────────────────── */
+
+.trailer-section {
+  margin: 2rem 0;
+}
+
+.trailer-embed {
+  position: relative;
+  max-width: 720px;
+}
+
+.trailer-embed video {
+  width: 100%;
+  border-radius: 8px;
+  background: #000;
+}
+
+.trailer-embed iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border-radius: 8px;
+  background: #000;
+}
+
+/* ── About This Game section ──────────────────────────────────────────────── */
+
+.about-section {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: var(--igdrop-card-bg);
+  border-radius: 8px;
+  border: 1px solid var(--igdrop-border);
+}
+
+.about-content {
+  line-height: 1.7;
+  color: var(--igdrop-text);
+}
+
+.about-content img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  border-radius: 6px;
+  margin: 1rem 0;
+}
+
+/* ── Screenshots Gallery ──────────────────────────────────────────────────── */
+
+.screenshots-section {
+  margin: 2rem 0;
+}
+
+.screenshots-gallery {
+  display: flex;
+  gap: 0.75rem;
+  overflow-x: auto;
+  padding: 0.5rem 0 1rem;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+}
+
+.screenshots-gallery img {
+  height: 180px;
+  width: auto;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: opacity 0.2s, transform 0.2s;
+  scroll-snap-align: start;
+  flex-shrink: 0;
+}
+
+.screenshots-gallery img:hover {
+  opacity: 0.85;
+  transform: scale(1.02);
+}
+
+/* Scrollbar styling */
+.screenshots-gallery::-webkit-scrollbar {
+  height: 6px;
+}
+
+.screenshots-gallery::-webkit-scrollbar-track {
+  background: rgba(255,255,255,0.05);
+  border-radius: 3px;
+}
+
+.screenshots-gallery::-webkit-scrollbar-thumb {
+  background: var(--igdrop-border);
+  border-radius: 3px;
+}
+
+/* ── Lightbox ─────────────────────────────────────────────────────────────── */
+
+.lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: rgba(0,0,0,0.9);
+  justify-content: center;
+  align-items: center;
+  cursor: zoom-out;
+}
+
+.lightbox.active {
+  display: flex;
+}
+
+.lightbox img {
+  max-width: 90vw;
+  max-height: 90vh;
+  border-radius: 8px;
+  object-fit: contain;
+}
+
+/* ── Reviews section ──────────────────────────────────────────────────────── */
+
+.reviews-section {
+  margin: 2rem 0;
+}
+
+.review-card {
+  background: var(--igdrop-card-bg);
+  border-radius: 8px;
+  padding: 1.2rem;
+  margin-bottom: 1rem;
+  border-left: 4px solid var(--igdrop-border);
+}
+
+.review-card.thumb-up {
+  border-left-color: var(--igdrop-green);
+}
+
+.review-card.thumb-down {
+  border-left-color: var(--igdrop-red);
+}
+
+.review-header {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.8rem;
+  flex-wrap: wrap;
+}
+
+.review-thumb {
+  font-size: 1.2rem;
+}
+
+.review-verdict {
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.review-verdict.thumb-up {
+  color: var(--igdrop-green);
+}
+
+.review-verdict.thumb-down {
+  color: var(--igdrop-red);
+}
+
+.review-meta {
+  color: var(--igdrop-text-secondary);
+  font-size: 0.8rem;
+}
+
+.review-text {
+  color: var(--igdrop-text);
+  line-height: 1.6;
+  font-size: 0.9rem;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.review-date {
+  color: var(--igdrop-text-secondary);
+  font-size: 0.75rem;
+  margin-top: 0.6rem;
+}
+
+/* ── Similar Games ────────────────────────────────────────────────────────── */
+
+.similar-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.similar-card {
+  display: flex;
+  gap: 0.8rem;
+  background: rgba(255,255,255,0.03);
+  border: 1px solid var(--igdrop-border);
+  border-radius: 8px;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.2s, transform 0.2s;
+}
+
+.similar-card:hover {
+  border-color: var(--igdrop-accent);
+  transform: translateY(-2px);
+}
+
+.similar-card img {
+  width: 120px;
+  height: 56px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.similar-info {
+  padding: 0.4rem 0.5rem;
+  min-width: 0;
+}
+
+.similar-title {
+  font-weight: bold;
+  font-size: 0.85rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.similar-meta {
+  display: flex;
+  gap: 0.5rem;
+  font-size: 0.75rem;
+  color: var(--igdrop-muted);
+  margin-top: 0.2rem;
+  flex-wrap: wrap;
+}
+
+.match-badge {
+  color: var(--igdrop-accent);
+  font-weight: bold;
+}
+
+/* ── Metacritic ───────────────────────────────────────────────────────────── */
+
+.metacritic-section {
+  margin: 1rem 0;
+}
+
+.metacritic-badge {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.5rem 0.8rem;
+  border-radius: 6px;
+  min-width: 48px;
+}
+
+.metacritic-score {
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+.metacritic-label {
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  opacity: 0.8;
+}
+
+.metacritic-high {
+  background: rgba(63,185,80,0.15);
+  color: #3fb950;
+}
+
+.metacritic-mid {
+  background: rgba(210,153,34,0.15);
+  color: #d29922;
+}
+
+.metacritic-low {
+  background: rgba(248,81,73,0.15);
+  color: #f85149;
+}
+
+/* ── Category badges ──────────────────────────────────────────────────────── */
+
+.category-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0.8rem 0;
+}
+
+.category-badge {
+  background: rgba(255,255,255,0.06);
+  border: 1px solid var(--igdrop-border);
+  border-radius: 4px;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.75rem;
+  color: var(--igdrop-text-secondary);
+}
+
+/* ── Mobile responsive ────────────────────────────────────────────────────── */
+
+@media (max-width: 768px) {
+  .score-main {
+    flex-wrap: wrap;
+  }
+
+  .score-pct {
+    font-size: 1.3rem;
+  }
+
+  .score-stats {
+    gap: 1rem;
+  }
+
+  .screenshots-gallery img {
+    height: 140px;
+  }
+
+  .similar-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .similar-card img {
+    width: 100px;
+    height: 48px;
+  }
+
+  .trailer-embed iframe,
+  .trailer-embed video {
+    max-width: 100%;
+  }
+}

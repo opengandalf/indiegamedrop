@@ -1,0 +1,65 @@
+{
+  "steam_app_id": 1529240,
+  "name": "AudiobookConverter",
+  "slug": "audiobookconverter",
+  "developer": "Recoupler",
+  "publisher": "Recoupler",
+  "release_date": "Apr 12, 2021",
+  "price_usd": 9.99,
+  "genres": [
+    "Audio Production"
+  ],
+  "tags": [
+    "Audio Production"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "AudioBookConverter is modern audio encoder supporting converion of most of popular formats (mp3, wma, m4a, flac) to m4b, mp3, ogg. It also can handle existing m4b files and process them with chapters, artwork and other meta information. On modern PC it is faster then most of its competitors.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1529240/header.jpg?t=1721412596",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1529240/ss_8106f545023657b3a78dcd8fd5850ada2f1b8070.600x338.jpg?t=1721412596",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1529240/ss_6d98a7a7db4982349a200645cf29ebe56cb7cf99.600x338.jpg?t=1721412596",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1529240/ss_9047b49031088bd9e585d1f8cb284b3838193f9c.600x338.jpg?t=1721412596",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1529240/ss_1f9894d8e51709a20a5366df6c2495583b9ed1e7.600x338.jpg?t=1721412596",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1529240/ss_6baa06b1609afe4ef2e82d265bc8c25a0b69dda5.600x338.jpg?t=1721412596"
+  ],
+  "detailed_description": "<h2 class=\"bb_tag\" >History</h2>AudioBookConverter was originally designed as a simple and lightweight application to convert a set of mp3 files to single or set of m4b (aac) files to be played on your mobile device (or any device now).<h2 class=\"bb_tag\" >Now</h2>Over time AudioBookConverter evolved and currently can support conversion of most of the popular formats (mp3, wma, m4a, flac) to m4b, mp3, ogg. It also can handle existing m4b files and process them with chapters, artwork and other meta information.<br><br>AudioBookConverter can work smart to find relevant artwork and can do advanced chapter management.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Parallel encoding of files: more cores - faster results (unlike other legacy encoders which use single core from your \"24-core beast\")<br></li><li>Parallel processing of conversions queue: prepare next book while encoding another<br></li><li>Smart artwork support: combined from MP3 artwork and cover files from MP3 directory or copy and paste picture from internet<br></li><li>Unicode tags support: keep tags in own language<br></li><li>Flexible quality management: find balance between size and quality, managed by prebuilt and custom presets<br></li><li>Instant preview: listen what you are going to encode<br></li><li>Simple and lightweight user interface: convert a book with few clicks</li></ul><h2 class=\"bb_tag\" >Advanced chapters support: </h2><ul class=\"bb_ul\"><li>combining multiple mp3 into single chapter<br></li><li>re-import existing chapters from existing m4a/m4b<br></li><li>loading chapters information from mp3 or cue files<br></li><li>splitting monolithic file into chapters<br></li><li>automatic naming of chapters based on metadata or filename of source files</li></ul>",
+  "about_the_game": "<h2 class=\"bb_tag\" >History</h2>AudioBookConverter was originally designed as a simple and lightweight application to convert a set of mp3 files to single or set of m4b (aac) files to be played on your mobile device (or any device now).<h2 class=\"bb_tag\" >Now</h2>Over time AudioBookConverter evolved and currently can support conversion of most of the popular formats (mp3, wma, m4a, flac) to m4b, mp3, ogg. It also can handle existing m4b files and process them with chapters, artwork and other meta information.<br><br>AudioBookConverter can work smart to find relevant artwork and can do advanced chapter management.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Parallel encoding of files: more cores - faster results (unlike other legacy encoders which use single core from your \"24-core beast\")<br></li><li>Parallel processing of conversions queue: prepare next book while encoding another<br></li><li>Smart artwork support: combined from MP3 artwork and cover files from MP3 directory or copy and paste picture from internet<br></li><li>Unicode tags support: keep tags in own language<br></li><li>Flexible quality management: find balance between size and quality, managed by prebuilt and custom presets<br></li><li>Instant preview: listen what you are going to encode<br></li><li>Simple and lightweight user interface: convert a book with few clicks</li></ul><h2 class=\"bb_tag\" >Advanced chapters support: </h2><ul class=\"bb_ul\"><li>combining multiple mp3 into single chapter<br></li><li>re-import existing chapters from existing m4a/m4b<br></li><li>loading chapters information from mp3 or cue files<br></li><li>splitting monolithic file into chapters<br></li><li>automatic naming of chapters based on metadata or filename of source files</li></ul>",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 78,
+  "review_positive": 52,
+  "review_percentage": 66.7,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 68,
+      "review_percentage": 66.2,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-24",
+      "review_count": 78,
+      "review_percentage": 66.7,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

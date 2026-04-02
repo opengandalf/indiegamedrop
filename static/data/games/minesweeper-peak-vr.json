@@ -1,0 +1,71 @@
+{
+  "steam_app_id": 1074330,
+  "name": "Minesweeper Peak VR",
+  "slug": "minesweeper-peak-vr",
+  "developer": "Armin Rigo",
+  "publisher": "Baroque Software",
+  "release_date": "May 8, 2019",
+  "price_usd": 0.0,
+  "genres": [
+    "Casual",
+    "Indie"
+  ],
+  "tags": [
+    "Casual",
+    "Indie"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "A port in VR of the classical Minesweeper game from Windows. Remember the digits that tell you the number of adjacent mines? It's the same here, except that adjacency works in three dimensions. See and feel the structure of this 3D grid of potential mines—straight in VR.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1074330/header.jpg?t=1573255624",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1074330/ss_9f5329320122e2dc2effd2dd53a1d313dd258717.600x338.jpg?t=1573255624",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1074330/ss_0d0857ed95ce3735488a0a23078c7ad007091531.600x338.jpg?t=1573255624",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1074330/ss_cc6215861cd22f137b44955b4abfa70f9e9c20e7.600x338.jpg?t=1573255624",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1074330/ss_db1ef52cc7a04ba520e881912df70fbf84009618.600x338.jpg?t=1573255624",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1074330/ss_75bcc2fefb15f5142ad04eca91d2f3817a149f64.600x338.jpg?t=1573255624"
+  ],
+  "detailed_description": "A port in VR of the classical Minesweeper game from Windows.  Remember the digits that tell you the number of adjacent mines?  It's the same here, except that adjacency works in three dimensions.  See and feel the structure of this 3D grid of potential mines—straight in VR.<br><br><ul class=\"bb_ul\"><li> Three levels of difficulty<br></li><li> 3D spheres instead of 2D squares<br></li><li> Simple but realistic-looking graphics<br></li><li> It is almost always possible to find the solution without luck</li></ul><br>To open a sphere, \"click\" on it with the trigger of the controller.  If it contains a mine, you loose.  Otherwise, a number appears.  This is the number of adjacent spheres that contain mines.  The precise rule is that two positions are adjacent if their 3D distance is smaller than 1.5.  That gives each sphere up to 18 neighbors; but don't fear, it is easy find neighbors: hovering over a number with the controller highlights all the adjacent spheres.<br><br>You can also click on a sphere with the \"other\" button (on Vive, press the touchpad; on Oculus, it is the A or X button).  Use it to flag spheres where you think there is a mine.",
+  "about_the_game": "A port in VR of the classical Minesweeper game from Windows.  Remember the digits that tell you the number of adjacent mines?  It's the same here, except that adjacency works in three dimensions.  See and feel the structure of this 3D grid of potential mines—straight in VR.<br><br><ul class=\"bb_ul\"><li> Three levels of difficulty<br></li><li> 3D spheres instead of 2D squares<br></li><li> Simple but realistic-looking graphics<br></li><li> It is almost always possible to find the solution without luck</li></ul><br>To open a sphere, \"click\" on it with the trigger of the controller.  If it contains a mine, you loose.  Otherwise, a number appears.  This is the number of adjacent spheres that contain mines.  The precise rule is that two positions are adjacent if their 3D distance is smaller than 1.5.  That gives each sphere up to 18 neighbors; but don't fear, it is easy find neighbors: hovering over a number with the controller highlights all the adjacent spheres.<br><br>You can also click on a sphere with the \"other\" button (on Vive, press the touchpad; on Oculus, it is the A or X button).  Use it to flag spheres where you think there is a mine.",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Tracked Controller Support",
+    "VR Only"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 16,
+  "review_positive": 14,
+  "review_percentage": 87.5,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 16,
+      "review_percentage": 87.5,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 16,
+      "review_percentage": 87.5,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

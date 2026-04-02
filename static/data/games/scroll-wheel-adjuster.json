@@ -1,0 +1,65 @@
+{
+  "steam_app_id": 3234590,
+  "name": "Scroll Wheel Adjuster",
+  "slug": "scroll-wheel-adjuster",
+  "developer": "RGByte Software",
+  "publisher": "RGByte Software",
+  "release_date": "Oct 17, 2024",
+  "price_usd": 0.99,
+  "genres": [
+    "Utilities"
+  ],
+  "tags": [
+    "Utilities"
+  ],
+  "platforms": [
+    "linux"
+  ],
+  "short_description": "This application allows you to adjust the mouse wheel speed on Linux systems.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234590/header.jpg?t=1745024302",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234590/ss_ba69c07ea910710eacc3a8a3798f389eb6f4ecb2.600x338.jpg?t=1745024302",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234590/ss_ef199cc73d8caecb6b98606955d758750225d391.600x338.jpg?t=1745024302",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234590/ss_e5302b25874d6414b45ba412f18583c566a024f7.600x338.jpg?t=1745024302",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234590/ss_a98d9a76eb488a068fcaa77436bf2c0a885e6b6a.600x338.jpg?t=1745024302",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234590/ss_aeef03b5e72927108bd5132985e8377c081c7735.600x338.jpg?t=1745024302"
+  ],
+  "detailed_description": "<p class=\"bb_paragraph\" ><strong>This application allows you to adjust the mouse wheel speed on Linux systems.</strong> </p><p class=\"bb_paragraph\" >It will install the dependencies and make the necessary adjustments so the user can use it in a simplified way. The speed adjustments should persist even after restarting the system. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Attention:</strong></p><p class=\"bb_paragraph\" >It has been tested and works well on: Ubuntu 20.04.6 LTS, Linux Mint 22, Linux Mint 21.3.</p><p class=\"bb_paragraph\" >Partially works on: Ubuntu 22.04.5 LTS (not on Firefox), Ubuntu 24.04 LTS (not on Firefox).</p><p class=\"bb_paragraph\" >It does not work on: Ubuntu 23.10, Debian 9 and earlier versions.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><strong>Recommendation:</strong></p><p class=\"bb_paragraph\" >Run the software directly from the installation folder.</p><p class=\"bb_paragraph\" >See more information at <strong>Community</strong> -> <strong>Discussions</strong> -> <strong>Run the application directly from the folder</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Developer's note:</strong></p><p class=\"bb_paragraph\" >This application uses IMWheel, a tool freely available for Linux. You can install IMWheel on your own and use it at no cost. However, this application will simplify and automate the entire process.</p><p class=\"bb_paragraph\" >IMWheel does not work with Wayland-based applications. For example, the pre-installed Firefox on Ubuntu 24.04 LTS uses Wayland, so it won't work, but it may work with other X11-based applications such as Chromium.</p><p class=\"bb_paragraph\" >If you encounter any issues with the IMWheel installation, you can remove it via terminal using the following commands:</p><p class=\"bb_paragraph\" >sudo killall imwheel; apt remove imwheel; apt autoremove; apt purge imwheel</p>",
+  "about_the_game": "<p class=\"bb_paragraph\" ><strong>This application allows you to adjust the mouse wheel speed on Linux systems.</strong> </p><p class=\"bb_paragraph\" >It will install the dependencies and make the necessary adjustments so the user can use it in a simplified way. The speed adjustments should persist even after restarting the system. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Attention:</strong></p><p class=\"bb_paragraph\" >It has been tested and works well on: Ubuntu 20.04.6 LTS, Linux Mint 22, Linux Mint 21.3.</p><p class=\"bb_paragraph\" >Partially works on: Ubuntu 22.04.5 LTS (not on Firefox), Ubuntu 24.04 LTS (not on Firefox).</p><p class=\"bb_paragraph\" >It does not work on: Ubuntu 23.10, Debian 9 and earlier versions.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><strong>Recommendation:</strong></p><p class=\"bb_paragraph\" >Run the software directly from the installation folder.</p><p class=\"bb_paragraph\" >See more information at <strong>Community</strong> -> <strong>Discussions</strong> -> <strong>Run the application directly from the folder</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Developer's note:</strong></p><p class=\"bb_paragraph\" >This application uses IMWheel, a tool freely available for Linux. You can install IMWheel on your own and use it at no cost. However, this application will simplify and automate the entire process.</p><p class=\"bb_paragraph\" >IMWheel does not work with Wayland-based applications. For example, the pre-installed Firefox on Ubuntu 24.04 LTS uses Wayland, so it won't work, but it may work with other X11-based applications such as Chromium.</p><p class=\"bb_paragraph\" >If you encounter any issues with the IMWheel installation, you can remove it via terminal using the following commands:</p><p class=\"bb_paragraph\" >sudo killall imwheel; apt remove imwheel; apt autoremove; apt purge imwheel</p>",
+  "supported_languages": "English, French, Italian, German, Simplified Chinese, Korean, Spanish - Latin America, Japanese, Polish, Portuguese - Brazil, Russian, Turkish",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 0,
+  "review_positive": 0,
+  "review_percentage": 0.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 1,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-27",
+      "review_count": 0,
+      "review_percentage": 0.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

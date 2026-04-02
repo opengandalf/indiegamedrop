@@ -1,0 +1,98 @@
+{{/*
+  Generic filtered game grid page partial.
+  Used by rising, hidden-gems, new-releases sections.
+
+  Parameters (passed via dict):
+    .Title       - Page title (h1)
+    .Description - Subtitle text
+    .DataURL     - URL to JSON data file (e.g. "data/rising.json")
+    .GridID      - HTML id for the game grid container
+    .DefaultSort - Default sort field
+    .SortOptions - List of dicts: [{value, label}] (page-specific, appended after defaults)
+    .EmptyTitle  - Title for empty state
+    .EmptyDesc   - Description for empty state
+    .IncludeSparkline - Whether to include sparkline.js (bool)
+*/}}
+
+<h1>{{ .Title }}</h1>
+<p>{{ .Description }}</p>
+
+<div class="filters-bar">
+  <!-- Search box — always visible -->
+  <div class="search-box">
+    <input type="text" id="search-input" placeholder="Search by name or developer…" autocomplete="off">
+  </div>
+
+  <!-- Mobile toggle -->
+  <button class="filters-toggle" id="filters-toggle" aria-expanded="false" aria-controls="filter-dropdowns">
+    <span class="toggle-label">Filters</span>
+    <span class="filter-badge" id="filter-badge" style="display:none">0</span>
+  </button>
+
+  <!-- Collapsible dropdowns -->
+  <div class="filter-dropdowns" id="filter-dropdowns">
+    <div class="filter-row">
+      <select id="genre-filter">
+        <option value="">All Genres</option>
+      </select>
+      <select id="platform-filter">
+        <option value="">All Platforms</option>
+        <option value="windows">Windows</option>
+        <option value="mac">Mac</option>
+        <option value="linux">Linux</option>
+      </select>
+      <select id="price-filter">
+        <option value="">All Prices</option>
+        <option value="free">Free</option>
+        <option value="0-5">Under $5</option>
+        <option value="5-10">$5 – $10</option>
+        <option value="10-20">$10 – $20</option>
+        <option value="20+">$20+</option>
+      </select>
+      <select id="rating-filter">
+        <option value="">Any Rating</option>
+        <option value="95">95%+ (Overwhelmingly Positive)</option>
+        <option value="90">90%+ (Very Positive)</option>
+        <option value="80">80%+ (Positive)</option>
+        <option value="70">70%+ (Mostly Positive)</option>
+      </select>
+      <select id="reviews-filter">
+        <option value="">Any Reviews</option>
+        <option value="100">100+</option>
+        <option value="1000">1K+</option>
+        <option value="10000">10K+</option>
+      </select>
+      <select id="sort-filter">
+        <!-- Universal defaults -->
+        <option value="name_az">Name A–Z</option>
+        <option value="newest">Newest First</option>
+        <option value="review_count">Most Reviewed</option>
+        <option value="review_percentage">Highest Rated</option>
+        <!-- Page-specific sort options -->
+        {{ range .SortOptions }}
+        <option value="{{ .value }}">{{ .label }}</option>
+        {{ end }}
+      </select>
+    </div>
+  </div>
+
+  <!-- Active filter summary -->
+  <div class="filter-summary" id="filter-summary" style="display:none">
+    <span id="results-count"></span>
+    <button class="clear-filters" id="clear-filters">Clear filters</button>
+  </div>
+</div>
+
+<div class="game-grid" id="{{ .GridID }}"></div>
+<div class="empty-state" id="empty-state" style="display:none;">
+  <h3>{{ .EmptyTitle }}</h3>
+  <p>{{ .EmptyDesc }}</p>
+</div>
+
+<script src="{{ "js/filters.js" | relURL }}"></script>
+{{ if .IncludeSparkline }}
+<script src="{{ "js/sparkline.js" | relURL }}"></script>
+{{ end }}
+<script>
+  initFilteredPage('{{ .DataURL | relURL }}', '{{ .GridID }}', '{{ .DefaultSort }}');
+</script>

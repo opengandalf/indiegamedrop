@@ -1,0 +1,82 @@
+{
+  "steam_app_id": 331650,
+  "name": "Carmageddon TDR 2000",
+  "slug": "carmageddon-tdr-2000",
+  "developer": "Torus Games",
+  "publisher": "THQ Nordic",
+  "release_date": "Dec 4, 2014",
+  "price_usd": 1.99,
+  "genres": [
+    "Action",
+    "Indie",
+    "Racing"
+  ],
+  "tags": [
+    "Action",
+    "Indie",
+    "Racing"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Yes, it's the game literally... SOME of you asked for! And so, in the spirit of \"well, alright then, if you insist...\" we present the third game in the Carmageddon series, in the knowledge that some of you Carma fans out there would like to have a complete Carmageddon collection in your Steam library. Nothing wrong with that.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331650/header.jpg?t=1727865293",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331650/ss_8af926b2fff5646211f23eb2b3a328ab2344265a.600x338.jpg?t=1727865293",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331650/ss_537fc1abddc8da06f9e3e9d5c46c5d17845252c1.600x338.jpg?t=1727865293",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331650/ss_5477457ca600f78da69df01aa72b9d05bf79bb88.600x338.jpg?t=1727865293",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331650/ss_f3b390f709ce10f373b50271235acfa694d8c655.600x338.jpg?t=1727865293",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331650/ss_892fa64c1b00ea83a387aea41cffd334a3d45313.600x338.jpg?t=1727865293",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331650/ss_f1a21dab70ac2008045245230f67f05041194577.600x338.jpg?t=1727865293",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331650/ss_78e2c7975f9ec79a0d0f6f432cfcdc7d013bceea.600x338.jpg?t=1727865293"
+  ],
+  "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331650/extras/f4645e705deb547a28c20a938c27a8de.avif?t=1727865293\" width=616 height=89 /></span><br>Yes, it's the game literally... <strong>SOME </strong>of you asked for! And so, in the spirit of \"well, alright then, if you <i>insist...</i>\" we present the third game in the Carmageddon series, in the knowledge that some of you Carma fans out there would like to have a complete Carmageddon collection in your Steam library. Nothing wrong with that.<br><br>Anyway, here's what the blurb on the back of the DVD case had to say about <strong>Carmageddon: TDR 2000:</strong><br><br>The world's most controversial racing game returns with incredible graphics, fantastic game play and even more outrageous fun!<br><br>Max Damage, imprisoned for life, plots his escape. However, there's the small matter of an army of police, hordes of gangsters and thousands of enraged inhabitants - all with homicide on their minds. To succeed, it will take a four wheeling genius with no morals, a killer instinct and a burning passion to escape. <br><br>No such person existed... until now!<br><br><ul class=\"bb_ul\"><li>Drive 50 totally destructible vehicles.<br></li><li>Over 48 missions and races to complete.<br></li><li>9 completely 3D single player environments to explore and destroy.<br></li><li>7 multi-player game types in 9 custom maps.</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331650/extras/b5f368e54daaccb1de47d6d45e476a76.avif?t=1727865293\" width=616 height=100 /></span><h2 class=\"bb_tag\" >Known Issue</h2>Symptoms: When you start a mission, the game crashes to the desktop with an error about Directx, address 0x80070057.<br>Solutions: There's an easy fix, disable the MIP Filter. You can do this by running TDR 2000 Setup and opening the \"Advanced Settings\" dialog, and setting MIP Filter to \"none\". Another solution is to disable the Fog.<h2 class=\"bb_tag\" >Command Line Interface</h2>Command line options for the game are:<br><br><strong>-profile</strong>(w) Reprofile system<br><strong>-setup</strong>(s) Access setup dialog<br><strong>-fulltextures</strong>(f) Use fullsize textures<br><strong>-join</strong>(j) \"IP address\" Join TCP/IP game at specified IP address<br><strong>-create</strong>(cr) Create a TCP/IP server<br><strong>-clientserver</strong>(cs) Specifies client/server mode<br><strong>-dedicated</strong>(d) Specifies dedicated server mode<br><strong>-console</strong>(co) Specifies console output mode<br><strong>-gamescript</strong>(g) \"FileName.txt\" Specifies gamescript to use<br><strong>-maxDataRate</strong>(mdr) [value] Specifies data rate settings<br><strong>-dataRateFalloff</strong>(drfp) [value]<br><strong>-debugFile</strong>(df) \"FileName.txt\" Specifies alternate name for dbg.txt<br><strong>-optionsFile</strong>(of) \"FileName.txt\" Specifies alternate name for options.txt file<br><strong>-serverName</strong>(sn) \"ServerName\" Specifies server name[/b]<h2 class=\"bb_tag\" >Multiplayer</h2>How do I set up dedicated server games?<br>To set up a dedicated server, create a shortcut to Carmageddon: TDR2000, and add <strong>-cr -d -co -cs</strong> to your command line. This will use the options you have already in your Multiplayer settings.",
+  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331650/extras/f4645e705deb547a28c20a938c27a8de.avif?t=1727865293\" width=616 height=89 /></span><br>Yes, it's the game literally... <strong>SOME </strong>of you asked for! And so, in the spirit of \"well, alright then, if you <i>insist...</i>\" we present the third game in the Carmageddon series, in the knowledge that some of you Carma fans out there would like to have a complete Carmageddon collection in your Steam library. Nothing wrong with that.<br><br>Anyway, here's what the blurb on the back of the DVD case had to say about <strong>Carmageddon: TDR 2000:</strong><br><br>The world's most controversial racing game returns with incredible graphics, fantastic game play and even more outrageous fun!<br><br>Max Damage, imprisoned for life, plots his escape. However, there's the small matter of an army of police, hordes of gangsters and thousands of enraged inhabitants - all with homicide on their minds. To succeed, it will take a four wheeling genius with no morals, a killer instinct and a burning passion to escape. <br><br>No such person existed... until now!<br><br><ul class=\"bb_ul\"><li>Drive 50 totally destructible vehicles.<br></li><li>Over 48 missions and races to complete.<br></li><li>9 completely 3D single player environments to explore and destroy.<br></li><li>7 multi-player game types in 9 custom maps.</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331650/extras/b5f368e54daaccb1de47d6d45e476a76.avif?t=1727865293\" width=616 height=100 /></span><h2 class=\"bb_tag\" >Known Issue</h2>Symptoms: When you start a mission, the game crashes to the desktop with an error about Directx, address 0x80070057.<br>Solutions: There's an easy fix, disable the MIP Filter. You can do this by running TDR 2000 Setup and opening the \"Advanced Settings\" dialog, and setting MIP Filter to \"none\". Another solution is to disable the Fog.<h2 class=\"bb_tag\" >Command Line Interface</h2>Command line options for the game are:<br><br><strong>-profile</strong>(w) Reprofile system<br><strong>-setup</strong>(s) Access setup dialog<br><strong>-fulltextures</strong>(f) Use fullsize textures<br><strong>-join</strong>(j) \"IP address\" Join TCP/IP game at specified IP address<br><strong>-create</strong>(cr) Create a TCP/IP server<br><strong>-clientserver</strong>(cs) Specifies client/server mode<br><strong>-dedicated</strong>(d) Specifies dedicated server mode<br><strong>-console</strong>(co) Specifies console output mode<br><strong>-gamescript</strong>(g) \"FileName.txt\" Specifies gamescript to use<br><strong>-maxDataRate</strong>(mdr) [value] Specifies data rate settings<br><strong>-dataRateFalloff</strong>(drfp) [value]<br><strong>-debugFile</strong>(df) \"FileName.txt\" Specifies alternate name for dbg.txt<br><strong>-optionsFile</strong>(of) \"FileName.txt\" Specifies alternate name for options.txt file<br><strong>-serverName</strong>(sn) \"ServerName\" Specifies server name[/b]<h2 class=\"bb_tag\" >Multiplayer</h2>How do I set up dedicated server games?<br>To set up a dedicated server, create a shortcut to Carmageddon: TDR2000, and add <strong>-cr -d -co -cs</strong> to your command line. This will use the options you have already in your Multiplayer settings.",
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 303,
+  "rising_score": 0.0001,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 16.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 475,
+  "review_positive": 348,
+  "review_percentage": 73.3,
+  "owner_estimate": 75000,
+  "ccu_estimate": 1,
+  "follower_count": 0,
+  "median_playtime_minutes": 60,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 459,
+      "review_percentage": 73.6,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-22",
+      "review_count": 475,
+      "review_percentage": 73.3,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-24",
+      "review_count": 475,
+      "review_percentage": 73.3,
+      "ccu_estimate": 1,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

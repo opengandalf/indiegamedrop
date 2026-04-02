@@ -1,0 +1,71 @@
+{
+  "steam_app_id": 1178310,
+  "name": "Picross.io",
+  "slug": "picrossio",
+  "developer": "Alexander Mirgorod",
+  "publisher": "Alexander Kudryavy",
+  "release_date": "Nov 10, 2019",
+  "price_usd": 0.75,
+  "genres": [
+    "Indie"
+  ],
+  "tags": [
+    "Indie"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Picross is a picture logic puzzles game also known as Nonograms.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1178310/header.jpg?t=1689684189",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1178310/ss_97c06620c3e4a47dd795c3c0e6930bb2f9ecb55e.600x338.jpg?t=1689684189",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1178310/ss_b17f7e411b3406ad9b47159e46032eabdaa91368.600x338.jpg?t=1689684189",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1178310/ss_e38487593de843da2c146870bbc28be28dc632ec.600x338.jpg?t=1689684189",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1178310/ss_4957e9225be7708bafd0b9ed82562ceb6ed84971.600x338.jpg?t=1689684189",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1178310/ss_6746ea054906463e2aa30f8d0dfd90b6d168733f.600x338.jpg?t=1689684189",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1178310/ss_cb039d5d838fdae20d13cb2ec44f014170991f83.600x338.jpg?t=1689684189",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1178310/ss_790f5521d15ee8418e2739a905135847719677af.600x338.jpg?t=1689684189"
+  ],
+  "detailed_description": "Picross is a picture logic puzzles in which cells in a grid must be colored or left blank according to numbers at the side of the grid to reveal a hidden picture. In this puzzle type, the numbers are a form of discrete tomography that measures how many unbroken lines of filled-in squares there are in any given row or column. For example, a clue of \"4 8 3\" would mean there are sets of four, eight, and three filled squares, in that order, with at least one blank square between successive groups.<br />\r\n<br />\r\nPicross includes:<br />\r\n- 15 puzzles 5x5 size<br />\r\n- 74 puzzles 10x10 size<br />\r\n- 224 puzzles 15x15 size",
+  "about_the_game": "Picross is a picture logic puzzles in which cells in a grid must be colored or left blank according to numbers at the side of the grid to reveal a hidden picture. In this puzzle type, the numbers are a form of discrete tomography that measures how many unbroken lines of filled-in squares there are in any given row or column. For example, a clue of \"4 8 3\" would mean there are sets of four, eight, and three filled squares, in that order, with at least one blank square between successive groups.<br />\r\n<br />\r\nPicross includes:<br />\r\n- 15 puzzles 5x5 size<br />\r\n- 74 puzzles 10x10 size<br />\r\n- 224 puzzles 15x15 size",
+  "supported_languages": "English, German, Portuguese - Portugal, Russian, Ukrainian, Japanese",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "In-App Purchases",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 2.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 10,
+  "review_positive": 5,
+  "review_percentage": 50.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 8,
+      "review_percentage": 37.5,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-24",
+      "review_count": 10,
+      "review_percentage": 50.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

@@ -1,0 +1,75 @@
+{
+  "steam_app_id": 839180,
+  "name": "Nine-Slicer",
+  "slug": "nine-slicer",
+  "developer": "Gilligames",
+  "publisher": "Gilligames",
+  "release_date": "Aug 22, 2019",
+  "price_usd": 9.99,
+  "genres": [
+    "Indie",
+    "Design & Illustration",
+    "Utilities",
+    "Game Development"
+  ],
+  "tags": [
+    "Indie",
+    "Design & Illustration",
+    "Utilities",
+    "Game Development"
+  ],
+  "platforms": [
+    "windows",
+    "mac"
+  ],
+  "short_description": "Reduce your atlas sizes! Optimize large images for your UI by creating sliced versions. Nine-sliced images can be used in various game engines, including Unity. No more labor-intensive manual slicing work in Photoshop. Spend seconds on what would take several minutes to do manually.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839180/header.jpg?t=1667000337",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839180/ss_1c3e75fb758ec6a8679f6a4f70f5a59efb51f7ec.600x338.jpg?t=1667000337",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839180/ss_a35a4b1f06659401218603ae4d43807aeb6be191.600x338.jpg?t=1667000337",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839180/ss_723c682d16a7c3eb5caaded3506fc376ddea19a0.600x338.jpg?t=1667000337",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839180/ss_56009ab75fd4dd225b5fb03426e5d5b8ce2bb95a.600x338.jpg?t=1667000337",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839180/ss_9ecd3353f4b80468bf59f09519ccf547d3a50472.600x338.jpg?t=1667000337",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839180/ss_46e0471ca5374c235e77c7df696781f6dab158f5.600x338.jpg?t=1667000337"
+  ],
+  "detailed_description": "Easily reduce the atlas sizes in your games! Optimize large images for your UI by creating sliced versions.<br />\r\n<br />\r\n1. Mock up your UI in your image editing program (such as Photoshop).<br />\r\n2. Export each full-sized UI element from your image editing program as png files.<br />\r\n3. Load the full sized UI element png into Nine-Slicer.<br />\r\n4. Define your slicing margins.<br />\r\n5. Preview the results side-by-side with the original.<br />\r\n6. Export the optimized image, along with a text file to remember the margins that were used.<br />\r\n7. Use the optimized exported image in an app that supports nine-sliced images.<br />\r\n<br />\r\nNine-sliced images can be used in various game engines, including Unity.<br />\r\nNo more labor-intensive manual slicing work in Photoshop.<br />\r\nSpend seconds on what would take several minutes to do manually, on each UI image. The saved time adds up!<br />\r\n<br />\r\nTo see a full demonstration video, click the \"View the manual\" link on the right.",
+  "about_the_game": "Easily reduce the atlas sizes in your games! Optimize large images for your UI by creating sliced versions.<br />\r\n<br />\r\n1. Mock up your UI in your image editing program (such as Photoshop).<br />\r\n2. Export each full-sized UI element from your image editing program as png files.<br />\r\n3. Load the full sized UI element png into Nine-Slicer.<br />\r\n4. Define your slicing margins.<br />\r\n5. Preview the results side-by-side with the original.<br />\r\n6. Export the optimized image, along with a text file to remember the margins that were used.<br />\r\n7. Use the optimized exported image in an app that supports nine-sliced images.<br />\r\n<br />\r\nNine-sliced images can be used in various game engines, including Unity.<br />\r\nNo more labor-intensive manual slicing work in Photoshop.<br />\r\nSpend seconds on what would take several minutes to do manually, on each UI image. The saved time adds up!<br />\r\n<br />\r\nTo see a full demonstration video, click the \"View the manual\" link on the right.",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 2,
+  "review_positive": 2,
+  "review_percentage": 100.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 2,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 2,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

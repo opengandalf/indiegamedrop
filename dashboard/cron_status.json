@@ -1,0 +1,415 @@
+{
+  "jobs": [
+    {
+      "id": "02004776-1b09-4b53-a469-624734dfc7e9",
+      "agentId": "main",
+      "sessionKey": "agent:main:bluebubbles:direct:+447453317869",
+      "name": "IndieGameDrop: Morning article",
+      "enabled": true,
+      "createdAtMs": 1774137504621,
+      "updatedAtMs": 1774137504621,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 10 * * *",
+        "tz": "Europe/London"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Generate a morning article for IndieGameDrop.\n\ncd ~/.openclaw/repos/indiegamedrop && PYTHONPATH=. python3 scripts/generate_article.py --type random\n\nThen build and deploy:\nhugo --minify && git add -A && git diff --cached --quiet || (git commit -m \"Article: $(date +%Y-%m-%d) morning\" && git push)\n\nReport: article title, type, and confirm deploy.",
+        "model": "anthropic/claude-sonnet-4-6",
+        "timeoutSeconds": 600
+      },
+      "delivery": {
+        "mode": "announce",
+        "to": "+447453317869",
+        "channel": "bluebubbles"
+      },
+      "state": {
+        "nextRunAtMs": 1774173600000
+      }
+    },
+    {
+      "id": "5b35c63d-cf96-4062-82d5-78733d429974",
+      "agentId": "main",
+      "sessionKey": "agent:main:bluebubbles:direct:+447453317869",
+      "name": "IndieGameDrop: Batch enrich (mid-morning)",
+      "enabled": true,
+      "createdAtMs": 1774165379547,
+      "updatedAtMs": 1774170117855,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 11 * * *",
+        "tz": "Europe/London"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run IndieGameDrop batch enrichment:\ncd ~/.openclaw/repos/indiegamedrop && PYTHONPATH=. python3 scripts/generate_data.py batch_enrich 2>&1 | tail -20\nReport: how many games enriched and any errors.",
+        "model": "anthropic/claude-sonnet-4-6",
+        "timeoutSeconds": 3600
+      },
+      "delivery": {
+        "mode": "none"
+      },
+      "state": {
+        "nextRunAtMs": 1774177200000
+      }
+    },
+    {
+      "id": "c7dcb80b-b9a5-49d3-b8fe-bafa83bdef31",
+      "agentId": "main",
+      "sessionKey": "agent:main:bluebubbles:direct:+447453317869",
+      "name": "IndieGameDrop: Weekly Trend Report (Sunday)",
+      "enabled": true,
+      "createdAtMs": 1774141687667,
+      "updatedAtMs": 1774141687667,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 11 * * 0",
+        "tz": "Europe/London"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Generate an IndieGameDrop weekly trends article: cd ~/.openclaw/repos/indiegamedrop && PYTHONPATH=. python3 scripts/generate_article.py --type weekly-trends && hugo --minify && git add -A && git commit -m 'Weekly Trend Report' && git push",
+        "model": "anthropic/claude-sonnet-4-6",
+        "timeoutSeconds": 1800
+      },
+      "delivery": {
+        "mode": "none"
+      },
+      "state": {
+        "nextRunAtMs": 1774177200000
+      }
+    },
+    {
+      "id": "1b49f8dd-9ae5-4291-9a8f-b0b527cbc995",
+      "agentId": "main",
+      "sessionKey": "agent:main:bluebubbles:direct:+447453317869",
+      "name": "IndieGameDrop: Batch enrich (afternoon)",
+      "enabled": true,
+      "createdAtMs": 1774136676505,
+      "updatedAtMs": 1774170122465,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 14 * * *",
+        "tz": "Europe/London"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run IndieGameDrop batch enrichment:\ncd ~/.openclaw/repos/indiegamedrop && PYTHONPATH=. python3 scripts/generate_data.py batch_enrich 2>&1 | tail -20\nReport: how many games enriched and any errors.",
+        "model": "anthropic/claude-sonnet-4-6",
+        "timeoutSeconds": 3600
+      },
+      "delivery": {
+        "mode": "none",
+        "channel": "bluebubbles",
+        "to": "+447453317869"
+      },
+      "state": {
+        "nextRunAtMs": 1774188000000
+      }
+    },
+    {
+      "id": "ebc080e2-5d2f-45ed-821a-126b50369ff3",
+      "agentId": "main",
+      "sessionKey": "agent:main:bluebubbles:direct:+447453317869",
+      "name": "IndieGameDrop: Evening article",
+      "enabled": true,
+      "createdAtMs": 1774137508136,
+      "updatedAtMs": 1774137508136,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 17 * * *",
+        "tz": "Europe/London"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Generate an evening article for IndieGameDrop.\n\ncd ~/.openclaw/repos/indiegamedrop && PYTHONPATH=. python3 scripts/generate_article.py --type random\n\nThen build and deploy:\nhugo --minify && git add -A && git diff --cached --quiet || (git commit -m \"Article: $(date +%Y-%m-%d) evening\" && git push)\n\nReport: article title, type, and confirm deploy.",
+        "model": "anthropic/claude-sonnet-4-6",
+        "timeoutSeconds": 600
+      },
+      "delivery": {
+        "mode": "announce",
+        "to": "+447453317869",
+        "channel": "bluebubbles"
+      },
+      "state": {
+        "nextRunAtMs": 1774198800000
+      }
+    },
+    {
+      "id": "6f965604-09d2-49ee-9702-ac0865f3c33a",
+      "agentId": "main",
+      "sessionKey": "agent:main:bluebubbles:direct:+447453317869",
+      "name": "IndieGameDrop: Evening discover + deploy",
+      "enabled": true,
+      "createdAtMs": 1774134802459,
+      "updatedAtMs": 1774134802459,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 18 * * *",
+        "tz": "Europe/London"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run the IndieGameDrop evening discovery and deploy.\n\ncd ~/.openclaw/repos/indiegamedrop && PYTHONPATH=. python3 -c \"\nfrom scripts.generate_data import cmd_gather, cmd_score, cmd_export\nimport logging, subprocess\nlogging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')\ncmd_gather()\ncmd_score()\ncmd_export()\nprint('Evening refresh complete')\n\" && hugo --minify && git add -A && git diff --cached --quiet || (git commit -m \"Evening data refresh $(date +%Y-%m-%d)\" && git push)\n\nReport how many new games found and confirm deploy.",
+        "model": "anthropic/claude-sonnet-4-6",
+        "timeoutSeconds": 1800
+      },
+      "delivery": {
+        "mode": "announce",
+        "to": "+447453317869",
+        "channel": "bluebubbles"
+      },
+      "state": {
+        "nextRunAtMs": 1774202400000
+      }
+    },
+    {
+      "id": "553aa886-a821-4de7-a2f7-906557305690",
+      "agentId": "main",
+      "sessionKey": "agent:main:bluebubbles:direct:+447453317869",
+      "name": "IndieGameDrop: Batch enrich (evening)",
+      "enabled": true,
+      "createdAtMs": 1774165383968,
+      "updatedAtMs": 1774170127926,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 20 * * *",
+        "tz": "Europe/London"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run IndieGameDrop batch enrichment:\ncd ~/.openclaw/repos/indiegamedrop && PYTHONPATH=. python3 scripts/generate_data.py batch_enrich 2>&1 | tail -20\nReport: how many games enriched and any errors.",
+        "model": "anthropic/claude-sonnet-4-6",
+        "timeoutSeconds": 3600
+      },
+      "delivery": {
+        "mode": "none"
+      },
+      "state": {
+        "nextRunAtMs": 1774209600000
+      }
+    },
+    {
+      "id": "78edeb71-cea7-4f8f-a05c-58f54da00652",
+      "agentId": "main",
+      "sessionKey": "agent:main:bluebubbles:direct:+447453317869",
+      "name": "IndieGameDrop: Batch enrich (night)",
+      "enabled": true,
+      "createdAtMs": 1774136680838,
+      "updatedAtMs": 1774170132394,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 23 * * *",
+        "tz": "Europe/London"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run IndieGameDrop batch enrichment:\ncd ~/.openclaw/repos/indiegamedrop && PYTHONPATH=. python3 scripts/generate_data.py batch_enrich 2>&1 | tail -20\nReport: how many games enriched and any errors.",
+        "model": "anthropic/claude-sonnet-4-6",
+        "timeoutSeconds": 3600
+      },
+      "delivery": {
+        "mode": "none",
+        "channel": "bluebubbles",
+        "to": "+447453317869"
+      },
+      "state": {
+        "nextRunAtMs": 1774220400000
+      }
+    },
+    {
+      "id": "0249f513-76c1-4e09-b54a-b3d9abf8a516",
+      "agentId": "main",
+      "sessionKey": "agent:main:bluebubbles:direct:+447453317869",
+      "name": "IndieGameDrop: Batch enrich (early morning)",
+      "enabled": true,
+      "createdAtMs": 1774165375397,
+      "updatedAtMs": 1774170108718,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 1 * * *",
+        "tz": "Europe/London"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run IndieGameDrop batch enrichment:\ncd ~/.openclaw/repos/indiegamedrop && PYTHONPATH=. python3 scripts/generate_data.py batch_enrich 2>&1 | tail -20\nReport: how many games enriched and any errors.",
+        "model": "anthropic/claude-sonnet-4-6",
+        "timeoutSeconds": 3600
+      },
+      "delivery": {
+        "mode": "none"
+      },
+      "state": {
+        "nextRunAtMs": 1774227600000
+      }
+    },
+    {
+      "id": "518a9a1e-d964-4704-813d-8830d514fd80",
+      "agentId": "main",
+      "sessionKey": "agent:main:bluebubbles:direct:+447453317869",
+      "name": "IndieGameDrop: Batch enrich (morning)",
+      "enabled": true,
+      "createdAtMs": 1774136672255,
+      "updatedAtMs": 1774170113248,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 3 * * *",
+        "tz": "Europe/London"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run IndieGameDrop batch enrichment:\ncd ~/.openclaw/repos/indiegamedrop && PYTHONPATH=. python3 scripts/generate_data.py batch_enrich 2>&1 | tail -20\nReport: how many games enriched and any errors.",
+        "model": "anthropic/claude-sonnet-4-6",
+        "timeoutSeconds": 3600
+      },
+      "delivery": {
+        "mode": "none",
+        "channel": "bluebubbles",
+        "to": "+447453317869"
+      },
+      "state": {
+        "nextRunAtMs": 1774234800000,
+        "lastRunAtMs": 1774155600015,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 340576,
+        "lastDelivered": true,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0
+      }
+    },
+    {
+      "id": "da6b9e46-b95f-4fe0-b42f-548c2bad07c7",
+      "agentId": "main",
+      "sessionKey": "agent:main:bluebubbles:direct:+447453317869",
+      "name": "IndieGameDrop: Discover new games",
+      "enabled": true,
+      "createdAtMs": 1774134778865,
+      "updatedAtMs": 1774159804088,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 6 * * *",
+        "tz": "Europe/London"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run the IndieGameDrop discovery pipeline to find new indie games.\n\ncd ~/.openclaw/repos/indiegamedrop && PYTHONPATH=. python3 scripts/generate_data.py gather\n\nReport how many new games were discovered.",
+        "model": "anthropic/claude-sonnet-4-6",
+        "timeoutSeconds": 1800
+      },
+      "delivery": {
+        "mode": "announce",
+        "to": "+447453317869",
+        "channel": "bluebubbles"
+      },
+      "state": {
+        "nextRunAtMs": 1774245600000,
+        "lastRunAtMs": 1774159200019,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 604069,
+        "lastDelivered": true,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0
+      }
+    },
+    {
+      "id": "a2ff3c8d-56f4-4d04-a4d2-9fcaee90dce0",
+      "agentId": "main",
+      "sessionKey": "agent:main:bluebubbles:direct:+447453317869",
+      "name": "IndieGameDrop: Daily snapshot + score",
+      "enabled": true,
+      "createdAtMs": 1774134787639,
+      "updatedAtMs": 1774167310054,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 8 * * *",
+        "tz": "Europe/London"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run the IndieGameDrop daily snapshot and scoring pipeline with TIERED refresh.\n\ncd ~/.openclaw/repos/indiegamedrop && PYTHONPATH=. python3 -c \"\nfrom scripts.generate_data import cmd_snapshot, cmd_score\nimport logging\nlogging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')\ncmd_snapshot()\ncmd_score()\nprint('Snapshot + score complete')\n\"\n\nReport: how many games refreshed per tier (HOT/WARM/COOL/COLD) and any notable score changes.",
+        "model": "anthropic/claude-sonnet-4-6",
+        "timeoutSeconds": 3600
+      },
+      "delivery": {
+        "mode": "announce",
+        "to": "+447453317869",
+        "channel": "bluebubbles"
+      },
+      "state": {
+        "nextRunAtMs": 1774252800000,
+        "lastRunAtMs": 1774166553914,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 756140,
+        "lastDelivered": true,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0
+      }
+    },
+    {
+      "id": "cefa7590-6f6f-4e7d-a299-9ce7b50904ea",
+      "agentId": "main",
+      "sessionKey": "agent:main:bluebubbles:direct:+447453317869",
+      "name": "IndieGameDrop: Export + deploy site",
+      "enabled": true,
+      "createdAtMs": 1774134794925,
+      "updatedAtMs": 1774168494562,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 8 * * *",
+        "tz": "Europe/London"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run the IndieGameDrop export pipeline and deploy the site.\n\ncd ~/.openclaw/repos/indiegamedrop && PYTHONPATH=. python3 scripts/generate_data.py export && hugo --minify && git add -A && git diff --cached --quiet || (git commit -m \"Daily data refresh $(date +%Y-%m-%d)\" && git push)\n\nReport: how many games in each category (rising, gems, new releases, watchlist) and confirm the site deployed.",
+        "model": "anthropic/claude-sonnet-4-6",
+        "timeoutSeconds": 1800
+      },
+      "delivery": {
+        "mode": "announce",
+        "to": "+447453317869",
+        "channel": "bluebubbles"
+      },
+      "state": {
+        "nextRunAtMs": 1774254600000,
+        "lastRunAtMs": 1774168200019,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 294543,
+        "lastDelivered": true,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0
+      }
+    }
+  ],
+  "exported_at": "2026-03-22T09:15:40.960294"
+}

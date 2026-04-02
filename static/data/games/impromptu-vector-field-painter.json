@@ -1,0 +1,82 @@
+{
+  "steam_app_id": 684330,
+  "name": "Impromptu Vector Field Painter",
+  "slug": "impromptu-vector-field-painter",
+  "developer": "Impromptu Games",
+  "publisher": "Impromptu Games",
+  "release_date": "Aug 12, 2017",
+  "price_usd": 19.99,
+  "genres": [
+    "Animation & Modeling",
+    "Utilities"
+  ],
+  "tags": [
+    "Animation & Modeling",
+    "Utilities"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Paint 3D Vector Fields and save them out to .FGA format for use in other software, or your own games.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/684330/header.jpg?t=1508405270",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/684330/ss_2aebbf34dfc1ccb67447284abdf60f82fbb10b7f.600x338.jpg?t=1508405270",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/684330/ss_fdc68048a57bfd46657fce43f1e66733138c0795.600x338.jpg?t=1508405270",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/684330/ss_ffae4699534b501ceb45dc017a288949f08bdae2.600x338.jpg?t=1508405270",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/684330/ss_603a9d7a99edef9895b65bd02071541a2c7932ad.600x338.jpg?t=1508405270",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/684330/ss_0d76221459a5d36cca51c3cfb5a4f265eadd09ef.600x338.jpg?t=1508405270",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/684330/ss_ff3d35a9335e2236c0f9ea6f8ec4867615dd34d2.600x338.jpg?t=1508405270",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/684330/ss_954e3509a12b2584a9016e78d58b5efa59692de8.600x338.jpg?t=1508405270",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/684330/ss_00acc2060184968022c0550b238a502d46352a50.600x338.jpg?t=1508405270",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/684330/ss_a20a7252cf1ba4e9636659168ceec0a93326c43d.600x338.jpg?t=1508405270"
+  ],
+  "detailed_description": "A vector field is a uniform grid of vectors that can be used to influence the motion of particles. Basically, each point on a 3D grid imparts a force on nearby particles. Vector fields can be used to make super cool particle effects, but the fields aren't easy to make themselves: typically fields are painstakingly authored by some arcane process in 3D software or by a generator script. Painting them in VR is much more intuitive. Vector Field Painter lets you do that, and is also usable with keyboard and mouse if you don't have VR gear.<br />\r\n<br />\r\nThis tool lets you paint and visualise 3D vector fields in real-time, inspect the results from all directions, and save them out to .FGA format for use in other software, or your own games. You can also import your own existing vector fields, modify them in the tool and save them out again. This could save you a lot of time if you're already making use of vector fields, or make them more accessible to you if you aren't yet. <br />\r\n<br />\r\nThis tool is made in Unreal Engine 4 and includes its UE4 project files and code, so you can make your own modifications to the tool, or, if you're working on a UE4 project yourself, you can import the entire tool into your project and paint vector fields in your own environments, onto and around your own objects.<br />\r\n<br />\r\nThe tool is reliably performant editing vector fields up to a resolution of 16x16x16 (4096 grid points); performance creating vector fields at higher resolutions depends on your hardware and whether you're using VR mode. Default options go up to 64x64x64 (262,144 grid points); the UE4 project files can be modified to allow higher resolutions.",
+  "about_the_game": "A vector field is a uniform grid of vectors that can be used to influence the motion of particles. Basically, each point on a 3D grid imparts a force on nearby particles. Vector fields can be used to make super cool particle effects, but the fields aren't easy to make themselves: typically fields are painstakingly authored by some arcane process in 3D software or by a generator script. Painting them in VR is much more intuitive. Vector Field Painter lets you do that, and is also usable with keyboard and mouse if you don't have VR gear.<br />\r\n<br />\r\nThis tool lets you paint and visualise 3D vector fields in real-time, inspect the results from all directions, and save them out to .FGA format for use in other software, or your own games. You can also import your own existing vector fields, modify them in the tool and save them out again. This could save you a lot of time if you're already making use of vector fields, or make them more accessible to you if you aren't yet. <br />\r\n<br />\r\nThis tool is made in Unreal Engine 4 and includes its UE4 project files and code, so you can make your own modifications to the tool, or, if you're working on a UE4 project yourself, you can import the entire tool into your project and paint vector fields in your own environments, onto and around your own objects.<br />\r\n<br />\r\nThe tool is reliably performant editing vector fields up to a resolution of 16x16x16 (4096 grid points); performance creating vector fields at higher resolutions depends on your hardware and whether you're using VR mode. Default options go up to 64x64x64 (262,144 grid points); the UE4 project files can be modified to allow higher resolutions.",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Tracked Controller Support",
+    "VR Supported",
+    "Steam Cloud"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 5,
+  "review_positive": 5,
+  "review_percentage": 100.0,
+  "owner_estimate": 10000,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 5,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 5,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-31",
+      "review_count": 5,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

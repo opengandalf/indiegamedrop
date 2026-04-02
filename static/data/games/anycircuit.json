@@ -1,0 +1,77 @@
+{
+  "steam_app_id": 3387070,
+  "name": "AnyCircuit",
+  "slug": "anycircuit",
+  "developer": "Valerio Nenci",
+  "publisher": "Valerio Nenci",
+  "release_date": "Dec 23, 2024",
+  "price_usd": 1.99,
+  "genres": [
+    "Indie",
+    "Simulation"
+  ],
+  "tags": [
+    "Indie",
+    "Simulation"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Build the digital machines you've always dreamed of! With some patience, love for digital electronics, and a good amount of problem-solving skills, you can create any combinational or sequential circuit in no time, thanks to the user-friendly interface and integrated voxel-editing tools.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/header.jpg?t=1739369974",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/ss_a63ef15187d0c5a2288d2479ade8118ab16c5cdb.600x338.jpg?t=1739369974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/ss_74e3c4e4be8ca328fc2ac8e210ef0f5a39398885.600x338.jpg?t=1739369974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/ss_1bd7a48bcfb13fc9b3554cd827bf7129412e8724.600x338.jpg?t=1739369974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/ss_712ec3271d184f32cd502922ee4c5352d3f95eef.600x338.jpg?t=1739369974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/ss_8c7991692be4be2a902f0212ac0cd0c519fec3d8.600x338.jpg?t=1739369974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/ss_665ac1e57a155bf97c76d439f4deb5203bb1c785.600x338.jpg?t=1739369974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/ss_f16338b07e35f46dbad0e31339c9127dce310704.600x338.jpg?t=1739369974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/ss_9d9a40c69134bc502746af4552e3e3e6d9ffe7db.600x338.jpg?t=1739369974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/ss_87845e2ca792c16feeeceb9504f41c84d892b15e.600x338.jpg?t=1739369974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/ss_48a5b98f96dbb65358571a27b5625f4468be85b7.600x338.jpg?t=1739369974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/ss_1fb58e18cf309d6ffdd76a04bf5986864b553152.600x338.jpg?t=1739369974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/ss_31b7e1b85145c42e9721ccda748909d9c37243ef.600x338.jpg?t=1739369974"
+  ],
+  "detailed_description": "<p class=\"bb_paragraph\" >AnyCircuit is a 3D voxel-based circuits simulator. It offers various mechanics for editing the voxel world, such as an integrated clipboard system to endlessly cut, copy, paste, rotate, save and load portions of the world in a user-friendly manner, and a vast array of items related to digital electronics that the player can freely place and interact with. With the use of said items, and a fair amount of knowledge and imagination, the player can build incredibly advanced digital machines. It can either be seen as a fun sandbox game where you can put your creativity and logical skills to the test, or as a useful, easy-to-use educational tool, whether you're a student, a hobbyist, or a professional in the field.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/extras/8ffa16575691b0bb371e93fdec03ec0f.avif?t=1739369974\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/extras_big/8ffa16575691b0bb371e93fdec03ec0f.avif?t=1739369974 width=800 height=471 /></span></p><h2 class=\"bb_tag\" >Integrated Clipboard System</h2><p class=\"bb_paragraph\" >Build your circuits without boundaries with the integrated clipboard system. You can easily extend your digital circuits by copy-pasting the modular components, or rotate them in any direction. You can also save portions of the world into files that you can retrieve later or share to other people so that they can load your creations into their worlds.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/extras/5cb127c35ee8fdf1ce115512ce7b98df.avif?t=1739369974\" width=512 height=512 /></span></p><h2 class=\"bb_tag\" >Fully interactive items</h2><p class=\"bb_paragraph\" >When you first start a new game, AnyCircuit welcomes you with a wide range of fully interactive digital electronics devices that mimic the functionalities and behaviors of their real-life counterparts, such as cables, toggle switches, push buttons, power sources, diodes and NOT gates, which can be combined together to form more complex systems.</p><p class=\"bb_paragraph\" >For instance, you can combine multiple NOT gates in logical patterns to form AND gates and XOR gates, which can in turn be combined together to assemble fully working adders, subtractors, comparators, and so on.</p><p class=\"bb_paragraph\" >You also have the possibility to create sequential circuits, such as D flip flops and registers.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/extras/f0b6f5d4b31bbd3d1f09d5d4809a7ea0.avif?t=1739369974\" width=512 height=512 /></span></p><h2 class=\"bb_tag\" >Custom voxel engine made from scratch</h2><p class=\"bb_paragraph\" >The engine used for this game, called <i><strong>AnyEngine</strong></i>, has been entirely developed single-handed by me from scratch. I need constant feedback from the userbase about its performance, stability and quality. It will undoubtedly still show some flaws or room for improvement. In the meantime, I would be very glad to receive your comments, both negative and positive, about your experience with this engine, which took an incredible amount of effort for me to build, test and finally deliver it to other people.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/extras/aaf97785491b09800720731c15e33c78.avif?t=1739369974\" width=800 height=337 /></span></p><h2 class=\"bb_tag\" >Non-stop effort for additional content and features</h2><p class=\"bb_paragraph\" >My goal is to continuously deliver new content for the game. I want to make sure my game meets the needs and wishes of every digital circuits builder.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/extras/79bc2ebb3fedc804ac634041817f5b79.avif?t=1739369974\" width=800 height=237 /></span></p>",
+  "about_the_game": "<p class=\"bb_paragraph\" >AnyCircuit is a 3D voxel-based circuits simulator. It offers various mechanics for editing the voxel world, such as an integrated clipboard system to endlessly cut, copy, paste, rotate, save and load portions of the world in a user-friendly manner, and a vast array of items related to digital electronics that the player can freely place and interact with. With the use of said items, and a fair amount of knowledge and imagination, the player can build incredibly advanced digital machines. It can either be seen as a fun sandbox game where you can put your creativity and logical skills to the test, or as a useful, easy-to-use educational tool, whether you're a student, a hobbyist, or a professional in the field.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/extras/8ffa16575691b0bb371e93fdec03ec0f.avif?t=1739369974\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/extras_big/8ffa16575691b0bb371e93fdec03ec0f.avif?t=1739369974 width=800 height=471 /></span></p><h2 class=\"bb_tag\" >Integrated Clipboard System</h2><p class=\"bb_paragraph\" >Build your circuits without boundaries with the integrated clipboard system. You can easily extend your digital circuits by copy-pasting the modular components, or rotate them in any direction. You can also save portions of the world into files that you can retrieve later or share to other people so that they can load your creations into their worlds.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/extras/5cb127c35ee8fdf1ce115512ce7b98df.avif?t=1739369974\" width=512 height=512 /></span></p><h2 class=\"bb_tag\" >Fully interactive items</h2><p class=\"bb_paragraph\" >When you first start a new game, AnyCircuit welcomes you with a wide range of fully interactive digital electronics devices that mimic the functionalities and behaviors of their real-life counterparts, such as cables, toggle switches, push buttons, power sources, diodes and NOT gates, which can be combined together to form more complex systems.</p><p class=\"bb_paragraph\" >For instance, you can combine multiple NOT gates in logical patterns to form AND gates and XOR gates, which can in turn be combined together to assemble fully working adders, subtractors, comparators, and so on.</p><p class=\"bb_paragraph\" >You also have the possibility to create sequential circuits, such as D flip flops and registers.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/extras/f0b6f5d4b31bbd3d1f09d5d4809a7ea0.avif?t=1739369974\" width=512 height=512 /></span></p><h2 class=\"bb_tag\" >Custom voxel engine made from scratch</h2><p class=\"bb_paragraph\" >The engine used for this game, called <i><strong>AnyEngine</strong></i>, has been entirely developed single-handed by me from scratch. I need constant feedback from the userbase about its performance, stability and quality. It will undoubtedly still show some flaws or room for improvement. In the meantime, I would be very glad to receive your comments, both negative and positive, about your experience with this engine, which took an incredible amount of effort for me to build, test and finally deliver it to other people.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/extras/aaf97785491b09800720731c15e33c78.avif?t=1739369974\" width=800 height=337 /></span></p><h2 class=\"bb_tag\" >Non-stop effort for additional content and features</h2><p class=\"bb_paragraph\" >My goal is to continuously deliver new content for the game. I want to make sure my game meets the needs and wishes of every digital circuits builder.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387070/extras/79bc2ebb3fedc804ac634041817f5b79.avif?t=1739369974\" width=800 height=237 /></span></p>",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 1,
+  "review_positive": 0,
+  "review_percentage": 0.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 1,
+      "review_percentage": 0.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-27",
+      "review_count": 1,
+      "review_percentage": 0.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+{% block title %}Cron Jobs{% endblock %}
+
+{% block content %}
+<h2>Cron Jobs — IndieGameDrop Pipeline</h2>
+
+<div class="cards">
+    <div class="card"><h3>Total Jobs</h3><div class="val">{{ total_jobs }}</div></div>
+    <div class="card"><h3>Last Run OK</h3><div class="val success">{{ ok_count }}</div></div>
+    <div class="card"><h3>Errors</h3><div class="val danger">{{ err_count }}</div></div>
+    <div class="card"><h3>Never Run</h3><div class="val warn">{{ idle_count }}</div></div>
+</div>
+
+<div class="card" style="margin:1rem 0;position:relative;padding-bottom:2rem">
+    <h3>Daily Timeline (London time)</h3>
+    <div style="position:relative;height:30px;background:var(--border);border-radius:4px;margin:1rem 0 1.5rem">
+        {% for j in jobs %}
+        {% if j.timeline_pct is not none %}
+        <div style="position:absolute;left:{{ j.timeline_pct }}%;top:0;bottom:0;width:4px;background:{{ j.color }};border-radius:2px;cursor:pointer" title="{{ j.name }} @ timeline"></div>
+        {% endif %}
+        {% endfor %}
+        {% for h in range(0, 24, 3) %}
+        <span style="position:absolute;left:{{ (h / 24 * 100) }}%;bottom:-18px;font-size:0.65rem;color:var(--muted);transform:translateX(-50%)">{{ "%02d"|format(h) }}</span>
+        {% endfor %}
+    </div>
+    <div style="display:flex;gap:1rem;flex-wrap:wrap;font-size:0.75rem;margin-top:0.5rem">
+        <span><span style="color:var(--accent)">●</span> Enrich</span>
+        <span><span style="color:var(--success)">●</span> Discover</span>
+        <span><span style="color:var(--warn)">●</span> Snapshot</span>
+        <span><span style="color:#9b59b6">●</span> Export</span>
+        <span><span style="color:#e74c3c">●</span> Article</span>
+    </div>
+</div>
+
+<div style="overflow-x:auto">
+<table>
+    <thead><tr><th>Job</th><th>Type</th><th>Schedule</th><th>Next</th><th>Last Run</th><th>Duration</th><th>Status</th><th>Log</th></tr></thead>
+    <tbody>
+    {% for j in jobs %}
+    <tr>
+        <td><strong>{{ j.name|e }}</strong></td>
+        <td><span style="background:{{ j.color }}22;color:{{ j.color }};padding:0.15rem 0.5rem;border-radius:12px;font-size:0.75rem;font-weight:600">{{ j.jtype }}</span></td>
+        <td style="font-size:0.8rem">{{ j.sched_str }}</td>
+        <td>{% if j.next_str == 'overdue' %}<span style="color:var(--warn)">⚠ overdue</span>{% elif 'ran OK' in j.next_str %}<span style="color:var(--success)">✓ {{ j.next_str }}</span>{% elif 'failed' in j.next_str %}<span style="color:var(--danger)">✗ {{ j.next_str }}</span>{% else %}{{ j.next_str }}{% endif %}</td>
+        <td>{% if j.last_str == 'never' %}<span style="color:var(--muted)">never</span>{% else %}{{ j.last_str }}{% endif %}</td>
+        <td>{{ j.dur_str }}</td>
+        <td>
+            {% if j.status == 'ok' %}
+                <span class="chip complete">✓ OK</span>
+            {% elif j.status == 'error' %}
+                <span class="chip failed" title="{{ j.last_error|e }}">✗ ERROR ({{ j.errs }})</span>
+            {% else %}
+                <span class="chip pending">idle</span>
+            {% endif %}
+        </td>
+        <td>{% if j.has_log %}<a href="/logs?name={{ j.ln }}&date={{ j.today }}">📋</a>{% endif %}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</div>
+
+<p style="color:var(--muted);font-size:0.75rem;margin-top:1rem">Status refreshed from OpenClaw at {{ exported_at }} UTC</p>
+{% endblock %}

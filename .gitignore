@@ -1,0 +1,33 @@
+# Hugo
+public/
+resources/_gen/
+
+# Data
+data/*.db
+data/*.db-shm
+data/*.db-wal
+data/*.sqlite
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Coverage
+htmlcov/
+.coverage
+logs/
+*.db
+*.db-shm
+*.db-wal

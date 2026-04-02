@@ -1,0 +1,70 @@
+{
+  "steam_app_id": 3167510,
+  "name": "Ghost Clicker",
+  "slug": "ghost-clicker",
+  "developer": "unpublish",
+  "publisher": "unpublish",
+  "release_date": "Aug 30, 2024",
+  "price_usd": 0.0,
+  "genres": [
+    "Adventure",
+    "Casual",
+    "Simulation",
+    "Free To Play"
+  ],
+  "tags": [
+    "Adventure",
+    "Casual",
+    "Simulation",
+    "Free To Play"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "A clicker game that hasn't been here before. In the game mode \"Thousand Souls\" you have to click 1000 times in the shortest time. Or try catching as many souls as possible in endless \"Fallen Souls\" mode.",
+  "header_image_url": null,
+  "screenshots": [],
+  "detailed_description": "<p class=\"bb_paragraph\" >Uncover ghosts in this thrilling clicker game. In \"<strong>Thousand Souls</strong>\" mode, race against time to collect as many souls as possible with just 1000 clicks. For a limitless challenge, try the endless \"<strong>Fallen Souls</strong>\" mode and catch souls without stopping. </p><h2 class=\"bb_tag\" > <i><u>How to calculate the score in the game mode \"Thousand Souls\":</u></i></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><i>1st ghost: 1+(rounding(number of clicks * 100 - (elapsed time in seconds * 50) + number of clicks))</i></p></li><li><p class=\"bb_paragraph\" ><i>2nd ghost: 1+(rounding(number of clicks * 100 - (elapsed time in seconds * 150) + number of clicks))</i></p></li><li><p class=\"bb_paragraph\" ><i>3th ghost: 1+(rounding(number of clicks * 100 - (elapsed time in seconds * 250) + number of clicks))</i></p></li><li><p class=\"bb_paragraph\" ><i>4th ghost: 1+(rounding(number of clicks * 00 - (elapsed time in seconds * 350) + number of clicks))</i></p></li></ul><p class=\"bb_paragraph\" ><i>This means that each higher spirit has a greater penalty for elapsed time.</i></p><h2 class=\"bb_tag\" ><i><u>How to calculate the souls in the game mode \"Fallen Souls\":</u></i></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><i>For every click on the ghost, you catch one soul. A bonus icon appears at random times and you have 3 seconds to click on it </i></p></li><li><p class=\"bb_paragraph\" ><i>The activated time bonus randomly lasts 10-30 seconds</i></p></li><li><p class=\"bb_paragraph\" ><i>Bonus souls are calculated according to the formula random(1000 to 100000) + (number of captured souls / 1000)</i></p></li></ul>",
+  "about_the_game": "<p class=\"bb_paragraph\" >Uncover ghosts in this thrilling clicker game. In \"<strong>Thousand Souls</strong>\" mode, race against time to collect as many souls as possible with just 1000 clicks. For a limitless challenge, try the endless \"<strong>Fallen Souls</strong>\" mode and catch souls without stopping. </p><h2 class=\"bb_tag\" > <i><u>How to calculate the score in the game mode \"Thousand Souls\":</u></i></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><i>1st ghost: 1+(rounding(number of clicks * 100 - (elapsed time in seconds * 50) + number of clicks))</i></p></li><li><p class=\"bb_paragraph\" ><i>2nd ghost: 1+(rounding(number of clicks * 100 - (elapsed time in seconds * 150) + number of clicks))</i></p></li><li><p class=\"bb_paragraph\" ><i>3th ghost: 1+(rounding(number of clicks * 100 - (elapsed time in seconds * 250) + number of clicks))</i></p></li><li><p class=\"bb_paragraph\" ><i>4th ghost: 1+(rounding(number of clicks * 00 - (elapsed time in seconds * 350) + number of clicks))</i></p></li></ul><p class=\"bb_paragraph\" ><i>This means that each higher spirit has a greater penalty for elapsed time.</i></p><h2 class=\"bb_tag\" ><i><u>How to calculate the souls in the game mode \"Fallen Souls\":</u></i></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><i>For every click on the ghost, you catch one soul. A bonus icon appears at random times and you have 3 seconds to click on it </i></p></li><li><p class=\"bb_paragraph\" ><i>The activated time bonus randomly lasts 10-30 seconds</i></p></li><li><p class=\"bb_paragraph\" ><i>Bonus souls are calculated according to the formula random(1000 to 100000) + (number of captured souls / 1000)</i></p></li></ul>",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 18,
+  "review_positive": 7,
+  "review_percentage": 38.9,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 15,
+      "review_percentage": 33.3,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-26",
+      "review_count": 18,
+      "review_percentage": 38.9,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

@@ -1,0 +1,34 @@
+/* ── Charts: containers, sparklines, data explorer ───────────────────────── */
+
+.charts-section {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.chart-wrapper {
+  background: var(--igdrop-card-bg);
+  border: 1px solid var(--igdrop-border);
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+.chart-wrapper h3 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 1rem;
+}
+
+.chart-container {
+  height: 250px;
+  position: relative;
+}
+
+/* Data Explorer Charts */
+.data-charts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}

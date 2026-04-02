@@ -1,0 +1,486 @@
+{{ define "main" }}
+<div id="game-profile">
+  <div class="empty-state" id="loading-state">
+    <h3>Loading game data...</h3>
+  </div>
+</div>
+
+<!-- Lightbox overlay for screenshot expansion -->
+<div id="lightbox" class="lightbox" onclick="this.classList.remove('active')">
+  <img id="lightbox-img" src="" alt="Screenshot">
+</div>
+
+<script src="{{ "js/charts.js" | relURL }}"></script>
+<script src="{{ "js/sparkline.js" | relURL }}"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const params = new URLSearchParams(window.location.search);
+  const slug = params.get('slug');
+  const baseURL = '{{ "" | relURL }}';
+
+  if (!slug) {
+    document.getElementById('game-profile').innerHTML =
+      '<div class="empty-state"><h3>No game specified</h3><p>Select a game from the <a href="' + baseURL + 'rising/">Rising</a> page.</p></div>';
+    return;
+  }
+
+  fetch(`${baseURL}data/games/${slug}.json`)
+    .then(r => {
+      if (!r.ok) throw new Error('Not found');
+      return r.json();
+    })
+    .then(game => renderGameProfile(game, baseURL))
+    .catch(() => {
+      document.getElementById('game-profile').innerHTML =
+        '<div class="empty-state"><h3>Game not found</h3><p>This game may not be tracked yet.</p></div>';
+    });
+});
+
+function renderGameProfile(game, baseURL) {
+  const container = document.getElementById('game-profile');
+  const reviewPct = game.review_percentage || 0;
+  let reviewClass = 'positive';
+  if (reviewPct < 70) reviewClass = 'mixed';
+  if (reviewPct < 40) reviewClass = 'negative';
+
+  const price = game.price_usd === 0 ? 'Free to Play' : `$${(game.price_usd || 0).toFixed(2)}`;
+  const platforms = (game.platforms || []).join(', ') || 'Unknown';
+  const steamUrl = `https://store.steampowered.com/app/${game.steam_app_id}`;
+
+  // SEO: Set page title
+  document.title = game.name + ' | IndieGameDrop';
+
+  // SEO: Inject JSON-LD structured data
+  injectJsonLd(game, steamUrl);
+
+  container.innerHTML = `
+    <div class="game-hero">
+      <img src="${game.header_image_url}" alt="${escHtml(game.name)}"
+           onerror="this.style.display='none'">
+    </div>
+
+    <h1>${escHtml(game.name)}</h1>
+
+    <div class="game-info-bar">
+      <div class="game-info-item">
+        <span class="label">Developer</span>
+        <span class="value">${escHtml(game.developer || 'Unknown')}</span>
+      </div>
+      <div class="game-info-item">
+        <span class="label">Release Date</span>
+        <span class="value">${escHtml(game.release_date || 'TBA')}</span>
+      </div>
+      <div class="game-info-item">
+        <span class="label">Price</span>
+        <span class="value">${price}</span>
+      </div>
+      <div class="game-info-item">
+        <span class="label">Platforms</span>
+        <span class="value">${escHtml(platforms)}</span>
+      </div>
+    </div>
+
+    ${renderScoreBreakdown(game)}
+
+    ${renderMetacriticBadge(game)}
+
+    ${renderCategoryBadges(game)}
+
+    <p>${escHtml(game.short_description || '')}</p>
+
+    <div class="buy-links">
+      <a href="${steamUrl}" class="buy-link" target="_blank" rel="noopener">View on Steam</a>
+    </div>
+
+    ${renderTrailer(game)}
+
+    ${renderScreenshots(game)}
+
+    ${renderAboutSection(game)}
+
+    <h2>Charts</h2>
+    <div class="charts-section">
+      <div class="chart-wrapper">
+        <h3>Review Count Over Time</h3>
+        <canvas id="chart-reviews"></canvas>
+      </div>
+      <div class="chart-wrapper">
+        <h3>Player Count (CCU)</h3>
+        <canvas id="chart-ccu"></canvas>
+      </div>
+      <div class="chart-wrapper">
+        <h3>Review Score Trend</h3>
+        <canvas id="chart-score"></canvas>
+      </div>
+    </div>
+
+    <div class="analysis-box">
+      <h3>The Data Says</h3>
+      <p id="analysis-text">Analysing...</p>
+    </div>
+
+    ${renderReviews(game)}
+
+    <div class="tags" style="margin: 2rem 0;">
+      ${(game.genres || []).map(g => `<span class="tag">${escHtml(g)}</span>`).join(' ')}
+    </div>
+
+    <div id="similar-games-section"></div>
+  `;
+
+  // Render charts
+  if (game.history && game.history.length > 0) {
+    renderGameCharts(game);
+  }
+
+  // Generate analysis
+  generateAnalysis(game);
+
+  // Load similar games
+  loadSimilarGames(game, baseURL);
+}
+
+/* ── Helpers ──────────────────────────────────────────────────────────────── */
+
+function escHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+function injectJsonLd(game, steamUrl) {
+  const ld = {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": game.name,
+    "url": steamUrl,
+    "applicationCategory": "Game",
+    "operatingSystem": (game.platforms || []).join(', '),
+  };
+  if (game.header_image_url) ld.image = game.header_image_url;
+  if (game.review_percentage && game.review_count) {
+    ld.aggregateRating = {
+      "@type": "AggregateRating",
+      "ratingValue": (game.review_percentage / 20).toFixed(1),
+      "bestRating": "5",
+      "ratingCount": game.review_count,
+    };
+  }
+  if (game.price_usd !== undefined) {
+    ld.offers = {
+      "@type": "Offer",
+      "price": game.price_usd.toFixed(2),
+      "priceCurrency": "USD",
+    };
+  }
+  const script = document.createElement('script');
+  script.type = 'application/ld+json';
+  script.textContent = JSON.stringify(ld);
+  document.head.appendChild(script);
+}
+
+function formatOwners(n) {
+  if (!n) return '—';
+  if (n >= 1000000) return (n / 1000000).toFixed(1) + 'M';
+  if (n >= 1000) return (n / 1000).toFixed(0) + 'K';
+  return n.toLocaleString('en-GB');
+}
+
+/* ── Score Breakdown Panel ────────────────────────────────────────────────── */
+
+function renderScoreBreakdown(game) {
+  const reviewPct = game.review_percentage || 0;
+  const reviewCount = game.review_count || 0;
+  const owners = game.owner_estimate || 0;
+  const ccu = game.ccu_estimate || 0;
+  const velocity = game.review_velocity_7d || 0;
+  const gemScore = game.gem_score || 0;
+  const gemTier = game.gem_tier || '';
+  const risingScore = game.rising_score || 0;
+
+  let barColor = '#3fb950'; // green
+  if (reviewPct < 80) barColor = '#d29922'; // yellow
+  if (reviewPct < 70) barColor = '#f85149'; // red
+
+  const gemLabels = { early: 'Early Gem', rising: 'Rising Gem', proven: 'Proven Gem' };
+  const gemLabel = gemLabels[gemTier] || '';
+
+  // Review sparkline from history
+  const history = game.history || [];
+  let sparklineHtml = '';
+  if (history.length >= 2) {
+    sparklineHtml = `
+      <div class="score-stat">
+        <span class="score-stat-label">Review Trend</span>
+        <canvas id="review-sparkline" width="80" height="24" class="score-sparkline"></canvas>
+      </div>`;
+  }
+
+  return `
+    <div class="score-breakdown">
+      <div class="score-main">
+        <div class="score-bar-container">
+          <div class="score-bar-fill" style="width: ${reviewPct}%; background: ${barColor};"></div>
+        </div>
+        <div class="score-pct" style="color: ${barColor};">${reviewPct.toFixed(0)}%</div>
+        <span class="score-count">${reviewCount.toLocaleString('en-GB')} reviews</span>
+      </div>
+
+      <div class="score-stats">
+        <div class="score-stat">
+          <span class="score-stat-label">Owners</span>
+          <span class="score-stat-value">${formatOwners(owners)}</span>
+        </div>
+        <div class="score-stat">
+          <span class="score-stat-label">Players (CCU)</span>
+          <span class="score-stat-value">${ccu.toLocaleString('en-GB')}</span>
+        </div>
+        ${velocity ? `
+        <div class="score-stat">
+          <span class="score-stat-label">This Week</span>
+          <span class="score-stat-value score-velocity">+${velocity} reviews</span>
+        </div>` : ''}
+        ${sparklineHtml}
+      </div>
+
+      <div class="score-badges">
+        ${gemScore > 0 && gemLabel ? `<span class="badge badge-gem badge-gem-${gemTier}">${gemLabel}</span>` : ''}
+        ${risingScore > 0 ? '<span class="badge badge-rising">Rising</span>' : ''}
+      </div>
+    </div>`;
+}
+
+/* ── Trailer ──────────────────────────────────────────────────────────────── */
+
+function renderTrailer(game) {
+  if (!game.trailer_url) return '';
+
+  let embedHtml = '';
+  const url = game.trailer_url;
+
+  // Check for YouTube URLs
+  const ytMatch = url.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/|youtube\.com\/embed\/)([a-zA-Z0-9_-]{11})/);
+  if (ytMatch) {
+    const videoId = ytMatch[1];
+    embedHtml = `<iframe src="https://www.youtube-nocookie.com/embed/${videoId}"
+      frameborder="0" allowfullscreen loading="lazy"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      title="Trailer"></iframe>`;
+  } else {
+    // Steam CDN mp4 or other video URLs
+    embedHtml = `<video controls preload="metadata" poster="${game.header_image_url}">
+      <source src="${url}" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>`;
+  }
+
+  return `
+    <div class="trailer-section">
+      <h2>Trailer</h2>
+      <div class="trailer-embed">${embedHtml}</div>
+    </div>`;
+}
+
+/* ── Screenshots Gallery ──────────────────────────────────────────────────── */
+
+function renderScreenshots(game) {
+  const screenshots = game.screenshots || [];
+  if (screenshots.length === 0) return '';
+  return `
+    <div class="screenshots-section">
+      <h2>Screenshots</h2>
+      <div class="screenshots-gallery">
+        ${screenshots.slice(0, 8).map(s =>
+          `<img src="${s}" alt="Screenshot" loading="lazy"
+                onclick="openLightbox(this.src)"
+                onerror="this.style.display='none'">`
+        ).join('')}
+      </div>
+    </div>`;
+}
+
+function renderMetacriticBadge(game) {
+  if (!game.metacritic_score) return '';
+  let badgeClass = 'metacritic-low';
+  if (game.metacritic_score >= 75) badgeClass = 'metacritic-high';
+  else if (game.metacritic_score >= 50) badgeClass = 'metacritic-mid';
+
+  const link = game.metacritic_url
+    ? `<a href="${game.metacritic_url}" target="_blank" rel="noopener">`
+    : '<span>';
+  const linkClose = game.metacritic_url ? '</a>' : '</span>';
+
+  return `
+    <div class="metacritic-section">
+      ${link}
+        <div class="metacritic-badge ${badgeClass}">
+          <span class="metacritic-score">${game.metacritic_score}</span>
+          <span class="metacritic-label">Metacritic</span>
+        </div>
+      ${linkClose}
+    </div>`;
+}
+
+function renderCategoryBadges(game) {
+  const categories = game.categories || [];
+  if (categories.length === 0) return '';
+  return `
+    <div class="category-badges">
+      ${categories.map(c => `<span class="category-badge">${escHtml(c)}</span>`).join(' ')}
+    </div>`;
+}
+
+function renderAboutSection(game) {
+  const about = game.about_the_game || '';
+  if (!about) return '';
+  return `
+    <div class="about-section">
+      <h2>About This Game</h2>
+      <div class="about-content">${about}</div>
+    </div>`;
+}
+
+function renderReviews(game) {
+  const reviews = game.reviews || [];
+  if (reviews.length === 0) return '';
+
+  return `
+    <div class="reviews-section">
+      <h2>Top Reviews</h2>
+      ${reviews.map(r => {
+        const thumbClass = r.voted_up ? 'thumb-up' : 'thumb-down';
+        const thumbIcon = r.voted_up ? '&#x1F44D;' : '&#x1F44E;';
+        const hours = Math.round((r.playtime_at_review || 0) / 60);
+        const date = r.timestamp_created
+          ? new Date(r.timestamp_created * 1000).toLocaleDateString('en-GB')
+          : '';
+        const text = (r.review_text || '').length > 600
+          ? r.review_text.substring(0, 600) + '...'
+          : r.review_text || '';
+        return `
+          <div class="review-card ${thumbClass}">
+            <div class="review-header">
+              <span class="review-thumb">${thumbIcon}</span>
+              <span class="review-verdict ${thumbClass}">${r.voted_up ? 'Recommended' : 'Not Recommended'}</span>
+              <span class="review-meta">${hours}h on record | ${r.votes_up || 0} found helpful</span>
+            </div>
+            <div class="review-text">${text}</div>
+            ${date ? `<div class="review-date">Posted: ${date}</div>` : ''}
+          </div>`;
+      }).join('')}
+    </div>`;
+}
+
+/* ── Lightbox ─────────────────────────────────────────────────────────────── */
+
+function openLightbox(src) {
+  const lb = document.getElementById('lightbox');
+  document.getElementById('lightbox-img').src = src;
+  lb.classList.add('active');
+}
+
+/* ── Similar Games ────────────────────────────────────────────────────────── */
+
+function loadSimilarGames(game, baseURL) {
+  const gameTags = game.tags || [];
+  const gameGenres = game.genres || [];
+  if (gameTags.length === 0 && gameGenres.length === 0) return;
+
+  const feeds = ['rising.json', 'gems.json', 'new_releases.json'];
+  Promise.all(feeds.map(f =>
+    fetch(`${baseURL}data/${f}`).then(r => r.ok ? r.json() : []).catch(() => [])
+  )).then(results => {
+    const allGames = results.flat();
+    // Deduplicate and exclude current game
+    const seen = new Set();
+    const candidates = [];
+    for (const g of allGames) {
+      if (g.steam_app_id === game.steam_app_id || seen.has(g.steam_app_id)) continue;
+      seen.add(g.steam_app_id);
+      const gTags = g.tags || [];
+      const gGenres = g.genres || [];
+      const tagOverlap = gameTags.filter(t => gTags.includes(t)).length;
+      const genreOverlap = gameGenres.filter(t => gGenres.includes(t)).length;
+      const overlap = tagOverlap + genreOverlap;
+      if (overlap > 0) candidates.push({ game: g, overlap });
+    }
+    candidates.sort((a, b) => b.overlap - a.overlap);
+    const similar = candidates.slice(0, 4);
+    if (similar.length === 0) return;
+
+    const section = document.getElementById('similar-games-section');
+    section.innerHTML = `
+      <h2>Similar Games</h2>
+      <div class="similar-grid">
+        ${similar.map(s => {
+          const sg = s.game;
+          const pct = sg.review_percentage || 0;
+          let cls = 'positive';
+          if (pct < 70) cls = 'mixed';
+          if (pct < 40) cls = 'negative';
+          const pr = sg.price_usd === 0 ? 'Free' : '$' + (sg.price_usd || 0).toFixed(2);
+          return `
+            <a href="${baseURL}game/?slug=${sg.slug}" class="similar-card">
+              <img src="${sg.header_image_url}" alt="${escHtml(sg.name)}" loading="lazy"
+                   onerror="this.style.display='none'">
+              <div class="similar-info">
+                <div class="similar-title">${escHtml(sg.name)}</div>
+                <div class="similar-meta">
+                  <span class="review-score ${cls}">${pct.toFixed(0)}%</span>
+                  <span>${pr}</span>
+                  <span class="match-badge">${s.overlap} tags match</span>
+                </div>
+              </div>
+            </a>`;
+        }).join('')}
+      </div>`;
+  });
+}
+
+/* ── Analysis ─────────────────────────────────────────────────────────────── */
+
+function generateAnalysis(game) {
+  const el = document.getElementById('analysis-text');
+  if (!el) return;
+
+  const reviewPct = game.review_percentage || 0;
+  const reviewCount = game.review_count || 0;
+  const rising = game.rising_score || 0;
+
+  let analysis = '';
+  if (reviewCount < 10) {
+    analysis = 'Too early to tell. This game needs more reviews before we can draw conclusions.';
+  } else if (reviewPct >= 95 && reviewCount > 100) {
+    analysis = `With a ${reviewPct.toFixed(0)}% positive rating across ${reviewCount.toLocaleString('en-GB')} reviews, this is an exceptionally well-received game.`;
+  } else if (reviewPct >= 85) {
+    analysis = `Sitting at ${reviewPct.toFixed(0)}% positive, this game is solidly well-received.`;
+  } else if (reviewPct >= 70) {
+    analysis = `At ${reviewPct.toFixed(0)}% positive, this game has a mixed-to-positive reception.`;
+  } else {
+    analysis = `With ${reviewPct.toFixed(0)}% positive reviews, this game has a mixed reception.`;
+  }
+
+  if (rising > 0.5) {
+    analysis += ` It's currently seeing strong momentum with a rising score of ${rising.toFixed(2)}.`;
+  } else if (rising > 0.2) {
+    analysis += ' It shows moderate growth momentum.';
+  }
+
+  if (game.metacritic_score) {
+    analysis += ` Metacritic score: ${game.metacritic_score}.`;
+  }
+
+  el.textContent = analysis;
+
+  // Draw review sparkline after DOM is ready
+  const history = game.history || [];
+  if (history.length >= 2) {
+    const canvas = document.getElementById('review-sparkline');
+    if (canvas) {
+      const data = history.map(h => h.review_count || 0);
+      drawSparkline(canvas, data);
+    }
+  }
+}
+</script>
+{{ end }}

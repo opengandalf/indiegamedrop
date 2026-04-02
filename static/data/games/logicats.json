@@ -1,0 +1,81 @@
+{
+  "steam_app_id": 2279710,
+  "name": "Logicats",
+  "slug": "logicats",
+  "developer": "Fernando Araujo",
+  "publisher": "INK EYE Games",
+  "release_date": "May 12, 2023",
+  "price_usd": 0.55,
+  "genres": [
+    "Indie",
+    "Simulation",
+    "Strategy"
+  ],
+  "tags": [
+    "Indie",
+    "Simulation",
+    "Strategy"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Logicats is a beginner-friendly programming game. Learn programming concepts through reading code in a fun and effective way. Perfect for classrooms or at home. Start your programming journey today!",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279710/header.jpg?t=1683894270",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279710/ss_de18267994fe826be215edf07b46eaa95df99f9b.600x338.jpg?t=1683894270",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279710/ss_683521061372b7e80e3cfbf10389c9cc8245b4e7.600x338.jpg?t=1683894270",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279710/ss_8d593249285bcf42c72badbc3bc67137bc962c7a.600x338.jpg?t=1683894270",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279710/ss_43aefb0d685a2dcdca7f55bb618ef3f637127d67.600x338.jpg?t=1683894270",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279710/ss_0d13ecf2e1e3f1f376a4b6cad2a726d3a146e51e.600x338.jpg?t=1683894270",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279710/ss_230a81294529c1ff48c578a4b5ba099cc32d2840.600x338.jpg?t=1683894270",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279710/ss_e1e9048c1f5977f780929313c0c25ebb0af91e0e.600x338.jpg?t=1683894270",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279710/ss_14587bbc481aec23961f9b4d812b439f3e089b74.600x338.jpg?t=1683894270",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279710/ss_232d81c2cdd6cf77f468c9cf2ee954e7a2ec34d5.600x338.jpg?t=1683894270",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279710/ss_31a56cdaaa1072fd5b1754bea56e8f8d0b3cfe86.600x338.jpg?t=1683894270"
+  ],
+  "detailed_description": "<strong>LOGICATS </strong><br><br>A programming game designed for beginners who have never coded before. <br>The goal is to practice reading code and understanding basic programming concepts. <br><br>The game features a friendly interface, making the learning experience more fun and helping players better understand abstract concepts. <br><br>It is an effective educational tool to be used to complement programming studies, as it is easier for beginners to be introduced to abstract concepts through practice rather than complex words. This will lead to a <i>\"eureka\"</i> moment and have a greater impact on learning.<br><br><br><strong>List of commands</strong><br><br><strong>Repeat:</strong> allows a block of instructions to be repeated several times until a condition is met. The condition is checked after each repetition of the block.<br><br><strong>If:</strong> allows a block of instructions to be executed if a condition is true. If the condition is false, the block will not be executed.<br><br><strong>If Else:</strong> allows a block of instructions to be executed if a condition is true and another block to be executed if the condition is false.<br><br><strong>Else If:</strong> allows multiple blocks of instructions to be checked in sequence to determine which block should be executed. If the first condition is false, the next condition will be checked, and so on, until a condition is true.<br><br><strong>While:</strong> allows a block of instructions to be repeated several times while a condition is true. The condition is checked before each repetition of the block.<br><br><strong>If Not:</strong> allows a block of instructions to be executed if a condition is false. If the condition is true, the block will not be executed.<br><br><strong>While Not:</strong> allows a block of instructions to be repeated several times while a condition is false. The condition is checked before each repetition of the block.<br><br><strong>Function:</strong> allows a block of instructions to be grouped into a logical unit that can be called from other parts of the program. Functions allow the code to be divided into independent and well-defined parts.",
+  "about_the_game": "<strong>LOGICATS </strong><br><br>A programming game designed for beginners who have never coded before. <br>The goal is to practice reading code and understanding basic programming concepts. <br><br>The game features a friendly interface, making the learning experience more fun and helping players better understand abstract concepts. <br><br>It is an effective educational tool to be used to complement programming studies, as it is easier for beginners to be introduced to abstract concepts through practice rather than complex words. This will lead to a <i>\"eureka\"</i> moment and have a greater impact on learning.<br><br><br><strong>List of commands</strong><br><br><strong>Repeat:</strong> allows a block of instructions to be repeated several times until a condition is met. The condition is checked after each repetition of the block.<br><br><strong>If:</strong> allows a block of instructions to be executed if a condition is true. If the condition is false, the block will not be executed.<br><br><strong>If Else:</strong> allows a block of instructions to be executed if a condition is true and another block to be executed if the condition is false.<br><br><strong>Else If:</strong> allows multiple blocks of instructions to be checked in sequence to determine which block should be executed. If the first condition is false, the next condition will be checked, and so on, until a condition is true.<br><br><strong>While:</strong> allows a block of instructions to be repeated several times while a condition is true. The condition is checked before each repetition of the block.<br><br><strong>If Not:</strong> allows a block of instructions to be executed if a condition is false. If the condition is true, the block will not be executed.<br><br><strong>While Not:</strong> allows a block of instructions to be repeated several times while a condition is false. The condition is checked before each repetition of the block.<br><br><strong>Function:</strong> allows a block of instructions to be grouped into a logical unit that can be called from other parts of the program. Functions allow the code to be divided into independent and well-defined parts.",
+  "supported_languages": "English, Portuguese - Brazil, French, Italian, German, Spanish - Spain, Simplified Chinese, Korean, Japanese, Russian",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.8024,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "hidden_gem",
+  "review_count": 66,
+  "review_positive": 65,
+  "review_percentage": 98.5,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "gem_tier": "early",
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 66,
+      "review_percentage": 98.5,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "review_count": 66,
+      "review_percentage": 98.5,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

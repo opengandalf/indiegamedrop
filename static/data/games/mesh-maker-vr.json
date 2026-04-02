@@ -1,0 +1,79 @@
+{
+  "steam_app_id": 576790,
+  "name": "Mesh Maker VR",
+  "slug": "mesh-maker-vr",
+  "developer": "CreateThis.com",
+  "publisher": "CreateThis.com",
+  "release_date": "Jan 4, 2017",
+  "price_usd": 0.0,
+  "genres": [
+    "Animation & Modeling",
+    "Early Access"
+  ],
+  "tags": [
+    "Animation & Modeling",
+    "Early Access"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Mesh Maker VR is an intuitive, easy to use, and easy to learn VR 3d modeling tool based on vertices. Nearly zero learning curve. Just hop into VR and start making 3d models.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/576790/header.jpg?t=1499738414",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/576790/ss_9a52264c5ef458edb9a39df9602d866ae4d74afc.600x338.jpg?t=1499738414",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/576790/ss_f423f0d72bbe8d7936b0c25139fad25cd8cba74c.600x338.jpg?t=1499738414",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/576790/ss_e9a0ae7678df4d86b7066feff74a37123d075791.600x338.jpg?t=1499738414",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/576790/ss_873ac65ed07ae0c7392877c4c772a2e34fc3ef90.600x338.jpg?t=1499738414",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/576790/ss_2f2bdb11e7111502127c3c7013f3d6a2ae0495dc.600x338.jpg?t=1499738414",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/576790/ss_1c4c3329854e378ede66a989d4e5850e2a85d213.600x338.jpg?t=1499738414",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/576790/ss_0feea49596c6b01b77c46325dfbc9ca63e54b428.600x338.jpg?t=1499738414"
+  ],
+  "detailed_description": "Mesh Maker VR is an intuitive, easy to use, and easy to learn VR 3d modeling tool based on vertices. Nearly zero learning curve. Just hop into VR and start making 3d models.<br><br>MMVR is a 100% open source MIT licensed product. Check us out on github: <br>MMVR UI is also 100% open source with an MIT license. Check it out too:<h2 class=\"bb_tag\" >Current Features / ChangeLog</h2><ul class=\"bb_ul\"><li> Save As - 5/16/2017<br></li><li> User Interface (UI) for Load OBJ, including directory traversal - 4/28/2017<br></li><li> Ability to change skybox from Settings (stars, blue sky, and sunset as the first three choices). - 4/1/2017<br></li><li> Eye dropper tool (Tools -> Triangles -> Pick Color) - 3/28/2017<br></li><li> Triangle multi-select mode - 3/24/2017<br></li><li> Fill Tool (ability to color faces) - 3/23/2017<br></li><li> Sphere Primitives - 3/6/2017<br></li><li> Lock Reference Images - 3/3/2017 (allows placing vertices directly on reference image for easy extrusions)<br></li><li> Cylinder Primitives - 2/28/2017<br></li><li> Circle Primitives - 2/22/2017<br></li><li> 3d Tracing Mode - 2/3/2017<br></li><li> Box Select - 1/29/2017<br></li><li> Box Primitives - 1/27/2017<br></li><li> Selection Flip Normals - 1/27/2017<br></li><li> Extrude Face - 1/26/2017<br></li><li> Merge Vertices - 1/26/2017<br></li><li> Plane Primitives - 1/25/2017<br></li><li> Rotation Snapping - 1/25/2017<br></li><li> Multiselect & Copy/Paste - 1/22/2017<br></li><li> Reference Images - 1/16/2017 (top.png, bottom.png, left.png, right.png, front.png, back.png in same folder as executable)<br></li><li> Alignment Tools - 1/16/2017<br></li><li> Object scaling for easy work positioning - 1/19/2017<br></li><li> Settings saved as JSON - 1/16/2017<br></li><li> Ability to adjust snap spacing from Settings - 1/8/2017<br></li><li> Wavefront OBJ Load/Save (no UI for load yet - loads \"load.obj\" on startup. Save has simple button in radial menu.)<br></li><li> Vertex Create/Move/Delete<br></li><li> Face Create/Delete/Flip<br></li><li> Snapping for Vertex Create/Move<br></li><li> Object rotation and movement for easy work positioning<br></li><li> Teleporting for easy work positioning</li></ul><h2 class=\"bb_tag\" >Roadmap</h2>Features will be implemented over time according to their priority. Urgent priority first, then High priority.<br><br><strong>Urgent priority:</strong><br><ol><li> Extrude Along Normal button (locked extrusion axis)<br></li><li> Hide snap 3d crosshair lines unless they hit something<br></li><li> Make snap crosshair disappear when near Tool/Settings Panel \"airspace\"<br></li><li> Edge extrusion<br></li><li> Mirror/symmetry plane</li></ol>Note: completion of Urgent priority items will be followed by a $5 price increase.<br><br><strong>High priority:</strong><br><ol><li> Subdivide<br></li><li> Proportional Editing Tool</li></ol>Note: completion of High priority items will be followed by a $5 price increase and officially end Early Access status.",
+  "about_the_game": "Mesh Maker VR is an intuitive, easy to use, and easy to learn VR 3d modeling tool based on vertices. Nearly zero learning curve. Just hop into VR and start making 3d models.<br><br>MMVR is a 100% open source MIT licensed product. Check us out on github: <br>MMVR UI is also 100% open source with an MIT license. Check it out too:<h2 class=\"bb_tag\" >Current Features / ChangeLog</h2><ul class=\"bb_ul\"><li> Save As - 5/16/2017<br></li><li> User Interface (UI) for Load OBJ, including directory traversal - 4/28/2017<br></li><li> Ability to change skybox from Settings (stars, blue sky, and sunset as the first three choices). - 4/1/2017<br></li><li> Eye dropper tool (Tools -> Triangles -> Pick Color) - 3/28/2017<br></li><li> Triangle multi-select mode - 3/24/2017<br></li><li> Fill Tool (ability to color faces) - 3/23/2017<br></li><li> Sphere Primitives - 3/6/2017<br></li><li> Lock Reference Images - 3/3/2017 (allows placing vertices directly on reference image for easy extrusions)<br></li><li> Cylinder Primitives - 2/28/2017<br></li><li> Circle Primitives - 2/22/2017<br></li><li> 3d Tracing Mode - 2/3/2017<br></li><li> Box Select - 1/29/2017<br></li><li> Box Primitives - 1/27/2017<br></li><li> Selection Flip Normals - 1/27/2017<br></li><li> Extrude Face - 1/26/2017<br></li><li> Merge Vertices - 1/26/2017<br></li><li> Plane Primitives - 1/25/2017<br></li><li> Rotation Snapping - 1/25/2017<br></li><li> Multiselect & Copy/Paste - 1/22/2017<br></li><li> Reference Images - 1/16/2017 (top.png, bottom.png, left.png, right.png, front.png, back.png in same folder as executable)<br></li><li> Alignment Tools - 1/16/2017<br></li><li> Object scaling for easy work positioning - 1/19/2017<br></li><li> Settings saved as JSON - 1/16/2017<br></li><li> Ability to adjust snap spacing from Settings - 1/8/2017<br></li><li> Wavefront OBJ Load/Save (no UI for load yet - loads \"load.obj\" on startup. Save has simple button in radial menu.)<br></li><li> Vertex Create/Move/Delete<br></li><li> Face Create/Delete/Flip<br></li><li> Snapping for Vertex Create/Move<br></li><li> Object rotation and movement for easy work positioning<br></li><li> Teleporting for easy work positioning</li></ul><h2 class=\"bb_tag\" >Roadmap</h2>Features will be implemented over time according to their priority. Urgent priority first, then High priority.<br><br><strong>Urgent priority:</strong><br><ol><li> Extrude Along Normal button (locked extrusion axis)<br></li><li> Hide snap 3d crosshair lines unless they hit something<br></li><li> Make snap crosshair disappear when near Tool/Settings Panel \"airspace\"<br></li><li> Edge extrusion<br></li><li> Mirror/symmetry plane</li></ol>Note: completion of Urgent priority items will be followed by a $5 price increase.<br><br><strong>High priority:</strong><br><ol><li> Subdivide<br></li><li> Proportional Editing Tool</li></ol>Note: completion of High priority items will be followed by a $5 price increase and officially end Early Access status.",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Tracked Controller Support",
+    "VR Only"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 25,
+  "review_positive": 22,
+  "review_percentage": 88.0,
+  "owner_estimate": 10000,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 25,
+      "review_percentage": 88.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 25,
+      "review_percentage": 88.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-30",
+      "review_count": 25,
+      "review_percentage": 88.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

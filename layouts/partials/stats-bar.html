@@ -1,0 +1,25 @@
+<div class="stats-bar" id="stats-bar">
+  <a href="{{ "browse/" | relURL }}" class="stat-item stat-link">
+    <span class="stat-value" id="stat-tracked">--</span>
+    <span class="stat-label">Games Tracked</span>
+  </a>
+  <a href="{{ "browse/?sort=first_seen" | relURL }}" class="stat-item stat-link">
+    <span class="stat-value" id="stat-new">--</span>
+    <span class="stat-label">Added This Week</span>
+  </a>
+  <a href="{{ "hidden-gems/" | relURL }}" class="stat-item stat-link">
+    <span class="stat-value" id="stat-gems">--</span>
+    <span class="stat-label">Hidden Gems</span>
+  </a>
+</div>
+<script>
+  fetch('{{ "data/market_stats.json" | relURL }}')
+    .then(r => r.json())
+    .then(data => {
+      const fmt = n => Number(n || 0).toLocaleString('en-GB');
+      document.getElementById('stat-tracked').textContent = fmt(data.enriched_games);
+      document.getElementById('stat-new').textContent = fmt(data.new_this_week);
+      document.getElementById('stat-gems').textContent = fmt(data.hidden_gems);
+    })
+    .catch(() => {});
+</script>

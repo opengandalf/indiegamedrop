@@ -1,0 +1,67 @@
+{
+  "steam_app_id": 955610,
+  "name": "OpenVR Benchmark",
+  "slug": "openvr-benchmark",
+  "developer": "Stonebrick Studios",
+  "publisher": "Stonebrick Studios",
+  "release_date": "Dec 20, 2019",
+  "price_usd": 0.0,
+  "genres": [
+    "Utilities"
+  ],
+  "tags": [
+    "Utilities"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Benchmark your VR setup - OpenVR Benchmark is the first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset. See if your hardware performs correctly! VR headset required.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/955610/header.jpg?t=1758579485",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/955610/ss_f043bebaa8c0e98e3568efb2b267b045a36f380d.600x338.jpg?t=1758579485",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/955610/ss_e9497fbe1d4e6638a306fad159f827abd5d80264.600x338.jpg?t=1758579485",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/955610/ss_11f56035039a535bf6fb23efac2dcf81eb84ca12.600x338.jpg?t=1758579485",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/955610/ss_a17567a3b49b39d77be2fa720a13bd8cd7d4a70c.600x338.jpg?t=1758579485",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/955610/ss_d414b7253bd40b731c28d9a3166521a2109c3b89.600x338.jpg?t=1758579485"
+  ],
+  "detailed_description": "<br><br>Benchmark your VR setup - <i><strong>OpenVR Benchmark</strong></i> is the first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset. See if your hardware performs correctly! <i><strong>OpenVR Benchmark</strong></i> is available for free! After running the benchmark, you are presented with a score and your result is automatically submitted and compared with other users.<br><br>With <i><strong>OpenVR Benchmark</strong></i>, you can easily find out if your hardware performs up to the expectations - your result is compared with all other users who use the same GPU and VR headset. The benchmark lets you know whether your system performs normally, exceeds the normal result, or performs below average (relative to other users with the same hardware):<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/955610/extras/11ce6d1c63bbf36f88e5fe73784734cf.webp?t=1758579485\" width=574 height=35 /></span><br><br>The benchmark is super easy to use and running it just takes 60 seconds. It also looks awesome! <i><strong>OpenVR Benchmark</strong></i> renders a fly-through through a beautiful, colorful voxel world. The world rendered in <i><strong>OpenVR Benchmark</strong></i> is a world from the game <strong>cyubeVR</strong>, a great sandbox VR voxel game built from the ground up for roomscale VR:<br><br><br>If you're an overclocker, then with <i><strong>OpenVR Benchmark</strong></i>, you can also for the first time find out and test exactly how much impact your OC setup has on your real VR performance! <br><br><i><strong>OpenVR Benchmark</strong></i> also allows for the very first time to benchmark the real VR performance of different GPUs. Previously, VR performance benchmarks comparing different GPUs had to be done inside of regular VR games, which never results in fully reproducible results, as it is impossible to get the head position and head movement in VR games fully reproducible. <i><strong>OpenVR Benchmark</strong></i> changes this - the benchmark fully ignores the tracking of your VR headset and always renders the same view as part of the benchmark run, while still rendering within your VR headset. <i><strong>OpenVR Benchmark</strong></i> also makes sure that all users use the exact same SteamVR settings regarding anything that has an impact on performance (e.g. Supersampling), so every result from <i><strong>OpenVR Benchmark</strong></i> can be compared across different systems.<br><br>You can easily export your benchmark result as a .PNG image to share it in your favorite Discord, send it to your friends or post it on Instagram because you want to show everyone how your hardware performs! And not only is export to .PNG available, you can also copy the result into your clipboard with great formatting for Reddit, so that you can just paste and post the result there!<br><br>Supports all SteamVR compatible headsets. Even though the benchmark fully renders within your VR headset, you do <strong>not</strong> have to wear your VR headset ever, there are also no VR controllers required. If you want to, you can wear the headset and watch the benchmark run from within the headset - the disabled tracking might lead to motion sickness though, so it's not recommended. You control the benchmark using the mouse at your desktop monitor.<br><br><i><strong>OpenVR Benchmark</strong></i> is fully free, and all the functionality above is available for free. To support development of this tool, you can optionally buy the <i><strong>OpenVR Benchmark Leaderboard</strong></i> DLC that adds a full leaderboard of all results that were ever submitted using this benchmark, which hardware was used to get the result, see which rank you managed to get, and also submit your name to show off your result to others in the leaderboard:<br><br>",
+  "about_the_game": "<br><br>Benchmark your VR setup - <i><strong>OpenVR Benchmark</strong></i> is the first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset. See if your hardware performs correctly! <i><strong>OpenVR Benchmark</strong></i> is available for free! After running the benchmark, you are presented with a score and your result is automatically submitted and compared with other users.<br><br>With <i><strong>OpenVR Benchmark</strong></i>, you can easily find out if your hardware performs up to the expectations - your result is compared with all other users who use the same GPU and VR headset. The benchmark lets you know whether your system performs normally, exceeds the normal result, or performs below average (relative to other users with the same hardware):<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/955610/extras/11ce6d1c63bbf36f88e5fe73784734cf.webp?t=1758579485\" width=574 height=35 /></span><br><br>The benchmark is super easy to use and running it just takes 60 seconds. It also looks awesome! <i><strong>OpenVR Benchmark</strong></i> renders a fly-through through a beautiful, colorful voxel world. The world rendered in <i><strong>OpenVR Benchmark</strong></i> is a world from the game <strong>cyubeVR</strong>, a great sandbox VR voxel game built from the ground up for roomscale VR:<br><br><br>If you're an overclocker, then with <i><strong>OpenVR Benchmark</strong></i>, you can also for the first time find out and test exactly how much impact your OC setup has on your real VR performance! <br><br><i><strong>OpenVR Benchmark</strong></i> also allows for the very first time to benchmark the real VR performance of different GPUs. Previously, VR performance benchmarks comparing different GPUs had to be done inside of regular VR games, which never results in fully reproducible results, as it is impossible to get the head position and head movement in VR games fully reproducible. <i><strong>OpenVR Benchmark</strong></i> changes this - the benchmark fully ignores the tracking of your VR headset and always renders the same view as part of the benchmark run, while still rendering within your VR headset. <i><strong>OpenVR Benchmark</strong></i> also makes sure that all users use the exact same SteamVR settings regarding anything that has an impact on performance (e.g. Supersampling), so every result from <i><strong>OpenVR Benchmark</strong></i> can be compared across different systems.<br><br>You can easily export your benchmark result as a .PNG image to share it in your favorite Discord, send it to your friends or post it on Instagram because you want to show everyone how your hardware performs! And not only is export to .PNG available, you can also copy the result into your clipboard with great formatting for Reddit, so that you can just paste and post the result there!<br><br>Supports all SteamVR compatible headsets. Even though the benchmark fully renders within your VR headset, you do <strong>not</strong> have to wear your VR headset ever, there are also no VR controllers required. If you want to, you can wear the headset and watch the benchmark run from within the headset - the disabled tracking might lead to motion sickness though, so it's not recommended. You control the benchmark using the mouse at your desktop monitor.<br><br><i><strong>OpenVR Benchmark</strong></i> is fully free, and all the functionality above is available for free. To support development of this tool, you can optionally buy the <i><strong>OpenVR Benchmark Leaderboard</strong></i> DLC that adds a full leaderboard of all results that were ever submitted using this benchmark, which hardware was used to get the result, see which rank you managed to get, and also submit your name to show off your result to others in the leaderboard:<br><br>",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "VR Only"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 90,
+  "review_positive": 66,
+  "review_percentage": 73.3,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 87,
+      "review_percentage": 71.3,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 90,
+      "review_percentage": 73.3,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

@@ -1,0 +1,71 @@
+{
+  "steam_app_id": 3005110,
+  "name": "Lunar Lander Redux",
+  "slug": "lunar-lander-redux",
+  "developer": "atrixsanna",
+  "publisher": "atrixsanna",
+  "release_date": "Jun 11, 2024",
+  "price_usd": 0.99,
+  "genres": [
+    "Action",
+    "Indie"
+  ],
+  "tags": [
+    "Action",
+    "Indie"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Explore a rough space landscape in a fragile capsule. Good for an hour of fun or frustration depending on skill. Physics mostly accurate.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005110/header.jpg?t=1718096582",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005110/ss_698201a573d52fb44f22ee932ca28366377b1e62.600x338.jpg?t=1718096582",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005110/ss_9726f1da8919627ed72b5cef730eff942fd9b389.600x338.jpg?t=1718096582",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005110/ss_766c6f667c16c00268ee7f2c317006b2d71b742a.600x338.jpg?t=1718096582",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005110/ss_754bc25899383dc08b63951b9ceb4782562d4b57.600x338.jpg?t=1718096582",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3005110/ss_83f75b8a45e25fd0b0dd8a213e3480f9c8c20c50.600x338.jpg?t=1718096582"
+  ],
+  "detailed_description": "Heavily inspired by Atari's arcade game Lunar Lander. Minimalist style to keep the retro feeling.<br><br>Traverse a rough landscape in a very fragile capsule. The capsule's legs can take some shock, but the capsule will still break if the legs absorb too much of a shock. Fuel probably isn't an issue, but it's wise not to be wasteful. Every succesful landing will earn you some fuel. Score depends on the difficulty to reach the platform, also relative to the next level. <br><br><ul class=\"bb_ul\"><li> Accurate altitude measurement based on what's actually under the capsule<br></li><li> 10 levels<br></li><li> Shows maximum score per level<br></li><li> Shows used fuel and ingame timer on pause screen<br></li><li> Pinpoint controller or mouse control mode: easier capsule rotation control, -25 score penalty per platform<br></li><li> Easy mode: capsule gets way tougher, -50 score penalty per platform<br></li><li> Use keyboard or controller</li></ul>",
+  "about_the_game": "Heavily inspired by Atari's arcade game Lunar Lander. Minimalist style to keep the retro feeling.<br><br>Traverse a rough landscape in a very fragile capsule. The capsule's legs can take some shock, but the capsule will still break if the legs absorb too much of a shock. Fuel probably isn't an issue, but it's wise not to be wasteful. Every succesful landing will earn you some fuel. Score depends on the difficulty to reach the platform, also relative to the next level. <br><br><ul class=\"bb_ul\"><li> Accurate altitude measurement based on what's actually under the capsule<br></li><li> 10 levels<br></li><li> Shows maximum score per level<br></li><li> Shows used fuel and ingame timer on pause screen<br></li><li> Pinpoint controller or mouse control mode: easier capsule rotation control, -25 score penalty per platform<br></li><li> Easy mode: capsule gets way tougher, -50 score penalty per platform<br></li><li> Use keyboard or controller</li></ul>",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Full controller support",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 7,
+  "review_positive": 7,
+  "review_percentage": 100.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 7,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-26",
+      "review_count": 7,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

@@ -1,0 +1,77 @@
+{
+  "steam_app_id": 1952740,
+  "name": "Infinite Turtles",
+  "slug": "infinite-turtles",
+  "developer": "Charlie Brej",
+  "publisher": "Charlie Brej",
+  "release_date": "Jun 19, 2022",
+  "price_usd": 4.99,
+  "genres": [
+    "Casual",
+    "Simulation",
+    "Strategy"
+  ],
+  "tags": [
+    "Casual",
+    "Simulation",
+    "Strategy"
+  ],
+  "platforms": [
+    "windows",
+    "mac",
+    "linux"
+  ],
+  "short_description": "Design computational circuits which defy restrictions of our universe in this open-ended puzzle. Your completed creations become components to solve future challenges. As you design a circuit and can place your design within it, where there is a smaller you doing the same, and so on to infinity.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952740/header.jpg?t=1684093180",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952740/ss_7c0f6a4a25c0ab9b9e86eb3c5d84674952f899f4.600x338.jpg?t=1684093180",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952740/ss_0b2817c2e06114d81b02535f6f3025a06d617d11.600x338.jpg?t=1684093180",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952740/ss_5f3e6485f86bf2ec7f840af9c0c48bd2ceceb82a.600x338.jpg?t=1684093180",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952740/ss_c35325e5098e28ec067512246694197e4c8a042c.600x338.jpg?t=1684093180",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952740/ss_b60725119322911a0c2965847ab2ca4a73180bfd.600x338.jpg?t=1684093180"
+  ],
+  "detailed_description": "You are but a cog in infinite machine. Yet you are all the cogs. There is no end and no beginning. Only computation.<br><br>There are only a handful of base components to master. Clone replicates a token. Filter redirects a zero or Nul token to another path. A lock will not allow a token through until it has been unlocked from the side. Switch directs tokens left or right, which can be selected by supplying a token at the other end. Increment and decrement units add or subtract one from the token. And finally a nullifier converts a zero to a Nul and vice-versa. All other units in the game are ones made by you.<h2 class=\"bb_tag\" >User Interface</h2>The design interface has plenty of quality of life features making construction as painless as possible. Copying and pasting between designs, moving and flipping components, comments, and custom colors to help you.<h2 class=\"bb_tag\" >Testing</h2>Testing allows you to view the operation of your design while inspecting the inner workings  of subcomponents. Skipping steps where no activity can be seen makes visualising your algorithm easier.<h2 class=\"bb_tag\" >Community</h2>Your designs can be exchanged with friends or shared with the public using strings. There are global leader boards as well as being able to see your friend's scores.",
+  "about_the_game": "You are but a cog in infinite machine. Yet you are all the cogs. There is no end and no beginning. Only computation.<br><br>There are only a handful of base components to master. Clone replicates a token. Filter redirects a zero or Nul token to another path. A lock will not allow a token through until it has been unlocked from the side. Switch directs tokens left or right, which can be selected by supplying a token at the other end. Increment and decrement units add or subtract one from the token. And finally a nullifier converts a zero to a Nul and vice-versa. All other units in the game are ones made by you.<h2 class=\"bb_tag\" >User Interface</h2>The design interface has plenty of quality of life features making construction as painless as possible. Copying and pasting between designs, moving and flipping components, comments, and custom colors to help you.<h2 class=\"bb_tag\" >Testing</h2>Testing allows you to view the operation of your design while inspecting the inner workings  of subcomponents. Skipping steps where no activity can be seen makes visualising your algorithm easier.<h2 class=\"bb_tag\" >Community</h2>Your designs can be exchanged with friends or shared with the public using strings. There are global leader boards as well as being able to see your friend's scores.",
+  "supported_languages": "English, Japanese, Traditional Chinese, Simplified Chinese",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Includes level editor",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 49,
+  "review_positive": 48,
+  "review_percentage": 98.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 47,
+      "review_percentage": 97.9,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "review_count": 49,
+      "review_percentage": 98.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

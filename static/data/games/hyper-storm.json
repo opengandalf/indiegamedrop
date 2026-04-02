@@ -1,0 +1,75 @@
+{
+  "steam_app_id": 1147840,
+  "name": "Hyper Storm",
+  "slug": "hyper-storm",
+  "developer": "MotionHouse",
+  "publisher": "MotionHouse",
+  "release_date": "Oct 3, 2019",
+  "price_usd": 0.99,
+  "genres": [
+    "Action",
+    "Indie"
+  ],
+  "tags": [
+    "Action",
+    "Indie"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Hyper Storm is an arcade, thrilling shooter with backview. Defeat your enemies and compete for the best scores by controlling futuristic fighters that rush towards your enemies on a stage from ground to space.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147840/header.jpg?t=1571343912",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147840/ss_70b869f4f60af586755de83d0f344bf8798b73f8.600x338.jpg?t=1571343912",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147840/ss_4496ddbae794be08b0ae7794417fe2cd7fd897a5.600x338.jpg?t=1571343912",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147840/ss_932deab081f547b03d5bd634acf0f0385997f6f3.600x338.jpg?t=1571343912",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147840/ss_cc586e935b0e562db7c6bf102723d4c48aceda54.600x338.jpg?t=1571343912",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147840/ss_f7138a94ecdec2b4cd076a142ef5417abdb2a75f.600x338.jpg?t=1571343912",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147840/ss_c9b81f593bef7412c5c14bbe87d609c15853a83f.600x338.jpg?t=1571343912"
+  ],
+  "detailed_description": "<h1>Update Notes</h1><p>Version 1.21 Update Contents\r\n\r\nThe difficulty of the game has been adjusted.\r\nMaintained Hard difficulty and lowered Easy and Normal difficulty.\r\nThis is to make the stage progression of the game more smooth.\r\n\r\n-Player aircraft shield durability has been adjusted as follows:\r\nIncreased from Easy 150% to 300%.\r\nNormal increased from 120% to 200%\r\nIncreased from Hard 80% to 100%.\r\n\r\n-The amount of points for each difficulty has been changed.\r\nEasy 100% Points Retained\r\nChanged from Norml 150% Points to 200% Points.\r\nChanged from Hard 200% to 300%.\r\n\r\n-Compensation is maintained in Hyper mode, so you can maintain high comparability by using Hyper Mode strategically.\r\nThis allows Hyper Mode not only to defend against attacks but also to be used strategically for high scores.\r\n\r\n-Fixed a bug where missiles on the existing ground stage were out of sync with the background scroll.\r\n\r\n-I have attached the game image in the game contents folder.\r\n\r\n-Fixed some typos in the game\r\n\r\n-SimTools plug-in work has been made to smoothly integrate the Motion Simulator. I've attached the SimTools plugin to the game content folder.</p><br><h1>About the Game</h1>Hyper Storm is an arcade, thrilling shooter with backview.\r\nDefeat your enemies and compete for the best scores by controlling futuristic fighters that rush towards your enemies on a stage from ground to space.\r\n\r\nVR is supported and feedback motion data according to the fighter's movement or combat situation for the simulator is output to the UDP network.\r\nSupport for SimTools plugins.",
+  "about_the_game": "Hyper Storm is an arcade, thrilling shooter with backview.<br />\r\nDefeat your enemies and compete for the best scores by controlling futuristic fighters that rush towards your enemies on a stage from ground to space.<br />\r\n<br />\r\nVR is supported and feedback motion data according to the fighter's movement or combat situation for the simulator is output to the UDP network.<br />\r\nSupport for SimTools plugins.",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "VR Supported",
+    "Partial Controller Support",
+    "Steam Leaderboards",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 1.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 9,
+  "review_positive": 9,
+  "review_percentage": 100.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 8,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 9,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

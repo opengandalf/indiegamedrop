@@ -1,0 +1,103 @@
+{
+  "steam_app_id": 234820,
+  "name": "Driver Fusion",
+  "slug": "driver-fusion",
+  "developer": "Treexy",
+  "publisher": "Treexy",
+  "release_date": "May 6, 2013",
+  "price_usd": 0.0,
+  "genres": [
+    "Indie",
+    "Free To Play",
+    "Education",
+    "Software Training",
+    "Utilities",
+    "Web Publishing",
+    "Game Development"
+  ],
+  "tags": [
+    "Indie",
+    "Free To Play",
+    "Education",
+    "Software Training",
+    "Utilities",
+    "Web Publishing",
+    "Game Development"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "The best software to update, backup, clean, and monitor the drivers and devices of your PC. Update drivers, delete unused drivers, back up drivers, and uninstall disconnected devices to keep your computer reliable and up to date.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/header.jpg?t=1768398480",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/0594f68bb151d5b179827cd8a11189f848b8bb96/ss_0594f68bb151d5b179827cd8a11189f848b8bb96.600x338.jpg?t=1768398480",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/56884f0a551e3e9618e1f24b51446e8a097cb6e8/ss_56884f0a551e3e9618e1f24b51446e8a097cb6e8.600x338.jpg?t=1768398480",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/6e72c709fb7f304c4c52c3fb6cc0a9907aad45a5/ss_6e72c709fb7f304c4c52c3fb6cc0a9907aad45a5.600x338.jpg?t=1768398480",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/810eda9da6e012083ff91966d9754c46ad6a2847/ss_810eda9da6e012083ff91966d9754c46ad6a2847.600x338.jpg?t=1768398480",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/718ad8666e872f63ae70f81e855a0fdd55c3169c/ss_718ad8666e872f63ae70f81e855a0fdd55c3169c.600x338.jpg?t=1768398480",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/1cb98139a7cdd5f8ad04087288169179d32f3e45/ss_1cb98139a7cdd5f8ad04087288169179d32f3e45.600x338.jpg?t=1768398480",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/bdff1dd4b05b46d262efcb10ba11d18a5e8e80db/ss_bdff1dd4b05b46d262efcb10ba11d18a5e8e80db.600x338.jpg?t=1768398480",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/8c012d998a36a1cd09b6522086d14c5961bbe6f0/ss_8c012d998a36a1cd09b6522086d14c5961bbe6f0.600x338.jpg?t=1768398480",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/3a78a8026ec867fb64198a77dcfbfc35af115ee3/ss_3a78a8026ec867fb64198a77dcfbfc35af115ee3.600x338.jpg?t=1768398480",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/8a3b66508979bd7ce4bc75465fab2fb516b17d49/ss_8a3b66508979bd7ce4bc75465fab2fb516b17d49.600x338.jpg?t=1768398480",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/3f8d49ae78e59f7d7a581899aa58190dff11d521/ss_3f8d49ae78e59f7d7a581899aa58190dff11d521.600x338.jpg?t=1768398480",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/063556f2d066c60937c79787e42dd1b3f7d727fe/ss_063556f2d066c60937c79787e42dd1b3f7d727fe.600x338.jpg?t=1768398480",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/ecd024857a80f6e50ef7c0f13897572bf92e16ea/ss_ecd024857a80f6e50ef7c0f13897572bf92e16ea.600x338.jpg?t=1768398480",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/16daa17d4d7f82992b2ad2977fcc5ed802894d07/ss_16daa17d4d7f82992b2ad2977fcc5ed802894d07.600x338.jpg?t=1768398480",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/6f0f1e7afb0650197334b4d63ba7dc5bbdad1675/ss_6f0f1e7afb0650197334b4d63ba7dc5bbdad1675.600x338.jpg?t=1768398480",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/2c02bf3d200fc11a94d7461535646fe565225211/ss_2c02bf3d200fc11a94d7461535646fe565225211.600x338.jpg?t=1768398480",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/8478824950daf77397b061a68ea741168fd3f4bf/ss_8478824950daf77397b061a68ea741168fd3f4bf.600x338.jpg?t=1768398480",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/c499899f3eda1fdac4ba2f6c81467d03a966a808/ss_c499899f3eda1fdac4ba2f6c81467d03a966a808.600x338.jpg?t=1768398480",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/d1e364fdc07ce263d9d8ec3ebfa256e559b3d291/ss_d1e364fdc07ce263d9d8ec3ebfa256e559b3d291.600x338.jpg?t=1768398480",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/0378b6a911d3d6a7359d1e82b2ee3954dc487cb8/ss_0378b6a911d3d6a7359d1e82b2ee3954dc487cb8.600x338.jpg?t=1768398480",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/6fcfc98fcfbaa1f72a885af485e8698397fe795d/ss_6fcfc98fcfbaa1f72a885af485e8698397fe795d.600x338.jpg?t=1768398480",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234820/ef026f1b1ee33fb7513cdeb7f13429d043f6196d/ss_ef026f1b1ee33fb7513cdeb7f13429d043f6196d.600x338.jpg?t=1768398480"
+  ],
+  "detailed_description": "<h1>Just Updated</h1><p><p class=\"bb_paragraph\" >We've just updated Driver Fusion! You can find more information about this update in the announcements. You can also follow Driver Fusion on Steam to get notified of updates.</p></p><br><h1>About the Software</h1><h2 class=\"bb_tag\" >THE BEST SOFTWARE TO UPDATE, BACKUP, CLEAN AND MONITOR THE DRIVERS AND DEVICES OF YOUR PC</h2><p class=\"bb_paragraph\" >You can download the demo for free and use some of the following features.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >FEATURES</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Health check</strong><br>Automatically update drivers, delete unused drivers, back up drivers, and uninstall disconnected devices to keep your PC reliable, secure, and up to date.</p></li><li><p class=\"bb_paragraph\" ><strong>Scheduler</strong><br>Regularly check your PC for driver and device issues and get notified when problems on your computer need to be fixed.</p></li><li><p class=\"bb_paragraph\" ><strong>Driver update</strong><br>Update your drivers from our database of over 35 million drivers and access all available driver versions for your device.</p></li><li><p class=\"bb_paragraph\" ><strong>Driver cleaner</strong><br>Clean software and driver <u>entries</u> of a device to prevent and fix boot issues, stability problems, and reduced performance.</p></li><li><p class=\"bb_paragraph\" ><strong>Device control</strong><br>Manage devices and drivers on your PC and easily fix errors with detailed information and a wide range of features.</p></li><li><p class=\"bb_paragraph\" ><strong>Driver migration</strong><br>Export drivers for a Windows reinstall or to use on another PC, including those without internet, and install them effortlessly.</p></li><li><p class=\"bb_paragraph\" ><strong>Device monitor</strong><br>Monitor the performance of your devices in real-time, including their temperature, usage, and speed. Keep track of your processor, graphics card, hard drive, and more.</p></li><li><p class=\"bb_paragraph\" ><strong>Device identifier</strong><br>Identify the type, name, and manufacturer of known and unknown devices from our database of over 6 million devices.</p></li><li><p class=\"bb_paragraph\" ><strong>Driver store</strong><br>Install and uninstall drivers from the Windows Driver Store, a secure location where drivers are stored for installation.</p></li><li><p class=\"bb_paragraph\" ><strong>System report</strong> <br>Create a detailed report on every driver and device on your PC, including a summary of your computer's essential components.</p></li><li><p class=\"bb_paragraph\" ><strong>Advanced protection</strong><br>Protect your PC by automatically backing up your system files, settings, and desktop before any changes are made to your computer.</p></li><li><p class=\"bb_paragraph\" ><strong>Desktop</strong><br>Back up your desktop icon positions and screen resolution to preserve your desktop layout.</p></li><li><p class=\"bb_paragraph\" ><strong>Universal compatibility</strong><br>All drivers and devices on your PC are fully supported, regardless of the manufacturer.</p></li><li><p class=\"bb_paragraph\" ><strong>Priority support</strong><br>Clear and comprehensive support is available whenever you need help.</p></li></ul>",
+  "about_the_game": "<h2 class=\"bb_tag\" >THE BEST SOFTWARE TO UPDATE, BACKUP, CLEAN AND MONITOR THE DRIVERS AND DEVICES OF YOUR PC</h2><p class=\"bb_paragraph\" >You can download the demo for free and use some of the following features.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >FEATURES</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Health check</strong><br>Automatically update drivers, delete unused drivers, back up drivers, and uninstall disconnected devices to keep your PC reliable, secure, and up to date.</p></li><li><p class=\"bb_paragraph\" ><strong>Scheduler</strong><br>Regularly check your PC for driver and device issues and get notified when problems on your computer need to be fixed.</p></li><li><p class=\"bb_paragraph\" ><strong>Driver update</strong><br>Update your drivers from our database of over 35 million drivers and access all available driver versions for your device.</p></li><li><p class=\"bb_paragraph\" ><strong>Driver cleaner</strong><br>Clean software and driver <u>entries</u> of a device to prevent and fix boot issues, stability problems, and reduced performance.</p></li><li><p class=\"bb_paragraph\" ><strong>Device control</strong><br>Manage devices and drivers on your PC and easily fix errors with detailed information and a wide range of features.</p></li><li><p class=\"bb_paragraph\" ><strong>Driver migration</strong><br>Export drivers for a Windows reinstall or to use on another PC, including those without internet, and install them effortlessly.</p></li><li><p class=\"bb_paragraph\" ><strong>Device monitor</strong><br>Monitor the performance of your devices in real-time, including their temperature, usage, and speed. Keep track of your processor, graphics card, hard drive, and more.</p></li><li><p class=\"bb_paragraph\" ><strong>Device identifier</strong><br>Identify the type, name, and manufacturer of known and unknown devices from our database of over 6 million devices.</p></li><li><p class=\"bb_paragraph\" ><strong>Driver store</strong><br>Install and uninstall drivers from the Windows Driver Store, a secure location where drivers are stored for installation.</p></li><li><p class=\"bb_paragraph\" ><strong>System report</strong> <br>Create a detailed report on every driver and device on your PC, including a summary of your computer's essential components.</p></li><li><p class=\"bb_paragraph\" ><strong>Advanced protection</strong><br>Protect your PC by automatically backing up your system files, settings, and desktop before any changes are made to your computer.</p></li><li><p class=\"bb_paragraph\" ><strong>Desktop</strong><br>Back up your desktop icon positions and screen resolution to preserve your desktop layout.</p></li><li><p class=\"bb_paragraph\" ><strong>Universal compatibility</strong><br>All drivers and devices on your PC are fully supported, regardless of the manufacturer.</p></li><li><p class=\"bb_paragraph\" ><strong>Priority support</strong><br>Clear and comprehensive support is available whenever you need help.</p></li></ul>",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Swedish, Thai, Turkish, Traditional Chinese, Ukrainian, Portuguese - Brazil, Spanish - Latin America, Vietnamese, Bangla, Belarusian, Croatian, Filipino, Hebrew, Indonesian, Latvian, Lithuanian, Malay, Persian, Serbian, Slovak, Slovenian, Uzbek",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Steam Cloud"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 366,
+  "rising_score": 0.0004,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 59.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 485,
+  "review_positive": 342,
+  "review_percentage": 70.5,
+  "owner_estimate": 35000,
+  "ccu_estimate": 6,
+  "follower_count": 0,
+  "median_playtime_minutes": 262,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 426,
+      "review_percentage": 69.2,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-22",
+      "review_count": 485,
+      "review_percentage": 70.5,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-24",
+      "review_count": 485,
+      "review_percentage": 70.5,
+      "ccu_estimate": 6,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

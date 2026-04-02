@@ -1,0 +1,73 @@
+{
+  "steam_app_id": 3041760,
+  "name": "Procedural Studio",
+  "slug": "procedural-studio",
+  "developer": "Juniper",
+  "publisher": "Juniper GmbH",
+  "release_date": "Sep 13, 2024",
+  "price_usd": 9.49,
+  "genres": [
+    "Animation & Modeling",
+    "Design & Illustration",
+    "Photo Editing",
+    "Game Development"
+  ],
+  "tags": [
+    "Animation & Modeling",
+    "Design & Illustration",
+    "Photo Editing",
+    "Game Development"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Create realistic terrain, images, 3D meshes, and other assets using a graphical node editor.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041760/header.jpg?t=1774045416",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041760/bd56ce69984761e828a404e45fd6b94200d892e7/ss_bd56ce69984761e828a404e45fd6b94200d892e7.600x338.jpg?t=1774045416",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041760/102908b6efb4e9ccbb567d7feb1c306445cd5dee/ss_102908b6efb4e9ccbb567d7feb1c306445cd5dee.600x338.jpg?t=1774045416",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041760/70558b904f81bca2885f6e28b97beabe41c3e685/ss_70558b904f81bca2885f6e28b97beabe41c3e685.600x338.jpg?t=1774045416",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041760/8ac06b7943bd278d3e26a7b9ccc774dc6433f495/ss_8ac06b7943bd278d3e26a7b9ccc774dc6433f495.600x338.jpg?t=1774045416",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041760/6be48a1e1649b72b86bed6290785b735b06e48c8/ss_6be48a1e1649b72b86bed6290785b735b06e48c8.600x338.jpg?t=1774045416",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041760/ss_c3a47287b43b85c98b895bf78496fda80bd83789.600x338.jpg?t=1774045416",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3041760/3b8d3cf5d5bce0074e9760e4366ff5811c181169/ss_3b8d3cf5d5bce0074e9760e4366ff5811c181169.600x338.jpg?t=1774045416"
+  ],
+  "detailed_description": "<h2 class=\"bb_tag\" ><strong>Procedural Studio</strong></h2><p class=\"bb_paragraph\" >Create realistic terrains, images, and 3D objects, using Procedural Studio's powerful node editor. Every project begins with a blank canvas where intricate node-graphs can be constructed to guide the entire workflow. This structure provides endless flexibility, allowing adjustments to any part of the process whenever needed. Forget about irreversible changes and embrace the ability to create dynamic, parameter-driven graphics with ease.</p><h2 class=\"bb_tag\" ><strong>Advanced Feature Set</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Expert Image Processing:</strong> Images can be generated, loaded, filtered, and combined with precision. Complex noise functions can be defined and combined to create rich procedural textures and patterns. Multiple pixel formats and dimensions are supported, ensuring high-quality image processing.</p></li><li><p class=\"bb_paragraph\" ><strong>Authentic Terrain Generation:</strong> Stunning terrains can be crafted using hydraulic and thermal erosion techniques. Node-based texturing enhances terrains with realistic effects that mimic natural processes.</p></li><li><p class=\"bb_paragraph\" ><strong>Versatile Node Editor:</strong> Advanced tools such as loops, conditional logic, subgraphs, and recursion cater to complex procedural workflows.</p></li><li><p class=\"bb_paragraph\" ><strong>Dynamic Mesh Creation:</strong> 2D and 3D meshes can be created effortlessly. Unique noise patterns can be applied, and texture coordinates managed to bring designs to life.</p></li></ul><h2 class=\"bb_tag\" ><strong>Local Generative AI</strong></h2><p class=\"bb_paragraph\" >Download a free plugin to use Procedural Studio for AI based image generation on your local machine. Advanced techniques such as ControlNet and inpainting enable precise, locally controlled AI workflows — letting procedural and generative approaches work side by side in a single graph.</p><h2 class=\"bb_tag\" ><strong>Free Demo</strong></h2><p class=\"bb_paragraph\" >Try the free demo with a full feature set, limited only in export resolution and plugin support.</p><p class=\"bb_paragraph\" ></p>",
+  "about_the_game": "<h2 class=\"bb_tag\" ><strong>Procedural Studio</strong></h2><p class=\"bb_paragraph\" >Create realistic terrains, images, and 3D objects, using Procedural Studio's powerful node editor. Every project begins with a blank canvas where intricate node-graphs can be constructed to guide the entire workflow. This structure provides endless flexibility, allowing adjustments to any part of the process whenever needed. Forget about irreversible changes and embrace the ability to create dynamic, parameter-driven graphics with ease.</p><h2 class=\"bb_tag\" ><strong>Advanced Feature Set</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Expert Image Processing:</strong> Images can be generated, loaded, filtered, and combined with precision. Complex noise functions can be defined and combined to create rich procedural textures and patterns. Multiple pixel formats and dimensions are supported, ensuring high-quality image processing.</p></li><li><p class=\"bb_paragraph\" ><strong>Authentic Terrain Generation:</strong> Stunning terrains can be crafted using hydraulic and thermal erosion techniques. Node-based texturing enhances terrains with realistic effects that mimic natural processes.</p></li><li><p class=\"bb_paragraph\" ><strong>Versatile Node Editor:</strong> Advanced tools such as loops, conditional logic, subgraphs, and recursion cater to complex procedural workflows.</p></li><li><p class=\"bb_paragraph\" ><strong>Dynamic Mesh Creation:</strong> 2D and 3D meshes can be created effortlessly. Unique noise patterns can be applied, and texture coordinates managed to bring designs to life.</p></li></ul><h2 class=\"bb_tag\" ><strong>Local Generative AI</strong></h2><p class=\"bb_paragraph\" >Download a free plugin to use Procedural Studio for AI based image generation on your local machine. Advanced techniques such as ControlNet and inpainting enable precise, locally controlled AI workflows — letting procedural and generative approaches work side by side in a single graph.</p><h2 class=\"bb_tag\" ><strong>Free Demo</strong></h2><p class=\"bb_paragraph\" >Try the free demo with a full feature set, limited only in export resolution and plugin support.</p><p class=\"bb_paragraph\" ></p>",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 3,
+  "review_positive": 3,
+  "review_percentage": 100.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 2,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-26",
+      "review_count": 3,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

@@ -1,0 +1,63 @@
+<script>
+// Mobile hamburger menu
+(function() {
+  const nav = document.querySelector('.nav');
+  const menu = document.getElementById('menu');
+  if (!nav || !menu) return;
+
+  // Create hamburger button
+  const btn = document.createElement('button');
+  btn.className = 'menu-toggle';
+  btn.setAttribute('aria-label', 'Open menu');
+  btn.innerHTML = '☰';
+
+  // Insert before menu
+  menu.parentNode.insertBefore(btn, menu);
+
+  // Create close button inside menu
+  const closeBtn = document.createElement('button');
+  closeBtn.className = 'menu-close';
+  closeBtn.setAttribute('aria-label', 'Close menu');
+  closeBtn.innerHTML = '✕';
+
+  btn.addEventListener('click', () => {
+    menu.classList.add('open');
+    // Add close button as first child
+    if (!menu.querySelector('.menu-close')) {
+      menu.insertBefore(closeBtn, menu.firstChild);
+    }
+    document.body.style.overflow = 'hidden';
+  });
+
+  closeBtn.addEventListener('click', () => {
+    menu.classList.remove('open');
+    document.body.style.overflow = '';
+  });
+
+  // Close on link click
+  menu.querySelectorAll('a').forEach(a => {
+    a.addEventListener('click', () => {
+      menu.classList.remove('open');
+      document.body.style.overflow = '';
+    });
+  });
+
+  // Close on escape
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && menu.classList.contains('open')) {
+      menu.classList.remove('open');
+      document.body.style.overflow = '';
+    }
+  });
+})();
+</script>
+<div style="text-align: center; padding: 0.5rem 0 0.5rem; color: var(--igdrop-muted); font-size: 0.85rem;">
+  𝕏 Follow us on <a href="https://x.com/IndieGameDrop" target="_blank" rel="noopener" style="color: #1d9bf0; font-weight: bold;">@IndieGameDrop</a> for daily indie game picks
+  &nbsp;·&nbsp;
+  🎲 Into board games? Visit <a href="https://thedicedrop.com" target="_blank" rel="noopener" style="color: var(--igdrop-accent); font-weight: bold;">The Dice Drop</a>
+</div>
+<div style="text-align: center; padding: 0.5rem 0 1rem; color: var(--igdrop-muted); font-size: 0.8rem;">
+  Data powered by <a href="https://store.steampowered.com/" target="_blank" rel="noopener" style="color: var(--igdrop-accent);">Steam</a> &amp;
+  <a href="https://steamspy.com/" target="_blank" rel="noopener" style="color: var(--igdrop-accent);">SteamSpy</a>.
+  This site is not affiliated with or endorsed by Valve Corporation.
+</div>

@@ -1,0 +1,90 @@
+{
+  "steam_app_id": 767240,
+  "name": "BASIC8",
+  "slug": "basic8",
+  "developer": "Tony Wang",
+  "publisher": "Tony Wang",
+  "release_date": "Jan 2, 2018",
+  "price_usd": 7.49,
+  "genres": [
+    "Animation & Modeling",
+    "Design & Illustration",
+    "Education",
+    "Software Training",
+    "Utilities",
+    "Game Development"
+  ],
+  "tags": [
+    "Animation & Modeling",
+    "Design & Illustration",
+    "Education",
+    "Software Training",
+    "Utilities",
+    "Game Development"
+  ],
+  "platforms": [
+    "windows",
+    "mac",
+    "linux"
+  ],
+  "short_description": "BASIC8 is an integrated Fantasy Computer for game and other program development. You can create, share and play disks in a modern BASIC dialect, with built-in tools for editing sprite, tiles, map, quantized, etc.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767240/bf4e99db979dad46b8b4037aab1fa45a561c361d/header.jpg?t=1764128397",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767240/ss_559446534d4616a9506ec72c6c1244ca726e9b5f.600x338.jpg?t=1764128397",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767240/ss_6b031018b86cb9421ef2f0ef54a19cbaea52250c.600x338.jpg?t=1764128397",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767240/ss_22906cb62ddda12ec1ceb2e50eda7cbfc96f4d25.600x338.jpg?t=1764128397",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767240/ss_a88092fefbbe31ecb76837b72db7924b09db0162.600x338.jpg?t=1764128397",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767240/ss_081d55083a8db4f01973ffcc1ade4fa00e5fcf45.600x338.jpg?t=1764128397",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767240/ss_5b3f590866c42aba54d2a58710acf5662ce52b07.600x338.jpg?t=1764128397",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767240/ss_4137cd1b1b970c90bac2c8b1dd90593882fe1eef.600x338.jpg?t=1764128397"
+  ],
+  "detailed_description": "<h1>Sharing</h1><p>Share your creative disks via Workshop using built-in tools, and play others' creations.</p><br><h1>Redistributing</h1><p>Make redistributable standalone player for Windows, MacOS and Linux with the Player Maker, and for browsers with the HTML Maker, you'll find them in the workshop.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767240/extras/3b9e9eea6650bd8fbd374a9752ee20b4.avif?t=1764128397\" width=1224 height=406 /></span></p><br><h1>About the Software</h1><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767240/extras/670674e818af3830364d38bccfb1b46d.avif?t=1764128397\" width=1224 height=406 /></span><br>BASIC8 is an integrated <strong>Fantasy Computer</strong> for game and other program development. You can create, share and play disks in a modern BASIC dialect, with built-in tools for editing sprite, tiles, map, quantized, etc. It's been a while since we used to enjoy coding and playing straightforward after a computer bootup. The goal of BASIC8 is bringing a sense of joy back from retro/vintage computing and gaming, also being quick at getting higher level stuff done for contemporary development for everyone.<br><br>Click \"<u>View the manual</u>\" or \"<u>Visit the website</u>\" on the right side of this page to get full details (it's above instead of right side on small mobile screen).<h2 class=\"bb_tag\" >READY</h2><ul class=\"bb_ul\"><li>Handy sharing via Workshop with built-in tools<br></li><li>Disk can be made into standalone player with the Player Maker and HTML Maker, you'll find them in the Workshop<br></li><li>Disk can be saved as \"*.b8\" file, \"*.png\", or text based for sharing<br></li><li>Programmable in an easy to learn BASIC dialect with both retro and modern syntax<br></li><li>Easy to use API for graphics, input, audio, and more other facilities<br></li><li>Visualized built-in tools for editing sprite, tiles, map, quantized, etc.<br></li><li>Visualized Wave Maker (Workshop) for making sound effect<br></li><li>Easy to bring your own tools<br></li><li>More features coming...</li></ul><h2 class=\"bb_tag\" >SPECS</h2><ul class=\"bb_ul\"><li>Display: 160x128 pixels<br></li><li>Audio: 2 music channels, 1 MIDI channel, 4 sound effect channels, 1 speech channel<br></li><li>Code: BASIC (structured/prototype-based/functional)<br></li><li>Graphics: up to 65535 drawing commands per cycle<br></li><li>Palette: 16 colors with transparency support<br></li><li>Sprite: up to 32x32 pixels per frame, up to 512 frames per sprite<br></li><li>Tiles: 240 cels<br></li><li>Map: up to 128x64 tiles per layer, up to 4 layers (including a layer of logic mark) per page<br></li><li>Gamepad: 6 buttons for each pad (D-Pad + A/B), up to 8 players<br></li><li>Keyboard and mouse: supported</li></ul><h2 class=\"bb_tag\" >LANG</h2><ul class=\"bb_ul\"><li>Case-insensitive; but no line number in BASIC8<br></li><li>Built-in LIST and DICT<br></li><li>Structured sub routine definition with the DEF/ENDDEF statements<br></li><li>LAMBDA expression enhanced<br></li><li>Prototype-based CLASS paradigm<br></li><li>With both manually and automatically dispatched COROUTINE<br></li><li>Importing multiple source files with the IMPORT statement<br></li><li>Automatic releasing of referenced objects by GC<br></li><li>Built-in libraries for File, IO, JSON, Matrix, Network, Web, etc.<br></li><li>No limitation for file quantity (code, sprites, maps, etc.)<br></li><li>More advantages to be discovered...</li></ul>",
+  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767240/extras/670674e818af3830364d38bccfb1b46d.avif?t=1764128397\" width=1224 height=406 /></span><br>BASIC8 is an integrated <strong>Fantasy Computer</strong> for game and other program development. You can create, share and play disks in a modern BASIC dialect, with built-in tools for editing sprite, tiles, map, quantized, etc. It's been a while since we used to enjoy coding and playing straightforward after a computer bootup. The goal of BASIC8 is bringing a sense of joy back from retro/vintage computing and gaming, also being quick at getting higher level stuff done for contemporary development for everyone.<br><br>Click \"<u>View the manual</u>\" or \"<u>Visit the website</u>\" on the right side of this page to get full details (it's above instead of right side on small mobile screen).<h2 class=\"bb_tag\" >READY</h2><ul class=\"bb_ul\"><li>Handy sharing via Workshop with built-in tools<br></li><li>Disk can be made into standalone player with the Player Maker and HTML Maker, you'll find them in the Workshop<br></li><li>Disk can be saved as \"*.b8\" file, \"*.png\", or text based for sharing<br></li><li>Programmable in an easy to learn BASIC dialect with both retro and modern syntax<br></li><li>Easy to use API for graphics, input, audio, and more other facilities<br></li><li>Visualized built-in tools for editing sprite, tiles, map, quantized, etc.<br></li><li>Visualized Wave Maker (Workshop) for making sound effect<br></li><li>Easy to bring your own tools<br></li><li>More features coming...</li></ul><h2 class=\"bb_tag\" >SPECS</h2><ul class=\"bb_ul\"><li>Display: 160x128 pixels<br></li><li>Audio: 2 music channels, 1 MIDI channel, 4 sound effect channels, 1 speech channel<br></li><li>Code: BASIC (structured/prototype-based/functional)<br></li><li>Graphics: up to 65535 drawing commands per cycle<br></li><li>Palette: 16 colors with transparency support<br></li><li>Sprite: up to 32x32 pixels per frame, up to 512 frames per sprite<br></li><li>Tiles: 240 cels<br></li><li>Map: up to 128x64 tiles per layer, up to 4 layers (including a layer of logic mark) per page<br></li><li>Gamepad: 6 buttons for each pad (D-Pad + A/B), up to 8 players<br></li><li>Keyboard and mouse: supported</li></ul><h2 class=\"bb_tag\" >LANG</h2><ul class=\"bb_ul\"><li>Case-insensitive; but no line number in BASIC8<br></li><li>Built-in LIST and DICT<br></li><li>Structured sub routine definition with the DEF/ENDDEF statements<br></li><li>LAMBDA expression enhanced<br></li><li>Prototype-based CLASS paradigm<br></li><li>With both manually and automatically dispatched COROUTINE<br></li><li>Importing multiple source files with the IMPORT statement<br></li><li>Automatic releasing of referenced objects by GC<br></li><li>Built-in libraries for File, IO, JSON, Matrix, Network, Web, etc.<br></li><li>No limitation for file quantity (code, sprites, maps, etc.)<br></li><li>More advantages to be discovered...</li></ul>",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Steam Workshop",
+    "Partial Controller Support",
+    "Includes level editor"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 40,
+  "review_positive": 31,
+  "review_percentage": 77.5,
+  "owner_estimate": 35000,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 41,
+      "review_percentage": 78.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 40,
+      "review_percentage": 77.5,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-02",
+      "review_count": 40,
+      "review_percentage": 77.5,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

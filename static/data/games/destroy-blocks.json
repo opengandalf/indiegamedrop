@@ -1,0 +1,79 @@
+{
+  "steam_app_id": 2905040,
+  "name": "Destroy Blocks",
+  "slug": "destroy-blocks",
+  "developer": "Red Ray Games",
+  "publisher": "Red Ray Games",
+  "release_date": "Jul 26, 2024",
+  "price_usd": 0.55,
+  "genres": [
+    "Action",
+    "Casual",
+    "Indie"
+  ],
+  "tags": [
+    "Action",
+    "Casual",
+    "Indie"
+  ],
+  "platforms": [
+    "windows",
+    "mac"
+  ],
+  "short_description": "Destroy all the blocks to pass the level, earn coins, score points to appear on the leaderboard and go to the next level. Play the multiplayer modes with your friends or in public rooms.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2905040/header.jpg?t=1722220221",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2905040/ss_6f80cc71612213e8d37d4a61b8f37797bc07f871.600x338.jpg?t=1722220221",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2905040/ss_2dc93e99d97c674a06df106f2ddde62901217ef3.600x338.jpg?t=1722220221",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2905040/ss_517e7fd4466727d789647e801019c3b95ca79690.600x338.jpg?t=1722220221",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2905040/ss_8ae0910f8b4f8e2a6b7a1d977b03500b054c8d9b.600x338.jpg?t=1722220221"
+  ],
+  "detailed_description": "<strong>Singleplayer</strong><br>Control the spear and throw it to destroy blocks. This would be the basics, but you will have an X number of spears per level and 2 types of abilities (these abilities will be shown in the game tutorial). The goal is to pass the presented levels, and your score is based on the number of stars. The maximum number of stars per level is 3. The completion time (along with other mechanics) will determine the number of stars you will get at the end of each level.<br>For each level you complete, you will earn coins, and in every level, there will be coins scattered throughout the level. But after you pass the level and play this level again, you will not earn these coins scattered throughout the level.<br>Coins can be used to buy skins for your spear or to get more chances if you don't pass a level.<br><br><strong>Leaderboard</strong><br>Your points on the leaderboard will be determined by the number of stars you have already earned and the number of blocks destroyed in the levels with a scoring limit.<br>Multiplayer modes also give points. However, the points are fewer than in single-player mode and have a limit. The score varies depending on the mode the player is playing.<br><br><strong>Multiplayer (Modes)<br>Best Destroyer (2 - 5 players):</strong><br>When the match begins, the phases that were specifically created for this mode will be randomly selected according to the set difficulty.<br>All players will go through the same phases, with the sequence of phases determined randomly when generated.<br>Players must complete the phases to tally up the blocks they destroy and reach the block destruction limit set by the room owner in the mode settings.<br>If any player fails to complete a phase, they will have to replay it until they pass, adding the blocks they destroyed in that phase to their total.<br>Once a player reaches the block destruction limit, that player will be the winner of the mode.<br><br><strong>Who Destroys More (2 - 5 players):</strong><br>It's a mode where all players play in the same scene, and whoever first reaches the block destruction limit (set by the room creator) wins. Blocks are generated in the scene randomly and usually not too close to each other, with two types of configurations for generating blocks depending on how many players will play the mode.<br>The room creator can set certain mode configurations to hinder players while they are playing. One of these configurations is wood, which, once enabled, will appear randomly on the map, serving as a shield against block destruction.<br>We also have death blocks, which appear from time to time (randomly) from the left, right, or even from below. When a player's spear is hit by a death block, the player will have to wait 4 seconds to respawn and continue playing the mode.",
+  "about_the_game": "<strong>Singleplayer</strong><br>Control the spear and throw it to destroy blocks. This would be the basics, but you will have an X number of spears per level and 2 types of abilities (these abilities will be shown in the game tutorial). The goal is to pass the presented levels, and your score is based on the number of stars. The maximum number of stars per level is 3. The completion time (along with other mechanics) will determine the number of stars you will get at the end of each level.<br>For each level you complete, you will earn coins, and in every level, there will be coins scattered throughout the level. But after you pass the level and play this level again, you will not earn these coins scattered throughout the level.<br>Coins can be used to buy skins for your spear or to get more chances if you don't pass a level.<br><br><strong>Leaderboard</strong><br>Your points on the leaderboard will be determined by the number of stars you have already earned and the number of blocks destroyed in the levels with a scoring limit.<br>Multiplayer modes also give points. However, the points are fewer than in single-player mode and have a limit. The score varies depending on the mode the player is playing.<br><br><strong>Multiplayer (Modes)<br>Best Destroyer (2 - 5 players):</strong><br>When the match begins, the phases that were specifically created for this mode will be randomly selected according to the set difficulty.<br>All players will go through the same phases, with the sequence of phases determined randomly when generated.<br>Players must complete the phases to tally up the blocks they destroy and reach the block destruction limit set by the room owner in the mode settings.<br>If any player fails to complete a phase, they will have to replay it until they pass, adding the blocks they destroyed in that phase to their total.<br>Once a player reaches the block destruction limit, that player will be the winner of the mode.<br><br><strong>Who Destroys More (2 - 5 players):</strong><br>It's a mode where all players play in the same scene, and whoever first reaches the block destruction limit (set by the room creator) wins. Blocks are generated in the scene randomly and usually not too close to each other, with two types of configurations for generating blocks depending on how many players will play the mode.<br>The room creator can set certain mode configurations to hinder players while they are playing. One of these configurations is wood, which, once enabled, will appear randomly on the map, serving as a shield against block destruction.<br>We also have death blocks, which appear from time to time (randomly) from the left, right, or even from below. When a player's spear is hit by a death block, the player will have to wait 4 seconds to respawn and continue playing the mode.",
+  "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Korean, Spanish - Latin America, Dutch, Japanese, Portuguese - Brazil, Portuguese - Portugal, Russian",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Steam Achievements",
+    "In-App Purchases",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 3,
+  "review_positive": 3,
+  "review_percentage": 100.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 3,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-26",
+      "review_count": 3,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

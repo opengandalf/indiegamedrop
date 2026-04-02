@@ -1,0 +1,71 @@
+{
+  "steam_app_id": 1105890,
+  "name": "Tilesetter",
+  "slug": "tilesetter",
+  "developer": "Led",
+  "publisher": "Led",
+  "release_date": "Aug 30, 2019",
+  "price_usd": 12.99,
+  "genres": [
+    "Design & Illustration",
+    "Utilities",
+    "Game Development"
+  ],
+  "tags": [
+    "Design & Illustration",
+    "Utilities",
+    "Game Development"
+  ],
+  "platforms": [
+    "windows",
+    "mac",
+    "linux"
+  ],
+  "short_description": "Tileset generator & map editor tool - Create your whole tileset instantly.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105890/header.jpg?t=1639888092",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105890/ss_4e56f964687570eaa25e1750bfc734ba75e4dc46.600x338.jpg?t=1639888092",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105890/ss_a4ea1c6cfa6c9de0be6461cd85823d306bd6e9a6.600x338.jpg?t=1639888092",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105890/ss_1ed718da44e8da6f739265eece0e2de1277b7007.600x338.jpg?t=1639888092",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105890/ss_83e451aaf3e62938384dc228e7f2211cf06b27f5.600x338.jpg?t=1639888092",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105890/ss_b61c190bb2c3b2c8418fc47d54f173d1bc37bd56.600x338.jpg?t=1639888092"
+  ],
+  "detailed_description": "<h1>Join our Discord</h1><p></p><br><h1>About the Software</h1><strong>Tile faster.</strong> Tileset designing made easy so you can focus on making the perfect tileset.<h2 class=\"bb_tag\" >Smart Tilesets</h2>Create a smart tileset instantly from a base tile. Smart tilesets update themselves automatically when necessary.<h2 class=\"bb_tag\" >Automatic Compositing</h2>Focus on what matters. Tilesetter automatically composites and updates your whole tileset based on a variety of parameters.<h2 class=\"bb_tag\" >Fully Customizable</h2>Make the tileset you envision with a variety of parameters at your disposal.<h2 class=\"bb_tag\" >Convenient Map Editing</h2>Design your maps practically. Tilesetter cleverly fixes tiles for you as you draw, making the process straightforward.<h2 class=\"bb_tag\" >Direct Export</h2>Quickly get your map in-game by exporting it directly to Defold Tilemaps, GameMaker Studio 2 Rooms, Godot Tilemaps or Unity Tilemaps.",
+  "about_the_game": "<strong>Tile faster.</strong> Tileset designing made easy so you can focus on making the perfect tileset.<h2 class=\"bb_tag\" >Smart Tilesets</h2>Create a smart tileset instantly from a base tile. Smart tilesets update themselves automatically when necessary.<h2 class=\"bb_tag\" >Automatic Compositing</h2>Focus on what matters. Tilesetter automatically composites and updates your whole tileset based on a variety of parameters.<h2 class=\"bb_tag\" >Fully Customizable</h2>Make the tileset you envision with a variety of parameters at your disposal.<h2 class=\"bb_tag\" >Convenient Map Editing</h2>Design your maps practically. Tilesetter cleverly fixes tiles for you as you draw, making the process straightforward.<h2 class=\"bb_tag\" >Direct Export</h2>Quickly get your map in-game by exporting it directly to Defold Tilemaps, GameMaker Studio 2 Rooms, Godot Tilemaps or Unity Tilemaps.",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [],
+  "trailer_url": "",
+  "total_recommendations": 141,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 160,
+  "review_positive": 134,
+  "review_percentage": 83.8,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 150,
+      "review_percentage": 86.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 160,
+      "review_percentage": 83.8,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

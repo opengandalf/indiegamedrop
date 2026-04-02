@@ -1,0 +1,90 @@
+{
+  "steam_app_id": 683880,
+  "name": "VR Robotics Simulator",
+  "slug": "vr-robotics-simulator",
+  "developer": "MindRend Technologies",
+  "publisher": "MindRend Technologies",
+  "release_date": "Aug 6, 2020",
+  "price_usd": 1.19,
+  "genres": [
+    "Design & Illustration",
+    "Education",
+    "Software Training",
+    "Utilities"
+  ],
+  "tags": [
+    "Design & Illustration",
+    "Education",
+    "Software Training",
+    "Utilities"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Design, build and program robot cells in Virtual Reality.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683880/header.jpg?t=1623097710",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683880/ss_b3920307792f62a810e17335bbd21ca9984c9edf.600x338.jpg?t=1623097710",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683880/ss_a70ab2eb89753fedefa0b8d0255200dc22cbe903.600x338.jpg?t=1623097710",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683880/ss_3c94b9e9cc84ab97ada8d17d3730c7f243fa2df1.600x338.jpg?t=1623097710",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683880/ss_f88d3b1fdb4622610e83150bb72c563c0e351fe9.600x338.jpg?t=1623097710",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683880/ss_bee4fa332284fe70891cad3cf3181a7c916d9ebd.600x338.jpg?t=1623097710",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683880/ss_67ad2c13b6502f55cd2800b8ad0c00617c8d0228.600x338.jpg?t=1623097710",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683880/ss_f44b34ded0948f222b6b5589e12f5b6a966e6b50.600x338.jpg?t=1623097710",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683880/ss_8bcd0fa79df0f05358d7edd893cf6057e617c1ea.600x338.jpg?t=1623097710",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683880/ss_623061ee856f781753f9a8db9030298c46004432.600x338.jpg?t=1623097710",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683880/ss_9701ebf6de675ffc029784dbf149f91e2116d071.600x338.jpg?t=1623097710",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683880/ss_e790a51b72f3fcf371207926fbaebe3828cfdda8.600x338.jpg?t=1623097710",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683880/ss_b2849be2eabcd44fd14ea964bbfc7c535d048304.600x338.jpg?t=1623097710",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683880/ss_d09d1fe1dd80bd478ae435a869d638072e9def6f.600x338.jpg?t=1623097710",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683880/ss_4631ebf94c4b75e1850f30d972c372ec54f3d6dd.600x338.jpg?t=1623097710"
+  ],
+  "detailed_description": "VR Robotics Simulator is an engineering tool used for industrial robot simulation, design, layout, rapid prototyping and reach analysis built exclusively for the HTC Vive.<br />\r\n<br />\r\nWith VR Robotics Simulator, you can build a robotic cell and program your robot within minutes. You can conduct reach studies to select the correct size and type of robot arm, choose the best positioning equipment for your application and use it as a Guided Sales tool to help customers visualize solutions. Using VR Robotics Simulator you can:<br />\r\n<br />\r\n- Browse a large selection of pre-configured robotic work cells from the Selection Halls. This will allow you to examine these different work cells in detail and develop an appreciation for their relative size and capabilities. <br />\r\n<br />\r\n- Includes a variety of 6 axis manipulators and delta robots.<br />\r\n<br />\r\n- Cells include a variety of single and multi-axis positioners such as headstocks, tilt/rotate, skyhook, drop center, H frames, ferris wheels, floor/ceiling tracks, and multi-axis gantries.<br />\r\n<br />\r\n- Build a cell from the ground up in real time. Save your creations for later use.<br />\r\n<br />\r\n- Experiment with several different tooling options such as arc welding, spot welding and vacuum/magnetic/claw grippers.<br />\r\n<br />\r\n- Learn about robotics and how to operate VRRS from the Training Room. This will cover basic robotics concepts, how to operate the various arms and positioners in VRRS, and how to construct your own robot cells.<br />\r\n<br />\r\n- Import a variety of model formats for viewing in VR. Supported formats:<br />\r\n<br />\r\n    - OBJ (with MTL file)<br />\r\n    - 3DS<br />\r\n    - FBX<br />\r\n    - STL<br />\r\n    - DXF<br />\r\n    - DAE (Collada)<br />\r\n    - X3D<br />\r\n    - Blend<br />\r\n    - GLTF<br />\r\n    - PLY<br />\r\n    - 3MF<br />\r\n<br />\r\nVR Robot Simulator CANNOT export programs that can be used on vendor-specific controllers such as Fanuc, ABB, Motoman, UR, etc. You CAN export points out as XML relative to the robot base. This program is intended to be a low-cost entry point to demonstrate the potential for robot cell design in VR.<br />\r\nIf you want to do virtual programming for a specific robot arm and export the program to the controller you will need to contact the vendor and purchase the appropriate offline programming software.<br />\r\n<br />\r\nImmerse yourself in the world of industrial robots and interact with your creations in Virtual Reality!",
+  "about_the_game": "VR Robotics Simulator is an engineering tool used for industrial robot simulation, design, layout, rapid prototyping and reach analysis built exclusively for the HTC Vive.<br />\r\n<br />\r\nWith VR Robotics Simulator, you can build a robotic cell and program your robot within minutes. You can conduct reach studies to select the correct size and type of robot arm, choose the best positioning equipment for your application and use it as a Guided Sales tool to help customers visualize solutions. Using VR Robotics Simulator you can:<br />\r\n<br />\r\n- Browse a large selection of pre-configured robotic work cells from the Selection Halls. This will allow you to examine these different work cells in detail and develop an appreciation for their relative size and capabilities. <br />\r\n<br />\r\n- Includes a variety of 6 axis manipulators and delta robots.<br />\r\n<br />\r\n- Cells include a variety of single and multi-axis positioners such as headstocks, tilt/rotate, skyhook, drop center, H frames, ferris wheels, floor/ceiling tracks, and multi-axis gantries.<br />\r\n<br />\r\n- Build a cell from the ground up in real time. Save your creations for later use.<br />\r\n<br />\r\n- Experiment with several different tooling options such as arc welding, spot welding and vacuum/magnetic/claw grippers.<br />\r\n<br />\r\n- Learn about robotics and how to operate VRRS from the Training Room. This will cover basic robotics concepts, how to operate the various arms and positioners in VRRS, and how to construct your own robot cells.<br />\r\n<br />\r\n- Import a variety of model formats for viewing in VR. Supported formats:<br />\r\n<br />\r\n    - OBJ (with MTL file)<br />\r\n    - 3DS<br />\r\n    - FBX<br />\r\n    - STL<br />\r\n    - DXF<br />\r\n    - DAE (Collada)<br />\r\n    - X3D<br />\r\n    - Blend<br />\r\n    - GLTF<br />\r\n    - PLY<br />\r\n    - 3MF<br />\r\n<br />\r\nVR Robot Simulator CANNOT export programs that can be used on vendor-specific controllers such as Fanuc, ABB, Motoman, UR, etc. You CAN export points out as XML relative to the robot base. This program is intended to be a low-cost entry point to demonstrate the potential for robot cell design in VR.<br />\r\nIf you want to do virtual programming for a specific robot arm and export the program to the controller you will need to contact the vendor and purchase the appropriate offline programming software.<br />\r\n<br />\r\nImmerse yourself in the world of industrial robots and interact with your creations in Virtual Reality!",
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Tracked Controller Support",
+    "VR Only"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 13,
+  "review_positive": 13,
+  "review_percentage": 100.0,
+  "owner_estimate": 10000,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 4,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 13,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 13,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-31",
+      "review_count": 13,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

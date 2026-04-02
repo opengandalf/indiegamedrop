@@ -1,0 +1,67 @@
+{
+  "steam_app_id": 833740,
+  "name": "Aximion",
+  "slug": "aximion",
+  "developer": "Aximion Research Lab",
+  "publisher": "3d Molier",
+  "release_date": "Apr 27, 2018",
+  "price_usd": 0.0,
+  "genres": [
+    "Early Access"
+  ],
+  "tags": [
+    "Early Access"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Aximion is a prototype of future desktop and virtual reality user interface environment.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/833740/header.jpg?t=1557095188",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/833740/ss_4b7edaa86e059a2506215562d09c7107b55e998f.600x338.jpg?t=1557095188",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/833740/ss_87af5c63280ab0e6ee58c260424eedf86d9b4e45.600x338.jpg?t=1557095188",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/833740/ss_8f57cebbfc3426d76cc302b78160beebf60c9cea.600x338.jpg?t=1557095188",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/833740/ss_e197c8c54e995f9d6807e3b6687af92f22337319.600x338.jpg?t=1557095188",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/833740/ss_d6efb8f293dd3678ab40f8e61914267a6830f849.600x338.jpg?t=1557095188",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/833740/ss_d29c6a69583dcdb71e62f29a363f4ccceb4d4cd9.600x338.jpg?t=1557095188",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/833740/ss_1fcb9ad84f431702c85021b3bfeb1d02ee015b5b.600x338.jpg?t=1557095188"
+  ],
+  "detailed_description": "Aximion is a prototype of future desktop and virtual reality user interface environment.<br />\r\n<br />\r\nSeveral UI concepts introduced in the Aximion to help users personalize and organize their environments.<br />\r\n<br />\r\nThe Aximion rethinks the idea of the Desktop. In the Aximion Desktop is a place where different aspects of a single project/context/interest can be grouped into a single visual entity. For example, if you have some project you may want to gather all related files, links, remote and other resources in one place and organize them accordingly to your preferences. The Aximion Desktops look similar to regular desktops but contain special elements - Avatars. Each type of Avatar represents some aspect of your particular project/context/interest. Their important feature is to change their look accordingly to its importance for the user or to other needs and this look may vary from simple icons to mini-applications with rich functionality. The user can create as many desktops as he needs.<br />\r\n<br />\r\nAny application UI can be attached to another. For example, if a top-level UI element of application A is attached to a top-level UI element of application B then if a user opens B, A will show up automatically. The user then can create various application unions which reflect some corresponding contexts. For example, if the user is a software developer then he can create an individual desktop for each of his projects and also create several other desktops that would contain shared tools and resources required for all of his projects. Once any of these project desktops is open all attached desktops with shared tools will appear together with that.<br />\r\n<br />\r\nThe Quick Area is used to place links to needed objects for the current session, much the same way tabs are used in browsers. Middle button click helps the user to place avatars in the form of a link to that area automatically. They do not disappear when the user closes the object so when needed the object is available for reopening. <br />\r\n<br />\r\nAll avatars placed to the Head Area are always available for the user and always stay on top of other objects. Using VR gear this area acts as a Heads-up display, i.e., always in a field of view whenever a user’s head moves. <br />\r\n<br />\r\nHistory Area this is a history of user navigation. This function similar to browser history and together with Quick Area effectively replaces a standard Desktop Taskbar behaviour.<br />\r\n<br />\r\nThe Events Area stands for showing events and progress reports, similar to the Windows system tray but with advanced functions. It can show simple notifications about events that require user attention. Also, any user-initiated long time operations should place representation items in this area, so the user has a continuous report about current time-consuming processes.",
+  "about_the_game": "Aximion is a prototype of future desktop and virtual reality user interface environment.<br />\r\n<br />\r\nSeveral UI concepts introduced in the Aximion to help users personalize and organize their environments.<br />\r\n<br />\r\nThe Aximion rethinks the idea of the Desktop. In the Aximion Desktop is a place where different aspects of a single project/context/interest can be grouped into a single visual entity. For example, if you have some project you may want to gather all related files, links, remote and other resources in one place and organize them accordingly to your preferences. The Aximion Desktops look similar to regular desktops but contain special elements - Avatars. Each type of Avatar represents some aspect of your particular project/context/interest. Their important feature is to change their look accordingly to its importance for the user or to other needs and this look may vary from simple icons to mini-applications with rich functionality. The user can create as many desktops as he needs.<br />\r\n<br />\r\nAny application UI can be attached to another. For example, if a top-level UI element of application A is attached to a top-level UI element of application B then if a user opens B, A will show up automatically. The user then can create various application unions which reflect some corresponding contexts. For example, if the user is a software developer then he can create an individual desktop for each of his projects and also create several other desktops that would contain shared tools and resources required for all of his projects. Once any of these project desktops is open all attached desktops with shared tools will appear together with that.<br />\r\n<br />\r\nThe Quick Area is used to place links to needed objects for the current session, much the same way tabs are used in browsers. Middle button click helps the user to place avatars in the form of a link to that area automatically. They do not disappear when the user closes the object so when needed the object is available for reopening. <br />\r\n<br />\r\nAll avatars placed to the Head Area are always available for the user and always stay on top of other objects. Using VR gear this area acts as a Heads-up display, i.e., always in a field of view whenever a user’s head moves. <br />\r\n<br />\r\nHistory Area this is a history of user navigation. This function similar to browser history and together with Quick Area effectively replaces a standard Desktop Taskbar behaviour.<br />\r\n<br />\r\nThe Events Area stands for showing events and progress reports, similar to the Windows system tray but with advanced functions. It can show simple notifications about events that require user attention. Also, any user-initiated long time operations should place representation items in this area, so the user has a continuous report about current time-consuming processes.",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 3,
+  "review_positive": 2,
+  "review_percentage": 66.7,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 3,
+      "review_percentage": 66.7,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 3,
+      "review_percentage": 66.7,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

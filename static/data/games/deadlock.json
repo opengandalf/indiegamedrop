@@ -1,0 +1,78 @@
+{
+  "steam_app_id": 1688690,
+  "name": "DeadLock",
+  "slug": "deadlock",
+  "developer": "LLL games",
+  "publisher": "LLL games",
+  "release_date": "Aug 23, 2021",
+  "price_usd": 2.99,
+  "genres": [
+    "Indie",
+    "Strategy"
+  ],
+  "tags": [
+    "Indie",
+    "Strategy"
+  ],
+  "platforms": [
+    "windows",
+    "mac"
+  ],
+  "short_description": "In DeadLock, the player must connect the processor and the resources it needs in the appropriate order to prevent 'DeadLock' from occurring. More and more targets need to be scheduled, and new kinds of resources emerge. It's up to the player to efficiently schedule without generating 'Deadlock'.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1688690/header.jpg?t=1629765071",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1688690/ss_c47d5e710ce7a6f7aa851e6c13e34bdde2a4a9ac.600x338.jpg?t=1629765071",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1688690/ss_b99d155bde08849197916676c42d971687b677f2.600x338.jpg?t=1629765071",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1688690/ss_765dfc6a743bb98f7252f13e691124d513761fd9.600x338.jpg?t=1629765071",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1688690/ss_2b2506dbd6a5c7154cf6781f67e44e71e9bbb647.600x338.jpg?t=1629765071",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1688690/ss_f9014166bb9bb10db0c68cadfcdd115092196c5e.600x338.jpg?t=1629765071",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1688690/ss_67e47fe723dbb8c8d45cba61cadb406dace37f11.600x338.jpg?t=1629765071",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1688690/ss_b0169bb73f38421d5de0272fe29ab8611866dcbe.600x338.jpg?t=1629765071",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1688690/ss_176f6e9fbe566a34425d8dfc12a2cc929beccb0d.600x338.jpg?t=1629765071",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1688690/ss_475e4dbc6ae3781c0f4687d552dba471738c5a2c.600x338.jpg?t=1629765071",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1688690/ss_bd5cb215c6bdcc72540c07cce3c429c60c2d2156.600x338.jpg?t=1629765071"
+  ],
+  "detailed_description": "In DeadLock, the player must connect the processor (circle) and the resources it needs (square) in the appropriate order to end the processors without falling into a \"deadlock situation\" where all processors wait for the other processors to finish. More and more targets need to be scheduled and new kinds of resources appear.<h2 class=\"bb_tag\" >Key Features :</h2><br><ul class=\"bb_ul\"><li> SpeedUp mode for quick viewing of connections<br></li><li> Pause mode that allows you to think on the spot if you're wrong.<br></li><li> elaborately crafted puzzles.<br></li><li> Comfortable pastel tone color<br></li><li> The answer is not one! What is the most efficient way to connect?</li></ul><h2 class=\"bb_tag\" >What is Deadlock?</h2><br>DeadLock is a game created based on the 'Deadlock' that occurs in real computer systems.<br>In fact, each processor has the resources it needs, and the processor does not return the resources it previously occupied until it occupies all the resources it needs.<br>In this situation, when two or more processes wait for each other for resources occupied by another process, it is called a 'Deadlock'.<h2 class=\"bb_tag\" >Controls :</h2><br>if you click on the processor(circle), you'll see the color of the resources(square) you need below, drag them to the resources you want to connect!<br>'space' : Pause / Play<br>'R' : Restart<br>'ESC' : Menu",
+  "about_the_game": "In DeadLock, the player must connect the processor (circle) and the resources it needs (square) in the appropriate order to end the processors without falling into a \"deadlock situation\" where all processors wait for the other processors to finish. More and more targets need to be scheduled and new kinds of resources appear.<h2 class=\"bb_tag\" >Key Features :</h2><br><ul class=\"bb_ul\"><li> SpeedUp mode for quick viewing of connections<br></li><li> Pause mode that allows you to think on the spot if you're wrong.<br></li><li> elaborately crafted puzzles.<br></li><li> Comfortable pastel tone color<br></li><li> The answer is not one! What is the most efficient way to connect?</li></ul><h2 class=\"bb_tag\" >What is Deadlock?</h2><br>DeadLock is a game created based on the 'Deadlock' that occurs in real computer systems.<br>In fact, each processor has the resources it needs, and the processor does not return the resources it previously occupied until it occupies all the resources it needs.<br>In this situation, when two or more processes wait for each other for resources occupied by another process, it is called a 'Deadlock'.<h2 class=\"bb_tag\" >Controls :</h2><br>if you click on the processor(circle), you'll see the color of the resources(square) you need below, drag them to the resources you want to connect!<br>'space' : Pause / Play<br>'R' : Restart<br>'ESC' : Menu",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 10,
+  "review_positive": 8,
+  "review_percentage": 80.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 10,
+      "review_percentage": 80.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-24",
+      "review_count": 10,
+      "review_percentage": 80.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

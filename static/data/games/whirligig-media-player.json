@@ -1,0 +1,106 @@
+{
+  "steam_app_id": 451650,
+  "name": "Whirligig Media Player",
+  "slug": "whirligig-media-player",
+  "developer": "phileday",
+  "publisher": "Whirligig",
+  "release_date": "Jan 25, 2024",
+  "price_usd": 5.99,
+  "genres": [
+    "Utilities",
+    "Video Production"
+  ],
+  "tags": [
+    "Utilities",
+    "Video Production"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "A versatile VR and desktop media player for watching 2D, 3D, and 360° videos with customizable playback, projection modes, and full stereoscopic support.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/956c5f508a7293deb006f8a69436f26188146556/header.jpg?t=1745679078",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_bad13516b1c6f0818190631dc86d50ccfb66b4ec.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_d4e5fe323243267e4c1d424e2771b1fe36bab121.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_07ebecd839d6a9eb1431899cf3a8c084e0cd23dd.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_875223715a87db8d41472149e99c172b06bb9c7c.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_c1c7254e5d2b518c6d9e09a38856855de82b6055.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_b3e3b03a6f4e3a92cfb26e2f02b86f58ac32bf6f.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_7a8d7b147faad1e2a7fd03a23ad9e1116bdaa239.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_e5dc8474c4e83f4366e69ee4667b826f17513bc8.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_49ea41095f9eda9aba4da7928c93efaae3609c7a.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_08191e1ac019fe643a2d83439e510c37d0dc84e1.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_0445530d8427a2a1c062c26f250d44dd8c7ffc2f.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_38539a0e652eae58771a0a941772acf3ac0f3f41.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_b5df9fc0b9a4335f97169ea4198eb4cf57000854.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_d7d3835372ca52feff5da27ce47681a7306278af.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_8ae389bc296625e85850d35d7069ca3b423bcf4a.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_dd2c8d5e27aa9358ba96290837b0dd05834cec42.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_34432b32b5abe5d62e2fb4cf15df435b230dd75e.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_7319b3326ffa687d623cb19c016fa43286e5f491.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_c8570e943d25ffdac41c720579aef626d92ce904.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_34432b32b5abe5d62e2fb4cf15df435b230dd75e.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_7319b3326ffa687d623cb19c016fa43286e5f491.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_c8570e943d25ffdac41c720579aef626d92ce904.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_dd2c8d5e27aa9358ba96290837b0dd05834cec42.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_1373a1a2a41866b683bbc5c4f2e3bf39dd911944.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_6afc71eb966bc18a3228313da41cd870e3e136af.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_4833115920168b371198876ce18bd93544148d0c.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_a07882e1abd02f01342a0568076fd70f75b4a80d.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_1b1dca107b053c6f9d539393b40f2de6ad305c99.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_566e1a027ededc511a4a1f7125a052d5df92d685.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_23ff605e788594970ea6bfc7d54fa81ae31a9ae9.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_73fe58fb9a14cc3498a0be62494c96b4d135e811.600x338.jpg?t=1745679078",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451650/ss_67dc458161be4732c1998f8a5f6f2a75f87afeb2.600x338.jpg?t=1745679078"
+  ],
+  "detailed_description": "<p class=\"bb_paragraph\" ><strong>Whirligig</strong> is the ultimate media player for both VR and traditional desktop users who want to experience fully immersive media in the best possible way. It offers a wide range of options for watching 2D, 3D, and 360° content. Whether you're using a VR headset or a standard monitor/projector, Whirligig delivers a customizable viewing experience to help you get the most out of your immersive media.</p><h2 class=\"bb_tag\" >Key Features</h2><p class=\"bb_paragraph\" >🌐 <strong>VR + Non-VR Playback</strong><br>Fully functional as both a VR player (compatible with OpenXR/SteamVR headsets) and a desktop media player — perfect for watching 360° immersive and stereoscopic media.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >🎥 <strong>Comprehensive 3D Support</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Side-by-Side (SBS) and Over/Under (OU) support, with desktop viewing options for anaglyph (red/green glasses) and 3D projectors/TVs.</p></li><li><p class=\"bb_paragraph\" >Adjustable 3D depth and convergence for perfect stereoscopic viewing.</p></li><li><p class=\"bb_paragraph\" >Support for 180° and 360° 3D videos in both desktop and VR modes.</p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" >🖥️ <strong>Advanced Playback Options</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Multiple projection modes: Cinema, Fisheye, Equirectangular/Barrel, and a selection of custom formats, including support for less common types like cubemaps.</p></li><li><p class=\"bb_paragraph\" >Experience your media is a variety of 3D environments.</p></li><li><p class=\"bb_paragraph\" >Passthrough for compatible headsets.</p></li></ul><p class=\"bb_paragraph\" >🔧 <strong>Customization & Control</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Three decoding methods (DirectShow, Media Foundation, libVLC) for maximum compatibility.</p></li><li><p class=\"bb_paragraph\" >Save/load presets for different media types and viewing environments.</p></li><li><p class=\"bb_paragraph\" >Full 5.1 surround sound support with positional audio in VR (when using Media Foundation).</p></li><li><p class=\"bb_paragraph\" >Subtitle support.</p></li></ul><h2 class=\"bb_tag\" >Why Choose Whirligig?</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >The most versatile 3D media player on Steam, with support for both VR and flat-screen viewing.</p></li><li><p class=\"bb_paragraph\" >Regular updates with new features and improvements.</p></li></ul>",
+  "about_the_game": "<p class=\"bb_paragraph\" ><strong>Whirligig</strong> is the ultimate media player for both VR and traditional desktop users who want to experience fully immersive media in the best possible way. It offers a wide range of options for watching 2D, 3D, and 360° content. Whether you're using a VR headset or a standard monitor/projector, Whirligig delivers a customizable viewing experience to help you get the most out of your immersive media.</p><h2 class=\"bb_tag\" >Key Features</h2><p class=\"bb_paragraph\" >🌐 <strong>VR + Non-VR Playback</strong><br>Fully functional as both a VR player (compatible with OpenXR/SteamVR headsets) and a desktop media player — perfect for watching 360° immersive and stereoscopic media.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >🎥 <strong>Comprehensive 3D Support</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Side-by-Side (SBS) and Over/Under (OU) support, with desktop viewing options for anaglyph (red/green glasses) and 3D projectors/TVs.</p></li><li><p class=\"bb_paragraph\" >Adjustable 3D depth and convergence for perfect stereoscopic viewing.</p></li><li><p class=\"bb_paragraph\" >Support for 180° and 360° 3D videos in both desktop and VR modes.</p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" >🖥️ <strong>Advanced Playback Options</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Multiple projection modes: Cinema, Fisheye, Equirectangular/Barrel, and a selection of custom formats, including support for less common types like cubemaps.</p></li><li><p class=\"bb_paragraph\" >Experience your media is a variety of 3D environments.</p></li><li><p class=\"bb_paragraph\" >Passthrough for compatible headsets.</p></li></ul><p class=\"bb_paragraph\" >🔧 <strong>Customization & Control</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Three decoding methods (DirectShow, Media Foundation, libVLC) for maximum compatibility.</p></li><li><p class=\"bb_paragraph\" >Save/load presets for different media types and viewing environments.</p></li><li><p class=\"bb_paragraph\" >Full 5.1 surround sound support with positional audio in VR (when using Media Foundation).</p></li><li><p class=\"bb_paragraph\" >Subtitle support.</p></li></ul><h2 class=\"bb_tag\" >Why Choose Whirligig?</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >The most versatile 3D media player on Steam, with support for both VR and flat-screen viewing.</p></li><li><p class=\"bb_paragraph\" >Regular updates with new features and improvements.</p></li></ul>",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Tracked Controller Support",
+    "VR Supported",
+    "VR Support",
+    "Partial Controller Support"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 497,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 517,
+  "review_positive": 414,
+  "review_percentage": 80.1,
+  "owner_estimate": 150000,
+  "ccu_estimate": 11,
+  "follower_count": 0,
+  "median_playtime_minutes": 133,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 504,
+      "review_percentage": 80.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-22",
+      "review_count": 517,
+      "review_percentage": 80.1,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-29",
+      "review_count": 517,
+      "review_percentage": 80.1,
+      "ccu_estimate": 11,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

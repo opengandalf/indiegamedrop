@@ -1,0 +1,77 @@
+{
+  "steam_app_id": 2479000,
+  "name": "Noise-o-matic",
+  "slug": "noise-o-matic",
+  "developer": "Evolved Labs",
+  "publisher": "Evolved Labs",
+  "release_date": "Jan 25, 2024",
+  "price_usd": 6.39,
+  "genres": [
+    "Audio Production",
+    "Utilities"
+  ],
+  "tags": [
+    "Audio Production",
+    "Utilities"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "High-quality soundboard software for voice chats: play sounds, record & alter your voice in real-time in any application or game! Add music and sounds to your microphone for others to hear. Text-to-speech feature included. Steam Workshop natively supported! Lets make some noise!",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479000/header.jpg?t=1756847383",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479000/ss_4386addac6166c0be99fe61039246ed75c12da7c.600x338.jpg?t=1756847383",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479000/ss_ffe03994beea8436ea9a2fa440a2a02be63b7d02.600x338.jpg?t=1756847383",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479000/ss_6a207457f6fa5128b05b8a1ba28a9fdd25b9f7c9.600x338.jpg?t=1756847383",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479000/ss_bd96224f4b57342f06b2823c0379c639f73239dd.600x338.jpg?t=1756847383",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479000/ss_db682deac1a51c29cc28fa8f2163b3d17c422e13.600x338.jpg?t=1756847383",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479000/ss_d38bfae6e4ceb4d7c73377cd7651026953142baa.600x338.jpg?t=1756847383",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479000/ss_a5da1aff693c5c7c8e2d1f51b4032d4502706fde.600x338.jpg?t=1756847383",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479000/ss_d29dcf558657ed3a12139efb4c6d2504af43bc21.600x338.jpg?t=1756847383",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479000/ss_72a482e7c9d4aeb479734ce6e1514e25d5cdcbe0.600x338.jpg?t=1756847383",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479000/ss_561c9f48c621da3fb635ad52406ccae1e5a8b6b2.600x338.jpg?t=1756847383",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479000/ss_259fcbb616611fc8c31be28b79a89d39a414436b.600x338.jpg?t=1756847383"
+  ],
+  "detailed_description": "<p class=\"bb_paragraph\" >Noise-o-matic is a lot more than just a soundboard!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >With Noise-o-matic you can easily add any music or sound to any voice-chat, no matter if you're on Discord, Skype, or gaming. It taps into your microphone stream, giving you the power to personalize your conversations with awesome audio effects. Lets make some noise!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Please note a microphone is required in order to use Noise-o-matic, as well as an output device.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The free demo is available on Steam too! Try it today!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Noise-o-matic features:</strong></p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > <strong>Play sounds and music in voice chat</strong><br>Works in any voice related application like Discord, Teamspeak, Skype, as well as games such as Counterstrike 2, League of Legends, Fortnite and any other.</p></li><li><p class=\"bb_paragraph\" > <strong>Modern soundboard with hotkeys</strong><br>Set hotkeys or key sequences to quickly access your sounds while in-game, and play them one at a time or simultaneously for maximum fun! Customize your soundboard appearance with images, emojis and more!</p></li><li><p class=\"bb_paragraph\" > <strong>Audio recorder with embedded editor</strong><br>Record and edit sounds effortlessly, by device or by application. Capture what you hear and trim as needed with the integrated editor. Perfect audio control in one software.</p></li><li><p class=\"bb_paragraph\" > <strong>Real-time voice changer</strong><br>Change your voice pitch and apply many other filters in realtime to alter your microphone output! Use one of the presets that ship with Noise-o-matic or unleash your creativity!</p></li><li><p class=\"bb_paragraph\" > <strong>Text to speech (Sherpa TTS/Microsoft)</strong> <br>Type text and have it read by Sherpa TTS/Microsoft's intergrated Text to speech. </p></li><li><p class=\"bb_paragraph\" > <strong>Voice cloning and Text to Speech (Elevenlabs)</strong><br>Supports Elevenlabs API: upload audio files directly to clone your voice and have it play-back using Elevenlab's AI text to speech. <strong>This feature requires an Elevenlabs account (third party company) and you may incur in additional charges.</strong></p></li><li><p class=\"bb_paragraph\" > <strong>Speech To Text</strong><br>Speak directly into your microphone and have it transcribed via the Microsoft Speech To Text, then send it to the Text to Speech or Voice Cloner Text To Speech with the click of a button!</p></li><li><p class=\"bb_paragraph\" > <strong>Share your sounds in the Steam Workshop</strong><br>The Steam Workshop integration makes it extremely easy to download new sounds or share your own with your friends and the Steam Community.</p></li><li><p class=\"bb_paragraph\" > <strong>Lightweight, easy to install and customizable</strong><br>Written with modern C++ and the Windows SDK, Noise-o-matic is fast, lightweight and does not install any additional drivers in your machine. Administrator rights are required as Noise-o-matic needs to write in the system registry. No drivers are installed, keeping your system clean!</p></li><li><p class=\"bb_paragraph\" > <strong>Modern Format Support</strong><br>Noise-o-matic supports many modern formats including mp3,wav,wma,flac,ogg.</p></li></ul>",
+  "about_the_game": "<p class=\"bb_paragraph\" >Noise-o-matic is a lot more than just a soundboard!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >With Noise-o-matic you can easily add any music or sound to any voice-chat, no matter if you're on Discord, Skype, or gaming. It taps into your microphone stream, giving you the power to personalize your conversations with awesome audio effects. Lets make some noise!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Please note a microphone is required in order to use Noise-o-matic, as well as an output device.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The free demo is available on Steam too! Try it today!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Noise-o-matic features:</strong></p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > <strong>Play sounds and music in voice chat</strong><br>Works in any voice related application like Discord, Teamspeak, Skype, as well as games such as Counterstrike 2, League of Legends, Fortnite and any other.</p></li><li><p class=\"bb_paragraph\" > <strong>Modern soundboard with hotkeys</strong><br>Set hotkeys or key sequences to quickly access your sounds while in-game, and play them one at a time or simultaneously for maximum fun! Customize your soundboard appearance with images, emojis and more!</p></li><li><p class=\"bb_paragraph\" > <strong>Audio recorder with embedded editor</strong><br>Record and edit sounds effortlessly, by device or by application. Capture what you hear and trim as needed with the integrated editor. Perfect audio control in one software.</p></li><li><p class=\"bb_paragraph\" > <strong>Real-time voice changer</strong><br>Change your voice pitch and apply many other filters in realtime to alter your microphone output! Use one of the presets that ship with Noise-o-matic or unleash your creativity!</p></li><li><p class=\"bb_paragraph\" > <strong>Text to speech (Sherpa TTS/Microsoft)</strong> <br>Type text and have it read by Sherpa TTS/Microsoft's intergrated Text to speech. </p></li><li><p class=\"bb_paragraph\" > <strong>Voice cloning and Text to Speech (Elevenlabs)</strong><br>Supports Elevenlabs API: upload audio files directly to clone your voice and have it play-back using Elevenlab's AI text to speech. <strong>This feature requires an Elevenlabs account (third party company) and you may incur in additional charges.</strong></p></li><li><p class=\"bb_paragraph\" > <strong>Speech To Text</strong><br>Speak directly into your microphone and have it transcribed via the Microsoft Speech To Text, then send it to the Text to Speech or Voice Cloner Text To Speech with the click of a button!</p></li><li><p class=\"bb_paragraph\" > <strong>Share your sounds in the Steam Workshop</strong><br>The Steam Workshop integration makes it extremely easy to download new sounds or share your own with your friends and the Steam Community.</p></li><li><p class=\"bb_paragraph\" > <strong>Lightweight, easy to install and customizable</strong><br>Written with modern C++ and the Windows SDK, Noise-o-matic is fast, lightweight and does not install any additional drivers in your machine. Administrator rights are required as Noise-o-matic needs to write in the system registry. No drivers are installed, keeping your system clean!</p></li><li><p class=\"bb_paragraph\" > <strong>Modern Format Support</strong><br>Noise-o-matic supports many modern formats including mp3,wav,wma,flac,ogg.</p></li></ul>",
+  "supported_languages": "English, Italian, Korean, Simplified Chinese, Spanish - Spain, Spanish - Latin America, Japanese, French, Portuguese - Brazil, Portuguese - Portugal, Polish, Russian, Ukrainian, German, Turkish",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Steam Workshop"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 128,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 132,
+  "review_positive": 101,
+  "review_percentage": 76.5,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 98,
+      "review_percentage": 76.5,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "review_count": 132,
+      "review_percentage": 76.5,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

@@ -1,0 +1,74 @@
+{
+  "steam_app_id": 366550,
+  "name": "Zeuxis : procedural texture generator",
+  "slug": "zeuxis-procedural-texture-generator",
+  "developer": "Martin Veilleux",
+  "publisher": "Martin Veilleux",
+  "release_date": "Jun 2, 2015",
+  "price_usd": 6.99,
+  "genres": [
+    "Design & Illustration"
+  ],
+  "tags": [
+    "Design & Illustration"
+  ],
+  "platforms": [
+    "windows",
+    "linux"
+  ],
+  "short_description": "Create textures by combining basic operators. Try the demo.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366550/header.jpg?t=1462745512",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366550/ss_c207a42d6f9e4a7500d5b04809a9eb6bf70b5b0f.600x338.jpg?t=1462745512",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366550/ss_73c4ae9bde3a7311eea58ffde103b72f8db43479.600x338.jpg?t=1462745512",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366550/ss_eeccf41f6d9cee7bc0e29e0d32cb124e490c7262.600x338.jpg?t=1462745512",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366550/ss_d48a6348abefbb439d7d363599c9ab98cf79b98e.600x338.jpg?t=1462745512",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366550/ss_fa59f4672e353725ede5a693bc82a87879c9919e.600x338.jpg?t=1462745512",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366550/ss_fa1ee30914ec252508789ee9f8320fb6a1b9ce1c.600x338.jpg?t=1462745512"
+  ],
+  "detailed_description": "<i>No need to be an artist. Create nice textures in a few minutes.</i><br>This software allows you to create textures by combining basic operators.<br>You stack operators in a hierarchical fashion to get a result.<br><br>Simple and fast UI.<br>128bit internal resolution to prevent loss of higher range when combining effects.<br><br><strong>Try the demo</strong> first to make sure it works on your PC.<br>The projects created with the demo are compatible with the full product.<br><br><u>Limitations</u>:<br><ul class=\"bb_ul\">    <li><strong>English only</strong>, no UNICODE support for filenames (when saving/loading), only basic ASCII.<br>    </li><li>The UI is not customizable, i.e. font, font color, font size, window color.<br>    </li><li>Export formats supported: <strong>JPG, TGA, TIFF</strong> ( Export is disabled in demo ).</li></ul>",
+  "about_the_game": "<i>No need to be an artist. Create nice textures in a few minutes.</i><br>This software allows you to create textures by combining basic operators.<br>You stack operators in a hierarchical fashion to get a result.<br><br>Simple and fast UI.<br>128bit internal resolution to prevent loss of higher range when combining effects.<br><br><strong>Try the demo</strong> first to make sure it works on your PC.<br>The projects created with the demo are compatible with the full product.<br><br><u>Limitations</u>:<br><ul class=\"bb_ul\">    <li><strong>English only</strong>, no UNICODE support for filenames (when saving/loading), only basic ASCII.<br>    </li><li>The UI is not customizable, i.e. font, font color, font size, window color.<br>    </li><li>Export formats supported: <strong>JPG, TGA, TIFF</strong> ( Export is disabled in demo ).</li></ul>",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 29,
+  "review_positive": 23,
+  "review_percentage": 79.3,
+  "owner_estimate": 10000,
+  "ccu_estimate": 1,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 28,
+      "review_percentage": 82.1,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-22",
+      "review_count": 29,
+      "review_percentage": 79.3,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-28",
+      "review_count": 29,
+      "review_percentage": 79.3,
+      "ccu_estimate": 1,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

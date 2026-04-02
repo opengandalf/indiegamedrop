@@ -1,0 +1,71 @@
+{
+  "steam_app_id": 2467960,
+  "name": "FBX2SPINE - 3D Mocap to 2D Animation Transfer Tool",
+  "slug": "fbx2spine-3d-mocap-to-2d-animation-transfer-tool",
+  "developer": "LizardWish",
+  "publisher": "LizardWish",
+  "release_date": "Jul 2, 2023",
+  "price_usd": 9.99,
+  "genres": [
+    "Animation & Modeling",
+    "Utilities",
+    "Game Development"
+  ],
+  "tags": [
+    "Animation & Modeling",
+    "Utilities",
+    "Game Development"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Converts 3d FBX skeleton animations to 2d Spine animations.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/header.jpg?t=1767694575",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/ss_8c47c5ae7f383a38f27e097335217ec841b09ebf.600x338.jpg?t=1767694575",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/ss_f34c3a8df3ae2c8c11277944d45df61fdacb07c6.600x338.jpg?t=1767694575",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/ss_08b495126e2286dce29ab2fe545bacacaa994da6.600x338.jpg?t=1767694575",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/ss_1bb079fa9688a771863cb66ac16c5ac878cb9235.600x338.jpg?t=1767694575",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/ss_0b489ab13eac8503e4b3cf7f75ee4bfdddc4499b.600x338.jpg?t=1767694575",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/ss_4a2d00db09d952b0e252dc35b1936e9a005b0a15.600x338.jpg?t=1767694575",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/ss_2ed17eaed79cbe9e221497fb96f737b06a13197e.600x338.jpg?t=1767694575"
+  ],
+  "detailed_description": "<strong>IMPORTANT ! FBX2Spine supports Spine 4 Essential and Pro and up<br>YOU DON'T NEED SPINE PRO! it works perfectly with SPINE ESSENTIALS!</strong><br>EASY 2D ANIMATION<br><br>Use FBX2Spine to easily add mocap animations to your 'Esoteric software - Spine 2d' projects.<br><br>For example, you found a nice FBX mocap animation and you want to transfer it to your character created in Spine, or you want to transfer your 3D FBX animation that you created with Microsoft Kinect and Brekel to your 2d character in your game.<br><br>All you have to do is import your Spine project and FBX mocap skeleton animation into FBX2SPINE. Link the skeletal system and export the animation to Spine.<br><br>It works with all FBX (animals, monsters, human etc.) Because it can link any bones and get any data from FBX Bones and transfers data to Spine Bones.<br><br>You can open and edit the animations you created with FBX2Spine in the Spine application later.<br><br>HOW IT WORKS?<br><br>Find a FBX Mocap animation;<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/extras/362c3491777e9ee9bdfab0c17f14215e.poster.avif?t=1767694575\" width=620 height=310 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/extras/362c3491777e9ee9bdfab0c17f14215e.webm?t=1767694575\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/extras/362c3491777e9ee9bdfab0c17f14215e.mp4?t=1767694575\" type=\"video/mp4\"></video></span><br><br>Link FBX bones to Spine bones;<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/extras/7203730780a6145c2d440fd91c93c64e.poster.avif?t=1767694575\" width=620 height=310 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/extras/7203730780a6145c2d440fd91c93c64e.webm?t=1767694575\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/extras/7203730780a6145c2d440fd91c93c64e.mp4?t=1767694575\" type=\"video/mp4\"></video></span><br><br>Export your new animation to Spine character;<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/extras/666deaf966cc58f51af7fdbbc86dcf42.poster.avif?t=1767694575\" width=620 height=310 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/extras/666deaf966cc58f51af7fdbbc86dcf42.webm?t=1767694575\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/extras/666deaf966cc58f51af7fdbbc86dcf42.mp4?t=1767694575\" type=\"video/mp4\"></video></span><br><br>Import to SPINE",
+  "about_the_game": "<strong>IMPORTANT ! FBX2Spine supports Spine 4 Essential and Pro and up<br>YOU DON'T NEED SPINE PRO! it works perfectly with SPINE ESSENTIALS!</strong><br>EASY 2D ANIMATION<br><br>Use FBX2Spine to easily add mocap animations to your 'Esoteric software - Spine 2d' projects.<br><br>For example, you found a nice FBX mocap animation and you want to transfer it to your character created in Spine, or you want to transfer your 3D FBX animation that you created with Microsoft Kinect and Brekel to your 2d character in your game.<br><br>All you have to do is import your Spine project and FBX mocap skeleton animation into FBX2SPINE. Link the skeletal system and export the animation to Spine.<br><br>It works with all FBX (animals, monsters, human etc.) Because it can link any bones and get any data from FBX Bones and transfers data to Spine Bones.<br><br>You can open and edit the animations you created with FBX2Spine in the Spine application later.<br><br>HOW IT WORKS?<br><br>Find a FBX Mocap animation;<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/extras/362c3491777e9ee9bdfab0c17f14215e.poster.avif?t=1767694575\" width=620 height=310 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/extras/362c3491777e9ee9bdfab0c17f14215e.webm?t=1767694575\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/extras/362c3491777e9ee9bdfab0c17f14215e.mp4?t=1767694575\" type=\"video/mp4\"></video></span><br><br>Link FBX bones to Spine bones;<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/extras/7203730780a6145c2d440fd91c93c64e.poster.avif?t=1767694575\" width=620 height=310 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/extras/7203730780a6145c2d440fd91c93c64e.webm?t=1767694575\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/extras/7203730780a6145c2d440fd91c93c64e.mp4?t=1767694575\" type=\"video/mp4\"></video></span><br><br>Export your new animation to Spine character;<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/extras/666deaf966cc58f51af7fdbbc86dcf42.poster.avif?t=1767694575\" width=620 height=310 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/extras/666deaf966cc58f51af7fdbbc86dcf42.webm?t=1767694575\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2467960/extras/666deaf966cc58f51af7fdbbc86dcf42.mp4?t=1767694575\" type=\"video/mp4\"></video></span><br><br>Import to SPINE",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 5,
+  "review_positive": 3,
+  "review_percentage": 60.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 4,
+      "review_percentage": 75.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "review_count": 5,
+      "review_percentage": 60.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

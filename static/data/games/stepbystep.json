@@ -1,0 +1,73 @@
+{
+  "steam_app_id": 972940,
+  "name": "stepbystep",
+  "slug": "stepbystep",
+  "developer": "Evgeny Petrov",
+  "publisher": "Not a Prototype games",
+  "release_date": "Nov 22, 2018",
+  "price_usd": 0.49,
+  "genres": [
+    "Indie",
+    "Strategy"
+  ],
+  "tags": [
+    "Indie",
+    "Strategy"
+  ],
+  "platforms": [
+    "windows",
+    "linux"
+  ],
+  "short_description": "stepbystep is a minimalistic programming puzzle platformer with experimental turn-based mechanics where you must write a command sequence to complete the levels that will be run automatically.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972940/header.jpg?t=1572328620",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972940/ss_7df58a92900acd0ce4fc27f33179f2e370f903e8.600x338.jpg?t=1572328620",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972940/ss_ecbd1cc851b950fcd1206a6de0a6bc89785107ba.600x338.jpg?t=1572328620",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972940/ss_4ad9290477d192e9ac78c92cbef1b6277594d80c.600x338.jpg?t=1572328620",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972940/ss_be4dbc490a2121b0bc9866e2328ed8e12d881c8a.600x338.jpg?t=1572328620",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972940/ss_308918b6471ee4071ed98458448a3fd3c9f841cb.600x338.jpg?t=1572328620"
+  ],
+  "detailed_description": "stepbystep is a minimalistic programming puzzle platformer with experimental turn-based mechanics.<br>The main feature is the ability to program the command sequence that will be run automatically.<br><br>What's inside:<br><ul class=\"bb_ul\">> 5 colors </ul><ul class=\"bb_ul\">> more than 40 levels </ul><ul class=\"bb_ul\">> computer-composed music </ul><ul class=\"bb_ul\">> about 2 hours of gameplay (about 30 minutes for ultra-pro puzzle crackers and speedrunners) </ul><ul class=\"bb_ul\">> linux and windows support </ul><br>The game was written in haxe, using openfl framework.<br>The music was composed by music artificial intelligence on jukedeck.",
+  "about_the_game": "stepbystep is a minimalistic programming puzzle platformer with experimental turn-based mechanics.<br>The main feature is the ability to program the command sequence that will be run automatically.<br><br>What's inside:<br><ul class=\"bb_ul\">> 5 colors </ul><ul class=\"bb_ul\">> more than 40 levels </ul><ul class=\"bb_ul\">> computer-composed music </ul><ul class=\"bb_ul\">> about 2 hours of gameplay (about 30 minutes for ultra-pro puzzle crackers and speedrunners) </ul><ul class=\"bb_ul\">> linux and windows support </ul><br>The game was written in haxe, using openfl framework.<br>The music was composed by music artificial intelligence on jukedeck.",
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 10,
+  "review_positive": 8,
+  "review_percentage": 80.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 10,
+      "review_percentage": 80.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 10,
+      "review_percentage": 80.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

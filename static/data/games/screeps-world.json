@@ -1,0 +1,101 @@
+{
+  "steam_app_id": 464350,
+  "name": "Screeps: World",
+  "slug": "screeps-world",
+  "developer": "Screeps, LLC",
+  "publisher": "Screeps, LLC",
+  "release_date": "Nov 16, 2016",
+  "price_usd": 6.79,
+  "genres": [
+    "Indie",
+    "Massively Multiplayer",
+    "Simulation",
+    "Strategy"
+  ],
+  "tags": [
+    "Indie",
+    "Massively Multiplayer",
+    "Simulation",
+    "Strategy"
+  ],
+  "platforms": [
+    "windows",
+    "mac",
+    "linux"
+  ],
+  "short_description": "Screeps: World is an open source MMO strategy sandbox game for programming enthusiasts. You control your colony by writing JavaScript code that operates 24/7 in the huge persistent online open world.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464350/d1efe845a1ba21f781f8dffd96a1242d4db0115d/header.jpg?t=1773913828",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464350/ss_f3e691e4447b4e6562a6dd06229339d7c87dcb6b.600x338.jpg?t=1773913828",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464350/ss_71e20a8bc527f3de4edf3149864b47a113ddcd19.600x338.jpg?t=1773913828",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464350/ss_fbb3485382268036896c1ca3d87c02ce623451d1.600x338.jpg?t=1773913828",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464350/faa107484f8c7badd516fa37df03f04f74934698/ss_faa107484f8c7badd516fa37df03f04f74934698.600x338.jpg?t=1773913828",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464350/58566e11252d2299e756aee6af91dee1b610efad/ss_58566e11252d2299e756aee6af91dee1b610efad.600x338.jpg?t=1773913828",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464350/ss_8710d98d90d2f70d825aae28335dbda1705eaa22.600x338.jpg?t=1773913828",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464350/ss_94f8270c8af95095e75ab2f9418388b74a6c201d.600x338.jpg?t=1773913828",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464350/ss_4ce0dfecf9cb986d33e3956a8477c9327152f31a.600x338.jpg?t=1773913828",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464350/ss_5b14327f181a68037acdb6cfe7039b5f204779c7.600x338.jpg?t=1773913828",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464350/ss_c61030f6c3b28f8b0b818cd763b3c34aac254314.600x338.jpg?t=1773913828",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464350/ss_98e8edf187f65e7d1b4be7abb153ecf86d17f680.600x338.jpg?t=1773913828",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464350/ss_2f7c8137ab5b13b0ff2c5164cb4483b7f0b6b576.600x338.jpg?t=1773913828",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464350/ss_b2856ca8384a90b804b7c6ef29f4857e3de8d0f8.600x338.jpg?t=1773913828",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464350/ss_f8cc57d63e42164bc8fd2fcaad7a980ed6479420.600x338.jpg?t=1773913828"
+  ],
+  "detailed_description": "<h1>About Screeps</h1><p><p class=\"bb_paragraph\" >Screeps means \"scripting creeps.\" You use real JavaScript to script behavior of your units, or creeps. The Screeps franchise is aimed at programming enthusiasts and consists of two games: World and Arena.</p></p><br><h1>About the Game</h1><p class=\"bb_paragraph\" ><strong>Screeps: World</strong> is an open source MMO strategy sandbox game for programming enthusiasts. You control your colony by writing JavaScript code that operates 24/7 in the huge persistent online open world.</p><p class=\"bb_paragraph\" >Your colony can <strong>harvest</strong> resources, <strong>build</strong> units, <strong>conquer</strong> territory, <strong>trade</strong> with other colonies. As you conquer more territory, your influence in the game world grows, as well as your abilities to expand your footprint. But beware, multiple players aiming for the same territory may lead to conflict!</p><p class=\"bb_paragraph\" >Screeps is developed for people with programming skills. Unlike some other RTS games, your units in Screeps can react to events without your participation – provided that you have programmed them properly. And, unlike other MMO, you do not have to play Screeps constantly to play well. It is quite enough just to check once in a while to see if everything goes well.</p><h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > You play by writing JavaScript AI which controls your units 24/7 even while you're offline.</p></li><li><p class=\"bb_paragraph\" > Units of all players coexist in the same real-time huge persistent world and obey the same rules.</p></li><li><p class=\"bb_paragraph\" > Many kinds of units, base building, mining resources, territory control, economy, manufacturing, transporting, logistics, trading—all the attributes of a real strategy game which you need to program!</p></li><li><p class=\"bb_paragraph\" > The better your scripts, the better your game—irrespective of the time played. Your creeps will mine, build, defend, and conquer as you just work, sleep, or walk your dog.</p></li><li><p class=\"bb_paragraph\" > Only basic programming skills are required. However, if you are a pro developer, now is the chance to put your skills to the limit!</p></li><li><p class=\"bb_paragraph\" > Edit your scripts from the in-game editor, or using your favorite external IDE.</p></li><li><p class=\"bb_paragraph\" >Other languages are supported via WebAssembly: C/C++, Rust, TypeScript, Go, C#, F#, Kotlin, Swift, D, Pascal, Zig, the list is growing.</p></li><li><p class=\"bb_paragraph\" >Permanent MMO access with 20 CPU limit included in the starter package. Unlock your full CPU in your account on the official server by purchasing a Lifetime CPU unlock or an in-game CPU Unlock consumable item (can be bought by in-game credits).</p></li><li><p class=\"bb_paragraph\" > If you don't want to buy an unlock, that's fine—there is a standalone CPU-limited world shard where you can compete with other \"CPU-locked\" players on equal terms.</p></li><li><p class=\"bb_paragraph\" > Host your own server, modify games rules and play with your friends via LAN or on the Internet. The server is an open source project. </p></li><li><p class=\"bb_paragraph\" > The game is slow-paced (from 2 seconds to 5 seconds per game tick depending on a world shard where you start playing), since it allows you to debug your scripts in the real-time world. You can use your private server to develop and test with fast pace (up to 10 game ticks per second).</p></li></ul>",
+  "about_the_game": "<p class=\"bb_paragraph\" ><strong>Screeps: World</strong> is an open source MMO strategy sandbox game for programming enthusiasts. You control your colony by writing JavaScript code that operates 24/7 in the huge persistent online open world.</p><p class=\"bb_paragraph\" >Your colony can <strong>harvest</strong> resources, <strong>build</strong> units, <strong>conquer</strong> territory, <strong>trade</strong> with other colonies. As you conquer more territory, your influence in the game world grows, as well as your abilities to expand your footprint. But beware, multiple players aiming for the same territory may lead to conflict!</p><p class=\"bb_paragraph\" >Screeps is developed for people with programming skills. Unlike some other RTS games, your units in Screeps can react to events without your participation – provided that you have programmed them properly. And, unlike other MMO, you do not have to play Screeps constantly to play well. It is quite enough just to check once in a while to see if everything goes well.</p><h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > You play by writing JavaScript AI which controls your units 24/7 even while you're offline.</p></li><li><p class=\"bb_paragraph\" > Units of all players coexist in the same real-time huge persistent world and obey the same rules.</p></li><li><p class=\"bb_paragraph\" > Many kinds of units, base building, mining resources, territory control, economy, manufacturing, transporting, logistics, trading—all the attributes of a real strategy game which you need to program!</p></li><li><p class=\"bb_paragraph\" > The better your scripts, the better your game—irrespective of the time played. Your creeps will mine, build, defend, and conquer as you just work, sleep, or walk your dog.</p></li><li><p class=\"bb_paragraph\" > Only basic programming skills are required. However, if you are a pro developer, now is the chance to put your skills to the limit!</p></li><li><p class=\"bb_paragraph\" > Edit your scripts from the in-game editor, or using your favorite external IDE.</p></li><li><p class=\"bb_paragraph\" >Other languages are supported via WebAssembly: C/C++, Rust, TypeScript, Go, C#, F#, Kotlin, Swift, D, Pascal, Zig, the list is growing.</p></li><li><p class=\"bb_paragraph\" >Permanent MMO access with 20 CPU limit included in the starter package. Unlock your full CPU in your account on the official server by purchasing a Lifetime CPU unlock or an in-game CPU Unlock consumable item (can be bought by in-game credits).</p></li><li><p class=\"bb_paragraph\" > If you don't want to buy an unlock, that's fine—there is a standalone CPU-limited world shard where you can compete with other \"CPU-locked\" players on equal terms.</p></li><li><p class=\"bb_paragraph\" > Host your own server, modify games rules and play with your friends via LAN or on the Internet. The server is an open source project. </p></li><li><p class=\"bb_paragraph\" > The game is slow-paced (from 2 seconds to 5 seconds per game tick depending on a world shard where you start playing), since it allows you to debug your scripts in the real-time world. You can use your private server to develop and test with fast pace (up to 10 game ticks per second).</p></li></ul>",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "MMO",
+    "PvP",
+    "Online PvP",
+    "LAN PvP",
+    "Cross-Platform Multiplayer",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Stats",
+    "Steam Leaderboards"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 1896,
+  "rising_score": 0.0001,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 73.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 2055,
+  "review_positive": 1785,
+  "review_percentage": 86.9,
+  "owner_estimate": 350000,
+  "ccu_estimate": 43,
+  "follower_count": 0,
+  "median_playtime_minutes": 233,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 1982,
+      "review_percentage": 87.2,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 2054,
+      "review_percentage": 86.9,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "review_count": 2055,
+      "review_percentage": 86.9,
+      "ccu_estimate": 43,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

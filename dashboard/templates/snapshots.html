@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}Snapshots{% endblock %}
+
+{% block content %}
+<h2>Snapshot Status</h2>
+<div class="cards">
+    <div class="card"><h3>Today's Snapshots</h3><div class="val accent">{{ snaps_today }}</div></div>
+    <div class="card"><h3>Total Snapshots</h3><div class="val">{{ total_snaps }}</div></div>
+    <div class="card"><h3>HOT Tier</h3><div class="val danger">{{ hot }}</div></div>
+    <div class="card"><h3>WARM Tier</h3><div class="val warn">{{ warm }}</div></div>
+    <div class="card"><h3>COOL Tier</h3><div class="val accent">{{ cool }}</div></div>
+    <div class="card"><h3>COLD Tier</h3><div class="val">{{ cold }}</div></div>
+</div>
+<div class="chart-container">
+    <h3 style="margin-bottom:0.75rem;color:var(--muted);font-size:0.8rem;text-transform:uppercase">Daily Snapshots — 14 Days</h3>
+    <canvas id="snapChart" height="120"></canvas>
+</div>
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+new Chart(document.getElementById('snapChart'), {
+    type: 'line',
+    data: { labels: {{ hist_labels|tojson }}, datasets: [{ label: 'Snapshots', data: {{ hist_data|tojson }}, borderColor: '#4ecdc4', backgroundColor: 'rgba(78,205,196,0.1)', fill: true, tension: 0.3 }] },
+    options: { responsive: true, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#8b949e' }, grid: { display: false } }, y: { ticks: { color: '#8b949e' }, grid: { color: '#30363d' } } } }
+});
+</script>
+{% endblock %}

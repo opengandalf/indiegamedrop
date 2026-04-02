@@ -1,0 +1,39 @@
+{{ $game := . }}
+<div class="game-card" data-genres="{{ delimit (index $game "genres") "," }}" data-price="{{ index $game "price_usd" }}">
+  <a href="{{ "game/" | relURL }}?slug={{ index $game "slug" }}">
+    <img src="{{ index $game "header_image_url" }}"
+         alt="{{ index $game "name" }}"
+         loading="lazy"
+         onerror="this.src='https://cdn.akamai.steamstatic.com/steam/apps/0/header.jpg'">
+  </a>
+  <div class="card-body">
+    <h3 class="card-title">
+      <a href="{{ "game/" | relURL }}?slug={{ index $game "slug" }}">{{ index $game "name" }}</a>
+    </h3>
+    <div class="card-meta">
+      {{ $reviewPct := index $game "review_percentage" }}
+      {{ $reviewClass := "positive" }}
+      {{ if lt $reviewPct 70.0 }}{{ $reviewClass = "mixed" }}{{ end }}
+      {{ if lt $reviewPct 40.0 }}{{ $reviewClass = "negative" }}{{ end }}
+      <span class="review-score {{ $reviewClass }}">{{ printf "%.0f" $reviewPct }}%</span>
+      <span class="review-count">{{ lang.FormatNumber 0 (index $game "review_count") }} reviews</span>
+      {{ $price := index $game "price_usd" }}
+      {{ if eq $price 0.0 }}
+        <span class="price-tag free">Free</span>
+      {{ else }}
+        <span class="price-tag">${{ printf "%.2f" $price }}</span>
+      {{ end }}
+    </div>
+    {{ if index $game "rising_score" }}
+    <div class="card-meta">
+      <span class="change-indicator up">Rising: {{ printf "%.2f" (index $game "rising_score") }}</span>
+      <span class="sparkline-container" data-sparkline="{{ index $game "steam_app_id" }}"></span>
+    </div>
+    {{ end }}
+    <div class="tags">
+      {{ range first 3 (index $game "genres") }}
+        <span class="tag">{{ . }}</span>
+      {{ end }}
+    </div>
+  </div>
+</div>

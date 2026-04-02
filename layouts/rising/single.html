@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{ partial "game-grid-page.html" (dict
+  "Title" .Title
+  "Description" "Top 20 fastest-rising indie games, ranked by review velocity, follower growth, and player count momentum."
+  "DataURL" "data/rising.json"
+  "GridID" "rising-grid"
+  "DefaultSort" "rising_score"
+  "SortOptions" (slice
+    (dict "value" "rising_score" "label" "Rising Score")
+    (dict "value" "review_velocity_7d" "label" "Review Velocity")
+    (dict "value" "follower_velocity_7d" "label" "Follower Growth")
+  )
+  "EmptyTitle" "No rising games yet"
+  "EmptyDesc" "Data will appear once the pipeline has run."
+  "IncludeSparkline" true
+) }}
+{{ end }}

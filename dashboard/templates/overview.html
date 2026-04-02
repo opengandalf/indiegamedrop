@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block title %}Overview{% endblock %}
+
+{% block content %}
+<h2>Pipeline Overview</h2>
+<div class="cards">
+    <div class="card"><h3>Total Games</h3><div class="val">{{ total }}</div></div>
+    <div class="card"><h3>Enriched</h3><div class="val success">{{ complete }}</div></div>
+    <div class="card"><h3>Pending</h3><div class="val warn">{{ pending }}</div></div>
+    <div class="card"><h3>Failed</h3><div class="val danger">{{ failed }}</div></div>
+    <div class="card"><h3>Snapshots Today</h3><div class="val accent">{{ snaps_today }}</div></div>
+    <div class="card"><h3>New Games Today</h3><div class="val">{{ new_today }}</div></div>
+</div>
+<div class="card" style="margin:1rem 0">
+    <h3>Enrichment Progress — {{ "%.1f"|format(pct) }}%</h3>
+    <div class="progress-bar"><div class="progress-fill" style="width:{{ [pct, 1]|max|round(1) }}%">{{ "%.1f"|format(pct) }}%</div></div>
+    <p style="color:var(--muted);font-size:0.8rem;margin-top:0.5rem">
+        Enriched {{ enriched_24h }} in last 24h · ~{{ rate_per_day }}/day · Est. <strong>{{ est_days }} days</strong> to completion
+    </p>
+</div>
+<div class="chart-container">
+    <h3 style="margin-bottom:0.75rem;color:var(--muted);font-size:0.8rem;text-transform:uppercase">Enrichment — Last 7 Days</h3>
+    <canvas id="enrichChart" height="120"></canvas>
+</div>
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+new Chart(document.getElementById('enrichChart'), {
+    type: 'bar',
+    data: { labels: {{ hist_labels|tojson }}, datasets: [{ label: 'Enriched', data: {{ hist_data|tojson }}, backgroundColor: '#4ecdc4', borderRadius: 4 }] },
+    options: { responsive: true, plugins: { legend: { display: false } }, scales: { x: { ticks: { color: '#8b949e' }, grid: { display: false } }, y: { ticks: { color: '#8b949e' }, grid: { color: '#30363d' } } } }
+});
+</script>
+{% endblock %}

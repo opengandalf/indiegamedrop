@@ -1,0 +1,72 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<p>Interactive charts exploring the current state of the indie game market.</p>
+
+<div class="data-charts-grid">
+  <div class="chart-wrapper">
+    <h3>Genre Popularity</h3>
+    <canvas id="chart-genres"></canvas>
+  </div>
+  <div class="chart-wrapper">
+    <h3>Price Distribution</h3>
+    <canvas id="chart-prices"></canvas>
+  </div>
+</div>
+
+<div class="stats-bar" id="explorer-stats">
+  <div class="stat-item">
+    <span class="stat-value" id="ex-total">--</span>
+    <span class="stat-label">Total Games</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-value" id="ex-avg-review">--</span>
+    <span class="stat-label">Avg Review Score</span>
+  </div>
+  <div class="stat-item">
+    <span class="stat-value" id="ex-new-week">--</span>
+    <span class="stat-label">New This Week</span>
+  </div>
+</div>
+
+<div class="empty-state" id="empty-state" style="display:none;">
+  <h3>No market data available</h3>
+  <p>Run the data pipeline to generate statistics.</p>
+</div>
+
+<script src="{{ "js/charts.js" | relURL }}"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  fetch('{{ "data/market_stats.json" | relURL }}')
+    .then(r => r.json())
+    .then(data => {
+      // Stats
+      document.getElementById('ex-total').textContent = data.total_games || 0;
+      document.getElementById('ex-avg-review').textContent = (data.avg_review_score || 0) + '%';
+      document.getElementById('ex-new-week').textContent = data.new_this_week || 0;
+
+      // Genre chart
+      const genres = data.genre_distribution || {};
+      const genreLabels = Object.keys(genres).slice(0, 15);
+      const genreValues = genreLabels.map(k => genres[k]);
+      if (genreLabels.length > 0) {
+        renderBarChart('chart-genres', genreLabels, genreValues, 'Games', '#58a6ff');
+      }
+
+      // Price chart
+      const prices = data.price_distribution || {};
+      const priceLabels = Object.keys(prices);
+      const priceValues = priceLabels.map(k => prices[k]);
+      if (priceLabels.length > 0) {
+        renderBarChart('chart-prices', priceLabels, priceValues, 'Games', '#3fb950');
+      }
+
+      if (!data.total_games) {
+        document.getElementById('empty-state').style.display = 'block';
+      }
+    })
+    .catch(() => {
+      document.getElementById('empty-state').style.display = 'block';
+    });
+});
+</script>
+{{ end }}

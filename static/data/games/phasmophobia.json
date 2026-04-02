@@ -1,0 +1,193 @@
+{
+  "steam_app_id": 739630,
+  "name": "Phasmophobia",
+  "slug": "phasmophobia",
+  "developer": "Kinetic Games",
+  "publisher": "Kinetic Games",
+  "release_date": "Sep 18, 2020",
+  "price_usd": 13.99,
+  "genres": [
+    "Action",
+    "Indie",
+    "Early Access"
+  ],
+  "tags": [
+    "Action",
+    "Indie",
+    "Early Access"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1773761698",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/ec30a770064ea10c2bcfb1b3002a3dbd086be516/ss_ec30a770064ea10c2bcfb1b3002a3dbd086be516.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/e9b67c7a3744a36cd5cc29adc13c6caaa4172e26/ss_e9b67c7a3744a36cd5cc29adc13c6caaa4172e26.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/1ec54d1d45005e5ddd8360b05e5bbdea3a9090f2/ss_1ec54d1d45005e5ddd8360b05e5bbdea3a9090f2.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/71f1c151812f056bdbf1aa0c0d5779bb12f31a2a/ss_71f1c151812f056bdbf1aa0c0d5779bb12f31a2a.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/36bacb3935192ddacb4259cc964ab6e6f4be2d44/ss_36bacb3935192ddacb4259cc964ab6e6f4be2d44.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/a1a0840e05ff4007115fa2e51f725d1f1a9860c9/ss_a1a0840e05ff4007115fa2e51f725d1f1a9860c9.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/9b0d8ac993bb1ea847a3d20d3d4ffa7066a6acfa/ss_9b0d8ac993bb1ea847a3d20d3d4ffa7066a6acfa.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/991c0843b74e4ef860a14474276feac06264a9e8/ss_991c0843b74e4ef860a14474276feac06264a9e8.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/88b5de0f4adc766378738a9b72f622121b8d3d09/ss_88b5de0f4adc766378738a9b72f622121b8d3d09.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/1e5e39f5863d55e85f8d529ec8dfd2be783a5fa8/ss_1e5e39f5863d55e85f8d529ec8dfd2be783a5fa8.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/ff19db931b4718a0677e88320775c2905bd1f1d6/ss_ff19db931b4718a0677e88320775c2905bd1f1d6.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/371bce1def08fec2cebf6281a3e2ee12804aa353/ss_371bce1def08fec2cebf6281a3e2ee12804aa353.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/7322b8bb35934e5f07da19890cd4eae834dcf8f1/ss_7322b8bb35934e5f07da19890cd4eae834dcf8f1.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/a0385cab46f1e6a056c90298a15877d989af2c93/ss_a0385cab46f1e6a056c90298a15877d989af2c93.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/4c5c8c8dd54df6c9a157491e6611ede792e97526/ss_4c5c8c8dd54df6c9a157491e6611ede792e97526.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/241a8c4fdd0ec97dac875e6a5844072ee7e0dd06/ss_241a8c4fdd0ec97dac875e6a5844072ee7e0dd06.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/e0b028b74f800b3430d38241d094298084a72d65/ss_e0b028b74f800b3430d38241d094298084a72d65.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/f7377b2dd2e388a76ae48f398630b4b4e5144248/ss_f7377b2dd2e388a76ae48f398630b4b4e5144248.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/acdac8ad19ea0b6e590289be19d8dfe8583755e0/ss_acdac8ad19ea0b6e590289be19d8dfe8583755e0.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/29a2671fcb0e777716179f3785c46a44321da740/ss_29a2671fcb0e777716179f3785c46a44321da740.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/d9b7ad78395d57059888c523a128d176f34170c6/ss_d9b7ad78395d57059888c523a128d176f34170c6.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/0c0387722ef1e2eba31d41d7ece23d3c6927bca9/ss_0c0387722ef1e2eba31d41d7ece23d3c6927bca9.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/ss_c88170bed9bf8690963323d20e3f9e836cb9aed9.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/ss_f0377c02897de8831a5f032f13a6dc0f994516d5.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/ss_ce1062b9312afbc12000f980087ede8fa718445d.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/ss_8032ff1ebe2aad6871c45b30458d7a6c868f2212.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/ss_b446d0ca191cf5a183ac3cc9538a59aa7575c14c.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/ss_dcf3fde71a8104c068d9fd1c122361af9677737a.600x338.jpg?t=1773761698",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/ss_d33aaa88ff7429590a1ead0b9cced32df2c38696.600x338.jpg?t=1773761698"
+  ],
+  "detailed_description": "<h1>Join Our Discord</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/519b6cbfadb474d7480457930c26fa64.avif?t=1773761698\" width=616 height=222 /></span></p></p><br><h1>Roadmap</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/41849673a84474f3b88549fdc426d662.avif?t=1773761698\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras_big/41849673a84474f3b88549fdc426d662.avif?t=1773761698 width=1560 height=882 /></span></p></p><br><h1>About the Game</h1><p class=\"bb_paragraph\" >Phasmophobia is a 4-player, online co-op, psychological horror game. You and your team of paranormal investigators will enter haunted locations filled with paranormal activity and try to gather as much evidence as you can. Use your ghost-hunting equipment to find and record evidence to sell on to a ghost removal team.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/a946735f21de2ee10ac39984b0cec1b4.webp?t=1773761698\" width=616 height=23 /></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Immersive Experience:</strong> Realistic graphics and sounds as well as a minimal user interface ensure a totally immersive experience that will keep you on your toes. </p></li><li><p class=\"bb_paragraph\" ><strong>Unique Ghosts:</strong> Identify over 20 different ghost types, each with unique traits, personalities, and abilities to make each investigation feel different from the last. </p></li><li><p class=\"bb_paragraph\" ><strong>Equipment:</strong> Use well-known ghost-hunting equipment such as EMF Readers, Spirit Boxes, Thermometers, and Night Vision Cameras to find clues and gather as much paranormal evidence as you can. Find Cursed Possessions that grant information or abilities in exchange for your sanity. </p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Full Voice Recognition: </strong> The Ghosts are listening! Use your actual voice to interact with the Ghosts through Ouija Boards and EVP Sessions using a Spirit Box.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/0fe7642bafb25017256babb9be8e8b13.poster.avif?t=1773761698\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/0fe7642bafb25017256babb9be8e8b13.webm?t=1773761698\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/0fe7642bafb25017256babb9be8e8b13.mp4?t=1773761698\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/cf137974e7dcc30cdbf2e11a65ec39f8.webp?t=1773761698\" width=616 height=23 /></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Locations:</strong> Choose from over 10 different haunted locations, each with unique twists, hiding spots, and layouts.</p></li><li><p class=\"bb_paragraph\" ><strong>Game Modes:</strong> With 5 default difficulties and hand crafted weekly challenges, there are plenty of ways to test your skills.</p></li><li><p class=\"bb_paragraph\" ><strong>Teamwork:</strong> Dive in head first, get your hands dirty searching for evidence while fighting for your life. If you're not feeling up to the task, play it safe and support your team from the truck by monitoring the investigation with CCTV and motion sensors.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Custom Difficulty:</strong> Create your own games to tailor the difficulty to your or your group's needs, with proportional rewards and come up with crazy game modes of your own!</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/d8a58bf398a9fb53215b6062de06a50a.poster.avif?t=1773761698\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/d8a58bf398a9fb53215b6062de06a50a.webm?t=1773761698\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/d8a58bf398a9fb53215b6062de06a50a.mp4?t=1773761698\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/e96085573b3c79247140b3a5abe08c96.webp?t=1773761698\" width=616 height=23 /></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Co-operate:</strong> Play alongside your friends with up to 4 players in this co-op horror where teamwork is key to your success.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Play together:</strong> Phasmophobia supports all players together, play with your friends with any combination of input types.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/e9ff1529514059d32f547ce2fbeb26be.poster.avif?t=1773761698\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/e9ff1529514059d32f547ce2fbeb26be.webm?t=1773761698\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/e9ff1529514059d32f547ce2fbeb26be.mp4?t=1773761698\" type=\"video/mp4\"></video></span></p>",
+  "about_the_game": "<p class=\"bb_paragraph\" >Phasmophobia is a 4-player, online co-op, psychological horror game. You and your team of paranormal investigators will enter haunted locations filled with paranormal activity and try to gather as much evidence as you can. Use your ghost-hunting equipment to find and record evidence to sell on to a ghost removal team.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/a946735f21de2ee10ac39984b0cec1b4.webp?t=1773761698\" width=616 height=23 /></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Immersive Experience:</strong> Realistic graphics and sounds as well as a minimal user interface ensure a totally immersive experience that will keep you on your toes. </p></li><li><p class=\"bb_paragraph\" ><strong>Unique Ghosts:</strong> Identify over 20 different ghost types, each with unique traits, personalities, and abilities to make each investigation feel different from the last. </p></li><li><p class=\"bb_paragraph\" ><strong>Equipment:</strong> Use well-known ghost-hunting equipment such as EMF Readers, Spirit Boxes, Thermometers, and Night Vision Cameras to find clues and gather as much paranormal evidence as you can. Find Cursed Possessions that grant information or abilities in exchange for your sanity. </p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Full Voice Recognition: </strong> The Ghosts are listening! Use your actual voice to interact with the Ghosts through Ouija Boards and EVP Sessions using a Spirit Box.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/0fe7642bafb25017256babb9be8e8b13.poster.avif?t=1773761698\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/0fe7642bafb25017256babb9be8e8b13.webm?t=1773761698\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/0fe7642bafb25017256babb9be8e8b13.mp4?t=1773761698\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/cf137974e7dcc30cdbf2e11a65ec39f8.webp?t=1773761698\" width=616 height=23 /></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Locations:</strong> Choose from over 10 different haunted locations, each with unique twists, hiding spots, and layouts.</p></li><li><p class=\"bb_paragraph\" ><strong>Game Modes:</strong> With 5 default difficulties and hand crafted weekly challenges, there are plenty of ways to test your skills.</p></li><li><p class=\"bb_paragraph\" ><strong>Teamwork:</strong> Dive in head first, get your hands dirty searching for evidence while fighting for your life. If you're not feeling up to the task, play it safe and support your team from the truck by monitoring the investigation with CCTV and motion sensors.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Custom Difficulty:</strong> Create your own games to tailor the difficulty to your or your group's needs, with proportional rewards and come up with crazy game modes of your own!</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/d8a58bf398a9fb53215b6062de06a50a.poster.avif?t=1773761698\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/d8a58bf398a9fb53215b6062de06a50a.webm?t=1773761698\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/d8a58bf398a9fb53215b6062de06a50a.mp4?t=1773761698\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/e96085573b3c79247140b3a5abe08c96.webp?t=1773761698\" width=616 height=23 /></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Co-operate:</strong> Play alongside your friends with up to 4 players in this co-op horror where teamwork is key to your success.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Play together:</strong> Phasmophobia supports all players together, play with your friends with any combination of input types.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/e9ff1529514059d32f547ce2fbeb26be.poster.avif?t=1773761698\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/e9ff1529514059d32f547ce2fbeb26be.webm?t=1773761698\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/extras/e9ff1529514059d32f547ce2fbeb26be.mp4?t=1773761698\" type=\"video/mp4\"></video></span></p>",
+  "supported_languages": "English<strong>*</strong>, Portuguese - Portugal, Spanish - Spain, Portuguese - Brazil, German, French, Italian, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Romanian, Russian, Simplified Chinese, Swedish, Traditional Chinese, Turkish, Ukrainian, Catalan<br><strong>*</strong>languages with full audio support",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Full controller support",
+    "Tracked Controller Support",
+    "VR Supported",
+    "Steam Trading Cards",
+    "Camera Comfort",
+    "Adjustable Difficulty",
+    "Playable without Timed Input",
+    "Stereo Sound",
+    "Surround Sound",
+    "Steam Cloud",
+    "Remote Play on Phone",
+    "Remote Play on Tablet",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 663252,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 1198.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 815614,
+  "review_positive": 779998,
+  "review_percentage": 95.6,
+  "owner_estimate": 15000000,
+  "ccu_estimate": 9978,
+  "follower_count": 0,
+  "median_playtime_minutes": 949,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 813935,
+      "review_percentage": 95.6,
+      "ccu_estimate": 9978,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-22",
+      "review_count": 813987,
+      "review_percentage": 95.6,
+      "ccu_estimate": 9978,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "review_count": 814330,
+      "review_percentage": 95.6,
+      "ccu_estimate": 9978,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-27",
+      "review_count": 814552,
+      "review_percentage": 95.6,
+      "ccu_estimate": 9978,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-29",
+      "review_count": 814871,
+      "review_percentage": 95.6,
+      "ccu_estimate": 9978,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-31",
+      "review_count": 815133,
+      "review_percentage": 95.6,
+      "ccu_estimate": 9978,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-02",
+      "review_count": 815614,
+      "review_percentage": 95.6,
+      "ccu_estimate": 9978,
+      "follower_count": 0
+    }
+  ],
+  "reviews": [
+    {
+      "review_id": "221319008",
+      "author_steamid": "76561199802914346",
+      "voted_up": true,
+      "votes_up": 0,
+      "playtime_at_review": 2595,
+      "review_text": " Nice\r\n",
+      "timestamp_created": 1774129690
+    },
+    {
+      "review_id": "221319875",
+      "author_steamid": "76561199801301748",
+      "voted_up": true,
+      "votes_up": 0,
+      "playtime_at_review": 5698,
+      "review_text": "Lowkey just a fun game",
+      "timestamp_created": 1774130299
+    },
+    {
+      "review_id": "221322930",
+      "author_steamid": "76561199085657892",
+      "voted_up": false,
+      "votes_up": 0,
+      "playtime_at_review": 1162,
+      "review_text": "too many ghosts",
+      "timestamp_created": 1774132506
+    },
+    {
+      "review_id": "221323016",
+      "author_steamid": "76561199389352096",
+      "voted_up": true,
+      "votes_up": 0,
+      "playtime_at_review": 4386,
+      "review_text": "scary ghost woooooooooooooooooo",
+      "timestamp_created": 1774132568
+    },
+    {
+      "review_id": "221323209",
+      "author_steamid": "76561198289768097",
+      "voted_up": true,
+      "votes_up": 0,
+      "playtime_at_review": 3219,
+      "review_text": "OoooOOOooo spooky",
+      "timestamp_created": 1774132703
+    }
+  ]
+}

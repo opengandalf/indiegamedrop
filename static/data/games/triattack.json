@@ -1,0 +1,73 @@
+{
+  "steam_app_id": 1134190,
+  "name": "tri.Attack();",
+  "slug": "triattack",
+  "developer": "Demmy Mangusso",
+  "publisher": "Demmy Mangusso",
+  "release_date": "Oct 4, 2019",
+  "price_usd": 2.99,
+  "genres": [
+    "Action",
+    "Indie"
+  ],
+  "tags": [
+    "Action",
+    "Indie"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "In this 2D arcade game, your body is the weapon. Shoot the tri out of yourself and recall it back to you to take out a constant onslaught of rogue polygons. Unlock all the tri modifiers and get as high of a score as possible!",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/header.jpg?t=1603215129",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/ss_4a8a6d3ff296e29b3d54565806a781fe3b32e4ca.600x338.jpg?t=1603215129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/ss_d83c8924bae8c623f411c189be88149ec49ca633.600x338.jpg?t=1603215129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/ss_c055bb271a0102f56f6e4363be095d2da0473ddd.600x338.jpg?t=1603215129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/ss_df40200d465742ee0e8911785bba6d4a3122256c.600x338.jpg?t=1603215129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/ss_38b36d282406a6c25b1b06dc87d3e19cfa0cf1da.600x338.jpg?t=1603215129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/ss_85b506a8e2bc98c140445a2211a3645f39ea97ae.600x338.jpg?t=1603215129"
+  ],
+  "detailed_description": "tri.About(\"<br><br>tri.Attack(); is a 2D arcade game with a theme inspired by classic Atari-era entertainment. As the player, you control a single tri with unique powers compared to other polygons. The tri has the ability to shoot out of your body. Once shot out, the tri can recall back to yourself. This boomerang-like tri serves as your weapon, which you need to use to defeat enemy polygons.<br><br>Several different enemies exist in the game, each giving different amounts of points. The score gained increases for each enemy defeated with a single shot of your tri. Attempt to get as high of a score as possible, unlocking all of the tri variants as you play!<h2 class=\"bb_tag\" >Tri Types</h2><br><strong>Normal</strong>:<br><br>Your first tri! This tri has a great size and will move straight in the direction that you shoot it in. <br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/f8c1eed6d389617c6d5a40e236d20e19.poster.avif?t=1603215129\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/f8c1eed6d389617c6d5a40e236d20e19.webm?t=1603215129\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/f8c1eed6d389617c6d5a40e236d20e19.mp4?t=1603215129\" type=\"video/mp4\"></video></span><br><br><strong>Triple</strong>:<br><br>They're smaller, but there are three of them! The tris will go in three separate directions of the player. The player can shoot out again once all of the three tris are recalled.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/3e6ce35dadb0ddf2f6d01940af599f41.poster.avif?t=1603215129\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/3e6ce35dadb0ddf2f6d01940af599f41.webm?t=1603215129\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/3e6ce35dadb0ddf2f6d01940af599f41.mp4?t=1603215129\" type=\"video/mp4\"></video></span><br><br><strong>Follow</strong>:<br><br>This tri has homing properties to it, constantly following your cursor, with the caveat that the time for it to automatically recall to the player is less than other tri types.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/37f3e94038d24641de580c0d7fdb5a9b.poster.avif?t=1603215129\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/37f3e94038d24641de580c0d7fdb5a9b.webm?t=1603215129\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/37f3e94038d24641de580c0d7fdb5a9b.mp4?t=1603215129\" type=\"video/mp4\"></video></span><br><br><strong>Sponge</strong>:<br><br>Bigger is better. The tri will start out at a somewhat smaller size, but will increase its size for each enemy that it hits. The size of the tri resets once it is recalled.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/1d9365222260fed5d8c375ff6748f855.poster.avif?t=1603215129\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/1d9365222260fed5d8c375ff6748f855.webm?t=1603215129\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/1d9365222260fed5d8c375ff6748f855.mp4?t=1603215129\" type=\"video/mp4\"></video></span><br><br>More tris are included!<br><br>tri.Attack(); is designed and programmed by Demmy Mangusso. Composition is provided by Nick West. Additional programming by Yukon Wainczak<br><br>\");",
+  "about_the_game": "tri.About(\"<br><br>tri.Attack(); is a 2D arcade game with a theme inspired by classic Atari-era entertainment. As the player, you control a single tri with unique powers compared to other polygons. The tri has the ability to shoot out of your body. Once shot out, the tri can recall back to yourself. This boomerang-like tri serves as your weapon, which you need to use to defeat enemy polygons.<br><br>Several different enemies exist in the game, each giving different amounts of points. The score gained increases for each enemy defeated with a single shot of your tri. Attempt to get as high of a score as possible, unlocking all of the tri variants as you play!<h2 class=\"bb_tag\" >Tri Types</h2><br><strong>Normal</strong>:<br><br>Your first tri! This tri has a great size and will move straight in the direction that you shoot it in. <br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/f8c1eed6d389617c6d5a40e236d20e19.poster.avif?t=1603215129\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/f8c1eed6d389617c6d5a40e236d20e19.webm?t=1603215129\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/f8c1eed6d389617c6d5a40e236d20e19.mp4?t=1603215129\" type=\"video/mp4\"></video></span><br><br><strong>Triple</strong>:<br><br>They're smaller, but there are three of them! The tris will go in three separate directions of the player. The player can shoot out again once all of the three tris are recalled.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/3e6ce35dadb0ddf2f6d01940af599f41.poster.avif?t=1603215129\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/3e6ce35dadb0ddf2f6d01940af599f41.webm?t=1603215129\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/3e6ce35dadb0ddf2f6d01940af599f41.mp4?t=1603215129\" type=\"video/mp4\"></video></span><br><br><strong>Follow</strong>:<br><br>This tri has homing properties to it, constantly following your cursor, with the caveat that the time for it to automatically recall to the player is less than other tri types.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/37f3e94038d24641de580c0d7fdb5a9b.poster.avif?t=1603215129\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/37f3e94038d24641de580c0d7fdb5a9b.webm?t=1603215129\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/37f3e94038d24641de580c0d7fdb5a9b.mp4?t=1603215129\" type=\"video/mp4\"></video></span><br><br><strong>Sponge</strong>:<br><br>Bigger is better. The tri will start out at a somewhat smaller size, but will increase its size for each enemy that it hits. The size of the tri resets once it is recalled.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/1d9365222260fed5d8c375ff6748f855.poster.avif?t=1603215129\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/1d9365222260fed5d8c375ff6748f855.webm?t=1603215129\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1134190/extras/1d9365222260fed5d8c375ff6748f855.mp4?t=1603215129\" type=\"video/mp4\"></video></span><br><br>More tris are included!<br><br>tri.Attack(); is designed and programmed by Demmy Mangusso. Composition is provided by Nick West. Additional programming by Yukon Wainczak<br><br>\");",
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Partial Controller Support",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 6,
+  "review_positive": 6,
+  "review_percentage": 100.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 6,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 6,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

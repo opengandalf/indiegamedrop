@@ -1,0 +1,78 @@
+{
+  "steam_app_id": 3480040,
+  "name": "Minesweeper World",
+  "slug": "minesweeper-world",
+  "developer": "CZ-Game",
+  "publisher": "CZ-Game",
+  "release_date": "Feb 11, 2025",
+  "price_usd": 0.99,
+  "genres": [
+    "Casual",
+    "Indie",
+    "Strategy"
+  ],
+  "tags": [
+    "Casual",
+    "Indie",
+    "Strategy"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "This is a classic minesweeper game that supports multiple ways of burying mines such as guessing without guessing. It also supports generating up to 200x200 situations, caching situations, and allows players to leave or continue at any time.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480040/header.jpg?t=1745879610",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480040/ss_dfea4da6780d8440a6d1b7676c895dc69d986514.600x338.jpg?t=1745879610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480040/ss_758d3792c148d46205d2683b968b24517eb616c9.600x338.jpg?t=1745879610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480040/ss_0d32680790b63e4ff72fb77ec0b0356192d3f8d7.600x338.jpg?t=1745879610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480040/ss_0ce97f362b2c83d3d3114315539c6585068c5337.600x338.jpg?t=1745879610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480040/ss_9c15fd5431e309ac7a70c0713642b20945cecee9.600x338.jpg?t=1745879610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480040/ss_0b7740421a7905ff33b854d51876f2375c9d0e1b.600x338.jpg?t=1745879610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480040/ss_37f7d421cd80a7cde81676ef83a10e16ac2fd56a.600x338.jpg?t=1745879610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480040/ss_8e502d727b63a252a2152e2e02a8ec577af7b964.600x338.jpg?t=1745879610"
+  ],
+  "detailed_description": "<h2 class=\"bb_tag\" >Game type</h2><p class=\"bb_paragraph\" >This is a classic minesweeper game, where the numbers in the grid represent the number of mines in the nine grid. Players need to calculate the positions of all the grids representing mines based on these non mine grids, and open the safe grids. If all the grids are opened, the game is complete. If the grid representing mines is opened halfway, the game fails. At the same time, the game supports a no guessing mine mode, which can avoid the guessing behavior of choosing between two in the final stage. Of course, the game also supports expansion modes such as Shield and Immortal, which will provide players with certain fault tolerance or respawn mechanisms when enabled.</p><h2 class=\"bb_tag\" >The game currently supports three mine laying modes</h2><p class=\"bb_paragraph\" >1. Classic Thunder Burial Mode: The first click on a location is not mine, and the rest of the mines are evenly distributed</p><p class=\"bb_paragraph\" >2. Win7 mine burial mode: The first click position is empty, and the rest of the mines are evenly distributed</p><p class=\"bb_paragraph\" >3. No guessing mode: When the first click position is empty, the situation will be verified and adjusted to ensure that the generated situation can be solved through reasoning</p><h2 class=\"bb_tag\" >Game difficulty</h2><p class=\"bb_paragraph\" >1. The game comes with multiple levels of difficulty built-in</p><p class=\"bb_paragraph\" >2. The game supports custom scene configurations with a maximum size of 200x200</p><h2 class=\"bb_tag\" >Operation method</h2><p class=\"bb_paragraph\" >1. The game supports one click switching between flip mode/flag insertion mode through Space</p><p class=\"bb_paragraph\" >2. In flag insertion mode, clicking on the grid status will switch to waiting flag insertion/flag insertion/marked lightning guessing status in sequence</p><p class=\"bb_paragraph\" >3. Right click and drag to move the field of view, slide the mouse wheel to zoom in and out of the field of view</p><p class=\"bb_paragraph\" >4. Support one click lifting. Click on the lifted area with the mouse, and if there are flags marked with corresponding lightning numbers around, the surrounding non flag grids can be automatically lifted</p><p class=\"bb_paragraph\" >5. The game supports situation caching, which means that the current situation will be cached when leaving the game, and when starting the game again, it will be restored to its previous state. Both the layout of the situation and the position of the field of view will be restored. Large situations have more mines and can be played slowly</p><h2 class=\"bb_tag\" >Expand gameplay</h2><p class=\"bb_paragraph\" >If the \"Expansion Shield\" mode is enabled, a specified number of energy tokens will be randomly generated in non mine areas of the situation. After picking them up, if they accidentally hit a mine during subsequent gameplay, they can be consumed in the form of energy to avoid accidental death</p>",
+  "about_the_game": "<h2 class=\"bb_tag\" >Game type</h2><p class=\"bb_paragraph\" >This is a classic minesweeper game, where the numbers in the grid represent the number of mines in the nine grid. Players need to calculate the positions of all the grids representing mines based on these non mine grids, and open the safe grids. If all the grids are opened, the game is complete. If the grid representing mines is opened halfway, the game fails. At the same time, the game supports a no guessing mine mode, which can avoid the guessing behavior of choosing between two in the final stage. Of course, the game also supports expansion modes such as Shield and Immortal, which will provide players with certain fault tolerance or respawn mechanisms when enabled.</p><h2 class=\"bb_tag\" >The game currently supports three mine laying modes</h2><p class=\"bb_paragraph\" >1. Classic Thunder Burial Mode: The first click on a location is not mine, and the rest of the mines are evenly distributed</p><p class=\"bb_paragraph\" >2. Win7 mine burial mode: The first click position is empty, and the rest of the mines are evenly distributed</p><p class=\"bb_paragraph\" >3. No guessing mode: When the first click position is empty, the situation will be verified and adjusted to ensure that the generated situation can be solved through reasoning</p><h2 class=\"bb_tag\" >Game difficulty</h2><p class=\"bb_paragraph\" >1. The game comes with multiple levels of difficulty built-in</p><p class=\"bb_paragraph\" >2. The game supports custom scene configurations with a maximum size of 200x200</p><h2 class=\"bb_tag\" >Operation method</h2><p class=\"bb_paragraph\" >1. The game supports one click switching between flip mode/flag insertion mode through Space</p><p class=\"bb_paragraph\" >2. In flag insertion mode, clicking on the grid status will switch to waiting flag insertion/flag insertion/marked lightning guessing status in sequence</p><p class=\"bb_paragraph\" >3. Right click and drag to move the field of view, slide the mouse wheel to zoom in and out of the field of view</p><p class=\"bb_paragraph\" >4. Support one click lifting. Click on the lifted area with the mouse, and if there are flags marked with corresponding lightning numbers around, the surrounding non flag grids can be automatically lifted</p><p class=\"bb_paragraph\" >5. The game supports situation caching, which means that the current situation will be cached when leaving the game, and when starting the game again, it will be restored to its previous state. Both the layout of the situation and the position of the field of view will be restored. Large situations have more mines and can be played slowly</p><h2 class=\"bb_tag\" >Expand gameplay</h2><p class=\"bb_paragraph\" >If the \"Expansion Shield\" mode is enabled, a specified number of energy tokens will be randomly generated in non mine areas of the situation. After picking them up, if they accidentally hit a mine during subsequent gameplay, they can be consumed in the form of energy to avoid accidental death</p>",
+  "supported_languages": "Simplified Chinese",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Steam Leaderboards",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 1.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 2,
+  "review_positive": 2,
+  "review_percentage": 100.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 1,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-27",
+      "review_count": 2,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

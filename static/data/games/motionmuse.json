@@ -1,0 +1,69 @@
+{
+  "steam_app_id": 1837020,
+  "name": "MotionMuse",
+  "slug": "motionmuse",
+  "developer": "Muni Animation",
+  "publisher": "Muni Animation",
+  "release_date": "Feb 16, 2022",
+  "price_usd": 24.49,
+  "genres": [
+    "Animation & Modeling",
+    "Game Development",
+    "Early Access"
+  ],
+  "tags": [
+    "Animation & Modeling",
+    "Game Development",
+    "Early Access"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "MotionMuse is a powerful yet easy to use toolset for creating & editing 3D character animations. This includes animation transfer, spline based motion-editing, fast IK solver, sketching for easy posing, image overlays, curve editor and more, to help quickly and easily bring your characters to life.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/header.jpg?t=1766829823",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/ss_608f11d4816b0fa15ab9b450d4165e4e67a1464d.600x338.jpg?t=1766829823",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/ss_fb395e34d4f08b370b8310cfdf9f049724cf9ce5.600x338.jpg?t=1766829823",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/ss_5e4df10a3ac6add8a61a48d03947e67d4914326c.600x338.jpg?t=1766829823",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/ss_cbd825faa6f43ae1381efea0432b7f5ec769779a.600x338.jpg?t=1766829823",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/ss_5757d9f9d5b4842d508e872b2f6d01438dbe0b02.600x338.jpg?t=1766829823"
+  ],
+  "detailed_description": "<p class=\"bb_paragraph\" ><strong>MotionMuse</strong> provides an easy to use animation tool-set for 3D character animation. No rigging of the character is required as the bone hierarchy itself is used for articulating motion. MotionMuse is an ideal tool for game developers, indie developers, freelancers and animators to quickly and easily prototype character animations.</p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Retargeting: Transferring animation across characters, supports different skeletons.</p></li><li><p class=\"bb_paragraph\" >Auto Rigging: Simple tools to create/edit skeletons, with auto-skinning of meshes to bones.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Motion-Editing: Spline based path editing of spatio-temporal constraints for limbs.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Inverse Kinematics: Fast IK solver for partial or full body adjustment for quick posing.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Spline Sketching: Pose limbs by drawing, sketch is converted to spline for fine adjustments.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Curve Editor: Supports various tangents and interpolations for precise motion control.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Media Overlays: Load/save images/videos in a scene to trace poses for quick prototyping.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > File Formats: Import support for fbx,dae,bvh,gltf,vrm,obj,stl,usd with export to fbx,gltf,glb.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > </p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/009da16f50484f7a148e6c50b7e93679.poster.avif?t=1766829823\" width=300 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/009da16f50484f7a148e6c50b7e93679.webm?t=1766829823\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/009da16f50484f7a148e6c50b7e93679.mp4?t=1766829823\" type=\"video/mp4\"></video></span> <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/21a2afe9550c93b1a353b8bb2aa34c48.poster.avif?t=1766829823\" width=300 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/21a2afe9550c93b1a353b8bb2aa34c48.webm?t=1766829823\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/21a2afe9550c93b1a353b8bb2aa34c48.mp4?t=1766829823\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/76900542d6b9a0ff75506ec9b412c7c6.poster.avif?t=1766829823\" width=300 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/76900542d6b9a0ff75506ec9b412c7c6.webm?t=1766829823\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/76900542d6b9a0ff75506ec9b412c7c6.mp4?t=1766829823\" type=\"video/mp4\"></video></span> <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/94bca5ef203c099d1d19e57dc78adaa4.poster.avif?t=1766829823\" width=300 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/94bca5ef203c099d1d19e57dc78adaa4.webm?t=1766829823\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/94bca5ef203c099d1d19e57dc78adaa4.mp4?t=1766829823\" type=\"video/mp4\"></video></span></p>",
+  "about_the_game": "<p class=\"bb_paragraph\" ><strong>MotionMuse</strong> provides an easy to use animation tool-set for 3D character animation. No rigging of the character is required as the bone hierarchy itself is used for articulating motion. MotionMuse is an ideal tool for game developers, indie developers, freelancers and animators to quickly and easily prototype character animations.</p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Retargeting: Transferring animation across characters, supports different skeletons.</p></li><li><p class=\"bb_paragraph\" >Auto Rigging: Simple tools to create/edit skeletons, with auto-skinning of meshes to bones.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Motion-Editing: Spline based path editing of spatio-temporal constraints for limbs.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Inverse Kinematics: Fast IK solver for partial or full body adjustment for quick posing.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Spline Sketching: Pose limbs by drawing, sketch is converted to spline for fine adjustments.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Curve Editor: Supports various tangents and interpolations for precise motion control.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Media Overlays: Load/save images/videos in a scene to trace poses for quick prototyping.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > File Formats: Import support for fbx,dae,bvh,gltf,vrm,obj,stl,usd with export to fbx,gltf,glb.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > </p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/009da16f50484f7a148e6c50b7e93679.poster.avif?t=1766829823\" width=300 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/009da16f50484f7a148e6c50b7e93679.webm?t=1766829823\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/009da16f50484f7a148e6c50b7e93679.mp4?t=1766829823\" type=\"video/mp4\"></video></span> <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/21a2afe9550c93b1a353b8bb2aa34c48.poster.avif?t=1766829823\" width=300 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/21a2afe9550c93b1a353b8bb2aa34c48.webm?t=1766829823\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/21a2afe9550c93b1a353b8bb2aa34c48.mp4?t=1766829823\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/76900542d6b9a0ff75506ec9b412c7c6.poster.avif?t=1766829823\" width=300 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/76900542d6b9a0ff75506ec9b412c7c6.webm?t=1766829823\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/76900542d6b9a0ff75506ec9b412c7c6.mp4?t=1766829823\" type=\"video/mp4\"></video></span> <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/94bca5ef203c099d1d19e57dc78adaa4.poster.avif?t=1766829823\" width=300 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/94bca5ef203c099d1d19e57dc78adaa4.webm?t=1766829823\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837020/extras/94bca5ef203c099d1d19e57dc78adaa4.mp4?t=1766829823\" type=\"video/mp4\"></video></span></p>",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 8,
+  "review_positive": 7,
+  "review_percentage": 87.5,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 8,
+      "review_percentage": 87.5,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "review_count": 8,
+      "review_percentage": 87.5,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

@@ -1,0 +1,79 @@
+{
+  "steam_app_id": 3491280,
+  "name": "The Zone - FPV Drone Simulator",
+  "slug": "the-zone-fpv-drone-simulator",
+  "developer": "Nils Vollenbruch (@nils vo)",
+  "publisher": "Nils Vollenbruch (@nils vo)",
+  "release_date": "Mar 7, 2025",
+  "price_usd": 13.99,
+  "genres": [
+    "Racing",
+    "Simulation",
+    "Early Access"
+  ],
+  "tags": [
+    "Racing",
+    "Simulation",
+    "Early Access"
+  ],
+  "platforms": [
+    "windows",
+    "mac"
+  ],
+  "short_description": "Learn new tricks, improve your freestyle flow, get inspiration by spectating other pilots, or learn to fly in the first place. The drone setup and physics are already dialed in by Pro pilots, so no need to mess with complicated settings.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491280/d852ec003c707e4792013c50504e6aeda43c0ee9/header.jpg?t=1773490024",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491280/ss_9a916cbf9e2845faa88ca9cfa58ba120e6dbcbd0.600x338.jpg?t=1773490024",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491280/ss_e36ee0d1c6342fe0ad48b2c1feeb3449dc2dd119.600x338.jpg?t=1773490024",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491280/ss_3ea4f8280e370b4e63b48111318e336c2a088e39.600x338.jpg?t=1773490024",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491280/ss_e6e077c638e1c7af42ce76ba5a95373a1be80ea6.600x338.jpg?t=1773490024",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3491280/ss_e943057f801679d6d33999e23fd872ba7a60043b.600x338.jpg?t=1773490024"
+  ],
+  "detailed_description": "<h2 class=\"bb_tag\" ><strong>A good FPV Simulator needs 3 things</strong></h2><p class=\"bb_paragraph\" >1. Accurate and realistic physics</p><p class=\"bb_paragraph\" >2. Good maps that replicate real-life conditions</p><p class=\"bb_paragraph\" >3. A fun multiplayer, because flying alone is boring</p><p class=\"bb_paragraph\" >There are other simulators that do 1 or 2 of those quite well, but none really do it all for me.</p><p class=\"bb_paragraph\" >So in 2024 I started with a little prototype to see if it's possible and quickly had something that already felt better than most other simulators.</p><p class=\"bb_paragraph\" >At the start of this year I decided to go all-in and actually try to make it happen.</p><h2 class=\"bb_tag\" ><strong>Current state of the game</strong></h2><p class=\"bb_paragraph\" ><strong>1. Physics</strong></p><p class=\"bb_paragraph\" >I've replicated my own itsFPV ERA 5\" quad mostly based on feel, and every time I compare it to real-life footage or Blackbox logs, it's within a few percentage points.</p><p class=\"bb_paragraph\" >The map choice is also very intentional with it being my home spot where I've flown more than 1000 packs, so I can compare it 1:1 to real-life.</p><p class=\"bb_paragraph\" >All my Pro-pilot friends who tried it so far can also fly as well as in real-life without having to get used to the Sim first or spending hours dialing in the settings.</p><p class=\"bb_paragraph\" >The default settings are my personal settings, but you can change the Weight and Power to your liking.</p><p class=\"bb_paragraph\" ><strong>2. Maps</strong></p><p class=\"bb_paragraph\" >There is currently one map, a replica of my home spot. It's still missing some finer details and a proper surrounding environment, which is actively being worked on.</p><p class=\"bb_paragraph\" >Going forward, most official maps will be replicas of real spots, and there will be a Custom map builder and Steam Workshop support for whatever crazy training parks you want to build.</p><p class=\"bb_paragraph\" ><strong>3. Multiplayer</strong></p><p class=\"bb_paragraph\" >The best way to get better and find inspiration is by spectating other pilots. With picture-in-picture spectate mode you can spectate multiple other pilots on the side, while still flying yourself. You can also switch to fullscreen at any time of course.</p><p class=\"bb_paragraph\" >The multiplayer currently supports up to 32 players on a single server.</p><h2 class=\"bb_tag\" ><strong>Near-term roadmap</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Drift cars</p></li><li><p class=\"bb_paragraph\" >Proper environment around the map</p></li><li><p class=\"bb_paragraph\" >Fixed-wing and another special drone that doesn't exist in any Sim yet 👀</p></li><li><p class=\"bb_paragraph\" >A second map with a real spot</p></li><li><p class=\"bb_paragraph\" >Custom map editor</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game is far from finished, but development is very quick with big features being added every couple of days. And it's only getting quicker as I get more comfortable with 3D modeling and game development in general.</p><p class=\"bb_paragraph\" >By buying the game in the early stages you can support the development in a huge way, and hey, maybe you'll get a little something in return at some point ;)</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Keep up with the latest updates on Instagram @thezonefpv or on the community Discord server.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Everything in the game is designed and programmed by sponsored freestyle pilot @nils vo.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >A game controller or RC Plane Radio is required to play this game. For the best experience, use a RC Radio.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Disclaimer for new Pilots</strong></h2><p class=\"bb_paragraph\" >Learning the basic controls takes about 2–5 hours, and it takes 10–20 hours before you can fly with any accuracy. This is a simulation and training tool, not a fun game you can just pick up and play without practice.</p>",
+  "about_the_game": "<h2 class=\"bb_tag\" ><strong>A good FPV Simulator needs 3 things</strong></h2><p class=\"bb_paragraph\" >1. Accurate and realistic physics</p><p class=\"bb_paragraph\" >2. Good maps that replicate real-life conditions</p><p class=\"bb_paragraph\" >3. A fun multiplayer, because flying alone is boring</p><p class=\"bb_paragraph\" >There are other simulators that do 1 or 2 of those quite well, but none really do it all for me.</p><p class=\"bb_paragraph\" >So in 2024 I started with a little prototype to see if it's possible and quickly had something that already felt better than most other simulators.</p><p class=\"bb_paragraph\" >At the start of this year I decided to go all-in and actually try to make it happen.</p><h2 class=\"bb_tag\" ><strong>Current state of the game</strong></h2><p class=\"bb_paragraph\" ><strong>1. Physics</strong></p><p class=\"bb_paragraph\" >I've replicated my own itsFPV ERA 5\" quad mostly based on feel, and every time I compare it to real-life footage or Blackbox logs, it's within a few percentage points.</p><p class=\"bb_paragraph\" >The map choice is also very intentional with it being my home spot where I've flown more than 1000 packs, so I can compare it 1:1 to real-life.</p><p class=\"bb_paragraph\" >All my Pro-pilot friends who tried it so far can also fly as well as in real-life without having to get used to the Sim first or spending hours dialing in the settings.</p><p class=\"bb_paragraph\" >The default settings are my personal settings, but you can change the Weight and Power to your liking.</p><p class=\"bb_paragraph\" ><strong>2. Maps</strong></p><p class=\"bb_paragraph\" >There is currently one map, a replica of my home spot. It's still missing some finer details and a proper surrounding environment, which is actively being worked on.</p><p class=\"bb_paragraph\" >Going forward, most official maps will be replicas of real spots, and there will be a Custom map builder and Steam Workshop support for whatever crazy training parks you want to build.</p><p class=\"bb_paragraph\" ><strong>3. Multiplayer</strong></p><p class=\"bb_paragraph\" >The best way to get better and find inspiration is by spectating other pilots. With picture-in-picture spectate mode you can spectate multiple other pilots on the side, while still flying yourself. You can also switch to fullscreen at any time of course.</p><p class=\"bb_paragraph\" >The multiplayer currently supports up to 32 players on a single server.</p><h2 class=\"bb_tag\" ><strong>Near-term roadmap</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Drift cars</p></li><li><p class=\"bb_paragraph\" >Proper environment around the map</p></li><li><p class=\"bb_paragraph\" >Fixed-wing and another special drone that doesn't exist in any Sim yet 👀</p></li><li><p class=\"bb_paragraph\" >A second map with a real spot</p></li><li><p class=\"bb_paragraph\" >Custom map editor</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game is far from finished, but development is very quick with big features being added every couple of days. And it's only getting quicker as I get more comfortable with 3D modeling and game development in general.</p><p class=\"bb_paragraph\" >By buying the game in the early stages you can support the development in a huge way, and hey, maybe you'll get a little something in return at some point ;)</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Keep up with the latest updates on Instagram @thezonefpv or on the community Discord server.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Everything in the game is designed and programmed by sponsored freestyle pilot @nils vo.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >A game controller or RC Plane Radio is required to play this game. For the best experience, use a RC Radio.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Disclaimer for new Pilots</strong></h2><p class=\"bb_paragraph\" >Learning the basic controls takes about 2–5 hours, and it takes 10–20 hours before you can fly with any accuracy. This is a simulation and training tool, not a fun game you can just pick up and play without practice.</p>",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Stats",
+    "Includes level editor",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 164,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 168,
+  "review_positive": 162,
+  "review_percentage": 96.4,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 10,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-27",
+      "review_count": 168,
+      "review_percentage": 96.4,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

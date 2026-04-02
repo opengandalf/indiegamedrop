@@ -1,0 +1,93 @@
+{
+  "steam_app_id": 1196080,
+  "name": "Space Simulation Toolkit",
+  "slug": "space-simulation-toolkit",
+  "developer": "Pavel Kudinov",
+  "publisher": "Pavel Kudinov",
+  "release_date": "Jun 5, 2020",
+  "price_usd": 17.49,
+  "genres": [
+    "Indie",
+    "Simulation",
+    "Free To Play",
+    "Early Access"
+  ],
+  "tags": [
+    "Indie",
+    "Simulation",
+    "Free To Play",
+    "Early Access"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Physics sandbox game that uses a graphics card as a supercomputer. Change the laws of physics, design mechanisms, create A-Life worlds and inhabit them with living beings, experiment with evolution and AI.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/c2cd1d1ce90cab552225d3483ae04abd4b6113da/header.jpg?t=1763560004",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/e7764ac6374231680bc6bf1efce0ac68ff9312fa/ss_e7764ac6374231680bc6bf1efce0ac68ff9312fa.600x338.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/ss_965aa3194a2342f0e3a54d1fd503279f39504bec.600x338.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/ss_c91bc5a44143146522f3ee82b36682d34c67bb46.600x338.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/ss_a11d6e58b5b250bd7e752c09e141e3f5d6a3a3a1.600x338.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/ss_3c5f9c233214d4b78ecd7281d94e56c9cab736c5.600x338.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/ss_a19288cd20caa918188c9f162a6b716b80b79571.600x338.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/ss_e3ddc91f553109c280a9068efa57a511182d2d26.600x338.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/ss_9c2b60ba9a77b5bc36ca8ec81f16d2425dd9a936.600x338.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/ss_f3127fef5a2200e67e2e5a65a2d0fde6bb9765ee.600x338.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/ss_0c9a6421ba69fb592f09ee1564bafd98cc7a4f84.600x338.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/ss_38a1ebb0b3e1e70c29620259c8edf212155d4a06.600x338.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/ss_8e50956082e7c9b5d2c907e2a4443373e334df7e.600x338.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/ss_3d7478b20eebfd3ec97935b0b0538f56d7dc6b86.600x338.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/ss_f1c603deb440ad8c1b28732ec0abd6e6ef2f26f7.600x338.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/ss_535589fba87f01f09fb02f1ef2545ae9265ddb9b.600x338.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/e7764ac6374231680bc6bf1efce0ac68ff9312fa/ss_e7764ac6374231680bc6bf1efce0ac68ff9312fa.600x338.jpg?t=1763560004"
+  ],
+  "detailed_description": "<strong>*** NOT ALL GPU SUPPORTED! CHECK DEMO FIRST ***</strong><br><br>You probably heard the theory that we live inside a computer simulation.<br><br>I wanted to create a big sandbox game in which you can create your own simulations, change the laws of physics, design mechanisms, create A-Life worlds and inhabit them with living beings, experiment with evolution and AI.<br><br>SST is a particle simulator that uses a graphics card as a supercomputer to calculate physics. The more powerful the graphics card, the greater the gameplay!<br><br>The building block of all worlds is an atom. Atoms can have links, thus producing spatial structures.<br><br>The physical properties of materials can vary over a wide range, allowing the simulation of gases, liquids, soft and solid bodies, various chemical processes and states of matter.<br><br>Perhaps even creating a virtual life!<br><br>For example, the “Protobiome” simulation is a living virtual world with light, water, earth, growing plants and dwelling creatures, guided by evolutionary genetics.<br><br><strong>ATTENTION!<br><br>The game is in the deep Early Access state. It may be unstable. It may also completely fail to run on your system.<br><br>The game had initially been developed for NVIDIA cards. Therefore, the project works most optimally and efficiently on modern NVIDIA GPUs using CUDA. However, I'm willing to support the widest possible range of gaming systems. This is why the game also has an OpenCL port, so it can run on most AMD graphics cards as well.<br><br>It is really important that you have a recent version of the video driver installed. In case of problems running the game, first of all, please, try to update the video card driver!<br><br>I HIGHLY RECOMMEND to try the free demo version of the game before buying the Early Access version. This will let you make sure the game works well on your system! </strong>",
+  "about_the_game": "<strong>*** NOT ALL GPU SUPPORTED! CHECK DEMO FIRST ***</strong><br><br>You probably heard the theory that we live inside a computer simulation.<br><br>I wanted to create a big sandbox game in which you can create your own simulations, change the laws of physics, design mechanisms, create A-Life worlds and inhabit them with living beings, experiment with evolution and AI.<br><br>SST is a particle simulator that uses a graphics card as a supercomputer to calculate physics. The more powerful the graphics card, the greater the gameplay!<br><br>The building block of all worlds is an atom. Atoms can have links, thus producing spatial structures.<br><br>The physical properties of materials can vary over a wide range, allowing the simulation of gases, liquids, soft and solid bodies, various chemical processes and states of matter.<br><br>Perhaps even creating a virtual life!<br><br>For example, the “Protobiome” simulation is a living virtual world with light, water, earth, growing plants and dwelling creatures, guided by evolutionary genetics.<br><br><strong>ATTENTION!<br><br>The game is in the deep Early Access state. It may be unstable. It may also completely fail to run on your system.<br><br>The game had initially been developed for NVIDIA cards. Therefore, the project works most optimally and efficiently on modern NVIDIA GPUs using CUDA. However, I'm willing to support the widest possible range of gaming systems. This is why the game also has an OpenCL port, so it can run on most AMD graphics cards as well.<br><br>It is really important that you have a recent version of the video driver installed. In case of problems running the game, first of all, please, try to update the video card driver!<br><br>I HIGHLY RECOMMEND to try the free demo version of the game before buying the Early Access version. This will let you make sure the game works well on your system! </strong>",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Steam Workshop",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 445,
+  "rising_score": 0.0008,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 105.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 474,
+  "review_positive": 382,
+  "review_percentage": 80.6,
+  "owner_estimate": 150000,
+  "ccu_estimate": 19,
+  "follower_count": 0,
+  "median_playtime_minutes": 141,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 369,
+      "review_percentage": 79.7,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-24",
+      "review_count": 470,
+      "review_percentage": 80.9,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-27",
+      "review_count": 474,
+      "review_percentage": 80.6,
+      "ccu_estimate": 19,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

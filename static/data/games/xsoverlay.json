@@ -1,0 +1,71 @@
+{
+  "steam_app_id": 1173510,
+  "name": "XSOverlay",
+  "slug": "xsoverlay",
+  "developer": "Xiexe",
+  "publisher": "Xiexe",
+  "release_date": "Mar 3, 2020",
+  "price_usd": 9.99,
+  "genres": [
+    "Utilities",
+    "Early Access"
+  ],
+  "tags": [
+    "Utilities",
+    "Early Access"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "XSOverlay is a Desktop Overlay application for OpenVR. It aims to be as intuitive as possible, minimalist and out of the way, but fully functional. XSOverlay conforms to your needs, and will adjust itself as such!",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173510/header.jpg?t=1698417988",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173510/ss_5d58ecf73a1893de81df1d8a9288559bd561eb86.600x338.jpg?t=1698417988",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173510/ss_ff4f7af313863c41442fab16dd9317e6aa61f9bb.600x338.jpg?t=1698417988",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173510/ss_fc2b3ee5ca490cee459e9fb42ca6da5edadaeb9a.600x338.jpg?t=1698417988",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173510/ss_3c227dd66306ce4ff194113ecd80faea8951edb9.600x338.jpg?t=1698417988",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173510/ss_a99842aad6fd4c5bc89453e52b8003511ed162b3.600x338.jpg?t=1698417988"
+  ],
+  "detailed_description": "<h1>OVERVIEW</h1><p><strong>READ BEFORE PURCHASE</strong><br>If you have any questions, comments, or otherwise, feel free to join us on Discord!<br><br>XSOverlay only officially supports use on Windows 10 and Windows 11 for now.<br><br>Do not buy this if you are on Windows 7/8/XP/Vista/MacOS/Linux.</p><br><h1>FEATURES</h1><p><strong>XSOverlay is currently in development, and will continue to receive new features and updates. This list is likely to change!</strong><br><br><ul class=\"bb_ul\"><li> Fully Input 2.0 compatible. You can rebind everything.<br></li><li> Full Left Clicking, Middle Clicking, and Right Clicking support, with long press / dragging support.<br></li><li> Re-centering of Window space to allow for more natural interactions, as well as Grid View for quick window retrieval.<br></li><li> Window movement/scaling/management at any range.<br></li><li> Curved Overlays.<br></li><li> User-editable localization support.<br></li><li> Auto detection of proper keyboard layout based on the system keyboard, with customization support.<br></li><li> Custom Keyboard typing sounds.<br></li><li> Layout saving and loading, to keep all your windows organized.<br></li><li> Optional Input blocking. so you don't interact with the game in the background.<br></li><li> Notifications API to allow third-party applications to send toast notifications right to your headset.<br></li><li> Media player integrations for basic media controls.<br></li><li> Full Discord Rich Presence integration will show what game you're playing with XSOverlay.<br></li><li> Most features typically found in other Desktop Overlays.</li></ul></p><br><h1>SUPPORT</h1><p>If you have any issues, questions, feedback, or criticism, you can join the community on Discord, or the public facing Github repository to report them!<br><br>Click here to join us on Discord!<br>Click here to go to the GitHub!</p><br><h1>About the Software</h1>XSOverlay is a Desktop Overlay application for OpenVR. This means that you can access your desktop, or specific applications, and interact with them however you'd like to.",
+  "about_the_game": "XSOverlay is a Desktop Overlay application for OpenVR. This means that you can access your desktop, or specific applications, and interact with them however you'd like to.",
+  "supported_languages": "English, Japanese, Spanish - Latin America, French, Italian, German, Spanish - Spain, Danish, Dutch, Finnish, Hungarian, Korean, Norwegian, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Swedish, Traditional Chinese, Ukrainian",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Steam Achievements",
+    "Tracked Controller Support",
+    "VR Only"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 1353,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 1552,
+  "review_positive": 1327,
+  "review_percentage": 85.5,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 1443,
+      "review_percentage": 85.5,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-24",
+      "review_count": 1552,
+      "review_percentage": 85.5,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

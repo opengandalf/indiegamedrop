@@ -1,0 +1,80 @@
+{
+  "steam_app_id": 894000,
+  "name": "Night of the Blood Moon",
+  "slug": "night-of-the-blood-moon",
+  "developer": "Tyler McDermott",
+  "publisher": "Tyler McDermott",
+  "release_date": "Jan 21, 2019",
+  "price_usd": 4.99,
+  "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "tags": [
+    "Action",
+    "Adventure",
+    "RPG"
+  ],
+  "platforms": [
+    "windows",
+    "mac",
+    "linux"
+  ],
+  "short_description": "The darkness of the blood moon is here. Rise from the nightmares and take back the dream realm! Use unique weapons, grow your power, and destroy the charming creatures of the dream realm. Develop your skills, unlock pets, and defeat bosses who will challenge your strategy along side your skill.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/header.jpg?t=1596836800",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/ss_918caaed6a74682077e6b03acd8fd59f3f105aac.600x338.jpg?t=1596836800",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/ss_14c4cffa715d4a8dc8841c838ff964acb8cd2070.600x338.jpg?t=1596836800",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/ss_ee4604cc6c52ffcb712422674efa3aa31aafc485.600x338.jpg?t=1596836800",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/ss_92056d136945bf409d5be03db28b055d7f883992.600x338.jpg?t=1596836800",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/ss_4d5de85567c1acfae47952a053a3a5d74c714ba4.600x338.jpg?t=1596836800",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/ss_7f43a78da7b05c4b8c541999cf0095b80cd46e86.600x338.jpg?t=1596836800"
+  ],
+  "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/extras/3c23ec450358e9656e4e16c87f721309.avif?t=1596836800\" width=616 height=180 /></span><br>For too long Skeletons have been on the blunt force receiving end. Give them a break and time to recover by embracing the power of the darkness.<br>Night of the Blood Moon is a difficult Rogue-lite with unique weapons, and charming manifestations. Become the Nightmare and grow your power, by conquering many imaginative lands, and defeat bosses who will challenge your strategy along side your skill.<h2 class=\"bb_tag\" >The Setting of Night of the Blood Moon</h2>The eclipse is coming, and the blood moon is upon us. It is time for the Three Eyed Raven to rise. From Bedrooms to Castles in the Sky you will control a nightmare and it's arsenal of pets, weapons, and skills. In thde land of dreams creatures take on many forms such as; of instruments, wizards, ninjas, and sea monsters, and more.<br><br><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/extras/364099248097213b3524769166d564d4.apng?t=1596836800\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/extras/364099248097213b3524769166d564d4.poster.avif?t=1596836800\" class=\"bb_img\" width=616 height=115 /></picture></span><h2 class=\"bb_tag\" >Weapons</h2>Night of the Blood Moon's weapons are more than guns with different attributes. They will completely change the way you play the game, by how you position yourself, and which enemies pose the most threat. Hookshots, Boomerangs, and Spellbooks are the beginning of a growing inventory. Learn to utilize each weapon to reach the true-end.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/extras/000e6006fa0a8772068fde2647e61c24.poster.avif?t=1596836800\" width=616 height=100 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/extras/000e6006fa0a8772068fde2647e61c24.webm?t=1596836800\" type=\"video/webm; codecs=vp9\"></video></span><h2 class=\"bb_tag\" >The Dreamy Manifestations</h2><strong>Enemies</strong> in Night of the Blood Moon work on an orthogonal structure. They vary with speed and range on a full spectrum. Each level in the game has unique creatures which test you in their own ways. Things aren't always as they seem in our dreams, especially these critters.<br><strong>Bosses</strong> in Night of the Blood Moon are more than just bullet sponges; Each boss has mechanics which can be overcome through trial & error, and understanding.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/extras/14ed397124f199adff6570de3eebb829.poster.avif?t=1596836800\" width=616 height=76 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/extras/14ed397124f199adff6570de3eebb829.webm?t=1596836800\" type=\"video/webm; codecs=vp9\"></video></span><h2 class=\"bb_tag\" >Pets</h2>You'll come across assistance in your escapades. These <strong>pets</strong> will give you increased attributes as well as passive support. Pets are dreams consumed by the darkness including bats, dogs, nests, and more.<br>Dev Note: <i>I plan on adding at least one pet each month of 2019 for Night of the Blood Moon, and am looking forward to getting more creative with more time on my hands.</i><h2 class=\"bb_tag\" >Eclipse Mode</h2>This mode lets you start with nothing, and get stronger until you the engine can't keep up. There are currently no limitations.<br>Buy health, ammo, and unleash a  flurry of weapons. Eclipse Mode is my way of letting you destroy the game I worked so hard to build whilst having absolute fun.<br><br><strong>For Non-Ubuntu Linux users: </strong>GameMaker (the engine used) only supports 32-bit graphics for some reason (which Ubuntu supports out of box). From what I've come to understand here are the required fixes:<br>install lib32-openssl or openssl:i386 (depend of your system), and Properties -> Set launch options and LD_LIBRARY_PATH=. %command%<br><br><i>Night of the Blood Moon is a game I am incredibly proud of, and excited to share with everyone. Above all I hope you are challenged in a fun and enjoyable way. I'm looking forward to seeing you kick Night of the Blood Moon's butt. Good luck, and have fun.</i><br>-Tyler McDermott, creator and sole developer of Night of the Blood Moon<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/extras/3c23ec450358e9656e4e16c87f721309.avif?t=1596836800\" width=616 height=180 /></span>",
+  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/extras/3c23ec450358e9656e4e16c87f721309.avif?t=1596836800\" width=616 height=180 /></span><br>For too long Skeletons have been on the blunt force receiving end. Give them a break and time to recover by embracing the power of the darkness.<br>Night of the Blood Moon is a difficult Rogue-lite with unique weapons, and charming manifestations. Become the Nightmare and grow your power, by conquering many imaginative lands, and defeat bosses who will challenge your strategy along side your skill.<h2 class=\"bb_tag\" >The Setting of Night of the Blood Moon</h2>The eclipse is coming, and the blood moon is upon us. It is time for the Three Eyed Raven to rise. From Bedrooms to Castles in the Sky you will control a nightmare and it's arsenal of pets, weapons, and skills. In thde land of dreams creatures take on many forms such as; of instruments, wizards, ninjas, and sea monsters, and more.<br><br><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/extras/364099248097213b3524769166d564d4.apng?t=1596836800\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/extras/364099248097213b3524769166d564d4.poster.avif?t=1596836800\" class=\"bb_img\" width=616 height=115 /></picture></span><h2 class=\"bb_tag\" >Weapons</h2>Night of the Blood Moon's weapons are more than guns with different attributes. They will completely change the way you play the game, by how you position yourself, and which enemies pose the most threat. Hookshots, Boomerangs, and Spellbooks are the beginning of a growing inventory. Learn to utilize each weapon to reach the true-end.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/extras/000e6006fa0a8772068fde2647e61c24.poster.avif?t=1596836800\" width=616 height=100 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/extras/000e6006fa0a8772068fde2647e61c24.webm?t=1596836800\" type=\"video/webm; codecs=vp9\"></video></span><h2 class=\"bb_tag\" >The Dreamy Manifestations</h2><strong>Enemies</strong> in Night of the Blood Moon work on an orthogonal structure. They vary with speed and range on a full spectrum. Each level in the game has unique creatures which test you in their own ways. Things aren't always as they seem in our dreams, especially these critters.<br><strong>Bosses</strong> in Night of the Blood Moon are more than just bullet sponges; Each boss has mechanics which can be overcome through trial & error, and understanding.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/extras/14ed397124f199adff6570de3eebb829.poster.avif?t=1596836800\" width=616 height=76 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/extras/14ed397124f199adff6570de3eebb829.webm?t=1596836800\" type=\"video/webm; codecs=vp9\"></video></span><h2 class=\"bb_tag\" >Pets</h2>You'll come across assistance in your escapades. These <strong>pets</strong> will give you increased attributes as well as passive support. Pets are dreams consumed by the darkness including bats, dogs, nests, and more.<br>Dev Note: <i>I plan on adding at least one pet each month of 2019 for Night of the Blood Moon, and am looking forward to getting more creative with more time on my hands.</i><h2 class=\"bb_tag\" >Eclipse Mode</h2>This mode lets you start with nothing, and get stronger until you the engine can't keep up. There are currently no limitations.<br>Buy health, ammo, and unleash a  flurry of weapons. Eclipse Mode is my way of letting you destroy the game I worked so hard to build whilst having absolute fun.<br><br><strong>For Non-Ubuntu Linux users: </strong>GameMaker (the engine used) only supports 32-bit graphics for some reason (which Ubuntu supports out of box). From what I've come to understand here are the required fixes:<br>install lib32-openssl or openssl:i386 (depend of your system), and Properties -> Set launch options and LD_LIBRARY_PATH=. %command%<br><br><i>Night of the Blood Moon is a game I am incredibly proud of, and excited to share with everyone. Above all I hope you are challenged in a fun and enjoyable way. I'm looking forward to seeing you kick Night of the Blood Moon's butt. Good luck, and have fun.</i><br>-Tyler McDermott, creator and sole developer of Night of the Blood Moon<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/extras/3c23ec450358e9656e4e16c87f721309.avif?t=1596836800\" width=616 height=180 /></span>",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Full controller support",
+    "Steam Cloud",
+    "Stats",
+    "Steam Leaderboards",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 67,
+  "review_positive": 60,
+  "review_percentage": 89.6,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 67,
+      "review_percentage": 89.6,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 67,
+      "review_percentage": 89.6,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

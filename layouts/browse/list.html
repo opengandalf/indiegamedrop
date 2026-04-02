@@ -1,0 +1,701 @@
+{{ define "main" }}
+<div class="browse-page">
+  <div class="hero-section" style="padding: 2rem 1rem 1.5rem;">
+    <h1>Browse Games</h1>
+    <p class="tagline" id="browse-status">Loading game database...</p>
+  </div>
+
+  <!-- Search & Filters -->
+  <div class="browse-controls">
+    <!-- Search — always visible -->
+    <div class="search-box">
+      <input type="text" id="search-input" placeholder="Search games, developers, tags..."
+             autocomplete="off" spellcheck="false">
+    </div>
+
+    <!-- Mobile filter toggle -->
+    <div class="filter-toggle-row">
+      <button class="filter-toggle-btn" id="filter-toggle-btn" aria-expanded="false">
+        <span id="filter-toggle-label">Filters</span>
+      </button>
+    </div>
+
+    <!-- Filter panel (collapsible on mobile) -->
+    <div class="filter-panel" id="filter-panel">
+      <div class="filter-row">
+        <select id="genre-filter">
+          <option value="">All Genres</option>
+        </select>
+        <select id="platform-filter">
+          <option value="">All Platforms</option>
+          <option value="windows">Windows</option>
+          <option value="mac">Mac</option>
+          <option value="linux">Linux</option>
+        </select>
+        <select id="sort-filter">
+          <option value="review_count DESC">Most Reviewed</option>
+          <option value="review_percentage DESC">Highest Rated</option>
+          <option value="gem_score DESC">Hidden Gem Score</option>
+          <option value="rising_score DESC">Rising Score</option>
+          <option value="price_usd ASC">Price: Low → High</option>
+          <option value="price_usd DESC">Price: High → Low</option>
+          <option value="owner_estimate DESC">Most Owners</option>
+          <option value="release_date DESC">Newest First</option>
+          <option value="release_date ASC">Oldest First</option>
+          <option value="name ASC">Name A-Z</option>
+        </select>
+        <select id="review-count-filter">
+          <option value="">Any Review Count</option>
+          <optgroup label="Ranges">
+            <option value="1000000-*">1M+ (Mega Hits)</option>
+            <option value="100000-1000000">100K – 1M (Blockbusters)</option>
+            <option value="10000-100000">10K – 100K (Popular)</option>
+            <option value="1000-10000">1K – 10K (Established)</option>
+            <option value="100-1000">100 – 1K (Growing)</option>
+            <option value="10-100">10 – 100 (New / Niche)</option>
+            <option value="0-10">Under 10 (Buried Gems)</option>
+          </optgroup>
+          <optgroup label="Minimum">
+            <option value="10000-*">10K+</option>
+            <option value="1000-*">1K+</option>
+            <option value="100-*">100+</option>
+            <option value="10-*">10+</option>
+          </optgroup>
+        </select>
+        <select id="rating-filter">
+          <option value="">Any Rating</option>
+          <optgroup label="Ranges">
+            <option value="95-*">95%+ (Overwhelmingly Positive)</option>
+            <option value="90-95">90 – 95% (Very Positive)</option>
+            <option value="80-90">80 – 90% (Positive)</option>
+            <option value="70-80">70 – 80% (Mostly Positive)</option>
+            <option value="50-70">50 – 70% (Mixed)</option>
+            <option value="0-50">Under 50% (Negative)</option>
+          </optgroup>
+          <optgroup label="Minimum">
+            <option value="90-*">90%+</option>
+            <option value="80-*">80%+</option>
+            <option value="70-*">70%+</option>
+          </optgroup>
+        </select>
+        <select id="price-filter">
+          <option value="">Any Price</option>
+          <optgroup label="Ranges">
+            <option value="0-0">Free to Play</option>
+            <option value="0.01-2">$0.01 – $2</option>
+            <option value="2-5">$2 – $5</option>
+            <option value="5-10">$5 – $10</option>
+            <option value="10-20">$10 – $20</option>
+            <option value="20-30">$20 – $30</option>
+            <option value="30-*">$30+</option>
+          </optgroup>
+          <optgroup label="Maximum">
+            <option value="0-5">Under $5</option>
+            <option value="0-10">Under $10</option>
+            <option value="0-20">Under $20</option>
+          </optgroup>
+        </select>
+        <select id="owner-filter">
+          <option value="">Any Player Count</option>
+          <optgroup label="Ranges">
+            <option value="10000000-*">10M+ (Mainstream)</option>
+            <option value="1000000-10000000">1M – 10M (Big Hits)</option>
+            <option value="100000-1000000">100K – 1M (Solid Base)</option>
+            <option value="10000-100000">10K – 100K (Growing)</option>
+            <option value="1000-10000">1K – 10K (Niche)</option>
+            <option value="0-1000">Under 1K (Undiscovered)</option>
+          </optgroup>
+          <optgroup label="Minimum">
+            <option value="1000000-*">1M+</option>
+            <option value="100000-*">100K+</option>
+            <option value="10000-*">10K+</option>
+            <option value="1000-*">1K+</option>
+          </optgroup>
+        </select>
+        <select id="release-filter">
+          <option value="">Any Release Date</option>
+          <optgroup label="Recent">
+            <option value="last30">Last 30 Days</option>
+            <option value="last90">Last 90 Days</option>
+            <option value="last180">Last 6 Months</option>
+            <option value="last365">Last Year</option>
+          </optgroup>
+          <optgroup label="Year">
+            <option value="2026-01-01-2027-01-01">2026</option>
+            <option value="2025-01-01-2026-01-01">2025</option>
+            <option value="2024-01-01-2025-01-01">2024</option>
+            <option value="2023-01-01-2024-01-01">2023</option>
+            <option value="2022-01-01-2023-01-01">2022</option>
+          </optgroup>
+          <optgroup label="Era">
+            <option value="2020-01-01-2025-01-01">2020s (2020–2024)</option>
+            <option value="2015-01-01-2020-01-01">Late 2010s (2015–2019)</option>
+            <option value="2010-01-01-2015-01-01">Early 2010s (2010–2014)</option>
+            <option value="*-2010-01-01">Before 2010 (Classics)</option>
+          </optgroup>
+        </select>
+        <button id="clear-filters" class="tag-filter-btn" style="min-width: auto;">✕ Clear All</button>
+      </div>
+    </div>
+
+    <!-- Active filter chips -->
+    <div class="active-filters" id="active-filters"></div>
+  </div>
+
+  <!-- Results -->
+  <div class="browse-results-info">
+    <span id="result-count"></span>
+    <div class="pagination-controls" id="pagination-top"></div>
+  </div>
+
+  <div class="game-grid" id="browse-grid"></div>
+
+  <div class="browse-results-info">
+    <span></span>
+    <div class="pagination-controls" id="pagination-bottom"></div>
+  </div>
+
+  <div class="empty-state" id="no-results" style="display:none;">
+    <h3>No games found</h3>
+    <p>Try adjusting your search or filters.</p>
+  </div>
+</div>
+
+<!-- sql.js from CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.10.3/sql-wasm.js"></script>
+
+<script>
+/* ========================================================================
+ * Browse Page — Client-side SQLite search & filter
+ *
+ * Sections:
+ *   1. State & Config
+ *   2. Initialization (initBrowse)
+ *   3. Genre Dropdown (populateGenres)
+ *   4. Query Builder (runQuery, applyRangeFilter)
+ *   5. URL parameter sync (syncToURL, restoreFromURL)
+ *   6. Active filter chips (renderFilterChips)
+ *   7. Mobile filter toggle (setupFilterToggle)
+ *   8. Rendering (renderResults, formatOwners)
+ *   9. Pagination (renderPagination, goToPage)
+ * ======================================================================== */
+
+/* ── 1. State & Config ── */
+const baseURL = {{ .Site.BaseURL }};
+const ITEMS_PER_PAGE = 24;
+let db = null;
+let currentPage = 1;
+let totalResults = 0;
+let searchTimeout = null;
+
+// All filter element IDs and their URL param names
+const FILTER_MAP = [
+  { id: 'genre-filter',        param: 'genre'    },
+  { id: 'sort-filter',         param: 'sort'     },
+  { id: 'price-filter',        param: 'price'    },
+  { id: 'rating-filter',       param: 'rating'   },
+  { id: 'review-count-filter', param: 'reviews'  },
+  { id: 'owner-filter',        param: 'owners'   },
+  { id: 'release-filter',      param: 'release'  },
+  { id: 'platform-filter',     param: 'platform' },
+];
+
+/* ── 2. Initialization ── */
+async function initBrowse() {
+  try {
+    const SQL = await initSqlJs({
+      locateFile: file => `https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.10.3/${file}`
+    });
+
+    // Fetch compressed DB
+    const statusEl = document.getElementById('browse-status');
+    statusEl.textContent = 'Downloading game database...';
+
+    const response = await fetch(baseURL + 'data/browse.db.gz');
+    if (!response.ok) throw new Error('Failed to load database');
+
+    const compressed = await response.arrayBuffer();
+    statusEl.textContent = 'Decompressing...';
+
+    // Decompress gzip
+    const ds = new DecompressionStream('gzip');
+    const decompressed = new Response(
+      new Blob([compressed]).stream().pipeThrough(ds)
+    ).arrayBuffer();
+    const dbData = new Uint8Array(await decompressed);
+
+    db = new SQL.Database(dbData);
+    statusEl.textContent = 'Ready!';
+
+    // Populate genre dropdown
+    populateGenres();
+
+    // Restore filters from URL before first query
+    restoreFromURL();
+
+    // Initial load
+    runQuery();
+
+    // Event listeners
+    document.getElementById('search-input').addEventListener('input', () => {
+      clearTimeout(searchTimeout);
+      searchTimeout = setTimeout(() => { currentPage = 1; runQuery(); syncToURL(); }, 300);
+    });
+
+    FILTER_MAP.forEach(({ id }) => {
+      document.getElementById(id).addEventListener('change', () => {
+        currentPage = 1;
+        runQuery();
+        syncToURL();
+      });
+    });
+
+    document.getElementById('clear-filters').addEventListener('click', clearAllFilters);
+
+    setupFilterToggle();
+
+    // Fade out status after a moment
+    setTimeout(() => { statusEl.style.opacity = '0.5'; }, 2000);
+
+  } catch (err) {
+    console.error('Browse init error:', err);
+    document.getElementById('browse-status').textContent =
+      'Failed to load database. Try refreshing.';
+  }
+}
+
+function clearAllFilters() {
+  document.getElementById('search-input').value = '';
+  FILTER_MAP.forEach(({ id }) => { document.getElementById(id).selectedIndex = 0; });
+  currentPage = 1;
+  runQuery();
+  syncToURL();
+}
+
+/* ── 3. Genre Dropdown ── */
+function populateGenres() {
+  if (!db) return;
+  const genres = new Set();
+  const rows = db.exec("SELECT tags FROM games WHERE tags != ''");
+  if (rows.length > 0) {
+    rows[0].values.forEach(row => {
+      try {
+        const tags = JSON.parse(row[0]);
+        if (Array.isArray(tags)) tags.forEach(t => genres.add(String(t)));
+      } catch(e) {}
+    });
+  }
+
+  const select = document.getElementById('genre-filter');
+  const sorted = [...genres].sort();
+  sorted.forEach(genre => {
+    const opt = document.createElement('option');
+    opt.value = genre;
+    opt.textContent = genre;
+    select.appendChild(opt);
+  });
+}
+
+/* ── 4. Query Builder ── */
+
+/**
+ * Return today's ISO date string offset by -days, e.g. dateOffset(30) → "2025-02-22"
+ */
+function dateOffset(days) {
+  const d = new Date();
+  d.setDate(d.getDate() - days);
+  return d.toISOString().slice(0, 10);
+}
+
+function runQuery() {
+  if (!db) return;
+
+  const search     = document.getElementById('search-input').value.trim();
+  const genre      = document.getElementById('genre-filter').value;
+  const sort       = document.getElementById('sort-filter').value;
+  const priceFilter   = document.getElementById('price-filter').value;
+  const ratingFilter  = document.getElementById('rating-filter').value;
+  const reviewFilter  = document.getElementById('review-count-filter').value;
+  const ownerFilter   = document.getElementById('owner-filter').value;
+  const releaseFilter = document.getElementById('release-filter').value;
+  const platform   = document.getElementById('platform-filter').value;
+
+  let where = [];
+  let params = [];
+
+  // Search using LIKE (FTS5 not available in CDN sql.js)
+  if (search) {
+    const terms = search.split(/\s+/).filter(t => t.length > 0);
+    terms.forEach(term => {
+      where.push("(name LIKE ? COLLATE NOCASE OR developer LIKE ? COLLATE NOCASE OR tags LIKE ? COLLATE NOCASE)");
+      const pat = '%' + term + '%';
+      params.push(pat, pat, pat);
+    });
+  }
+
+  // Genre/tag filter
+  if (genre) {
+    where.push("tags LIKE ?");
+    params.push('%"' + genre + '"%');
+  }
+
+  // Platform filter — platforms column is a JSON array e.g. ["windows","mac"]
+  if (platform) {
+    where.push("platforms LIKE ?");
+    params.push('%"' + platform + '"%');
+  }
+
+  /**
+   * Unified range filter helper.
+   * Value format: "min-max" where * = unbounded.
+   * Examples: "10-100", "1000-*", "*-2010", "0-0" (exact match).
+   */
+  function applyRangeFilter(value, column, opts) {
+    if (!value) return;
+    const parts = value.split('-');
+    const lo = parts[0];
+    const hi = parts.slice(1).join('-'); // Handle negative or multi-dash
+
+    if (lo === '*' && hi !== '*') {
+      where.push(`${column} < ?`);
+      params.push(parseFloat(hi));
+    } else if (hi === '*') {
+      where.push(`${column} >= ?`);
+      params.push(parseFloat(lo));
+    } else if (lo === hi) {
+      where.push(`${column} = ?`);
+      params.push(parseFloat(lo));
+    } else {
+      where.push(`${column} >= ? AND ${column} < ?`);
+      params.push(parseFloat(lo), parseFloat(hi));
+    }
+
+    if (opts && opts.minReviews) {
+      where.push("review_count >= 10");
+    }
+  }
+
+  applyRangeFilter(priceFilter,  'price_usd');
+  applyRangeFilter(ratingFilter, 'review_percentage', { minReviews: true });
+  applyRangeFilter(reviewFilter, 'review_count');
+  applyRangeFilter(ownerFilter,  'owner_estimate');
+
+  // Release date filter — ISO string comparison now works correctly
+  if (releaseFilter) {
+    // Handle relative "last N days" values
+    const relativeMap = {
+      last30:  dateOffset(30),
+      last90:  dateOffset(90),
+      last180: dateOffset(180),
+      last365: dateOffset(365),
+    };
+    if (relativeMap[releaseFilter]) {
+      where.push("release_date >= ? AND release_date != ''");
+      params.push(relativeMap[releaseFilter]);
+    } else {
+      // Format: "YYYY-MM-DD-YYYY-MM-DD" for ranges, or "*-YYYY-MM-DD" for upper-only
+      // Values like "2025-01-01-2026-01-01" or "*-2010-01-01"
+      const rfVal = releaseFilter;
+      if (rfVal.startsWith('*-')) {
+        const hi = rfVal.slice(2); // "2010-01-01"
+        where.push("release_date < ? AND release_date != ''");
+        params.push(hi);
+      } else {
+        // Split on the 11th char boundary: "YYYY-MM-DD-YYYY-MM-DD"
+        // lo is first 10 chars, hi is chars 11+
+        const lo = rfVal.slice(0, 10);
+        const hi = rfVal.slice(11);
+        if (hi) {
+          where.push("release_date >= ? AND release_date < ? AND release_date != ''");
+          params.push(lo, hi);
+        } else {
+          where.push("release_date >= ? AND release_date != ''");
+          params.push(lo);
+        }
+      }
+    }
+  }
+
+  const whereStr = where.length > 0 ? 'WHERE ' + where.join(' AND ') : '';
+
+  // Count total
+  try {
+    const countSQL = `SELECT COUNT(*) FROM games ${whereStr}`;
+    const countResult = db.exec(countSQL, params);
+    totalResults = countResult.length > 0 ? countResult[0].values[0][0] : 0;
+  } catch(e) {
+    console.error('Count error:', e);
+    totalResults = 0;
+  }
+
+  // Fetch page
+  const offset = (currentPage - 1) * ITEMS_PER_PAGE;
+  const querySQL = `SELECT * FROM games ${whereStr}
+                    ORDER BY ${sort} LIMIT ${ITEMS_PER_PAGE} OFFSET ${offset}`;
+
+  let results = [];
+  try {
+    const stmt = db.prepare(querySQL);
+    if (params.length > 0) stmt.bind(params);
+    while (stmt.step()) {
+      const row = stmt.getAsObject();
+      results.push(row);
+    }
+    stmt.free();
+  } catch(e) {
+    console.error('Query error:', e);
+  }
+
+  renderResults(results);
+  renderPagination();
+  renderFilterChips();
+
+  document.getElementById('result-count').textContent =
+    `${totalResults.toLocaleString('en-GB')} games found`;
+  document.getElementById('no-results').style.display =
+    totalResults === 0 ? '' : 'none';
+}
+
+/* ── 5. URL Parameter Sync ── */
+
+/** Push current filter state into URL query string (no page reload). */
+function syncToURL() {
+  const params = new URLSearchParams();
+  const search = document.getElementById('search-input').value.trim();
+  if (search) params.set('q', search);
+
+  FILTER_MAP.forEach(({ id, param }) => {
+    const el = document.getElementById(id);
+    const val = el.value;
+    // Don't persist default "sort" to keep URLs clean unless non-default
+    if (val && !(id === 'sort-filter' && el.selectedIndex === 0)) {
+      params.set(param, val);
+    }
+  });
+
+  const qs = params.toString();
+  const newURL = window.location.pathname + (qs ? '?' + qs : '');
+  history.replaceState(null, '', newURL);
+}
+
+/** Read URL params and restore filter values before first query. */
+function restoreFromURL() {
+  const params = new URLSearchParams(window.location.search);
+
+  const search = params.get('q');
+  if (search) document.getElementById('search-input').value = search;
+
+  FILTER_MAP.forEach(({ id, param }) => {
+    const val = params.get(param);
+    if (!val) return;
+    const el = document.getElementById(id);
+    // Try to select the matching option
+    for (let i = 0; i < el.options.length; i++) {
+      if (el.options[i].value === val) {
+        el.selectedIndex = i;
+        break;
+      }
+    }
+  });
+}
+
+/* ── 6. Active Filter Chips ── */
+
+/** Human-readable labels for filter select values. */
+function getFilterLabel(id, value) {
+  const el = document.getElementById(id);
+  if (!el) return value;
+  for (let i = 0; i < el.options.length; i++) {
+    if (el.options[i].value === value) return el.options[i].text;
+  }
+  // Relative date labels
+  const relLabels = { last30: 'Last 30 Days', last90: 'Last 90 Days',
+                      last180: 'Last 6 Months', last365: 'Last Year' };
+  return relLabels[value] || value;
+}
+
+/** Render chips for active filters below the search bar and update toggle button. */
+function renderFilterChips() {
+  const container = document.getElementById('active-filters');
+  const chips = [];
+
+  const search = document.getElementById('search-input').value.trim();
+  if (search) {
+    chips.push({ label: `"${search}"`, clear: () => {
+      document.getElementById('search-input').value = '';
+      currentPage = 1; runQuery(); syncToURL();
+    }});
+  }
+
+  FILTER_MAP.forEach(({ id, param }) => {
+    if (id === 'sort-filter') return; // Sort is not an "active filter" chip
+    const el = document.getElementById(id);
+    const val = el.value;
+    if (!val) return;
+    const label = getFilterLabel(id, val);
+    chips.push({ label, clear: () => {
+      el.selectedIndex = 0;
+      currentPage = 1; runQuery(); syncToURL();
+    }});
+  });
+
+  container.innerHTML = chips.map((chip, i) =>
+    `<span class="filter-chip">${chip.label} <button class="chip-remove" data-chip="${i}" aria-label="Remove filter">✕</button></span>`
+  ).join('');
+
+  // Attach click handlers
+  container.querySelectorAll('.chip-remove').forEach(btn => {
+    btn.addEventListener('click', () => { chips[parseInt(btn.dataset.chip)].clear(); });
+  });
+
+  // Update toggle button active count (exclude search from count for button label)
+  const activeCount = FILTER_MAP.filter(({ id }) => {
+    if (id === 'sort-filter') return false;
+    return !!document.getElementById(id).value;
+  }).length;
+
+  const toggleLabel = document.getElementById('filter-toggle-label');
+  if (toggleLabel) {
+    toggleLabel.textContent = activeCount > 0 ? `Filters (${activeCount} active)` : 'Filters';
+  }
+
+  const btn = document.getElementById('filter-toggle-btn');
+  if (btn) btn.classList.toggle('has-active', activeCount > 0);
+}
+
+/* ── 7. Mobile Filter Toggle ── */
+
+function setupFilterToggle() {
+  const btn = document.getElementById('filter-toggle-btn');
+  const panel = document.getElementById('filter-panel');
+  if (!btn || !panel) return;
+
+  function applyToggleState(open) {
+    btn.setAttribute('aria-expanded', String(open));
+    panel.classList.toggle('filter-panel--open', open);
+  }
+
+  btn.addEventListener('click', () => {
+    const open = btn.getAttribute('aria-expanded') !== 'true';
+    applyToggleState(open);
+  });
+
+  // On desktop (≥768px) always show panel — handled via CSS, but also set state
+  const mq = window.matchMedia('(min-width: 768px)');
+  function onResize(e) {
+    if (e.matches) {
+      // Desktop: ensure panel is accessible (CSS handles visibility)
+      btn.setAttribute('aria-expanded', 'true');
+    } else {
+      // Mobile: default collapsed unless already open
+      if (btn.getAttribute('aria-expanded') !== 'true') {
+        panel.classList.remove('filter-panel--open');
+      }
+    }
+  }
+  mq.addEventListener('change', onResize);
+  onResize(mq);
+}
+
+/* ── 8. Rendering ── */
+
+/** Format owner count with K/M suffix. */
+function formatOwners(n) {
+  if (n >= 1000000) return (n / 1000000).toFixed(1).replace(/\.0$/, '') + 'M';
+  if (n >= 1000) return (n / 1000).toFixed(0) + 'K';
+  return n.toLocaleString('en-GB');
+}
+
+/** Format ISO date string to human-readable "Nov 2000" style. */
+function formatDate(iso) {
+  if (!iso) return '';
+  try {
+    const d = new Date(iso + 'T00:00:00Z');
+    return d.toLocaleDateString('en-GB', { month: 'short', year: 'numeric', timeZone: 'UTC' });
+  } catch(e) { return iso; }
+}
+
+function renderResults(games) {
+  const grid = document.getElementById('browse-grid');
+  grid.innerHTML = games.map(g => {
+    const reviewClass = g.review_percentage >= 90 ? 'positive'
+      : g.review_percentage >= 70 ? 'mixed' : 'negative';
+    const priceStr = g.price_usd > 0 ? `$${g.price_usd.toFixed(2)}` : 'Free';
+    const imgUrl = g.header_image_url ||
+      `https://cdn.akamai.steamstatic.com/steam/apps/${g.steam_app_id}/header.jpg`;
+
+    let tags = '';
+    try {
+      const tagList = JSON.parse(g.tags || '[]');
+      if (Array.isArray(tagList)) {
+        tags = tagList.slice(0, 3).map(t =>
+          `<span class="tag">${t}</span>`
+        ).join('');
+      }
+    } catch(e) {}
+
+    const releaseDateStr = formatDate(g.release_date);
+
+    return `
+      <a href="${baseURL}game/?slug=${g.slug}" class="game-card-link">
+        <div class="game-card">
+          <img src="${imgUrl}" alt="${g.name}"
+               onerror="this.style.display='none'" loading="lazy">
+          <div class="card-body">
+            <div class="card-title">${g.name}</div>
+            ${g.developer ? `<div class="card-developer">${g.developer}</div>` : ''}
+            <div class="card-meta">
+              <span class="review-score ${reviewClass}">
+                ${g.review_percentage.toFixed(0)}%</span>
+              <span>${g.review_count.toLocaleString('en-GB')} reviews</span>
+              <span>${priceStr}</span>
+              ${g.owner_estimate > 0 ? `<span>${formatOwners(g.owner_estimate)} owners</span>` : ''}
+            </div>
+            <div class="tags">${tags}</div>
+            ${releaseDateStr ? `<div class="card-release-date">${releaseDateStr}</div>` : ''}
+          </div>
+        </div>
+      </a>`;
+  }).join('');
+}
+
+/* ── 9. Pagination ── */
+function renderPagination() {
+  const totalPages = Math.ceil(totalResults / ITEMS_PER_PAGE);
+  if (totalPages <= 1) {
+    document.getElementById('pagination-top').innerHTML = '';
+    document.getElementById('pagination-bottom').innerHTML = '';
+    return;
+  }
+
+  let pages = [];
+  const range = 2;
+  for (let i = 1; i <= totalPages; i++) {
+    if (i === 1 || i === totalPages ||
+        (i >= currentPage - range && i <= currentPage + range)) {
+      pages.push(i);
+    } else if (pages[pages.length - 1] !== '...') {
+      pages.push('...');
+    }
+  }
+
+  const html = pages.map(p => {
+    if (p === '...') return '<span class="page-dots">...</span>';
+    const active = p === currentPage ? ' active' : '';
+    return `<button class="page-btn${active}" onclick="goToPage(${p})">${p}</button>`;
+  }).join('');
+
+  document.getElementById('pagination-top').innerHTML = html;
+  document.getElementById('pagination-bottom').innerHTML = html;
+}
+
+function goToPage(page) {
+  currentPage = page;
+  runQuery();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+// Start
+document.addEventListener('DOMContentLoaded', initBrowse);
+</script>
+{{ end }}

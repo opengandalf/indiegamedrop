@@ -1,0 +1,65 @@
+{
+  "steam_app_id": 1171220,
+  "name": "RPG Maker MV Tools - Database ConVerter MV",
+  "slug": "rpg-maker-mv-tools-database-converter-mv",
+  "developer": "Gotcha Gotcha Games, KADOKAWA",
+  "publisher": "Gotcha Gotcha Games",
+  "release_date": "Nov 5, 2019",
+  "price_usd": 0.0,
+  "genres": [
+    "Utilities"
+  ],
+  "tags": [
+    "Utilities"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "RPG Maker MV Tool Database Converter MV is a support application to export/import databases of RPG Maker MV into various database formats including Excel and CSV.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1171220/header.jpg?t=1755498080",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1171220/ss_53a354d9360d849fde07bdb4f966d6fc7667eb2e.600x338.jpg?t=1755498080",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1171220/ss_c8623e395865053d2c5a04e84d84837745c259ca.600x338.jpg?t=1755498080",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1171220/ss_0ffe14bafd4d2bb8832833619e38a09bb0bf9150.600x338.jpg?t=1755498080",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1171220/ss_da8fb3b7f34304ea2f0cac099c1bab91002a098a.600x338.jpg?t=1755498080",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1171220/ss_2e4c213cd31d93fe53db5354d254b84686c0ac28.600x338.jpg?t=1755498080"
+  ],
+  "detailed_description": "<p class=\"bb_paragraph\" >This software is a support application to exchange databases of RPG Maker MV and RPG Maker MZ into Excel or </p><p class=\"bb_paragraph\" >CSV format.</p><p class=\"bb_paragraph\" >It can write RPG Maker's database and events into datasheets for Excel or CSV, and read</p><p class=\"bb_paragraph\" >them. You can use this software for purposes such as below:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Parameter adjustment to give an overview of database</p></li><li><p class=\"bb_paragraph\" >Edit database and events efficiently and with high flexibility by using formula, format and</p></li><li><p class=\"bb_paragraph\" >Macro</p></li><li><p class=\"bb_paragraph\" >Port data or events to other project</p></li></ul><p class=\"bb_paragraph\" >2. Output Object Data listed below:</p><p class=\"bb_paragraph\" >●Database:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Input / output existing database. The file name is Database.</p></li><li><p class=\"bb_paragraph\" >Extension will be applied to fit the output format.</p></li><li><p class=\"bb_paragraph\" >Tileset and common event do no apply. Independently defined data (referred to from the script)</p></li><li><p class=\"bb_paragraph\" >can be input / output as well.</p></li></ul><p class=\"bb_paragraph\" >●Common Event:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Input / output executed contents of common event,</p></li><li><p class=\"bb_paragraph\" >The file name is CommonEvents.</p></li></ul><p class=\"bb_paragraph\" >●Map Event:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Input / output executed contents of map event.</p></li><li><p class=\"bb_paragraph\" >The file name is MapXXX.</p></li><li><p class=\"bb_paragraph\" >Event ID and Event Page will be output in sheet name</p></li></ul>",
+  "about_the_game": "<p class=\"bb_paragraph\" >This software is a support application to exchange databases of RPG Maker MV and RPG Maker MZ into Excel or </p><p class=\"bb_paragraph\" >CSV format.</p><p class=\"bb_paragraph\" >It can write RPG Maker's database and events into datasheets for Excel or CSV, and read</p><p class=\"bb_paragraph\" >them. You can use this software for purposes such as below:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Parameter adjustment to give an overview of database</p></li><li><p class=\"bb_paragraph\" >Edit database and events efficiently and with high flexibility by using formula, format and</p></li><li><p class=\"bb_paragraph\" >Macro</p></li><li><p class=\"bb_paragraph\" >Port data or events to other project</p></li></ul><p class=\"bb_paragraph\" >2. Output Object Data listed below:</p><p class=\"bb_paragraph\" >●Database:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Input / output existing database. The file name is Database.</p></li><li><p class=\"bb_paragraph\" >Extension will be applied to fit the output format.</p></li><li><p class=\"bb_paragraph\" >Tileset and common event do no apply. Independently defined data (referred to from the script)</p></li><li><p class=\"bb_paragraph\" >can be input / output as well.</p></li></ul><p class=\"bb_paragraph\" >●Common Event:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Input / output executed contents of common event,</p></li><li><p class=\"bb_paragraph\" >The file name is CommonEvents.</p></li></ul><p class=\"bb_paragraph\" >●Map Event:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Input / output executed contents of map event.</p></li><li><p class=\"bb_paragraph\" >The file name is MapXXX.</p></li><li><p class=\"bb_paragraph\" >Event ID and Event Page will be output in sheet name</p></li></ul>",
+  "supported_languages": "English, Japanese",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 24,
+  "review_positive": 23,
+  "review_percentage": 95.8,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 19,
+      "review_percentage": 94.7,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-24",
+      "review_count": 24,
+      "review_percentage": 95.8,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

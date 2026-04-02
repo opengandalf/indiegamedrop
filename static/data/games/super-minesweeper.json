@@ -1,0 +1,80 @@
+{
+  "steam_app_id": 3093310,
+  "name": "Super MineSweeper",
+  "slug": "super-minesweeper",
+  "developer": "听金宗骨",
+  "publisher": "听金宗骨",
+  "release_date": "Aug 6, 2024",
+  "price_usd": 1.99,
+  "genres": [
+    "Casual",
+    "Indie",
+    "Racing",
+    "Simulation",
+    "Strategy"
+  ],
+  "tags": [
+    "Casual",
+    "Indie",
+    "Racing",
+    "Simulation",
+    "Strategy"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "On the basis of MineSweeper, sight range and stones are introduced to solve the dead-end situation of traditional MineSweeper. There are fifty levels from simple to difficult. In the fiftieth level, there are many grids of 6, 7, and 8, but there must be a solution. Global racing rankings.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3093310/header.jpg?t=1724975003",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3093310/ss_0bab24f722807d544f39257ddaf14046ee31c6f5.600x338.jpg?t=1724975003",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3093310/ss_482f08fb02e6bed6e7b89e28e3adcfc2163d4d1f.600x338.jpg?t=1724975003",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3093310/ss_36ef0d98282456febb0396993d34570ca797e33e.600x338.jpg?t=1724975003",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3093310/ss_3c5f5b0ec1955c96f3ad9b1d9b0e26a31b905b07.600x338.jpg?t=1724975003",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3093310/ss_4ed69f14cafc3c5a5d26c7e7c7688b9f678efe36.600x338.jpg?t=1724975003",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3093310/ss_1bd61535c2da97113a89468ee16e5c7f48a86590.600x338.jpg?t=1724975003"
+  ],
+  "detailed_description": "Q: What should I do after entering the game?<br />\r\nAnswer: Try clicking on the grid. Be careful not to hit the mines.<br />\r\n<br />\r\nQ: How do I know if a square is a mine?<br />\r\nAnswer: When you click on a grid, it will display a number indicating the number of mines within a 3*3 range. Based on these numbers you can calculate which tile has a mine.<br />\r\nOnce you determine that a grid is a mine, you can right-click on that grid to put a flag on that grid to remind yourself that it is a mine.<br />\r\n<br />\r\nQuestion: What is a stone?<br />\r\nAnswer: Stones cannot be clicked. Nothing works, it just sits there quietly.<br />\r\n<br />\r\nQ: What is sight distance?<br />\r\nAnswer: When you turn on sight range 2, the number displayed in the grid will be the number of 5*5 mines, not 3*3.<br />\r\nWhen you turn on sight distance 3, it will be 7*7.",
+  "about_the_game": "Q: What should I do after entering the game?<br />\r\nAnswer: Try clicking on the grid. Be careful not to hit the mines.<br />\r\n<br />\r\nQ: How do I know if a square is a mine?<br />\r\nAnswer: When you click on a grid, it will display a number indicating the number of mines within a 3*3 range. Based on these numbers you can calculate which tile has a mine.<br />\r\nOnce you determine that a grid is a mine, you can right-click on that grid to put a flag on that grid to remind yourself that it is a mine.<br />\r\n<br />\r\nQuestion: What is a stone?<br />\r\nAnswer: Stones cannot be clicked. Nothing works, it just sits there quietly.<br />\r\n<br />\r\nQ: What is sight distance?<br />\r\nAnswer: When you turn on sight range 2, the number displayed in the grid will be the number of 5*5 mines, not 3*3.<br />\r\nWhen you turn on sight distance 3, it will be 7*7.",
+  "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "Co-op",
+    "Online Co-op",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 2,
+  "review_positive": 2,
+  "review_percentage": 100.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 2,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-26",
+      "review_count": 2,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

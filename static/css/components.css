@@ -1,0 +1,457 @@
+/* ── Components: cards, chips, buttons, progress bars, badges, tags ───────── */
+
+/* Game Cards */
+.game-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.game-card {
+  background: var(--igdrop-card-bg);
+  border: 1px solid var(--igdrop-border);
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.2s, border-color 0.2s;
+}
+
+.game-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--igdrop-accent);
+  box-shadow: 0 8px 24px rgba(78,205,196,0.12);
+}
+
+.game-card img {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+}
+
+.game-card .card-body {
+  padding: 1rem;
+}
+
+.game-card .card-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #fff;
+  margin: 0 0 0.5rem 0;
+}
+
+.game-card .card-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.game-card .review-score {
+  font-weight: 600;
+}
+
+.game-card .review-score.positive {
+  color: var(--igdrop-green);
+}
+
+.game-card .review-score.mixed {
+  color: #d29922;
+}
+
+.game-card .review-score.negative {
+  color: var(--igdrop-red);
+}
+
+.game-card .change-indicator {
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.game-card .change-indicator.up {
+  color: var(--igdrop-green);
+}
+
+.game-card .change-indicator.down {
+  color: var(--igdrop-red);
+}
+
+.game-card .tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+  margin-top: 0.5rem;
+}
+
+.game-card .tag {
+  background: rgba(78, 205, 196, 0.12);
+  color: var(--igdrop-accent);
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  border: 1px solid rgba(78, 205, 196, 0.2);
+}
+
+/* Game card release date */
+.card-release-date {
+  font-size: 0.72rem;
+  color: var(--igdrop-muted);
+  margin-top: 0.4rem;
+  opacity: 0.7;
+}
+
+/* Game card developer */
+.card-developer {
+  font-size: 0.78rem;
+  color: var(--igdrop-muted);
+  margin-bottom: 0.3rem;
+  opacity: 0.7;
+}
+
+/* Game card link wrapper */
+.game-card-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.game-card-link:hover .game-card {
+  transform: translateY(-3px);
+  border-color: var(--igdrop-accent);
+  box-shadow: 0 8px 24px rgba(78,205,196,0.12);
+}
+
+/* Stats Bar */
+.stats-bar {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background: var(--igdrop-card-bg);
+  border: 1px solid var(--igdrop-border);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  gap: 1rem;
+}
+
+.stat-item {
+  text-align: center;
+}
+
+.stat-link {
+  text-decoration: none;
+  color: inherit;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  transition: background 0.2s, transform 0.15s;
+  cursor: pointer;
+}
+
+.stat-link:hover {
+  background: rgba(78, 205, 196, 0.08);
+  transform: translateY(-2px);
+}
+
+.stat-link:hover .stat-label {
+  color: var(--igdrop-accent);
+}
+
+.stat-value {
+  font-size: 1.8rem;
+  font-weight: 700;
+  background: var(--igdrop-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  display: block;
+}
+
+.stat-label {
+  font-size: 0.85rem;
+  color: var(--igdrop-muted);
+}
+
+/* Filters */
+.filters-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background: var(--igdrop-card-bg);
+  border: 1px solid var(--igdrop-border);
+  border-radius: 8px;
+}
+
+.filters-bar select,
+.filters-bar input {
+  background: var(--igdrop-bg);
+  color: var(--igdrop-text);
+  border: 1px solid var(--igdrop-border);
+  border-radius: 4px;
+  padding: 0.4rem 0.8rem;
+  font-size: 0.9rem;
+}
+
+.filters-bar select:focus,
+.filters-bar input:focus {
+  border-color: var(--igdrop-accent);
+  outline: none;
+}
+
+/* Featured Card (Hidden Gem of the Day) */
+.featured-card {
+  background: var(--igdrop-gradient-subtle);
+  border: 1px solid var(--igdrop-border);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  display: flex;
+  gap: 1.5rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.featured-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 2px;
+  background: var(--igdrop-gradient);
+}
+
+.featured-card-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.featured-card-link:hover .featured-card {
+  border-color: var(--igdrop-accent);
+  box-shadow: 0 8px 24px rgba(78,205,196,0.12);
+  transform: translateY(-2px);
+}
+
+.featured-card-link h3 {
+  color: #fff;
+}
+
+.featured-card-link p {
+  color: var(--igdrop-text);
+}
+
+.featured-card img {
+  width: 300px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.featured-card .featured-content h3 {
+  color: #fff;
+  margin-top: 0;
+}
+
+/* Price tag */
+.price-tag {
+  font-weight: 600;
+  color: var(--igdrop-green);
+}
+
+.price-tag.free {
+  color: var(--igdrop-accent);
+}
+
+/* Buy links */
+.buy-links {
+  display: flex;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.buy-link {
+  display: inline-block;
+  background: var(--igdrop-gradient);
+  color: #fff !important;
+  padding: 0.6rem 1.5rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.buy-link:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 16px rgba(78,205,196,0.3);
+}
+
+/* Metacritic badge */
+.metacritic-section {
+  margin: 1rem 0;
+}
+
+.metacritic-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  font-weight: 600;
+}
+
+.metacritic-high {
+  background: var(--igdrop-green);
+  color: #fff;
+}
+
+.metacritic-mid {
+  background: #d4a017;
+  color: #fff;
+}
+
+.metacritic-low {
+  background: var(--igdrop-red);
+  color: #fff;
+}
+
+.metacritic-score {
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+.metacritic-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  opacity: 0.9;
+}
+
+/* Category badges */
+.category-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 1rem 0;
+}
+
+.category-badge {
+  display: inline-block;
+  background: var(--igdrop-card-bg);
+  border: 1px solid var(--igdrop-border);
+  color: var(--igdrop-text-secondary);
+  padding: 0.25rem 0.6rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+}
+
+/* Tag filter buttons */
+.tag-filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.5rem 0;
+  padding: 1rem;
+  background: var(--igdrop-card-bg);
+  border: 1px solid var(--igdrop-border);
+  border-radius: 8px;
+}
+
+.tag-filter-btn {
+  background: transparent;
+  color: var(--igdrop-muted);
+  border: 1px solid var(--igdrop-border);
+  border-radius: 20px;
+  padding: 0.35rem 1rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.tag-filter-btn:hover {
+  border-color: var(--igdrop-accent);
+  color: var(--igdrop-accent);
+}
+
+.tag-filter-btn.active {
+  background: var(--igdrop-gradient);
+  color: #fff;
+  border-color: transparent;
+}
+
+/* Pagination */
+.pagination-controls {
+  display: flex;
+  gap: 0.3rem;
+  align-items: center;
+}
+
+.page-btn {
+  background: var(--igdrop-card-bg);
+  border: 1px solid var(--igdrop-border);
+  color: var(--igdrop-text);
+  padding: 0.3rem 0.7rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  transition: all 0.2s;
+}
+
+.page-btn:hover {
+  border-color: var(--igdrop-accent);
+  color: var(--igdrop-accent);
+}
+
+.page-btn.active {
+  background: var(--igdrop-gradient);
+  color: #fff;
+  border-color: transparent;
+}
+
+.page-dots {
+  color: var(--igdrop-muted);
+  padding: 0 0.3rem;
+}
+
+/* Analysis Box */
+.analysis-box {
+  background: var(--igdrop-card-bg);
+  border-left: 3px solid;
+  border-image: var(--igdrop-gradient) 1;
+  border-radius: 0 8px 8px 0;
+  padding: 1.5rem;
+  margin: 2rem 0;
+}
+
+.analysis-box h3 {
+  margin-top: 0;
+  background: var(--igdrop-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Sparkline Canvas */
+.sparkline-container {
+  display: inline-block;
+  vertical-align: middle;
+  width: 60px;
+  height: 20px;
+}
+
+/* Steam button */
+.btn-steam {
+  display: inline-block;
+  background: var(--igdrop-gradient);
+  color: #fff;
+  padding: 0.6rem 1.5rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: opacity 0.2s;
+}
+
+.btn-steam:hover { opacity: 0.85; }
+
+/* Empty message */
+.empty-msg {
+  color: var(--igdrop-muted);
+  text-align: center;
+  padding: 2rem;
+}

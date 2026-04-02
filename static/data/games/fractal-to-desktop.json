@@ -1,0 +1,65 @@
+{
+  "steam_app_id": 942770,
+  "name": "Fractal To Desktop",
+  "slug": "fractal-to-desktop",
+  "developer": "Shirom Makkad",
+  "publisher": "Shirom Makkad",
+  "release_date": "Oct 11, 2018",
+  "price_usd": 4.99,
+  "genres": [
+    "Utilities"
+  ],
+  "tags": [
+    "Utilities"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Fractal To Destop allows you to render Fractals live onto your desktop. Fractals are \"never-ending patterns that are infinitely complex. Driven by recursion, fractals are images of dynamic systems – the pictures of chaos.\"",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/942770/header.jpg?t=1539262775",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/942770/ss_1d61a5b6dfd230b7acbdc533c4812a995c80a629.600x338.jpg?t=1539262775",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/942770/ss_53e5b136467a8ebbd37a603b766319200795d770.600x338.jpg?t=1539262775",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/942770/ss_909e1b0cb837f1403a8bcc832ecf50339f1a6ef0.600x338.jpg?t=1539262775",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/942770/ss_5bcef765b939e706a3cf6e1a608c933e5e84a67e.600x338.jpg?t=1539262775",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/942770/ss_1c28af8415bc5c67a8beaafedb702f1a0f2f555b.600x338.jpg?t=1539262775"
+  ],
+  "detailed_description": "Note: Despite performance improvements, this program takes a significant portion of your CPU power. However, it will limit itself when you're running other applications. <br><br>Fractal To Desktop allows you to render Fractals live onto your desktop. The Fractal Foundation describes Fractals as \"never-ending patterns that are infinitely complex. Driven by recursion, fractals are images of dynamic systems – the pictures of chaos.\" Just watch the video above to get a sense of the beauty of Fractals.<h2 class=\"bb_tag\" >Performance</h2>The video you saw above took 6 months on 12 cores running 24/7 to render. The algorithms in the video shown are simply too slow for live rendering. Fractal To Desktop can render live render fractals using only one core, albeit with a much slower zoom speed. It does this with the introduction of new math utilizing Perturbation Theory and Series Approximation making rendering up to 100,000x times faster!<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li>Create Custom Gradients<br></li><li>Zooms to 2^1024. That's the equivalent of zooming from the size of the universe down to an atom 8.5 times!<br></li><li>Zooms up to 100,000x faster than normal rendering methods<br></li><li>Automatically pause the renderer when you have a fullscreen application (like another game) open<br></li><li>Automatically pauses on battery<br></li><li>Includes an algorithm that generates random interesting points to zoom to. When you use Fractal To Desktop, you're looking at part of the Mandelbrot Set that nobody has even seen before!<br></li><li>Unlike many other Fractal programs, you don't have to worry about the math at all, just sit back and enjoy the Fractals. </li></ul>",
+  "about_the_game": "Note: Despite performance improvements, this program takes a significant portion of your CPU power. However, it will limit itself when you're running other applications. <br><br>Fractal To Desktop allows you to render Fractals live onto your desktop. The Fractal Foundation describes Fractals as \"never-ending patterns that are infinitely complex. Driven by recursion, fractals are images of dynamic systems – the pictures of chaos.\" Just watch the video above to get a sense of the beauty of Fractals.<h2 class=\"bb_tag\" >Performance</h2>The video you saw above took 6 months on 12 cores running 24/7 to render. The algorithms in the video shown are simply too slow for live rendering. Fractal To Desktop can render live render fractals using only one core, albeit with a much slower zoom speed. It does this with the introduction of new math utilizing Perturbation Theory and Series Approximation making rendering up to 100,000x times faster!<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li>Create Custom Gradients<br></li><li>Zooms to 2^1024. That's the equivalent of zooming from the size of the universe down to an atom 8.5 times!<br></li><li>Zooms up to 100,000x faster than normal rendering methods<br></li><li>Automatically pause the renderer when you have a fullscreen application (like another game) open<br></li><li>Automatically pauses on battery<br></li><li>Includes an algorithm that generates random interesting points to zoom to. When you use Fractal To Desktop, you're looking at part of the Mandelbrot Set that nobody has even seen before!<br></li><li>Unlike many other Fractal programs, you don't have to worry about the math at all, just sit back and enjoy the Fractals. </li></ul>",
+  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 6,
+  "review_positive": 1,
+  "review_percentage": 16.7,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 6,
+      "review_percentage": 16.7,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-23",
+      "review_count": 6,
+      "review_percentage": 16.7,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

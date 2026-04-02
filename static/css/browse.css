@@ -1,0 +1,182 @@
+/* ── Browse Page: search, filters, game grid, results ────────────────────── */
+
+.browse-controls {
+  margin: 1.5rem 0;
+}
+
+/* ── Search Box ── */
+.search-box {
+  margin-bottom: 0.5rem;
+}
+
+.search-box input {
+  width: 100%;
+  padding: 0.8rem 1.2rem;
+  background: var(--igdrop-card-bg);
+  border: 2px solid var(--igdrop-border);
+  border-radius: 8px;
+  color: var(--igdrop-text);
+  font-size: 1.1rem;
+  transition: border-color 0.2s;
+  box-sizing: border-box;
+}
+
+.search-box input:focus {
+  outline: none;
+  border-color: var(--igdrop-accent);
+}
+
+.search-box input::placeholder {
+  color: var(--igdrop-muted);
+}
+
+/* ── Mobile Filter Toggle ── */
+.filter-toggle-row {
+  display: none; /* hidden on desktop — shown via media query */
+  margin-top: 0.5rem;
+}
+
+.filter-toggle-btn {
+  width: 100%;
+  padding: 0.6rem 1rem;
+  background: var(--igdrop-card-bg);
+  border: 1px solid var(--igdrop-border);
+  border-radius: 6px;
+  color: var(--igdrop-text);
+  font-size: 0.95rem;
+  cursor: pointer;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: border-color 0.2s, background 0.2s;
+}
+
+.filter-toggle-btn::after {
+  content: '\25BE'; /* ▾ */
+  margin-left: auto;
+  font-size: 0.85rem;
+  transition: transform 0.2s;
+}
+
+.filter-toggle-btn[aria-expanded="true"]::after {
+  transform: rotate(180deg);
+}
+
+.filter-toggle-btn.has-active {
+  border-color: var(--igdrop-accent);
+  color: var(--igdrop-accent);
+}
+
+/* ── Filter Panel ── */
+/* Desktop: always visible, no transition needed */
+.filter-panel {}
+
+.filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 0.75rem;
+}
+
+.filter-row select {
+  flex: 1;
+  min-width: 140px;
+  padding: 0.5rem 0.8rem;
+  background: var(--igdrop-card-bg);
+  border: 1px solid var(--igdrop-border);
+  border-radius: 6px;
+  color: var(--igdrop-text);
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.filter-row select:focus {
+  border-color: var(--igdrop-accent);
+  outline: none;
+}
+
+/* ── Active Filter Chips ── */
+.active-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.6rem;
+}
+
+.active-filters:empty {
+  margin-top: 0;
+}
+
+.filter-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.25rem 0.65rem;
+  background: color-mix(in srgb, var(--igdrop-accent) 15%, transparent);
+  border: 1px solid color-mix(in srgb, var(--igdrop-accent) 40%, transparent);
+  border-radius: 20px;
+  font-size: 0.8rem;
+  color: var(--igdrop-text);
+  white-space: nowrap;
+}
+
+.chip-remove {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--igdrop-muted);
+  font-size: 0.75rem;
+  padding: 0;
+  line-height: 1;
+  transition: color 0.15s;
+}
+
+.chip-remove:hover {
+  color: var(--igdrop-accent);
+}
+
+/* ── Results Info ── */
+.browse-results-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 0;
+  color: var(--igdrop-muted);
+  font-size: 0.9rem;
+}
+
+/* ── Mobile (< 768px) ── */
+@media (max-width: 767px) {
+  /* Show the toggle button row */
+  .filter-toggle-row {
+    display: block;
+  }
+
+  /* Collapse filter panel by default */
+  .filter-panel {
+    overflow: hidden;
+    max-height: 0;
+    opacity: 0;
+    transition: max-height 0.3s ease, opacity 0.2s ease;
+    pointer-events: none;
+  }
+
+  /* Expanded state */
+  .filter-panel.filter-panel--open {
+    max-height: 1200px;
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  /* Stack selects vertically */
+  .filter-row {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .filter-row select {
+    min-width: 0;
+    width: 100%;
+  }
+}

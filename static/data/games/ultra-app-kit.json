@@ -1,0 +1,70 @@
+{
+  "steam_app_id": 1512210,
+  "name": "Ultra App Kit",
+  "slug": "ultra-app-kit",
+  "developer": "Leadwerks Software",
+  "publisher": "Leadwerks Software",
+  "release_date": "Apr 30, 2021",
+  "price_usd": 0.0,
+  "genres": [
+    "Game Development"
+  ],
+  "tags": [
+    "Game Development"
+  ],
+  "platforms": [
+    "windows",
+    "mac",
+    "linux"
+  ],
+  "short_description": "Built to power a new generation of game development tools, Ultra App Kit provides an easy-to-use C++ programming SDK for creating cross-platform desktop GUI applications. Learn from extensive documentation with hundreds of examples.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512210/header.jpg?t=1750191811",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512210/ss_f0a2b0e8b1f06ac5cc8997a00b6948162360ec60.600x338.jpg?t=1750191811",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512210/ss_2a6c1611d50ee905c23cd480127592e08efc6544.600x338.jpg?t=1750191811",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512210/ss_1d7bdedccece25796c428121ef4d3d549da152ac.600x338.jpg?t=1750191811",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512210/ss_87322890329765cfb85f5f8c9fe2ba8350c3f3b1.600x338.jpg?t=1750191811",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512210/ss_1353618e22f054714451b4352a98aec27855dcd9.600x338.jpg?t=1750191811",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512210/ss_b505a028a76ce093869c4df81297f2653cc345b0.600x338.jpg?t=1750191811",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512210/ss_a93943f0e6de3ddbfb6bfd77bdd914909dd32471.600x338.jpg?t=1750191811",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512210/ss_d66abe6351303e771670c22c82c47c1ba3561297.600x338.jpg?t=1750191811"
+  ],
+  "detailed_description": "Built to power a new generation of game development tools, Ultra App Kit provides an easy-to-use C++ programming SDK for creating cross-platform desktop GUI applications. Learn from extensive documentation with hundreds of examples. Integrate a 3D engine or OpenGL rendering for embedded 3D graphics.<h2 class=\"bb_tag\" >Make it Snappy</h2>Unlike other alternatives like ImGui, Ultra App Kit draws using <i>retained mode</i> instead of <i>immediate mode</i>. This makes resizing windows and interacting with screen elements fast and responsive, even with the most complex interfaces.<h2 class=\"bb_tag\" >Pixel-Perfect Pixels on any Screen</h2>DPI scaling is baked into the core of our design, for a beautiful clean appearance at any resolution.<h2 class=\"bb_tag\" >Small and Efficient</h2>Ultra App Kit runs with no extra dependencies and produces tiny executables (usually less than one megabyte after UPX compression) that start up and exit instantly.<h2 class=\"bb_tag\" >Code Once, Compile Everywhere</h2>Ultra App Kit now supports Windows, Linux, and macOS, so you can build beautiful applications that run everywhere and include native support for Apple Silicon.<h2 class=\"bb_tag\" >API Design</h2><ul class=\"bb_ul\"><li>Smart pointers everywhere makes C++ programming about as easy as C#<br></li><li>Extensible widgets system<br></li><li>Extensive documentation with examples for each command</li></ul><h2 class=\"bb_tag\" >UI Features</h2><ul class=\"bb_ul\"><li>Resolution-independent for any DPI scale<br></li><li>Load SVG vector images<br></li><li>Set widget icons<br></li><li>Change mouse cursor<br></li><li>Custom color schemes stored in JSON files</li></ul><h2 class=\"bb_tag\" >Supported Widgets</h2><ul class=\"bb_ul\"><li>Label<br></li><li>Button (push, checkbox, radio, and toggle styles)<br></li><li>ProgressBar<br></li><li>TextField<br></li><li>TextArea<br></li><li>ComboBox<br></li><li>ListBox<br></li><li>Slider (scrollbar, trackbar, and stepper styles)<br></li><li>Draggable multi-select TreeView<br></li><li>Create your own custom widgets</li></ul><h2 class=\"bb_tag\" >Additional Features</h2><ul class=\"bb_ul\"><li>File I/O<br></li><li>File system watcher<br></li><li>Memory allocation and management<br></li><li>Image loading, saving, processing<br></li><li>Plugin system<br></li><li>Thread management<br></li><li>String manipulation (split, search, conversion, etc.)<br></li><li>Message boxes and file / folder requester</li></ul>",
+  "about_the_game": "Built to power a new generation of game development tools, Ultra App Kit provides an easy-to-use C++ programming SDK for creating cross-platform desktop GUI applications. Learn from extensive documentation with hundreds of examples. Integrate a 3D engine or OpenGL rendering for embedded 3D graphics.<h2 class=\"bb_tag\" >Make it Snappy</h2>Unlike other alternatives like ImGui, Ultra App Kit draws using <i>retained mode</i> instead of <i>immediate mode</i>. This makes resizing windows and interacting with screen elements fast and responsive, even with the most complex interfaces.<h2 class=\"bb_tag\" >Pixel-Perfect Pixels on any Screen</h2>DPI scaling is baked into the core of our design, for a beautiful clean appearance at any resolution.<h2 class=\"bb_tag\" >Small and Efficient</h2>Ultra App Kit runs with no extra dependencies and produces tiny executables (usually less than one megabyte after UPX compression) that start up and exit instantly.<h2 class=\"bb_tag\" >Code Once, Compile Everywhere</h2>Ultra App Kit now supports Windows, Linux, and macOS, so you can build beautiful applications that run everywhere and include native support for Apple Silicon.<h2 class=\"bb_tag\" >API Design</h2><ul class=\"bb_ul\"><li>Smart pointers everywhere makes C++ programming about as easy as C#<br></li><li>Extensible widgets system<br></li><li>Extensive documentation with examples for each command</li></ul><h2 class=\"bb_tag\" >UI Features</h2><ul class=\"bb_ul\"><li>Resolution-independent for any DPI scale<br></li><li>Load SVG vector images<br></li><li>Set widget icons<br></li><li>Change mouse cursor<br></li><li>Custom color schemes stored in JSON files</li></ul><h2 class=\"bb_tag\" >Supported Widgets</h2><ul class=\"bb_ul\"><li>Label<br></li><li>Button (push, checkbox, radio, and toggle styles)<br></li><li>ProgressBar<br></li><li>TextField<br></li><li>TextArea<br></li><li>ComboBox<br></li><li>ListBox<br></li><li>Slider (scrollbar, trackbar, and stepper styles)<br></li><li>Draggable multi-select TreeView<br></li><li>Create your own custom widgets</li></ul><h2 class=\"bb_tag\" >Additional Features</h2><ul class=\"bb_ul\"><li>File I/O<br></li><li>File system watcher<br></li><li>Memory allocation and management<br></li><li>Image loading, saving, processing<br></li><li>Plugin system<br></li><li>Thread management<br></li><li>String manipulation (split, search, conversion, etc.)<br></li><li>Message boxes and file / folder requester</li></ul>",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 30,
+  "review_positive": 20,
+  "review_percentage": 66.7,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 28,
+      "review_percentage": 67.9,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-24",
+      "review_count": 30,
+      "review_percentage": 66.7,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

@@ -1,0 +1,73 @@
+{
+  "steam_app_id": 1325730,
+  "name": "Keysight",
+  "slug": "keysight",
+  "developer": "Jack Sweet",
+  "publisher": "Jack Sweet",
+  "release_date": "Jun 30, 2020",
+  "price_usd": 20.99,
+  "genres": [
+    "Design & Illustration",
+    "Video Production"
+  ],
+  "tags": [
+    "Design & Illustration",
+    "Video Production"
+  ],
+  "platforms": [
+    "windows",
+    "mac"
+  ],
+  "short_description": "Keysight is a real-time MIDI visualization platform powered by Unreal Engine, built for piano-focused streamers and content creators, and featuring unmatched customization!",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325730/header.jpg?t=1754417084",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325730/ss_e3f3b9f615a3f0c8fdd3d1978b22890f8be03e24.600x338.jpg?t=1754417084",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325730/ss_f0a6f92377dfa18553feae5681625135752f4387.600x338.jpg?t=1754417084",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325730/ss_5e1556efac8a95477cd8880195efd7f8024ee6ef.600x338.jpg?t=1754417084",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325730/ss_44e9a3a3ccd9e7269f6e59853eb1a4e3377d8074.600x338.jpg?t=1754417084",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325730/ss_73f645c85eb997835178c8b99902b55f5ebcded1.600x338.jpg?t=1754417084",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325730/ss_51fc577b293adfc475cafc82d53119f85b43fb1c.600x338.jpg?t=1754417084",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325730/ss_7541a8747fce56251f178c73379cd0bbe1de556e.600x338.jpg?t=1754417084"
+  ],
+  "detailed_description": "<p class=\"bb_paragraph\" >'Keysight' is an Unreal Engine powered real-time MIDI visualization platform aimed at piano-focused video creators and streamers. It aims to provide the most comprehensive, configurable and feature-rich set of visualization options in a single piece of software.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325730/extras/f20f1d2777c75400db31cd3b998d482d.poster.avif?t=1754417084\" width=616 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325730/extras/f20f1d2777c75400db31cd3b998d482d.webm?t=1754417084\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325730/extras/f20f1d2777c75400db31cd3b998d482d.mp4?t=1754417084\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><i>Please be aware that this program is purely a visualizer for content creation, and <strong>does not produce sound.</strong> Keysight is not a virtual instrument or learning tool.</i></p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Render-to-video</strong><br>Export your MIDI files to perfect quality .MP4 video files. Supports audio file down-mixing, branding image overlays, and any resolution / aspect ratio / framerate.</p></li><li><p class=\"bb_paragraph\" ><strong>Customization</strong><br>Configure everything down to the finest detail and make your own truly unique visual style, complete with custom image support. No effect is mandatory; add some simple glowing edges to your midi roll or go wild with hue-shifting backgrounds, millions of particles, GIFs and light bars.</p></li><li><p class=\"bb_paragraph\" ><strong>Sharing</strong><br>Presets can be imported and exported, with any attached custom images, to a single .KSpreset file. Access the incredible creativity of the community in just three clicks.</p></li><li><p class=\"bb_paragraph\" ><strong>Augmented reality</strong><br>Keysight is fully 3D and accurately modelled. Freely position the camera and enable semi-transparency to achieve \"magic piano\" style AR visuals; no image-based 3D warps necessary.</p></li><li><p class=\"bb_paragraph\" ><strong>Remote control</strong><br>Use websocket connections to remotely automate preset changes, camera angle switches, or a number of other actions. Take live-stream chat interaction to another level with chat-controlled visualization. <i>(Requires implementation on the part of the user. See Steam guides.)</i></p></li><li><p class=\"bb_paragraph\" ><strong>Randomizer</strong><br>Generate new visual styles in a single button press with the randomizer. Tune the generation to your needs with 96 configurable chance branches and the ability to re-roll specific effects within a preset.</p></li><li><p class=\"bb_paragraph\" ><strong>Simulation</strong><br>Bring out every detail in your music with rich simulation. Every effect can be altered in intensity with note velocity, particles can be blown around by note activity, and all three pedals contribute to activity calculation.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325730/extras/c110a8564f41eee65ec7d8e095b210e2.poster.avif?t=1754417084\" width=616 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325730/extras/c110a8564f41eee65ec7d8e095b210e2.webm?t=1754417084\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325730/extras/c110a8564f41eee65ec7d8e095b210e2.mp4?t=1754417084\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >A note from the developer</h2><p class=\"bb_paragraph\" >Hello! My name is Jack (although I typically go by Egglyberts) and I'm the sole developer for Keysight. I began playing with MIDI integration in Unreal Engine 4 back in June 2019, and then Keysight development began in earnest in January 2020 at the request of a few streamer friends. It released on Steam on June 30th that same year, and evolved substantially over the next four years into what it is today!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >While originally targeted at streaming, Keysight has now grown into a powerful, flexible MIDI visualization tool that can serve many purposes. If you're looking for some inspiration, check out a myriad of community creations over in the very active Official Discord! (See link at the side of this store page). The Discord is also a great place to get help if you have any questions; I will often answer questions within minutes (or, in the worst case, within a day). </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Finally, if you happen to be a serious content creator: <strong>I do offer a paid service to build custom Keysight implementations to your specification</strong> (more information available in the Community Hub discussions). To be clear, this is not aimed at the overwhelming majority of users! Keysight is a fixed price, and it's yours to use for any content creation you desire. No subscription, no in-app purchases, no DLC. But for those \"time is money\" folks out there, I am here to help!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >PS., if you're interested, give the demo a go! The only demo restriction is that 50% of note-on events are dropped at random; all features are present and anything created in the demo carries over into the full version.</p>",
+  "about_the_game": "<p class=\"bb_paragraph\" >'Keysight' is an Unreal Engine powered real-time MIDI visualization platform aimed at piano-focused video creators and streamers. It aims to provide the most comprehensive, configurable and feature-rich set of visualization options in a single piece of software.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325730/extras/f20f1d2777c75400db31cd3b998d482d.poster.avif?t=1754417084\" width=616 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325730/extras/f20f1d2777c75400db31cd3b998d482d.webm?t=1754417084\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325730/extras/f20f1d2777c75400db31cd3b998d482d.mp4?t=1754417084\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><i>Please be aware that this program is purely a visualizer for content creation, and <strong>does not produce sound.</strong> Keysight is not a virtual instrument or learning tool.</i></p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Render-to-video</strong><br>Export your MIDI files to perfect quality .MP4 video files. Supports audio file down-mixing, branding image overlays, and any resolution / aspect ratio / framerate.</p></li><li><p class=\"bb_paragraph\" ><strong>Customization</strong><br>Configure everything down to the finest detail and make your own truly unique visual style, complete with custom image support. No effect is mandatory; add some simple glowing edges to your midi roll or go wild with hue-shifting backgrounds, millions of particles, GIFs and light bars.</p></li><li><p class=\"bb_paragraph\" ><strong>Sharing</strong><br>Presets can be imported and exported, with any attached custom images, to a single .KSpreset file. Access the incredible creativity of the community in just three clicks.</p></li><li><p class=\"bb_paragraph\" ><strong>Augmented reality</strong><br>Keysight is fully 3D and accurately modelled. Freely position the camera and enable semi-transparency to achieve \"magic piano\" style AR visuals; no image-based 3D warps necessary.</p></li><li><p class=\"bb_paragraph\" ><strong>Remote control</strong><br>Use websocket connections to remotely automate preset changes, camera angle switches, or a number of other actions. Take live-stream chat interaction to another level with chat-controlled visualization. <i>(Requires implementation on the part of the user. See Steam guides.)</i></p></li><li><p class=\"bb_paragraph\" ><strong>Randomizer</strong><br>Generate new visual styles in a single button press with the randomizer. Tune the generation to your needs with 96 configurable chance branches and the ability to re-roll specific effects within a preset.</p></li><li><p class=\"bb_paragraph\" ><strong>Simulation</strong><br>Bring out every detail in your music with rich simulation. Every effect can be altered in intensity with note velocity, particles can be blown around by note activity, and all three pedals contribute to activity calculation.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325730/extras/c110a8564f41eee65ec7d8e095b210e2.poster.avif?t=1754417084\" width=616 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325730/extras/c110a8564f41eee65ec7d8e095b210e2.webm?t=1754417084\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325730/extras/c110a8564f41eee65ec7d8e095b210e2.mp4?t=1754417084\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >A note from the developer</h2><p class=\"bb_paragraph\" >Hello! My name is Jack (although I typically go by Egglyberts) and I'm the sole developer for Keysight. I began playing with MIDI integration in Unreal Engine 4 back in June 2019, and then Keysight development began in earnest in January 2020 at the request of a few streamer friends. It released on Steam on June 30th that same year, and evolved substantially over the next four years into what it is today!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >While originally targeted at streaming, Keysight has now grown into a powerful, flexible MIDI visualization tool that can serve many purposes. If you're looking for some inspiration, check out a myriad of community creations over in the very active Official Discord! (See link at the side of this store page). The Discord is also a great place to get help if you have any questions; I will often answer questions within minutes (or, in the worst case, within a day). </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Finally, if you happen to be a serious content creator: <strong>I do offer a paid service to build custom Keysight implementations to your specification</strong> (more information available in the Community Hub discussions). To be clear, this is not aimed at the overwhelming majority of users! Keysight is a fixed price, and it's yours to use for any content creation you desire. No subscription, no in-app purchases, no DLC. But for those \"time is money\" folks out there, I am here to help!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >PS., if you're interested, give the demo a go! The only demo restriction is that 50% of note-on events are dropped at random; all features are present and anything created in the demo carries over into the full version.</p>",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Partial Controller Support",
+    "Steam Cloud"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 102,
+  "review_positive": 97,
+  "review_percentage": 95.1,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 84,
+      "review_percentage": 95.2,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-24",
+      "review_count": 102,
+      "review_percentage": 95.1,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

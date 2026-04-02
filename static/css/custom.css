@@ -1,0 +1,23 @@
+/* IndieGameDrop Custom Theme
+   Brand palette from logo: teal→cyan→blue→purple gradient
+   Dark navy background, pixel/retro gaming aesthetic
+
+   Split into modular CSS files:
+   - base.css       — CSS variables, reset, body, typography
+   - layout.css     — Container, grid, nav, header, footer, hero
+   - components.css — Cards, chips, buttons, progress bars, badges
+   - browse.css     — Browse page specific (filters, search, game grid)
+   - game.css       — Game profile page specific
+   - articles.css   — Articles grid and single article pages
+   - charts.css     — Chart containers and sparklines
+   - mobile.css     — All @media queries consolidated
+*/
+
+@import url("base.css?v=20260322b");
+@import url("layout.css?v=20260322b");
+@import url("components.css?v=20260322b");
+@import url("browse.css?v=20260322b");
+@import url("game.css?v=20260322b");
+@import url("articles.css?v=20260322b");
+@import url("charts.css?v=20260322b");
+@import url("mobile.css?v=20260322b");

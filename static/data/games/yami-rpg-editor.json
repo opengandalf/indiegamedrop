@@ -1,0 +1,76 @@
+{
+  "steam_app_id": 1964480,
+  "name": "Yami RPG Editor",
+  "slug": "yami-rpg-editor",
+  "developer": "Yami Sama",
+  "publisher": "Yami Sama",
+  "release_date": "Dec 8, 2022",
+  "price_usd": 26.99,
+  "genres": [
+    "Action",
+    "Indie",
+    "RPG"
+  ],
+  "tags": [
+    "Action",
+    "Indie",
+    "RPG"
+  ],
+  "platforms": [
+    "windows",
+    "mac"
+  ],
+  "short_description": "A flexible, high-performance 2D game creation tool that supports low-code development and advanced scripting.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964480/header.jpg?t=1763646129",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964480/ss_1c1fd73d96218efc88c74fd1d5b43c3ae2d633cf.600x338.jpg?t=1763646129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964480/ss_b7acd5d70006daa7a0224db23b8cf46ed8b78786.600x338.jpg?t=1763646129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964480/ss_49fd2a24e9da79700f5c437131f568f41c181120.600x338.jpg?t=1763646129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964480/ss_325a3859a007b714fc61ae5e15589bdc86522065.600x338.jpg?t=1763646129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964480/ss_47f422ae003808787ca2c82a733c03c53c1fc361.600x338.jpg?t=1763646129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964480/ss_4478be8ff5cb3397090d0cf122c30ea8a290705f.600x338.jpg?t=1763646129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964480/ss_68fe58dd512c9cd269ccd9d2b890c7b4d0e94156.600x338.jpg?t=1763646129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964480/ss_82f9fd9040c54af3e258a28edf55a51ddacf2e9e.600x338.jpg?t=1763646129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1964480/ss_2e41beee3089a084eb0c2587a5a400b8f876944c.600x338.jpg?t=1763646129"
+  ],
+  "detailed_description": "<p class=\"bb_paragraph\" >A tool for creating games that can handle large numbers of on-screen units. Games can run on PC, mobile, and the web.  </p><h2 class=\"bb_tag\" >Scene Editor</h2><p class=\"bb_paragraph\" >Supports various tile sizes (16–256px). Add actors, regions, lights, animations, particles, parallax images, and tile maps. Includes a built-in 2D lighting system. </p><h2 class=\"bb_tag\" >UI Editor</h2><p class=\"bb_paragraph\" >Design UI layouts and interactions visually. </p><h2 class=\"bb_tag\" >Animation Editor</h2><p class=\"bb_paragraph\" >Create frame-by-frame and particle animations. Supports paper doll and multi-directional animations (1, 2, 4, 8 directions).  </p><h2 class=\"bb_tag\" >Particle Editor</h2><p class=\"bb_paragraph\" >Simple and easy to use; create particle effects for weather, skills, and more.<br>  </p><h2 class=\"bb_tag\" >Custom Attributes</h2><p class=\"bb_paragraph\" >Add custom attributes to actors, skills, states, equipment, and items. Implement functionality via events or scripts.  </p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >High-performance; supports low-code development and TypeScript for game scripting</p></li><li><p class=\"bb_paragraph\" >Open-source on GitHub</p></li></ul><h2 class=\"bb_tag\" >Games Released on Steam</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Border Pioneer - 2346410</p></li><li><p class=\"bb_paragraph\" >Journey to the West Survivor - 2450100</p></li><li><p class=\"bb_paragraph\" >What a Shitty Job - 3278480</p></li><li><p class=\"bb_paragraph\" >Moka Future - 1779760</p></li></ul><h2 class=\"bb_tag\" >Other</h2><p class=\"bb_paragraph\" >The author is currently developing a Unity game and rarely updates this editor.</p>",
+  "about_the_game": "<p class=\"bb_paragraph\" >A tool for creating games that can handle large numbers of on-screen units. Games can run on PC, mobile, and the web.  </p><h2 class=\"bb_tag\" >Scene Editor</h2><p class=\"bb_paragraph\" >Supports various tile sizes (16–256px). Add actors, regions, lights, animations, particles, parallax images, and tile maps. Includes a built-in 2D lighting system. </p><h2 class=\"bb_tag\" >UI Editor</h2><p class=\"bb_paragraph\" >Design UI layouts and interactions visually. </p><h2 class=\"bb_tag\" >Animation Editor</h2><p class=\"bb_paragraph\" >Create frame-by-frame and particle animations. Supports paper doll and multi-directional animations (1, 2, 4, 8 directions).  </p><h2 class=\"bb_tag\" >Particle Editor</h2><p class=\"bb_paragraph\" >Simple and easy to use; create particle effects for weather, skills, and more.<br>  </p><h2 class=\"bb_tag\" >Custom Attributes</h2><p class=\"bb_paragraph\" >Add custom attributes to actors, skills, states, equipment, and items. Implement functionality via events or scripts.  </p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >High-performance; supports low-code development and TypeScript for game scripting</p></li><li><p class=\"bb_paragraph\" >Open-source on GitHub</p></li></ul><h2 class=\"bb_tag\" >Games Released on Steam</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Border Pioneer - 2346410</p></li><li><p class=\"bb_paragraph\" >Journey to the West Survivor - 2450100</p></li><li><p class=\"bb_paragraph\" >What a Shitty Job - 3278480</p></li><li><p class=\"bb_paragraph\" >Moka Future - 1779760</p></li></ul><h2 class=\"bb_tag\" >Other</h2><p class=\"bb_paragraph\" >The author is currently developing a Unity game and rarely updates this editor.</p>",
+  "supported_languages": "English, Simplified Chinese, Russian, Traditional Chinese",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 4.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 63,
+  "review_positive": 55,
+  "review_percentage": 87.3,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 59,
+      "review_percentage": 88.1,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "review_count": 63,
+      "review_percentage": 87.3,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

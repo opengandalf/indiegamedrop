@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block title %}Logs{% endblock %}
+
+{% block content %}
+<h2>Pipeline Logs</h2>
+
+{% if log_error %}
+<div class="card" style="margin:1rem 0">
+    <p style="color:var(--danger)">{{ log_error }}</p>
+</div>
+{% elif name and content_lines %}
+<div class="card" style="margin:1rem 0">
+    <h3>{{ name }}-{{ date }}.log ({{ total_lines }} lines, showing last {{ [lines_limit, total_lines]|min }})</h3>
+    <pre style="margin-top:0.75rem;padding:1rem;background:var(--bg);border:1px solid var(--border);border-radius:4px;overflow-x:auto;font-size:0.8rem;line-height:1.5;max-height:600px;overflow-y:auto">{% for line in content_lines %}{% if line.level == 'error' %}<span style="color:var(--danger)">{{ line.text|e }}</span>{% elif line.level == 'warning' %}<span style="color:var(--warn)">{{ line.text|e }}</span>{% elif line.level == 'heading' %}<span style="color:var(--accent);font-weight:600">{{ line.text|e }}</span>{% else %}{{ line.text|e }}{% endif %}
+{% endfor %}</pre>
+</div>
+{% endif %}
+
+<h2>All Log Files</h2>
+<div style="overflow-x:auto">
+<table>
+    <thead><tr><th>File</th><th>Size</th><th>Last Modified</th></tr></thead>
+    <tbody>
+    {% if log_files %}
+        {% for lf in log_files %}
+        <tr {{ 'style="background:rgba(78,205,196,0.1)"' if lf.active else '' }}>
+            <td><a href="/logs?name={{ lf.log_name }}&date={{ lf.log_date }}">{{ lf.fname }}</a></td>
+            <td>{{ lf.size_str }}</td>
+            <td>{{ lf.mtime }}</td>
+        </tr>
+        {% endfor %}
+    {% else %}
+        <tr><td colspan="3" style="color:var(--muted)">No log files yet. Logs will appear after the next cron run.</td></tr>
+    {% endif %}
+    </tbody>
+</table>
+</div>
+{% endblock %}

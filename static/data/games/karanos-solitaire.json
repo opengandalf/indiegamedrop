@@ -1,0 +1,75 @@
+{
+  "steam_app_id": 1666090,
+  "name": "Karanos Solitaire",
+  "slug": "karanos-solitaire",
+  "developer": "Rokas",
+  "publisher": "Rokas",
+  "release_date": "Jul 15, 2021",
+  "price_usd": 2.99,
+  "genres": [
+    "Indie"
+  ],
+  "tags": [
+    "Indie"
+  ],
+  "platforms": [
+    "windows",
+    "mac",
+    "linux"
+  ],
+  "short_description": "Karanos Solitaire is a relaxing combo-building card game designed for short solo gameplay sessions.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666090/header.jpg?t=1664386645",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666090/ss_219e8cf639c3c2a50107139055f187f5cad7fbfb.600x338.jpg?t=1664386645",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666090/ss_9a72dec16da1f68ca114fb5fe1c3d1d84b94f322.600x338.jpg?t=1664386645",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666090/ss_180a218b4ae475a42c7be1296ac77c69785a3c6b.600x338.jpg?t=1664386645",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666090/ss_942ebc61239e0b6884783e80aed9e45ab5b0d2ce.600x338.jpg?t=1664386645",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666090/ss_e4de9d0a5439ab7596ea991caaacefc13146144f.600x338.jpg?t=1664386645",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666090/ss_77c6f50e9566de621f1268505c4bb11979add3da.600x338.jpg?t=1664386645",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666090/ss_4f6af5366704f2622b2f3367ad054c3aa1daa019.600x338.jpg?t=1664386645",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666090/ss_11813643bc2d800c311f8c71cf100fb98a36a615.600x338.jpg?t=1664386645"
+  ],
+  "detailed_description": "<h2 class=\"bb_tag\" >Karanos Solitaire</h2>Karanos Solitaire is a single-player card game using a traditional deck of cards with an original ruleset, built on grouping cards into best scoring combos. Playtime: 5 minutes per game.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Minimal interface<br></li><li> Relaxing gameplay<br></li><li> Many cardback options<br></li><li> Color themes</li></ul><h2 class=\"bb_tag\" >Rules</h2>You can play the game using your own deck of cards following the rules detailed below!<br><br><br><strong>Goal</strong><br>Your goal is to remove all cards from the game, scoring as many points as possible.<br><br><strong>Setup</strong><br><ol><li> Remove all face cards from the deck, leaving only aces and numerals. 40 cards in total.<br></li><li> Shuffle the deck, then reveal the top 3 cards placing them next to the deck. Like so:</li></ol><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666090/extras/712ed4584f12c200a01d82234ed6fb45.avif?t=1664386645\" width=616 height=320 /></span><br><br><strong>Available Actions</strong><br><ol><li> Move a card from the bot row to the top row, revealing top deck card into the bot row<br><ul class=\"bb_ul\">   <li> When the deck has one card left, flip it over, use it as a bottom row card</li></ul></li><li> Move a card from the top row to the back of the deck<br></li><li> Remove top row cards matching a valid combo (listed below) from the game<br></li><li> Remove a top row card from the game</li></ol><br><strong>Combos and Points</strong><br>When a combo is matched and the cards are removed from the game, you gain the number of points the combo is worth. The following are all possible game combos and their point values:<br><br><table>    <tr>        <th>Name</th>        <th>Matches</th>        <th>Value</th>    </tr>    <tr>        <td>Pair</td>        <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[A+A] or [2+2] or [3+3]..</td>        <td>2 points</td>    </tr>    <tr>        <td>Chain </td>        <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[1+2+3] or [2+3+4] .. or [9+10+A] or [10+A+2]</td>        <td>3 points</td>    </tr>    <tr>        <td>Flush</td>        <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀any 3 cards of the same suit</td>        <td>3 points</td>    </tr>    <tr>        <td>Royal </td>        <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀both chain and flush</td>        <td>7 points</td>    </tr>    <tr>        <td>Triple</td>        <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[A+A+A] or [2+2+2] or [3+3+3]..⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</td>        <td>8 points</td>    </tr></table><br>Additionally, whenever a single card is moved from the top row, your points are reduced by 1.<br>Furthermore, If all cards are used as a part of a combo, gain additional 11 points.<br><br><strong>Victory</strong><br>The game can be considered won if you score 40 points or more, but no reason to stop there!",
+  "about_the_game": "<h2 class=\"bb_tag\" >Karanos Solitaire</h2>Karanos Solitaire is a single-player card game using a traditional deck of cards with an original ruleset, built on grouping cards into best scoring combos. Playtime: 5 minutes per game.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Minimal interface<br></li><li> Relaxing gameplay<br></li><li> Many cardback options<br></li><li> Color themes</li></ul><h2 class=\"bb_tag\" >Rules</h2>You can play the game using your own deck of cards following the rules detailed below!<br><br><br><strong>Goal</strong><br>Your goal is to remove all cards from the game, scoring as many points as possible.<br><br><strong>Setup</strong><br><ol><li> Remove all face cards from the deck, leaving only aces and numerals. 40 cards in total.<br></li><li> Shuffle the deck, then reveal the top 3 cards placing them next to the deck. Like so:</li></ol><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666090/extras/712ed4584f12c200a01d82234ed6fb45.avif?t=1664386645\" width=616 height=320 /></span><br><br><strong>Available Actions</strong><br><ol><li> Move a card from the bot row to the top row, revealing top deck card into the bot row<br><ul class=\"bb_ul\">   <li> When the deck has one card left, flip it over, use it as a bottom row card</li></ul></li><li> Move a card from the top row to the back of the deck<br></li><li> Remove top row cards matching a valid combo (listed below) from the game<br></li><li> Remove a top row card from the game</li></ol><br><strong>Combos and Points</strong><br>When a combo is matched and the cards are removed from the game, you gain the number of points the combo is worth. The following are all possible game combos and their point values:<br><br><table>    <tr>        <th>Name</th>        <th>Matches</th>        <th>Value</th>    </tr>    <tr>        <td>Pair</td>        <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[A+A] or [2+2] or [3+3]..</td>        <td>2 points</td>    </tr>    <tr>        <td>Chain </td>        <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[1+2+3] or [2+3+4] .. or [9+10+A] or [10+A+2]</td>        <td>3 points</td>    </tr>    <tr>        <td>Flush</td>        <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀any 3 cards of the same suit</td>        <td>3 points</td>    </tr>    <tr>        <td>Royal </td>        <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀both chain and flush</td>        <td>7 points</td>    </tr>    <tr>        <td>Triple</td>        <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[A+A+A] or [2+2+2] or [3+3+3]..⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</td>        <td>8 points</td>    </tr></table><br>Additionally, whenever a single card is moved from the top row, your points are reduced by 1.<br>Furthermore, If all cards are used as a part of a combo, gain additional 11 points.<br><br><strong>Victory</strong><br>The game can be considered won if you score 40 points or more, but no reason to stop there!",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Steam Achievements",
+    "Steam Cloud",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 5,
+  "review_positive": 5,
+  "review_percentage": 100.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 5,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-24",
+      "review_count": 5,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

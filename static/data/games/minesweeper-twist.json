@@ -1,0 +1,74 @@
+{
+  "steam_app_id": 2715780,
+  "name": "Minesweeper Twist",
+  "slug": "minesweeper-twist",
+  "developer": "Guillaume Fradin",
+  "publisher": "Guillaume Fradin",
+  "release_date": "Feb 25, 2024",
+  "price_usd": 3.99,
+  "genres": [
+    "Casual",
+    "Indie",
+    "Strategy"
+  ],
+  "tags": [
+    "Casual",
+    "Indie",
+    "Strategy"
+  ],
+  "platforms": [
+    "windows",
+    "mac",
+    "linux"
+  ],
+  "short_description": "A variant of the classic game Minesweeper on an irregular grid, where each tile can have between 6 and 10 neighbors, leading to more challenging and mind-bending levels.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2715780/header.jpg?t=1724754639",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2715780/ss_c6aec8f2a3b2e8e25e970eda78f00148340f4095.600x338.jpg?t=1724754639",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2715780/ss_3a083421151dd04026bc39a1f1e40071d96e6361.600x338.jpg?t=1724754639",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2715780/ss_e99ce5f5d9a015b8481aac88e05e67a34f807ee3.600x338.jpg?t=1724754639",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2715780/ss_26ec92fe0287286bb559e0bb6b83c25990cfd043.600x338.jpg?t=1724754639",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2715780/ss_9eb1e9a9df5586e506a7f43e0428468f94edead7.600x338.jpg?t=1724754639"
+  ],
+  "detailed_description": "A variant of the classic game Minesweeper, where the grid is irregular. <br><br>On a regular grid, each cell has 8 neighbors, but in this case, they can have between 6 and 10. This leads to more difficult games, as you can't build the same mental tricks to solve where the mines are.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2715780/extras/d4a957f98655a945138cb4445dba3d22.avif?t=1724754639\" width=616 height=514 /></span><br><br>And the grid is procedural and unique on each game.<br><br>The game opens on beginner mode, with a small grid. You can change the difficulty to intermediate or expert, which will create larger grid. You also have a custom mode, where you can go crazy.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2715780/extras/7baa6ab3e201d92f290f842e8d8b5be7.avif?t=1724754639\" width=616 height=514 /></span><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2715780/extras/ecd2ca51d993bf93509b54891abd52b5.avif?t=1724754639\" width=616 height=514 /></span><br><br>Guarantied no luck involved, only logic: When a level is generated, a solver goes through it first, and tries to complete it using only the clues and number of mines remaining. If it gets stuck it, the level is updated accordingly, until the solver manages to complete it. This guaranties that when you start a level, you can always finish it yourself without having to rely on luck.",
+  "about_the_game": "A variant of the classic game Minesweeper, where the grid is irregular. <br><br>On a regular grid, each cell has 8 neighbors, but in this case, they can have between 6 and 10. This leads to more difficult games, as you can't build the same mental tricks to solve where the mines are.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2715780/extras/d4a957f98655a945138cb4445dba3d22.avif?t=1724754639\" width=616 height=514 /></span><br><br>And the grid is procedural and unique on each game.<br><br>The game opens on beginner mode, with a small grid. You can change the difficulty to intermediate or expert, which will create larger grid. You also have a custom mode, where you can go crazy.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2715780/extras/7baa6ab3e201d92f290f842e8d8b5be7.avif?t=1724754639\" width=616 height=514 /></span><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2715780/extras/ecd2ca51d993bf93509b54891abd52b5.avif?t=1724754639\" width=616 height=514 /></span><br><br>Guarantied no luck involved, only logic: When a level is generated, a solver goes through it first, and tries to complete it using only the clues and number of mines remaining. If it gets stuck it, the level is updated accordingly, until the solver manages to complete it. This guaranties that when you start a level, you can always finish it yourself without having to rely on luck.",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 0,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "tracked",
+  "review_count": 6,
+  "review_positive": 6,
+  "review_percentage": 100.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 6,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-25",
+      "review_count": 6,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

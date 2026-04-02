@@ -1,0 +1,94 @@
+{
+  "steam_app_id": 3499520,
+  "name": "Piano Glow",
+  "slug": "piano-glow",
+  "developer": "TheAlanski",
+  "publisher": "TheAlanski",
+  "release_date": "Mar 10, 2025",
+  "price_usd": 24.99,
+  "genres": [
+    "Casual",
+    "Indie",
+    "Simulation",
+    "Animation & Modeling",
+    "Audio Production",
+    "Video Production",
+    "Early Access"
+  ],
+  "tags": [
+    "Casual",
+    "Indie",
+    "Simulation",
+    "Animation & Modeling",
+    "Audio Production",
+    "Video Production",
+    "Early Access"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Piano in online multiplayer lobbies, with leaderboards, gamified training modes (ear, sheet, rhythm and falling notes). Play any song using either a QWERTY computer/laptop keyboard or a piano.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3499520/header.jpg?t=1774567749",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3499520/b3571968e185e08cb4deec9e949b46dc2ad4d6b1/ss_b3571968e185e08cb4deec9e949b46dc2ad4d6b1.600x338.jpg?t=1774567749",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3499520/bc77eb9f0cfb52027209cc702a196858e5a85d07/ss_bc77eb9f0cfb52027209cc702a196858e5a85d07.600x338.jpg?t=1774567749",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3499520/1ffb6fb13015ff6ed4c74ff56d29ca8f15057b58/ss_1ffb6fb13015ff6ed4c74ff56d29ca8f15057b58.600x338.jpg?t=1774567749",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3499520/51b586cef316f860c96dafea9b67e9917e972995/ss_51b586cef316f860c96dafea9b67e9917e972995.600x338.jpg?t=1774567749",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3499520/bed1cb444af146807bd604f262fdd8162d9dd588/ss_bed1cb444af146807bd604f262fdd8162d9dd588.600x338.jpg?t=1774567749",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3499520/6f59cd551763af82cb7b48162156632c6ba043f6/ss_6f59cd551763af82cb7b48162156632c6ba043f6.600x338.jpg?t=1774567749"
+  ],
+  "detailed_description": "<p class=\"bb_paragraph\" >PianoGlow is a piano game featuring:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Multiplayer</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Show-off your piano skills & listen to others around the globe.</p></li><li><p class=\"bb_paragraph\" >Queue-based mode to take turns playing piano.</p></li><li><p class=\"bb_paragraph\" >In-game currency, earned via daily rewards, quests and tipping other players.</p></li><li><p class=\"bb_paragraph\" >Global and private chatrooms.</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>Works with both QWERTY keyboard or a real digital piano</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Play any music or song with a QWERTY keyboard (laptop/computer).</p></li><li><p class=\"bb_paragraph\" >Or connect to a real digital piano via USB-B.</p></li><li><p class=\"bb_paragraph\" >Velocity integration with Wooting Analog QWERTY keyboards so that you can play with dynamics on the computer keyboard (loud & soft).</p></li><li><p class=\"bb_paragraph\" >Record & load MIDI files (live play or render as video from within the app).</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>Training modes</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Ear training, rhythm, falling notes & sheet music game modes.</p></li><li><p class=\"bb_paragraph\" >Tracks stats and shows wrong answers more often to focus on your weaknesses. Unlock achievements!</p></li><li><p class=\"bb_paragraph\" >A detailed calendar that shows exactly how much you practiced each day.</p></li><li><p class=\"bb_paragraph\" >AI-based fingering, help determine which fingers to use on any MIDI file or song.</p></li><li><p class=\"bb_paragraph\" >AI-based converter that adjusts any MIDI or song into a smaller piano/keyboard.</p></li><li><p class=\"bb_paragraph\" >Interactive Circle-of-Fifths cheat sheet - clicking shows the common chord triads, key signature and the 7th chords.</p></li><li><p class=\"bb_paragraph\" >Automated Chord Name Identifier & Intervals when you play any chord on the piano.</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>Customizable themes</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Stunning visuals & particle effects that move in sync with the tempo of your playing.</p></li><li><p class=\"bb_paragraph\" >Upload video files as the background.</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>QWERTY features</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Direct integration of <i><strong>vp-sheets.arijan.dev</strong></i> (library of 40,000 QWERTY songs) within the app and shares the same controls as most other virtual piano games.</p></li><li><p class=\"bb_paragraph\" >Auto-play QWERTY sheet music (semi-auto included).</p></li><li><p class=\"bb_paragraph\" >Typing game modes, where falling notes (and sheet music based notation) are also shown with QWERTY notes.</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>Customizable Audio</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Customizable reverb & equalizer audio effects.</p></li><li><p class=\"bb_paragraph\" >Upload custom SoundFont (.sf2, .sf3) files!</p></li><li><p class=\"bb_paragraph\" >Load multiple SoundFonts simultaneously (e.g. one for left-hand vs right-hand).</p></li><li><p class=\"bb_paragraph\" >Create your own SoundFonts!</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>Community</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Discord community server, chat and share tips about piano.</p></li><li><p class=\"bb_paragraph\" >Dedicated website and regular social media content.</p></li></ul></li></ul>",
+  "about_the_game": "<p class=\"bb_paragraph\" >PianoGlow is a piano game featuring:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Multiplayer</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Show-off your piano skills & listen to others around the globe.</p></li><li><p class=\"bb_paragraph\" >Queue-based mode to take turns playing piano.</p></li><li><p class=\"bb_paragraph\" >In-game currency, earned via daily rewards, quests and tipping other players.</p></li><li><p class=\"bb_paragraph\" >Global and private chatrooms.</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>Works with both QWERTY keyboard or a real digital piano</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Play any music or song with a QWERTY keyboard (laptop/computer).</p></li><li><p class=\"bb_paragraph\" >Or connect to a real digital piano via USB-B.</p></li><li><p class=\"bb_paragraph\" >Velocity integration with Wooting Analog QWERTY keyboards so that you can play with dynamics on the computer keyboard (loud & soft).</p></li><li><p class=\"bb_paragraph\" >Record & load MIDI files (live play or render as video from within the app).</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>Training modes</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Ear training, rhythm, falling notes & sheet music game modes.</p></li><li><p class=\"bb_paragraph\" >Tracks stats and shows wrong answers more often to focus on your weaknesses. Unlock achievements!</p></li><li><p class=\"bb_paragraph\" >A detailed calendar that shows exactly how much you practiced each day.</p></li><li><p class=\"bb_paragraph\" >AI-based fingering, help determine which fingers to use on any MIDI file or song.</p></li><li><p class=\"bb_paragraph\" >AI-based converter that adjusts any MIDI or song into a smaller piano/keyboard.</p></li><li><p class=\"bb_paragraph\" >Interactive Circle-of-Fifths cheat sheet - clicking shows the common chord triads, key signature and the 7th chords.</p></li><li><p class=\"bb_paragraph\" >Automated Chord Name Identifier & Intervals when you play any chord on the piano.</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>Customizable themes</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Stunning visuals & particle effects that move in sync with the tempo of your playing.</p></li><li><p class=\"bb_paragraph\" >Upload video files as the background.</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>QWERTY features</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Direct integration of <i><strong>vp-sheets.arijan.dev</strong></i> (library of 40,000 QWERTY songs) within the app and shares the same controls as most other virtual piano games.</p></li><li><p class=\"bb_paragraph\" >Auto-play QWERTY sheet music (semi-auto included).</p></li><li><p class=\"bb_paragraph\" >Typing game modes, where falling notes (and sheet music based notation) are also shown with QWERTY notes.</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>Customizable Audio</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Customizable reverb & equalizer audio effects.</p></li><li><p class=\"bb_paragraph\" >Upload custom SoundFont (.sf2, .sf3) files!</p></li><li><p class=\"bb_paragraph\" >Load multiple SoundFonts simultaneously (e.g. one for left-hand vs right-hand).</p></li><li><p class=\"bb_paragraph\" >Create your own SoundFonts!</p></li></ul></li><li><p class=\"bb_paragraph\" ><strong>Community</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Discord community server, chat and share tips about piano.</p></li><li><p class=\"bb_paragraph\" >Dedicated website and regular social media content.</p></li></ul></li></ul>",
+  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Indonesian<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Bangla<strong>*</strong>, Hindi<strong>*</strong><br><strong>*</strong>languages with full audio support",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Multi-player",
+    "PvP",
+    "Online PvP",
+    "Co-op",
+    "Online Co-op",
+    "Steam Achievements",
+    "Steam Trading Cards",
+    "Steam Workshop",
+    "Steam Cloud",
+    "Stats",
+    "Steam Leaderboards",
+    "Remote Play Together",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 105,
+  "rising_score": 0.0124,
+  "gem_score": 0.74,
+  "hype_score": 0.0,
+  "review_velocity_7d": 81.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "hidden_gem",
+  "review_count": 108,
+  "review_positive": 108,
+  "review_percentage": 100.0,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "gem_tier": "rising",
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 27,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-27",
+      "review_count": 108,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}

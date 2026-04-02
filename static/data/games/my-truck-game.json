@@ -1,0 +1,81 @@
+{
+  "steam_app_id": 1763830,
+  "name": "My Truck Game",
+  "slug": "my-truck-game",
+  "developer": "Chris",
+  "publisher": "Chris",
+  "release_date": "Feb 7, 2022",
+  "price_usd": 4.19,
+  "genres": [
+    "Simulation",
+    "Early Access"
+  ],
+  "tags": [
+    "Simulation",
+    "Early Access"
+  ],
+  "platforms": [
+    "windows"
+  ],
+  "short_description": "Physics based, off road truck and bus simulation.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/header.jpg?t=1690732377",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_c6ee62ecea20ca5da94ecbb4252314060cd7758a.600x338.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_f8910cb8bb051e6d8a1f4a740b84019ea6d68e56.600x338.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_1f885f546cb5b7fe060b479e98adbc0fdeb622f5.600x338.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_bdaccdb97ea0e6e14b5ef01a277490a8f67f1938.600x338.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_15b2ac7fd7a9157f995f1e333c84b60c885261fd.600x338.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_6a56c8aa89925fed320f42f9d31ac5b8b861f581.600x338.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_af01c1e3ee57a1848862cc838be906f98be1014e.600x338.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_f8655cd12cc7155b559ebdaf9202b59461b93a15.600x338.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_e96931a55e3cde3649be11257e7c343a2cb07d59.600x338.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_52b288f45f696e9fa7fb1b004be1ecc4acae938e.600x338.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_c86016013ae59c9257641b8aaa7695554305bb84.600x338.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_adb725e89644e332d0ad22197ca09523118f1862.600x338.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_0dd9b3c398e57ca50d95b05fbff4a36f0fd1389d.600x338.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_3f965d07d0f59cf1dea8ae7582bd1140f870ac7b.600x338.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_fa4684c7cc0f77d110e8eca6e88b9ab6beb613a8.600x338.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_3b87899924f9c370095c22a701006b24e2f8b8b2.600x338.jpg?t=1690732377"
+  ],
+  "detailed_description": "<ul class=\"bb_ul\"><li>This game is focused on physics based off road truck and bus simulation. <br></li><li>The main priority is tire deformation and suspension simulation for heavy vehicles.<br></li><li>At this stage the game contains 25 vehicles and 6 maps.<br></li><li>At the moment there are transport missions in the game, you can deliver cargo, you can earn money which can be used to buy vehicles and fuel.<br></li><li>The approach taken to simulating vehicles was to start with simulating a tire using soft body physics in order to be able to deform similarly to how a real life tire would.</li></ul> <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/extras/a3c3c4c0990aa4104620c65bd62946e3.avif?t=1690732377\" width=212 height=212 /></span>          <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/extras/0fdcd27122f0038cd6e6046740efd260.avif?t=1690732377\" width=272 height=212 /></span><br><ul class=\"bb_ul\"><li>The tire is attached to a solid rim which is attached to a solid axle which is attached to the suspension (leaf springs) and the suspension is attached to the frame.<br></li><li>On the frame there are other parts attached, truck cabin, drive shafts, dump box, hydraulic cylinder that lifts the dump box and mud flaps.<br></li><li>The tires, the suspension, the frame use soft body physics and the rest of the parts rigid body physics.<br></li><li>All the parts have their own mass, they interact with each other and this is what determines the vehicle behavior.</li></ul> <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/extras/c4a6b9931dc3835f53d93f3113fb15d1.avif?t=1690732377\" width=610 height=230 /></span>",
+  "about_the_game": "<ul class=\"bb_ul\"><li>This game is focused on physics based off road truck and bus simulation. <br></li><li>The main priority is tire deformation and suspension simulation for heavy vehicles.<br></li><li>At this stage the game contains 25 vehicles and 6 maps.<br></li><li>At the moment there are transport missions in the game, you can deliver cargo, you can earn money which can be used to buy vehicles and fuel.<br></li><li>The approach taken to simulating vehicles was to start with simulating a tire using soft body physics in order to be able to deform similarly to how a real life tire would.</li></ul> <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/extras/a3c3c4c0990aa4104620c65bd62946e3.avif?t=1690732377\" width=212 height=212 /></span>          <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/extras/0fdcd27122f0038cd6e6046740efd260.avif?t=1690732377\" width=272 height=212 /></span><br><ul class=\"bb_ul\"><li>The tire is attached to a solid rim which is attached to a solid axle which is attached to the suspension (leaf springs) and the suspension is attached to the frame.<br></li><li>On the frame there are other parts attached, truck cabin, drive shafts, dump box, hydraulic cylinder that lifts the dump box and mud flaps.<br></li><li>The tires, the suspension, the frame use soft body physics and the rest of the parts rigid body physics.<br></li><li>All the parts have their own mass, they interact with each other and this is what determines the vehicle behavior.</li></ul> <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/extras/c4a6b9931dc3835f53d93f3113fb15d1.avif?t=1690732377\" width=610 height=230 /></span>",
+  "supported_languages": "English",
+  "metacritic_score": null,
+  "metacritic_url": "",
+  "categories": [
+    "Single-player",
+    "Family Sharing"
+  ],
+  "trailer_url": "",
+  "total_recommendations": 234,
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
+  "review_count": 248,
+  "review_positive": 207,
+  "review_percentage": 83.5,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
+  "follower_count": 0,
+  "median_playtime_minutes": 0,
+  "history": [
+    {
+      "date": "2026-03-21",
+      "review_count": 241,
+      "review_percentage": 82.6,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-03-24",
+      "review_count": 248,
+      "review_percentage": 83.5,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    }
+  ],
+  "reviews": []
+}
