@@ -45,8 +45,8 @@
   "review_velocity_7d": 366.0,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
-  "review_count": 3988,
-  "review_positive": 3905,
+  "review_count": 3989,
+  "review_positive": 3906,
   "review_percentage": 97.9,
   "owner_estimate": 350000,
   "ccu_estimate": 4,
@@ -84,6 +84,13 @@
     {
       "date": "2026-04-01",
       "review_count": 3988,
+      "review_percentage": 97.9,
+      "ccu_estimate": 4,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-03",
+      "review_count": 3989,
       "review_percentage": 97.9,
       "ccu_estimate": 4,
       "follower_count": 0

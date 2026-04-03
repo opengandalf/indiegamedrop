@@ -53,10 +53,10 @@
   "review_count": 215,
   "review_positive": 183,
   "review_percentage": 85.1,
-  "owner_estimate": 0,
-  "ccu_estimate": 0,
+  "owner_estimate": 35000,
+  "ccu_estimate": 4,
   "follower_count": 0,
-  "median_playtime_minutes": 0,
+  "median_playtime_minutes": 21,
   "history": [
     {
       "date": "2026-03-21",
@@ -70,6 +70,13 @@
       "review_count": 215,
       "review_percentage": 85.1,
       "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-03",
+      "review_count": 215,
+      "review_percentage": 85.1,
+      "ccu_estimate": 4,
       "follower_count": 0
     }
   ],

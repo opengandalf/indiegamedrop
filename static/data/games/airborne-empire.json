@@ -76,7 +76,7 @@
   "owner_estimate": 75000,
   "ccu_estimate": 22,
   "follower_count": 0,
-  "median_playtime_minutes": 734,
+  "median_playtime_minutes": 167,
   "gem_tier": "proven",
   "history": [
     {
@@ -109,6 +109,13 @@
     },
     {
       "date": "2026-04-01",
+      "review_count": 688,
+      "review_percentage": 90.6,
+      "ccu_estimate": 22,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-03",
       "review_count": 688,
       "review_percentage": 90.6,
       "ccu_estimate": 22,

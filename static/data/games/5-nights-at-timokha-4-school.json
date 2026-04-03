@@ -51,8 +51,8 @@
   "review_velocity_7d": 255.0,
   "follower_velocity_7d": 0.0,
   "classification": "hidden_gem",
-  "review_count": 525,
-  "review_positive": 492,
+  "review_count": 526,
+  "review_positive": 493,
   "review_percentage": 93.7,
   "owner_estimate": 10000,
   "ccu_estimate": 3,
@@ -84,6 +84,13 @@
     {
       "date": "2026-03-30",
       "review_count": 525,
+      "review_percentage": 93.7,
+      "ccu_estimate": 3,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-03",
+      "review_count": 526,
       "review_percentage": 93.7,
       "ccu_estimate": 3,
       "follower_count": 0

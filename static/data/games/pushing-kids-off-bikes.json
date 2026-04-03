@@ -52,9 +52,9 @@
   "hype_score": 0.0,
   "review_velocity_7d": 2.0,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
-  "review_count": 3,
-  "review_positive": 3,
+  "classification": "tracked",
+  "review_count": 4,
+  "review_positive": 4,
   "review_percentage": 100.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -78,6 +78,13 @@
     {
       "date": "2026-03-30",
       "review_count": 3,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-03",
+      "review_count": 4,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0

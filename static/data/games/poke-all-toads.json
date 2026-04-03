@@ -43,13 +43,13 @@
   "review_velocity_7d": 177.0,
   "follower_velocity_7d": 0.0,
   "classification": "new_release",
-  "review_count": 268,
-  "review_positive": 268,
+  "review_count": 274,
+  "review_positive": 274,
   "review_percentage": 100.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 58,
+  "median_playtime_minutes": 322,
   "gem_tier": "rising",
   "history": [
     {
@@ -83,6 +83,13 @@
     {
       "date": "2026-04-01",
       "review_count": 268,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-03",
+      "review_count": 274,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0

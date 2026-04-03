@@ -50,10 +50,10 @@
   "review_count": 307,
   "review_positive": 280,
   "review_percentage": 91.2,
-  "owner_estimate": 0,
+  "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 0,
+  "median_playtime_minutes": 308,
   "gem_tier": "rising",
   "history": [
     {
@@ -65,6 +65,13 @@
     },
     {
       "date": "2026-03-23",
+      "review_count": 307,
+      "review_percentage": 91.2,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-03",
       "review_count": 307,
       "review_percentage": 91.2,
       "ccu_estimate": 0,

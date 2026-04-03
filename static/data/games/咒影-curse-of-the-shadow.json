@@ -54,9 +54,9 @@
   "review_velocity_7d": 131.0,
   "follower_velocity_7d": 0.0,
   "classification": "new_release",
-  "review_count": 173,
-  "review_positive": 161,
-  "review_percentage": 93.1,
+  "review_count": 189,
+  "review_positive": 174,
+  "review_percentage": 92.1,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
@@ -95,6 +95,13 @@
       "date": "2026-03-30",
       "review_count": 173,
       "review_percentage": 93.1,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-03",
+      "review_count": 189,
+      "review_percentage": 92.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }

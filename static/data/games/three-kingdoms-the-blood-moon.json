@@ -49,19 +49,19 @@
   ],
   "trailer_url": "",
   "total_recommendations": 623,
-  "rising_score": 0.0025,
+  "rising_score": 0.0018,
   "gem_score": 0.4129,
   "hype_score": 0.0,
   "review_velocity_7d": 293.0,
   "follower_velocity_7d": 0.0,
   "classification": "hidden_gem",
-  "review_count": 732,
-  "review_positive": 675,
+  "review_count": 735,
+  "review_positive": 678,
   "review_percentage": 92.2,
   "owner_estimate": 10000,
   "ccu_estimate": 52,
   "follower_count": 0,
-  "median_playtime_minutes": 790,
+  "median_playtime_minutes": 494,
   "gem_tier": "proven",
   "history": [
     {
@@ -88,6 +88,13 @@
     {
       "date": "2026-03-30",
       "review_count": 732,
+      "review_percentage": 92.2,
+      "ccu_estimate": 52,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-03",
+      "review_count": 735,
       "review_percentage": 92.2,
       "ccu_estimate": 52,
       "follower_count": 0

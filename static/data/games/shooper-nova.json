@@ -47,19 +47,19 @@
   ],
   "trailer_url": "",
   "total_recommendations": 501,
-  "rising_score": 0.0018,
+  "rising_score": 0.0013,
   "gem_score": 0.0,
   "hype_score": 0.0,
   "review_velocity_7d": 235.0,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
-  "review_count": 614,
+  "review_count": 616,
   "review_positive": 523,
-  "review_percentage": 85.2,
+  "review_percentage": 84.9,
   "owner_estimate": 35000,
   "ccu_estimate": 96,
   "follower_count": 0,
-  "median_playtime_minutes": 368,
+  "median_playtime_minutes": 377,
   "history": [
     {
       "date": "2026-03-21",
@@ -86,6 +86,13 @@
       "date": "2026-03-30",
       "review_count": 614,
       "review_percentage": 85.2,
+      "ccu_estimate": 96,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-03",
+      "review_count": 616,
+      "review_percentage": 84.9,
       "ccu_estimate": 96,
       "follower_count": 0
     }
