@@ -1,26 +1,26 @@
 {
-  "total_games": 29,
+  "total_games": 31,
   "genre_distribution": {
-    "Adventure": 10,
-    "Indie": 29,
-    "Action": 8,
+    "Adventure": 11,
+    "Indie": 31,
+    "Action": 9,
     "Casual": 20,
     "Racing": 1,
     "RPG": 2,
     "Simulation": 7,
-    "Strategy": 6,
+    "Strategy": 7,
     "Early Access": 1,
     "Sports": 2,
-    "Free To Play": 3
+    "Free To Play": 4
   },
   "price_distribution": {
     "Free": 6,
-    "$0-$5": 14,
-    "$5-$10": 3,
-    "$10-$20": 3,
+    "$0-$5": 15,
+    "$5-$10": 4,
+    "$10-$20": 4,
     "$20-$30": 0,
-    "$30+": 3
+    "$30+": 2
   },
   "avg_review_score": 95.8,
-  "new_this_week": 29
+  "new_this_week": 31
 }

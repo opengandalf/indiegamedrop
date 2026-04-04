@@ -1,81 +1,52 @@
 {
-  "steam_app_id": 3506430,
-  "name": "Peak",
+  "steam_app_id": 3527290,
+  "name": "PEAK",
   "slug": "peak",
-  "developer": "Three Hands Co",
-  "publisher": "Three Hands Co",
-  "release_date": "Mar 1, 2025",
-  "price_usd": 1.99,
+  "developer": "Team PEAK",
+  "publisher": "Aggro Crab, Landfall",
+  "release_date": "Jun 16, 2025",
+  "price_usd": 4.95,
   "genres": [
     "Action",
     "Adventure",
-    "Casual",
-    "Indie",
-    "Simulation",
-    "Strategy"
+    "Indie"
   ],
   "tags": [
     "Action",
     "Adventure",
-    "Casual",
-    "Indie",
-    "Simulation",
-    "Strategy"
+    "Indie"
   ],
   "platforms": [
     "windows"
   ],
-  "short_description": "hit bag..crank lever..upgrade moves..Hit Bag...Crank Lever...Upgrade Moves...HIT BAG....CRANK LEVER....UPGRADE MOVES....THIS... IS...PEAK... GAMEPLAY !",
-  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/header.jpg?t=1752075685",
+  "short_description": "PEAK is a co-op climbing game where the slightest mistake can spell your doom. Either solo or as a group of lost nature scouts, your only hope of rescue from a mysterious island is to scale the mountain at its center. Do you have what it takes to reach the PEAK?",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1773856924",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/197caff57e687dd9d4a3f8f80b653c5b2dd82549/ss_197caff57e687dd9d4a3f8f80b653c5b2dd82549.600x338.jpg?t=1752075685",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/61a5c3d492a4c45d73cebf6022bf7c7f2cbd1e49/ss_61a5c3d492a4c45d73cebf6022bf7c7f2cbd1e49.600x338.jpg?t=1752075685",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/4a2864dc4dc335735f806f3a75504cd86265799d/ss_4a2864dc4dc335735f806f3a75504cd86265799d.600x338.jpg?t=1752075685",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/58f124056abdf22dedac5300a0067e318f93415d/ss_58f124056abdf22dedac5300a0067e318f93415d.600x338.jpg?t=1752075685",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/440fb325c45aa978a60c7a741387d0c55033c8c0/ss_440fb325c45aa978a60c7a741387d0c55033c8c0.600x338.jpg?t=1752075685",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/6c91d1ff4dbbce4efa2c1482ace5b000b58fa67c/ss_6c91d1ff4dbbce4efa2c1482ace5b000b58fa67c.600x338.jpg?t=1752075685"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/bac7b90dffb456afecc4517a3e1d69362b95d15b/ss_bac7b90dffb456afecc4517a3e1d69362b95d15b.600x338.jpg?t=1773856924",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/9c500124c060f162f111afa679bf5d3a32b3fb40/ss_9c500124c060f162f111afa679bf5d3a32b3fb40.600x338.jpg?t=1773856924",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/84436aac3675c39a9e21a14a4a9a3a8a7d9dea26/ss_84436aac3675c39a9e21a14a4a9a3a8a7d9dea26.600x338.jpg?t=1773856924",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/55365bfa09745df86bed72720a842f64d8724b9d/ss_55365bfa09745df86bed72720a842f64d8724b9d.600x338.jpg?t=1773856924",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/c673fede352b201b3f897521e4e6eb6814a38c50/ss_c673fede352b201b3f897521e4e6eb6814a38c50.600x338.jpg?t=1773856924",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/63b22127ea64aba8b16c33a172b0fedbf542e834/ss_63b22127ea64aba8b16c33a172b0fedbf542e834.600x338.jpg?t=1773856924",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/471f445657aaf8b8c1d039389e5dcc6a8bcc32c5/ss_471f445657aaf8b8c1d039389e5dcc6a8bcc32c5.600x338.jpg?t=1773856924",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/1fa70611c0bc7c4393eae30827560d93687a6234/ss_1fa70611c0bc7c4393eae30827560d93687a6234.600x338.jpg?t=1773856924",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/52547c087901dec5b065b4559503804c02c10c22/ss_52547c087901dec5b065b4559503804c02c10c22.600x338.jpg?t=1773856924",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/5481a463ddc19a8def7eb64660caf6da12d9f22c/ss_5481a463ddc19a8def7eb64660caf6da12d9f22c.600x338.jpg?t=1773856924"
   ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>Welcome to Peak!</strong> </p><p class=\"bb_paragraph\" >An idle desktop game that lets you control a man's journey to greatness. Watch as the little guy train his heart out using a wide range of offensive and hilarious moves. This game combines the two genres of gambling and idle games. We at Three Hands hope to bring you the ultimate ka ching brrr pull lever experience, all while relaxing at home. Add in a little bit of butt kicking action and you might just have yourself some Peak gameplay. </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/extras/c5405c764cfb5eede8f9f61b0366cfe6.apng?t=1752075685\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/extras/c5405c764cfb5eede8f9f61b0366cfe6.poster.avif?t=1752075685\" class=\"bb_img\" width=120 height=120 /></picture></span><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/extras/f6bbeefacf5bf90e730134600e658a5a.apng?t=1752075685\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/extras/f6bbeefacf5bf90e730134600e658a5a.poster.avif?t=1752075685\" class=\"bb_img\" width=120 height=120 /></picture></span><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/extras/ec353033f8fb5a685cedd1b19576fcad.apng?t=1752075685\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/extras/ec353033f8fb5a685cedd1b19576fcad.poster.avif?t=1752075685\" class=\"bb_img\" width=120 height=120 /></picture></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Gambling! </strong></p><p class=\"bb_paragraph\" >Crank that lever and discover new devastating combos of destruction! </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Martial Arts!</strong></p><p class=\"bb_paragraph\" >No cooler way to win a battle then through the strength of your own hands, well maybe a super tech suit or a laser would be pretty cool.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Idle, PvE, Desktop, Card Pack Opening Simulator...</strong></p><p class=\"bb_paragraph\" >Honestly what genre isn't Peak a part of, after all it is peak. Discover the many things hidden away in Peak today!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/extras/cec5ae7efd6c12a7c776e9d15806aabf.poster.avif?t=1752075685\" width=800 height=458 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/extras/cec5ae7efd6c12a7c776e9d15806aabf.webm?t=1752075685\" type=\"video/webm; codecs=vp9\"></video></span></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>Welcome to Peak!</strong> </p><p class=\"bb_paragraph\" >An idle desktop game that lets you control a man's journey to greatness. Watch as the little guy train his heart out using a wide range of offensive and hilarious moves. This game combines the two genres of gambling and idle games. We at Three Hands hope to bring you the ultimate ka ching brrr pull lever experience, all while relaxing at home. Add in a little bit of butt kicking action and you might just have yourself some Peak gameplay. </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/extras/c5405c764cfb5eede8f9f61b0366cfe6.apng?t=1752075685\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/extras/c5405c764cfb5eede8f9f61b0366cfe6.poster.avif?t=1752075685\" class=\"bb_img\" width=120 height=120 /></picture></span><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/extras/f6bbeefacf5bf90e730134600e658a5a.apng?t=1752075685\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/extras/f6bbeefacf5bf90e730134600e658a5a.poster.avif?t=1752075685\" class=\"bb_img\" width=120 height=120 /></picture></span><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/extras/ec353033f8fb5a685cedd1b19576fcad.apng?t=1752075685\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/extras/ec353033f8fb5a685cedd1b19576fcad.poster.avif?t=1752075685\" class=\"bb_img\" width=120 height=120 /></picture></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Gambling! </strong></p><p class=\"bb_paragraph\" >Crank that lever and discover new devastating combos of destruction! </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Martial Arts!</strong></p><p class=\"bb_paragraph\" >No cooler way to win a battle then through the strength of your own hands, well maybe a super tech suit or a laser would be pretty cool.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Idle, PvE, Desktop, Card Pack Opening Simulator...</strong></p><p class=\"bb_paragraph\" >Honestly what genre isn't Peak a part of, after all it is peak. Discover the many things hidden away in Peak today!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/extras/cec5ae7efd6c12a7c776e9d15806aabf.poster.avif?t=1752075685\" width=800 height=458 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3506430/extras/cec5ae7efd6c12a7c776e9d15806aabf.webm?t=1752075685\" type=\"video/webm; codecs=vp9\"></video></span></p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0479,
-  "gem_score": 0.8176,
-  "hype_score": 0.0,
-  "review_velocity_7d": 40.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
-  "review_count": 43,
-  "review_positive": 40,
-  "review_percentage": 93.0,
-  "owner_estimate": 0,
+  "review_count": 0,
+  "review_positive": 0,
+  "review_percentage": 0.0,
+  "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 0,
-  "gem_tier": "early",
+  "median_playtime_minutes": 412,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
-      "review_count": 43,
-      "review_percentage": 93.0,
+      "date": "2026-04-04",
+      "review_count": 0,
+      "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }
