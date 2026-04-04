@@ -48,6 +48,46 @@
     "median_playtime_minutes": 1048
   },
   {
+    "steam_app_id": 4000,
+    "name": "Garry's Mod",
+    "slug": "garrys-mod",
+    "developer": "Facepunch Studios",
+    "publisher": "",
+    "release_date": "2006-11-29",
+    "price_usd": 4.99,
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "tags": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "short_description": "Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play.",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?t=1764757984",
+    "screenshots": [],
+    "rising_score": 0.2214,
+    "gem_score": 0.0,
+    "hype_score": 0.0,
+    "review_velocity_7d": 61322.3,
+    "follower_velocity_7d": 0,
+    "classification": "tracked",
+    "review_count": 1226446,
+    "review_positive": 0,
+    "review_percentage": 96.9,
+    "owner_estimate": 35000000,
+    "ccu_estimate": 0,
+    "follower_count": 0,
+    "median_playtime_minutes": 0
+  },
+  {
     "steam_app_id": 2547140,
     "name": "Undercroft Warriors",
     "slug": "undercroft-warriors",
@@ -205,44 +245,6 @@
     "median_playtime_minutes": 0
   },
   {
-    "steam_app_id": 3165500,
-    "name": "Grumpy Gaffer",
-    "slug": "grumpy-gaffer",
-    "developer": "RC Games Studio",
-    "publisher": "",
-    "release_date": "2024-10-30",
-    "price_usd": 0.99,
-    "genres": [
-      "Casual",
-      "Indie",
-      "Strategy"
-    ],
-    "tags": [
-      "Casual",
-      "Indie",
-      "Strategy"
-    ],
-    "platforms": [
-      "windows"
-    ],
-    "short_description": "Join Mr. Gaffer on his mission to protect the peace of his home in this dynamic strategy game. Test your wits and reflexes as you face intense waves of enemies, and compete in thrilling mini-games aga",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3165500/header.jpg?t=1731124063",
-    "screenshots": [],
-    "rising_score": 0.1437,
-    "gem_score": 0.6792,
-    "hype_score": 0.0,
-    "review_velocity_7d": 0.0,
-    "follower_velocity_7d": 0,
-    "classification": "new_release",
-    "review_count": 123,
-    "review_positive": 0,
-    "review_percentage": 94.3,
-    "owner_estimate": 0,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 0
-  },
-  {
     "steam_app_id": 3204020,
     "name": "Juufuutei Raden™'s Guide for Pixel Museum",
     "slug": "juufuutei-radens-guide-for-pixel-museum",
@@ -317,6 +319,83 @@
     "review_positive": 0,
     "review_percentage": 83.3,
     "owner_estimate": 35000000,
+    "ccu_estimate": 0,
+    "follower_count": 0,
+    "median_playtime_minutes": 0
+  },
+  {
+    "steam_app_id": 322170,
+    "name": "Geometry Dash",
+    "slug": "geometry-dash",
+    "developer": "RobTop Games",
+    "publisher": "",
+    "release_date": "2014-12-22",
+    "price_usd": 2.49,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "tags": [
+      "Action",
+      "Indie"
+    ],
+    "platforms": [
+      "windows",
+      "mac"
+    ],
+    "short_description": "Jump and fly your way through danger in this rhythm-based action platformer!",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322170/header.jpg?t=1703006148",
+    "screenshots": [],
+    "rising_score": 0.1026,
+    "gem_score": 0.0,
+    "hype_score": 0.0,
+    "review_velocity_7d": 28407.800000000003,
+    "follower_velocity_7d": 0,
+    "classification": "tracked",
+    "review_count": 568156,
+    "review_positive": 0,
+    "review_percentage": 93.1,
+    "owner_estimate": 7500000,
+    "ccu_estimate": 0,
+    "follower_count": 0,
+    "median_playtime_minutes": 0
+  },
+  {
+    "steam_app_id": 367520,
+    "name": "Hollow Knight",
+    "slug": "hollow-knight",
+    "developer": "Team Cherry",
+    "publisher": "",
+    "release_date": "2017-02-24",
+    "price_usd": 7.49,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "short_description": "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes. Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg?t=1770338567",
+    "screenshots": [],
+    "rising_score": 0.0966,
+    "gem_score": 0.0,
+    "hype_score": 0.0,
+    "review_velocity_7d": 26741.550000000003,
+    "follower_velocity_7d": 0,
+    "classification": "tracked",
+    "review_count": 534831,
+    "review_positive": 0,
+    "review_percentage": 96.9,
+    "owner_estimate": 7500000,
     "ccu_estimate": 0,
     "follower_count": 0,
     "median_playtime_minutes": 0
@@ -701,84 +780,6 @@
     "review_count": 1456,
     "review_positive": 0,
     "review_percentage": 95.2,
-    "owner_estimate": 10000,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 0
-  },
-  {
-    "steam_app_id": 221100,
-    "name": "DayZ",
-    "slug": "dayz",
-    "developer": "Bohemia Interactive",
-    "publisher": "",
-    "release_date": "2018-12-13",
-    "price_usd": 24.99,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Massively Multiplayer"
-    ],
-    "tags": [
-      "Action",
-      "Adventure",
-      "Massively Multiplayer"
-    ],
-    "platforms": [
-      "windows"
-    ],
-    "short_description": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with st",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg?t=1769695513",
-    "screenshots": [],
-    "rising_score": 0.0634,
-    "gem_score": 0.0,
-    "hype_score": 0.0,
-    "review_velocity_7d": 22815.100000000002,
-    "follower_velocity_7d": 0,
-    "classification": "tracked",
-    "review_count": 456302,
-    "review_positive": 0,
-    "review_percentage": 77.6,
-    "owner_estimate": 15000000,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 0
-  },
-  {
-    "steam_app_id": 2955840,
-    "name": "Kitchen Wars",
-    "slug": "kitchen-wars",
-    "developer": "Silent Owl",
-    "publisher": "",
-    "release_date": "2025-08-04",
-    "price_usd": 3.49,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Casual",
-      "Indie"
-    ],
-    "tags": [
-      "Action",
-      "Adventure",
-      "Casual",
-      "Indie"
-    ],
-    "platforms": [
-      "windows"
-    ],
-    "short_description": "Kitchen Wars is a fast-paced party game with 2-8 players that plunges players into the chaos of a restaurant, where they must engage in strategic fights and theft while serving their customers.",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2955840/header.jpg?t=1757603571",
-    "screenshots": [],
-    "rising_score": 0.0577,
-    "gem_score": 0.0,
-    "hype_score": 0.0,
-    "review_velocity_7d": 0.0,
-    "follower_velocity_7d": 0,
-    "classification": "new_release",
-    "review_count": 564,
-    "review_positive": 0,
-    "review_percentage": 72.7,
     "owner_estimate": 10000,
     "ccu_estimate": 0,
     "follower_count": 0,

@@ -32,3 +32,5 @@ logs/
 *.db-shm
 *.db-wal
 data/indiegamedrop.db.bak
+data/backups/
+data/last_export_stats.json

@@ -137,6 +137,59 @@ def cmd_score(db_path=None):
         db.close()
 
 
+def _check_db_integrity(db):
+    """Safety check: refuse to export if game count is suspiciously low."""
+    MIN_GAME_COUNT = 1000
+    count = db.conn.execute("SELECT COUNT(*) FROM games").fetchone()[0]
+    if count < MIN_GAME_COUNT:
+        raise RuntimeError(
+            f"🚨 DB INTEGRITY CHECK FAILED: only {count} games in database "
+            f"(minimum: {MIN_GAME_COUNT}). Refusing to export to prevent "
+            f"overwriting good browse.db.gz with broken data. "
+            f"Run restore script or investigate data loss."
+        )
+    return count
+
+
+def _check_anomaly(game_count, out_dir):
+    """Anomaly detection: warn if game count dropped significantly."""
+    stats_file = os.path.join(
+        os.path.dirname(out_dir), "..", "data", "last_export_stats.json"
+    )
+    # Normalize path
+    stats_file = os.path.normpath(stats_file)
+    if not os.path.exists(os.path.dirname(stats_file)):
+        stats_file = os.path.join(
+            os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+            "data", "last_export_stats.json"
+        )
+
+    last_stats = {}
+    if os.path.exists(stats_file):
+        try:
+            with open(stats_file, "r") as f:
+                last_stats = json.load(f)
+        except (json.JSONDecodeError, IOError):
+            pass
+
+    last_count = last_stats.get("total_games", 0)
+    if last_count > 0 and game_count < last_count * 0.5:
+        raise RuntimeError(
+            f"🚨 ANOMALY DETECTED: game count dropped from {last_count} to "
+            f"{game_count} (>50% decrease). Refusing to export. "
+            f"Investigate data loss before retrying."
+        )
+
+    # Save current stats for next run
+    current_stats = {
+        "total_games": game_count,
+        "last_export": datetime.now().isoformat(),
+    }
+    os.makedirs(os.path.dirname(stats_file), exist_ok=True)
+    with open(stats_file, "w") as f:
+        json.dump(current_stats, f, indent=2)
+
+
 def cmd_export(db_path=None, output_dir=None):
     """Generate JSON files for Hugo."""
     db = get_db(db_path)
@@ -146,6 +199,11 @@ def cmd_export(db_path=None, output_dir=None):
     os.makedirs(games_dir, exist_ok=True)
 
     try:
+        # Safety checks before exporting
+        game_count = _check_db_integrity(db)
+        _check_anomaly(game_count, out_dir)
+        logger.info("DB integrity OK: %d games", game_count)
+
         _export_rising(db, out_dir)
         _export_gems(db, out_dir)
         _export_new_releases(db, out_dir)
