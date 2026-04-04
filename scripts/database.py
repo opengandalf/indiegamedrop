@@ -103,6 +103,14 @@ class Database:
     def upsert_game(self, game_data):
         """Insert or update a game record."""
         slug = slugify(game_data.get("name", ""))
+        # Handle slug collisions: if another game already owns this slug, append app_id
+        app_id = game_data.get("steam_app_id")
+        existing = self.conn.execute(
+            "SELECT steam_app_id FROM games WHERE slug = ? AND steam_app_id != ?",
+            (slug, app_id)
+        ).fetchone()
+        if existing:
+            slug = f"{slug}-{app_id}"
         genres = json.dumps(game_data.get("genres", []))
         tags = json.dumps(game_data.get("tags", []))
         platforms = json.dumps(game_data.get("platforms", []))
@@ -295,13 +303,15 @@ class Database:
         return [dict(r) for r in rows]
 
     def get_new_releases(self, limit=20):
-        """Get recent releases."""
+        """Get genuinely recent releases (last 30 days by actual release date)."""
         rows = self.conn.execute("""
             SELECT g.*, s.rising_score, s.gem_score
             FROM games g
             LEFT JOIN game_scores s ON g.steam_app_id = s.steam_app_id
             WHERE g.release_date != ''
-            ORDER BY g.first_seen DESC
+              AND date(g.release_date) >= date('now', '-30 days')
+              AND date(g.release_date) <= date('now')
+            ORDER BY g.release_date DESC
             LIMIT ?
         """, (limit,)).fetchall()
         return [dict(r) for r in rows]

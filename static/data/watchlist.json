@@ -1,90 +1,35 @@
 [
   {
-    "steam_app_id": 3042580,
-    "name": "TheMute",
-    "slug": "themute",
-    "developer": "大飞, Soundspak",
-    "publisher": "大飞, Soundspak",
-    "release_date": "5 Apr, 2026",
+    "steam_app_id": 749820,
+    "name": "Villages™",
+    "slug": "villages",
+    "developer": "HAILFALLKOMPANY",
+    "publisher": "",
+    "release_date": "2029-11-07",
     "price_usd": 0.0,
     "genres": [
-      "Casual",
+      "Action",
       "Indie",
-      "Strategy"
-    ],
-    "tags": [
-      "Casual",
-      "Indie",
-      "Strategy"
-    ],
-    "platforms": [
-      "windows"
-    ],
-    "short_description": "Fix audio gear, earn upgrades, and step into Tone City! Wield musical card combos, clash with discordant sounds, and restore harmony to the city. Team up with friends, unlock powerful upgrades, and embark on an epic journey. After all, what beats the perfect mix of music and friendship?",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3042580/e0d260934fda783b606b662d85065f2acb546515/header.jpg?t=1775196217",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3042580/4a3d7696b47ec23316fc344c779417dd69d362c1/ss_4a3d7696b47ec23316fc344c779417dd69d362c1.600x338.jpg?t=1775196217",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3042580/290da15e81726cda7ec5de058b4a609c0f877694/ss_290da15e81726cda7ec5de058b4a609c0f877694.600x338.jpg?t=1775196217",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3042580/108496419fe3e6311a85f1f377596412d2f73143/ss_108496419fe3e6311a85f1f377596412d2f73143.600x338.jpg?t=1775196217",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3042580/8fdacd80427487c323e629ccc619f34ac2b3fe71/ss_8fdacd80427487c323e629ccc619f34ac2b3fe71.600x338.jpg?t=1775196217",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3042580/5a43d7a24127bfbe22d766181b55a98f6e2d3e2b/ss_5a43d7a24127bfbe22d766181b55a98f6e2d3e2b.600x338.jpg?t=1775196217"
-    ],
-    "rising_score": 0,
-    "gem_score": 0,
-    "hype_score": 0.0,
-    "review_velocity_7d": 0,
-    "follower_velocity_7d": 0.0,
-    "classification": "",
-    "review_count": 0,
-    "review_positive": 0,
-    "review_percentage": 0.0,
-    "owner_estimate": 10000,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 0
-  },
-  {
-    "steam_app_id": 4510820,
-    "name": "Yuremizu: Hold It Through the Shift",
-    "slug": "yuremizu-hold-it-through-the-shift",
-    "developer": "Yaminato Aoi, Yamashita",
-    "publisher": "Yaminato Studio",
-    "release_date": "5 Apr, 2026",
-    "price_usd": 0.0,
-    "genres": [
-      "Casual",
-      "Indie",
+      "RPG",
       "Simulation"
     ],
     "tags": [
-      "Casual",
+      "Action",
       "Indie",
+      "RPG",
       "Simulation"
     ],
     "platforms": [
       "windows"
     ],
-    "short_description": "A simulator where, under a strange suggestion triggered by moving water, you must keep serving water to customers during your shift.",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4510820/99e623689de10d831f5ac50697762be75853a41a/header.jpg?t=1774328889",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4510820/5457146e52a9638bbf970c23a90aa56f4a79c066/ss_5457146e52a9638bbf970c23a90aa56f4a79c066.600x338.jpg?t=1774328889",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4510820/be0f56426c5111793ad9387bfd86346aca9fe4f6/ss_be0f56426c5111793ad9387bfd86346aca9fe4f6.600x338.jpg?t=1774328889",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4510820/24050280b84b118d7b1bcfa88d1b55f343eb811e/ss_24050280b84b118d7b1bcfa88d1b55f343eb811e.600x338.jpg?t=1774328889",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4510820/79bac1ec9908125c24fd66db2268a13628eb92ce/ss_79bac1ec9908125c24fd66db2268a13628eb92ce.600x338.jpg?t=1774328889",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4510820/af50705c4011fe383b6128b798f6c181a546e753/ss_af50705c4011fe383b6128b798f6c181a546e753.600x338.jpg?t=1774328889"
-    ],
+    "short_description": "Villages™ is an Open-World Sandbox game that has rules to encourage People to make a complex society and economy.",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/749820/header.jpg?t=1745372892",
+    "screenshots": [],
     "rising_score": 0,
     "gem_score": 0,
     "hype_score": 0.0,
     "review_velocity_7d": 0,
     "follower_velocity_7d": 0.0,
-    "classification": "",
-    "review_count": 0,
-    "review_positive": 0,
-    "review_percentage": 0.0,
-    "owner_estimate": 10000,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 0
+    "classification": ""
   }
 ]

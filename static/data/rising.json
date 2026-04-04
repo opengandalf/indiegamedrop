@@ -1,12 +1,54 @@
 [
   {
+    "steam_app_id": 105600,
+    "name": "Terraria",
+    "slug": "terraria",
+    "developer": "Re-Logic",
+    "publisher": "",
+    "release_date": "2011-05-16",
+    "price_usd": 4.99,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "short_description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. Four Pack also available!",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
+    "screenshots": [],
+    "rising_score": 0.273,
+    "gem_score": 0.0,
+    "hype_score": 0.0,
+    "review_velocity_7d": 75600.2,
+    "follower_velocity_7d": 0,
+    "classification": "tracked",
+    "review_count": 1512004,
+    "review_positive": 0,
+    "review_percentage": 97.4,
+    "owner_estimate": 35000000,
+    "ccu_estimate": 0,
+    "follower_count": 0,
+    "median_playtime_minutes": 0
+  },
+  {
     "steam_app_id": 264710,
     "name": "Subnautica",
     "slug": "subnautica",
     "developer": "Unknown Worlds Entertainment",
     "publisher": "Unknown Worlds Entertainment",
-    "release_date": "2018-01-23",
-    "price_usd": 9.89,
+    "release_date": "23 Jan, 2018",
+    "price_usd": 5.24,
     "genres": [
       "Adventure",
       "Indie"
@@ -19,8 +61,8 @@
       "windows",
       "mac"
     ],
-    "short_description": "Descend into the depths of an alien underwater world filled with wonder and peril. Craft equipment, pilot submarines and out-smart wildlife to explore lush coral reefs, volcanoes, cave systems, and mo",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg?t=1773943268",
+    "short_description": "Descend into the depths of an alien underwater world filled with wonder and peril. Craft equipment, pilot submarines and out-smart wildlife to explore lush coral reefs, volcanoes, cave systems, and more - all while trying to survive.",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg?t=1774323987",
     "screenshots": [
       "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_e182b6b20bb797500f9f63c561586d920d44e37c.600x338.jpg?t=1774323987",
       "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_970a13f246e33e0df26d93baf9f8e975732adb4b.600x338.jpg?t=1774323987",
@@ -33,7 +75,7 @@
       "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_9fdfcc7572ae22b4afa21e6de3b23c962ca5bb55.600x338.jpg?t=1774323987",
       "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_883a98ad56021ce409219e1b749818866b6115cd.600x338.jpg?t=1774323987"
     ],
-    "rising_score": 0.273,
+    "rising_score": 0.2386,
     "gem_score": 0.0,
     "hype_score": 0.0,
     "review_velocity_7d": 15685.35,
@@ -45,7 +87,7 @@
     "owner_estimate": 7500000,
     "ccu_estimate": 2719,
     "follower_count": 0,
-    "median_playtime_minutes": 1048
+    "median_playtime_minutes": 984
   },
   {
     "steam_app_id": 4000,
@@ -88,79 +130,128 @@
     "median_playtime_minutes": 0
   },
   {
-    "steam_app_id": 2547140,
-    "name": "Undercroft Warriors",
-    "slug": "undercroft-warriors",
-    "developer": "Fuzzy",
+    "steam_app_id": 252490,
+    "name": "Rust",
+    "slug": "rust",
+    "developer": "Facepunch Studios",
     "publisher": "",
-    "release_date": "2024-08-09",
-    "price_usd": 1.49,
+    "release_date": "2018-02-08",
+    "price_usd": 19.99,
     "genres": [
       "Action",
-      "Indie"
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG"
     ],
     "tags": [
       "Action",
-      "Indie"
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG"
     ],
     "platforms": [
-      "windows"
+      "windows",
+      "mac"
     ],
-    "short_description": "Crush the forces of hell and get a high score in this addictive, action-packed, arcade-inspired twin-stick shooter!",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2547140/header.jpg?t=1767475711",
+    "short_description": "The only aim in Rust is to survive. Everything wants you to die - the island’s wildlife, other inhabitants, the environment, and other survivors. Do whatever it takes to last another night.",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1771871433",
     "screenshots": [],
-    "rising_score": 0.1784,
+    "rising_score": 0.1868,
     "gem_score": 0.0,
     "hype_score": 0.0,
-    "review_velocity_7d": 0.0,
+    "review_velocity_7d": 67239.90000000001,
     "follower_velocity_7d": 0,
-    "classification": "new_release",
-    "review_count": 459,
+    "classification": "tracked",
+    "review_count": 1344798,
     "review_positive": 0,
-    "review_percentage": 79.3,
-    "owner_estimate": 10000,
+    "review_percentage": 87.0,
+    "owner_estimate": 35000000,
     "ccu_estimate": 0,
     "follower_count": 0,
     "median_playtime_minutes": 0
   },
   {
-    "steam_app_id": 4268470,
-    "name": "Rosalie",
-    "slug": "rosalie",
-    "developer": "Articho Games",
+    "steam_app_id": 413150,
+    "name": "Stardew Valley",
+    "slug": "stardew-valley",
+    "developer": "ConcernedApe",
     "publisher": "",
-    "release_date": "2026-03-21",
-    "price_usd": 6.29,
+    "release_date": "2016-02-26",
+    "price_usd": 7.49,
     "genres": [
-      "Action",
-      "Adventure",
-      "Casual",
       "Indie",
-      "Early Access"
+      "RPG",
+      "Simulation"
     ],
     "tags": [
-      "Action",
-      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "short_description": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn thes",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1754692865",
+    "screenshots": [],
+    "rising_score": 0.1792,
+    "gem_score": 0.0,
+    "hype_score": 0.0,
+    "review_velocity_7d": 49636.5,
+    "follower_velocity_7d": 0,
+    "classification": "tracked",
+    "review_count": 992730,
+    "review_positive": 0,
+    "review_percentage": 98.5,
+    "owner_estimate": 35000000,
+    "ccu_estimate": 0,
+    "follower_count": 0,
+    "median_playtime_minutes": 0
+  },
+  {
+    "steam_app_id": 431960,
+    "name": "Wallpaper Engine",
+    "slug": "wallpaper-engine",
+    "developer": "Wallpaper Engine Team",
+    "publisher": "",
+    "release_date": "2018-11-16",
+    "price_usd": 3.99,
+    "genres": [
       "Casual",
       "Indie",
-      "Early Access"
+      "Animation & Modeling",
+      "Design & Illustration",
+      "Photo Editing",
+      "Utilities"
+    ],
+    "tags": [
+      "Casual",
+      "Indie",
+      "Animation & Modeling",
+      "Design & Illustration",
+      "Photo Editing",
+      "Utilities"
     ],
     "platforms": [
       "windows"
     ],
-    "short_description": "A chaotic 2-player co-op road trip. Share the controls of a pedal car as tourists: sit on the left to turn left, sit on the right to turn right! Coordination is key!",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4268470/05816436f069511cf57ad5e156923a298ca0226d/header.jpg?t=1774116712",
+    "short_description": "Use stunning live wallpapers on your desktop. Animate your own images to create new wallpapers or import videos/websites and share them on the Steam Workshop!",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg?t=1739211362",
     "screenshots": [],
-    "rising_score": 0.1653,
-    "gem_score": 0.8595,
+    "rising_score": 0.1753,
+    "gem_score": 0.0,
     "hype_score": 0.0,
-    "review_velocity_7d": 0.0,
+    "review_velocity_7d": 48546.15,
     "follower_velocity_7d": 0,
-    "classification": "new_release",
-    "review_count": 49,
+    "classification": "tracked",
+    "review_count": 970923,
     "review_positive": 0,
-    "review_percentage": 100.0,
-    "owner_estimate": 10000,
+    "review_percentage": 98.0,
+    "owner_estimate": 35000000,
     "ccu_estimate": 0,
     "follower_count": 0,
     "median_playtime_minutes": 0
@@ -204,78 +295,115 @@
     "median_playtime_minutes": 0
   },
   {
-    "steam_app_id": 3599480,
-    "name": "WonderLang Polyglot",
-    "slug": "wonderlang-polyglot",
-    "developer": "bair games",
+    "steam_app_id": 1174180,
+    "name": "Red Dead Redemption 2",
+    "slug": "red-dead-redemption-2",
+    "developer": "Rockstar Games",
     "publisher": "",
-    "release_date": "2025-05-12",
-    "price_usd": 39.99,
+    "release_date": "2019-12-05",
+    "price_usd": 14.99,
     "genres": [
-      "Adventure",
-      "Casual",
-      "Indie",
-      "RPG"
+      "Action",
+      "Adventure"
     ],
     "tags": [
-      "Adventure",
-      "Casual",
-      "Indie",
-      "RPG"
+      "Action",
+      "Adventure"
     ],
     "platforms": [
-      "windows",
-      "mac"
+      "windows"
     ],
-    "short_description": "Learn languages through immersive quests, interactive dialogues, and spaced repetition combats. Help a young hero lift a magical curse by mastering a new language. Customize your learning experience a",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3599480/8e2fac001e303a4885cc7d2a172eb13a6465cb89/header.jpg?t=1769680192",
+    "short_description": "Arthur Morgan and the Van der Linde Gang are outlaws on the run. With federal agents and bounty hunters massing on their heels, the gang must rob, steal, and fight their way across the rugged heartlan",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
     "screenshots": [],
-    "rising_score": 0.1625,
+    "rising_score": 0.1545,
     "gem_score": 0.0,
     "hype_score": 0.0,
-    "review_velocity_7d": 0.0,
+    "review_velocity_7d": 42797.850000000006,
     "follower_velocity_7d": 0,
-    "classification": "new_release",
-    "review_count": 43,
+    "classification": "tracked",
+    "review_count": 855957,
     "review_positive": 0,
-    "review_percentage": 88.4,
+    "review_percentage": 92.3,
     "owner_estimate": 0,
     "ccu_estimate": 0,
     "follower_count": 0,
     "median_playtime_minutes": 0
   },
   {
-    "steam_app_id": 3204020,
-    "name": "Juufuutei Raden™'s Guide for Pixel Museum",
-    "slug": "juufuutei-radens-guide-for-pixel-museum",
-    "developer": "Jupiter Corporation",
+    "steam_app_id": 739630,
+    "name": "Phasmophobia",
+    "slug": "phasmophobia",
+    "developer": "Kinetic Games",
     "publisher": "",
-    "release_date": "2025-06-04",
-    "price_usd": 19.99,
+    "release_date": "2020-09-18",
+    "price_usd": 13.99,
     "genres": [
-      "Casual",
-      "Indie"
+      "Action",
+      "Indie",
+      "Early Access"
     ],
     "tags": [
-      "Casual",
-      "Indie"
+      "Action",
+      "Indie",
+      "Early Access"
     ],
     "platforms": [
       "windows"
     ],
-    "short_description": "Solve the puzzle and complete the art! \"Pixel Puzzle\" that lets you experience art and culture with Juufuutei Raden.",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204020/header.jpg?t=1768873504",
+    "short_description": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost-hunting equipment at your disposal in order to ga",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/c227a2855aba60f3657bc0c3a46515b8c41fb2b6/header.jpg?t=1773761698",
     "screenshots": [],
-    "rising_score": 0.1326,
-    "gem_score": 0.5717,
+    "rising_score": 0.1473,
+    "gem_score": 0.0,
     "hype_score": 0.0,
-    "review_velocity_7d": 0.0,
+    "review_velocity_7d": 40780.700000000004,
     "follower_velocity_7d": 0,
-    "classification": "new_release",
-    "review_count": 310,
+    "classification": "tracked",
+    "review_count": 815614,
     "review_positive": 0,
-    "review_percentage": 98.7,
-    "owner_estimate": 10000,
+    "review_percentage": 95.6,
+    "owner_estimate": 15000000,
+    "ccu_estimate": 0,
+    "follower_count": 0,
+    "median_playtime_minutes": 0
+  },
+  {
+    "steam_app_id": 242760,
+    "name": "The Forest",
+    "slug": "the-forest",
+    "developer": "Endnight Games Ltd",
+    "publisher": "",
+    "release_date": "2018-04-30",
+    "price_usd": 4.39,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "platforms": [
+      "windows"
+    ],
+    "short_description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying fi",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg?t=1699381053",
+    "screenshots": [],
+    "rising_score": 0.1203,
+    "gem_score": 0.0,
+    "hype_score": 0.0,
+    "review_velocity_7d": 33308.5,
+    "follower_velocity_7d": 0,
+    "classification": "tracked",
+    "review_count": 666170,
+    "review_positive": 0,
+    "review_percentage": 95.5,
+    "owner_estimate": 35000000,
     "ccu_estimate": 0,
     "follower_count": 0,
     "median_playtime_minutes": 0
@@ -361,6 +489,50 @@
     "median_playtime_minutes": 0
   },
   {
+    "steam_app_id": 304930,
+    "name": "Unturned",
+    "slug": "unturned",
+    "developer": "Smartly Dressed Games",
+    "publisher": "",
+    "release_date": "2017-07-07",
+    "price_usd": 0.0,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Free To Play"
+    ],
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "short_description": "You're a survivor in the zombie infested ruins of society, and must work with your friends and forge alliances to remain among the living.",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304930/header.jpg?t=1765479894",
+    "screenshots": [],
+    "rising_score": 0.1013,
+    "gem_score": 0.0,
+    "hype_score": 0.0,
+    "review_velocity_7d": 28052.800000000003,
+    "follower_velocity_7d": 0,
+    "classification": "tracked",
+    "review_count": 561056,
+    "review_positive": 0,
+    "review_percentage": 91.1,
+    "owner_estimate": 75000000,
+    "ccu_estimate": 0,
+    "follower_count": 0,
+    "median_playtime_minutes": 0
+  },
+  {
     "steam_app_id": 367520,
     "name": "Hollow Knight",
     "slug": "hollow-knight",
@@ -396,6 +568,50 @@
     "review_positive": 0,
     "review_percentage": 96.9,
     "owner_estimate": 7500000,
+    "ccu_estimate": 0,
+    "follower_count": 0,
+    "median_playtime_minutes": 0
+  },
+  {
+    "steam_app_id": 892970,
+    "name": "Valheim",
+    "slug": "valheim",
+    "developer": "Iron Gate AB",
+    "publisher": "",
+    "release_date": "2021-02-02",
+    "price_usd": 9.99,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Early Access"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Early Access"
+    ],
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "short_description": "A brutal exploration and survival game for 1-10 players, set in a procedurally-generated purgatory inspired by viking culture. Battle, build, and conquer your way to a saga worthy of Odin’s patronage!",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/de0bdcf6c008c508a79d8e75eb91fc67f4bebd5d/header.jpg?t=1765967243",
+    "screenshots": [],
+    "rising_score": 0.0955,
+    "gem_score": 0.0,
+    "hype_score": 0.0,
+    "review_velocity_7d": 26441.75,
+    "follower_velocity_7d": 0,
+    "classification": "tracked",
+    "review_count": 528835,
+    "review_positive": 0,
+    "review_percentage": 94.1,
+    "owner_estimate": 15000000,
     "ccu_estimate": 0,
     "follower_count": 0,
     "median_playtime_minutes": 0
@@ -447,39 +663,41 @@
     "median_playtime_minutes": 0
   },
   {
-    "steam_app_id": 4324120,
-    "name": "R.A.T#200",
-    "slug": "rat200",
-    "developer": "Team Shorts",
+    "steam_app_id": 1966720,
+    "name": "Lethal Company",
+    "slug": "lethal-company",
+    "developer": "Zeekerss",
     "publisher": "",
-    "release_date": "2026-03-19",
-    "price_usd": 0.0,
+    "release_date": "2023-10-23",
+    "price_usd": 7.99,
     "genres": [
-      "Casual",
+      "Action",
+      "Adventure",
       "Indie",
-      "Free To Play"
+      "Early Access"
     ],
     "tags": [
-      "Casual",
+      "Action",
+      "Adventure",
       "Indie",
-      "Free To Play"
+      "Early Access"
     ],
     "platforms": [
       "windows"
     ],
-    "short_description": "A stealth-based survival thriller where you play as an experimental rat trapped in a laboratory. Hide, observe, and use the environment to escape without being detected.",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4324120/d1e005be009bd402571b2d865b9f51821eb1d956/header.jpg?t=1773921463",
+    "short_description": "A co-op horror about scavenging at abandoned moons to sell scrap to the Company.",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1762544438",
     "screenshots": [],
-    "rising_score": 0.0898,
-    "gem_score": 0.943,
+    "rising_score": 0.091,
+    "gem_score": 0.0,
     "hype_score": 0.0,
-    "review_velocity_7d": 0.0,
+    "review_velocity_7d": 25200.050000000003,
     "follower_velocity_7d": 0,
-    "classification": "new_release",
-    "review_count": 28,
+    "classification": "tracked",
+    "review_count": 504001,
     "review_positive": 0,
-    "review_percentage": 100.0,
-    "owner_estimate": 10000,
+    "review_percentage": 97.0,
+    "owner_estimate": 15000000,
     "ccu_estimate": 0,
     "follower_count": 0,
     "median_playtime_minutes": 0
@@ -523,264 +741,78 @@
     "median_playtime_minutes": 0
   },
   {
-    "steam_app_id": 374320,
-    "name": "DARK SOULS™ III",
-    "slug": "dark-souls-iii",
-    "developer": "FromSoftware, Inc.",
+    "steam_app_id": 620,
+    "name": "Portal 2",
+    "slug": "portal-2",
+    "developer": "Valve",
     "publisher": "",
-    "release_date": "2016-04-11",
-    "price_usd": 59.99,
+    "release_date": "2011-04-18",
+    "price_usd": 1.99,
     "genres": [
-      "Action"
+      "Action",
+      "Adventure"
     ],
     "tags": [
-      "Action"
-    ],
-    "platforms": [
-      "windows"
-    ],
-    "short_description": "Dark Souls continues to push the boundaries with the latest, ambitious chapter in the critically-acclaimed and genre-defining series. Prepare yourself and Embrace The Darkness!",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1748630784",
-    "screenshots": [],
-    "rising_score": 0.078,
-    "gem_score": 0.0,
-    "hype_score": 0.0,
-    "review_velocity_7d": 21594.5,
-    "follower_velocity_7d": 0,
-    "classification": "tracked",
-    "review_count": 431890,
-    "review_positive": 0,
-    "review_percentage": 94.3,
-    "owner_estimate": 7500000,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 0
-  },
-  {
-    "steam_app_id": 3615160,
-    "name": "Teddy's Haven - A Fantasy Inspired Shop Simulator",
-    "slug": "teddys-haven-a-fantasy-inspired-shop-simulator",
-    "developer": "Teddy Bear Games LLC",
-    "publisher": "",
-    "release_date": "2025-05-06",
-    "price_usd": 14.99,
-    "genres": [
-      "Casual",
-      "Indie",
-      "RPG",
-      "Simulation",
-      "Early Access"
-    ],
-    "tags": [
-      "Casual",
-      "Indie",
-      "RPG",
-      "Simulation",
-      "Early Access"
-    ],
-    "platforms": [
-      "windows"
-    ],
-    "short_description": "Teddy’s Haven is a cozy shop sim filled with magic and charm. Sell over 400 items, decorate with 250+ decorations, and create the shop of your dreams. Meet mythical creatures, level up your skills, ha",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615160/ead1d0dd92f2b9a0e04b897948d403da055d9251/header.jpg?t=1774554149",
-    "screenshots": [],
-    "rising_score": 0.0741,
-    "gem_score": 0.0,
-    "hype_score": 0.0,
-    "review_velocity_7d": 0.0,
-    "follower_velocity_7d": 0,
-    "classification": "new_release",
-    "review_count": 2027,
-    "review_positive": 0,
-    "review_percentage": 97.0,
-    "owner_estimate": 10000,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 0
-  },
-  {
-    "steam_app_id": 3712020,
-    "name": "意识分裂开篇季",
-    "slug": "意识分裂开篇季",
-    "developer": "NaughtyOba",
-    "publisher": "",
-    "release_date": "2025-05-20",
-    "price_usd": 2.0,
-    "genres": [
-      "Adventure",
-      "Indie"
-    ],
-    "tags": [
-      "Adventure",
-      "Indie"
+      "Action",
+      "Adventure"
     ],
     "platforms": [
       "windows",
-      "mac",
       "linux"
     ],
-    "short_description": "A sci-fi visual novel where you explore consciousness splitting through story choices and immersive dialogue, offering infinite replayable imagination.",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3712020/a89462c29df24ac8f03ca6ac67c39815d0e4f6b4/header.jpg?t=1748021932",
+    "short_description": "The \"Perpetual Testing Initiative\" has been expanded to allow you to design co-op puzzles for you and your friends!",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg?t=1745363004",
     "screenshots": [],
-    "rising_score": 0.0694,
-    "gem_score": 0.7216,
-    "hype_score": 0.0,
-    "review_velocity_7d": 0.0,
-    "follower_velocity_7d": 0,
-    "classification": "new_release",
-    "review_count": 74,
-    "review_positive": 0,
-    "review_percentage": 90.5,
-    "owner_estimate": 0,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 0
-  },
-  {
-    "steam_app_id": 284160,
-    "name": "BeamNG.drive",
-    "slug": "beamngdrive",
-    "developer": "BeamNG",
-    "publisher": "",
-    "release_date": "2015-05-29",
-    "price_usd": 19.99,
-    "genres": [
-      "Racing",
-      "Simulation",
-      "Early Access"
-    ],
-    "tags": [
-      "Racing",
-      "Simulation",
-      "Early Access"
-    ],
-    "platforms": [
-      "windows"
-    ],
-    "short_description": "A dynamic soft-body physics vehicle simulator capable of doing just about anything.",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/17f8af1312bc48e6cd90e5fb639d4981682af260/header.jpg?t=1772048121",
-    "screenshots": [],
-    "rising_score": 0.0693,
+    "rising_score": 0.0823,
     "gem_score": 0.0,
     "hype_score": 0.0,
-    "review_velocity_7d": 19185.2,
+    "review_velocity_7d": 22793.45,
     "follower_velocity_7d": 0,
     "classification": "tracked",
-    "review_count": 383704,
+    "review_count": 455869,
     "review_positive": 0,
-    "review_percentage": 97.4,
+    "review_percentage": 98.7,
     "owner_estimate": 7500000,
     "ccu_estimate": 0,
     "follower_count": 0,
     "median_playtime_minutes": 0
   },
   {
-    "steam_app_id": 960090,
-    "name": "Bloons TD 6",
-    "slug": "bloons-td-6",
-    "developer": "Ninja Kiwi",
+    "steam_app_id": 252950,
+    "name": "Rocket League®",
+    "slug": "rocket-league",
+    "developer": "Psyonix LLC",
     "publisher": "",
-    "release_date": "2018-12-17",
-    "price_usd": 5.59,
+    "release_date": "2015-07-06",
+    "price_usd": 0.0,
     "genres": [
-      "Strategy"
+      "Action",
+      "Indie",
+      "Racing",
+      "Sports"
     ],
     "tags": [
-      "Strategy"
-    ],
-    "platforms": [
-      "windows",
-      "mac"
-    ],
-    "short_description": "The Bloons are back and better than ever! Get ready for a massive 3D tower defense game designed to give you hours and hours of the best strategy gaming available.",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960090/header.jpg?t=1769161752",
-    "screenshots": [],
-    "rising_score": 0.069,
-    "gem_score": 0.0,
-    "hype_score": 0.0,
-    "review_velocity_7d": 19097.15,
-    "follower_velocity_7d": 0,
-    "classification": "tracked",
-    "review_count": 381943,
-    "review_positive": 0,
-    "review_percentage": 97.2,
-    "owner_estimate": 0,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 0
-  },
-  {
-    "steam_app_id": 548430,
-    "name": "Deep Rock Galactic",
-    "slug": "deep-rock-galactic",
-    "developer": "Ghost Ship Games",
-    "publisher": "",
-    "release_date": "2020-05-13",
-    "price_usd": 8.99,
-    "genres": [
-      "Action"
-    ],
-    "tags": [
-      "Action"
+      "Action",
+      "Indie",
+      "Racing",
+      "Sports"
     ],
     "platforms": [
       "windows"
     ],
-    "short_description": "Deep Rock Galactic is a 1-4 player co-op FPS featuring dwarven space miners, procedurally-generated destructible environments, and endless hordes of alien monsters. Explore cave systems, mine for mine",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/header.jpg?t=1773067746",
+    "short_description": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition. Rocket League includes casual and competitive",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252950/1bcf75584d0c3613b02b2d0a2721a6b411375784/header_alt_assets_15.jpg?t=1773251703",
     "screenshots": [],
-    "rising_score": 0.0673,
+    "rising_score": 0.0804,
     "gem_score": 0.0,
     "hype_score": 0.0,
-    "review_velocity_7d": 18640.15,
+    "review_velocity_7d": 28932.600000000002,
     "follower_velocity_7d": 0,
     "classification": "tracked",
-    "review_count": 372803,
+    "review_count": 578652,
     "review_positive": 0,
-    "review_percentage": 97.2,
-    "owner_estimate": 7500000,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 0
-  },
-  {
-    "steam_app_id": 1425980,
-    "name": "Stone Simulator – Just Be a Rock",
-    "slug": "stone-simulator-just-be-a-rock",
-    "developer": "STFGames",
-    "publisher": "",
-    "release_date": "2025-08-19",
-    "price_usd": 1.94,
-    "genres": [
-      "Adventure",
-      "Casual",
-      "Indie",
-      "Massively Multiplayer",
-      "Simulation"
-    ],
-    "tags": [
-      "Adventure",
-      "Casual",
-      "Indie",
-      "Massively Multiplayer",
-      "Simulation"
-    ],
-    "platforms": [
-      "windows"
-    ],
-    "short_description": "Stone Simulator is a meditative idle game where you live as a rock enduring endless seasons and absurd events. Survive storms, unlock quirky achievements, and observe a serene, ever-changing world. Pe",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1425980/576bd9837b7a853af3aebf4e01fa4a01a549a59f/header.jpg?t=1765573204",
-    "screenshots": [],
-    "rising_score": 0.0668,
-    "gem_score": 0.0,
-    "hype_score": 0.0,
-    "review_velocity_7d": 0.0,
-    "follower_velocity_7d": 0,
-    "classification": "new_release",
-    "review_count": 1456,
-    "review_positive": 0,
-    "review_percentage": 95.2,
-    "owner_estimate": 10000,
+    "review_percentage": 87.8,
+    "owner_estimate": 15000000,
     "ccu_estimate": 0,
     "follower_count": 0,
     "median_playtime_minutes": 0

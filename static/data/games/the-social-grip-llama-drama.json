@@ -28,6 +28,12 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100180/3f48ebd212c3fd72d9433e06263f9dc8b46c1075/ss_3f48ebd212c3fd72d9433e06263f9dc8b46c1075.600x338.jpg?t=1774202595",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100180/ecf882bb13addb76d4bb68cb1aa1289f2f7f16ef/ss_ecf882bb13addb76d4bb68cb1aa1289f2f7f16ef.600x338.jpg?t=1774202595"
   ],
+  "rising_score": 0.0,
+  "gem_score": 0.0,
+  "hype_score": 0.0,
+  "review_velocity_7d": 0.0,
+  "follower_velocity_7d": 0.0,
+  "classification": "new_release",
   "review_count": 0,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -38,6 +44,13 @@
   "history": [
     {
       "date": "2026-04-04",
+      "review_count": 0,
+      "review_percentage": 0.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-05",
       "review_count": 0,
       "review_percentage": 0.0,
       "ccu_estimate": 0,

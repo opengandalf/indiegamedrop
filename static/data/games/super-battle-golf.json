@@ -5,7 +5,7 @@
   "developer": "Brimstone",
   "publisher": "Oro Interactive",
   "release_date": "19 Feb, 2026",
-  "price_usd": 13.99,
+  "price_usd": 4.82,
   "genres": [
     "Casual",
     "Indie",
@@ -42,10 +42,17 @@
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 148,
+  "median_playtime_minutes": 172,
   "history": [
     {
       "date": "2026-04-04",
+      "review_count": 0,
+      "review_percentage": 0.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-05",
       "review_count": 0,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
