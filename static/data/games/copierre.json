@@ -3,8 +3,8 @@
   "name": "Copierre",
   "slug": "copierre",
   "developer": "Tiny Ghost Studios",
-  "publisher": "Tiny Ghost Studios",
-  "release_date": "Jan 23, 2018",
+  "publisher": "",
+  "release_date": "2018-01-23",
   "price_usd": 0.79,
   "genres": [
     "RPG",
@@ -19,33 +19,15 @@
   ],
   "short_description": "Take control of these heroes defending the kingdom by fighting against the endless waves of enemies!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/776780/header.jpg?t=1516741112",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/776780/ss_3941d3164dacab9ab6a0c4299ee412affdfe6a4d.600x338.jpg?t=1516741112",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/776780/ss_9c5fb5fc284f4672b5b6ed4f5e9cd4f2db547ba0.600x338.jpg?t=1516741112",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/776780/ss_4ba4b730413832abc984d393b6f13746b7489b5a.600x338.jpg?t=1516741112",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/776780/ss_92bfedce4f6f1aac7699e4c9ceaf60ab5c7d9d70.600x338.jpg?t=1516741112",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/776780/ss_1dab7416b54475d7c1a572b12b94d8b14222b890.600x338.jpg?t=1516741112"
-  ],
-  "detailed_description": "The kingdom requires the aid of these four heroes with the power of duplication!<br>Take control of these four heroes in this strategy game inspired by tower-defense modes of a past era of real-time strategy games.<br>Gain experience to level your heroes, and customize them by allocating stat points.<br>Amass materials salvaged from the countless monsters you've slain in combat to craft weapons, armor and accessories to bolster your party's prowess.<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li>Tense, tower-defense action spanning several stages with hours of content!<br></li><li>Endless equipment to craft through collected components!<br></li><li>Toe-tappin' tunes for dandy dudes and dudettes!<br></li><li>Charmingly-cute 2D sprites and artwork!</li></ul>",
-  "about_the_game": "The kingdom requires the aid of these four heroes with the power of duplication!<br>Take control of these four heroes in this strategy game inspired by tower-defense modes of a past era of real-time strategy games.<br>Gain experience to level your heroes, and customize them by allocating stat points.<br>Amass materials salvaged from the countless monsters you've slain in combat to craft weapons, armor and accessories to bolster your party's prowess.<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li>Tense, tower-defense action spanning several stages with hours of content!<br></li><li>Endless equipment to craft through collected components!<br></li><li>Toe-tappin' tunes for dandy dudes and dudettes!<br></li><li>Charmingly-cute 2D sprites and artwork!</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.5,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 10,
-  "review_positive": 10,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -53,26 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 10,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Swordia",
   "slug": "swordia",
   "developer": "Affliction Networks LLC",
-  "publisher": "Affliction Networks LLC",
-  "release_date": "Jan 23, 2026",
+  "publisher": "",
+  "release_date": "2026-01-23",
   "price_usd": 4.99,
   "genres": [
     "Adventure",
@@ -21,82 +21,23 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Swordia is more than a game... It’s a fully playable demonstration of a flexible 2D game engine and multiplayer framework designed for creators. Inspired by classic pixel-art RPGs and online worlds and much more!",
+  "short_description": "Swordia is more than a game... It’s a fully playable demonstration of a flexible 2D game engine and multiplayer framework designed for creators. Inspired by classic pixel-art RPGs and online worlds an",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115850/4a7383b660de3e3aefaa6e6e5015403fb80b763d/header.jpg?t=1769208916",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115850/ss_faf0e3333961071003c9b1915f2b6e3ed3dc6165.600x338.jpg?t=1769208916",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115850/ss_8e83fd571a3b6f76119c111854fea39721cfc282.600x338.jpg?t=1769208916",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115850/ss_bfa33d26ae0739ed6ec703e770e9f9dbb44ca22d.600x338.jpg?t=1769208916",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115850/ss_92672c268a84eb963793335ca58a4e7d090ccd0b.600x338.jpg?t=1769208916",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115850/ss_232dd19c2797075897203d3712775d4240357579.600x338.jpg?t=1769208916",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115850/ss_9e976d5bc946fd0b7d92113498f434e1b866dbf8.600x338.jpg?t=1769208916",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115850/ss_ffb92dcc39476c3b8c57b5f1824cff1ada4decb2.600x338.jpg?t=1769208916",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115850/ss_d74e666941b18e2f42f7718812fcd2480d172b2e.600x338.jpg?t=1769208916",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115850/ss_2849e8062f84d5c8687b37ac240bb529dc6852b2.600x338.jpg?t=1769208916",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115850/ss_9227f5f4f5a40043cef972475742617361f82b14.600x338.jpg?t=1769208916",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115850/ss_a5befd0bb4a082053778089511ef7833e7b2d8b7.600x338.jpg?t=1769208916",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115850/ss_6d442e818ea1b311ab4e910b167ae7b2ec563e5e.600x338.jpg?t=1769208916"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Swordia is more than a game... It’s a <strong>fully playable demonstration of a flexible 2D game engine and multiplayer framework</strong> designed for creators. Inspired by classic pixel-art RPGs and online worlds, Swordia exists as a live example of how <strong>any kind of 2D game</strong> can be built, iterated, and expanded in real time.</p><p class=\"bb_paragraph\" >Play it as an adventure.<br>Study it as a system.<br>Help shape it as a creator.</p><p class=\"bb_paragraph\" >Whether you're a <strong>game developer</strong>, <strong>designer</strong>, <strong>artist</strong>, or <strong>curious tinkerer</strong>, Swordia gives you a real, running 2D game to explore — showing how combat systems, progression, networking, UI, world simulation, and content pipelines come together in practice.</p><h2 class=\"bb_tag\" ><strong>A Playable Demo of a 2D Game Framework</strong></h2><p class=\"bb_paragraph\" >Swordia demonstrates:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Real-time 2D world simulation</p></li><li><p class=\"bb_paragraph\" >Modular combat and ability systems</p></li><li><p class=\"bb_paragraph\" >Instance-based dungeons and encounters</p></li><li><p class=\"bb_paragraph\" >Multiplayer networking and synchronization</p></li><li><p class=\"bb_paragraph\" >Character progression and data persistence</p></li><li><p class=\"bb_paragraph\" >UI, inventory, crafting, and economy systems</p></li><li><p class=\"bb_paragraph\" >Fully customizable UI and Developer SDK that lets the Developer customize literally everything</p></li><li><p class=\"bb_paragraph\" >Fully modifiable systems via both client and server plugin system.</p></li><li><p class=\"bb_paragraph\" >Instantly deploy map changes and more across your game(s) without even a need to restart!  </p></li></ul><p class=\"bb_paragraph\" >These systems aren’t just features — they’re <strong>examples</strong> of how you can structure your own 2D projects.</p><h2 class=\"bb_tag\" ><strong>Gameplay Features in the Demo World</strong></h2><p class=\"bb_paragraph\" ><strong>Spell Casting Combat</strong><br>Action-based combat with responsive abilities and animations.</p><p class=\"bb_paragraph\" ><strong>Exploration & Dungeons</strong><br>Open overworld exploration and instanced challenges for solo or group play.</p><p class=\"bb_paragraph\" ><strong>PVP & PVE</strong><br>Dedicated zones for cooperative gameplay and competitive encounters.</p><p class=\"bb_paragraph\" ><strong>Skill-Based Progression</strong><br>Gather, craft, cook, mine, farm, and build progression loops.</p><p class=\"bb_paragraph\" ><strong>Guilds & Social Systems</strong><br>Party and guild mechanics showcasing scalable multiplayer design.</p><h2 class=\"bb_tag\" ><strong>Built With the Community</strong></h2><p class=\"bb_paragraph\" >Swordia is developed openly by a small independent team. Community feedback directly influences engine features, gameplay systems, tools, and workflow design. Players help test mechanics. Developers help discuss architecture. Artists help shape visual direction.</p><p class=\"bb_paragraph\" >As Swordia evolves, so does the framework behind it.</p><h2 class=\"bb_tag\" ><strong>Join the Creation Community</strong></h2><p class=\"bb_paragraph\" >Our Discord is where:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >New engine features are previewed</p></li><li><p class=\"bb_paragraph\" >System designs are discussed</p></li><li><p class=\"bb_paragraph\" >Creator feedback drives priorities</p></li><li><p class=\"bb_paragraph\" >Early builds are tested</p></li><li><p class=\"bb_paragraph\" >Ideas become implemented features</p></li></ul><p class=\"bb_paragraph\" >We iterate quickly, build transparently, and welcome anyone interested in making 2D games — whether you're here to play, learn, or contribute ideas.</p><p class=\"bb_paragraph\" ><strong>Swordia is a game.<br>Swordia is a demo.<br>Swordia is a toolkit in motion.</strong></p><p class=\"bb_paragraph\" ><strong><u>Play it. Learn from it. Build your own worlds with it.</u></strong></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Swordia is more than a game... It’s a <strong>fully playable demonstration of a flexible 2D game engine and multiplayer framework</strong> designed for creators. Inspired by classic pixel-art RPGs and online worlds, Swordia exists as a live example of how <strong>any kind of 2D game</strong> can be built, iterated, and expanded in real time.</p><p class=\"bb_paragraph\" >Play it as an adventure.<br>Study it as a system.<br>Help shape it as a creator.</p><p class=\"bb_paragraph\" >Whether you're a <strong>game developer</strong>, <strong>designer</strong>, <strong>artist</strong>, or <strong>curious tinkerer</strong>, Swordia gives you a real, running 2D game to explore — showing how combat systems, progression, networking, UI, world simulation, and content pipelines come together in practice.</p><h2 class=\"bb_tag\" ><strong>A Playable Demo of a 2D Game Framework</strong></h2><p class=\"bb_paragraph\" >Swordia demonstrates:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Real-time 2D world simulation</p></li><li><p class=\"bb_paragraph\" >Modular combat and ability systems</p></li><li><p class=\"bb_paragraph\" >Instance-based dungeons and encounters</p></li><li><p class=\"bb_paragraph\" >Multiplayer networking and synchronization</p></li><li><p class=\"bb_paragraph\" >Character progression and data persistence</p></li><li><p class=\"bb_paragraph\" >UI, inventory, crafting, and economy systems</p></li><li><p class=\"bb_paragraph\" >Fully customizable UI and Developer SDK that lets the Developer customize literally everything</p></li><li><p class=\"bb_paragraph\" >Fully modifiable systems via both client and server plugin system.</p></li><li><p class=\"bb_paragraph\" >Instantly deploy map changes and more across your game(s) without even a need to restart!  </p></li></ul><p class=\"bb_paragraph\" >These systems aren’t just features — they’re <strong>examples</strong> of how you can structure your own 2D projects.</p><h2 class=\"bb_tag\" ><strong>Gameplay Features in the Demo World</strong></h2><p class=\"bb_paragraph\" ><strong>Spell Casting Combat</strong><br>Action-based combat with responsive abilities and animations.</p><p class=\"bb_paragraph\" ><strong>Exploration & Dungeons</strong><br>Open overworld exploration and instanced challenges for solo or group play.</p><p class=\"bb_paragraph\" ><strong>PVP & PVE</strong><br>Dedicated zones for cooperative gameplay and competitive encounters.</p><p class=\"bb_paragraph\" ><strong>Skill-Based Progression</strong><br>Gather, craft, cook, mine, farm, and build progression loops.</p><p class=\"bb_paragraph\" ><strong>Guilds & Social Systems</strong><br>Party and guild mechanics showcasing scalable multiplayer design.</p><h2 class=\"bb_tag\" ><strong>Built With the Community</strong></h2><p class=\"bb_paragraph\" >Swordia is developed openly by a small independent team. Community feedback directly influences engine features, gameplay systems, tools, and workflow design. Players help test mechanics. Developers help discuss architecture. Artists help shape visual direction.</p><p class=\"bb_paragraph\" >As Swordia evolves, so does the framework behind it.</p><h2 class=\"bb_tag\" ><strong>Join the Creation Community</strong></h2><p class=\"bb_paragraph\" >Our Discord is where:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >New engine features are previewed</p></li><li><p class=\"bb_paragraph\" >System designs are discussed</p></li><li><p class=\"bb_paragraph\" >Creator feedback drives priorities</p></li><li><p class=\"bb_paragraph\" >Early builds are tested</p></li><li><p class=\"bb_paragraph\" >Ideas become implemented features</p></li></ul><p class=\"bb_paragraph\" >We iterate quickly, build transparently, and welcome anyone interested in making 2D games — whether you're here to play, learn, or contribute ideas.</p><p class=\"bb_paragraph\" ><strong>Swordia is a game.<br>Swordia is a demo.<br>Swordia is a toolkit in motion.</strong></p><p class=\"bb_paragraph\" ><strong><u>Play it. Learn from it. Build your own worlds with it.</u></strong></p>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "MMO",
-    "PvP",
-    "Online PvP",
-    "Co-op",
-    "Online Co-op",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 10,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 70.0,
   "owner_estimate": 10000,
-  "ccu_estimate": 1,
+  "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 77.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 70.0,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
-      "review_count": 10,
-      "review_percentage": 70.0,
-      "ccu_estimate": 1,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
-      "review_count": 10,
-      "review_percentage": 70.0,
-      "ccu_estimate": 1,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Anomaly",
   "slug": "anomaly",
   "developer": "Firelight Studios, Bleeding Leprechaun Studios",
-  "publisher": "Firelight Studios",
-  "release_date": "Feb 3, 2023",
+  "publisher": "",
+  "release_date": "2023-02-03",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -21,37 +21,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Anomaly is a horror game inspired by Scanner Somber, the Garry's Mod game mode LiDAR, LiDAR.EXE, and The Backrooms. Try to escape from the level that you are in by finding keys and the exit, while not being killed by the Anomaly!",
+  "short_description": "Anomaly is a horror game inspired by Scanner Somber, the Garry's Mod game mode LiDAR, LiDAR.EXE, and The Backrooms. Try to escape from the level that you are in by finding keys and the exit, while not",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116460/header.jpg?t=1675740660",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116460/ss_f26b50e3f43770f216ef783774d7d46b5807188d.600x338.jpg?t=1675740660",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116460/ss_0babffdeef1c2b3066a1c8949f742c0ceaf50a63.600x338.jpg?t=1675740660",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116460/ss_6bdf1bd6c65ff17927887a656ead78fd472743b6.600x338.jpg?t=1675740660",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116460/ss_c20cb2fbf9120536139a51b0c00fe871f5a8ae68.600x338.jpg?t=1675740660",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116460/ss_76148e4f68b0b96da66b56360d4ab3afb301ba16.600x338.jpg?t=1675740660",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116460/ss_250d5129ab1192e8a2cef616989960c784be4c2f.600x338.jpg?t=1675740660"
-  ],
-  "detailed_description": "<h1>Workshop</h1><p>Play many player-created maps from Parkour masterpieces all the way to all-in-one stories!</p><br><h1>About the Game</h1>Anomaly is a horror game inspired by Scanner Somber and the Garry's Mod game mode, LIDAR.EXE. You are placed into a world of pure darkness and the only way to see is with your LiDAR gun. Explore around the environment the find keys to open doors to escape from this nightmare, but watch out... there is something lurking in the darkness ready to strike.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> LiDAR style scanning system<br></li><li> Smart Enemy <br></li><li> Developer-made maps<br></li><li> Workshop support for custom maps</li></ul>",
-  "about_the_game": "Anomaly is a horror game inspired by Scanner Somber and the Garry's Mod game mode, LIDAR.EXE. You are placed into a world of pure darkness and the only way to see is with your LiDAR gun. Explore around the environment the find keys to open doors to escape from this nightmare, but watch out... there is something lurking in the darkness ready to strike.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> LiDAR style scanning system<br></li><li> Smart Enemy <br></li><li> Developer-made maps<br></li><li> Workshop support for custom maps</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Workshop",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.6000000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 12,
-  "review_positive": 9,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 11,
-      "review_percentage": 81.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 12,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

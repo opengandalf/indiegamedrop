@@ -3,8 +3,8 @@
   "name": "Any Fish",
   "slug": "any-fish",
   "developer": "freeanygame",
-  "publisher": "freeanygame",
-  "release_date": "Aug 25, 2021",
+  "publisher": "",
+  "release_date": "2021-08-25",
   "price_usd": 0.87,
   "genres": [
     "Casual",
@@ -17,30 +17,13 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Any Fish is a simple match 3 game, tap screen drag and drop the fish get high score. Made in Construct 2. Enjoy the game!The game has nice graphics and music.Collect as many Jelly as you can and get the most points.Forward!",
+  "short_description": "Any Fish is a simple match 3 game, tap screen drag and drop the fish get high score. Made in Construct 2. Enjoy the game!The game has nice graphics and music.Collect as many Jelly as you can and get t",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1720200/header.jpg?t=1629882189",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1720200/ss_806da0cbead8217dd0a7c7451d1cd0a15607db16.600x338.jpg?t=1629882189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1720200/ss_38e3b0313303df9364c8c345da2dec5089ac7ac1.600x338.jpg?t=1629882189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1720200/ss_28aabdd62f231c8be928653e4b79be96756bd10c.600x338.jpg?t=1629882189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1720200/ss_7c597321a1fdb4bc4086a3d07abedf4abc5ef7ff.600x338.jpg?t=1629882189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1720200/ss_698f69dc8cb6a1072eb86c8c5b0aa130715aef93.600x338.jpg?t=1629882189"
-  ],
-  "detailed_description": "<strong>Any Fish</strong> is a simple match 3 game, tap screen drag and drop the fish get high score. Made in Construct 2. Enjoy the game!<br><br>The game has nice graphics and music.<br>Collect as many Jelly as you can and get the most points.<br>Forward!<br><br>The game is waiting for you:<br>- many jelles<br>- Pleasant music<br>- set of points<br><br><strong>Any Fish </strong> is Nice time killer.",
-  "about_the_game": "<strong>Any Fish</strong> is a simple match 3 game, tap screen drag and drop the fish get high score. Made in Construct 2. Enjoy the game!<br><br>The game has nice graphics and music.<br>Collect as many Jelly as you can and get the most points.<br>Forward!<br><br>The game is waiting for you:<br>- many jelles<br>- Pleasant music<br>- set of points<br><br><strong>Any Fish </strong> is Nice time killer.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 5,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Garden Snap",
   "slug": "garden-snap",
   "developer": "Petru",
-  "publisher": "Petru",
-  "release_date": "Oct 17, 2024",
+  "publisher": "",
+  "release_date": "2024-10-17",
   "price_usd": 1.99,
   "genres": [
     "Casual",
@@ -17,35 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "A relaxing game where you can remove alien plants to restore the forest. No quests or enemies, just relaxing. You can also change the weather if you prefer rain. Alternatively, you can also just walk around in nature in a peaceful forest.",
+  "short_description": "A relaxing game where you can remove alien plants to restore the forest. No quests or enemies, just relaxing. You can also change the weather if you prefer rain. Alternatively, you can also just walk ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241710/header.jpg?t=1729186105",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241710/ss_df370e69fd8023da3679f416a6a485b2cbe25f77.600x338.jpg?t=1729186105",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241710/ss_ca459a3f8b284d689591f28e34ec5b6d9443528b.600x338.jpg?t=1729186105",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241710/ss_27ba77681cc3243afe9ee82ecf0ffa8c54bf20d0.600x338.jpg?t=1729186105",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241710/ss_25232bf2ebea614d0569e87f237137c96dd9ae77.600x338.jpg?t=1729186105",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241710/ss_5567d82f7b7cfb3a238a8e3d1dac5f6cf0d4a758.600x338.jpg?t=1729186105"
-  ],
-  "detailed_description": "You can relax, explore nature and remove plants that don't belong in the forest. There are no quests, no fighting, you can just ignore those plants if you want to. <br />\r\n<br />\r\nYou can clean the forest by removing the plants by just clicking on them and they disappear with a nice visual effect.",
-  "about_the_game": "You can relax, explore nature and remove plants that don't belong in the forest. There are no quests, no fighting, you can just ignore those plants if you want to. <br />\r\n<br />\r\nYou can clean the forest by removing the plants by just clicking on them and they disappear with a nice visual effect.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

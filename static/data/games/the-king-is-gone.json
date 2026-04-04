@@ -3,8 +3,8 @@
   "name": "The king is gone",
   "slug": "the-king-is-gone",
   "developer": "Afloofdev",
-  "publisher": "Afloofdev",
-  "release_date": "Dec 15, 2020",
+  "publisher": "",
+  "release_date": "2020-12-15",
   "price_usd": 2.99,
   "genres": [
     "Indie"
@@ -16,33 +16,9 @@
     "windows",
     "linux"
   ],
-  "short_description": "A puzzle game about running, not because one has somewhere to be, but because one has somewhere they don't want to be. Different doors are blocking the way, that need to be unlocked to proceed. Each door will give a different benefit, and a combination of them is the key to succeed .. or fail.",
+  "short_description": "A puzzle game about running, not because one has somewhere to be, but because one has somewhere they don't want to be. Different doors are blocking the way, that need to be unlocked to proceed. Each d",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468820/header.jpg?t=1660996373",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468820/ss_f8a1952ba700e7bf2c61be559861fb083eca6c06.600x338.jpg?t=1660996373",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468820/ss_03173521ab8c4ca0d20410267798108dfe2b3718.600x338.jpg?t=1660996373",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468820/ss_30058ffae957cdbfefba6dc0e48309b9dc31f81f.600x338.jpg?t=1660996373",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468820/ss_b40e5b89952a264075fbd7d4247de2ddca8406f4.600x338.jpg?t=1660996373",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468820/ss_8ae400334361f482a6ac9f82a83a0b3200fa9ad9.600x338.jpg?t=1660996373",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468820/ss_57325a6348651b52f8860ae216f582069f74f6fc.600x338.jpg?t=1660996373"
-  ],
-  "detailed_description": "A puzzle game about running, not because one has somewhere to be, but because one has somewhere they don't want to be.<br><br>In this game, you have to run away. Different doors are blocking the way, that need to be unlocked to proceed as fast as possible. Each door will give a different benefit, and a combination of them is the key to succeed .. or fail.<br><br>To open a door, a puzzle is presented, where pieces of a key have to be rotated and merged together to open the door. The further you run, the more difficult the key puzzles become.<br><br>There are three different modes:<br><br><ul class=\"bb_ul\"><li> Normal Mode: Score is increasing the more you survive. It decreases the more you stay idle in a room without picking a door. There's a set amount of rooms to complete before reaching the end.<br></li><li> Endless Mode: Score increases with each room that is completed. There is no end to the amount of rooms presented.<br></li><li> Random Mode: Each door has a specific score as a reward when opened. Rooms and their rewards spawn at random.</li></ul><br>The available benefits from the doors are:<br><br><ul class=\"bb_ul\"><li> Green doors: Increase running speed.<br></li><li> Purple doors: Increase lock-picking skills, which makes opening new doors easier.<br></li><li> Blue doors: Gives extra chances before losing.<br></li><li> Brown doors provide no direct benefit, apart from helping complete more rooms.</li></ul>",
-  "about_the_game": "A puzzle game about running, not because one has somewhere to be, but because one has somewhere they don't want to be.<br><br>In this game, you have to run away. Different doors are blocking the way, that need to be unlocked to proceed as fast as possible. Each door will give a different benefit, and a combination of them is the key to succeed .. or fail.<br><br>To open a door, a puzzle is presented, where pieces of a key have to be rotated and merged together to open the door. The further you run, the more difficult the key puzzles become.<br><br>There are three different modes:<br><br><ul class=\"bb_ul\"><li> Normal Mode: Score is increasing the more you survive. It decreases the more you stay idle in a room without picking a door. There's a set amount of rooms to complete before reaching the end.<br></li><li> Endless Mode: Score increases with each room that is completed. There is no end to the amount of rooms presented.<br></li><li> Random Mode: Each door has a specific score as a reward when opened. Rooms and their rewards spawn at random.</li></ul><br>The available benefits from the doors are:<br><br><ul class=\"bb_ul\"><li> Green doors: Increase running speed.<br></li><li> Purple doors: Increase lock-picking skills, which makes opening new doors easier.<br></li><li> Blue doors: Gives extra chances before losing.<br></li><li> Brown doors provide no direct benefit, apart from helping complete more rooms.</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 1,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -52,19 +28,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

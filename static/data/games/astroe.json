@@ -3,8 +3,8 @@
   "name": "Astroe",
   "slug": "astroe",
   "developer": "Superstruct",
-  "publisher": "Superstruct",
-  "release_date": "Sep 29, 2017",
+  "publisher": "",
+  "release_date": "2017-09-29",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -20,36 +20,15 @@
   ],
   "short_description": "Multiplayer player 2D space battle. Collect gold, team up and take over the other team's satellites.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/705800/header.jpg?t=1534881028",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/705800/ss_062af27d2a183bf7b06cbd2bc96e73f74cc51d32.600x338.jpg?t=1534881028",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/705800/ss_67cd282f21ddff2501079415e870b90d33e60bf2.600x338.jpg?t=1534881028",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/705800/ss_cd747d9a6e83215da3a928de162749dff20aafae.600x338.jpg?t=1534881028",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/705800/ss_4225593fe88fa8b07992fd1f3900dd14d68f207c.600x338.jpg?t=1534881028",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/705800/ss_db1e18e566d86752e58fa196d97222ac193bdadd.600x338.jpg?t=1534881028"
-  ],
-  "detailed_description": "Astroe is a multiplayer 2D space battle game.  Destroy asteroids to mine gold and to upgrade your ship.  Team up and play with other players from around the world.<h2 class=\"bb_tag\" >Game Modes</h2><ul class=\"bb_ul\"><li> Satellites - Players are split into two teams. A team wins by capturing all of the satellites. To capture a satellite move your ship inside the circle around the satellite. If a player stays in the circle for 5 seconds they will capture the satellite for their team. Satellites give gold to all players on the team every 30 seconds. 12 satellites.  30 players max.<br></li><li> Free for All - No rules, just a bunch of ships destroying each other. 50 players max. Game restarts every 6 hours.</li></ul><h2 class=\"bb_tag\" >Controls</h2>Left mouse button to fire. Right mouse button or spacebar for main engines. Arrow keys or WASD keys for directional engines.<br><br><br>The Steam version of Astroe has no ads or wait time between respawning.  Play for free with ads on the website.",
-  "about_the_game": "Astroe is a multiplayer 2D space battle game.  Destroy asteroids to mine gold and to upgrade your ship.  Team up and play with other players from around the world.<h2 class=\"bb_tag\" >Game Modes</h2><ul class=\"bb_ul\"><li> Satellites - Players are split into two teams. A team wins by capturing all of the satellites. To capture a satellite move your ship inside the circle around the satellite. If a player stays in the circle for 5 seconds they will capture the satellite for their team. Satellites give gold to all players on the team every 30 seconds. 12 satellites.  30 players max.<br></li><li> Free for All - No rules, just a bunch of ships destroying each other. 50 players max. Game restarts every 6 hours.</li></ul><h2 class=\"bb_tag\" >Controls</h2>Left mouse button to fire. Right mouse button or spacebar for main engines. Arrow keys or WASD keys for directional engines.<br><br><br>The Steam version of Astroe has no ads or wait time between respawning.  Play for free with ads on the website.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Co-op",
-    "Online Co-op",
-    "Cross-Platform Multiplayer"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 1.0,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 20,
-  "review_positive": 13,
+  "review_positive": 0,
   "review_percentage": 65.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +36,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 18,
-      "review_percentage": 61.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 20,
       "review_percentage": 65.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

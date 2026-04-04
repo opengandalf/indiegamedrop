@@ -3,8 +3,8 @@
   "name": "Blattner Technologies",
   "slug": "blattner-technologies",
   "developer": "Blattner Technologies",
-  "publisher": "Blattner Technologies",
-  "release_date": "Apr 20, 2020",
+  "publisher": "",
+  "release_date": "2020-04-20",
   "price_usd": 0.0,
   "genres": [
     "Simulation",
@@ -18,31 +18,17 @@
     "windows",
     "mac"
   ],
-  "short_description": "Blattner Technologies empowers businesses in every industry to crowdsource new ideas from across their organizations. Capture and generate more value from data to fuel growth, and bring scalable solutions to market with security, sophistication, and speed.",
+  "short_description": "Blattner Technologies empowers businesses in every industry to crowdsource new ideas from across their organizations. Capture and generate more value from data to fuel growth, and bring scalable solut",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126120/header.jpg?t=1704981000",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126120/ss_842caa51f6f83752b019061815c1a1c16adf0c0e.600x338.jpg?t=1704981000",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126120/ss_6a555b43e8caa02f7a7e4f31309510b8d308316a.600x338.jpg?t=1704981000",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126120/ss_eb6ad6d5e85140bbe2c23d2994b69eb129178a51.600x338.jpg?t=1704981000",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126120/ss_6c53afecc234b7d8c05069d223ae9ecb498ae55d.600x338.jpg?t=1704981000",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126120/ss_8902b03b72fc72759904c54df7f1891511cd1af0.600x338.jpg?t=1704981000"
-  ],
-  "detailed_description": "Blattner Technologies empowers companies in a range of industries to easily build production-ready AI solutions for maximum data science productivity.<br />\r\n<br />\r\nAbout this software:<br />\r\nBlattner Technologies offers an Enterprise AI/ML development platform that allows organizations in a range of industries to put their data to work — no matter where it resides, with the only commercially available Federated Machine Learning platform on the market today. Collect data at the edge, uncover insights in your data, analyze ML model training, and make better decisions with predictive analytics.<br />\r\n<br />\r\nProduct Features:<br />\r\n·        Unity-based desktop application facilitates the preparation, analysis, and management of all ML data and models.<br />\r\n·        Low to no-code ML development simplifies predictive analytics with graphical point-and-click capabilities.<br />\r\n·        Federated ML development enables secure privacy-preserving ML training by deploying training to data sources, relaxing the need to collect data at a central point.<br />\r\n·        Autoscaling distributed ML training enables easy development for large-scale datasets.<br />\r\n·        Seamlessly integrated ML explainability helps in model debugging, revealing model risk, and increasing trust with application stakeholders.<br />\r\n·        Integrated Jupiter Notebooks enable the development and management experiment and production code in one place.<br />\r\n·        Granular level security controls (including data cell-level security) help support compliance with industry regulatory standards.<br />\r\n·        Support for leading open-source ML Libraries (e.g., TensorFlow, PyTorch) enables users to choose “the right tool for the right job.”<br />\r\n<br />\r\nFor more information contact us at https://blattnertech.com",
-  "about_the_game": "Blattner Technologies empowers companies in a range of industries to easily build production-ready AI solutions for maximum data science productivity.<br />\r\n<br />\r\nAbout this software:<br />\r\nBlattner Technologies offers an Enterprise AI/ML development platform that allows organizations in a range of industries to put their data to work — no matter where it resides, with the only commercially available Federated Machine Learning platform on the market today. Collect data at the edge, uncover insights in your data, analyze ML model training, and make better decisions with predictive analytics.<br />\r\n<br />\r\nProduct Features:<br />\r\n·        Unity-based desktop application facilitates the preparation, analysis, and management of all ML data and models.<br />\r\n·        Low to no-code ML development simplifies predictive analytics with graphical point-and-click capabilities.<br />\r\n·        Federated ML development enables secure privacy-preserving ML training by deploying training to data sources, relaxing the need to collect data at a central point.<br />\r\n·        Autoscaling distributed ML training enables easy development for large-scale datasets.<br />\r\n·        Seamlessly integrated ML explainability helps in model debugging, revealing model risk, and increasing trust with application stakeholders.<br />\r\n·        Integrated Jupiter Notebooks enable the development and management experiment and production code in one place.<br />\r\n·        Granular level security controls (including data cell-level security) help support compliance with industry regulatory standards.<br />\r\n·        Support for leading open-source ML Libraries (e.g., TensorFlow, PyTorch) enables users to choose “the right tool for the right job.”<br />\r\n<br />\r\nFor more information contact us at https://blattnertech.com",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.7000000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 14,
-  "review_positive": 12,
+  "review_positive": 0,
   "review_percentage": 85.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +36,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 11,
-      "review_percentage": 90.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 14,
       "review_percentage": 85.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

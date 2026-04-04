@@ -3,8 +3,8 @@
   "name": "FaceFun",
   "slug": "facefun",
   "developer": "LiveActive",
-  "publisher": "LiveActive",
-  "release_date": "Oct 3, 2018",
+  "publisher": "",
+  "release_date": "2018-10-03",
   "price_usd": 4.99,
   "genres": [
     "Animation & Modeling",
@@ -22,32 +22,11 @@
     "windows",
     "mac"
   ],
-  "short_description": "FaceFun is a virtual character simulation software,It support VRM and Live2d import,and can capture the user's face expression and head position changes in real-time through webcam, these actions are synchronized to the lovely animated characters.",
+  "short_description": "FaceFun is a virtual character simulation software,It support VRM and Live2d import,and can capture the user's face expression and head position changes in real-time through webcam, these actions are ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939920/header.jpg?t=1624320164",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939920/ss_460e095c7ca951ccf61aaba79fc1503420e7d617.600x338.jpg?t=1624320164",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939920/ss_f6041383c8c5c5d4d1b1342be0d5d97360d81d27.600x338.jpg?t=1624320164",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939920/ss_5b7009b43ed4d3a2dd22b6d5c98b5ecce31ed1c0.600x338.jpg?t=1624320164",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939920/ss_1cf90d651522e1991be95d7e6c3da524d9ecd666.600x338.jpg?t=1624320164",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939920/ss_684b0e23da2bfb3f11a94f0f03ce30a38ba7b603.600x338.jpg?t=1624320164",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939920/ss_ed70b24cd4d7641e4abaea2767869534850a35d8.600x338.jpg?t=1624320164"
-  ],
-  "detailed_description": "FaceFun is a virtual character simulation software, it can capture the user's face expression and head position changes in real-time through webcam, these actions are synchronized to the lovely animated characters.<br>vup,youtuber,vtuber use.<br><br>Version 2.0 Support：<h2 class=\"bb_tag\" >Vrm and Live2d Unlimited Import!</h2><br>Live2d Support File Type:  <h2 class=\"bb_tag\" >.model3.json</h2><br><br>The back button is hidden in the upper left corner of the model character window.<br>Mouse Scroll forward: zoom out characters<br>Mouse Scroll backward: zoom in the character<br>The mouse can drag the model at will.<br><br><br>FaceFun can be used when recording videos, live broadcasting, and other entertainment.<h2 class=\"bb_tag\" >Feature</h2><h2 class=\"bb_tag\" >>use the Live2d Virtual Role.</h2>>Synchronize facial expressions and head movements in real time.<br>>Window can be freely adjusted to the size you like.<br>>Support Windows and Mac OS X.<br><br>Note: Software needs to capture the user's facial movements in real time, so a computer or laptop needs a working webcam.",
-  "about_the_game": "FaceFun is a virtual character simulation software, it can capture the user's face expression and head position changes in real-time through webcam, these actions are synchronized to the lovely animated characters.<br>vup,youtuber,vtuber use.<br><br>Version 2.0 Support：<h2 class=\"bb_tag\" >Vrm and Live2d Unlimited Import!</h2><br>Live2d Support File Type:  <h2 class=\"bb_tag\" >.model3.json</h2><br><br>The back button is hidden in the upper left corner of the model character window.<br>Mouse Scroll forward: zoom out characters<br>Mouse Scroll backward: zoom in the character<br>The mouse can drag the model at will.<br><br><br>FaceFun can be used when recording videos, live broadcasting, and other entertainment.<h2 class=\"bb_tag\" >Feature</h2><h2 class=\"bb_tag\" >>use the Live2d Virtual Role.</h2>>Synchronize facial expressions and head movements in real time.<br>>Window can be freely adjusted to the size you like.<br>>Support Windows and Mac OS X.<br><br>Note: Software needs to capture the user's facial movements in real time, so a computer or laptop needs a working webcam.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 21,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 33.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +34,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 21,
-      "review_percentage": 33.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 21,
       "review_percentage": 33.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

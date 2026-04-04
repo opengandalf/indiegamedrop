@@ -3,8 +3,8 @@
   "name": "Car Parking",
   "slug": "car-parking",
   "developer": "Louie Inc",
-  "publisher": "Louie Inc",
-  "release_date": "Nov 17, 2022",
+  "publisher": "",
+  "release_date": "2022-11-17",
   "price_usd": 4.99,
   "genres": [
     "Casual",
@@ -21,35 +21,15 @@
   ],
   "short_description": "Car Parking - Car game with realistic graphics. Get behind the wheel of one of the cars and get to the finish line! But be careful you can not touch the cones and other obstacles.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202880/header.jpg?t=1668704689",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202880/ss_f9d426cffbbd662af191b950c52cf5ae4662a027.600x338.jpg?t=1668704689",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202880/ss_67036646878543a5b1bface1a23185addc18107b.600x338.jpg?t=1668704689",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202880/ss_b78ccdd8e69a3aaecda8b0eaa07509866fa5649e.600x338.jpg?t=1668704689",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202880/ss_9d8b6920b649fcaecfcde87557821727420e9198.600x338.jpg?t=1668704689",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202880/ss_3b0a028e51b7f917a290a03b55335600aaa04fd5.600x338.jpg?t=1668704689",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202880/ss_5ed5eb771d5d42c433d54f132aecf273bb31b4f3.600x338.jpg?t=1668704689",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202880/ss_9f5c0bb02fd6217035cf781260b822c83e594578.600x338.jpg?t=1668704689",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202880/ss_121de99a2d56808defd0e3a42c4eb805f7d92870.600x338.jpg?t=1668704689"
-  ],
-  "detailed_description": "Car Parking - Car game with realistic graphics. Get behind the wheel of one of the cars and get to the finish line! But be careful you can not touch the cones and other obstacles. Be careful not to crash the car. Park your car in many different parking lots in different environments and become the best parking master!",
-  "about_the_game": "Car Parking - Car game with realistic graphics. Get behind the wheel of one of the cars and get to the finish line! But be careful you can not touch the cones and other obstacles. Be careful not to crash the car. Park your car in many different parking lots in different environments and become the best parking master!",
-  "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 1.5,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 30,
-  "review_positive": 22,
+  "review_positive": 0,
   "review_percentage": 73.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 29,
-      "review_percentage": 72.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 30,
       "review_percentage": 73.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

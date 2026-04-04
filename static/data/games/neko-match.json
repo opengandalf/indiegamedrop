@@ -3,8 +3,8 @@
   "name": "Neko Match",
   "slug": "neko-match",
   "developer": "Hatake",
-  "publisher": "Hatake",
-  "release_date": "Nov 4, 2022",
+  "publisher": "",
+  "release_date": "2022-11-04",
   "price_usd": 0.49,
   "genres": [
     "Casual",
@@ -17,37 +17,9 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "This is a very simple match 3 game. Players need to eliminate all the patterns on the screen. The pattern on the first layer must be eliminated before the pattern on the next layer can be eliminated. If the grid is full If you do, you will lose.",
+  "short_description": "This is a very simple match 3 game. Players need to eliminate all the patterns on the screen. The pattern on the first layer must be eliminated before the pattern on the next layer can be eliminated. ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095460/header.jpg?t=1677159305",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095460/ss_efda37bb98e2b1a0094c7b466478cd758a0b8063.600x338.jpg?t=1677159305",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095460/ss_7dd54a717bc28e6144a9bda154ff28e3dcd74ee5.600x338.jpg?t=1677159305",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095460/ss_269a1bb7967eaa1a15ca88c373af00396060e667.600x338.jpg?t=1677159305",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095460/ss_b5aa647bd0bd0b0fb7abdf9e6df83cf536a21179.600x338.jpg?t=1677159305",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095460/ss_d692d4add9ca48cc12bd11a4d921de3cd0e239fa.600x338.jpg?t=1677159305",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095460/ss_9b53a5185b67aed5dd1f1d35693c01ca3dd93fff.600x338.jpg?t=1677159305",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095460/ss_6f276070e7635eec107943f499717d60742b5110.600x338.jpg?t=1677159305",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095460/ss_ecfadf145f0aef8828703ce674c0406787feb12c.600x338.jpg?t=1677159305",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095460/ss_8a2d8a224e74d459bcd9a8d8738dd08cb6619447.600x338.jpg?t=1677159305",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095460/ss_6e9b4aee2ccbc261fcce76548ca5901c9c3bb4a9.600x338.jpg?t=1677159305"
-  ],
-  "detailed_description": "This is a very simple match 3 game. Players need to eliminate all the patterns on the screen, and there will be many layers that need to be eliminated by the player. The pattern on the first layer must be eliminated before the pattern on the next layer can be eliminated, which will test the decision-making ability of the players. If the grid is full If you do, you will lose.<br />\r\n<br />\r\nfeature<br />\r\n1. Players need to use their brains to eliminate all patterns, and some patterns will be hidden in very deep corners.<br />\r\n<br />\r\n2. The difference between all the patterns is quite big. When players are looking for them, they will not find the wrong ones because they are too similar.",
-  "about_the_game": "This is a very simple match 3 game. Players need to eliminate all the patterns on the screen, and there will be many layers that need to be eliminated by the player. The pattern on the first layer must be eliminated before the pattern on the next layer can be eliminated, which will test the decision-making ability of the players. If the grid is full If you do, you will lose.<br />\r\n<br />\r\nfeature<br />\r\n1. Players need to use their brains to eliminate all patterns, and some patterns will be hidden in very deep corners.<br />\r\n<br />\r\n2. The difference between all the patterns is quite big. When players are looking for them, they will not find the wrong ones because they are too similar.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 2,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -57,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

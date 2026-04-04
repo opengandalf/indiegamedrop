@@ -3,8 +3,8 @@
   "name": "Leaf's Odyssey",
   "slug": "leafs-odyssey",
   "developer": "ludobloom",
-  "publisher": "ludobloom",
-  "release_date": "May 17, 2024",
+  "publisher": "",
+  "release_date": "2024-05-17",
   "price_usd": 15.0,
   "genres": [
     "Casual",
@@ -21,60 +21,27 @@
   ],
   "short_description": "A turn-based puzzle game with combat and exploration",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2880750/header.jpg?t=1732481534",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2880750/ss_1fe691224981bae49a78a990a6dcc15feca462aa.600x338.jpg?t=1732481534",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2880750/ss_63f780724bb83bacb9a5e8bd6a9ea2a683a68e16.600x338.jpg?t=1732481534",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2880750/ss_a68ada20f5493c6f8af796b5fea37a0da01c132c.600x338.jpg?t=1732481534",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2880750/ss_2432263b00f1a3c30069112d5ab9564b32b07fce.600x338.jpg?t=1732481534",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2880750/ss_d14a69f705e36e0f97d2d0d27cff956253f5afa3.600x338.jpg?t=1732481534",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2880750/ss_4ea35a195544c2837199e0bdbac7570b785f53e5.600x338.jpg?t=1732481534",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2880750/ss_efa112b269a22124cf2737f59da8c2b0df35f535.600x338.jpg?t=1732481534",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2880750/ss_76d2055e83f2005cd1431337a801fba122647ca3.600x338.jpg?t=1732481534",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2880750/ss_af897cfc9d4c89d364e89b6564e946ef3e0b72c7.600x338.jpg?t=1732481534",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2880750/ss_dd2d170b88034e6d908ac2162368027de3969180.600x338.jpg?t=1732481534"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Leaf's Odyssey is a turn-based game where you fight various monsters in order to solve each puzzle. Every move can be predicted and anticipated.</p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >A rich set of mechanics with many subtle interactions</p></li><li><p class=\"bb_paragraph\" >Over 100 carefully crafted puzzles in the main campaign</p></li><li><p class=\"bb_paragraph\" >Original soundtrack with over 30 minutes of music</p></li><li><p class=\"bb_paragraph\" >Full-featured level editor</p></li><li><p class=\"bb_paragraph\" >Play as a ferret</p></li></ul>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Leaf's Odyssey is a turn-based game where you fight various monsters in order to solve each puzzle. Every move can be predicted and anticipated.</p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >A rich set of mechanics with many subtle interactions</p></li><li><p class=\"bb_paragraph\" >Over 100 carefully crafted puzzles in the main campaign</p></li><li><p class=\"bb_paragraph\" >Original soundtrack with over 30 minutes of music</p></li><li><p class=\"bb_paragraph\" >Full-featured level editor</p></li><li><p class=\"bb_paragraph\" >Play as a ferret</p></li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 104,
+  "screenshots": [],
   "rising_score": 0.0005,
   "gem_score": 0.7142,
   "hype_score": 0.0,
-  "review_velocity_7d": 13.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 118,
-  "review_positive": 116,
+  "review_positive": 0,
   "review_percentage": 98.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "rising",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 105,
-      "review_percentage": 99.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 118,
       "review_percentage": 98.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

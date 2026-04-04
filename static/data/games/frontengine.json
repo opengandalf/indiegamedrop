@@ -3,8 +3,8 @@
   "name": "FrontEngine",
   "slug": "frontengine",
   "developer": "JeffreyChen",
-  "publisher": "JeffreyChen",
-  "release_date": "May 16, 2024",
+  "publisher": "",
+  "release_date": "2024-05-16",
   "price_usd": 1.5,
   "genres": [
     "Indie",
@@ -17,32 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "FrontEngine is software that can display various views on the front of your screen. Here are the different types of views it supports: Video Image Website GIF & WEBP Sound Text SceneFrontEngine can be force-stopped by pressing F12 on the keyboard.",
+  "short_description": "FrontEngine is software that can display various views on the front of your screen. Here are the different types of views it supports: Video Image Website GIF & WEBP Sound Text SceneFrontEngine ca",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2793470/header.jpg?t=1718851708",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2793470/ss_a5d3e66ae3b57c4db58bcd80d1501d87ca1c7ca7.600x338.jpg?t=1718851708",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2793470/ss_ddf32d95bb54a1252cba01d805b6ad70eb0b9a4b.600x338.jpg?t=1718851708",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2793470/ss_4d84bc281ae66a254adba05f5b14574bab67321c.600x338.jpg?t=1718851708",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2793470/ss_bd1378c85a12fd30197cc473e1e7ba565bd2d170.600x338.jpg?t=1718851708",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2793470/ss_cdfb236bea183895ee062a8db1eb483ae2410a6f.600x338.jpg?t=1718851708",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2793470/ss_420cb3182b976c27e14c84f681dd48b92c83fafb.600x338.jpg?t=1718851708"
-  ],
-  "detailed_description": "FrontEngine is software that can display various views on the front of your screen. Here are the different types of views it supports:<br><br><ul class=\"bb_ul\"><li> Video View:<br>Set an MP4 file as your front view. The player will automatically loop the selected video.<br>Note: This view will not capture any input from the mouse or keyboard.<br></li><li> Image View:<br>Set a PNG or JPG file as your front view. This view remains static.<br>Note: This view will not capture any input from the mouse or keyboard.<br></li><li> Website View:<br>Use a URL or a local HTML file to set the front view.<br>The Website view can be dynamic (updating content) or static.<br>Note: When you enable the input checkbox, this view can capture user input.<br></li><li> GIF & WEBP View:<br>Set a GIF or WEBP file as your front view. The player will automatically loop the animation.<br></li><li> Sound Player:<br>Play audio files (such as WAV, MP3, or MP4) that the user selects.<br></li><li> Text Overlay:<br>Display text provided by the user on the front of your screen.<br></li><li> Scene Management:<br>Users can create scene scripts and import/export scene_setting.json files.<br>The scene_setting.json script allows you to set and play multiple front views simultaneously, eliminating the need for manual switching.</li></ul><br>Additionally, FrontEngine can be force-stopped by pressing F12 on the keyboard.",
-  "about_the_game": "FrontEngine is software that can display various views on the front of your screen. Here are the different types of views it supports:<br><br><ul class=\"bb_ul\"><li> Video View:<br>Set an MP4 file as your front view. The player will automatically loop the selected video.<br>Note: This view will not capture any input from the mouse or keyboard.<br></li><li> Image View:<br>Set a PNG or JPG file as your front view. This view remains static.<br>Note: This view will not capture any input from the mouse or keyboard.<br></li><li> Website View:<br>Use a URL or a local HTML file to set the front view.<br>The Website view can be dynamic (updating content) or static.<br>Note: When you enable the input checkbox, this view can capture user input.<br></li><li> GIF & WEBP View:<br>Set a GIF or WEBP file as your front view. The player will automatically loop the animation.<br></li><li> Sound Player:<br>Play audio files (such as WAV, MP3, or MP4) that the user selects.<br></li><li> Text Overlay:<br>Display text provided by the user on the front of your screen.<br></li><li> Scene Management:<br>Users can create scene scripts and import/export scene_setting.json files.<br>The scene_setting.json script allows you to set and play multiple front views simultaneously, eliminating the need for manual switching.</li></ul><br>Additionally, FrontEngine can be force-stopped by pressing F12 on the keyboard.",
-  "supported_languages": "English, Traditional Chinese, French, Italian, German, Russian, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

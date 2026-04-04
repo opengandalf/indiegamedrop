@@ -3,8 +3,8 @@
   "name": "DrumSim",
   "slug": "drumsim",
   "developer": "The Holodeck",
-  "publisher": "Revintu",
-  "release_date": "Sep 25, 2017",
+  "publisher": "",
+  "release_date": "2017-09-25",
   "price_usd": 1.99,
   "genres": [
     "Casual",
@@ -20,35 +20,15 @@
   ],
   "short_description": "Simple drumkit simulator.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/707750/header.jpg?t=1506350489",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/707750/ss_0773962d8752a83fa46127a66d8eec1ea8aa1afd.600x338.jpg?t=1506350489",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/707750/ss_99d783fc5049e4b0498fc69e5bf96379bf6d1708.600x338.jpg?t=1506350489",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/707750/ss_545bc1484ed319298f41430a03a661595854803c.600x338.jpg?t=1506350489",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/707750/ss_8f78e1e528065ffdcda011999802b80a58afc30b.600x338.jpg?t=1506350489",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/707750/ss_16488280843f130ad517840e6f1c368a8d7dcc49.600x338.jpg?t=1506350489",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/707750/ss_def940061c1f5782fbfa24e12f68f4fc3d33bc40.600x338.jpg?t=1506350489"
-  ],
-  "detailed_description": "Simple drumkit simulator. Can be played with either the Keyboard or the Vive Motion controllers. Roomscale. Best played seated.<br><br>When playing with motion controllers, you can control the volume of the drums by how fast you hit them.<h2 class=\"bb_tag\" >Motion Controls</h2><br><ul class=\"bb_ul\"><li> Drumsticks: Motion control<br></li><li> Hihat Pedal: Left Trigger<br></li><li> Bass Pedal: Right Trigger</li></ul><h2 class=\"bb_tag\" >Keyboard Controls</h2><br><ul class=\"bb_ul\"><li> Hihat: S<br></li><li> Crash: W<br></li><li> Ride: L<br></li><li> Snare: D<br></li><li> Toms: F, J, K<br></li><li> Hihat Pedal: Left Shift<br></li><li> Bass Drum Pedal: Spacebar</li></ul>",
-  "about_the_game": "Simple drumkit simulator. Can be played with either the Keyboard or the Vive Motion controllers. Roomscale. Best played seated.<br><br>When playing with motion controllers, you can control the volume of the drums by how fast you hit them.<h2 class=\"bb_tag\" >Motion Controls</h2><br><ul class=\"bb_ul\"><li> Drumsticks: Motion control<br></li><li> Hihat Pedal: Left Trigger<br></li><li> Bass Pedal: Right Trigger</li></ul><h2 class=\"bb_tag\" >Keyboard Controls</h2><br><ul class=\"bb_ul\"><li> Hihat: S<br></li><li> Crash: W<br></li><li> Ride: L<br></li><li> Snare: D<br></li><li> Toms: F, J, K<br></li><li> Hihat Pedal: Left Shift<br></li><li> Bass Drum Pedal: Spacebar</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.55,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 11,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 18.2,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -56,26 +36,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 11,
-      "review_percentage": 18.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 11,
-      "review_percentage": 18.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
+      "date": "2026-04-04",
       "review_count": 11,
       "review_percentage": 18.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

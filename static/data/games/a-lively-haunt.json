@@ -3,8 +3,8 @@
   "name": "A Lively Haunt",
   "slug": "a-lively-haunt",
   "developer": "Kevin McConnell",
-  "publisher": "N/A",
-  "release_date": "Sep 7, 2023",
+  "publisher": "",
+  "release_date": "2023-09-07",
   "price_usd": 1.49,
   "genres": [
     "Adventure",
@@ -19,36 +19,15 @@
   ],
   "short_description": "Are you bold enough to enter A Lively Haunt alone? Or must you join a friend to investigate this 2-player, old-school, text parser adventure game?",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567670/header.jpg?t=1715719615",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567670/ss_d90a8b9d9baa27266487c5cfdb70e7d68efeb3af.600x338.jpg?t=1715719615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567670/ss_44ce0c3efc0acc60f980cffd53e9d56a2f760484.600x338.jpg?t=1715719615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567670/ss_f704d6e3ae407453e3af9e04e76dd9a41d8d5849.600x338.jpg?t=1715719615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567670/ss_0c35d2c63d0c4d62c7a61cdd317edf825d535eb0.600x338.jpg?t=1715719615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2567670/ss_a068ac5b73354bb092097a066ce32866022a094b.600x338.jpg?t=1715719615"
-  ],
-  "detailed_description": "Stranded on the roadside when your car breaks down, you quickly begin to realize that a faulty engine is the least of your troubles. You find yourself surrounded by malicious assailants with strange, seemingly supernatural, properties. And when you take shelter in a nearby estate, things only seem to get worse, as you begin to suspect an ominous connection between the historic property, and the grim, relentless revenants.<br><br><strong>! IMPORTANT - PLEASE READ !</strong><br>This game's 2-keyboard extension can cause letter key input (i.e. A - Z) detection issues for some players, particularly when using laptop or specialized keyboards. Please test letter key input as soon as possible after purchase, and if it's not being detected, see the troubleshooting discussion in the community hub.<br><br>Also note that the multiplayer mode supports 2-player, local \"couch\" co-op only, and that both players are required to have their own, separate keyboards. On-line multiplayer is not supported.<br><br><strong>FEATURES</strong><br><ul class=\"bb_ul\"><li><strong>One or Two Players:</strong> Full game can be played solo, or with a friend (local co-op only, 2 USB keyboards required).<br><br></li><li><strong>Hopelessly Nostalgic:</strong> Heavily inspired by adventure games of the mid to late 1980s. <i>Haunt</i> meticulously re-creates the visual style, audio design, and gameplay mechanics reminiscent of the time.<br><br></li><li><strong>Outdated Text Parser Interface:</strong> A \"point & click\" adventure, without all the bother of having to point or click. Type in commands such as \"OPEN DOOR\" or \"TAKE CROWBAR\" to solve dozens of challenging, but organically integrated, puzzles.<br><br></li><li><strong>Improves Typing Speed:</strong> Presumably. Practice your typing skills as you play. Be the envy of all your friends.</li></ul>",
-  "about_the_game": "Stranded on the roadside when your car breaks down, you quickly begin to realize that a faulty engine is the least of your troubles. You find yourself surrounded by malicious assailants with strange, seemingly supernatural, properties. And when you take shelter in a nearby estate, things only seem to get worse, as you begin to suspect an ominous connection between the historic property, and the grim, relentless revenants.<br><br><strong>! IMPORTANT - PLEASE READ !</strong><br>This game's 2-keyboard extension can cause letter key input (i.e. A - Z) detection issues for some players, particularly when using laptop or specialized keyboards. Please test letter key input as soon as possible after purchase, and if it's not being detected, see the troubleshooting discussion in the community hub.<br><br>Also note that the multiplayer mode supports 2-player, local \"couch\" co-op only, and that both players are required to have their own, separate keyboards. On-line multiplayer is not supported.<br><br><strong>FEATURES</strong><br><ul class=\"bb_ul\"><li><strong>One or Two Players:</strong> Full game can be played solo, or with a friend (local co-op only, 2 USB keyboards required).<br><br></li><li><strong>Hopelessly Nostalgic:</strong> Heavily inspired by adventure games of the mid to late 1980s. <i>Haunt</i> meticulously re-creates the visual style, audio design, and gameplay mechanics reminiscent of the time.<br><br></li><li><strong>Outdated Text Parser Interface:</strong> A \"point & click\" adventure, without all the bother of having to point or click. Type in commands such as \"OPEN DOOR\" or \"TAKE CROWBAR\" to solve dozens of challenging, but organically integrated, puzzles.<br><br></li><li><strong>Improves Typing Speed:</strong> Presumably. Practice your typing skills as you play. Be the envy of all your friends.</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 4,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

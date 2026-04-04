@@ -3,8 +3,8 @@
   "name": "Finn JRPG",
   "slug": "finn-jrpg",
   "developer": "Antti Juotasniemi",
-  "publisher": "Antti Juotasniemi",
-  "release_date": "Jun 11, 2024",
+  "publisher": "",
+  "release_date": "2024-06-11",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -22,33 +22,9 @@
   ],
   "short_description": "Turn-based traditional RPG in a low fantasy setting. Grind mobs for gold and gear in a setting based on old Finnish mythology.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015180/header.jpg?t=1718089354",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015180/ss_dbe75abdca89d0b59c9abba4d08eb3b36de376c5.600x338.jpg?t=1718089354",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015180/ss_71ee8d72d7627ce55c6d2a7f59abcd961143cca5.600x338.jpg?t=1718089354",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015180/ss_4ae29c558ef3ed3a83a075fdd869622d5eaff4f7.600x338.jpg?t=1718089354",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015180/ss_13b5697bb275c9a69acb92511473b821f4404cd4.600x338.jpg?t=1718089354",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015180/ss_a49003bc9d9c44f52d9b41d0ea3538cc682d874e.600x338.jpg?t=1718089354"
-  ],
-  "detailed_description": "Turn-based traditional RPG in a low fantasy setting. <br />\r\nGrind mobs for gold and gear in a setting based on old Finnish mythology, then upgrade your party to advance to stronger areas.<br />\r\nDefeat monsters, then invest gold in stores to upgrade your characters to be able to defeat stronger monsters.<br />\r\nZero instances of downtime between player inputs and gameplay for the entire duration of the game, optimal for casual play as well as speedrunning.<br />\r\nFully playable with Controllers and Steam Deck.<br />\r\n<br />\r\nCreated by a single developer on a shoe-string budget.<br />\r\n<br />\r\nAll source code available under AGPL license at:<br />\r\nhttps://github.com/anttijuo/CrowningReverie",
-  "about_the_game": "Turn-based traditional RPG in a low fantasy setting. <br />\r\nGrind mobs for gold and gear in a setting based on old Finnish mythology, then upgrade your party to advance to stronger areas.<br />\r\nDefeat monsters, then invest gold in stores to upgrade your characters to be able to defeat stronger monsters.<br />\r\nZero instances of downtime between player inputs and gameplay for the entire duration of the game, optimal for casual play as well as speedrunning.<br />\r\nFully playable with Controllers and Steam Deck.<br />\r\n<br />\r\nCreated by a single developer on a shoe-string budget.<br />\r\n<br />\r\nAll source code available under AGPL license at:<br />\r\nhttps://github.com/anttijuo/CrowningReverie",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +32,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

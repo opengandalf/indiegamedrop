@@ -3,8 +3,8 @@
   "name": "BioEntity",
   "slug": "bioentity",
   "developer": "Sneaky Party LLC",
-  "publisher": "Sneaky Party LLC",
-  "release_date": "Sep 23, 2020",
+  "publisher": "",
+  "release_date": "2020-09-23",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -18,35 +18,17 @@
     "windows",
     "mac"
   ],
-  "short_description": "BioEntity is a 2D single-player platformer by indie studio Sneaky Party LLC. Control the entity through 30+ levels to defeat the sinister Morph Nexus Corporation. Discover power-ups, defeat enemies, unlock bonus levels and compete for the fastest level times!",
+  "short_description": "BioEntity is a 2D single-player platformer by indie studio Sneaky Party LLC. Control the entity through 30+ levels to defeat the sinister Morph Nexus Corporation. Discover power-ups, defeat enemies, u",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751270/header.jpg?t=1742993994",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751270/ss_dc1eddc15899931e107bd68dd9ba40af19000603.600x338.jpg?t=1742993994",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751270/ss_94256a89a943df9fe75c2c7b6aca8dc72743ede5.600x338.jpg?t=1742993994",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751270/ss_c7339b226dd8cdf66c58bbb5b8097e7ee8fcbbd4.600x338.jpg?t=1742993994",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751270/ss_12f6636d477a7d5612c26ebd78d4abb12a13d2af.600x338.jpg?t=1742993994",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751270/ss_f4e161fccc7127f18dab731d0557893779827610.600x338.jpg?t=1742993994"
-  ],
-  "detailed_description": "Entry # 142:<br>The entity has shown incredible progress these past few weeks. Not only does it respond to various stimuli, it can accelerate rapidly and shows signs of learning from previous trials. It’s a shame that my research must be kept hidden from prying eyes, but I have never been more certain of the importance of my work.<br>- Dr. Marie Fernandez<br><br><strong>BioEntity</strong> is the first game from independent studio Sneaky Party LLC!<br><br><ul class=\"bb_ul\"><li>30+ levels of 2D retro platforming action!<br></li><li>Move in any direction and stick to any surface!<br></li><li>Defeat enemies and get power-ups for new abilities!<br></li><li>Boss battles, bonus minigames and unlockables!<br></li><li>Collect energy and race for the fastest level times!<br></li><li>Steam Achievements and Leaderboards!</li></ul>",
-  "about_the_game": "Entry # 142:<br>The entity has shown incredible progress these past few weeks. Not only does it respond to various stimuli, it can accelerate rapidly and shows signs of learning from previous trials. It’s a shame that my research must be kept hidden from prying eyes, but I have never been more certain of the importance of my work.<br>- Dr. Marie Fernandez<br><br><strong>BioEntity</strong> is the first game from independent studio Sneaky Party LLC!<br><br><ul class=\"bb_ul\"><li>30+ levels of 2D retro platforming action!<br></li><li>Move in any direction and stick to any surface!<br></li><li>Defeat enemies and get power-ups for new abilities!<br></li><li>Boss battles, bonus minigames and unlockables!<br></li><li>Collect energy and race for the fastest level times!<br></li><li>Steam Achievements and Leaderboards!</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +36,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

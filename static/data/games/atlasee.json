@@ -3,8 +3,8 @@
   "name": "Atlasee",
   "slug": "atlasee",
   "developer": "Martin Chrzan",
-  "publisher": "Martin Chrzan",
-  "release_date": "Apr 30, 2019",
+  "publisher": "",
+  "release_date": "2019-04-30",
   "price_usd": 0.99,
   "genres": [
     "Utilities"
@@ -17,27 +17,13 @@
   ],
   "short_description": "Modern file manager with a native eye tracking support.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1052330/header.jpg?t=1556732082",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1052330/ss_56028989391041eae50742199f9b2074b2a7055e.600x338.jpg?t=1556732082",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1052330/ss_3835c960b3861923e9ba06818a00c1de604d4844.600x338.jpg?t=1556732082",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1052330/ss_337a9571634387b9a31b31029f419ab2be8edce6.600x338.jpg?t=1556732082",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1052330/ss_837537aa45fcfbca7c8736db353405f84a9c70f4.600x338.jpg?t=1556732082",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1052330/ss_a1f1800d41a3752047b8fd90bbcb5d3637e80c86.600x338.jpg?t=1556732082"
-  ],
-  "detailed_description": "Modern file manager with a native eye tracking support. It supports all the functionality you expect from your file manager enhanced by information where you are looking. This makes it more natural to use and opens up a whole world of possibilities of how you can interact with your file system.<br><br><i>Eye tracking device is not required to use this application.</i><br>Currently supported eye trackers are <i>Tobii EyeX</i> and <i>Tobii 4C</i><br><br><strong>CAUTION: Beta version phase - Please use at your own risk, author is not responsible for any data loss! </strong><h2 class=\"bb_tag\" >Key features</h2><ul class=\"bb_ul\"><li> Browse, open, copy, paste files/folders </li></ul><br><ul class=\"bb_ul\"><li>File/folder details</li></ul><br><ul class=\"bb_ul\"><li>Gallery mode with a gaze zoom</li></ul><br><ul class=\"bb_ul\"><li>Gaze selection</li></ul><br><ul class=\"bb_ul\"><li>Gaze scrolling</li></ul><br><ul class=\"bb_ul\"><li>More to come!</li></ul>",
-  "about_the_game": "Modern file manager with a native eye tracking support. It supports all the functionality you expect from your file manager enhanced by information where you are looking. This makes it more natural to use and opens up a whole world of possibilities of how you can interact with your file system.<br><br><i>Eye tracking device is not required to use this application.</i><br>Currently supported eye trackers are <i>Tobii EyeX</i> and <i>Tobii 4C</i><br><br><strong>CAUTION: Beta version phase - Please use at your own risk, author is not responsible for any data loss! </strong><h2 class=\"bb_tag\" >Key features</h2><ul class=\"bb_ul\"><li> Browse, open, copy, paste files/folders </li></ul><br><ul class=\"bb_ul\"><li>File/folder details</li></ul><br><ul class=\"bb_ul\"><li>Gallery mode with a gaze zoom</li></ul><br><ul class=\"bb_ul\"><li>Gaze selection</li></ul><br><ul class=\"bb_ul\"><li>Gaze scrolling</li></ul><br><ul class=\"bb_ul\"><li>More to come!</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -47,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Mainland",
   "slug": "mainland",
   "developer": "Vasily Voronkov, Ryan Joseph, Peter Kosyh",
-  "publisher": "INSTEAD Community",
-  "release_date": "May 8, 2015",
+  "publisher": "",
+  "release_date": "2015-05-08",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -21,63 +21,21 @@
   ],
   "short_description": "A text adventure game about a 19th century explorer who finds himself stranded and alone.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366800/header.jpg?t=1447373466",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366800/ss_2d0e8ec5cc90dca74224aba86dab8931025c444b.600x338.jpg?t=1447373466",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366800/ss_6670746b5c49859a99ea2d801f1c4ee9788e24c5.600x338.jpg?t=1447373466",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366800/ss_530778e7b43baf8f6e33751c7203f5b19b22e625.600x338.jpg?t=1447373466",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366800/ss_31edccda0382b8605bf924cdbb57277c673bb8ab.600x338.jpg?t=1447373466",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366800/ss_aecaa30e749e5e9492dd02d0d9168f37e6dc06f0.600x338.jpg?t=1447373466",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366800/ss_0e974a15eb5285a5cae26ba3c382fa1b70ad248d.600x338.jpg?t=1447373466",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366800/ss_7e967fe01d0a6c10ede3fc7aca451317391f8a47.600x338.jpg?t=1447373466",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366800/ss_968de4193306a3e4e249228f43b18c51b6fb7352.600x338.jpg?t=1447373466",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366800/ss_96e11fe7d7c446fab88d66fe6df38f9f7c9ffe45.600x338.jpg?t=1447373466",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366800/ss_9481f9f87c4f415d28c90c2a1bedc15180ab427f.600x338.jpg?t=1447373466"
-  ],
-  "detailed_description": "<strong>Mainland</strong> is a free text adventure game about an explorer in the 19th century whose captain and crew have been killed by plague. The game focuses on unconventional story and atmosphere rather than hardcore puzzles, and features gameplay similar to classic adventure games.",
-  "about_the_game": "<strong>Mainland</strong> is a free text adventure game about an explorer in the 19th century whose captain and crew have been killed by plague. The game focuses on unconventional story and atmosphere rather than hardcore puzzles, and features gameplay similar to classic adventure games.",
-  "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 247,
-  "review_positive": 204,
+  "review_positive": 0,
   "review_percentage": 82.6,
   "owner_estimate": 150000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 118,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 244,
-      "review_percentage": 82.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 247,
-      "review_percentage": 82.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 247,
       "review_percentage": 82.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

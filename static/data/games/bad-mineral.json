@@ -3,8 +3,8 @@
   "name": "Bad Mineral",
   "slug": "bad-mineral",
   "developer": "Seasonalz",
-  "publisher": "Seasonalz Labs",
-  "release_date": "Nov 1, 2023",
+  "publisher": "",
+  "release_date": "2023-11-01",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -19,42 +19,15 @@
   ],
   "short_description": "A gritty local multiplayer, controller-based platform shooter with one heal per round.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2609750/header.jpg?t=1714476934",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2609750/ss_ea1428ae73373b2828629a602d07bffd137c1046.600x338.jpg?t=1714476934",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2609750/ss_c9f80cbc0b4ce2efe6ecdc917fef5b200caa648b.600x338.jpg?t=1714476934",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2609750/ss_109552049693fed5861697371a33146e48caeba7.600x338.jpg?t=1714476934",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2609750/ss_ddc38cc6d0a4221abdd4c351ac9cfabce4670c4b.600x338.jpg?t=1714476934",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2609750/ss_64729db47ee9d88ac6db95c10bd5d1ff635c45dc.600x338.jpg?t=1714476934",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2609750/ss_3e269874f996c2d098623a7af8dd7d21256e5a5c.600x338.jpg?t=1714476934",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2609750/ss_2802721ae33ed6da9bf997c847083c9b0e22120e.600x338.jpg?t=1714476934",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2609750/ss_31f922684683b90c1f599e0a60c116dd96eda350.600x338.jpg?t=1714476934"
-  ],
-  "detailed_description": "Bad Mineral is a gritty platform shooter with local multiplayer for up to four players. Test your skill and adaptability in short, brutal firefights, and taxing hand to hand combat, as you play chicken with one heal per round. Each hit damages your character's ability to aim, walk, stand or avoid bleeding out.<br />\r\n<br />\r\n-Humiliate your friends with 80 weapons, including guns, blades, less-lethal, and agricultural tools. <br />\r\n<br />\r\n-Build your skill against challenging NPC waves.<br />\r\n<br />\r\n-Take on the horde, alone or with friends.<br />\r\n<br />\r\n-Win exponentially with gun-game, or handicap yourself with reverse-gun-game.<br />\r\n<br />\r\n-Pepper-spray a zombie.<br />\r\n<br />\r\n**The game is single player only with a mouse and keyboard setup, controllers are required for multiplayer.**",
-  "about_the_game": "Bad Mineral is a gritty platform shooter with local multiplayer for up to four players. Test your skill and adaptability in short, brutal firefights, and taxing hand to hand combat, as you play chicken with one heal per round. Each hit damages your character's ability to aim, walk, stand or avoid bleeding out.<br />\r\n<br />\r\n-Humiliate your friends with 80 weapons, including guns, blades, less-lethal, and agricultural tools. <br />\r\n<br />\r\n-Build your skill against challenging NPC waves.<br />\r\n<br />\r\n-Take on the horde, alone or with friends.<br />\r\n<br />\r\n-Win exponentially with gun-game, or handicap yourself with reverse-gun-game.<br />\r\n<br />\r\n-Pepper-spray a zombie.<br />\r\n<br />\r\n**The game is single player only with a mouse and keyboard setup, controllers are required for multiplayer.**",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Full controller support",
-    "Remote Play Together"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.4,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 8,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

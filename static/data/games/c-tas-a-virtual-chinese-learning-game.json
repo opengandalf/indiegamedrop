@@ -3,8 +3,8 @@
   "name": "C-TAS: A Virtual Chinese Learning Game",
   "slug": "c-tas-a-virtual-chinese-learning-game",
   "developer": "A Lonely Vanguard",
-  "publisher": "A Lonely Vanguard",
-  "release_date": "Jul 29, 2020",
+  "publisher": "",
+  "release_date": "2020-07-29",
   "price_usd": 0.0,
   "genres": [
     "Free To Play",
@@ -19,34 +19,15 @@
   ],
   "short_description": "This game is intended to teach the user Chinese in a VR environment.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1277290/header.jpg?t=1596009793",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1277290/ss_36041920d90f4dc9b2b4d5996f94fc65a63de157.600x338.jpg?t=1596009793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1277290/ss_a0727803dd21102dc59da463eb1e1a332b81315f.600x338.jpg?t=1596009793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1277290/ss_009482540315816012b72ef434d96b1fef3a74a3.600x338.jpg?t=1596009793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1277290/ss_fb5300600ce671af2213dc9c62c126114575210b.600x338.jpg?t=1596009793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1277290/ss_8c7249e74db136964d316ba9e776a61dda76f718.600x338.jpg?t=1596009793"
-  ],
-  "detailed_description": "This is a game that is designed to assist the user's learning and understanding of Chinese by utilizing a VR environment. <br />\r\n<br />\r\nThroughout the game, the user will be guided between basic Chinese lessons by CTAS (an abbreviation for Chinese Teaching ASsistant). Currently, two lessons are integrated into the game: Lesson 1 informs the user with basic counting in Chinese, lesson 2 handles basic Chinese vocabulary. After each lesson, there is a short quiz, which will check if the user was truly able to digest the material given. <br />\r\n<br />\r\nIt is a 1-man developed game by a high school student. Thank you for enjoying.",
-  "about_the_game": "This is a game that is designed to assist the user's learning and understanding of Chinese by utilizing a VR environment. <br />\r\n<br />\r\nThroughout the game, the user will be guided between basic Chinese lessons by CTAS (an abbreviation for Chinese Teaching ASsistant). Currently, two lessons are integrated into the game: Lesson 1 informs the user with basic counting in Chinese, lesson 2 handles basic Chinese vocabulary. After each lesson, there is a short quiz, which will check if the user was truly able to digest the material given. <br />\r\n<br />\r\nIt is a 1-man developed game by a high school student. Thank you for enjoying.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 5,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 60.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 60.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

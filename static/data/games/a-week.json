@@ -3,8 +3,8 @@
   "name": "A Week",
   "slug": "a-week",
   "developer": "KINYA",
-  "publisher": "PsychoFlux Entertainment",
-  "release_date": "Jan 26, 2024",
+  "publisher": "",
+  "release_date": "2024-01-26",
   "price_usd": 0.74,
   "genres": [
     "Adventure",
@@ -21,56 +21,27 @@
   ],
   "short_description": "A Week는 단편 횡스크롤 어드벤처 게임입니다. 당신이 해야 할 건 딱 한 가지 밖에 없습니다. 당신의 반려견을 아낌없이 사랑해 주세요.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153880/header.jpg?t=1727275767",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153880/ss_e22761c2ff1014b3bf9201c7e086a2b473a2c473.600x338.jpg?t=1727275767",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153880/ss_6c1609562b66b8e7b32b1c8ad773b64579a2657d.600x338.jpg?t=1727275767",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153880/ss_22b9bf68414a9f2b32c61742e963fd941e5816b0.600x338.jpg?t=1727275767",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153880/ss_973086c5d3339585ff94f564ffab24db281d90bc.600x338.jpg?t=1727275767",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153880/ss_6e177c75b6aa23672b174198c47d8aebb5a3c77e.600x338.jpg?t=1727275767",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153880/ss_157edf20a25e65ef5530fea001654d35a0277d73.600x338.jpg?t=1727275767",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153880/ss_49fc940bb1b47723d8492dfed71edf51bba9eda0.600x338.jpg?t=1727275767",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153880/ss_efaa8cb6e04fc6c315e9b93d2e96c2066c89c1a8.600x338.jpg?t=1727275767"
-  ],
-  "detailed_description": "<strong>A Week</strong>는 단편 횡스크롤 어드벤처 게임입니다.<br><br>당신이 해야 할 건 딱 한 가지 밖에 없습니다. 당신의 반려견을 아낌없이 사랑해 주세요.",
-  "about_the_game": "<strong>A Week</strong>는 단편 횡스크롤 어드벤처 게임입니다.<br><br>당신이 해야 할 건 딱 한 가지 밖에 없습니다. 당신의 반려견을 아낌없이 사랑해 주세요.",
-  "supported_languages": "Korean",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0016,
-  "gem_score": 0.7296,
+  "screenshots": [],
+  "rising_score": 0.0,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 24.0,
+  "review_velocity_7d": 3.85,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 77,
-  "review_positive": 71,
+  "review_positive": 0,
   "review_percentage": 92.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 53,
-      "review_percentage": 92.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 77,
       "review_percentage": 92.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

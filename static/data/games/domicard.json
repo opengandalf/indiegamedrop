@@ -3,8 +3,8 @@
   "name": "DomiCard",
   "slug": "domicard",
   "developer": "Jun Zhao",
-  "publisher": "Jun Zhao",
-  "release_date": "Aug 16, 2018",
+  "publisher": "",
+  "release_date": "2018-08-16",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -25,38 +25,15 @@
   ],
   "short_description": "Play dominos on the PC, without running out of dominos? Want to build something, even if a house? Free Demo is available for everyone.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886330/header.jpg?t=1727272908",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886330/ss_880e1c4c5b6766e70024bfb4542293381f3294b2.600x338.jpg?t=1727272908",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886330/ss_596c145042814ce9f89ea810383e31949e160fbd.600x338.jpg?t=1727272908",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886330/ss_d7a4804f366b1c2da1ef61baec789b8fbbe4c6a7.600x338.jpg?t=1727272908",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886330/ss_3b5bff21e1e412fabaf8249d2c7c4ef56df2c2f1.600x338.jpg?t=1727272908",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886330/ss_4ef6131ea6a4cc6fd6441c05b08c2ad0f80f6cc6.600x338.jpg?t=1727272908"
-  ],
-  "detailed_description": "Play Domino game in DomiCard.  You can create as many dominos as you want in this game before your computer gets burned. Also, \"Cubes\" can be used to build anything you like, such as a bridge, a gate, or some other buildings.<br />\r\nFollow me on Twitter to find out more interesting videos.<br />\r\n<br />\r\nRight now, this game supports Single-player and Multiplayer (Local area network and online), the Workshop is available as well!<br />\r\nDomiCard is just a simulation, try to play domino game in the real world with your friends, you may make a leap.<br />\r\n<br />\r\nPlease leave comments for helping me to improve this game.<br />\r\nNote: a folder \"savedExamples\" is under \"/SteamApps/common/DomiCard/DomiCard_Data/savedExamples\". Players can load those three example folders and have a shoot with them. Also, there are some projects available on the Steam Workshop. Hope you enjoy.",
-  "about_the_game": "Play Domino game in DomiCard.  You can create as many dominos as you want in this game before your computer gets burned. Also, \"Cubes\" can be used to build anything you like, such as a bridge, a gate, or some other buildings.<br />\r\nFollow me on Twitter to find out more interesting videos.<br />\r\n<br />\r\nRight now, this game supports Single-player and Multiplayer (Local area network and online), the Workshop is available as well!<br />\r\nDomiCard is just a simulation, try to play domino game in the real world with your friends, you may make a leap.<br />\r\n<br />\r\nPlease leave comments for helping me to improve this game.<br />\r\nNote: a folder \"savedExamples\" is under \"/SteamApps/common/DomiCard/DomiCard_Data/savedExamples\". Players can load those three example folders and have a shoot with them. Also, there are some projects available on the Steam Workshop. Hope you enjoy.",
-  "supported_languages": "English, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Online Co-op",
-    "LAN Co-op",
-    "Steam Achievements",
-    "Steam Workshop",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 0.8500000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 17,
-  "review_positive": 13,
+  "review_positive": 0,
   "review_percentage": 76.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -64,19 +41,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 15,
-      "review_percentage": 73.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 17,
       "review_percentage": 76.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Terracosmic",
   "slug": "terracosmic",
   "developer": "Jakub Klementewicz",
-  "publisher": "Jakub Klementewicz",
-  "release_date": "May 27, 2020",
+  "publisher": "",
+  "release_date": "2020-05-27",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -24,33 +24,9 @@
   ],
   "short_description": "Terracosmic is a game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280500/header.jpg?t=1615672911",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280500/ss_c638ad8567d7de446c7c9a286c32df68a111960d.600x338.jpg?t=1615672911",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280500/ss_6ac6d911aefcd294a6160d3d60cf3ce7c47fa51e.600x338.jpg?t=1615672911",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280500/ss_bffdb78e56ce24519396244c16be18e102e9f944.600x338.jpg?t=1615672911",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280500/ss_eb5a490f5c7af18b0dfbf1eb561530c037517dd3.600x338.jpg?t=1615672911",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280500/ss_91682d88579792afada0d1710c06abbadacbcbf1.600x338.jpg?t=1615672911",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280500/ss_d40136d2837465b55f4de8289d9b7349e025827f.600x338.jpg?t=1615672911"
-  ],
-  "detailed_description": "Terracosmic is a game.",
-  "about_the_game": "Terracosmic is a game.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 24,
-  "review_positive": 10,
+  "review_positive": 0,
   "review_percentage": 41.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +34,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 24,
-      "review_percentage": 41.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 24,
       "review_percentage": 41.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

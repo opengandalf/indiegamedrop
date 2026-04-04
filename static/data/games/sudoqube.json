@@ -3,8 +3,8 @@
   "name": "Sudoqube",
   "slug": "sudoqube",
   "developer": "Catalyst Cypher Games",
-  "publisher": "Catalyst Cypher Games",
-  "release_date": "Jun 20, 2022",
+  "publisher": "",
+  "release_date": "2022-06-20",
   "price_usd": 2.99,
   "genres": [
     "Casual"
@@ -17,33 +17,9 @@
   ],
   "short_description": "Randomly Generated 3 dimensional sudoku puzzle game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1991790/header.jpg?t=1655750263",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1991790/ss_a98de58b366a3deaeb4fd518b2b40928f5a5dfa4.600x338.jpg?t=1655750263",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1991790/ss_cd5fbe54de74411f3c4d52a451903c7cebfb804d.600x338.jpg?t=1655750263",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1991790/ss_0672883262e2ee058444c007064965406d9b5884.600x338.jpg?t=1655750263",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1991790/ss_ef554d779c2a751b5922c9cb5d357e0a1e635f2a.600x338.jpg?t=1655750263",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1991790/ss_6784e716b7612b53cbf812f6f7cfb262f8436866.600x338.jpg?t=1655750263"
-  ],
-  "detailed_description": "Sudoqube is a fully 3 dimensional sudoku puzzle game. Unlike other 3D sudoku games that only utilize the surface of a cube, Sudoqube also utilizes the internal space of the cube. The puzzle consists of 729 individual cubes that make a larger 9x9x9 cube and each puzzle technically consists of 27 individual sudokus (9 sudokus in each direction). The normal rules of sudoku apply to every slice of the cube when viewed in any direction. The player can randomly generate near infinite puzzles with a select-able difficulty setting.",
-  "about_the_game": "Sudoqube is a fully 3 dimensional sudoku puzzle game. Unlike other 3D sudoku games that only utilize the surface of a cube, Sudoqube also utilizes the internal space of the cube. The puzzle consists of 729 individual cubes that make a larger 9x9x9 cube and each puzzle technically consists of 27 individual sudokus (9 sudokus in each direction). The normal rules of sudoku apply to every slice of the cube when viewed in any direction. The player can randomly generate near infinite puzzles with a select-able difficulty setting.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

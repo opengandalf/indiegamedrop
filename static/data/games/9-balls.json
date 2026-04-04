@@ -3,8 +3,8 @@
   "name": "9 Balls",
   "slug": "9-balls",
   "developer": "CasGames",
-  "publisher": "CasGames",
-  "release_date": "Apr 20, 2018",
+  "publisher": "",
+  "release_date": "2018-04-20",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -21,35 +21,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "\"9 Balls\" is a miniature game of billiards. The control is made by the mouse vutton and the spacebar. Use the mouse to aim and change the force of the impact and the spacebar to strike the cue on the ball.",
+  "short_description": "\"9 Balls\" is a miniature game of billiards. The control is made by the mouse vutton and the spacebar. Use the mouse to aim and change the force of the impact and the spacebar to strike the c",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839920/header.jpg?t=1524219664",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839920/ss_b7dcb1abe22057daeb21ed5a51832641647a6e15.600x338.jpg?t=1524219664",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839920/ss_100cf6562500f01a85776bee5650091e9785a224.600x338.jpg?t=1524219664",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839920/ss_2caafb56cad4740d6447a74fd5d74c154a921fc0.600x338.jpg?t=1524219664",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839920/ss_906c9f860efb7fe6e1d6b6c8065d93795a034c4a.600x338.jpg?t=1524219664",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839920/ss_4d0be385a9b3e237a2bd91f7c8cd17ab3af5e9ab.600x338.jpg?t=1524219664",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839920/ss_dbf8fa296d261749c93fa93c00cccb78e987b8da.600x338.jpg?t=1524219664"
-  ],
-  "detailed_description": "\"9 Balls\" is a miniature game of billiards. The control is made by the mouse vutton and the spacebar. Use the mouse to aim and change the force of the impact and the spacebar to strike the cue on the ball.<br />\r\n<br />\r\n9 balls (briefly)<br />\r\nIn the \"Nine\" you play with a nine sighted balls, numbered from the first to the ninth, and jam. Balls should be played in order, from a smaller number to a larger one. The player who scored the ninth ball with the right blow, wins the game.<br />\r\n<br />\r\n8 balls (briefly)<br />\r\nWhen playing the \"Eight\" use a cue ball and 15 sighted balls, numbered from 1 to 15. Before the player makes a hit on the ball number 8, all seven balls of his group (solid - with numbers from 1 to 7 or striped - from 9 to 15 ) must leave the table. The blows are made to order.",
-  "about_the_game": "\"9 Balls\" is a miniature game of billiards. The control is made by the mouse vutton and the spacebar. Use the mouse to aim and change the force of the impact and the spacebar to strike the cue on the ball.<br />\r\n<br />\r\n9 balls (briefly)<br />\r\nIn the \"Nine\" you play with a nine sighted balls, numbered from the first to the ninth, and jam. Balls should be played in order, from a smaller number to a larger one. The player who scored the ninth ball with the right blow, wins the game.<br />\r\n<br />\r\n8 balls (briefly)<br />\r\nWhen playing the \"Eight\" use a cue ball and 15 sighted balls, numbered from 1 to 15. Before the player makes a hit on the ball number 8, all seven balls of his group (solid - with numbers from 1 to 7 or striped - from 9 to 15 ) must leave the table. The blows are made to order.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 2.95,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 59,
-  "review_positive": 15,
+  "review_positive": 0,
   "review_percentage": 25.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,26 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 59,
-      "review_percentage": 23.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 59,
-      "review_percentage": 25.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 59,
       "review_percentage": 25.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

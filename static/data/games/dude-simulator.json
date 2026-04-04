@@ -3,8 +3,8 @@
   "name": "Dude Simulator",
   "slug": "dude-simulator",
   "developer": "Kiddy",
-  "publisher": "Kiddy",
-  "release_date": "Jul 13, 2017",
+  "publisher": "",
+  "release_date": "2017-07-13",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -23,62 +23,27 @@
   ],
   "short_description": "Dude Simulator is an open world sandbox game. This is a life simulator. The main objective is to enjoy what you are doing.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654990/header.jpg?t=1714243975",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654990/ss_44b7d6a368911ca91dd17677a87a9ff90cfac0b1.600x338.jpg?t=1714243975",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654990/ss_375b87969ce8a4fbc2ed33079c1724e4bc31e3b8.600x338.jpg?t=1714243975",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654990/ss_b0287c609a52bf458c6020501e55adb0fa8bda30.600x338.jpg?t=1714243975",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654990/ss_1b02f7ae8738fbad66ed6e82fe10a5f859050feb.600x338.jpg?t=1714243975",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654990/ss_34a988b7a149618c48571318cf7f38b347914c36.600x338.jpg?t=1714243975",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654990/ss_cdad1223c1fb85891dc184cef1725606aedb5f71.600x338.jpg?t=1714243975",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/654990/ss_7cdf732c3d8c32593351d246a6ef1680576f0950.600x338.jpg?t=1714243975"
-  ],
-  "detailed_description": "<strong>Dude Simulator</strong> is an open world sandbox game. This is a life simulator. The main objective is to enjoy what you are doing. You can do whatever you want. You can explore the town, find money and spend it to buy something, kill someone, enter any building – just everything that can be done in real life. You can live a regular life of an ordinary person or you can do any crazy things, play jokes on other people, and so on – it is all up to you.",
-  "about_the_game": "<strong>Dude Simulator</strong> is an open world sandbox game. This is a life simulator. The main objective is to enjoy what you are doing. You can do whatever you want. You can explore the town, find money and spend it to buy something, kill someone, enter any building – just everything that can be done in real life. You can live a regular life of an ordinary person or you can do any crazy things, play jokes on other people, and so on – it is all up to you.",
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German, Spanish - Spain, Simplified Chinese, Korean, Portuguese - Portugal, Russian, Japanese<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Trading Cards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 1854,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0003,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 12.0,
+  "review_velocity_7d": 103.80000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2076,
-  "review_positive": 1277,
+  "review_positive": 0,
   "review_percentage": 61.5,
   "owner_estimate": 750000,
-  "ccu_estimate": 8,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 45,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2064,
-      "review_percentage": 60.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 2076,
       "review_percentage": 61.5,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
-      "review_count": 2076,
-      "review_percentage": 61.5,
-      "ccu_estimate": 8,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

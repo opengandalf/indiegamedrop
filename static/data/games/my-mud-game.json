@@ -3,8 +3,8 @@
   "name": "My Mud Game",
   "slug": "my-mud-game",
   "developer": "Red Cat Studio",
-  "publisher": "Red Cat Studio",
-  "release_date": "May 29, 2020",
+  "publisher": "",
+  "release_date": "2020-05-29",
   "price_usd": 15.99,
   "genres": [
     "Adventure",
@@ -23,42 +23,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Do you know Mud? It was a popular multiplayer online game 20 years ago ~ It is only declining with the development of graphical games, and My Mud Game is to let everyone recall the past and even create games developed by their own games.",
+  "short_description": "Do you know Mud? It was a popular multiplayer online game 20 years ago ~ It is only declining with the development of graphical games, and My Mud Game is to let everyone recall the past and even creat",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318530/header.jpg?t=1591761208",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318530/ss_21c781112040546a1ec7baf1ae2e1f19531f90d6.600x338.jpg?t=1591761208",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318530/ss_c1a602197b9f8d3fc0ded69c50966ec28ed7d01c.600x338.jpg?t=1591761208",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318530/ss_d4c37e78480c06f013d57c086d0a34ac5ad90cb3.600x338.jpg?t=1591761208",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318530/ss_3e908e693d17d5baebb728812bfaad2e3efac73f.600x338.jpg?t=1591761208",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318530/ss_5704569c9af3a9b80fd615c29b90f7407192ba9f.600x338.jpg?t=1591761208",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318530/ss_4a4ddec3d71d8d12de2b26ba695b7e0da88438dd.600x338.jpg?t=1591761208",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318530/ss_ca20d227f143682a2729d739f0e35334b3d6209b.600x338.jpg?t=1591761208",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318530/ss_fa7c9c93a270665a706ad3b9d87baeed9feab1d1.600x338.jpg?t=1591761208",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318530/ss_253b982fbe48c407faf9c7d6f283ef8218b6cfd2.600x338.jpg?t=1591761208",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318530/ss_311258aefdeab59052a616e1411b0a89474894fc.600x338.jpg?t=1591761208",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318530/ss_9430aeefe2a58367f70e4567c3bd34e87fcda037.600x338.jpg?t=1591761208",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318530/ss_b7f40facf88eed7bc2bfc4f4432dc76e5f78e17e.600x338.jpg?t=1591761208",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1318530/ss_08276feca191114703ac767d4e3d224f6e9fe6bc.600x338.jpg?t=1591761208"
-  ],
-  "detailed_description": "<strong>＊＊My English is not very good, those are using Google Translate to translate chinese word. If there are any questions, please tell me, thanks a lot~:) ＊＊</strong><br>***** If you have any suggestions or wish to add features to facilitate your development of Mud, please go to  discussion forum I*****<br>***** Mud production instruction, please go to the official website of  Red Cat Studio  to check *****<br><br>Hello~<br>I am Ghoster, the administrator of the Unknown World Mud. My Mud Game is an independent game made by me.<br><br>The so-called Mud refers to Multi-User Dungeon (multiplayer network dungeon game).<br>It is mainly an online game presented in the form of text narration. The game mainly relies on the keyboard to input commands in order to interact with the world in the game, which can be said to be the predecessor of modern MMORPG.<br><br>Don't tell everyone that ...<br>My Mud Game's current game content is very poor, because My Mud Game is not so much a game as it is used as a \"Mud game making system\" function display.<br>The content of My Mud Game alone shows that I don't need to spend a lot of time to make it, but it took me more than a year to develop it! !<br>The main reason is that what I want to do is a ...<br><br>\"Everyone who can’t write programs can create their own Mud game in a simple way! !』<br><br>so...<br>The real goal of My Mud Game development is to allow users to modify according to their own preferences to create their own Mud games.<br>(I will not admit that I actually developed My Mud Game, just because I want to play Mud games made by others ... XD)<br><br>In addition, in order not to lose the traditional Mud feeling, but also hope that people who play Mud for the first time will not be discouraged by the complicated command play mode, so I try my best to use the keyboard to enter the game mode, Change to just use the mouse to click,<br><br>For those who are easily lost and too lazy to draw maps, a small map function is added.<br>In order to make the picture more attractive and attractive, some objects have also added graphics.<br><br>My Mud Game now has only one of Mud's most basic functions, including exploration, combat, equipment, props use and skill system, as well as simple event functions.<br>For more advanced development, I hope to develop after interacting with players, so ... please try to present your needs! !<br>Within the scope allowed by the system architecture, I will try to add more functions.<br><br>My Mud Game itself is a stand-alone version of Mud game, which does not have a connection function.<br>Therefore, the content sharing function of personally made games becomes very important. After I understand how to use the Steam workshop,<br>It will be open for everyone to upload the Mud game they made.<br><br>Regarding the teaching part, I found that the description of the file method is not good, so I will find time to make as many My Mud Game game production teaching videos as possible in the future.<br><br>Anyway, please give me some advice ~",
-  "about_the_game": "<strong>＊＊My English is not very good, those are using Google Translate to translate chinese word. If there are any questions, please tell me, thanks a lot~:) ＊＊</strong><br>***** If you have any suggestions or wish to add features to facilitate your development of Mud, please go to  discussion forum I*****<br>***** Mud production instruction, please go to the official website of  Red Cat Studio  to check *****<br><br>Hello~<br>I am Ghoster, the administrator of the Unknown World Mud. My Mud Game is an independent game made by me.<br><br>The so-called Mud refers to Multi-User Dungeon (multiplayer network dungeon game).<br>It is mainly an online game presented in the form of text narration. The game mainly relies on the keyboard to input commands in order to interact with the world in the game, which can be said to be the predecessor of modern MMORPG.<br><br>Don't tell everyone that ...<br>My Mud Game's current game content is very poor, because My Mud Game is not so much a game as it is used as a \"Mud game making system\" function display.<br>The content of My Mud Game alone shows that I don't need to spend a lot of time to make it, but it took me more than a year to develop it! !<br>The main reason is that what I want to do is a ...<br><br>\"Everyone who can’t write programs can create their own Mud game in a simple way! !』<br><br>so...<br>The real goal of My Mud Game development is to allow users to modify according to their own preferences to create their own Mud games.<br>(I will not admit that I actually developed My Mud Game, just because I want to play Mud games made by others ... XD)<br><br>In addition, in order not to lose the traditional Mud feeling, but also hope that people who play Mud for the first time will not be discouraged by the complicated command play mode, so I try my best to use the keyboard to enter the game mode, Change to just use the mouse to click,<br><br>For those who are easily lost and too lazy to draw maps, a small map function is added.<br>In order to make the picture more attractive and attractive, some objects have also added graphics.<br><br>My Mud Game now has only one of Mud's most basic functions, including exploration, combat, equipment, props use and skill system, as well as simple event functions.<br>For more advanced development, I hope to develop after interacting with players, so ... please try to present your needs! !<br>Within the scope allowed by the system architecture, I will try to add more functions.<br><br>My Mud Game itself is a stand-alone version of Mud game, which does not have a connection function.<br>Therefore, the content sharing function of personally made games becomes very important. After I understand how to use the Steam workshop,<br>It will be open for everyone to upload the Mud game they made.<br><br>Regarding the teaching part, I found that the description of the file method is not good, so I will find time to make as many My Mud Game game production teaching videos as possible in the future.<br><br>Anyway, please give me some advice ~",
-  "supported_languages": "Simplified Chinese, Traditional Chinese, English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 7,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 85.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -66,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 85.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 85.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

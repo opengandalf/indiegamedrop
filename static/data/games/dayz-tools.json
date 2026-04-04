@@ -3,8 +3,8 @@
   "name": "DayZ Tools",
   "slug": "dayz-tools",
   "developer": "Bohemia Interactive",
-  "publisher": "Bohemia Interactive",
-  "release_date": "Nov 7, 2018",
+  "publisher": "",
+  "release_date": "2018-11-07",
   "price_usd": 0.0,
   "genres": [],
   "tags": [],
@@ -13,59 +13,27 @@
   ],
   "short_description": "A complete tools suite for the game engine powering DayZ.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/830640/header.jpg?t=1726044608",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/830640/ss_6ea0621da7962a1cfd0b147e10bfec8369802eb1.600x338.jpg?t=1726044608",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/830640/ss_83dbcb9436c5d29b74b10e0a0250c2ee776fc96f.600x338.jpg?t=1726044608",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/830640/ss_b8b530ba1ed101469203880adb6bf4757e985558.600x338.jpg?t=1726044608",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/830640/ss_72e4e729674fd4cb467181c63695cf8ac643c031.600x338.jpg?t=1726044608",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/830640/ss_4dd41a0cb72ff89a0fcb62381989a52aac39e216.600x338.jpg?t=1726044608",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/830640/ss_6928c839feedf29028b2872493e865aba0c853ec.600x338.jpg?t=1726044608"
-  ],
-  "detailed_description": "DayZ Tools is a complete tools suite for the Enfusion and Real Virtuality game engine powering DayZ. It allows you to produce your own content for the game.<br><br><strong>Key tools</strong><br><ul class=\"bb_ul\"><li><strong>Workbench</strong><br>This is a powerful all-in-one tool developed to handle modifications related to the Enfusion engine game core such as scripting, particles editing, UI editing, and others.<br></li><li><strong>Addon Builder</strong><br>The purpose of this tool is to convert all data into formats readable by the game engine and pack them into a single archive.<br></li><li><strong>Publisher</strong><br>This tool can publish whole Mods onto Steam Workshop to be used in the game.<br></li><li><strong>Terrain Builder</strong><br>This is a terrain creation tool. It allows users to build their own virtual worlds from scratch.<br></li><li><strong>Object Builder</strong><br>This tool is used to create, edit and configure 3D models made for DayZ.<br></li><li><strong>Central Economy Editor</strong><br>This tool is used to configure the spawn and loot spots of a terrain.</li></ul>",
-  "about_the_game": "DayZ Tools is a complete tools suite for the Enfusion and Real Virtuality game engine powering DayZ. It allows you to produce your own content for the game.<br><br><strong>Key tools</strong><br><ul class=\"bb_ul\"><li><strong>Workbench</strong><br>This is a powerful all-in-one tool developed to handle modifications related to the Enfusion engine game core such as scripting, particles editing, UI editing, and others.<br></li><li><strong>Addon Builder</strong><br>The purpose of this tool is to convert all data into formats readable by the game engine and pack them into a single archive.<br></li><li><strong>Publisher</strong><br>This tool can publish whole Mods onto Steam Workshop to be used in the game.<br></li><li><strong>Terrain Builder</strong><br>This is a terrain creation tool. It allows users to build their own virtual worlds from scratch.<br></li><li><strong>Object Builder</strong><br>This tool is used to create, edit and configure 3D models made for DayZ.<br></li><li><strong>Central Economy Editor</strong><br>This tool is used to configure the spawn and loot spots of a terrain.</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 310,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 18.5,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 370,
-  "review_positive": 328,
+  "review_positive": 0,
   "review_percentage": 88.6,
-  "owner_estimate": 150000,
+  "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 329,
-      "review_percentage": 89.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 370,
-      "review_percentage": 88.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
+      "date": "2026-04-04",
       "review_count": 370,
       "review_percentage": 88.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

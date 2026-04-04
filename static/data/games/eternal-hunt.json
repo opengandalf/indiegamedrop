@@ -3,8 +3,8 @@
   "name": "Eternal Hunt",
   "slug": "eternal-hunt",
   "developer": "OLKA",
-  "publisher": "OLKA",
-  "release_date": "Mar 18, 2023",
+  "publisher": "",
+  "release_date": "2023-03-18",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -23,33 +23,11 @@
   ],
   "short_description": "Isometric action RPG, where you embark on an adventure to slay enemies in order to level up and unlock different skills to grow stronger.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2306680/header.jpg?t=1684544494",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2306680/ss_cbf9bdaffc6d5084a8cea8c97a4550ce124d0ecb.600x338.jpg?t=1684544494",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2306680/ss_e6902d1001a8ea91d8f7a74d440726113970d64a.600x338.jpg?t=1684544494",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2306680/ss_cd4259ce595794d6d5c8f3f164571f269d85e9fe.600x338.jpg?t=1684544494",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2306680/ss_92e81d2098cc721d0ab0b4cf7c90a1f25e8ed746.600x338.jpg?t=1684544494",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2306680/ss_13888ed774ff67626fd1ae4dfdc51e4fb0dbc925.600x338.jpg?t=1684544494",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2306680/ss_4ad2b49eded33d042cddd578f329371ae2e1341c.600x338.jpg?t=1684544494",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2306680/ss_808d14eff1609f660491d7d91924a8003a8ae111.600x338.jpg?t=1684544494",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2306680/ss_acb532420f9f420202f2044153d7b15bea4d1f68.600x338.jpg?t=1684544494",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2306680/ss_ed95913ae1d649239651b7c85f0250e90e2f9e86.600x338.jpg?t=1684544494",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2306680/ss_75ec70e5b3e1d2bbe2538c5cefd7b4ed50b36164.600x338.jpg?t=1684544494"
-  ],
-  "detailed_description": "In this isometric action RPG, embark in an adventure to hunt enemies and bosses, leveling up to buy skills to grow stronger.<br />\r\n<br />\r\nAs you slay enemies, you gain XP in order to level up and unlock skill points. You are equipped with an automatic rifle and have up to 4 active skills, each with 3 additional upgrades and 7 passive skills. <br />\r\n<br />\r\nThis game features an isometric camera view where you move with your right-click mouse button and shoot with your left-click mouse button. <br />\r\n<br />\r\nEach mission takes you to a level where you must hunt the Boss or die trying. You do not keep your skills after the end of each level, this way you can always try different setups. There are 3 different levels, which one with a unique boss, plus 2 challenges. There is a best time feature, so you can try to speedrun each level.",
-  "about_the_game": "In this isometric action RPG, embark in an adventure to hunt enemies and bosses, leveling up to buy skills to grow stronger.<br />\r\n<br />\r\nAs you slay enemies, you gain XP in order to level up and unlock skill points. You are equipped with an automatic rifle and have up to 4 active skills, each with 3 additional upgrades and 7 passive skills. <br />\r\n<br />\r\nThis game features an isometric camera view where you move with your right-click mouse button and shoot with your left-click mouse button. <br />\r\n<br />\r\nEach mission takes you to a level where you must hunt the Boss or die trying. You do not keep your skills after the end of each level, this way you can always try different setups. There are 3 different levels, which one with a unique boss, plus 2 challenges. There is a best time feature, so you can try to speedrun each level.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
@@ -61,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

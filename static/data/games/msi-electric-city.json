@@ -3,8 +3,8 @@
   "name": "MSI Electric City",
   "slug": "msi-electric-city",
   "developer": "Metanaut",
-  "publisher": "MSI",
-  "release_date": "Aug 9, 2016",
+  "publisher": "",
+  "release_date": "2016-08-09",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -21,59 +21,21 @@
   ],
   "short_description": "MSI Electric City is a virtual reality sci-fi seated experience where you are transported to a futuristic city never seen before. Discover magnificent scenery and soar through wondrous architectures.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/498600/header.jpg?t=1755750401",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/498600/ss_4f94dc2b69bffc759cedd3233f755cb18829c735.600x338.jpg?t=1755750401",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/498600/ss_1ff4941d2599d53f6d0fb56b75b4564f2a055b89.600x338.jpg?t=1755750401",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/498600/ss_40eb092018bb5db6ca964cfbde772639b139fcc1.600x338.jpg?t=1755750401",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/498600/ss_8f7fcf47e30a29045739a5969e620085e5a0898b.600x338.jpg?t=1755750401",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/498600/ss_3815b7e6b7314e471a290fbcf5b2fb11eb0e5a00.600x338.jpg?t=1755750401"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >MSI Electric City is a virtual reality sci-fi seated experience where you are transported to a futuristic city never seen before. Discover magnificent scenery and soar through wondrous architectures. Featuring an original soundtrack and with captivating visual & sound effects powered by Unreal Engine 4.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >MSI Electric City is a virtual reality sci-fi seated experience where you are transported to a futuristic city never seen before. Discover magnificent scenery and soar through wondrous architectures. Featuring an original soundtrack and with captivating visual & sound effects powered by Unreal Engine 4.</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 142,
-  "review_positive": 105,
+  "review_positive": 0,
   "review_percentage": 73.9,
   "owner_estimate": 75000,
-  "ccu_estimate": 1,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 15,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 141,
-      "review_percentage": 73.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 142,
       "review_percentage": 73.9,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
-      "review_count": 142,
-      "review_percentage": 73.9,
-      "ccu_estimate": 1,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

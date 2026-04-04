@@ -3,8 +3,8 @@
   "name": "Jumping Platform Minigame",
   "slug": "jumping-platform-minigame",
   "developer": "Scorpiniti Bruno",
-  "publisher": "Scorpiniti Bruno",
-  "release_date": "Sep 10, 2020",
+  "publisher": "",
+  "release_date": "2020-09-10",
   "price_usd": 0.49,
   "genres": [
     "Indie"
@@ -17,33 +17,9 @@
   ],
   "short_description": "Jumping Platform Minigame is a 2D platform game in which you have to collect diamonds and kill small mushrooms.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1390560/header.jpg?t=1693985049",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1390560/ss_209a814db5950a766740356aa84c0962b931cfe7.600x338.jpg?t=1693985049",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1390560/ss_7fb70bd066779efc1a2d61d574f98c8d2b5a1ec8.600x338.jpg?t=1693985049",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1390560/ss_2c2522c065e5007508db90d86c5ac45818871576.600x338.jpg?t=1693985049",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1390560/ss_69011c700e3e3ac9488bd806e63c7f384f3b5c00.600x338.jpg?t=1693985049",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1390560/ss_6cb4c0f017c9a878e49cb84c4edbc9acafeb599f.600x338.jpg?t=1693985049"
-  ],
-  "detailed_description": "This game was created with Unity based on the Unity \"Platformer Microgame\" project<br />\r\n<br />\r\nJumping Platform Minigame is a 2D platform game in which you have to collect diamonds and kill small mushrooms.<br />\r\n<br />\r\n- 10 Levels<br />\r\n- You can play with the keyboard and the joystick<br />\r\n<br />\r\nControls<br />\r\n- A-D or arrow keys / left analog stick (move the player)<br />\r\n- Space / button \"A\" xbox (jump)<br />\r\n- Esc / button \"start\" xbox (pause game)<br />\r\n<br />\r\nNOTE : Don't use the joystick in the game menu (controls / credits), the player doesn't jump anymore.<br />\r\nNOTE : Don't use the Steam overlay unless you pause the game first.<br />\r\n<br />\r\nGOOD FUN !!!",
-  "about_the_game": "This game was created with Unity based on the Unity \"Platformer Microgame\" project<br />\r\n<br />\r\nJumping Platform Minigame is a 2D platform game in which you have to collect diamonds and kill small mushrooms.<br />\r\n<br />\r\n- 10 Levels<br />\r\n- You can play with the keyboard and the joystick<br />\r\n<br />\r\nControls<br />\r\n- A-D or arrow keys / left analog stick (move the player)<br />\r\n- Space / button \"A\" xbox (jump)<br />\r\n- Esc / button \"start\" xbox (pause game)<br />\r\n<br />\r\nNOTE : Don't use the joystick in the game menu (controls / credits), the player doesn't jump anymore.<br />\r\nNOTE : Don't use the Steam overlay unless you pause the game first.<br />\r\n<br />\r\nGOOD FUN !!!",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Traditional Chinese, Japanese, Dutch, Portuguese - Portugal, Portuguese - Brazil, Russian, Spanish - Latin America",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 5,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 80.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 80.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 80.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

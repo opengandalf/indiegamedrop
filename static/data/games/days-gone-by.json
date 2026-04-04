@@ -3,8 +3,8 @@
   "name": "Days Gone By",
   "slug": "days-gone-by",
   "developer": "Fineam Neo Studio",
-  "publisher": "Fineam Neo Studio",
-  "release_date": "Dec 9, 2019",
+  "publisher": "",
+  "release_date": "2019-12-09",
   "price_usd": 1.99,
   "genres": [
     "Casual"
@@ -19,33 +19,15 @@
   ],
   "short_description": "Standard Platform Game developed following a tile to tile mindset with the Godot Engine.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196550/header.jpg?t=1618044738",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196550/ss_bf8688fa30047776dbce51194d0c82e1b9663f9e.600x338.jpg?t=1618044738",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196550/ss_d5c941a559a1a3ff11ce4406281127bbc5908d29.600x338.jpg?t=1618044738",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196550/ss_eb3e2e96b82ac3029b54604a862fb96510295aee.600x338.jpg?t=1618044738",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196550/ss_31b9845ea870d706e712967cef40899dded13f49.600x338.jpg?t=1618044738",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196550/ss_068c1ff8c8bb60d5b0ef40d45123b66433d86a4e.600x338.jpg?t=1618044738"
-  ],
-  "detailed_description": "Days Gone By tries to endevour a striking expierence getting back that simpleton feeling of the long gone scrolling genre.<br />\r\nProviding a mesh up of levels where timing and awareness are essential for completing the game levels, it tries to strike every kind of Player.<br />\r\nNo respawn, no second chance, no power-ups, no buff and no maps to help you it's a one way journey to a tale told many times and never truly forgotten.<br />\r\nA dozen of levels to face and beat and you will take on a magic king to arrival.<br />\r\nAND NOW A FRACKING HUGE SWORD! <br />\r\n<br />\r\nAvailable on Windows PC, Macs, Linux based platforms and SteamOS machines.<br />\r\nPurchasing the game gives you access no matter which the aforementioned system you are using.<br />\r\nBuy the package and you can play wherever you are!<br />\r\n<br />\r\nEnjoy!",
-  "about_the_game": "Days Gone By tries to endevour a striking expierence getting back that simpleton feeling of the long gone scrolling genre.<br />\r\nProviding a mesh up of levels where timing and awareness are essential for completing the game levels, it tries to strike every kind of Player.<br />\r\nNo respawn, no second chance, no power-ups, no buff and no maps to help you it's a one way journey to a tale told many times and never truly forgotten.<br />\r\nA dozen of levels to face and beat and you will take on a magic king to arrival.<br />\r\nAND NOW A FRACKING HUGE SWORD! <br />\r\n<br />\r\nAvailable on Windows PC, Macs, Linux based platforms and SteamOS machines.<br />\r\nPurchasing the game gives you access no matter which the aforementioned system you are using.<br />\r\nBuy the package and you can play wherever you are!<br />\r\n<br />\r\nEnjoy!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 5,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 40.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 20.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 40.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

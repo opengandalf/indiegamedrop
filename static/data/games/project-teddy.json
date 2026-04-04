@@ -3,8 +3,8 @@
   "name": "Project Teddy",
   "slug": "project-teddy",
   "developer": "Moreflight Studios",
-  "publisher": "Moreflight Studios",
-  "release_date": "Jul 15, 2023",
+  "publisher": "",
+  "release_date": "2023-07-15",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -22,34 +22,11 @@
     "windows",
     "linux"
   ],
-  "short_description": "Welcome to Project Teddy, the ultimate multiplayer game that promises endless fun and thrilling shootouts with your friends. Get ready to explore a game that was partially inspired by the popular games Garry’s Mod and Half-Life.",
+  "short_description": "Welcome to Project Teddy, the ultimate multiplayer game that promises endless fun and thrilling shootouts with your friends. Get ready to explore a game that was partially inspired by the popular game",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2432770/header.jpg?t=1774365416",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2432770/ss_ebda78dfc9437b29a7d4c40466e3768a4e0f129f.600x338.jpg?t=1774365416",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2432770/ss_3fb86f70e19971c33e292f9a70ae9faea3301a96.600x338.jpg?t=1774365416",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2432770/ss_c7688d5a2cc792f3cc117058d7167cdfde8ea1aa.600x338.jpg?t=1774365416",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2432770/ss_b5256a8afc61d0e277a82c71b43ae9e49cc5b76f.600x338.jpg?t=1774365416",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2432770/ss_e376188f666723e7dc775703e7dfaa49d70a0516.600x338.jpg?t=1774365416"
-  ],
-  "detailed_description": "Welcome to Project Teddy, the ultimate multiplayer game that promises endless fun and thrilling shootouts with your friends. Get ready to explore a game that was partially inspired by the popular games Garry’s Mod and Half-Life. Project Teddy offers a unique gameplay experience where you can move around using the standard \"WASD\" keys or a controller and engage in action-packed battles using the left-click button.<br />\r\n<br />\r\nProject Teddy has multiple gamemodes that cater to different playstyles. The first one is Deathmatch, where the player with the highest score at the end of each round wins. Runner is the second mode where one player is selected as the \"Runner,\" and the objective is to kill them while the Runner gets buffed health and unlimited fatigue. Finally, there's Trouble in Teddy Town, which is inspired by Trouble in Terrorist Town, where one player is selected to be the \"traitor,\" and everyone's goal is to figure out who the traitor is and kill them. The timer is adjustable, but the default is set to 5 minutes, and the player with the most kills at the end of the round is the winner.<br />\r\n<br />\r\nProject Teddy should run smoothly on any computer that supports Vulkan, offering an optimized and seamless gaming experience. So, what are you waiting for? Grab your friends and dive into the exciting world of Project Teddy for a gaming adventure like no other!",
-  "about_the_game": "Welcome to Project Teddy, the ultimate multiplayer game that promises endless fun and thrilling shootouts with your friends. Get ready to explore a game that was partially inspired by the popular games Garry’s Mod and Half-Life. Project Teddy offers a unique gameplay experience where you can move around using the standard \"WASD\" keys or a controller and engage in action-packed battles using the left-click button.<br />\r\n<br />\r\nProject Teddy has multiple gamemodes that cater to different playstyles. The first one is Deathmatch, where the player with the highest score at the end of each round wins. Runner is the second mode where one player is selected as the \"Runner,\" and the objective is to kill them while the Runner gets buffed health and unlimited fatigue. Finally, there's Trouble in Teddy Town, which is inspired by Trouble in Terrorist Town, where one player is selected to be the \"traitor,\" and everyone's goal is to figure out who the traitor is and kill them. The timer is adjustable, but the default is set to 5 minutes, and the player with the most kills at the end of the round is the winner.<br />\r\n<br />\r\nProject Teddy should run smoothly on any computer that supports Vulkan, offering an optimized and seamless gaming experience. So, what are you waiting for? Grab your friends and dive into the exciting world of Project Teddy for a gaming adventure like no other!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "Cross-Platform Multiplayer"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 11,
-  "review_positive": 9,
+  "review_positive": 0,
   "review_percentage": 81.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +34,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 10,
-      "review_percentage": 80.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 11,
       "review_percentage": 81.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

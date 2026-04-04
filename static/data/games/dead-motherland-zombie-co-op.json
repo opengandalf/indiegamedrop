@@ -3,8 +3,8 @@
   "name": "Dead Motherland: Zombie Co-op",
   "slug": "dead-motherland-zombie-co-op",
   "developer": "DEKLAZON",
-  "publisher": "DEKLAZON",
-  "release_date": "Sep 21, 2020",
+  "publisher": "",
+  "release_date": "2020-09-21",
   "price_usd": 5.99,
   "genres": [
     "Action"
@@ -15,43 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "A dark co-op top-down shooter in a post-soviet zombie apocalypse setting. You appear at a random location in the city. The goal is to get to the transport, and you will make the path yourself. In the day - look for resources and build fortifications. At night - destroy the dead and their bosses!",
+  "short_description": "A dark co-op top-down shooter in a post-soviet zombie apocalypse setting. You appear at a random location in the city. The goal is to get to the transport, and you will make the path yourself. In the ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211640/header.jpg?t=1667149960",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211640/ss_527a27fe6d9602f86ea6894438051f45b9b6aa0c.600x338.jpg?t=1667149960",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211640/ss_d01d2cb02be8d0df6a81909c89dc4aff6d2ab25a.600x338.jpg?t=1667149960",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211640/ss_dc867324be898a513b80e48a66daede678e5778e.600x338.jpg?t=1667149960",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211640/ss_3245acf66bf3605d0c8e94dcd988d973fc6be6a3.600x338.jpg?t=1667149960",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211640/ss_9d785c15ba9174541b6134cf5b0c004926a2eeb2.600x338.jpg?t=1667149960",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211640/ss_b69765d99de1bf0a4583ce1fdf92f40fb647b9b7.600x338.jpg?t=1667149960",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211640/ss_a41d26c01098fb381f94ee2c5e6c0f8a0a511ef1.600x338.jpg?t=1667149960",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211640/ss_a4890924a4ab4426068b260ef8ccbc61832d49ec.600x338.jpg?t=1667149960",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211640/ss_e7cddffffa7eec2eb3616a00a7de2de0fd9691b2.600x338.jpg?t=1667149960"
-  ],
-  "detailed_description": "A dark co-op top-down shooter in a post-soviet zombie apocalypse setting. You appear at a random location in the city. The goal is to get to the transport, and you will make the path yourself. In the day - look for resources and build fortifications. At night - destroy the dead and their bosses. Play alone or in co-op!",
-  "about_the_game": "A dark co-op top-down shooter in a post-soviet zombie apocalypse setting. You appear at a random location in the city. The goal is to get to the transport, and you will make the path yourself. In the day - look for resources and build fortifications. At night - destroy the dead and their bosses. Play alone or in co-op!",
-  "supported_languages": "English, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Online Co-op",
-    "LAN Co-op",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 6.0,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 120,
-  "review_positive": 59,
+  "review_positive": 0,
   "review_percentage": 49.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 119,
-      "review_percentage": 48.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 120,
       "review_percentage": 49.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

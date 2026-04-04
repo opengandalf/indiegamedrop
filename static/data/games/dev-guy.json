@@ -3,8 +3,8 @@
   "name": "Dev Guy",
   "slug": "dev-guy",
   "developer": "Daniel Jonathan Bourke",
-  "publisher": "Project Tranquil",
-  "release_date": "May 20, 2015",
+  "publisher": "",
+  "release_date": "2015-05-20",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -19,60 +19,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "With your final build missing, and only till the end of the night to publish his game, Warren must take up the difficult adventure to make a new build before the end of the night through whatever means necessary. Join Warren's quest to publish his title before the end of the night and become an indie dev.",
+  "short_description": "With your final build missing, and only till the end of the night to publish his game, Warren must take up the difficult adventure to make a new build before the end of the night through whatever mean",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/351800/header.jpg?t=1602546853",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/351800/ss_8699c2f8678b328729c169bf66a531ca134baea6.600x338.jpg?t=1602546853",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/351800/ss_d9ac3663490bd2dbab5d92986ff1f6eada7307cb.600x338.jpg?t=1602546853",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/351800/ss_5440526eff1d1597ee900c0d8909df963bba640b.600x338.jpg?t=1602546853",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/351800/ss_2b9c3fe3bd463f2ade9a4ec679f97ff5ce079fed.600x338.jpg?t=1602546853",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/351800/ss_44984ead14b75e94ba93cdcf38084d415c8f5b9d.600x338.jpg?t=1602546853"
-  ],
-  "detailed_description": "Being a developer for games is difficult. It's even harder when you are an indie developer. In Dev Guy, you play the roll of Warren (an independent developer) just trying to get his game on the app store before his game license expires. It sounds simple, but becomes complex quickly when his car goes missing, and his data disappears with it. Will warren get his car back? Join Warren as he tries to retrieve his game data while solving puzzles, hacking other developer's computers, breaking windows, and yelling at his friend Cabe. If you've played classic puzzle adventure games and feel the need for more, this game might be right up your alley. Using the power of the UDK, Dev Guy brings you the most graphically underwhelming game of this year.",
-  "about_the_game": "Being a developer for games is difficult. It's even harder when you are an indie developer. In Dev Guy, you play the roll of Warren (an independent developer) just trying to get his game on the app store before his game license expires. It sounds simple, but becomes complex quickly when his car goes missing, and his data disappears with it. Will warren get his car back? Join Warren as he tries to retrieve his game data while solving puzzles, hacking other developer's computers, breaking windows, and yelling at his friend Cabe. If you've played classic puzzle adventure games and feel the need for more, this game might be right up your alley. Using the power of the UDK, Dev Guy brings you the most graphically underwhelming game of this year.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0002,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 88.9,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1778,
-  "review_positive": 1411,
+  "review_positive": 0,
   "review_percentage": 79.4,
   "owner_estimate": 350000,
-  "ccu_estimate": 1,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 39,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1778,
-      "review_percentage": 79.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 1779,
-      "review_percentage": 79.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1778,
       "review_percentage": 79.4,
-      "ccu_estimate": 1,
+      "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

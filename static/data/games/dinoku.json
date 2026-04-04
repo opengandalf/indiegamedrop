@@ -3,8 +3,8 @@
   "name": "Dinoku",
   "slug": "dinoku",
   "developer": "Prince Game Studio",
-  "publisher": "Prince Game Studio",
-  "release_date": "Feb 12, 2018",
+  "publisher": "",
+  "release_date": "2018-02-12",
   "price_usd": 2.99,
   "genres": [
     "Casual",
@@ -19,32 +19,15 @@
   ],
   "short_description": "Dinoku is a logic game where you must help the Dinos to eat all the leaves on the way. There are different kinds of plants with special ability, making levels more challenging and exciting.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787620/header.jpg?t=1518436542",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787620/ss_4fa01540a439414d7ce6ac2708bf13769556c1b0.600x338.jpg?t=1518436542",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787620/ss_b390dc79a28f03ace0c3dc3d8b802e968efe1795.600x338.jpg?t=1518436542",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787620/ss_32990d6a0282cf5e5ac86cafc35319044041975b.600x338.jpg?t=1518436542",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787620/ss_dd35ca1edf8f89adce2f6851159e1be2c4fb7e24.600x338.jpg?t=1518436542",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/787620/ss_0aa66891a2fb55e5766f168515933f7596253a55.600x338.jpg?t=1518436542"
-  ],
-  "detailed_description": "Dinoku is a logic game where you must help the dinos to eat all the leaves on the way.<br>Throughout your journey use keyboard or mouse to help dinos solve the challenging levels.  <br><br><strong>Features:</strong><br><br>▪ 75 Levels<br>▪ Relaxing music and graphics<br>▪ Hungry dinos",
-  "about_the_game": "Dinoku is a logic game where you must help the dinos to eat all the leaves on the way.<br>Throughout your journey use keyboard or mouse to help dinos solve the challenging levels.  <br><br><strong>Features:</strong><br><br>▪ 75 Levels<br>▪ Relaxing music and graphics<br>▪ Hungry dinos",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 7,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

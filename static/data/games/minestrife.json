@@ -3,8 +3,8 @@
   "name": "Minestrife",
   "slug": "minestrife",
   "developer": "Tilenauts",
-  "publisher": "Tilenauts",
-  "release_date": "Oct 7, 2020",
+  "publisher": "",
+  "release_date": "2020-10-07",
   "price_usd": 0.99,
   "genres": [
     "Strategy"
@@ -15,35 +15,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "A puzzle game of logic and probability. Identify mines and clear boards across eleven difficulties, the dreaded survival mode, and custom boards of sizes limited only by your computer's memory. Good luck, you'll need it.",
+  "short_description": "A puzzle game of logic and probability. Identify mines and clear boards across eleven difficulties, the dreaded survival mode, and custom boards of sizes limited only by your computer's memory. Good l",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1425640/header.jpg?t=1602116617",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1425640/ss_94817cf8fdf11edde8a9fdaa443e495e79fbe513.600x338.jpg?t=1602116617",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1425640/ss_39f16370ca1a4b1118568eaf08557c99ab4a7ddc.600x338.jpg?t=1602116617",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1425640/ss_b726d8abaeffdaf49ca0c35aeef9c05a47e37b71.600x338.jpg?t=1602116617",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1425640/ss_a9ef3cd5ab97b42ee0e47a8e27a002b0faf4f310.600x338.jpg?t=1602116617",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1425640/ss_7d65a50fc47e99e1e725e2750ea427097801537e.600x338.jpg?t=1602116617"
-  ],
-  "detailed_description": "Identify which tiles have mines by the numbers displayed in neighboring tiles. <br />\r\n<br />\r\nSpecial features:<br />\r\n<br />\r\nZooming and scrolling(both discrete and smooth) so boards are only limited in size by your computer's memory and not by your screen's resolution. <br />\r\n<br />\r\nMulti-mine tiles. Up to seven mines can be on one tile. Hold down 'flag' to add flags until the numbers match. <br />\r\n<br />\r\nToroidal boards that wrap left to right and top to bottom. <br />\r\n<br />\r\nEndless survival mode. Quickly clear the board as it descends. You take damage if the lowest row has unopened non-mine tiles when it falls off the board. <br />\r\n<br />\r\nHot keys for quickly opening all 4 corners.",
-  "about_the_game": "Identify which tiles have mines by the numbers displayed in neighboring tiles. <br />\r\n<br />\r\nSpecial features:<br />\r\n<br />\r\nZooming and scrolling(both discrete and smooth) so boards are only limited in size by your computer's memory and not by your screen's resolution. <br />\r\n<br />\r\nMulti-mine tiles. Up to seven mines can be on one tile. Hold down 'flag' to add flags until the numbers match. <br />\r\n<br />\r\nToroidal boards that wrap left to right and top to bottom. <br />\r\n<br />\r\nEndless survival mode. Quickly clear the board as it descends. You take damage if the lowest row has unopened non-mine tiles when it falls off the board. <br />\r\n<br />\r\nHot keys for quickly opening all 4 corners.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 4,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

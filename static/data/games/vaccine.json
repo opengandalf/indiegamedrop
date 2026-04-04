@@ -3,8 +3,8 @@
   "name": "Vaccine",
   "slug": "vaccine",
   "developer": "Adam Thompson",
-  "publisher": "Adam Thompson",
-  "release_date": "Apr 13, 2020",
+  "publisher": "",
+  "release_date": "2020-04-13",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -22,35 +22,11 @@
     "windows",
     "mac"
   ],
-  "short_description": "Vaccine is a Minesweeper-inspired roguelike where you use logic and limited medicine to cure the infected. Each level is procedurally generated, offering endless puzzling challenges. Deduce who's sick, heal carefully, and scavenge for more supplies—mistakes are costly, but hope is contagious.",
+  "short_description": "Vaccine is a Minesweeper-inspired roguelike where you use logic and limited medicine to cure the infected. Each level is procedurally generated, offering endless puzzling challenges. Deduce who's sick",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273800/3c8dd62edd8fe79dbdb9ad3b5e323110db325b7f/header.jpg?t=1744141390",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273800/ss_3f9a3ab9f470d85033172f7d8262dccb194900c4.600x338.jpg?t=1744141390",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273800/ss_1df4a1abe063da8aff6f91c9ae39877632dd239d.600x338.jpg?t=1744141390",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273800/ss_f3de2c2a20397a7c093ced5f90a2f7c813e6de29.600x338.jpg?t=1744141390",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273800/ss_5214044bdb5a492f8cdc5f7c58105ec852ddcdc9.600x338.jpg?t=1744141390",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273800/45d350a2542b56c02522c71fdc4fc8eb1b68e613/ss_45d350a2542b56c02522c71fdc4fc8eb1b68e613.600x338.jpg?t=1744141390"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>Vaccine</strong> is a Minesweeper-inspired roguelike where you play as a field medic racing to stop an outbreak. With only a limited supply of medicine, you'll need to use logic and deduction to identify the infected and avoid wasting resources on the healthy. Every decision counts—treat the wrong person, and you might run out of supplies when it matters most.</p><p class=\"bb_paragraph\" >Each procedurally generated level brings new challenges and risks. Can you keep up the pace, replenish your dwindling meds, and save as many lives as possible?</p><p class=\"bb_paragraph\" ><strong>Features</strong></p><p class=\"bb_paragraph\" >- 💊 Minesweeper-style deduction with a twist: heal, don’t flag  </p><p class=\"bb_paragraph\" >- 🌍 Endless procedurally generated levels</p><p class=\"bb_paragraph\" >- 🧠 Risk-reward decision making — mistakes cost you medicine</p><p class=\"bb_paragraph\" >- 🚑 Find and manage limited resources as you play</p><p class=\"bb_paragraph\" >- 🎯 Quick to learn, tough to master</p><p class=\"bb_paragraph\" >- 🕹️ Perfect for short sessions or deep runs</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273800/extras/743e8967b0e5588ea8fff829490afeb5.poster.avif?t=1744141390\" width=480 height=270 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273800/extras/743e8967b0e5588ea8fff829490afeb5.webm?t=1744141390\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273800/extras/743e8967b0e5588ea8fff829490afeb5.mp4?t=1744141390\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>Vaccine</strong> is a Minesweeper-inspired roguelike where you play as a field medic racing to stop an outbreak. With only a limited supply of medicine, you'll need to use logic and deduction to identify the infected and avoid wasting resources on the healthy. Every decision counts—treat the wrong person, and you might run out of supplies when it matters most.</p><p class=\"bb_paragraph\" >Each procedurally generated level brings new challenges and risks. Can you keep up the pace, replenish your dwindling meds, and save as many lives as possible?</p><p class=\"bb_paragraph\" ><strong>Features</strong></p><p class=\"bb_paragraph\" >- 💊 Minesweeper-style deduction with a twist: heal, don’t flag  </p><p class=\"bb_paragraph\" >- 🌍 Endless procedurally generated levels</p><p class=\"bb_paragraph\" >- 🧠 Risk-reward decision making — mistakes cost you medicine</p><p class=\"bb_paragraph\" >- 🚑 Find and manage limited resources as you play</p><p class=\"bb_paragraph\" >- 🎯 Quick to learn, tough to master</p><p class=\"bb_paragraph\" >- 🕹️ Perfect for short sessions or deep runs</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273800/extras/743e8967b0e5588ea8fff829490afeb5.poster.avif?t=1744141390\" width=480 height=270 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273800/extras/743e8967b0e5588ea8fff829490afeb5.webm?t=1744141390\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273800/extras/743e8967b0e5588ea8fff829490afeb5.mp4?t=1744141390\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 18,
-  "review_positive": 16,
+  "review_positive": 0,
   "review_percentage": 88.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +34,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 17,
-      "review_percentage": 88.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 18,
       "review_percentage": 88.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Monochrome Painter",
   "slug": "monochrome-painter",
   "developer": "#PragmaBreak",
-  "publisher": "#PragmaBreak",
-  "release_date": "Nov 1, 2024",
+  "publisher": "",
+  "release_date": "2024-11-01",
   "price_usd": 1.99,
   "genres": [
     "Adventure",
@@ -22,34 +22,9 @@
   ],
   "short_description": "Travel the world, overcoming challenges, monsters, and ravines to find new colors and paint the monochromatic world where you and your friends live.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3258960/header.jpg?t=1730460351",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3258960/ss_d07e1f09eda14530c0b18cc375e5c192e9169c97.600x338.jpg?t=1730460351",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3258960/ss_29262cd3ff8b944d169248676def5c2ca605aaa4.600x338.jpg?t=1730460351",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3258960/ss_bca79c21d68ae2c3b58bab9165bcb3ecd44315c1.600x338.jpg?t=1730460351",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3258960/ss_b505cb86d4017b2cba43791b3bd1cb1dd4d11735.600x338.jpg?t=1730460351",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3258960/ss_1ab3e76d23fffac9a8d9c8bf6f89df232f2baca0.600x338.jpg?t=1730460351",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3258960/ss_4cd22260b9b075fa4d40ab07ba3cb6d0c6365ec8.600x338.jpg?t=1730460351"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Monochrome Painter tells the story of a colorless character living in a colorless world, but one day, they discovered they had the power to bring color to their world and embarked on a journey to find the colors of their realm.<br><br>This is an 8-bit-style platformer where the goal is to paint the game's environment by collecting paint buckets scattered throughout the levels.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Each collected paint bucket adds a new color to the game, and once you finish the game by gathering all the buckets, you can restart it with the environments already colored.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game features simple mechanics with precision jumping, monsters, and secret passages.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >You can play using either a keyboard or a game controller. If you're using a keyboard, the character moves with the arrow keys, and jumps are performed with the \"X\" or \"Space\" keys.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game allows for the creation of additional levels, which can either replace or complement the existing levels in the game. To do this, check the files in the \"levels\" folder.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Monochrome Painter tells the story of a colorless character living in a colorless world, but one day, they discovered they had the power to bring color to their world and embarked on a journey to find the colors of their realm.<br><br>This is an 8-bit-style platformer where the goal is to paint the game's environment by collecting paint buckets scattered throughout the levels.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Each collected paint bucket adds a new color to the game, and once you finish the game by gathering all the buckets, you can restart it with the environments already colored.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game features simple mechanics with precision jumping, monsters, and secret passages.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >You can play using either a keyboard or a game controller. If you're using a keyboard, the character moves with the arrow keys, and jumps are performed with the \"X\" or \"Space\" keys.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game allows for the creation of additional levels, which can either replace or complement the existing levels in the game. To do this, check the files in the \"levels\" folder.</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 5,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 80.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +32,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 80.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

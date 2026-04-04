@@ -3,8 +3,8 @@
   "name": "Drone Dash",
   "slug": "drone-dash",
   "developer": "Maple Leaf Makers",
-  "publisher": "Norcode Inc.",
-  "release_date": "May 7, 2025",
+  "publisher": "",
+  "release_date": "2025-05-07",
   "price_usd": 5.99,
   "genres": [
     "Action",
@@ -22,38 +22,15 @@
   ],
   "short_description": "Race, boost, and soar through physics-driven tracks in this fast-paced 2D drone racing game. Master precision flying, compete on global leaderboards, and push your skills to the limit!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3445720/header.jpg?t=1746676388",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3445720/ss_d9d5e030215268f9ffa4eef490a395d9712a1ff1.600x338.jpg?t=1746676388",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3445720/ss_c064e79a0d76db6d3fabd1db2f5eed44a8151a32.600x338.jpg?t=1746676388",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3445720/ss_dd4d41e394497cf6fd0f481e9b70c4d02a00a7b1.600x338.jpg?t=1746676388",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3445720/ss_283279423efb183b8e8e0c71aedc90e0bddfbc19.600x338.jpg?t=1746676388",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3445720/ss_fd0110ea5517b4429776578a14b3497b127d6a99.600x338.jpg?t=1746676388"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>Take to the skies in this thrilling 2D drone racing game that combines fast-paced action, challenging physics, and competitive gameplay. Navigate tight turns, avoid obstacles, and master the art of precision flying across dynamic tracks inspired by the excitement of Trackmania.</strong></p><p class=\"bb_paragraph\" ><strong>Features:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Physics-Driven Gameplay:</strong> Feel the thrill of floaty quadcopter-like controls as you perfect your racing skills.</p></li><li><p class=\"bb_paragraph\" ><strong>Challenging Tracks:</strong> Conquer unique courses with speed boosts, control-disrupting gates, and fiery traps.</p></li><li><p class=\"bb_paragraph\" ><strong>Global Leaderboards:</strong> Compete with players across Steam for the top spot.</p></li><li><p class=\"bb_paragraph\" ><strong>Creative Modes:</strong> Build and share your own tracks using our campaign editor and then challenge friends or the community through the Steam workshop.</p></li></ul><p class=\"bb_paragraph\" >Whether you're a casual gamer or a competitive racer,  drone dash delivers endless fun, skillful challenges, and general sillyness.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>Take to the skies in this thrilling 2D drone racing game that combines fast-paced action, challenging physics, and competitive gameplay. Navigate tight turns, avoid obstacles, and master the art of precision flying across dynamic tracks inspired by the excitement of Trackmania.</strong></p><p class=\"bb_paragraph\" ><strong>Features:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Physics-Driven Gameplay:</strong> Feel the thrill of floaty quadcopter-like controls as you perfect your racing skills.</p></li><li><p class=\"bb_paragraph\" ><strong>Challenging Tracks:</strong> Conquer unique courses with speed boosts, control-disrupting gates, and fiery traps.</p></li><li><p class=\"bb_paragraph\" ><strong>Global Leaderboards:</strong> Compete with players across Steam for the top spot.</p></li><li><p class=\"bb_paragraph\" ><strong>Creative Modes:</strong> Build and share your own tracks using our campaign editor and then challenge friends or the community through the Steam workshop.</p></li></ul><p class=\"bb_paragraph\" >Whether you're a casual gamer or a competitive racer,  drone dash delivers endless fun, skillful challenges, and general sillyness.</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Workshop",
-    "Partial Controller Support",
-    "Steam Cloud",
-    "Stats",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -61,19 +38,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

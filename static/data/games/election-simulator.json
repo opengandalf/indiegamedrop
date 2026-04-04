@@ -3,8 +3,8 @@
   "name": "Election simulator",
   "slug": "election-simulator",
   "developer": "Derpmachine",
-  "publisher": "Derpmachine",
-  "release_date": "Jan 9, 2020",
+  "publisher": "",
+  "release_date": "2020-01-09",
   "price_usd": 5.99,
   "genres": [
     "Action",
@@ -21,33 +21,15 @@
   ],
   "short_description": "Election simulator is a political satire game where you gain Voters by literally throwing cash at problems in society.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201350/header.jpg?t=1578593158",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201350/ss_fa8a74f4a4797817e9c34eaa40c109f834539064.600x338.jpg?t=1578593158",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201350/ss_39741bf6be04deae1ed1289582b323ec2956f78a.600x338.jpg?t=1578593158",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201350/ss_597edb671f8cf9436acfe8374ec0827580fb859f.600x338.jpg?t=1578593158",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201350/ss_fbfb2b4c8799f90b0649c18da110224f58f36503.600x338.jpg?t=1578593158",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201350/ss_08c53a7e6c6830cccbda79d36e1296f73136beaf.600x338.jpg?t=1578593158",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201350/ss_3a10764745f31804982d3607a37956b2adba830e.600x338.jpg?t=1578593158"
-  ],
-  "detailed_description": "Gain enough votes to hold your speech, Geth through the speech without getting dirty. to complete the level. <br><br>Its a game filled with physical interactions and derpy humor. <br><br>Features: <br><ul class=\"bb_ul\"><li> 10 intense and unique campaign levels <br></li><li> Lots of different enemies<br></li><li> Loads of different Items and objects to interact with. <br></li><li> Powerups <br></li><li> Multiple \"weapon\" choices<br></li><li> Lots of physics. <br></li><li> Much Wow</li></ul>",
-  "about_the_game": "Gain enough votes to hold your speech, Geth through the speech without getting dirty. to complete the level. <br><br>Its a game filled with physical interactions and derpy humor. <br><br>Features: <br><ul class=\"bb_ul\"><li> 10 intense and unique campaign levels <br></li><li> Lots of different enemies<br></li><li> Loads of different Items and objects to interact with. <br></li><li> Powerups <br></li><li> Multiple \"weapon\" choices<br></li><li> Lots of physics. <br></li><li> Much Wow</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 7,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 71.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 71.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 71.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

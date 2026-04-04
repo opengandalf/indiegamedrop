@@ -3,8 +3,8 @@
   "name": "Within the Range",
   "slug": "within-the-range",
   "developer": "Aries",
-  "publisher": "Aries",
-  "release_date": "Jul 28, 2021",
+  "publisher": "",
+  "release_date": "2021-07-28",
   "price_usd": 11.99,
   "genres": [
     "Indie",
@@ -21,37 +21,9 @@
   ],
   "short_description": "This game is no longer updated, do not buy!! RTS with physical details. Formulate strategies based on terrain and unit characteristics",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693000/header.jpg?t=1744579783",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693000/ss_b97c052b89257560996e3b65896c390797837682.600x338.jpg?t=1744579783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693000/ss_d3f4a904691f0e32f2e2bc83bcb8d60fd7b0f024.600x338.jpg?t=1744579783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693000/ss_22df4a12aa627f2d4eced62c0945112fd855b4db.600x338.jpg?t=1744579783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693000/ss_a42b49c42bc828f461f15754ea58726dc23c7487.600x338.jpg?t=1744579783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693000/ss_fa96b9873baadc4ac5227b2c815dab39139966df.600x338.jpg?t=1744579783"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >This game is no longer updated, do not buy!!</p><p class=\"bb_paragraph\" >This is an RTS based on a lot of physical details, and terrain has a greater impact on strategic decisions. The shells in the game have trajectory calculation and will be blocked by terrain obstacles. The unit has different accelerations and angular accelerations. Weapons have corner limits. The unit will calculate the threat mechanism according to the corner limits, and will attack when there is no obstacle. The fluctuation of terrain will affect the movement speed of non robot units.</p><p class=\"bb_paragraph\" >In order to increase the sense of substitution, the speed of the game can be adjusted from 1% to 400%. The camera's viewing angle is highly free. You can slow down and see the moment when the weapon is fired. According to a new real-time algorithm, the robot unit can adapt to the current moving state and terrain fluctuation.</p><p class=\"bb_paragraph\" >Game optimization is very good, can let 1000 units melee on the same screen.</p><p class=\"bb_paragraph\" >Even if you have played RTS games, we still recommend that you play the tutorial level first.</p><p class=\"bb_paragraph\" >English will be joined later.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >This game is no longer updated, do not buy!!</p><p class=\"bb_paragraph\" >This is an RTS based on a lot of physical details, and terrain has a greater impact on strategic decisions. The shells in the game have trajectory calculation and will be blocked by terrain obstacles. The unit has different accelerations and angular accelerations. Weapons have corner limits. The unit will calculate the threat mechanism according to the corner limits, and will attack when there is no obstacle. The fluctuation of terrain will affect the movement speed of non robot units.</p><p class=\"bb_paragraph\" >In order to increase the sense of substitution, the speed of the game can be adjusted from 1% to 400%. The camera's viewing angle is highly free. You can slow down and see the moment when the weapon is fired. According to a new real-time algorithm, the robot unit can adapt to the current moving state and terrain fluctuation.</p><p class=\"bb_paragraph\" >Game optimization is very good, can let 1000 units melee on the same screen.</p><p class=\"bb_paragraph\" >Even if you have played RTS games, we still recommend that you play the tutorial level first.</p><p class=\"bb_paragraph\" >English will be joined later.</p>",
-  "supported_languages": "Simplified Chinese, English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Co-op",
-    "Online Co-op",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 235,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 7.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 241,
-  "review_positive": 136,
+  "review_positive": 0,
   "review_percentage": 56.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 234,
-      "review_percentage": 58.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 241,
       "review_percentage": 56.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

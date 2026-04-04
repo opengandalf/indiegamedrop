@@ -3,8 +3,8 @@
   "name": "CARS",
   "slug": "cars",
   "developer": "Mario von Rickenbach, Michael Frei",
-  "publisher": "Playables",
-  "release_date": "Apr 1, 2024",
+  "publisher": "",
+  "release_date": "2024-04-01",
   "price_usd": 0.98,
   "genres": [
     "Adventure",
@@ -25,33 +25,15 @@
   ],
   "short_description": "BEEP BEEP!!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2843340/header.jpg?t=1755702005",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2843340/ss_ca9b5741d75415079f6b48aa772a7953864929b8.600x338.jpg?t=1755702005",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2843340/ss_273aa62f4d0f1302d19afd991c4eb355fc2f198c.600x338.jpg?t=1755702005",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2843340/ss_351651e127a51a21a1c27a3a66af082d8e343c2e.600x338.jpg?t=1755702005",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2843340/ss_74e83776c2fc4a1ca89a92579e645fe4e8bea145.600x338.jpg?t=1755702005",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2843340/ss_1c1c8522baa0174554f41d999a2254c86a178896.600x338.jpg?t=1755702005",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2843340/ss_8f111c3cb59fdbc9afba7cbd3e304daea8b70951.600x338.jpg?t=1755702005"
-  ],
-  "detailed_description": "Take a quick drive to your final destination.<br><br>Created by Mario von Rickenbach and Michael Frei at Playables, the creators of Plug & Play and KIDS.<br><br>Play time: ~10 minutes<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2843340/extras/5b17e805e9111185d78c6eb9ec1a6580.poster.avif?t=1755702005\" width=600 height=540 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2843340/extras/5b17e805e9111185d78c6eb9ec1a6580.webm?t=1755702005\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2843340/extras/5b17e805e9111185d78c6eb9ec1a6580.mp4?t=1755702005\" type=\"video/mp4\"></video></span>",
-  "about_the_game": "Take a quick drive to your final destination.<br><br>Created by Mario von Rickenbach and Michael Frei at Playables, the creators of Plug & Play and KIDS.<br><br>Play time: ~10 minutes<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2843340/extras/5b17e805e9111185d78c6eb9ec1a6580.poster.avif?t=1755702005\" width=600 height=540 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2843340/extras/5b17e805e9111185d78c6eb9ec1a6580.webm?t=1755702005\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2843340/extras/5b17e805e9111185d78c6eb9ec1a6580.mp4?t=1755702005\" type=\"video/mp4\"></video></span>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.001,
+  "screenshots": [],
+  "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 18.0,
+  "review_velocity_7d": 3.45,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 69,
-  "review_positive": 55,
+  "review_positive": 0,
   "review_percentage": 79.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +41,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 51,
-      "review_percentage": 78.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 69,
       "review_percentage": 79.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

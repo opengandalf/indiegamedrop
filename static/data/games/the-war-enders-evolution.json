@@ -3,8 +3,8 @@
   "name": "The War Enders Evolution",
   "slug": "the-war-enders-evolution",
   "developer": "Crystal Heart's Studio",
-  "publisher": "Crystal Heart's Studio",
-  "release_date": "Jan 19, 2020",
+  "publisher": "",
+  "release_date": "2020-01-19",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -21,35 +21,9 @@
   ],
   "short_description": "The War Enders Evolution is an arcade style single-stage bullet hell game. Beat the game with the choice from three different fighters and two different styles.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1208420/header.jpg?t=1664627660",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1208420/ss_c4f27e727e6cb50fe6044387d20212ceaf93d4fc.600x338.jpg?t=1664627660",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1208420/ss_801d4becd991418772c6f85add8bddcfe1dc7e75.600x338.jpg?t=1664627660",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1208420/ss_9d59dc86ed2e4223ef8a0482eeba5099b12083ce.600x338.jpg?t=1664627660",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1208420/ss_5a28b1fb5cc5aacb185a6113105725a35867c4a9.600x338.jpg?t=1664627660",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1208420/ss_df03f65d7f54032dc69ae9bcfa03d326d70eb97e.600x338.jpg?t=1664627660",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1208420/ss_a7d1b0e77ba484c7c2eec16d7d7f7cedaf48f89c.600x338.jpg?t=1664627660",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1208420/ss_0b41ada9ce93d6108336c077a291f3d4c7cdc4d9.600x338.jpg?t=1664627660",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1208420/ss_f3e380ad6f12e05453ff7932ffc08f4c5a368a27.600x338.jpg?t=1664627660"
-  ],
-  "detailed_description": "I am appreciated that you are willing to play . <br />\r\nThis game is set in a near future, when you are one of the defense force belong to the Earth, and you have to defend the Earth from the alien invasion. <br />\r\nHope you can play the game again and again, and try to memorize how enemies act to progress the game. Then enjoy the game.<br />\r\n<br />\r\nAt first I only thought about making the game. Then I push this game go through multiple updates. Finally it becomes this game, and it has been totally different from the original game. <br />\r\nThis game tends to make the feeling of arcade bullet hell game. This game is relatively faster, but the bullet pattern is not that hard. <br />\r\n<br />\r\nGood luck fighting. <br />\r\n<br />\r\n————————————————————————————————————<br />\r\nContact the Author: <br />\r\n<br />\r\nIf you know how to contact me, just send me message and I will reply. If you do not know, you can contact me via Facebook , Twitter: @ReiyumeYukiko. You can also contact me via Discord: @ReiyumeYukiko#4774<br />\r\nIt will not trouble me, I am always here to make my game better. <br />\r\n<br />\r\n————————————————————————————————————<br />\r\nRecommend Configuration: <br />\r\nCPU: Any 4-core cpu or better.<br />\r\nGPU: Intel HD Graphics 4000 or better. <br />\r\nRAM: More than 200MB spare RAM. <br />\r\n<br />\r\n————————————————————————————————————<br />\r\nHow to play:<br />\r\n<br />\r\nKeyboard: <br />\r\n\tMove: UP DOWN LEFT RIGHT ARROW for basic movement.<br />\r\n\tShoot: Hold Z to shoot both primary and secondary weapons continuously. <br />\r\n\tStyle: When Energy is larger than 5.0, Press X. <br />\r\n<br />\r\nController: <br />\r\n\tMove: DPAD or Left Joystick<br />\r\n\tShoot: Hold A or Cross.<br />\r\n\tStyle: When Energy is larger than 5.0, Press B or Circle. <br />\r\n<br />\r\n<br />\r\nTo change resolution, in default screen when the game just loaded up. Keyboard user can press 7, 8, 9, 0 to change resolution. Controller user can press L1, R1, left joystick, right joystick to change resolution. <br />\r\n<br />\r\nNote that larger resolution will make the game distorted, and smaller resolution may leak some details. <br />\r\n<br />\r\nIn selection screen, keyboard user can press 2 to change difficulty, while controller user can press A or Cross to do so. <br />\r\n<br />\r\nEvery restart will set difficulty back to its default, casual. <br />\r\n<br />\r\n————————————————————————————————————<br />\r\nGame Mechanic:<br />\r\n<br />\r\n\tScore Multiplier: multiply the score that a player gets in real-time. The score multiplier will increase by destroying enemies or using style mechanics (which will be explained in Energy part). The multiplier will drop in a speed of 0.02 per frame after 0.8s of the destruction of an enemy. Each kill will refresh that 0.8s. Multiplier can also be acquired by grazing enemy bullets, however, graze does not refresh that drop delay. Each 8.00 multiplier will increase rank by 1. When any enemy is hit, multiplier will stay for 0.1s, except for the boss. <br />\r\nThe score multiplier is shown on the top left of the game window. <br />\r\n\t<br />\r\n\tEnergy: Destroying enemies to get energy. More dangerous enemy will give more energy. Energy can also be acquired by grazing enemy bullets. Style activation will consume 5.0 energy. The player will be invincible in this 6 seconds if uses Shield style. When player has a shield, catching bullets can increase the multiplier. Each bullet for 0.3 multiplier and it can hold the dropping of multiplier. Even the shield after taking hits has this effect. The fire power of player will be 1.5 times higher in 8 seconds if uses Hyper style. Destroy enemies during hyper gives more than triple the multiplier gotten from enemies' destructions. Boss will give less. <br />\r\nEnergy is shown on the right bottom of the game window. <br />\r\n<br />\r\n\tRank: Higher rank means more difficult. Each rank will increase enemies' bullet speed. The lowest rank player can get is 0. The highest rank player can get is 50. Each style activation will increase rank by 5. If hit by enemy, the rank gotten from style will be divide by 2. <br />\r\nRank is shown on the up middle of the game window. <br />\r\n<br />\r\n\tRank = (multiplier / 8.0) + style rank<br />\r\n<br />\r\n\tScore = score for destroying enemy * multiplier * difficulty multiplier. <br />\r\nCurrent score is shown on the up left side of the game window. <br />\r\nLocal high score is shown on the up right side of the game window. <br />\r\n<br />\r\n————————————————————————————————————<br />\r\nPlayer's Weaponry:<br />\r\n<br />\r\nType 1: <br />\r\n\tSlower speed, and potentially higher damage against swarms. <br />\r\n\tClassic design. <br />\r\n<br />\r\n<br />\r\nType 2: <br />\r\n\tHigher speed, and potentially higher damage against the boss. <br />\r\n\tCan change fire angle when hold up / down while not firing. <br />\r\n<br />\r\nType 3: <br />\r\n\tMedium speed with high flexible fire angle<br />\r\n\tCan change fire angle when hold left / right.",
-  "about_the_game": "I am appreciated that you are willing to play . <br />\r\nThis game is set in a near future, when you are one of the defense force belong to the Earth, and you have to defend the Earth from the alien invasion. <br />\r\nHope you can play the game again and again, and try to memorize how enemies act to progress the game. Then enjoy the game.<br />\r\n<br />\r\nAt first I only thought about making the game. Then I push this game go through multiple updates. Finally it becomes this game, and it has been totally different from the original game. <br />\r\nThis game tends to make the feeling of arcade bullet hell game. This game is relatively faster, but the bullet pattern is not that hard. <br />\r\n<br />\r\nGood luck fighting. <br />\r\n<br />\r\n————————————————————————————————————<br />\r\nContact the Author: <br />\r\n<br />\r\nIf you know how to contact me, just send me message and I will reply. If you do not know, you can contact me via Facebook , Twitter: @ReiyumeYukiko. You can also contact me via Discord: @ReiyumeYukiko#4774<br />\r\nIt will not trouble me, I am always here to make my game better. <br />\r\n<br />\r\n————————————————————————————————————<br />\r\nRecommend Configuration: <br />\r\nCPU: Any 4-core cpu or better.<br />\r\nGPU: Intel HD Graphics 4000 or better. <br />\r\nRAM: More than 200MB spare RAM. <br />\r\n<br />\r\n————————————————————————————————————<br />\r\nHow to play:<br />\r\n<br />\r\nKeyboard: <br />\r\n\tMove: UP DOWN LEFT RIGHT ARROW for basic movement.<br />\r\n\tShoot: Hold Z to shoot both primary and secondary weapons continuously. <br />\r\n\tStyle: When Energy is larger than 5.0, Press X. <br />\r\n<br />\r\nController: <br />\r\n\tMove: DPAD or Left Joystick<br />\r\n\tShoot: Hold A or Cross.<br />\r\n\tStyle: When Energy is larger than 5.0, Press B or Circle. <br />\r\n<br />\r\n<br />\r\nTo change resolution, in default screen when the game just loaded up. Keyboard user can press 7, 8, 9, 0 to change resolution. Controller user can press L1, R1, left joystick, right joystick to change resolution. <br />\r\n<br />\r\nNote that larger resolution will make the game distorted, and smaller resolution may leak some details. <br />\r\n<br />\r\nIn selection screen, keyboard user can press 2 to change difficulty, while controller user can press A or Cross to do so. <br />\r\n<br />\r\nEvery restart will set difficulty back to its default, casual. <br />\r\n<br />\r\n————————————————————————————————————<br />\r\nGame Mechanic:<br />\r\n<br />\r\n\tScore Multiplier: multiply the score that a player gets in real-time. The score multiplier will increase by destroying enemies or using style mechanics (which will be explained in Energy part). The multiplier will drop in a speed of 0.02 per frame after 0.8s of the destruction of an enemy. Each kill will refresh that 0.8s. Multiplier can also be acquired by grazing enemy bullets, however, graze does not refresh that drop delay. Each 8.00 multiplier will increase rank by 1. When any enemy is hit, multiplier will stay for 0.1s, except for the boss. <br />\r\nThe score multiplier is shown on the top left of the game window. <br />\r\n\t<br />\r\n\tEnergy: Destroying enemies to get energy. More dangerous enemy will give more energy. Energy can also be acquired by grazing enemy bullets. Style activation will consume 5.0 energy. The player will be invincible in this 6 seconds if uses Shield style. When player has a shield, catching bullets can increase the multiplier. Each bullet for 0.3 multiplier and it can hold the dropping of multiplier. Even the shield after taking hits has this effect. The fire power of player will be 1.5 times higher in 8 seconds if uses Hyper style. Destroy enemies during hyper gives more than triple the multiplier gotten from enemies' destructions. Boss will give less. <br />\r\nEnergy is shown on the right bottom of the game window. <br />\r\n<br />\r\n\tRank: Higher rank means more difficult. Each rank will increase enemies' bullet speed. The lowest rank player can get is 0. The highest rank player can get is 50. Each style activation will increase rank by 5. If hit by enemy, the rank gotten from style will be divide by 2. <br />\r\nRank is shown on the up middle of the game window. <br />\r\n<br />\r\n\tRank = (multiplier / 8.0) + style rank<br />\r\n<br />\r\n\tScore = score for destroying enemy * multiplier * difficulty multiplier. <br />\r\nCurrent score is shown on the up left side of the game window. <br />\r\nLocal high score is shown on the up right side of the game window. <br />\r\n<br />\r\n————————————————————————————————————<br />\r\nPlayer's Weaponry:<br />\r\n<br />\r\nType 1: <br />\r\n\tSlower speed, and potentially higher damage against swarms. <br />\r\n\tClassic design. <br />\r\n<br />\r\n<br />\r\nType 2: <br />\r\n\tHigher speed, and potentially higher damage against the boss. <br />\r\n\tCan change fire angle when hold up / down while not firing. <br />\r\n<br />\r\nType 3: <br />\r\n\tMedium speed with high flexible fire angle<br />\r\n\tCan change fire angle when hold left / right.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 19,
-  "review_positive": 16,
+  "review_positive": 0,
   "review_percentage": 84.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 18,
-      "review_percentage": 83.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 19,
       "review_percentage": 84.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

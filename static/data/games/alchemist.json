@@ -3,8 +3,8 @@
   "name": "Alchemist",
   "slug": "alchemist",
   "developer": "Imagine",
-  "publisher": "Pixel Games UK",
-  "release_date": "May 6, 2022",
+  "publisher": "",
+  "release_date": "2022-05-06",
   "price_usd": 1.49,
   "genres": [
     "Action",
@@ -17,36 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "In this classic retro platformer, take on the role of a skilled Alchemist to battle an evil warlock. Transform into a mighty golden eagle to traverse the winding chambers of the warlock's dread castle, or hurl lightning bolts at terrifying foes, to unite the four pieces of the Spell of Destruction.",
+  "short_description": "In this classic retro platformer, take on the role of a skilled Alchemist to battle an evil warlock. Transform into a mighty golden eagle to traverse the winding chambers of the warlock's dread castle",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942050/header.jpg?t=1651831833",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942050/ss_052f880ff0cdfcf992850c1a7ae724d77d3beb6d.600x338.jpg?t=1651831833",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942050/ss_01b6fb9b92a2c2b7d446186ac951dea6026a03b2.600x338.jpg?t=1651831833",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942050/ss_86eba7b06300b2fd6d99f98a29b7885af2f2b3d9.600x338.jpg?t=1651831833",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942050/ss_d18e9044f1ce2ca2a1b01e50003079aeb57d005f.600x338.jpg?t=1651831833",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1942050/ss_5462d6285dc1ac5cd5b157c3fa1dad3840b2a3b3.600x338.jpg?t=1651831833"
-  ],
-  "detailed_description": "Originally released in 1984, this classic platformer for the ZX Spectrum from British developers Imagine saw players take on the role of Earth's most skilled Alchemist to battle the forces of an evil warlock. Now, relive those days in this remastered emulated version.<h2 class=\"bb_tag\" >Objective</h2>The objective of the game is to find the four pieces of the legendary Spell of Destruction, to finally destroy the evil warlock once and for all.<br><br>To do this you will have to traverse the warlock's dread castle. You can transform into a mighty golden eagle to fly to otherwise unreachable platforms, hurl powerful lightning bolts at your foes, pick up other spells to cast that have a variety of effects, and pick up key items to unlock progress through the castle.<br><br>This enhanced version introduces a number of modern features to this retro classic, including:<br><br><ul class=\"bb_ul\"><li> Saving/loading the game at any point<br></li><li> Support for most modern game controllers<br></li><li> Full control remapping<br></li><li> Image scaling and smoothing options</li></ul>",
-  "about_the_game": "Originally released in 1984, this classic platformer for the ZX Spectrum from British developers Imagine saw players take on the role of Earth's most skilled Alchemist to battle the forces of an evil warlock. Now, relive those days in this remastered emulated version.<h2 class=\"bb_tag\" >Objective</h2>The objective of the game is to find the four pieces of the legendary Spell of Destruction, to finally destroy the evil warlock once and for all.<br><br>To do this you will have to traverse the warlock's dread castle. You can transform into a mighty golden eagle to fly to otherwise unreachable platforms, hurl powerful lightning bolts at your foes, pick up other spells to cast that have a variety of effects, and pick up key items to unlock progress through the castle.<br><br>This enhanced version introduces a number of modern features to this retro classic, including:<br><br><ul class=\"bb_ul\"><li> Saving/loading the game at any point<br></li><li> Support for most modern game controllers<br></li><li> Full control remapping<br></li><li> Image scaling and smoothing options</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

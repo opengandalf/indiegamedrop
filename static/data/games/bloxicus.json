@@ -3,8 +3,8 @@
   "name": "Bloxicus",
   "slug": "bloxicus",
   "developer": "Square Gem Software",
-  "publisher": "Square Gem Software",
-  "release_date": "Sep 20, 2019",
+  "publisher": "",
+  "release_date": "2019-09-20",
   "price_usd": 3.99,
   "genres": [
     "Casual",
@@ -17,36 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Bloxicus is a puzzle game in which you have to move colored blocks to help a hungry little dragon to collect all the tasty sweets along the way. You will have to travel throughout the islands, discover new worlds, collect candies!",
+  "short_description": "Bloxicus is a puzzle game in which you have to move colored blocks to help a hungry little dragon to collect all the tasty sweets along the way. You will have to travel throughout the islands, discove",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152910/header.jpg?t=1568996752",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152910/ss_f9885913685892547973b66346b78d05e8f356f6.600x338.jpg?t=1568996752",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152910/ss_c9b18c794b3bce0a5f92b0f44076b9d92f636044.600x338.jpg?t=1568996752",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152910/ss_8dc4ffc41fec487df0a6a73751ad4b7ec83c6f68.600x338.jpg?t=1568996752",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152910/ss_31450bc9ebe59b595e425c4e1f879ac508c1320f.600x338.jpg?t=1568996752",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152910/ss_51c1115681d44ccec4cff221b94e75a13770ace3.600x338.jpg?t=1568996752",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152910/ss_f8773b0ebaa18abd0a4c22ee90a121cd2297a30e.600x338.jpg?t=1568996752"
-  ],
-  "detailed_description": "Bloxicus is a puzzle game in which you have to move colored blocks to help a hungry little dragon to collect all the tasty sweets along the way. <br><br>You will have to travel throughout the islands, discover new worlds, collect candies! <br><br><strong>RULES:</strong><br>Blocks move horizontally or vertically to the nearest obstacle or until the end of the field line. Each move uses one turn. <br>Blocks of the same color are glued when in contact with each other, forming shapes that will only move entirely. <br>Each level is given a limited number of moves. If the limit of the moves is exceeded - the level will have to start all over again. <br>A dragon can see sweets and follow them only along straight lines from himself, if nothing prevents him from doing so. <br>Boxes and hot peppers will be found at some levels. Sweets are hidden in the boxes, they can be accordingly unpacked. Peppers need to be avoided, they are not sweet at all. <br>The goal of the game is to build paths for the dragon from one candy to another in the minimum number of moves, collecting them all eventually. <br><br><strong>GAME FEATURES:</strong><br>- A puzzle with simple rules and complex solutions! <br>- No play limit, play as much as you can! <br>- Travel to different islands <br>- Visit more than 60 levels <br>- Possibility of finding multiple solutions to certain tasks.",
-  "about_the_game": "Bloxicus is a puzzle game in which you have to move colored blocks to help a hungry little dragon to collect all the tasty sweets along the way. <br><br>You will have to travel throughout the islands, discover new worlds, collect candies! <br><br><strong>RULES:</strong><br>Blocks move horizontally or vertically to the nearest obstacle or until the end of the field line. Each move uses one turn. <br>Blocks of the same color are glued when in contact with each other, forming shapes that will only move entirely. <br>Each level is given a limited number of moves. If the limit of the moves is exceeded - the level will have to start all over again. <br>A dragon can see sweets and follow them only along straight lines from himself, if nothing prevents him from doing so. <br>Boxes and hot peppers will be found at some levels. Sweets are hidden in the boxes, they can be accordingly unpacked. Peppers need to be avoided, they are not sweet at all. <br>The goal of the game is to build paths for the dragon from one candy to another in the minimum number of moves, collecting them all eventually. <br><br><strong>GAME FEATURES:</strong><br>- A puzzle with simple rules and complex solutions! <br>- No play limit, play as much as you can! <br>- Travel to different islands <br>- Visit more than 60 levels <br>- Possibility of finding multiple solutions to certain tasks.",
-  "supported_languages": "English, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

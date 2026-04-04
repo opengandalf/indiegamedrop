@@ -3,8 +3,8 @@
   "name": "Art Spotting Co-op",
   "slug": "art-spotting-co-op",
   "developer": "Musabiza",
-  "publisher": "Musabiza",
-  "release_date": "Nov 28, 2024",
+  "publisher": "",
+  "release_date": "2024-11-28",
   "price_usd": 2.99,
   "genres": [
     "Casual",
@@ -17,42 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Art Spotting Co-op is a casual game about spotting the difference between several art pieces together with a friend while listening to relaxing music. A controller is not required for local co-op play.",
+  "short_description": "Art Spotting Co-op is a casual game about spotting the difference between several art pieces together with a friend while listening to relaxing music. A controller is not required for local co-op play",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317140/header.jpg?t=1740240480",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317140/ss_a49fd30b8388118db6bb11b67389d0532dc25c73.600x338.jpg?t=1740240480",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317140/ss_e6391ebe6502def047c1ea5efbaeb65183176c8f.600x338.jpg?t=1740240480",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317140/ss_d483a2c0d5f0a83c508b1b60a75c79054351d6b2.600x338.jpg?t=1740240480",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317140/ss_eb7cd0490ad53318307b49f5797f93130d237132.600x338.jpg?t=1740240480",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317140/ss_fd8cd691a6de4d8ef0e950f64b79309805881432.600x338.jpg?t=1740240480",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317140/ss_c59460cb71ff06f2741f4d42a626238030062cbf.600x338.jpg?t=1740240480",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317140/ss_701e2d7d11fca2e0cdee582d324d2a7f15448ca1.600x338.jpg?t=1740240480",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3317140/ss_a58e50df90d61c8de1797e1c12cf1fe6145f5f83.600x338.jpg?t=1740240480"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Art Spotting Co-op is a casual game about spotting the difference between several art pieces together with a friend while listening to relaxing music. A controller is not required for local co-op play.</p><h2 class=\"bb_tag\" >Gameplay</h2><p class=\"bb_paragraph\" >2 players will work together to spot the differences between left and right art on the screen. Player 1 will control the cursor using the mouse and player 2 will control another cursor using the keyboard. </p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >A casual, simple and relaxing game</p></li><li><p class=\"bb_paragraph\" >Several beautiful western, eastern and modern art pieces</p></li><li><p class=\"bb_paragraph\" >All art pieces are family-friendly</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Each art is accompanied with their own music</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >2-player local co-op using only a mouse and a keyboard (no controller required)</p></li><li><p class=\"bb_paragraph\" >Autosaves and autoloads</p></li></ul>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Art Spotting Co-op is a casual game about spotting the difference between several art pieces together with a friend while listening to relaxing music. A controller is not required for local co-op play.</p><h2 class=\"bb_tag\" >Gameplay</h2><p class=\"bb_paragraph\" >2 players will work together to spot the differences between left and right art on the screen. Player 1 will control the cursor using the mouse and player 2 will control another cursor using the keyboard. </p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >A casual, simple and relaxing game</p></li><li><p class=\"bb_paragraph\" >Several beautiful western, eastern and modern art pieces</p></li><li><p class=\"bb_paragraph\" >All art pieces are family-friendly</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Each art is accompanied with their own music</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >2-player local co-op using only a mouse and a keyboard (no controller required)</p></li><li><p class=\"bb_paragraph\" >Autosaves and autoloads</p></li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

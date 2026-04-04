@@ -3,8 +3,8 @@
   "name": "Dice 1000 online",
   "slug": "dice-1000-online",
   "developer": "Alexander Shvab",
-  "publisher": "Alexander Shvab",
-  "release_date": "Oct 17, 2017",
+  "publisher": "",
+  "release_date": "2017-10-17",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -23,62 +23,27 @@
   ],
   "short_description": "This game is a simulator of a board game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/708930/header.jpg?t=1615777358",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/708930/ss_363a5de87744810230f87c6161ab8d84369e3513.600x338.jpg?t=1615777358",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/708930/ss_ffc0b2adbfac6e71082e9e927ee3c3d4954ec782.600x338.jpg?t=1615777358",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/708930/ss_921e02f7a6b1c8b35c1756f573cf196230278eea.600x338.jpg?t=1615777358",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/708930/ss_e3cf9dadb2f9f49b6b5bf3dd50ab2af925958926.600x338.jpg?t=1615777358",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/708930/ss_7559bc97a4b9b492b2af7aede99d38b6a70afbaf.600x338.jpg?t=1615777358",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/708930/ss_422948e476d944d87305eb8f549672389f23f93c.600x338.jpg?t=1615777358",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/708930/ss_232f778ff3de9224abd3ad6b9886db43f5df113d.600x338.jpg?t=1615777358"
-  ],
-  "detailed_description": "This game is a simulator of a board game.  The main target of the game is to get 1000 points. A player rolls 5 bones (dice) and collects points.  Look at screenshots to find out rules of the game.<br />\r\n<br />\r\nThe game provides: <br />\r\n- playing online  with a computer or a real person<br />\r\n- regulations of the game are available inside the client ( see game official website as well  )<br />\r\n- mouse control (except login part)<br />\r\n- check how lucky is your day today<br />\r\n- balanced rules<br />\r\n- Latency or ping does not influence on quality of gameplay.<br />\r\n<br />\r\n- Hints:\t<br />\r\n- If your opponent has 750 and you have 0 do not be upset much, because there are 3 barrels that must to pass your opponent.<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\nAndroid https://play.google.com/store/apps/details?id=com.bonesGame.online",
-  "about_the_game": "This game is a simulator of a board game.  The main target of the game is to get 1000 points. A player rolls 5 bones (dice) and collects points.  Look at screenshots to find out rules of the game.<br />\r\n<br />\r\nThe game provides: <br />\r\n- playing online  with a computer or a real person<br />\r\n- regulations of the game are available inside the client ( see game official website as well  )<br />\r\n- mouse control (except login part)<br />\r\n- check how lucky is your day today<br />\r\n- balanced rules<br />\r\n- Latency or ping does not influence on quality of gameplay.<br />\r\n<br />\r\n- Hints:\t<br />\r\n- If your opponent has 750 and you have 0 do not be upset much, because there are 3 barrels that must to pass your opponent.<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\nAndroid https://play.google.com/store/apps/details?id=com.bonesGame.online",
-  "supported_languages": "English, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "PvP",
-    "Online PvP"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 2.35,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 47,
-  "review_positive": 21,
+  "review_positive": 0,
   "review_percentage": 44.7,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 116,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 44,
-      "review_percentage": 40.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 47,
-      "review_percentage": 44.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
+      "date": "2026-04-04",
       "review_count": 47,
       "review_percentage": 44.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

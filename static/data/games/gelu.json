@@ -3,8 +3,8 @@
   "name": "Gelu",
   "slug": "gelu",
   "developer": "NedoStudio",
-  "publisher": "NedoStudio",
-  "release_date": "Jul 11, 2017",
+  "publisher": "",
+  "release_date": "2017-07-11",
   "price_usd": 4.99,
   "genres": [
     "Casual",
@@ -17,35 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "2D Pixel platformer about a cute character named Gelu. He can create and destroy his copies made of ice, limited number of times. With the help of ice copies he can climb on platform, pass the obstacles and pass the levels. Help Gelu to pass hard levels.",
+  "short_description": "2D Pixel platformer about a cute character named Gelu. He can create and destroy his copies made of ice, limited number of times. With the help of ice copies he can climb on platform, pass the obstacl",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664610/header.jpg?t=1554112830",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664610/ss_ab9df57e9f9cc082bd7570874a2fb9b28dcc065c.600x338.jpg?t=1554112830",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664610/ss_96dfa8b2fe2a9cf66a930d8eea65086b1e2e40c5.600x338.jpg?t=1554112830",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664610/ss_59fedbdb29f148aefa3ca044bdd4dd4b5ea9f56f.600x338.jpg?t=1554112830",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664610/ss_91b04eea7d62284c79b5a8136d65592d59380f92.600x338.jpg?t=1554112830",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664610/ss_eb2255431781793a12fdfdb8b3312eef9ac95051.600x338.jpg?t=1554112830"
-  ],
-  "detailed_description": "Description<br>This game is about a cute character named Gelu. <br>He must find the crowbar to open the broken elevator.<br>He can create and destroy his copies made of ice, limited number of times. With the help of ice copies he can climb on platform, pass the obstacles and pass the levels. <br>Help Gelu to pass hard levels.<br><br><br>Controls<br>Spacebar - Create ice block<br>W - Jump<br>A - Move left<br>D - Move Right<br>R - Restart Game<br>P - Pause<br>Mouse right click - Destroy ice block<br><br>Produced By<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664610/extras/71dcd8260a60ebea2bd1d1de8b7e6605.poster.avif?t=1554112830\" width=620 height=192 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664610/extras/71dcd8260a60ebea2bd1d1de8b7e6605.webm?t=1554112830\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664610/extras/71dcd8260a60ebea2bd1d1de8b7e6605.mp4?t=1554112830\" type=\"video/mp4\"></video></span>",
-  "about_the_game": "Description<br>This game is about a cute character named Gelu. <br>He must find the crowbar to open the broken elevator.<br>He can create and destroy his copies made of ice, limited number of times. With the help of ice copies he can climb on platform, pass the obstacles and pass the levels. <br>Help Gelu to pass hard levels.<br><br><br>Controls<br>Spacebar - Create ice block<br>W - Jump<br>A - Move left<br>D - Move Right<br>R - Restart Game<br>P - Pause<br>Mouse right click - Destroy ice block<br><br>Produced By<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664610/extras/71dcd8260a60ebea2bd1d1de8b7e6605.poster.avif?t=1554112830\" width=620 height=192 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664610/extras/71dcd8260a60ebea2bd1d1de8b7e6605.webm?t=1554112830\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664610/extras/71dcd8260a60ebea2bd1d1de8b7e6605.mp4?t=1554112830\" type=\"video/mp4\"></video></span>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 140,
-  "review_positive": 113,
+  "review_positive": 0,
   "review_percentage": 80.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 139,
-      "review_percentage": 79.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 140,
       "review_percentage": 80.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

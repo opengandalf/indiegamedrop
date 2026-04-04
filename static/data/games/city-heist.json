@@ -3,8 +3,8 @@
   "name": "City Heist",
   "slug": "city-heist",
   "developer": "Rawi Studio",
-  "publisher": "Rawi Studio",
-  "release_date": "Jan 1, 2025",
+  "publisher": "",
+  "release_date": "2025-01-01",
   "price_usd": 199.99,
   "genres": [
     "Action"
@@ -17,32 +17,15 @@
   ],
   "short_description": "A thief steals diamonds from the bank and tries to escape from the security guards and get the highest score.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390080/header.jpg?t=1735741492",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390080/ss_6d51e603e0a013bd36e702350d5c487147109882.600x338.jpg?t=1735741492",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390080/ss_cac4a8697f894aed6bebc605ef32d0546d466ddb.600x338.jpg?t=1735741492",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390080/ss_e9b2283656d9cc0474f15e955cde8aec55625600.600x338.jpg?t=1735741492",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390080/ss_e6f7f403e19db55b83f9a376acd08deb8f697e68.600x338.jpg?t=1735741492",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390080/ss_1ef81b9e92575806efdd613dc8b2ae9fda2e62bd.600x338.jpg?t=1735741492"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >City Heist is an action-packed adventure where you’ll step into the shoes of a thief trying to steal diamonds from a bank while avoiding security guards! As you collect the precious diamonds, the challenge intensifies as security measures and the number of guards increase. You’ll need to use your speed and agility to outsmart them and escape unscathed.</p><p class=\"bb_paragraph\" >As you successfully execute the heists, the risks will grow, but so will your points. Your goal is to collect as many diamonds as possible while avoiding being caught by the security guards and achieving the highest score. But be careful, as every wrong move or capture will ruin your efforts.</p><p class=\"bb_paragraph\" >City Heist offers increasingly difficult security obstacles and dynamic gameplay in every level. Think fast, move strategically, and try to stay alive while collecting diamonds. Can you outwit the bank’s security and achieve the highest score?</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >City Heist is an action-packed adventure where you’ll step into the shoes of a thief trying to steal diamonds from a bank while avoiding security guards! As you collect the precious diamonds, the challenge intensifies as security measures and the number of guards increase. You’ll need to use your speed and agility to outsmart them and escape unscathed.</p><p class=\"bb_paragraph\" >As you successfully execute the heists, the risks will grow, but so will your points. Your goal is to collect as many diamonds as possible while avoiding being caught by the security guards and achieving the highest score. But be careful, as every wrong move or capture will ruin your efforts.</p><p class=\"bb_paragraph\" >City Heist offers increasingly difficult security obstacles and dynamic gameplay in every level. Think fast, move strategically, and try to stay alive while collecting diamonds. Can you outwit the bank’s security and achieve the highest score?</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 4,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

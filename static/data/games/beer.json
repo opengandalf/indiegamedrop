@@ -3,8 +3,8 @@
   "name": "Beer!",
   "slug": "beer",
   "developer": "Crystal Shard",
-  "publisher": "Crystal Shard",
-  "release_date": "Feb 14, 2018",
+  "publisher": "",
+  "release_date": "2018-02-14",
   "price_usd": 1.39,
   "genres": [
     "Casual",
@@ -21,42 +21,15 @@
   ],
   "short_description": "Grab yourself a drink in this collection of rapid minigames that test your quick thinking and reflexes!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782280/header.jpg?t=1769337877",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782280/ss_e5baf69fd8e5b20217b935cc9f0542fa201c0c33.600x338.jpg?t=1769337877",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782280/ss_937ed623f7d2d184686718319d17365bdd731adb.600x338.jpg?t=1769337877",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782280/ss_827f1f7781c9100ba8b86e7ec10510295ab28fa9.600x338.jpg?t=1769337877",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782280/ss_c36eb32fc547601344a208fb5836b6eb5feb4b58.600x338.jpg?t=1769337877",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782280/ss_884a18bd5f895ce9bfb4499168fd22f4348c0dc2.600x338.jpg?t=1769337877",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782280/ss_3575d940fa3f04f1da5ddede4343f1f8d85fcaf5.600x338.jpg?t=1769337877",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782280/ss_292be7b66bb64c92ca574669680d44b69aadc17c.600x338.jpg?t=1769337877"
-  ],
-  "detailed_description": "Beer! is a collection of frantic minigames where you have only twelve seconds to grab the beer! But it's not just about your reflexes: each screen is a puzzle that may take you numerous tries to figure out. Easy to pick up and difficult to master, this game rewards quick and out-of-the-box thinking. It comes with a cheerful cafe-style soundtrack, and assorted cast of bears and deer. The game includes three sets of ten levels, a secret bonus round, and several cameos. Suitable for all ages; alcohol not included.<br />\r\n<br />\r\n\"The concept was brilliant: seemingly mindless speed-click game that actually really makes you think about how to solve each puzzle.\"<br />\r\n\"It's a fun time waster and casual enough to pick it up for a short round (pun intentional).\"",
-  "about_the_game": "Beer! is a collection of frantic minigames where you have only twelve seconds to grab the beer! But it's not just about your reflexes: each screen is a puzzle that may take you numerous tries to figure out. Easy to pick up and difficult to master, this game rewards quick and out-of-the-box thinking. It comes with a cheerful cafe-style soundtrack, and assorted cast of bears and deer. The game includes three sets of ten levels, a secret bonus round, and several cameos. Suitable for all ages; alcohol not included.<br />\r\n<br />\r\n\"The concept was brilliant: seemingly mindless speed-click game that actually really makes you think about how to solve each puzzle.\"<br />\r\n\"It's a fun time waster and casual enough to pick it up for a short round (pun intentional).\"",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Camera Comfort",
-    "Color Alternatives",
-    "Playable without Timed Input",
-    "Subtitle Options",
-    "Steam Cloud",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
+  "review_velocity_7d": 1.9000000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 38,
-  "review_positive": 30,
+  "review_positive": 0,
   "review_percentage": 78.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -64,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 35,
-      "review_percentage": 80.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 38,
       "review_percentage": 78.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

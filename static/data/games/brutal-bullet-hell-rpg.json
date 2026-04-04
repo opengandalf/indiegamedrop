@@ -3,8 +3,8 @@
   "name": "Brutal Bullet Hell RPG",
   "slug": "brutal-bullet-hell-rpg",
   "developer": "Tsaongames",
-  "publisher": "None",
-  "release_date": "Mar 20, 2023",
+  "publisher": "",
+  "release_date": "2023-03-20",
   "price_usd": 0.99,
   "genres": [
     "Indie",
@@ -19,33 +19,15 @@
   ],
   "short_description": "Avoid, fail, and rage, as you attempt to progress through the Brutal Bullet Hell.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2335920/header.jpg?t=1710379984",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2335920/ss_acf659dab4160e9108d01d0687daa941a8da9dfb.600x338.jpg?t=1710379984",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2335920/ss_9299f90c41b03ec5723aafe87881cf554b7472ba.600x338.jpg?t=1710379984",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2335920/ss_edcdebfa4222cc4d76258ec8014cfb4c9b632626.600x338.jpg?t=1710379984",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2335920/ss_995abf3fd292d2b31004306fb144b0c7cc4ef384.600x338.jpg?t=1710379984",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2335920/ss_14ed9220d7cbe7db40fc8d9c6f6737620e3a9988.600x338.jpg?t=1710379984"
-  ],
-  "detailed_description": "Can you conquer the world of Bullet Hell? Explore 120 levels to discover new equipment, weapons, races, and classes. Choose from a combination of equipment, weapons, races and classes to arm yourself against the horde of over 900 combinations of minions and bosses.",
-  "about_the_game": "Can you conquer the world of Bullet Hell? Explore 120 levels to discover new equipment, weapons, races, and classes. Choose from a combination of equipment, weapons, races and classes to arm yourself against the horde of over 900 combinations of minions and bosses.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

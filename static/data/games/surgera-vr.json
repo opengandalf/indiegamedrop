@@ -3,8 +3,8 @@
   "name": "Surgera VR",
   "slug": "surgera-vr",
   "developer": "HealthCare VR Innovations, Inc.",
-  "publisher": "HealthCare VR Innovations, Inc.",
-  "release_date": "Mar 4, 2018",
+  "publisher": "",
+  "release_date": "2018-03-04",
   "price_usd": 0.0,
   "genres": [
     "Education"
@@ -17,62 +17,21 @@
   ],
   "short_description": "Welcome to the operating room, doctor. The patient needs an urgent respiration recovery!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763860/header.jpg?t=1520232002",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763860/ss_76866deef91f65bac55e329824f89c8807d52ba0.600x338.jpg?t=1520232002",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763860/ss_bbeb36b11572c46928dac91d0c3b174683cf21de.600x338.jpg?t=1520232002",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763860/ss_9c6cd79ba0a1e06f70dc509f77a84641ba4e7de1.600x338.jpg?t=1520232002",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763860/ss_1ec679ee2d7b5da07ae2a554e47ce563f68d6882.600x338.jpg?t=1520232002",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763860/ss_767df6ee41e4ebbe4bf7d3e41853ca5d000b72ad.600x338.jpg?t=1520232002",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763860/ss_cfdbb82851bf5552eab976e584bc578506f7d7cc.600x338.jpg?t=1520232002",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763860/ss_0048c40285ae95da69d72e3868b17fc4a6d62720.600x338.jpg?t=1520232002",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763860/ss_8af92f63639c206dea2242d68acdba29ae11a5f3.600x338.jpg?t=1520232002"
-  ],
-  "detailed_description": "Welcome to the operating room, doctor. The patient needs an urgent respiration recovery! The patient was anesthetized by infiltration. At the beginning of each manipulation, a tool and type of action will be proposed. While the tool is not selected - remember the animation on the scene. After selecting the tool, the animation disappears. Manipulation is passed when the action is completed. A sign of the fact that the manipulation is performed correctly is the change of the hint.",
-  "about_the_game": "Welcome to the operating room, doctor. The patient needs an urgent respiration recovery! The patient was anesthetized by infiltration. At the beginning of each manipulation, a tool and type of action will be proposed. While the tool is not selected - remember the animation on the scene. After selecting the tool, the animation disappears. Manipulation is passed when the action is completed. A sign of the fact that the manipulation is performed correctly is the change of the hint.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Tracked Controller Support",
-    "VR Supported"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 124,
-  "review_positive": 65,
+  "review_positive": 0,
   "review_percentage": 52.4,
   "owner_estimate": 35000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 20,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 91,
-      "review_percentage": 56.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 121,
-      "review_percentage": 52.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 124,
       "review_percentage": 52.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

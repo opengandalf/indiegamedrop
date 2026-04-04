@@ -3,8 +3,8 @@
   "name": "Ealu - Build Share Play [Early Access]",
   "slug": "ealu-build-share-play-early-access",
   "developer": "Harki Games Ltd",
-  "publisher": "Harki Games Ltd",
-  "release_date": "Dec 4, 2020",
+  "publisher": "",
+  "release_date": "2020-12-04",
   "price_usd": 0.0,
   "genres": [
     "Indie",
@@ -19,34 +19,15 @@
   ],
   "short_description": "Éalú is a retro level building and sharing 2D platformer",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1133800/header.jpg?t=1607385797",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1133800/ss_3ae37cdccea5e120d0e85dba4f084a857b4664ce.600x338.jpg?t=1607385797",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1133800/ss_2a4984d8823a1c701f1525ce50bcf385ea7ce640.600x338.jpg?t=1607385797",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1133800/ss_5a375676105d7df07140b9e25ab7da5b996149f5.600x338.jpg?t=1607385797",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1133800/ss_2a7394c7ca888491c05248febde422cb8c4f72dc.600x338.jpg?t=1607385797",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1133800/ss_e5c33d154ebce8c351c0de64aee075367a262c4e.600x338.jpg?t=1607385797"
-  ],
-  "detailed_description": "Éalú is a classic side scrolling adventure created by you. The in-game level builder allows you to unleash your creative potential and share it with the world<br />\r\n<br />\r\nIf creation isn't your thing you can jump in to online mode and experience other creations through 100 lives mode or the level browser<br />\r\n<br />\r\n- In game level creator<br />\r\n- 100 lives online mode<br />\r\n- 60+ level components and game objects (With more on the way)<br />\r\n- Level browser<br />\r\n- Custom physics for a true retro feel",
-  "about_the_game": "Éalú is a classic side scrolling adventure created by you. The in-game level builder allows you to unleash your creative potential and share it with the world<br />\r\n<br />\r\nIf creation isn't your thing you can jump in to online mode and experience other creations through 100 lives mode or the level browser<br />\r\n<br />\r\n- In game level creator<br />\r\n- 100 lives online mode<br />\r\n- 60+ level components and game objects (With more on the way)<br />\r\n- Level browser<br />\r\n- Custom physics for a true retro feel",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

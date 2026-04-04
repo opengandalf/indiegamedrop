@@ -3,8 +3,8 @@
   "name": "Defense Golem",
   "slug": "defense-golem",
   "developer": "LodisGame",
-  "publisher": "LodisGame",
-  "release_date": "Nov 9, 2024",
+  "publisher": "",
+  "release_date": "2024-11-09",
   "price_usd": 0.49,
   "genres": [
     "Casual"
@@ -17,33 +17,15 @@
   ],
   "short_description": "Defense Golem is a tower defense game that supports random evolution.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3196380/header.jpg?t=1739087266",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3196380/ss_750f8d120a5f1b91e333295c0a20abf91d8877fd.600x338.jpg?t=1739087266",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3196380/ss_e8e6399708aa20cf98c43d8c6a398752ceb7e80a.600x338.jpg?t=1739087266",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3196380/ss_7e9ec0e094bf2fe3aedb9e3718d2572c3f34e90f.600x338.jpg?t=1739087266",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3196380/ss_dbd57fa07470ec976851870d375aad78a6002a7c.600x338.jpg?t=1739087266",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3196380/ss_f84a8799b437dc1b850772c8386d01e4ee254f10.600x338.jpg?t=1739087266"
-  ],
-  "detailed_description": "<ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Get a random initial statue.</p></li><li><p class=\"bb_paragraph\" >Defeat enemies to upgrade the statue (randomly evolve to a higher-level statue) or replenish the initial statue.</p></li></ul><p class=\"bb_paragraph\" >Repeat the above steps until all enemies are defeated.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p>",
-  "about_the_game": "<ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Get a random initial statue.</p></li><li><p class=\"bb_paragraph\" >Defeat enemies to upgrade the statue (randomly evolve to a higher-level statue) or replenish the initial statue.</p></li></ul><p class=\"bb_paragraph\" >Repeat the above steps until all enemies are defeated.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p>",
-  "supported_languages": "English, Russian, Italian, Vietnamese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 3,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 33.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 33.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 33.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

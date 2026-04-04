@@ -3,8 +3,8 @@
   "name": "BoyandBox",
   "slug": "boyandbox",
   "developer": "Gustav Almström",
-  "publisher": "Gustav Almström",
-  "release_date": "Feb 13, 2020",
+  "publisher": "",
+  "release_date": "2020-02-13",
   "price_usd": 0.0,
   "genres": [
     "Indie"
@@ -18,33 +18,15 @@
   ],
   "short_description": "Boyandbox is a game about a boy and his teleporting box.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1232830/header.jpg?t=1628857755",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1232830/ss_6fdd1aff04b8f41e2e6f14f3c1c05d8e142bcf56.600x338.jpg?t=1628857755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1232830/ss_5f2f2009517df9e0baca06c1a7c8261dcce4ca70.600x338.jpg?t=1628857755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1232830/ss_bb7fc73e352de0c3a35a4b8d49c38ee3a492d1e2.600x338.jpg?t=1628857755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1232830/ss_b6b43ad8c9681d688d95366fb8a91d01534b5fb6.600x338.jpg?t=1628857755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1232830/ss_3b3c5b4bbd7099d97ceb2e779aee5ddc6ae35f41.600x338.jpg?t=1628857755"
-  ],
-  "detailed_description": "<strong>Boyandbox</strong> is a skill based puzzle platformer where you use a teleporting box to solve problems. The box can be used both as a platform for you to jump off of, as well as a shield to protect you from enemies. The game requires skill and precision. However, most of the levels have multiple solutions and the game always lets you take a step back to figure out the most optimal path.<h2 class=\"bb_tag\" >Features </h2><ul class=\"bb_ul\"><li> Over 50 unique and challenging levels.<br></li><li> 6 different areas, each with their own soundtrack.<br></li><li> Blue blobs.<br></li><li> Red blobs.<br></li><li> A boy.<br></li><li> A box.</li></ul>",
-  "about_the_game": "<strong>Boyandbox</strong> is a skill based puzzle platformer where you use a teleporting box to solve problems. The box can be used both as a platform for you to jump off of, as well as a shield to protect you from enemies. The game requires skill and precision. However, most of the levels have multiple solutions and the game always lets you take a step back to figure out the most optimal path.<h2 class=\"bb_tag\" >Features </h2><ul class=\"bb_ul\"><li> Over 50 unique and challenging levels.<br></li><li> 6 different areas, each with their own soundtrack.<br></li><li> Blue blobs.<br></li><li> Red blobs.<br></li><li> A boy.<br></li><li> A box.</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 0.8,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 16,
-  "review_positive": 13,
+  "review_positive": 0,
   "review_percentage": 81.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +34,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 14,
-      "review_percentage": 85.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 16,
       "review_percentage": 81.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

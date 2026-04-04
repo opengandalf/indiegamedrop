@@ -3,8 +3,8 @@
   "name": "Celtique",
   "slug": "celtique",
   "developer": "James McGowan",
-  "publisher": "James McGowan",
-  "release_date": "Aug 23, 2023",
+  "publisher": "",
+  "release_date": "2023-08-23",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -23,36 +23,15 @@
   ],
   "short_description": "Celtique is a high-speed rhythm driving game set on a hostile alien world where music is your only navigation system.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2150900/c63c8bad00a57be3c384b98b0449118c9c8fe202/header.jpg?t=1772674676",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2150900/374df32c7d313a54d323297d388d7eef65b67ef9/ss_374df32c7d313a54d323297d388d7eef65b67ef9.600x338.jpg?t=1772674676",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2150900/ss_fe9b3cd167155655c8fde1aa4290561dbe570631.600x338.jpg?t=1772674676",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2150900/ss_ea2e46bb7610302a4feba8c478ea6238d94c972e.600x338.jpg?t=1772674676",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2150900/353fcdfe4b605d52835dcefc05c58d401cc9cf7b/ss_353fcdfe4b605d52835dcefc05c58d401cc9cf7b.600x338.jpg?t=1772674676",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2150900/fd406a7b4d6fcdb920b65e7112a64fd15a86c565/ss_fd406a7b4d6fcdb920b65e7112a64fd15a86c565.600x338.jpg?t=1772674676"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>Celtique (Celestial Boutique)</strong> is a high-speed rhythm driving game set on a hostile alien world where music is your only navigation system.</p><p class=\"bb_paragraph\" >Race across vast extraterrestrial landscapes as every turn, boost, and drift is synchronized to the beat. The track <i>is</i> the song - master momentum, timing, and flow as you push your vehicle through  biomechanical highways that react dynamically to the music.</p><p class=\"bb_paragraph\" >This is not a traditional racing game. Speed alone is not enough. Precision, musical awareness, and instinct define survival.</p><h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Rhythm-Driven Gameplay</strong> – Steering, acceleration, boosts, and hazards are fully synchronized to the soundtrack</p></li><li><p class=\"bb_paragraph\" ><strong>Dynamic Visuals</strong> – The world pulses, shifts, and evolves with the music</p></li></ul><p class=\"bb_paragraph\" >Celtique is about entering a trance—where engine noise fades, rhythm takes control, and the road becomes music.</p><p class=\"bb_paragraph\" >Drive the beat.<br>Become the rhythm.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>Celtique (Celestial Boutique)</strong> is a high-speed rhythm driving game set on a hostile alien world where music is your only navigation system.</p><p class=\"bb_paragraph\" >Race across vast extraterrestrial landscapes as every turn, boost, and drift is synchronized to the beat. The track <i>is</i> the song - master momentum, timing, and flow as you push your vehicle through  biomechanical highways that react dynamically to the music.</p><p class=\"bb_paragraph\" >This is not a traditional racing game. Speed alone is not enough. Precision, musical awareness, and instinct define survival.</p><h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Rhythm-Driven Gameplay</strong> – Steering, acceleration, boosts, and hazards are fully synchronized to the soundtrack</p></li><li><p class=\"bb_paragraph\" ><strong>Dynamic Visuals</strong> – The world pulses, shifts, and evolves with the music</p></li></ul><p class=\"bb_paragraph\" >Celtique is about entering a trance—where engine noise fades, rhythm takes control, and the road becomes music.</p><p class=\"bb_paragraph\" >Drive the beat.<br>Become the rhythm.</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Online Co-op",
-    "Steam Achievements",
-    "Partial Controller Support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 3,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 33.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 33.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

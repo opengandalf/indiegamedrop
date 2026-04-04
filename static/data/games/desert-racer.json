@@ -3,8 +3,8 @@
   "name": "Desert Racer",
   "slug": "desert-racer",
   "developer": "DoubleTapStudio",
-  "publisher": "DoubleTapStudio",
-  "release_date": "Aug 9, 2024",
+  "publisher": "",
+  "release_date": "2024-08-09",
   "price_usd": 54.99,
   "genres": [
     "Indie"
@@ -17,32 +17,15 @@
   ],
   "short_description": "Are you a good driver? A game to test your reaction speed. The player controls a car, the speed of which is gradually increasing. It is necessary to turn and collect gasoline cans in time.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105950/header.jpg?t=1723228586",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105950/ss_685bf50206f57f365bf69e5005c6b638e79c6be5.600x338.jpg?t=1723228586",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105950/ss_d474c1ad7bbf2eb01971bae85d0b15be31613ea0.600x338.jpg?t=1723228586",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105950/ss_120a8b3323f89bf46b7d72d1261eecf867a6ddac.600x338.jpg?t=1723228586",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105950/ss_0923dbd8584901fa38f53fe47475af02ee2b133a.600x338.jpg?t=1723228586",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3105950/ss_8c790d446ad05a50b897c5e6cd44cb4c36c77faf.600x338.jpg?t=1723228586"
-  ],
-  "detailed_description": "Are you a good driver? A game to test your reaction speed. The player controls a car, the speed of which is gradually increasing. It is necessary to turn and collect gasoline cans in time.<br />\r\nA fun game with dynamic cheerful music. There is an abandoned desert around. Collect the remaining gasoline and move forward, and do not crash into the fence!<br />\r\nThe simple, intuitive gameplay allows you to immediately immerse yourself in the game.  And the cheerful atmosphere will leave a pleasant impression.",
-  "about_the_game": "Are you a good driver? A game to test your reaction speed. The player controls a car, the speed of which is gradually increasing. It is necessary to turn and collect gasoline cans in time.<br />\r\nA fun game with dynamic cheerful music. There is an abandoned desert around. Collect the remaining gasoline and move forward, and do not crash into the fence!<br />\r\nThe simple, intuitive gameplay allows you to immediately immerse yourself in the game.  And the cheerful atmosphere will leave a pleasant impression.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

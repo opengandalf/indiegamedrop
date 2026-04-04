@@ -3,8 +3,8 @@
   "name": "Rifle Dodger",
   "slug": "rifle-dodger",
   "developer": "Jordan Russell",
-  "publisher": "Jordan Russell",
-  "release_date": "Nov 6, 2020",
+  "publisher": "",
+  "release_date": "2020-11-06",
   "price_usd": 6.99,
   "genres": [
     "Indie",
@@ -19,34 +19,9 @@
   ],
   "short_description": "A VR Arcade Shooter",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446640/header.jpg?t=1604704873",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446640/ss_a0bc0a8a244a70b9fda0b9d35694e77243cf1aa8.600x338.jpg?t=1604704873",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446640/ss_02313431fc38bc6f125acacec0f8c19c96551ffd.600x338.jpg?t=1604704873",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446640/ss_5b2a4a33e09ce7031cf1a67783bca6f7f48b46a5.600x338.jpg?t=1604704873",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446640/ss_8baa9d597d8f69795522057878bcedd0d68b3bb8.600x338.jpg?t=1604704873",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446640/ss_2fbc666f3ca7d628ca08d6095d26d9be76924e1c.600x338.jpg?t=1604704873"
-  ],
-  "detailed_description": "Rifle Dodger is a VR arcade style shooter, with a focus on intuitive weapon handling and control. Fight through waves of flying targets with your trusty bolt action rifle, but stay on your toes as the targets shoot back!",
-  "about_the_game": "Rifle Dodger is a VR arcade style shooter, with a focus on intuitive weapon handling and control. Fight through waves of flying targets with your trusty bolt action rifle, but stay on your toes as the targets shoot back!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 5,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 20.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 20.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 20.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

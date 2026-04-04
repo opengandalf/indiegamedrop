@@ -3,8 +3,8 @@
   "name": "Alien Cat Story",
   "slug": "alien-cat-story",
   "developer": "HugePixel",
-  "publisher": "HugePixel",
-  "release_date": "Nov 15, 2024",
+  "publisher": "",
+  "release_date": "2024-11-15",
   "price_usd": 7.99,
   "genres": [
     "Adventure"
@@ -15,40 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Help the cat survive and repair his flying ship after an accident on an unknown planet. Use dexterity and ingenuity to overcome obstacles, fight enemies and solve puzzles. Exciting adventures are waiting for you ahead!",
+  "short_description": "Help the cat survive and repair his flying ship after an accident on an unknown planet. Use dexterity and ingenuity to overcome obstacles, fight enemies and solve puzzles. Exciting adventures are wait",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304460/header.jpg?t=1731673243",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304460/ss_54dd6e3f3186e86a24abef20e701e8f13e25b8bd.600x338.jpg?t=1731673243",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304460/ss_de72ecc63931cd8d53f1ef738026c464f1de049f.600x338.jpg?t=1731673243",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304460/ss_e35714880dc2a5a811806e037c95902b58b316d5.600x338.jpg?t=1731673243",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304460/ss_92633407daa5e23b1bb97f3c8b591d0699f98616.600x338.jpg?t=1731673243",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304460/ss_75f7d3665a61f7635ae0b8c0e8f69c6b2dcaee15.600x338.jpg?t=1731673243",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304460/ss_41514f9945b35581631e5758c7317e3be3f222f1.600x338.jpg?t=1731673243",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304460/ss_d172977098386d27ab9cfa9d9bd93fa2264c2424.600x338.jpg?t=1731673243",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304460/ss_1ab9c0a5f7cf578b872283f1151da78e6bb63699.600x338.jpg?t=1731673243",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3304460/ss_07aa317f1f6350d8f4bf0d8592855bd2fbf4ef75.600x338.jpg?t=1731673243"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >The main character is a cat, the pilot of a small flying ship. After the accident, he finds himself on an unknown planet, where his goal is to collect fuses to repair the ship and return home. </p><p class=\"bb_paragraph\" >There are various enemies, challenging levels and puzzles, as well as allies on the cat's path. A 2D platformer style game where the hero moves through the levels, jumps, fights enemies and collects the necessary items to repair the ship. The controls are simple and intuitive, making the game accessible to both beginners and experienced players. </p><p class=\"bb_paragraph\" >Top View Puzzles: In some levels, the view switches to \"top\" and you have to solve the puzzles to gain access to the next stage. </p><p class=\"bb_paragraph\" >Ship Repair Between levels, the hero returns to his ship, where he uses the collected diodes to repair. With each new diode, the cat gets one step closer to repairing the ship and returning home. </p><p class=\"bb_paragraph\" >Conclusion Get ready for an amazing adventure on an alien planet full of dangers, puzzles and</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >The main character is a cat, the pilot of a small flying ship. After the accident, he finds himself on an unknown planet, where his goal is to collect fuses to repair the ship and return home. </p><p class=\"bb_paragraph\" >There are various enemies, challenging levels and puzzles, as well as allies on the cat's path. A 2D platformer style game where the hero moves through the levels, jumps, fights enemies and collects the necessary items to repair the ship. The controls are simple and intuitive, making the game accessible to both beginners and experienced players. </p><p class=\"bb_paragraph\" >Top View Puzzles: In some levels, the view switches to \"top\" and you have to solve the puzzles to gain access to the next stage. </p><p class=\"bb_paragraph\" >Ship Repair Between levels, the hero returns to his ship, where he uses the collected diodes to repair. With each new diode, the cat gets one step closer to repairing the ship and returning home. </p><p class=\"bb_paragraph\" >Conclusion Get ready for an amazing adventure on an alien planet full of dangers, puzzles and</p>",
-  "supported_languages": "English, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.2000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 24,
-  "review_positive": 23,
+  "review_positive": 0,
   "review_percentage": 95.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 20,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 24,
       "review_percentage": 95.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

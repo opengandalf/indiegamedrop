@@ -3,8 +3,8 @@
   "name": "Dracologic",
   "slug": "dracologic",
   "developer": "Lurksoft Studio",
-  "publisher": "Lurksoft Studio",
-  "release_date": "Mar 20, 2019",
+  "publisher": "",
+  "release_date": "2019-03-20",
   "price_usd": 5.99,
   "genres": [
     "Casual",
@@ -20,32 +20,15 @@
   ],
   "short_description": "A retro visualized action puzzler where you fight various monsters by connecting magical orbs to create devastating patterns.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1035830/header.jpg?t=1553067965",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1035830/ss_1e174a137f9b8adc8754d57c8486ec56564665b4.600x338.jpg?t=1553067965",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1035830/ss_8430ac473f9798a16eafc7b374a8d6f831ca3951.600x338.jpg?t=1553067965",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1035830/ss_da5ebb65e1c8fd1ef5880c1fdbb98f6fa37af43b.600x338.jpg?t=1553067965",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1035830/ss_46a65edaaa1fb27dc55fd232f8719f9b7b574163.600x338.jpg?t=1553067965",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1035830/ss_703d2d34ce890afef6ac58cd52a129a84ad60ab9.600x338.jpg?t=1553067965"
-  ],
-  "detailed_description": "An action-puzzler where you try to create patterns to damage the various creatures of the Dracolord's domain. By clicking on the arrow orbs, you initiate chain reactions that add damage to your attack. Larger patterns will place new spells on the board, but there is also the risk of awakening the evil dracostones. Think fast, take chances and find the secret way to the final boss to win the game and end the Dracolord's reign forever!",
-  "about_the_game": "An action-puzzler where you try to create patterns to damage the various creatures of the Dracolord's domain. By clicking on the arrow orbs, you initiate chain reactions that add damage to your attack. Larger patterns will place new spells on the board, but there is also the risk of awakening the evil dracostones. Think fast, take chances and find the secret way to the final boss to win the game and end the Dracolord's reign forever!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +36,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

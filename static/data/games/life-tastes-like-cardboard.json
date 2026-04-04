@@ -3,8 +3,8 @@
   "name": "Life Tastes Like Cardboard",
   "slug": "life-tastes-like-cardboard",
   "developer": "Demensa",
-  "publisher": "Demensa",
-  "release_date": "Sep 22, 2019",
+  "publisher": "",
+  "release_date": "2019-09-22",
   "price_usd": 0.0,
   "genres": [
     "Indie"
@@ -17,54 +17,27 @@
   ],
   "short_description": "A game about boredom and self-pity. It's about myself mostly. You walk around and press the 'interact' button. Sorry for making this.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114090/header.jpg?t=1569210921",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114090/ss_d6546808126106a12bdbe0cf3e8f6fdf159b53ff.600x338.jpg?t=1569210921",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114090/ss_2fbaddfee96874f138398e77e02c9e8adf7b841d.600x338.jpg?t=1569210921",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114090/ss_2ec8739a763648a2526692406fe392376cee39b2.600x338.jpg?t=1569210921",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114090/ss_ed9610e92a3929044d6ed3f330cb7a6a3ade259b.600x338.jpg?t=1569210921",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114090/ss_0f69d6a6294593f20c6466b372db559750ff4ec3.600x338.jpg?t=1569210921",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114090/ss_0c970ae733e012d61e838662d4967f3ef2687eee.600x338.jpg?t=1569210921",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114090/ss_ad37065cbba4027bc60aa5b50f612a440e536efa.600x338.jpg?t=1569210921"
-  ],
-  "detailed_description": "A game about boredom and self-pity.<br />\r\nIt's about myself mostly.  You walk around and press the 'interact' button.<br />\r\nThis is my first game. <br />\r\nSorry.",
-  "about_the_game": "A game about boredom and self-pity.<br />\r\nIt's about myself mostly.  You walk around and press the 'interact' button.<br />\r\nThis is my first game. <br />\r\nSorry.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0004,
   "gem_score": 0.5465,
   "hype_score": 0.0,
-  "review_velocity_7d": 28.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 322,
-  "review_positive": 307,
+  "review_positive": 0,
   "review_percentage": 95.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "rising",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 294,
-      "review_percentage": 95.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 322,
       "review_percentage": 95.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

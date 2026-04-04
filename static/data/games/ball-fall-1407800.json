@@ -3,8 +3,8 @@
   "name": "Ball Fall",
   "slug": "ball-fall-1407800",
   "developer": "PTW Inc.",
-  "publisher": "PTW Inc.",
-  "release_date": "Sep 11, 2020",
+  "publisher": "",
+  "release_date": "2020-09-11",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -19,34 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Ball Fall is a score-attack platforming game where you control a ball falling down an endless hallway. Platform between floors as you try to survive for as long as possible to achieve high-scores and survive the fall.",
+  "short_description": "Ball Fall is a score-attack platforming game where you control a ball falling down an endless hallway. Platform between floors as you try to survive for as long as possible to achieve high-scores and ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407800/header.jpg?t=1690892079",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407800/ss_452415019b1c7e4b207b9012b9f99cbb1d6d3837.600x338.jpg?t=1690892079",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407800/ss_0cd9e466c3c7cf218eb92621713c2182e93e10ce.600x338.jpg?t=1690892079",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407800/ss_1cb2e8b390560a6b942d29ff66d16f18790dce4e.600x338.jpg?t=1690892079",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407800/ss_36100d8d163a66351c4d1b8eef35c68ca0f399c9.600x338.jpg?t=1690892079",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407800/ss_8d56c1dd9ec2d2afd612dac4def1eee4d0053176.600x338.jpg?t=1690892079"
-  ],
-  "detailed_description": "<i>Ball Fall</i> is a score-attack platforming game where you control a ball falling down an endless hallway.  Platform between floors as you try to survive for as long as possible to achieve high-scores and survive the fall.<br><br>Features:<br><br><ul class=\"bb_ul\"><li> Ball<br></li><li> Platforms<br></li><li> Minimalist Art<br></li><li> Score-Attack</li></ul>",
-  "about_the_game": "<i>Ball Fall</i> is a score-attack platforming game where you control a ball falling down an endless hallway.  Platform between floors as you try to survive for as long as possible to achieve high-scores and survive the fall.<br><br>Features:<br><br><ul class=\"bb_ul\"><li> Ball<br></li><li> Platforms<br></li><li> Minimalist Art<br></li><li> Score-Attack</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

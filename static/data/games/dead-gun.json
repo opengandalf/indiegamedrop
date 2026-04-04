@@ -3,8 +3,8 @@
   "name": "DEAD GUN",
   "slug": "dead-gun",
   "developer": "Max Pedro",
-  "publisher": " Louie Inc",
-  "release_date": "Feb 3, 2022",
+  "publisher": "",
+  "release_date": "2022-02-03",
   "price_usd": 2.19,
   "genres": [
     "Action",
@@ -21,32 +21,15 @@
   ],
   "short_description": "DEAD GUN is a 2D platformer with roguelike elements. Take control of a soldier of the elite squad Z-800 and go on an operation to clear friendly worlds from enemies in order to save them.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1873800/header.jpg?t=1643917342",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1873800/ss_d5e1ce85fa188af4e57b00a527bc3dbeac607719.600x338.jpg?t=1643917342",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1873800/ss_7841e2c32d22b1df584f989d04823c64de1dbf6b.600x338.jpg?t=1643917342",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1873800/ss_bd82779cabc269d556a7c25926b82fd13817a83d.600x338.jpg?t=1643917342",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1873800/ss_42d574fdc6ced0d1e4755f2770ee31bd603dc01b.600x338.jpg?t=1643917342",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1873800/ss_62ac5fa78b98238514d488540f339d850ab99163.600x338.jpg?t=1643917342"
-  ],
-  "detailed_description": "DEAD GUN is a 2D platformer with roguelike elements. Take control of a soldier of the elite squad Z-800 and go on an operation to clear friendly worlds from enemies in order to save them. You also have to face enemy bosses who have settled in the very depths of the location and will not let you get out alive.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1873800/extras/fe2c8b6520cb7f7a097368976c242773.poster.avif?t=1643917342\" width=544 height=306 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1873800/extras/fe2c8b6520cb7f7a097368976c242773.webm?t=1643917342\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1873800/extras/fe2c8b6520cb7f7a097368976c242773.mp4?t=1643917342\" type=\"video/mp4\"></video></span><br><br>And also you will have access to the most modern weapons that will help destroy hordes of monsters. All in your hands!",
-  "about_the_game": "DEAD GUN is a 2D platformer with roguelike elements. Take control of a soldier of the elite squad Z-800 and go on an operation to clear friendly worlds from enemies in order to save them. You also have to face enemy bosses who have settled in the very depths of the location and will not let you get out alive.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1873800/extras/fe2c8b6520cb7f7a097368976c242773.poster.avif?t=1643917342\" width=544 height=306 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1873800/extras/fe2c8b6520cb7f7a097368976c242773.webm?t=1643917342\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1873800/extras/fe2c8b6520cb7f7a097368976c242773.mp4?t=1643917342\" type=\"video/mp4\"></video></span><br><br>And also you will have access to the most modern weapons that will help destroy hordes of monsters. All in your hands!",
-  "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.8500000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 17,
-  "review_positive": 14,
+  "review_positive": 0,
   "review_percentage": 82.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 17,
-      "review_percentage": 82.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 17,
       "review_percentage": 82.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

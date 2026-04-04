@@ -3,8 +3,8 @@
   "name": "Castle Fractal",
   "slug": "castle-fractal",
   "developer": "Hatfelt LLC",
-  "publisher": "Hatfelt LLC",
-  "release_date": "Nov 14, 2024",
+  "publisher": "",
+  "release_date": "2024-11-14",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -23,32 +23,15 @@
   ],
   "short_description": "A high-score based roguelite with streamlined action RPG mechanics. It features in-depth inventory management, customizable passives, character upgrades, and high-score-based gameplay.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293380/header.jpg?t=1731987852",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293380/ss_cafec2e7413c679423e74ee4c08edd51bd47aa6c.600x338.jpg?t=1731987852",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293380/ss_1cfe2d56ea0adaff083cf296d0104d92353a1e2c.600x338.jpg?t=1731987852",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293380/ss_9ebcdd651fe35f354a4ec95dabf1bf71b28b58e0.600x338.jpg?t=1731987852",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293380/ss_1c306ad2235a0d2fa2a1c1e3c98d57571cbf3955.600x338.jpg?t=1731987852",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293380/ss_f980da4400707895a470ee3b4fa1e2580bf42464.600x338.jpg?t=1731987852"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Explore the endless, enigmatic Castle Fractal as a brave adventurer in this Top-Down Action RPG Roguelite! Utilize 5 types of Weapons, 6 potions, and over 35 Weapon Abilities to defeat all the monsters in each procedurally-generated room and progress through the castle.  Along the way, you'll encounter fearsome Bosses; dodge their attacks with good timing to pull off powerful Signature Moves!</p><p class=\"bb_paragraph\" >As you climb the castle, you'll be able to rank up one of three attributes for the rest of the run. Carefully strategize with your equipment, upgrades, and  potions to earn a high score!</p><p class=\"bb_paragraph\" ><strong>This game is in EARLY ACCESS. While the core gameplay will be largely unchanged in the final release, it will have more polished visuals as well as sound effects and music.</strong></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Explore the endless, enigmatic Castle Fractal as a brave adventurer in this Top-Down Action RPG Roguelite! Utilize 5 types of Weapons, 6 potions, and over 35 Weapon Abilities to defeat all the monsters in each procedurally-generated room and progress through the castle.  Along the way, you'll encounter fearsome Bosses; dodge their attacks with good timing to pull off powerful Signature Moves!</p><p class=\"bb_paragraph\" >As you climb the castle, you'll be able to rank up one of three attributes for the rest of the run. Carefully strategize with your equipment, upgrades, and  potions to earn a high score!</p><p class=\"bb_paragraph\" ><strong>This game is in EARLY ACCESS. While the core gameplay will be largely unchanged in the final release, it will have more polished visuals as well as sound effects and music.</strong></p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

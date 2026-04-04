@@ -3,8 +3,8 @@
   "name": "Down the Hill",
   "slug": "down-the-hill",
   "developer": "beans rolls",
-  "publisher": "beans rolls",
-  "release_date": "Jan 9, 2022",
+  "publisher": "",
+  "release_date": "2022-01-09",
   "price_usd": 0.49,
   "genres": [
     "Casual",
@@ -19,32 +19,15 @@
   ],
   "short_description": "Down the Hill is an arcade scoring game. Move down the hill along the cells avoiding holes and trees.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1857850/header.jpg?t=1641720971",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1857850/ss_8896f7ffc0d288dc4455c2c4aeb14657eff0549d.600x338.jpg?t=1641720971",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1857850/ss_d5fe04d3f7e115688ddfeffa38652f745697bd02.600x338.jpg?t=1641720971",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1857850/ss_7aa63976f4a2bdfe74672a685db5645374dd9a0f.600x338.jpg?t=1641720971",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1857850/ss_e098564d4bf7e35f9dca4a68dd01f6aa8c69bf26.600x338.jpg?t=1641720971",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1857850/ss_4c65e13388edb71e38da83c7fc021e5304a31ea2.600x338.jpg?t=1641720971"
-  ],
-  "detailed_description": "Go down the hill along the cells, changing the direction of movement, avoiding holes and trees and gain points. Use bonuses on cells, such as a mark or a cube. The mark will launch you through one cell, and the cube will fill the nearest holes.<br />\r\nOver time, the pace of the game accelerates and you have to try not to lose.",
-  "about_the_game": "Go down the hill along the cells, changing the direction of movement, avoiding holes and trees and gain points. Use bonuses on cells, such as a mark or a cube. The mark will launch you through one cell, and the cube will fill the nearest holes.<br />\r\nOver time, the pace of the game accelerates and you have to try not to lose.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 7,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 42.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 42.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 42.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

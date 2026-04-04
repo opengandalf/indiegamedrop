@@ -1,1018 +1,712 @@
 [
   {
-    "steam_app_id": 3527290,
-    "name": "PEAK",
-    "slug": "peak",
-    "developer": "Team PEAK",
-    "publisher": "Aggro Crab, Landfall",
-    "release_date": "Jun 16, 2025",
-    "price_usd": 4.95,
+    "steam_app_id": 10,
+    "name": "Counter-Strike",
+    "slug": "counter-strike",
+    "developer": "Valve",
+    "publisher": "",
+    "release_date": "2000-11-01",
+    "price_usd": 1.99,
     "genres": [
-      "Action",
-      "Adventure",
-      "Indie"
+      "Action"
     ],
     "tags": [
-      "Action",
-      "Adventure",
-      "Indie"
-    ],
-    "platforms": [
-      "windows"
-    ],
-    "short_description": "PEAK is a co-op climbing game where the slightest mistake can spell your doom. Either solo or as a group of lost nature scouts, your only hope of rescue from a mysterious island is to scale the mountain at its center. Do you have what it takes to reach the PEAK?",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1773856924",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/bac7b90dffb456afecc4517a3e1d69362b95d15b/ss_bac7b90dffb456afecc4517a3e1d69362b95d15b.600x338.jpg?t=1773856924",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/9c500124c060f162f111afa679bf5d3a32b3fb40/ss_9c500124c060f162f111afa679bf5d3a32b3fb40.600x338.jpg?t=1773856924",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/84436aac3675c39a9e21a14a4a9a3a8a7d9dea26/ss_84436aac3675c39a9e21a14a4a9a3a8a7d9dea26.600x338.jpg?t=1773856924",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/55365bfa09745df86bed72720a842f64d8724b9d/ss_55365bfa09745df86bed72720a842f64d8724b9d.600x338.jpg?t=1773856924",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/c673fede352b201b3f897521e4e6eb6814a38c50/ss_c673fede352b201b3f897521e4e6eb6814a38c50.600x338.jpg?t=1773856924",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/63b22127ea64aba8b16c33a172b0fedbf542e834/ss_63b22127ea64aba8b16c33a172b0fedbf542e834.600x338.jpg?t=1773856924",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/471f445657aaf8b8c1d039389e5dcc6a8bcc32c5/ss_471f445657aaf8b8c1d039389e5dcc6a8bcc32c5.600x338.jpg?t=1773856924",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/1fa70611c0bc7c4393eae30827560d93687a6234/ss_1fa70611c0bc7c4393eae30827560d93687a6234.600x338.jpg?t=1773856924",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/52547c087901dec5b065b4559503804c02c10c22/ss_52547c087901dec5b065b4559503804c02c10c22.600x338.jpg?t=1773856924",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/5481a463ddc19a8def7eb64660caf6da12d9f22c/ss_5481a463ddc19a8def7eb64660caf6da12d9f22c.600x338.jpg?t=1773856924"
-    ],
-    "rising_score": null,
-    "gem_score": null,
-    "hype_score": 0,
-    "review_velocity_7d": 0,
-    "follower_velocity_7d": 0,
-    "classification": "",
-    "review_count": 0,
-    "review_positive": 0,
-    "review_percentage": 0.0,
-    "owner_estimate": 10000,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 412
-  },
-  {
-    "steam_app_id": 4100180,
-    "name": "The Social Grip: Llama Drama",
-    "slug": "the-social-grip-llama-drama",
-    "developer": "Chonk Cats Productions",
-    "publisher": "Chonk Cats Productions",
-    "release_date": "5 Apr, 2026",
-    "price_usd": 0.0,
-    "genres": [
-      "Indie",
-      "Strategy",
-      "Free To Play"
-    ],
-    "tags": [
-      "Indie",
-      "Strategy",
-      "Free To Play"
-    ],
-    "platforms": [
-      "windows"
-    ],
-    "short_description": "The Social Grip: Llama Drama offers an immersive, second-person experience where strategy and quick-thinking are critical. Will you be able to guide Dan the Llama safely through Trig's offices?",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100180/cc84c9e0e7d64ade4c56661ae5e2d890afbcb91c/header.jpg?t=1774202595",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100180/038f5f8a51ace8fa08b45b45fb4725a51fe892bd/ss_038f5f8a51ace8fa08b45b45fb4725a51fe892bd.600x338.jpg?t=1774202595",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100180/34ba0318531cfe96a67884523f86844dee8d717f/ss_34ba0318531cfe96a67884523f86844dee8d717f.600x338.jpg?t=1774202595",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100180/cc9489b6d6b9c0cd8ea3024154e0716178ea983f/ss_cc9489b6d6b9c0cd8ea3024154e0716178ea983f.600x338.jpg?t=1774202595",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100180/3f48ebd212c3fd72d9433e06263f9dc8b46c1075/ss_3f48ebd212c3fd72d9433e06263f9dc8b46c1075.600x338.jpg?t=1774202595",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4100180/ecf882bb13addb76d4bb68cb1aa1289f2f7f16ef/ss_ecf882bb13addb76d4bb68cb1aa1289f2f7f16ef.600x338.jpg?t=1774202595"
-    ],
-    "rising_score": null,
-    "gem_score": null,
-    "hype_score": 0,
-    "review_velocity_7d": 0,
-    "follower_velocity_7d": 0,
-    "classification": "",
-    "review_count": 0,
-    "review_positive": 0,
-    "review_percentage": 0.0,
-    "owner_estimate": 10000,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 0
-  },
-  {
-    "steam_app_id": 264710,
-    "name": "Subnautica",
-    "slug": "subnautica",
-    "developer": "Unknown Worlds Entertainment",
-    "publisher": "Unknown Worlds Entertainment",
-    "release_date": "Jan 23, 2018",
-    "price_usd": 7.49,
-    "genres": [
-      "Adventure",
-      "Indie"
-    ],
-    "tags": [
-      "Adventure",
-      "Indie"
+      "Action"
     ],
     "platforms": [
       "windows",
-      "mac"
+      "mac",
+      "linux"
     ],
-    "short_description": "Descend into the depths of an alien underwater world filled with wonder and peril. Craft equipment, pilot submarines and out-smart wildlife to explore lush coral reefs, volcanoes, cave systems, and more - all while trying to survive.",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg?t=1774323987",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_e182b6b20bb797500f9f63c561586d920d44e37c.600x338.jpg?t=1774323987",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_970a13f246e33e0df26d93baf9f8e975732adb4b.600x338.jpg?t=1774323987",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_5f2f2ea498cdc632cbffd6cf37c1a09670eb3272.600x338.jpg?t=1774323987",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_cebc378d2f7bc78978c21db4e3c5e12ccd067349.600x338.jpg?t=1774323987",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_0ace7f8b4350b8fbdd16345a76bc30545256e918.600x338.jpg?t=1774323987",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_f0eeabe108c2bc2b3e370b9828fb280035b50db2.600x338.jpg?t=1774323987",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_b28404f3d108cc15aebbb2c3d7cb17e587225662.600x338.jpg?t=1774323987",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_623579a6693f6fc48033e619cacc4306f10eef15.600x338.jpg?t=1774323987",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_9fdfcc7572ae22b4afa21e6de3b23c962ca5bb55.600x338.jpg?t=1774323987",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/ss_883a98ad56021ce409219e1b749818866b6115cd.600x338.jpg?t=1774323987"
-    ],
-    "rising_score": 0.273,
+    "short_description": "Play the world's number 1 online action game. Engage in an incredibly realistic brand of terrorist warfare in this wildly popular team-based game. Ally with teammates to complete strategic missions. T",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/header.jpg?t=1745368572",
+    "screenshots": [],
+    "rising_score": 0.0466,
     "gem_score": 0.0,
     "hype_score": 0,
     "review_velocity_7d": 0,
     "follower_velocity_7d": 0,
     "classification": "",
-    "review_count": 313707,
-    "review_positive": 304449,
-    "review_percentage": 97.0,
+    "review_count": 258362,
+    "review_positive": 0,
+    "review_percentage": 97.4,
+    "owner_estimate": 15000000,
+    "ccu_estimate": 0,
+    "follower_count": 0,
+    "median_playtime_minutes": 0
+  },
+  {
+    "steam_app_id": 20,
+    "name": "Team Fortress Classic",
+    "slug": "team-fortress-classic",
+    "developer": "Valve",
+    "publisher": "",
+    "release_date": "1999-04-01",
+    "price_usd": 1.24,
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Action"
+    ],
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "short_description": "One of the most popular online action games of all time, Team Fortress Classic features over nine character classes -- from Medic to Spy to Demolition Man -- enlisted in a unique style of online team ",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/header.jpg?t=1745368565",
+    "screenshots": [],
+    "rising_score": null,
+    "gem_score": null,
+    "hype_score": 0,
+    "review_velocity_7d": 0,
+    "follower_velocity_7d": 0,
+    "classification": "",
+    "review_count": 9069,
+    "review_positive": 0,
+    "review_percentage": 87.1,
+    "owner_estimate": 1500000,
+    "ccu_estimate": 0,
+    "follower_count": 0,
+    "median_playtime_minutes": 0
+  },
+  {
+    "steam_app_id": 30,
+    "name": "Day of Defeat",
+    "slug": "day-of-defeat",
+    "developer": "Valve",
+    "publisher": "",
+    "release_date": "2003-05-01",
+    "price_usd": 1.24,
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Action"
+    ],
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "short_description": "Enlist in an intense brand of Axis vs. Allied teamplay set in the WWII European Theatre of Operations. Players assume the role of light/assault/heavy infantry, sniper or machine-gunner class, each wit",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/30/header.jpg?t=1745368580",
+    "screenshots": [],
+    "rising_score": 0.0013,
+    "gem_score": 0.0,
+    "hype_score": 0,
+    "review_velocity_7d": 0,
+    "follower_velocity_7d": 0,
+    "classification": "",
+    "review_count": 7272,
+    "review_positive": 0,
+    "review_percentage": 90.2,
     "owner_estimate": 7500000,
-    "ccu_estimate": 2719,
+    "ccu_estimate": 0,
     "follower_count": 0,
-    "median_playtime_minutes": 1048
+    "median_playtime_minutes": 0
   },
   {
-    "steam_app_id": 1745860,
-    "name": "Speed Creators",
-    "slug": "speed-creators",
-    "developer": "MacDudeDude",
-    "publisher": "MacDudeDude",
-    "release_date": "3 Apr, 2026",
-    "price_usd": 3.9,
+    "steam_app_id": 40,
+    "name": "Deathmatch Classic",
+    "slug": "deathmatch-classic",
+    "developer": "Valve",
+    "publisher": "",
+    "release_date": "2001-06-01",
+    "price_usd": 1.24,
     "genres": [
-      "Action",
-      "Casual",
-      "Indie",
-      "Racing"
+      "Action"
     ],
     "tags": [
-      "Action",
-      "Casual",
-      "Indie",
-      "Racing"
+      "Action"
     ],
     "platforms": [
       "windows",
       "mac",
       "linux"
     ],
-    "short_description": "A high speed multiplayer platformer where players separately create a small level, which combine into a massive final course, then race through it in one mad dash to the finish line. Combine movement altering blocks with deadly traps to create something your friends won't forget!",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745860/5ec41e13ec46c640d5d5daa937a6e8d2f48199eb/header.jpg?t=1775267155",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745860/62881413243ea2db63ea823d9dada9c8a24f11b3/ss_62881413243ea2db63ea823d9dada9c8a24f11b3.600x338.jpg?t=1775267155",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745860/0b540e26047a95eb21d7d01df1363ac289627238/ss_0b540e26047a95eb21d7d01df1363ac289627238.600x338.jpg?t=1775267155",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745860/f8b36cb01c965833455d972a8c56d046d55a9b3f/ss_f8b36cb01c965833455d972a8c56d046d55a9b3f.600x338.jpg?t=1775267155",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745860/4abc9ccf6e59be22c2611a4219c74b1d7de55f5c/ss_4abc9ccf6e59be22c2611a4219c74b1d7de55f5c.600x338.jpg?t=1775267155",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745860/1446832ae96e63e5ff3fc4f53000f804f7256fdd/ss_1446832ae96e63e5ff3fc4f53000f804f7256fdd.600x338.jpg?t=1775267155",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745860/d8edb0f6023b0a276c230b13ab2f1ac1d454e4b4/ss_d8edb0f6023b0a276c230b13ab2f1ac1d454e4b4.600x338.jpg?t=1775267155",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1745860/3031948e9291b92577f1c9e65c52a81bc18b416e/ss_3031948e9291b92577f1c9e65c52a81bc18b416e.600x338.jpg?t=1775267155"
-    ],
-    "rising_score": 0.0,
+    "short_description": "Enjoy fast-paced multiplayer gaming with Deathmatch Classic (a.k.a. DMC). Valve's tribute to the work of id software, DMC invites players to grab their rocket launchers and put their reflexes to the t",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40/header.jpg?t=1745368570",
+    "screenshots": [],
+    "rising_score": 0.0005,
     "gem_score": 0.0,
     "hype_score": 0,
     "review_velocity_7d": 0,
     "follower_velocity_7d": 0,
     "classification": "",
-    "review_count": 0,
+    "review_count": 3252,
     "review_positive": 0,
-    "review_percentage": 0.0,
-    "owner_estimate": 10000,
+    "review_percentage": 83.2,
+    "owner_estimate": 7500000,
     "ccu_estimate": 0,
     "follower_count": 0,
     "median_playtime_minutes": 0
   },
   {
-    "steam_app_id": 2669860,
-    "name": "YAR: Forgotten Throne",
-    "slug": "yar-forgotten-throne",
-    "developer": "Honor Games",
-    "publisher": "Honor Games",
-    "release_date": "3 Apr, 2026",
-    "price_usd": 17.75,
+    "steam_app_id": 50,
+    "name": "Half-Life: Opposing Force",
+    "slug": "half-life-opposing-force",
+    "developer": "Gearbox Software",
+    "publisher": "",
+    "release_date": "1999-11-01",
+    "price_usd": 1.24,
     "genres": [
-      "Action",
-      "Adventure",
-      "Casual",
-      "Indie",
-      "RPG",
-      "Simulation"
+      "Action"
     ],
     "tags": [
-      "Action",
-      "Adventure",
-      "Casual",
-      "Indie",
-      "RPG",
-      "Simulation"
-    ],
-    "platforms": [
-      "windows"
-    ],
-    "short_description": "YAR is a fully-fledged open-world RPG. Embark on a heartfelt journey inspired by Boreyian myths and legends, filled with vibrant and unforgettable adventures, uncover the mystery behind the attempt to conquer the noble Boreyian people.",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/2de87a7e65cc01a54f0fa9661b3a143bee9ccd44/header.jpg?t=1775232544",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/cbf4762c0a0d312f60fbdc485732c413b7bbdf69/ss_cbf4762c0a0d312f60fbdc485732c413b7bbdf69.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/d8ab6ec899afd8c9e69306a01ff2d14a6b825690/ss_d8ab6ec899afd8c9e69306a01ff2d14a6b825690.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/b2c1a6b243ea3fe769ee30c21eec057c0391d9c0/ss_b2c1a6b243ea3fe769ee30c21eec057c0391d9c0.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/37647a3024135a55a6be46a50e01a8c3269a0e24/ss_37647a3024135a55a6be46a50e01a8c3269a0e24.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/fa4aec571e1dc5e96caaafd5c5362558f28528da/ss_fa4aec571e1dc5e96caaafd5c5362558f28528da.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/a0c7fe42892e4c9f0db7d2d69ecc60cb2cdc3f68/ss_a0c7fe42892e4c9f0db7d2d69ecc60cb2cdc3f68.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/ss_923f1d3098e9b96e34dc86ea263b22a0bd39843d.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/56cb0cf689cde055e1e1134aca2e1c4ea1e4c484/ss_56cb0cf689cde055e1e1134aca2e1c4ea1e4c484.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/2148431a24ac7a39544b41837a1d11fe1b326744/ss_2148431a24ac7a39544b41837a1d11fe1b326744.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/17370790cf97c06d8829c8b70642e315ce6b0651/ss_17370790cf97c06d8829c8b70642e315ce6b0651.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/ss_8c569411c63cac2717f6a28dc14eccc6ed0936e6.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/ss_4739dc3a6f8c77a8afd4e9728c77527329929e9d.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/cbc4aa38c538a1bdadb3026a0aebdf0d7017d4ff/ss_cbc4aa38c538a1bdadb3026a0aebdf0d7017d4ff.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/ss_680a9d6fac6eb411712969d97356cd7681066fa7.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/ss_f3f69d90c065918e0ea0c8b8f5dbb4d8a819ef54.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/68f72f35fbf1cc87f90218a8180cd8bcee899a7f/ss_68f72f35fbf1cc87f90218a8180cd8bcee899a7f.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/ss_9c679d853d7cf0a384796f5d513f831647914fec.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/ss_78ae140af08c71b996a0bfd95d7caadd83052886.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/ss_f9ddb0c8f2e4950cf2fc1f80c09ec61366244a3f.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/99206aba1580dfe48b14890e5adb7a8eb8d9ed4d/ss_99206aba1580dfe48b14890e5adb7a8eb8d9ed4d.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/ss_0f53869ed70d468aede0e2c5382135699eaa626e.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/c63155824709b6ae930ca0561c981ec09b5d344f/ss_c63155824709b6ae930ca0561c981ec09b5d344f.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/ss_56a569a18c6fdd2d1d141f523e4477f279bf3b44.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/ss_fd146d9189e580e61f8c26db1484a20cc411fe76.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/ss_2414ff9cdf8ffb6bcb73ae2586525920271d1b9a.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/de7349c726305364d6875b9ca26026456a616b82/ss_de7349c726305364d6875b9ca26026456a616b82.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/94edc8da9b55d376d2100d3702f7e89f1b3c2a8f/ss_94edc8da9b55d376d2100d3702f7e89f1b3c2a8f.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/6d4e2f8ea1155098462dc1c91185a60e90839109/ss_6d4e2f8ea1155098462dc1c91185a60e90839109.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/0da1a567fb8fe2999426646eec7e18b546f66803/ss_0da1a567fb8fe2999426646eec7e18b546f66803.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/f128199870b837c3e2183fd6d24b56ed273b0709/ss_f128199870b837c3e2183fd6d24b56ed273b0709.600x338.jpg?t=1775232544",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669860/a6e04a560c67927b60e973d3e475233546db410a/ss_a6e04a560c67927b60e973d3e475233546db410a.600x338.jpg?t=1775232544"
-    ],
-    "rising_score": 0.0018,
-    "gem_score": 62.048,
-    "hype_score": 0,
-    "review_velocity_7d": 0,
-    "follower_velocity_7d": 0,
-    "classification": "",
-    "review_count": 955,
-    "review_positive": 903,
-    "review_percentage": 94.6,
-    "owner_estimate": 35000,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 258
-  },
-  {
-    "steam_app_id": 2670810,
-    "name": "Candy Bandits",
-    "slug": "candy-bandits",
-    "developer": "Sufficiently Roasted",
-    "publisher": "Sufficiently Roasted",
-    "release_date": "3 Apr, 2026",
-    "price_usd": 5.0,
-    "genres": [
-      "Casual",
-      "Indie"
-    ],
-    "tags": [
-      "Casual",
-      "Indie"
-    ],
-    "platforms": [
-      "windows",
-      "linux"
-    ],
-    "short_description": "Outsmart your friends in this chaotic 4-10 player team-based heist! Whether you're a Guardian protecting your sweets or a Bandit planning a getaway, use wild gadgets and traps to secure 30 candies. Work together to win, but expect plenty of hilarious chaos along the way.",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670810/header.jpg?t=1775232933",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670810/8151014515a53fa1a9ceeb1fb2c9311137b410a3/ss_8151014515a53fa1a9ceeb1fb2c9311137b410a3.600x338.jpg?t=1775232933",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670810/95e074438ca9f1d05d8231b4d54aec6ea8da16bd/ss_95e074438ca9f1d05d8231b4d54aec6ea8da16bd.600x338.jpg?t=1775232933",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670810/9bdb96fb17a927e80803b6ebc44e595955e28949/ss_9bdb96fb17a927e80803b6ebc44e595955e28949.600x338.jpg?t=1775232933",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670810/0fc426931e62905b5fbbaa26cdc35b121f26dabe/ss_0fc426931e62905b5fbbaa26cdc35b121f26dabe.600x338.jpg?t=1775232933",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670810/effa95f8eba3d43addabafca5db07530ad8bf3c3/ss_effa95f8eba3d43addabafca5db07530ad8bf3c3.600x338.jpg?t=1775232933",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670810/fe6be8cdff637d4203a6f8d1815e92e790e1f338/ss_fe6be8cdff637d4203a6f8d1815e92e790e1f338.600x338.jpg?t=1775232933",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670810/8e61aa214665429868e56ac8fd1a3d4050aea48a/ss_8e61aa214665429868e56ac8fd1a3d4050aea48a.600x338.jpg?t=1775232933"
-    ],
-    "rising_score": 0.0,
-    "gem_score": 0.0,
-    "hype_score": 0,
-    "review_velocity_7d": 0,
-    "follower_velocity_7d": 0,
-    "classification": "",
-    "review_count": 0,
-    "review_positive": 0,
-    "review_percentage": 0.0,
-    "owner_estimate": 10000,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 0
-  },
-  {
-    "steam_app_id": 2706020,
-    "name": "ALL WILL FALL",
-    "slug": "all-will-fall",
-    "developer": "All Parts Connected",
-    "publisher": "tinyBuild",
-    "release_date": "3 Apr, 2026",
-    "price_usd": 209099.0,
-    "genres": [
-      "Indie",
-      "Simulation",
-      "Strategy"
-    ],
-    "tags": [
-      "Indie",
-      "Simulation",
-      "Strategy"
-    ],
-    "platforms": [
-      "windows"
-    ],
-    "short_description": "Build massive ocean cities and lead your people to prosperity in this post-apocalyptic survival colony sim. Featuring a physics-based 3D construction system, complex resource management, exploration, difficult political decisions, supply chains, and a robust sandbox mode.",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/eef44017ed44a0b9d08bd0ce40e7557460600c9f/header_alt_assets_2.jpg?t=1775261438",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/d1e278571808edec7310ff5f8129723f47b7ba30/ss_d1e278571808edec7310ff5f8129723f47b7ba30.600x338.jpg?t=1775261438",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/591dd1be03d626cfd0aa8da3b38441627f93df0a/ss_591dd1be03d626cfd0aa8da3b38441627f93df0a.600x338.jpg?t=1775261438",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/de86586534c6b13312e8af67f752a2877b6291dd/ss_de86586534c6b13312e8af67f752a2877b6291dd.600x338.jpg?t=1775261438",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/69e49100cecc7d2e61ec4e230b6b6c57e3e65056/ss_69e49100cecc7d2e61ec4e230b6b6c57e3e65056.600x338.jpg?t=1775261438",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/0982fa6ceceb31c26a614cef40a1c4b29a277f09/ss_0982fa6ceceb31c26a614cef40a1c4b29a277f09.600x338.jpg?t=1775261438",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/b0148b697f8b7b01fdb1acbb5133dfc91b20fd49/ss_b0148b697f8b7b01fdb1acbb5133dfc91b20fd49.600x338.jpg?t=1775261438",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/d3562b448e1c788254934cb2588c92ab7453541c/ss_d3562b448e1c788254934cb2588c92ab7453541c.600x338.jpg?t=1775261438",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/3639c24748b05ca26b8acc66fc425b8ea4562d2c/ss_3639c24748b05ca26b8acc66fc425b8ea4562d2c.600x338.jpg?t=1775261438",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/4bdeceeaaa5a007a0a4bcecd680063130ae5ca5a/ss_4bdeceeaaa5a007a0a4bcecd680063130ae5ca5a.600x338.jpg?t=1775261438",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/d18aa9e09adf230919243b8b1329ba42259f9121/ss_d18aa9e09adf230919243b8b1329ba42259f9121.600x338.jpg?t=1775261438",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/46c5dd09262153cd86df9422a6018b1774a2493c/ss_46c5dd09262153cd86df9422a6018b1774a2493c.600x338.jpg?t=1775261438",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/9775406932bb6b037c5192e49dae56331d3236c7/ss_9775406932bb6b037c5192e49dae56331d3236c7.600x338.jpg?t=1775261438",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/0e347cd55771f43bfc8302a4221d54beb1c2b64b/ss_0e347cd55771f43bfc8302a4221d54beb1c2b64b.600x338.jpg?t=1775261438",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/fc85d4117a9b6546b6021b8f06580ba47fee54e9/ss_fc85d4117a9b6546b6021b8f06580ba47fee54e9.600x338.jpg?t=1775261438",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/30a4c603131756de059a39373b566ad44f6b67c6/ss_30a4c603131756de059a39373b566ad44f6b67c6.600x338.jpg?t=1775261438",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/6f1aa2e3cab9eec484a5b8c23e42dbff6aa55a39/ss_6f1aa2e3cab9eec484a5b8c23e42dbff6aa55a39.600x338.jpg?t=1775261438",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2706020/340614425ea7237dfdc914e61500f6721f428046/ss_340614425ea7237dfdc914e61500f6721f428046.600x338.jpg?t=1775261438"
-    ],
-    "rising_score": 0.0,
-    "gem_score": 0.0,
-    "hype_score": 0,
-    "review_velocity_7d": 0,
-    "follower_velocity_7d": 0,
-    "classification": "",
-    "review_count": 0,
-    "review_positive": 0,
-    "review_percentage": 0.0,
-    "owner_estimate": 10000,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 0
-  },
-  {
-    "steam_app_id": 2762360,
-    "name": "Harvest Cafe",
-    "slug": "harvest-cafe",
-    "developer": "World of Poly",
-    "publisher": "World of Poly",
-    "release_date": "3 Apr, 2026",
-    "price_usd": 11.24,
-    "genres": [
-      "Casual",
-      "Indie",
-      "Simulation"
-    ],
-    "tags": [
-      "Casual",
-      "Indie",
-      "Simulation"
-    ],
-    "platforms": [
-      "windows"
-    ],
-    "short_description": "Explore, grow, repair and cook delicious food! Harvest Cafe combines an open-world adventure with a restaurant business simulation, giving you the opportunity to enjoy farm life.",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/dc9d8c5d7edd1a9c81e7d1cbfcb95b6d78ccb30a/header.jpg?t=1775242945",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/d0ab866d894ae3645176d508e48bd6b1804f7911/ss_d0ab866d894ae3645176d508e48bd6b1804f7911.600x338.jpg?t=1775242945",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/933b65b762b58dec1e4aaed7b1e8736f84477677/ss_933b65b762b58dec1e4aaed7b1e8736f84477677.600x338.jpg?t=1775242945",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/f8af88f5533f0a20feac4133538a0ae451a365fb/ss_f8af88f5533f0a20feac4133538a0ae451a365fb.600x338.jpg?t=1775242945",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/51888f91477cb16cdeeba6f62b1b574135727ea1/ss_51888f91477cb16cdeeba6f62b1b574135727ea1.600x338.jpg?t=1775242945",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/e0a9cd6f051fd09179e2507d06727dcd9928c47a/ss_e0a9cd6f051fd09179e2507d06727dcd9928c47a.600x338.jpg?t=1775242945",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/15abf8a4e0e5e903a69112a46fe40f7938b745a6/ss_15abf8a4e0e5e903a69112a46fe40f7938b745a6.600x338.jpg?t=1775242945",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/f688a0002b53097eaaa8b49d981805eb9c16c24b/ss_f688a0002b53097eaaa8b49d981805eb9c16c24b.600x338.jpg?t=1775242945",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/d79dce3504efbe7d2aeeb741d159616f29451a47/ss_d79dce3504efbe7d2aeeb741d159616f29451a47.600x338.jpg?t=1775242945",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/9ab86ba42f43588b10e31ea37d6be0bed625f56a/ss_9ab86ba42f43588b10e31ea37d6be0bed625f56a.600x338.jpg?t=1775242945",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/1850213af6e45fc2668828e6fdaab96b06c70ced/ss_1850213af6e45fc2668828e6fdaab96b06c70ced.600x338.jpg?t=1775242945",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/2acfdfff294ebe576f642c0745e7d387008b6f42/ss_2acfdfff294ebe576f642c0745e7d387008b6f42.600x338.jpg?t=1775242945",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/dae3fe49c4e02ec5fd0c22db17b2f894a08670a6/ss_dae3fe49c4e02ec5fd0c22db17b2f894a08670a6.600x338.jpg?t=1775242945",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/15813dc4fef59b1bc700edfa1c69565bdb016d58/ss_15813dc4fef59b1bc700edfa1c69565bdb016d58.600x338.jpg?t=1775242945",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/77f3984fcace505d35c88ef84b266ff576cca654/ss_77f3984fcace505d35c88ef84b266ff576cca654.600x338.jpg?t=1775242945",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/7324005a0ddb8bcab38cbc98eb3807d8b62d156a/ss_7324005a0ddb8bcab38cbc98eb3807d8b62d156a.600x338.jpg?t=1775242945",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/7b618d5cced426f3524f81132b960f434510ceb9/ss_7b618d5cced426f3524f81132b960f434510ceb9.600x338.jpg?t=1775242945",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/8c6bb0a3d0524aba999a5ef5b2269c57843a44f1/ss_8c6bb0a3d0524aba999a5ef5b2269c57843a44f1.600x338.jpg?t=1775242945",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/0c71ef90e5ee864d11c115ef941afb8bf5ae50f3/ss_0c71ef90e5ee864d11c115ef941afb8bf5ae50f3.600x338.jpg?t=1775242945",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/158bf1b4d286115f48bf40b1add3576489783753/ss_158bf1b4d286115f48bf40b1add3576489783753.600x338.jpg?t=1775242945",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762360/14af4d8c5b49f4e98e437fda49e4ef61d0b4e3fa/ss_14af4d8c5b49f4e98e437fda49e4ef61d0b4e3fa.600x338.jpg?t=1775242945"
-    ],
-    "rising_score": 0.0,
-    "gem_score": 0.0,
-    "hype_score": 0,
-    "review_velocity_7d": 0,
-    "follower_velocity_7d": 0,
-    "classification": "",
-    "review_count": 0,
-    "review_positive": 0,
-    "review_percentage": 0.0,
-    "owner_estimate": 10000,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 0
-  },
-  {
-    "steam_app_id": 2797640,
-    "name": "Rogue Night",
-    "slug": "rogue-night",
-    "developer": "Grey November Games",
-    "publisher": "Grey November Games",
-    "release_date": "3 Apr, 2026",
-    "price_usd": 8.5,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Indie",
-      "RPG"
-    ],
-    "tags": [
-      "Action",
-      "Adventure",
-      "Indie",
-      "RPG"
-    ],
-    "platforms": [
-      "windows"
-    ],
-    "short_description": "Gather, build, explore, quest, and survive a zombie apocalypse that is set in a medieval fantasy world. Unlock permanent upgrades with the heads of zombies.",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797640/header.jpg?t=1775234714",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797640/38ed1391d68d3e4eb8380d7dd4a9b66bbc0eaa13/ss_38ed1391d68d3e4eb8380d7dd4a9b66bbc0eaa13.600x338.jpg?t=1775234714",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797640/c599cb5bcb24141cb386a74f9ed435b89ad1abd6/ss_c599cb5bcb24141cb386a74f9ed435b89ad1abd6.600x338.jpg?t=1775234714",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797640/e0528f99dac239b40a444c8b72bac591fb52c80f/ss_e0528f99dac239b40a444c8b72bac591fb52c80f.600x338.jpg?t=1775234714",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797640/ss_c9dba22dd9678549b2e05f5d4c4730dc0fc4d207.600x338.jpg?t=1775234714",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797640/ss_3725b55f3be8736da9cae6f9a7022462ccd3d1c1.600x338.jpg?t=1775234714",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797640/8c939f42c41d10f8940e37c6f7f31915e7537fe6/ss_8c939f42c41d10f8940e37c6f7f31915e7537fe6.600x338.jpg?t=1775234714",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797640/5898b71327e0f7384449611d290decd435f0d126/ss_5898b71327e0f7384449611d290decd435f0d126.600x338.jpg?t=1775234714",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797640/1dd56d1cdcbd45d410991a527c95407e7bf96f77/ss_1dd56d1cdcbd45d410991a527c95407e7bf96f77.600x338.jpg?t=1775234714",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797640/ss_52be83c092a2d7072869aa7e4e544ca5536febc9.600x338.jpg?t=1775234714",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797640/9c332b54e049baa0f768cc129170307c2d37bc1d/ss_9c332b54e049baa0f768cc129170307c2d37bc1d.600x338.jpg?t=1775234714",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797640/96a93b45f0732715c8c8ed676e56bf417099915c/ss_96a93b45f0732715c8c8ed676e56bf417099915c.600x338.jpg?t=1775234714",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797640/756ed7a0f3e8046d302c3bcb86213576bc5c7506/ss_756ed7a0f3e8046d302c3bcb86213576bc5c7506.600x338.jpg?t=1775234714",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797640/7581bab15bfd202d65f603c36185360bd884f49f/ss_7581bab15bfd202d65f603c36185360bd884f49f.600x338.jpg?t=1775234714",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797640/126ef6f191fde183e01b2b0e9a0b23968fb18635/ss_126ef6f191fde183e01b2b0e9a0b23968fb18635.600x338.jpg?t=1775234714",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797640/eabdad9d73f50f24f8d0e698c7dce2ed938aff48/ss_eabdad9d73f50f24f8d0e698c7dce2ed938aff48.600x338.jpg?t=1775234714",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797640/ss_5c55b48f69f311e8a443498b0171783ca1254fcf.600x338.jpg?t=1775234714",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797640/ss_8d3c66459f272bde91c90dac427a5c49361be0c9.600x338.jpg?t=1775234714",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2797640/dfd9198af99f96afed4b0b65bc09d849f605e3b9/ss_dfd9198af99f96afed4b0b65bc09d849f605e3b9.600x338.jpg?t=1775234714"
-    ],
-    "rising_score": 0.0,
-    "gem_score": 0.0,
-    "hype_score": 0,
-    "review_velocity_7d": 0,
-    "follower_velocity_7d": 0,
-    "classification": "",
-    "review_count": 0,
-    "review_positive": 0,
-    "review_percentage": 0.0,
-    "owner_estimate": 10000,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 0
-  },
-  {
-    "steam_app_id": 2868840,
-    "name": "Slay the Spire 2",
-    "slug": "slay-the-spire-2",
-    "developer": "Mega Crit",
-    "publisher": "Mega Crit",
-    "release_date": "5 Mar, 2026",
-    "price_usd": 1100.0,
-    "genres": [
-      "Indie",
-      "Strategy",
-      "Early Access"
-    ],
-    "tags": [
-      "Indie",
-      "Strategy",
-      "Early Access"
+      "Action"
     ],
     "platforms": [
       "windows",
       "mac",
       "linux"
     ],
-    "short_description": "The iconic roguelike deckbuilder returns. Craft a unique deck, encounter bizarre creatures, and discover relics of immense power in Slay the Spire 2!",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg?t=1773851542",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/1a373a95229aab0cfd97f553ecbe86092364bb9c/ss_1a373a95229aab0cfd97f553ecbe86092364bb9c.600x338.jpg?t=1773851542",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/f3af7cb9693b9c4b6a7555227db3fef943db3992/ss_f3af7cb9693b9c4b6a7555227db3fef943db3992.600x338.jpg?t=1773851542",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/c3db69efd984ef012ae85c5b426663720152f0a4/ss_c3db69efd984ef012ae85c5b426663720152f0a4.600x338.jpg?t=1773851542",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/0fdb2940c0d367a40b2be6433daf12e3634089cf/ss_0fdb2940c0d367a40b2be6433daf12e3634089cf.600x338.jpg?t=1773851542",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/18e8bda7bc4cdb37b90e0e2ce546967cbec87076/ss_18e8bda7bc4cdb37b90e0e2ce546967cbec87076.600x338.jpg?t=1773851542",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/0aa6bff0eff26e37ccfdb07ad6cab52f8ab1ed4b/ss_0aa6bff0eff26e37ccfdb07ad6cab52f8ab1ed4b.600x338.jpg?t=1773851542"
-    ],
-    "rising_score": 0.0,
-    "gem_score": 0.0,
+    "short_description": "Return to the Black Mesa Research Facility as one of the military specialists assigned to eliminate Gordon Freeman. Experience an entirely new episode of single player action. Meet fierce alien oppone",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50/header.jpg?t=1745368539",
+    "screenshots": [],
+    "rising_score": null,
+    "gem_score": null,
     "hype_score": 0,
     "review_velocity_7d": 0,
     "follower_velocity_7d": 0,
     "classification": "",
-    "review_count": 0,
+    "review_count": 27705,
     "review_positive": 0,
-    "review_percentage": 0.0,
-    "owner_estimate": 10000,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 1742
-  },
-  {
-    "steam_app_id": 2886580,
-    "name": "Toyful Wonderworld",
-    "slug": "toyful-wonderworld",
-    "developer": "Cody Blate",
-    "publisher": "Cody Blate",
-    "release_date": "3 Apr, 2026",
-    "price_usd": 4.71,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Indie"
-    ],
-    "tags": [
-      "Action",
-      "Adventure",
-      "Indie"
-    ],
-    "platforms": [
-      "windows"
-    ],
-    "short_description": "A retro first-person game inspired by shooters of the 90s. Collect weapons and blast your way through the mysterious Toyful Wonderworld, where a cast of colorful enemies will stand in your way. Discover the secrets of this weird place and find out what has caused the Toyfriends to go crazy!",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2886580/header.jpg?t=1775254535",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2886580/8327c190f61564ab9d1e1e2f2e3eac00b5903f80/ss_8327c190f61564ab9d1e1e2f2e3eac00b5903f80.600x338.jpg?t=1775254535",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2886580/02dde88a60afecae73308f2452f38eea32638b74/ss_02dde88a60afecae73308f2452f38eea32638b74.600x338.jpg?t=1775254535",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2886580/777b2614536d8855ea81e3b1959ac1eb984e92b1/ss_777b2614536d8855ea81e3b1959ac1eb984e92b1.600x338.jpg?t=1775254535",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2886580/874ae25943057ed81279a59c28d2e0d179d419c1/ss_874ae25943057ed81279a59c28d2e0d179d419c1.600x338.jpg?t=1775254535",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2886580/cd541cf41c2da053fdd522d1481488aa371f4282/ss_cd541cf41c2da053fdd522d1481488aa371f4282.600x338.jpg?t=1775254535",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2886580/e5fdfdea716d1be3e31c1961f4dd065a30a1b794/ss_e5fdfdea716d1be3e31c1961f4dd065a30a1b794.600x338.jpg?t=1775254535",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2886580/c84bbb210f89a58d78951ab806fd8b7883069ff7/ss_c84bbb210f89a58d78951ab806fd8b7883069ff7.600x338.jpg?t=1775254535",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2886580/aa373f1c985b5e86a821a68406c8426faa1be809/ss_aa373f1c985b5e86a821a68406c8426faa1be809.600x338.jpg?t=1775254535",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2886580/7138f1fbc7a94383bd54cdd850d1bf62746ceee6/ss_7138f1fbc7a94383bd54cdd850d1bf62746ceee6.600x338.jpg?t=1775254535",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2886580/c05fa68ce6c4b52635a63fc09c9f17a2dabb30c4/ss_c05fa68ce6c4b52635a63fc09c9f17a2dabb30c4.600x338.jpg?t=1775254535",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2886580/22408dd11e414d6a391b8a46e414f393bc1f0176/ss_22408dd11e414d6a391b8a46e414f393bc1f0176.600x338.jpg?t=1775254535",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2886580/1ba813e8335afcd96eb79342e0a748aa0d151814/ss_1ba813e8335afcd96eb79342e0a748aa0d151814.600x338.jpg?t=1775254535",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2886580/f8020ab908e1c0a6728489fd5bd1a46865c2cc62/ss_f8020ab908e1c0a6728489fd5bd1a46865c2cc62.600x338.jpg?t=1775254535"
-    ],
-    "rising_score": 0.0,
-    "gem_score": 0.0,
-    "hype_score": 0,
-    "review_velocity_7d": 0,
-    "follower_velocity_7d": 0,
-    "classification": "",
-    "review_count": 0,
-    "review_positive": 0,
-    "review_percentage": 0.0,
-    "owner_estimate": 10000,
+    "review_percentage": 95.3,
+    "owner_estimate": 3500000,
     "ccu_estimate": 0,
     "follower_count": 0,
     "median_playtime_minutes": 0
   },
   {
-    "steam_app_id": 3042580,
-    "name": "TheMute",
-    "slug": "themute",
-    "developer": "大飞, Soundspak",
-    "publisher": "大飞, Soundspak",
-    "release_date": "5 Apr, 2026",
-    "price_usd": 0.0,
+    "steam_app_id": 60,
+    "name": "Ricochet",
+    "slug": "ricochet",
+    "developer": "Valve",
+    "publisher": "",
+    "release_date": "2000-11-01",
+    "price_usd": 1.24,
     "genres": [
-      "Casual",
-      "Indie",
-      "Strategy"
+      "Action"
     ],
     "tags": [
-      "Casual",
-      "Indie",
-      "Strategy"
-    ],
-    "platforms": [
-      "windows"
-    ],
-    "short_description": "Fix audio gear, earn upgrades, and step into Tone City! Wield musical card combos, clash with discordant sounds, and restore harmony to the city. Team up with friends, unlock powerful upgrades, and embark on an epic journey. After all, what beats the perfect mix of music and friendship?",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3042580/e0d260934fda783b606b662d85065f2acb546515/header.jpg?t=1775196217",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3042580/4a3d7696b47ec23316fc344c779417dd69d362c1/ss_4a3d7696b47ec23316fc344c779417dd69d362c1.600x338.jpg?t=1775196217",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3042580/290da15e81726cda7ec5de058b4a609c0f877694/ss_290da15e81726cda7ec5de058b4a609c0f877694.600x338.jpg?t=1775196217",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3042580/108496419fe3e6311a85f1f377596412d2f73143/ss_108496419fe3e6311a85f1f377596412d2f73143.600x338.jpg?t=1775196217",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3042580/8fdacd80427487c323e629ccc619f34ac2b3fe71/ss_8fdacd80427487c323e629ccc619f34ac2b3fe71.600x338.jpg?t=1775196217",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3042580/5a43d7a24127bfbe22d766181b55a98f6e2d3e2b/ss_5a43d7a24127bfbe22d766181b55a98f6e2d3e2b.600x338.jpg?t=1775196217"
-    ],
-    "rising_score": 0.0,
-    "gem_score": 0.0,
-    "hype_score": 0,
-    "review_velocity_7d": 0,
-    "follower_velocity_7d": 0,
-    "classification": "",
-    "review_count": 0,
-    "review_positive": 0,
-    "review_percentage": 0.0,
-    "owner_estimate": 10000,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 0
-  },
-  {
-    "steam_app_id": 3091300,
-    "name": "ChessBoyChess",
-    "slug": "chessboychess",
-    "developer": "Zleepy-Code-Studios",
-    "publisher": "Zleepy-Code-Studios",
-    "release_date": "3 Apr, 2026",
-    "price_usd": 0.0,
-    "genres": [
-      "Casual",
-      "Indie",
-      "Sports",
-      "Strategy",
-      "Free To Play"
-    ],
-    "tags": [
-      "Casual",
-      "Indie",
-      "Sports",
-      "Strategy",
-      "Free To Play"
-    ],
-    "platforms": [
-      "windows"
-    ],
-    "short_description": "chess...expect no more,no less.",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3091300/995b246854c19dae099cfc7cfd20a5db53956ec9/header.jpg?t=1775233646",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3091300/14177380286850828f6905a4f3fd289b769de373/ss_14177380286850828f6905a4f3fd289b769de373.600x338.jpg?t=1775233646",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3091300/059e34afa18a54d20cff0d7e49bbc85b85eecbd7/ss_059e34afa18a54d20cff0d7e49bbc85b85eecbd7.600x338.jpg?t=1775233646",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3091300/3522e7be7c1f85afca36ca8f4fa463c0c4fcaf3a/ss_3522e7be7c1f85afca36ca8f4fa463c0c4fcaf3a.600x338.jpg?t=1775233646",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3091300/21cf80bc287a1625ae2a2f0c635f7605f7572372/ss_21cf80bc287a1625ae2a2f0c635f7605f7572372.600x338.jpg?t=1775233646",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3091300/74c18ba92861c1db9a5c574f423ff038af51c831/ss_74c18ba92861c1db9a5c574f423ff038af51c831.600x338.jpg?t=1775233646",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3091300/933554268c284cef2cbcb4883bf235b0b377bc04/ss_933554268c284cef2cbcb4883bf235b0b377bc04.600x338.jpg?t=1775233646",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3091300/f9d95e7e839118d43edf62fbad43cf4b7da66aab/ss_f9d95e7e839118d43edf62fbad43cf4b7da66aab.600x338.jpg?t=1775233646"
-    ],
-    "rising_score": 0.0,
-    "gem_score": 0.0,
-    "hype_score": 0,
-    "review_velocity_7d": 0,
-    "follower_velocity_7d": 0,
-    "classification": "",
-    "review_count": 0,
-    "review_positive": 0,
-    "review_percentage": 0.0,
-    "owner_estimate": 10000,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 0
-  },
-  {
-    "steam_app_id": 3471820,
-    "name": "Roguefall",
-    "slug": "roguefall",
-    "developer": "Velwoot",
-    "publisher": "Velwoot",
-    "release_date": "3 Apr, 2026",
-    "price_usd": 0.0,
-    "genres": [
-      "Action",
-      "Adventure",
-      "Indie",
-      "Free To Play"
-    ],
-    "tags": [
-      "Action",
-      "Adventure",
-      "Indie",
-      "Free To Play"
-    ],
-    "platforms": [
-      "windows"
-    ],
-    "short_description": "Roguefall is an action rogue-lite following a lost player guided by the enigmatic Overseer to scavenge a world forgotten by humanity. Fight, explore, collect, and fall until you reach the final machine: 0VR5R.",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471820/5f806edbad4dde3efed5c46b84519bc3f8c3ecf2/header.jpg?t=1775240694",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471820/5e079d5b3d8bdc7ff361927f9bc4bfa34b228fd3/ss_5e079d5b3d8bdc7ff361927f9bc4bfa34b228fd3.600x338.jpg?t=1775240694",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471820/292ad7ad786492a95a5ebdc82f157cd2f38cc99d/ss_292ad7ad786492a95a5ebdc82f157cd2f38cc99d.600x338.jpg?t=1775240694",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471820/e890a88e655e604fc3f35caf3507c2d11487cf57/ss_e890a88e655e604fc3f35caf3507c2d11487cf57.600x338.jpg?t=1775240694",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471820/56506413b24a5aa88b503240f910fd793f2c2770/ss_56506413b24a5aa88b503240f910fd793f2c2770.600x338.jpg?t=1775240694",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471820/9c79fa359158ae367f1f5232b855f14f92411fba/ss_9c79fa359158ae367f1f5232b855f14f92411fba.600x338.jpg?t=1775240694",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471820/26f46458b46dbf3c1a08ad12545f15499be469a1/ss_26f46458b46dbf3c1a08ad12545f15499be469a1.600x338.jpg?t=1775240694",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471820/b4e41867e71c78636c7cfaa11c96e7d5798909f7/ss_b4e41867e71c78636c7cfaa11c96e7d5798909f7.600x338.jpg?t=1775240694",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471820/3acf05ed99220f913372445684498f6cea81f1b3/ss_3acf05ed99220f913372445684498f6cea81f1b3.600x338.jpg?t=1775240694",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471820/850e4082b78ef8aabef6b4f3b8a1e93b2d2387f0/ss_850e4082b78ef8aabef6b4f3b8a1e93b2d2387f0.600x338.jpg?t=1775240694",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471820/781c2056ee6c26f2249611c882d69c8bbea6f6f8/ss_781c2056ee6c26f2249611c882d69c8bbea6f6f8.600x338.jpg?t=1775240694",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471820/02c9cb0876015534ccb092884bc3ffb4bd0c05d9/ss_02c9cb0876015534ccb092884bc3ffb4bd0c05d9.600x338.jpg?t=1775240694",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471820/3052dc9c38ae8abe72e9042efc0d31f1608de298/ss_3052dc9c38ae8abe72e9042efc0d31f1608de298.600x338.jpg?t=1775240694",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471820/2591cd7eef1ab6783ee80cc7caa3d4d2512e57e2/ss_2591cd7eef1ab6783ee80cc7caa3d4d2512e57e2.600x338.jpg?t=1775240694",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471820/b8a4d3b6712f9b40f812e146d9321fb2cf55cadf/ss_b8a4d3b6712f9b40f812e146d9321fb2cf55cadf.600x338.jpg?t=1775240694",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471820/ac30d9e56f088a27a24d6f3ab20f0bca90c59ad8/ss_ac30d9e56f088a27a24d6f3ab20f0bca90c59ad8.600x338.jpg?t=1775240694",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3471820/d77a564f4dcdeb82b56a14537da2c054260aa3f4/ss_d77a564f4dcdeb82b56a14537da2c054260aa3f4.600x338.jpg?t=1775240694"
-    ],
-    "rising_score": 0.0,
-    "gem_score": 0.0,
-    "hype_score": 0,
-    "review_velocity_7d": 0,
-    "follower_velocity_7d": 0,
-    "classification": "",
-    "review_count": 0,
-    "review_positive": 0,
-    "review_percentage": 0.0,
-    "owner_estimate": 10000,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 0
-  },
-  {
-    "steam_app_id": 3485300,
-    "name": "A Little Perspective",
-    "slug": "a-little-perspective",
-    "developer": "Tad Cordle",
-    "publisher": "Tad Cordle",
-    "release_date": "3 Apr, 2026",
-    "price_usd": 12.37,
-    "genres": [
-      "Casual",
-      "Indie"
-    ],
-    "tags": [
-      "Casual",
-      "Indie"
+      "Action"
     ],
     "platforms": [
       "windows",
       "mac",
       "linux"
     ],
-    "short_description": "A Little Perspective is an abstract, perspective-based puzzle game where perception and reality are one and the same.",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3485300/969df3cb30ad522a44f833e17949eb6d817c0acb/header.jpg?t=1775235598",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3485300/e8d486fedd79fbb66d78d7118d350730e1289efb/ss_e8d486fedd79fbb66d78d7118d350730e1289efb.600x338.jpg?t=1775235598",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3485300/ed143fb96f52dee6ae51a4bec1a16b07ed4fae90/ss_ed143fb96f52dee6ae51a4bec1a16b07ed4fae90.600x338.jpg?t=1775235598",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3485300/ad037a087c53b869aea529f25def4cff181e6c12/ss_ad037a087c53b869aea529f25def4cff181e6c12.600x338.jpg?t=1775235598",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3485300/13d88302300197aa763b0814309423c1f9aca594/ss_13d88302300197aa763b0814309423c1f9aca594.600x338.jpg?t=1775235598",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3485300/3bfa316457d3da4dca53da69f338afd3738ad90f/ss_3bfa316457d3da4dca53da69f338afd3738ad90f.600x338.jpg?t=1775235598"
-    ],
-    "rising_score": 0.0,
-    "gem_score": 0.0,
+    "short_description": "A futuristic action game that challenges your agility as well as your aim, Ricochet features one-on-one and team matches played in a variety of futuristic battle arenas.",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/60/header.jpg?t=1745368568",
+    "screenshots": [],
+    "rising_score": null,
+    "gem_score": null,
     "hype_score": 0,
     "review_velocity_7d": 0,
     "follower_velocity_7d": 0,
     "classification": "",
-    "review_count": 0,
+    "review_count": 6191,
     "review_positive": 0,
-    "review_percentage": 0.0,
-    "owner_estimate": 10000,
+    "review_percentage": 83.1,
+    "owner_estimate": 350000,
     "ccu_estimate": 0,
     "follower_count": 0,
     "median_playtime_minutes": 0
   },
   {
-    "steam_app_id": 3536950,
-    "name": "Mini Worlds Dioramas",
-    "slug": "mini-worlds-dioramas",
-    "developer": "Paidotribo",
-    "publisher": "indie.io",
-    "release_date": "3 Apr, 2026",
-    "price_usd": 3.19,
+    "steam_app_id": 70,
+    "name": "Half-Life",
+    "slug": "half-life",
+    "developer": "Valve",
+    "publisher": "",
+    "release_date": "1998-11-19",
+    "price_usd": 1.99,
     "genres": [
-      "Casual",
-      "Indie"
+      "Action"
     ],
     "tags": [
-      "Casual",
-      "Indie"
+      "Action"
     ],
     "platforms": [
-      "windows"
+      "windows",
+      "mac",
+      "linux"
     ],
-    "short_description": "A peaceful sandbox for building tiny worlds. Mini Worlds Dioramas is your digital Zen garden—no goals, no stress, just pure creativity. Mix and match cozy props from different genres to craft your own calming dioramas.",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536950/bc4848b0924a0ee65e3c13add130384f490b6f57/header.jpg?t=1775233833",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536950/61ef9854cb0e630bdd66a5b3757fdb82def235b8/ss_61ef9854cb0e630bdd66a5b3757fdb82def235b8.600x338.jpg?t=1775233833",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536950/787632163469921a14bbe0e612b70ff2d30a8298/ss_787632163469921a14bbe0e612b70ff2d30a8298.600x338.jpg?t=1775233833",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536950/4f3ca90338a65a54004c11714e34dee4d70a1d63/ss_4f3ca90338a65a54004c11714e34dee4d70a1d63.600x338.jpg?t=1775233833",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536950/a4faa63da538c4aa9e3165f5c929e97e6a5e48a6/ss_a4faa63da538c4aa9e3165f5c929e97e6a5e48a6.600x338.jpg?t=1775233833",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536950/f3c5f69c5dc93bca1c3a24b449faf99a2d9b4416/ss_f3c5f69c5dc93bca1c3a24b449faf99a2d9b4416.600x338.jpg?t=1775233833",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536950/13df426ff4677a060d363e5f2bd3790eaae86229/ss_13df426ff4677a060d363e5f2bd3790eaae86229.600x338.jpg?t=1775233833",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536950/1cb6c0a6ffdb1dd76d6c87459168b1cf3c1c57a3/ss_1cb6c0a6ffdb1dd76d6c87459168b1cf3c1c57a3.600x338.jpg?t=1775233833",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536950/e0fe11987c613a71144dd036bc1ba57f2bcd049f/ss_e0fe11987c613a71144dd036bc1ba57f2bcd049f.600x338.jpg?t=1775233833",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536950/195309a00f3d4e312e2c9690d488387a04f34877/ss_195309a00f3d4e312e2c9690d488387a04f34877.600x338.jpg?t=1775233833"
-    ],
-    "rising_score": 0.0,
-    "gem_score": 0.0,
+    "short_description": "Named Game of the Year by over 50 publications, Valve's debut title blends action and adventure with award-winning technology to create a frighteningly realistic world where players must think to surv",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/header.jpg?t=1745368462",
+    "screenshots": [],
+    "rising_score": null,
+    "gem_score": null,
     "hype_score": 0,
     "review_velocity_7d": 0,
     "follower_velocity_7d": 0,
     "classification": "",
-    "review_count": 0,
+    "review_count": 158951,
     "review_positive": 0,
-    "review_percentage": 0.0,
-    "owner_estimate": 10000,
+    "review_percentage": 96.5,
+    "owner_estimate": 15000000,
     "ccu_estimate": 0,
     "follower_count": 0,
     "median_playtime_minutes": 0
   },
   {
-    "steam_app_id": 3784030,
-    "name": "RACCOIN: Coin Pusher Roguelike",
-    "slug": "raccoin-coin-pusher-roguelike",
-    "developer": "Doraccoon ",
-    "publisher": "Playstack",
-    "release_date": "31 Mar, 2026",
-    "price_usd": 9.83,
+    "steam_app_id": 80,
+    "name": "Counter-Strike: Condition Zero",
+    "slug": "counter-strike-condition-zero-80",
+    "developer": "Valve",
+    "publisher": "",
+    "release_date": "2004-03-01",
+    "price_usd": 1.99,
     "genres": [
-      "Casual",
-      "Indie",
-      "Simulation",
-      "Strategy"
+      "Action"
     ],
     "tags": [
-      "Casual",
-      "Indie",
-      "Simulation",
-      "Strategy"
+      "Action"
     ],
     "platforms": [
-      "windows"
+      "windows",
+      "mac",
+      "linux"
     ],
-    "short_description": "A coin-pushing dopamine machine. RACCOIN is a roguelike deckbuilder where you combine special coins with powerful items to trigger wildly satisfying combos. Stack shiny towers, spin the lucky wheel, and shake the machine until all the coins drop.",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/441ff79feb6f3e92a5a6ed4a1d4b89c79e275644/header.jpg?t=1775124889",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/9dc3df02e3195847fd0dd61a5931712faadc40ec/ss_9dc3df02e3195847fd0dd61a5931712faadc40ec.600x338.jpg?t=1775124889",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/86ab76b194788a3ac7188cc79f69d9293ebb76d5/ss_86ab76b194788a3ac7188cc79f69d9293ebb76d5.600x338.jpg?t=1775124889",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/347ad829f66d8d0c8cc32cfdfbc6b5b2099128e4/ss_347ad829f66d8d0c8cc32cfdfbc6b5b2099128e4.600x338.jpg?t=1775124889",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/b35de7a491b09573ad84b72b6d9afd50297a9320/ss_b35de7a491b09573ad84b72b6d9afd50297a9320.600x338.jpg?t=1775124889",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/35bb5c1df6d0aae62a1d52cba320a4a77b76d78e/ss_35bb5c1df6d0aae62a1d52cba320a4a77b76d78e.600x338.jpg?t=1775124889",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/4541040768a5d31f59c95bae6c192b29b6b88660/ss_4541040768a5d31f59c95bae6c192b29b6b88660.600x338.jpg?t=1775124889",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/24843e6e351ca3fc64e0d499d4cf7d4e530c19af/ss_24843e6e351ca3fc64e0d499d4cf7d4e530c19af.600x338.jpg?t=1775124889",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/93ea66c9bcb1e4e3ccd466ae9f0f4bd0e26d6cfe/ss_93ea66c9bcb1e4e3ccd466ae9f0f4bd0e26d6cfe.600x338.jpg?t=1775124889",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/2d23b28eaffe993ad1f2177c90569fdda97f54b6/ss_2d23b28eaffe993ad1f2177c90569fdda97f54b6.600x338.jpg?t=1775124889",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3784030/bc654355752c046cccfef9d647b00ad1af02d6d6/ss_bc654355752c046cccfef9d647b00ad1af02d6d6.600x338.jpg?t=1775124889"
-    ],
-    "rising_score": 0.0,
+    "short_description": "With its extensive Tour of Duty campaign, a near-limitless number of skirmish modes, updates and new content for Counter-Strike's award-winning multiplayer game play, plus over 12 bonus single player ",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/header.jpg?t=1745368574",
+    "screenshots": [],
+    "rising_score": 0.005,
     "gem_score": 0.0,
     "hype_score": 0,
     "review_velocity_7d": 0,
     "follower_velocity_7d": 0,
     "classification": "",
-    "review_count": 0,
+    "review_count": 27757,
     "review_positive": 0,
-    "review_percentage": 0.0,
-    "owner_estimate": 10000,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 902
-  },
-  {
-    "steam_app_id": 3955660,
-    "name": "Dangerous Mountain Together",
-    "slug": "dangerous-mountain-together",
-    "developer": "Çağatay Demir, Doğukan Şahin",
-    "publisher": "SlugShot Games",
-    "release_date": "3 Apr, 2026",
-    "price_usd": 3.64,
-    "genres": [
-      "Adventure",
-      "Casual",
-      "Indie",
-      "Simulation"
-    ],
-    "tags": [
-      "Adventure",
-      "Casual",
-      "Indie",
-      "Simulation"
-    ],
-    "platforms": [
-      "windows"
-    ],
-    "short_description": "Team up in this chaotic 2-4 player co-op car adventure! Navigate dangerous mountain roads while tethered together, pulling each other back from disaster. Climb steep hills, survive wild weather, and reach the top without tumbling into the abyss!",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955660/bcdbe736d1fe4849853c2bf9608f59c471fd6fcd/header.jpg?t=1775242834",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955660/88986c811872633f3d97be54e771a9273289348c/ss_88986c811872633f3d97be54e771a9273289348c.600x338.jpg?t=1775242834",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955660/0cea48ecb018d1602dd89bb79b95b6c089aefd7b/ss_0cea48ecb018d1602dd89bb79b95b6c089aefd7b.600x338.jpg?t=1775242834",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955660/789739a05b5a11bc01b97c2997691cf5c158b3ea/ss_789739a05b5a11bc01b97c2997691cf5c158b3ea.600x338.jpg?t=1775242834",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955660/f29559c8b2457b716dfdc5e78dce6be03da719b6/ss_f29559c8b2457b716dfdc5e78dce6be03da719b6.600x338.jpg?t=1775242834",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955660/5f23dd0dccf174ebf6b72e50c8d481ef52fe9779/ss_5f23dd0dccf174ebf6b72e50c8d481ef52fe9779.600x338.jpg?t=1775242834",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955660/1db398808448c94a513703330ac20b6fab945c9f/ss_1db398808448c94a513703330ac20b6fab945c9f.600x338.jpg?t=1775242834",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3955660/9ccd51395eabec33b9c482d17b2f6d3f8cbde074/ss_9ccd51395eabec33b9c482d17b2f6d3f8cbde074.600x338.jpg?t=1775242834"
-    ],
-    "rising_score": 0.0,
-    "gem_score": 0.0,
-    "hype_score": 0,
-    "review_velocity_7d": 0,
-    "follower_velocity_7d": 0,
-    "classification": "",
-    "review_count": 0,
-    "review_positive": 0,
-    "review_percentage": 0.0,
-    "owner_estimate": 10000,
+    "review_percentage": 91.5,
+    "owner_estimate": 7500000,
     "ccu_estimate": 0,
     "follower_count": 0,
     "median_playtime_minutes": 0
   },
   {
-    "steam_app_id": 4035570,
-    "name": "My Ghost Roommate",
-    "slug": "my-ghost-roommate",
-    "developer": "Murky Games",
-    "publisher": "Saikey Studios",
-    "release_date": "Apr 3, 2026",
-    "price_usd": 4.79,
+    "steam_app_id": 100,
+    "name": "Counter-Strike: Condition Zero",
+    "slug": "counter-strike-condition-zero",
+    "developer": "Valve",
+    "publisher": "",
+    "release_date": "2004-03-01",
+    "price_usd": 1.99,
     "genres": [
-      "Casual",
-      "Indie"
+      "Action"
     ],
     "tags": [
-      "Casual",
-      "Indie"
+      "Action"
     ],
     "platforms": [
-      "windows"
+      "windows",
+      "mac",
+      "linux"
     ],
-    "short_description": "A romantic comedy visual novel where you move in with Juno, a shy ghost bound to your new apartment. Share awkward dinners, heartfelt moments, and maybe spark a supernatural romance in this short, charming story of love and letting go.",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4035570/0f7ff7daada3fbe16be248ff45d55f5d2b80c1f6/header.jpg?t=1775269349",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4035570/f49c107c52e7268847aa6af38450e260ba1b5ce3/ss_f49c107c52e7268847aa6af38450e260ba1b5ce3.600x338.jpg?t=1775269349",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4035570/0b9b86e07f3c5816d82a3cafb61fca28660367c5/ss_0b9b86e07f3c5816d82a3cafb61fca28660367c5.600x338.jpg?t=1775269349",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4035570/393777d4d2361b20eba415e0566fbfcfded0bd9d/ss_393777d4d2361b20eba415e0566fbfcfded0bd9d.600x338.jpg?t=1775269349",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4035570/027d752106a71c49e5b0a993fd6ce71bb7f9c6c3/ss_027d752106a71c49e5b0a993fd6ce71bb7f9c6c3.600x338.jpg?t=1775269349",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4035570/46465adaacb7163b1e5f7f817e5bbaa1875adcc3/ss_46465adaacb7163b1e5f7f817e5bbaa1875adcc3.600x338.jpg?t=1775269349",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4035570/989df34d89404ea461f9d22bbd754ac783dc1ad4/ss_989df34d89404ea461f9d22bbd754ac783dc1ad4.600x338.jpg?t=1775269349",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4035570/549b281c7f164cba1732dc05a09dccf4f797317d/ss_549b281c7f164cba1732dc05a09dccf4f797317d.600x338.jpg?t=1775269349",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4035570/3e3818f1f93e4a55a2e056c4d58fc0187bea1ac9/ss_3e3818f1f93e4a55a2e056c4d58fc0187bea1ac9.600x338.jpg?t=1775269349"
-    ],
-    "rising_score": 0.0,
+    "short_description": "With its extensive Tour of Duty campaign, a near-limitless number of skirmish modes, updates and new content for Counter-Strike's award-winning multiplayer game play, plus over 12 bonus single player ",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/header.jpg?t=1745368574",
+    "screenshots": [],
+    "rising_score": 0.0009,
     "gem_score": 0.0,
     "hype_score": 0,
     "review_velocity_7d": 0,
     "follower_velocity_7d": 0,
     "classification": "",
-    "review_count": 0,
+    "review_count": 5135,
     "review_positive": 0,
-    "review_percentage": 0.0,
-    "owner_estimate": 10000,
+    "review_percentage": 91.8,
+    "owner_estimate": 15000000,
     "ccu_estimate": 0,
     "follower_count": 0,
     "median_playtime_minutes": 0
   },
   {
-    "steam_app_id": 4069520,
-    "name": "Super Battle Golf",
-    "slug": "super-battle-golf",
-    "developer": "Brimstone",
-    "publisher": "Oro Interactive",
-    "release_date": "19 Feb, 2026",
-    "price_usd": 13.99,
+    "steam_app_id": 130,
+    "name": "Half-Life: Blue Shift",
+    "slug": "half-life-blue-shift",
+    "developer": "Gearbox Software",
+    "publisher": "",
+    "release_date": "2001-06-01",
+    "price_usd": 1.24,
     "genres": [
-      "Casual",
-      "Indie",
-      "Sports"
+      "Action"
     ],
     "tags": [
-      "Casual",
-      "Indie",
-      "Sports"
+      "Action"
     ],
     "platforms": [
-      "windows"
+      "windows",
+      "mac",
+      "linux"
     ],
-    "short_description": "An online 1-8 player golf game where everyone plays at the same time. Swing, shoot, sabotage, and finish first by any means necessary in a free-for-all rush to the hole.",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/60b052f108998c01fed147d07578a2aed9bcd4ee/header.jpg?t=1775033361",
-    "screenshots": [
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/5de3d4f4a2063145fbeae398edaf9dc300ccfc65/ss_5de3d4f4a2063145fbeae398edaf9dc300ccfc65.600x338.jpg?t=1775033361",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/2e90632f818b8f7457edee5b5be38bc0ebcfd5b3/ss_2e90632f818b8f7457edee5b5be38bc0ebcfd5b3.600x338.jpg?t=1775033361",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/698f5acea2aa6cec71d240f3b0c98fa1a39c870e/ss_698f5acea2aa6cec71d240f3b0c98fa1a39c870e.600x338.jpg?t=1775033361",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/2385c3f43036eb2516ea6dcdfeb770e24d9a8b45/ss_2385c3f43036eb2516ea6dcdfeb770e24d9a8b45.600x338.jpg?t=1775033361",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/7cf80ac6d832519cc446b45a425d4f3d908aa8c1/ss_7cf80ac6d832519cc446b45a425d4f3d908aa8c1.600x338.jpg?t=1775033361",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/a5a795c4e9219e61e01737e267fef7e9aadbe4da/ss_a5a795c4e9219e61e01737e267fef7e9aadbe4da.600x338.jpg?t=1775033361",
-      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4069520/99bd730acd90867cfb427b590ba2b6ffb7b84135/ss_99bd730acd90867cfb427b590ba2b6ffb7b84135.600x338.jpg?t=1775033361"
+    "short_description": "Made by Gearbox Software and originally released in 2001 as an add-on to Half-Life, Blue Shift is a return to the Black Mesa Research Facility in which you play as Barney Calhoun, the security guard s",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/130/header.jpg?t=1745368541",
+    "screenshots": [],
+    "rising_score": null,
+    "gem_score": null,
+    "hype_score": 0,
+    "review_velocity_7d": 0,
+    "follower_velocity_7d": 0,
+    "classification": "",
+    "review_count": 20334,
+    "review_positive": 0,
+    "review_percentage": 92.6,
+    "owner_estimate": 1500000,
+    "ccu_estimate": 0,
+    "follower_count": 0,
+    "median_playtime_minutes": 0
+  },
+  {
+    "steam_app_id": 220,
+    "name": "Half-Life 2",
+    "slug": "half-life-2",
+    "developer": "Valve",
+    "publisher": "",
+    "release_date": "2004-11-16",
+    "price_usd": 1.99,
+    "genres": [
+      "Action"
     ],
-    "rising_score": 0.0,
+    "tags": [
+      "Action"
+    ],
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "short_description": "Reawakened from stasis in the occupied metropolis of City 17, Gordon Freeman is joined by Alyx Vance as he leads a desperate human resistance. Experience the landmark first-person shooter packed with ",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/header.jpg?t=1745368545",
+    "screenshots": [],
+    "rising_score": null,
+    "gem_score": null,
+    "hype_score": 0,
+    "review_velocity_7d": 0,
+    "follower_velocity_7d": 0,
+    "classification": "",
+    "review_count": 269019,
+    "review_positive": 0,
+    "review_percentage": 97.6,
+    "owner_estimate": 15000000,
+    "ccu_estimate": 0,
+    "follower_count": 0,
+    "median_playtime_minutes": 0
+  },
+  {
+    "steam_app_id": 240,
+    "name": "Counter-Strike: Source",
+    "slug": "counter-strike-source",
+    "developer": "Valve",
+    "publisher": "",
+    "release_date": "2004-11-01",
+    "price_usd": 1.99,
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Action"
+    ],
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "short_description": "Counter-Strike: Source blends Counter-Strike's award-winning teamplay action with the advanced technology of Source™ technology.",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240/header.jpg?t=1745368575",
+    "screenshots": [],
+    "rising_score": 0.0343,
     "gem_score": 0.0,
     "hype_score": 0,
     "review_velocity_7d": 0,
     "follower_velocity_7d": 0,
     "classification": "",
-    "review_count": 0,
+    "review_count": 190055,
     "review_positive": 0,
-    "review_percentage": 0.0,
-    "owner_estimate": 10000,
+    "review_percentage": 96.3,
+    "owner_estimate": 15000000,
     "ccu_estimate": 0,
     "follower_count": 0,
-    "median_playtime_minutes": 148
+    "median_playtime_minutes": 0
+  },
+  {
+    "steam_app_id": 280,
+    "name": "Half-Life: Source",
+    "slug": "half-life-source",
+    "developer": "Valve",
+    "publisher": "",
+    "release_date": "2004-06-01",
+    "price_usd": 1.99,
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Action"
+    ],
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "short_description": "Winner of over 50 Game of the Year awards, Half-Life set new standards for action games when it was released in 1998. Half-Life: Source is a digitally remastered version of the critically acclaimed an",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/280/header.jpg?t=1721932678",
+    "screenshots": [],
+    "rising_score": null,
+    "gem_score": null,
+    "hype_score": 0,
+    "review_velocity_7d": 0,
+    "follower_velocity_7d": 0,
+    "classification": "",
+    "review_count": 16501,
+    "review_positive": 0,
+    "review_percentage": 68.7,
+    "owner_estimate": 3500000,
+    "ccu_estimate": 0,
+    "follower_count": 0,
+    "median_playtime_minutes": 0
+  },
+  {
+    "steam_app_id": 300,
+    "name": "Day of Defeat: Source",
+    "slug": "day-of-defeat-source",
+    "developer": "Valve",
+    "publisher": "",
+    "release_date": "2010-07-12",
+    "price_usd": 1.99,
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Action"
+    ],
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "short_description": "Valve's WWII Multiplayer Classic - Now available for Mac.",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300/header.jpg?t=1763407002",
+    "screenshots": [],
+    "rising_score": 0.0042,
+    "gem_score": 0.0,
+    "hype_score": 0,
+    "review_velocity_7d": 0,
+    "follower_velocity_7d": 0,
+    "classification": "",
+    "review_count": 23326,
+    "review_positive": 0,
+    "review_percentage": 91.7,
+    "owner_estimate": 3500000,
+    "ccu_estimate": 0,
+    "follower_count": 0,
+    "median_playtime_minutes": 0
+  },
+  {
+    "steam_app_id": 320,
+    "name": "Half-Life 2: Deathmatch",
+    "slug": "half-life-2-deathmatch",
+    "developer": "Valve",
+    "publisher": "",
+    "release_date": "2004-11-01",
+    "price_usd": 0.0,
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Action"
+    ],
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "short_description": "Fast multiplayer action set in the Half-Life 2 universe! HL2's physics adds a new dimension to deathmatch play. Play straight deathmatch or try Combine vs. Resistance teamplay. Toss a toilet at your f",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320/header.jpg?t=1749481506",
+    "screenshots": [],
+    "rising_score": null,
+    "gem_score": null,
+    "hype_score": 0,
+    "review_velocity_7d": 0,
+    "follower_velocity_7d": 0,
+    "classification": "",
+    "review_count": 15028,
+    "review_positive": 0,
+    "review_percentage": 90.8,
+    "owner_estimate": 15000000,
+    "ccu_estimate": 0,
+    "follower_count": 0,
+    "median_playtime_minutes": 0
+  },
+  {
+    "steam_app_id": 360,
+    "name": "Half-Life Deathmatch: Source",
+    "slug": "half-life-deathmatch-source",
+    "developer": "Valve",
+    "publisher": "",
+    "release_date": "2006-05-01",
+    "price_usd": 1.99,
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Action"
+    ],
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "short_description": "Half-Life Deathmatch: Source is a recreation of the first multiplayer game set in the Half-Life universe. Features all the classic weapons and most-played maps, now running on the Source engine.",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360/header.jpg?t=1745368549",
+    "screenshots": [],
+    "rising_score": null,
+    "gem_score": null,
+    "hype_score": 0,
+    "review_velocity_7d": 0,
+    "follower_velocity_7d": 0,
+    "classification": "",
+    "review_count": 5373,
+    "review_positive": 0,
+    "review_percentage": 75.6,
+    "owner_estimate": 7500000,
+    "ccu_estimate": 0,
+    "follower_count": 0,
+    "median_playtime_minutes": 0
+  },
+  {
+    "steam_app_id": 380,
+    "name": "Half-Life 2: Episode One",
+    "slug": "half-life-2-episode-one",
+    "developer": "Valve",
+    "publisher": "",
+    "release_date": "2006-06-01",
+    "price_usd": 0.0,
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Action"
+    ],
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "short_description": "Half-Life 2 has sold over 4 million copies worldwide, and earned over 35 Game of the Year Awards. Episode One is the first in a series of games that reveal the aftermath of Half-Life 2 and launch a jo",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/380/header.jpg?t=1745368553",
+    "screenshots": [],
+    "rising_score": null,
+    "gem_score": null,
+    "hype_score": 0,
+    "review_velocity_7d": 0,
+    "follower_velocity_7d": 0,
+    "classification": "",
+    "review_count": 31476,
+    "review_positive": 0,
+    "review_percentage": 95.8,
+    "owner_estimate": 7500000,
+    "ccu_estimate": 0,
+    "follower_count": 0,
+    "median_playtime_minutes": 0
+  },
+  {
+    "steam_app_id": 400,
+    "name": "Portal",
+    "slug": "portal",
+    "developer": "Valve",
+    "publisher": "",
+    "release_date": "2007-10-10",
+    "price_usd": 1.99,
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Action"
+    ],
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "short_description": "Portal™ is a new single player game from Valve. Set in the mysterious Aperture Science Laboratories, Portal has been called one of the most innovative new games on the horizon and will offer gamers ho",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/header.jpg?t=1745368554",
+    "screenshots": [],
+    "rising_score": null,
+    "gem_score": null,
+    "hype_score": 0,
+    "review_velocity_7d": 0,
+    "follower_velocity_7d": 0,
+    "classification": "",
+    "review_count": 191935,
+    "review_positive": 0,
+    "review_percentage": 98.5,
+    "owner_estimate": 15000000,
+    "ccu_estimate": 0,
+    "follower_count": 0,
+    "median_playtime_minutes": 0
+  },
+  {
+    "steam_app_id": 420,
+    "name": "Half-Life 2: Episode Two",
+    "slug": "half-life-2-episode-two",
+    "developer": "Valve",
+    "publisher": "",
+    "release_date": "2007-10-10",
+    "price_usd": 0.0,
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Action"
+    ],
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "short_description": "Half-Life® 2: Episode Two is the second in a trilogy of new games created by Valve that extends the award-winning and best-selling Half-Life® adventure. As Dr. Gordon Freeman, you were last seen exiti",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420/header.jpg?t=1745368556",
+    "screenshots": [],
+    "rising_score": null,
+    "gem_score": null,
+    "hype_score": 0,
+    "review_velocity_7d": 0,
+    "follower_velocity_7d": 0,
+    "classification": "",
+    "review_count": 41435,
+    "review_positive": 0,
+    "review_percentage": 97.1,
+    "owner_estimate": 7500000,
+    "ccu_estimate": 0,
+    "follower_count": 0,
+    "median_playtime_minutes": 0
+  },
+  {
+    "steam_app_id": 500,
+    "name": "Left 4 Dead",
+    "slug": "left-4-dead",
+    "developer": "Valve",
+    "publisher": "",
+    "release_date": "2008-11-17",
+    "price_usd": 1.99,
+    "genres": [
+      "Action"
+    ],
+    "tags": [
+      "Action"
+    ],
+    "platforms": [
+      "windows"
+    ],
+    "short_description": "From Valve (the creators of Counter-Strike, Half-Life and more) comes Left 4 Dead, a co-op action horror game for the PC and Xbox 360 that casts up to four players in an epic struggle for survival aga",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/500/header.jpg?t=1745368560",
+    "screenshots": [],
+    "rising_score": null,
+    "gem_score": null,
+    "hype_score": 0,
+    "review_velocity_7d": 0,
+    "follower_velocity_7d": 0,
+    "classification": "",
+    "review_count": 65978,
+    "review_positive": 0,
+    "review_percentage": 96.4,
+    "owner_estimate": 7500000,
+    "ccu_estimate": 0,
+    "follower_count": 0,
+    "median_playtime_minutes": 0
   }
 ]

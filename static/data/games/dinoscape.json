@@ -3,8 +3,8 @@
   "name": "DinoScape",
   "slug": "dinoscape",
   "developer": "Tomary",
-  "publisher": "DinoScape",
-  "release_date": "Sep 10, 2021",
+  "publisher": "",
+  "release_date": "2021-09-10",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -21,38 +21,15 @@
   ],
   "short_description": "As a brave caveman, save the dinosaurs from extinction! Try to escape from meteorids, lava, sharp teeth and deep abysses together with your riding dinosaur.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384290/header.jpg?t=1631289189",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384290/ss_2dbe3797a7aa814aac324bbf7d94d8a169061759.600x338.jpg?t=1631289189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384290/ss_4211d3afd4063ffcbb6cad915c80657ee1131167.600x338.jpg?t=1631289189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384290/ss_b1191af07f305dbcd004a01b43ecc8dcf94d13a0.600x338.jpg?t=1631289189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384290/ss_e8e48d3d5c09519de597ec0e828747049e8c0f77.600x338.jpg?t=1631289189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384290/ss_821caf44020be12bb09b9ffb34dbfa7f8a20cfd8.600x338.jpg?t=1631289189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384290/ss_2aa22fcd7b6b605c663c13a314bb8bfbf9e283bc.600x338.jpg?t=1631289189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384290/ss_fc23b95ccc04473e9411a3b42c95b03c215e2203.600x338.jpg?t=1631289189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1384290/ss_fe20a84372333247878167b6b13f4040ad074920.600x338.jpg?t=1631289189"
-  ],
-  "detailed_description": "As a brave caveman, save the dinosaurs from extinction! Try to escape from meteorids, lava, sharp teeth and deep abysses together with your riding dinosaur. Collect <strong>rare</strong> dinosaur eggs. Collect emeralds and unlock chic accessories.<br><br>Dinoscape was launched by Tomary in 2020.<br><br>Have fun with DinoScape!<br>Tomary",
-  "about_the_game": "As a brave caveman, save the dinosaurs from extinction! Try to escape from meteorids, lava, sharp teeth and deep abysses together with your riding dinosaur. Collect <strong>rare</strong> dinosaur eggs. Collect emeralds and unlock chic accessories.<br><br>Dinoscape was launched by Tomary in 2020.<br><br>Have fun with DinoScape!<br>Tomary",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "In-App Purchases"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 12.450000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 249,
-  "review_positive": 202,
+  "review_positive": 0,
   "review_percentage": 81.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 244,
-      "review_percentage": 82.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 249,
       "review_percentage": 81.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

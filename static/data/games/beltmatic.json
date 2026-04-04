@@ -3,8 +3,8 @@
   "name": "Beltmatic",
   "slug": "beltmatic",
   "developer": "Notional Games",
-  "publisher": "Notional Games",
-  "release_date": "Mar 29, 2024",
+  "publisher": "",
+  "release_date": "2024-03-29",
   "price_usd": 4.54,
   "genres": [
     "Casual",
@@ -23,83 +23,27 @@
   ],
   "short_description": "Beltmatic is a casual factory game where you combine numbers using mathematical operations.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2674590/header.jpg?t=1744824205",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2674590/9b19409c951ef80c0553d0bb9ae293ec597cda33/ss_9b19409c951ef80c0553d0bb9ae293ec597cda33.600x338.jpg?t=1744824205",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2674590/ss_2501bd3dfd61242ac99a09ba7633d96e596b879b.600x338.jpg?t=1744824205",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2674590/ss_45bc8c416a96f38d919df76ce5190130288f6789.600x338.jpg?t=1744824205",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2674590/ss_9ee325312751615850eee529d7950a972969a100.600x338.jpg?t=1744824205",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2674590/ss_57ff60fafebfeac333ba81274d4bf4ce117c05df.600x338.jpg?t=1744824205",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2674590/ss_3ba6542ca35bfe07241e8f675548fcf543409cf3.600x338.jpg?t=1744824205"
-  ],
-  "detailed_description": "Beltmatic is a game where you build mathematical factories.<br><br><ul class=\"bb_ul\"><li>Extract numbers from the map<br></li><li>Construct buildings that perform mathematical operations<br></li><li>Lay down an expansive belt network<br></li><li>Deliver numbers to hub to reach the next level<br></li><li>Build new production lines and reuse old ones<br></li><li>Unlock new buildings and upgrade them.<br></li><li>Expand your factory across a huge map</li></ul>",
-  "about_the_game": "Beltmatic is a game where you build mathematical factories.<br><br><ul class=\"bb_ul\"><li>Extract numbers from the map<br></li><li>Construct buildings that perform mathematical operations<br></li><li>Lay down an expansive belt network<br></li><li>Deliver numbers to hub to reach the next level<br></li><li>Build new production lines and reuse old ones<br></li><li>Unlock new buildings and upgrade them.<br></li><li>Expand your factory across a huge map</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 1956,
-  "rising_score": 0.0009,
+  "screenshots": [],
+  "rising_score": 0.0004,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 579.0,
+  "review_velocity_7d": 100.45,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
-  "review_count": 2013,
-  "review_positive": 1900,
+  "review_count": 2009,
+  "review_positive": 0,
   "review_percentage": 94.4,
   "owner_estimate": 75000,
-  "ccu_estimate": 70,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 1114,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1430,
-      "review_percentage": 94.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
-      "review_count": 2001,
-      "review_percentage": 94.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
-      "review_count": 2004,
-      "review_percentage": 94.5,
-      "ccu_estimate": 70,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
-      "review_count": 2008,
-      "review_percentage": 94.4,
-      "ccu_estimate": 70,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-01",
+      "date": "2026-04-04",
       "review_count": 2009,
       "review_percentage": 94.4,
-      "ccu_estimate": 70,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
-      "review_count": 2013,
-      "review_percentage": 94.4,
-      "ccu_estimate": 70,
+      "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

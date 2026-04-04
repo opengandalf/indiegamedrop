@@ -3,8 +3,8 @@
   "name": "Bloody Sky",
   "slug": "bloody-sky",
   "developer": "Breexell",
-  "publisher": "Breexell",
-  "release_date": "Aug 15, 2024",
+  "publisher": "",
+  "release_date": "2024-08-15",
   "price_usd": 5.0,
   "genres": [
     "Action",
@@ -19,34 +19,15 @@
   ],
   "short_description": "This is a game where you defeat three bosses. The hero's challenge continues until all the bosses are defeated.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117670/header.jpg?t=1724489641",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117670/ss_10a2155dbe056dbcbf6d65fe28efe0da89af22b0.600x338.jpg?t=1724489641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117670/ss_d737323e032d6be78f918e2f63a571ee40d9f896.600x338.jpg?t=1724489641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117670/ss_4b0b7fff227de97f6fba57327544c507385f03ce.600x338.jpg?t=1724489641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117670/ss_d53cba1c09d02552f93cc639bb65396bdd247afb.600x338.jpg?t=1724489641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117670/ss_8c5a4bc0ae1e3819e4d036c3041ddf63934b74d7.600x338.jpg?t=1724489641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3117670/ss_bc0bcae14322d4332a6822f7ef8042f0fcb6560e.600x338.jpg?t=1724489641"
-  ],
-  "detailed_description": "This is a Souls-like game that incorporates elements of roguelike gameplay. As you play, deftly dodge or block the ruthless attacks of the bosses you encounter to overcome them. Upgrade your status to gain an advantage.",
-  "about_the_game": "This is a Souls-like game that incorporates elements of roguelike gameplay. As you play, deftly dodge or block the ruthless attacks of the bosses you encounter to overcome them. Upgrade your status to gain an advantage.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

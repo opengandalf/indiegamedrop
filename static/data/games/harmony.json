@@ -3,8 +3,8 @@
   "name": "harmony",
   "slug": "harmony",
   "developer": "Aleph Null",
-  "publisher": "Aleph Null Ltd.",
-  "release_date": "Nov 23, 2023",
+  "publisher": "",
+  "release_date": "2023-11-23",
   "price_usd": 4.99,
   "genres": [
     "Strategy"
@@ -18,40 +18,9 @@
   ],
   "short_description": "out maneuver your opponent without letting them leverage your own pieces against you. play against your friends or the computer to see if you can bring balance to the board.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2465240/header.jpg?t=1700791536",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2465240/ss_e0a75f316d8392189582db9552afb1fd3dcf414b.600x338.jpg?t=1700791536",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2465240/ss_782b28ebcb207835c999fcdc3efef709990a9a7d.600x338.jpg?t=1700791536",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2465240/ss_2989ffb678599359a6f1a00088fabeda1576739a.600x338.jpg?t=1700791536",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2465240/ss_55836e245db3837d769c9e1a2b34b1f399f05230.600x338.jpg?t=1700791536",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2465240/ss_df52ba27239105d502418d9fc96609e236dd82c2.600x338.jpg?t=1700791536",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2465240/ss_0692c23197c47890eb0b3b5a49a64e735ccf842e.600x338.jpg?t=1700791536"
-  ],
-  "detailed_description": "harmony is a strategy board game turned digital. the key philosophy behind harmony's design is simple to learn, but hard to master. in harmony you must out maneuver your opponent to make an alternating pattern without letting them leverage your own pieces against you.<br />\r\n<br />\r\nin harmony your goal is to make a pattern of four pieces in alternating states. this state can either be the face of the piece (sun, moon, sun, moon) or the color of the piece (dark, light, dark, light). this pattern must appear on a vertical line or one of the three outer rings. when on a ring the pattern can be in an arc, where all of the pieces are adjacent, or in a four corners arrangement, where the pieces are 90 degrees apart from each other. <br />\r\n<br />\r\nduring a turn you are able to make two moves of your color or one move of your opponent's color. a move consists of either placing a piece, moving a piece, or flipping a piece. pieces can move any number of spaces in a single direction, but cannot pass through any other piece. there is no way to remove pieces from the board.",
-  "about_the_game": "harmony is a strategy board game turned digital. the key philosophy behind harmony's design is simple to learn, but hard to master. in harmony you must out maneuver your opponent to make an alternating pattern without letting them leverage your own pieces against you.<br />\r\n<br />\r\nin harmony your goal is to make a pattern of four pieces in alternating states. this state can either be the face of the piece (sun, moon, sun, moon) or the color of the piece (dark, light, dark, light). this pattern must appear on a vertical line or one of the three outer rings. when on a ring the pattern can be in an arc, where all of the pieces are adjacent, or in a four corners arrangement, where the pieces are 90 degrees apart from each other. <br />\r\n<br />\r\nduring a turn you are able to make two moves of your color or one move of your opponent's color. a move consists of either placing a piece, moving a piece, or flipping a piece. pieces can move any number of spaces in a single direction, but cannot pass through any other piece. there is no way to remove pieces from the board.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Shared/Split Screen PvP",
-    "Shared/Split Screen",
-    "Steam Achievements",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 10,
-  "review_positive": 10,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +28,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 10,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

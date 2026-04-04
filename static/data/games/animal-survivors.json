@@ -3,8 +3,8 @@
   "name": "Animal Survivors",
   "slug": "animal-survivors",
   "developer": "Arbatskii Anatolii",
-  "publisher": "Arbatskii Anatolii",
-  "release_date": "Dec 14, 2022",
+  "publisher": "",
+  "release_date": "2022-12-14",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -19,31 +19,15 @@
   ],
   "short_description": "Animal Survivors is a casual game with elements of a simplified roguelike. A time-based survival game with minimalistic gameplay and elements of a simplified roguelike.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2224660/header.jpg?t=1726761982",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2224660/ss_894ca0859db9e89ac4b4ef745fd516ec9dc6c05b.600x338.jpg?t=1726761982",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2224660/ss_31237aa4bf298116a9d3a22be03c43394d259fe3.600x338.jpg?t=1726761982",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2224660/ss_7f6c9d4ea346527a9e04c82cebf71e1587b7000a.600x338.jpg?t=1726761982",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2224660/ss_e9fdd7be7f121b854afab05545388a7668ec1a53.600x338.jpg?t=1726761982",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2224660/ss_3ca76cdb35383d9970e75a1a993a3012f4c87388.600x338.jpg?t=1726761982"
-  ],
-  "detailed_description": "Animal Survivors is a casual survival game with minimalistic time-based gameplay with simplistic roguelike elements. <br />\r\nControl cute animals using just 4 keys on your keyboard to collect experience gems, defeat the hordes of evil creatures that have invaded your home, and earn coins during your 15-minute run. <br />\r\nSkills are used automatically, you just need to pick the most suitable ones from the list of available skills in the level.",
-  "about_the_game": "Animal Survivors is a casual survival game with minimalistic time-based gameplay with simplistic roguelike elements. <br />\r\nControl cute animals using just 4 keys on your keyboard to collect experience gems, defeat the hordes of evil creatures that have invaded your home, and earn coins during your 15-minute run. <br />\r\nSkills are used automatically, you just need to pick the most suitable ones from the list of available skills in the level.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.9,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 18,
-  "review_positive": 14,
+  "review_positive": 0,
   "review_percentage": 77.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 16,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 18,
       "review_percentage": 77.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

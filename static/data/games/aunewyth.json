@@ -3,8 +3,8 @@
   "name": "Aunewyth",
   "slug": "aunewyth",
   "developer": "Captain Cool",
-  "publisher": "Captain Cool",
-  "release_date": "Jan 20, 2023",
+  "publisher": "",
+  "release_date": "2023-01-20",
   "price_usd": 2.99,
   "genres": [
     "RPG",
@@ -19,34 +19,15 @@
   ],
   "short_description": "Aunewyth is a text-based game with a focus on narration and decision making. It features a short yet versatile storyline that reveals itself according to the choices you make.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2192400/header.jpg?t=1754497858",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2192400/ss_c240b6bad34e700fa7914f273e9c85a81cc59333.600x338.jpg?t=1754497858",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2192400/ss_092f612e4ee72f14be2c6713cc6c4585d3a5e72a.600x338.jpg?t=1754497858",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2192400/ss_08dc5ab76928fa989a2815f69bcee88f3572493f.600x338.jpg?t=1754497858",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2192400/ss_f415d2d532bc3bba77aead60761d797e30939bce.600x338.jpg?t=1754497858",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2192400/ss_d53b9400214c46bfd5f1fdafa3b7eace74e225bd.600x338.jpg?t=1754497858",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2192400/ss_5c988782c1e9bb633c2405324bb4d2b42ad74a29.600x338.jpg?t=1754497858",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2192400/ss_3b4fddb27ad199c454f649cc100763502aaf5050.600x338.jpg?t=1754497858"
-  ],
-  "detailed_description": "<strong>EXPERIENCE THE BEGINNING OF AN UNEXPECTED ADVENTURE</strong><br><br>Embark on a journey to save Aunewyth Valley from a lurking menace. Most wells around your village have run dry. You must set out and find a way to bring back the vanishing water.<br><br><strong>MAKE DECISIONS AND CHOOSE YOUR OWN PATH</strong><br><br>This short text-based game marks the beginning of a new kind of adventure. Aunewyth features a branching narrative with multiple endings. Each playthrough consists of several encounters while an encounter is a decision making process featuring a small narrative.<br><br><strong>EASY TO LEARN, EASY TO MASTER</strong><br><br>Make your way through the game by using [Up], [Down], and [Space] to make decisions or speed things up. The storyline unfolds according to your input. Each playthrough can be different. But you can also play through the game in the exact same way. This is up to you.",
-  "about_the_game": "<strong>EXPERIENCE THE BEGINNING OF AN UNEXPECTED ADVENTURE</strong><br><br>Embark on a journey to save Aunewyth Valley from a lurking menace. Most wells around your village have run dry. You must set out and find a way to bring back the vanishing water.<br><br><strong>MAKE DECISIONS AND CHOOSE YOUR OWN PATH</strong><br><br>This short text-based game marks the beginning of a new kind of adventure. Aunewyth features a branching narrative with multiple endings. Each playthrough consists of several encounters while an encounter is a decision making process featuring a small narrative.<br><br><strong>EASY TO LEARN, EASY TO MASTER</strong><br><br>Make your way through the game by using [Up], [Down], and [Space] to make decisions or speed things up. The storyline unfolds according to your input. Each playthrough can be different. But you can also play through the game in the exact same way. This is up to you.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.45,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 9,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 77.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 77.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 77.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

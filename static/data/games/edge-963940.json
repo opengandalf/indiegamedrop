@@ -4,7 +4,7 @@
   "slug": "edge-963940",
   "developer": "",
   "publisher": "",
-  "release_date": "Nov 3, 2018",
+  "release_date": "2018-11-03",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -19,32 +19,15 @@
   ],
   "short_description": "Your goal is to balance the ball and avoid it from obstacles and from falling down.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/963940/header.jpg?t=1723421288",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/963940/ss_cc7558924bf874cb34e91dc9da1e5cf1332185af.600x338.jpg?t=1723421288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/963940/ss_bb6f8b09fa406f6dc5753e67cf0a1f947bc428de.600x338.jpg?t=1723421288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/963940/ss_a94f052b3b781900662d836752ff4f97898989e1.600x338.jpg?t=1723421288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/963940/ss_8c60d49169438072623e163c1242e41298894812.600x338.jpg?t=1723421288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/963940/ss_daf2e455455b2ef6ff3d85bde1bc5a85ee62e3f4.600x338.jpg?t=1723421288"
-  ],
-  "detailed_description": "Your goal is to balance the ball and avoid it from obstacles and from falling down.",
-  "about_the_game": "Your goal is to balance the ball and avoid it from obstacles and from falling down.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.5,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 10,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 60.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 10,
-      "review_percentage": 60.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 60.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

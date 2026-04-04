@@ -3,8 +3,8 @@
   "name": "Click-chan",
   "slug": "click-chan",
   "developer": "Click-chan Dev",
-  "publisher": "Click-chan Dev",
-  "release_date": "Aug 26, 2019",
+  "publisher": "",
+  "release_date": "2019-08-26",
   "price_usd": 0.99,
   "genres": [
     "Utilities",
@@ -19,29 +19,15 @@
   ],
   "short_description": "Click-chan is an adorable mouse helper, it helps you do multiple things with your mouse.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1071860/header.jpg?t=1603940907",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1071860/ss_17a7f134b8d4cdb2df439d59b3f3f1c5668e8396.600x338.jpg?t=1603940907",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1071860/ss_21817e0dcd32b31338c43b5444274a4475dccc85.600x338.jpg?t=1603940907",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1071860/ss_83fa6b44a24a0f153125a86b76b1e65fa2b2dbc3.600x338.jpg?t=1603940907",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1071860/ss_c19827572b8954bfd939bb4f029438a657d54bf3.600x338.jpg?t=1603940907",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1071860/ss_60a8a7b0befcd05f76bf384373f1c1c9cb801650.600x338.jpg?t=1603940907"
-  ],
-  "detailed_description": "Click-chan is an adorable mouse helper who allows you to do an array of mouse tricks.<h2 class=\"bb_tag\" >Turbo</h2>Turbo mode allows you to click faster than normal, this is specially helpful for tasks that require smashing down your mouse button!<h2 class=\"bb_tag\" >Burst Mode</h2>This mode allows you to click in bursts, which is specially helpful in games where precision matters.<h2 class=\"bb_tag\" >Single Click</h2>Click-chan helps you convert a key into your click, it helps in cases such as games with super precise shooting like snipers.",
-  "about_the_game": "Click-chan is an adorable mouse helper who allows you to do an array of mouse tricks.<h2 class=\"bb_tag\" >Turbo</h2>Turbo mode allows you to click faster than normal, this is specially helpful for tasks that require smashing down your mouse button!<h2 class=\"bb_tag\" >Burst Mode</h2>This mode allows you to click in bursts, which is specially helpful in games where precision matters.<h2 class=\"bb_tag\" >Single Click</h2>Click-chan helps you convert a key into your click, it helps in cases such as games with super precise shooting like snipers.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.6000000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 12,
-  "review_positive": 11,
+  "review_positive": 0,
   "review_percentage": 91.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -49,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 88.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 12,
       "review_percentage": 91.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

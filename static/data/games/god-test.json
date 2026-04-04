@@ -3,8 +3,8 @@
   "name": "God Test",
   "slug": "god-test",
   "developer": "God Test",
-  "publisher": "God Test",
-  "release_date": "Apr 18, 2018",
+  "publisher": "",
+  "release_date": "2018-04-18",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -24,30 +24,8 @@
   "short_description": "God Test",
   "header_image_url": null,
   "screenshots": [],
-  "detailed_description": "God Test",
-  "about_the_game": "God Test",
-  "supported_languages": "Traditional Chinese, English, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "MMO",
-    "PvP",
-    "Online PvP",
-    "Co-op",
-    "Online Co-op",
-    "In-App Purchases"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
   "review_count": 19,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 42.1,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -55,26 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 16,
-      "review_percentage": 37.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 19,
-      "review_percentage": 42.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 19,
       "review_percentage": 42.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

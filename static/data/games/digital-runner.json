@@ -3,8 +3,8 @@
   "name": "Digital Runner",
   "slug": "digital-runner",
   "developer": "94 Games",
-  "publisher": "94 Games",
-  "release_date": "Mar 26, 2018",
+  "publisher": "",
+  "release_date": "2018-03-26",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -19,35 +19,15 @@
   ],
   "short_description": "It's simple \"bunny hop\" runner. Does not matters how skilled you are, you will lose anyway, but dont worry, that's not your fault. The system is broken.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814190/header.jpg?t=1644498433",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814190/ss_ee3ca1e180fa0cdce90a0e783d1ae61d623b1229.600x338.jpg?t=1644498433",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814190/ss_1cbdfe45a5e6aa671b61a16950a79003bf8b8e5e.600x338.jpg?t=1644498433",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814190/ss_e898119a3f3785b07e895f31d1c405c4e602bde1.600x338.jpg?t=1644498433",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814190/ss_f4e17fd9fda554504011e84dd65890203d368dfb.600x338.jpg?t=1644498433",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814190/ss_1327165802175377c22a689ad4ef5566cbaf0668.600x338.jpg?t=1644498433"
-  ],
-  "detailed_description": "It's simple \"bunny hop\" runner. Does not matters how skilled you are, you will lose anyway, but dont worry, that's not your fault. The system is broken.",
-  "about_the_game": "It's simple \"bunny hop\" runner. Does not matters how skilled you are, you will lose anyway, but dont worry, that's not your fault. The system is broken.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Stats",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

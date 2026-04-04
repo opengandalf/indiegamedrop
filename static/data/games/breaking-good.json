@@ -3,8 +3,8 @@
   "name": "Breaking Good",
   "slug": "breaking-good",
   "developer": "SeekSick6",
-  "publisher": "SeekSick6",
-  "release_date": "Aug 4, 2017",
+  "publisher": "",
+  "release_date": "2017-08-04",
   "price_usd": 0.6,
   "genres": [
     "Casual",
@@ -19,39 +19,17 @@
     "mac",
     "linux"
   ],
-  "short_description": "1 puzzle, 4 views. Grab your test tubes and enter the lab to solve a unique puzzle game based on chemical compounds. Match the chemical elements to get more than 900 different compounds and see how far you can go. Do you have what it takes?",
+  "short_description": "1 puzzle, 4 views. Grab your test tubes and enter the lab to solve a unique puzzle game based on chemical compounds. Match the chemical elements to get more than 900 different compounds and see how fa",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682780/4f30512a047f856c3a282394459526e8c3c1264c/header.jpg?t=1755304696",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682780/ss_f91b7a23b8462392dbef1f089dba7113761e1c9d.600x338.jpg?t=1755304696",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682780/ss_4a9698e06c819520b2ee243934d4d8cce9ed82a0.600x338.jpg?t=1755304696",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682780/ss_8fe15c9dd70197567049e42c938a16ccca81bfb8.600x338.jpg?t=1755304696",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682780/ss_7367bc9ce48d452d864d11ada7b79790a4b8e07f.600x338.jpg?t=1755304696",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682780/ss_964861a0d1b95aed2b7c44d77e5c4d89a1087067.600x338.jpg?t=1755304696",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682780/ss_adace24d4c0bae056f5ce825d4169a456fa92e69.600x338.jpg?t=1755304696"
-  ],
-  "detailed_description": "As many of you are wondering how the game works, here's a brief explanation.<br />\r\n<br />\r\nYou have four views of the puzzle so that you can see the totality of available blocks to match. You can swap one block vertically or rotate an entire horizontal row of blocks so that you can make several matches at once if available.<br />\r\n<br />\r\nYou can also shuffle blocks which may result in several matches at once and help you to reach the goal faster.<br />\r\n<br />\r\nThe smallest number of blocks you can match is 3 which will give you 1 atom and for each additional matched block you get twice more atoms (e.g. 4 block matches gives you 2 atoms, 5 block matches gives you 4 atoms and so on).<br />\r\n<br />\r\nYou can see those atoms in the counter on your screen. You can match any number of blocks in any shape (with a minimum of 3 blocks, as stated previously).<br />\r\n<br />\r\nTo advance in the game you must reach the goal indicated on your screen. For example to make water (H₂O), you need either two 3 block matches or one 4 block match of H (hydrogen) to get 2 atoms of H (hydrogen) and also one 3 block match of O (oxygen) to get 1 atom of O (oxygen).<br />\r\n<br />\r\nOn the top of the screen you have total score, last match/combo score and the best match/combo score. It's more advantageous to make combos as the total score is the sum of all atoms multiplied by the match count. Let's say you've got 5 matches at once with the score of 1, 1, 2, 4, 4, then the total score would translate like this: (1 + 1 + 2 + 4 + 4) × 5 = 60.<br />\r\n<br />\r\nWhen the goal is achieved, a new goal will be set and the elements will be replaced accordingly. For example, all carbon blocks will be replaced with uranium, all sulfur blocks replaced with potassium and so on, so that you don't lose any previously available match/combo.",
-  "about_the_game": "As many of you are wondering how the game works, here's a brief explanation.<br />\r\n<br />\r\nYou have four views of the puzzle so that you can see the totality of available blocks to match. You can swap one block vertically or rotate an entire horizontal row of blocks so that you can make several matches at once if available.<br />\r\n<br />\r\nYou can also shuffle blocks which may result in several matches at once and help you to reach the goal faster.<br />\r\n<br />\r\nThe smallest number of blocks you can match is 3 which will give you 1 atom and for each additional matched block you get twice more atoms (e.g. 4 block matches gives you 2 atoms, 5 block matches gives you 4 atoms and so on).<br />\r\n<br />\r\nYou can see those atoms in the counter on your screen. You can match any number of blocks in any shape (with a minimum of 3 blocks, as stated previously).<br />\r\n<br />\r\nTo advance in the game you must reach the goal indicated on your screen. For example to make water (H₂O), you need either two 3 block matches or one 4 block match of H (hydrogen) to get 2 atoms of H (hydrogen) and also one 3 block match of O (oxygen) to get 1 atom of O (oxygen).<br />\r\n<br />\r\nOn the top of the screen you have total score, last match/combo score and the best match/combo score. It's more advantageous to make combos as the total score is the sum of all atoms multiplied by the match count. Let's say you've got 5 matches at once with the score of 1, 1, 2, 4, 4, then the total score would translate like this: (1 + 1 + 2 + 4 + 4) × 5 = 60.<br />\r\n<br />\r\nWhen the goal is achieved, a new goal will be set and the elements will be replaced accordingly. For example, all carbon blocks will be replaced with uranium, all sulfur blocks replaced with potassium and so on, so that you don't lose any previously available match/combo.",
-  "supported_languages": "English, French, Spanish - Spain, Portuguese - Portugal, Russian, Ukrainian, German, Portuguese - Brazil, Korean, Polish, Czech, Arabic, Traditional Chinese, Simplified Chinese, Italian, Turkish, Thai, Japanese, Greek, Danish, Dutch, Romanian, Finnish, Swedish, Bulgarian, Hungarian, Norwegian, Belarusian, Indonesian, Croatian, Estonian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Stats",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 113,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 7.9,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 158,
-  "review_positive": 139,
+  "review_positive": 0,
   "review_percentage": 88.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 157,
-      "review_percentage": 88.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 158,
       "review_percentage": 88.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

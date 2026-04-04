@@ -3,8 +3,8 @@
   "name": "Inky Blinky Bob",
   "slug": "inky-blinky-bob",
   "developer": "ELDELIC GAMES",
-  "publisher": "ELDELIC GAMES",
-  "release_date": "Mar 20, 2026",
+  "publisher": "",
+  "release_date": "2026-03-20",
   "price_usd": 12.74,
   "genres": [
     "Action",
@@ -19,127 +19,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Fly a weaponized hot air balloon across a chain of dangerous islands overrun by failed experiments. Scavenge resources, upgrade your flying machine, and dismantle the defenses of an occult biotech corporation before its greatest creation breaks free.",
+  "short_description": "Fly a weaponized hot air balloon across a chain of dangerous islands overrun by failed experiments. Scavenge resources, upgrade your flying machine, and dismantle the defenses of an occult biotech cor",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/3b9da66428ddee2fda62ac2d087454d3a9876937/header.jpg?t=1774029615",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/2640a7da5d600a3084c3cfad916da521ab586c59/ss_2640a7da5d600a3084c3cfad916da521ab586c59.600x338.jpg?t=1774029615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/d88bc11f1c9382844c02442bf0cf5b6588a4bdb9/ss_d88bc11f1c9382844c02442bf0cf5b6588a4bdb9.600x338.jpg?t=1774029615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/8e029225ecdea679ab6361c24e2e1fb8c6515d63/ss_8e029225ecdea679ab6361c24e2e1fb8c6515d63.600x338.jpg?t=1774029615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/874e7f0fb5c05568fe2e14c4fddce17d815915c9/ss_874e7f0fb5c05568fe2e14c4fddce17d815915c9.600x338.jpg?t=1774029615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/1657d3c585a8c5dba598a7d36c443484ac510eaf/ss_1657d3c585a8c5dba598a7d36c443484ac510eaf.600x338.jpg?t=1774029615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/6032d1781539162c41d0b9d219e4015c50fc8104/ss_6032d1781539162c41d0b9d219e4015c50fc8104.600x338.jpg?t=1774029615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/a1e5f410c20e778a90e5a43b49252ab8514755c6/ss_a1e5f410c20e778a90e5a43b49252ab8514755c6.600x338.jpg?t=1774029615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/41830e2d8954a10594303d6f27976446caf775e3/ss_41830e2d8954a10594303d6f27976446caf775e3.600x338.jpg?t=1774029615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/2bfd2b03538e64342d7e5d758be10c14e2a5c674/ss_2bfd2b03538e64342d7e5d758be10c14e2a5c674.600x338.jpg?t=1774029615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/7c534dac15138ec10d142182909f69df7d307951/ss_7c534dac15138ec10d142182909f69df7d307951.600x338.jpg?t=1774029615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/100069b96edc454da6ed1a2fb3c9d90a3e929a2d/ss_100069b96edc454da6ed1a2fb3c9d90a3e929a2d.600x338.jpg?t=1774029615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/9c5651fa3f407fa0f25a7f1ce76fc04ae6572bee/ss_9c5651fa3f407fa0f25a7f1ce76fc04ae6572bee.600x338.jpg?t=1774029615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/cbe0f62d5aebd9275e50c4ebefd9086b59a8c108/ss_cbe0f62d5aebd9275e50c4ebefd9086b59a8c108.600x338.jpg?t=1774029615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/49c09db18f292340a86be59ab0c7d2ec8cf87fc4/ss_49c09db18f292340a86be59ab0c7d2ec8cf87fc4.600x338.jpg?t=1774029615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/ea01931a2eb909016c22597bb7b162d84cab1de2/ss_ea01931a2eb909016c22597bb7b162d84cab1de2.600x338.jpg?t=1774029615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/15daf523f3165e0b35a138f2fc159d03598329f6/ss_15daf523f3165e0b35a138f2fc159d03598329f6.600x338.jpg?t=1774029615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/69b7cb2b0af31933d08df97e97e6df19ecda9689/ss_69b7cb2b0af31933d08df97e97e6df19ecda9689.600x338.jpg?t=1774029615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/767ee70d6cf502d266e35533c4e9b54dabd9f15d/ss_767ee70d6cf502d266e35533c4e9b54dabd9f15d.600x338.jpg?t=1774029615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/6c8d57d5694be4556656a25ae90bb69e8a53fe7e/ss_6c8d57d5694be4556656a25ae90bb69e8a53fe7e.600x338.jpg?t=1774029615",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/5834a3d3c892b546f5d3d5823e3214eef1ad42f8/ss_5834a3d3c892b546f5d3d5823e3214eef1ad42f8.600x338.jpg?t=1774029615"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" style=\"text-align: center\"><strong>Pilot a weaponized hot air balloon through hostile skies.</strong><br><strong>Scavenge, fight and survive against an occult biotech corporation hiding a world ending mistake.   </strong> <br><strong>A stylized action horror game with aerial combat, and survival mechanics.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/0fa402586870791651b69b958e6cbd24.avif?t=1774029615\" width=1560 height=159 /></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/4a733d124fd706f4079c67367d062e9a.poster.avif?t=1774029615\" width=1170 height=468 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/4a733d124fd706f4079c67367d062e9a.webm?t=1774029615\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/4a733d124fd706f4079c67367d062e9a.mp4?t=1774029615\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><strong>Everything you need comes from the world itself or from people who barely survived it.</strong><br><strong>Scrap, metal sheets, gears, and cloth are used to repair damage and improve your flying machine.</strong></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/d949ce5c20b1d5a8c7d3ef22144bd4da.avif?t=1774029615\" width=1560 height=159 /></span></h2><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/d52613d6f582970b248233ba1bc9a44a.poster.avif?t=1774029615\" width=1170 height=468 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/d52613d6f582970b248233ba1bc9a44a.webm?t=1774029615\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/d52613d6f582970b248233ba1bc9a44a.mp4?t=1774029615\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><strong>Use mounted weapons to fight Blinky and when things get too close fight back with an axe or shotgun.</strong><br><strong>Manage limited med kits, and get airborne again before you’re overrun.</strong></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/e84fb6761def964b0ac7f8974bc4bdde.avif?t=1774029615\" width=1560 height=159 /></span></h2><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/1673a450bfef4d0c61e2f7262bdb1034.poster.avif?t=1774029615\" width=1170 height=468 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/1673a450bfef4d0c61e2f7262bdb1034.webm?t=1774029615\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/1673a450bfef4d0c61e2f7262bdb1034.mp4?t=1774029615\" type=\"video/mp4\"></video></span><strong>Quantum Corp’s underground facility is sealed beneath a massive energy dome.</strong><br><strong>The only way in is by powering Tesla Towers spread across the islands.</strong></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/ac2fed9a9062b44d98194bc95acecff5.avif?t=1774029615\" width=1560 height=159 /></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/d3f874c0321ce0be0558cb4c02a688c2.poster.avif?t=1774029615\" width=1170 height=468 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/d3f874c0321ce0be0558cb4c02a688c2.webm?t=1774029615\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/d3f874c0321ce0be0558cb4c02a688c2.mp4?t=1774029615\" type=\"video/mp4\"></video></span></h2><p class=\"bb_paragraph\" style=\"text-align: center\"><strong>Your flying machine isn’t just transport, it’s how the game is built.</strong><br><strong>Take off, fly freely between islands and approach objectives from above.</strong></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/ff1d14f3c4fec23ed4cd4f7d251723a0.avif?t=1774029615\" width=1560 height=159 /></span></h2><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/60126c66bead491496eb7201ace43f83.poster.avif?t=1774029615\" width=1170 height=468 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/60126c66bead491496eb7201ace43f83.webm?t=1774029615\" type=\"video/webm; codecs=vp9\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><strong>The islands are home to strange survivors with their own problems and ideas.</strong><br><strong>They offer gigs, weapons and materials, usually in exchange for something dangerous or weird.</strong></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/be7c3289ba00c033b6d614b5c4b3ec71.avif?t=1774029615\" width=1560 height=159 /></span></h2><p class=\"bb_paragraph\" style=\"text-align: center\"><strong>Night never really goes away. The skies look wrong.</strong><br><strong>Things are dangerous but they rarely play out the way you expect.  </strong><br><strong>Anything that starts serious usually doesn’t stay that way for long.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" style=\"text-align: center\"><strong>Pilot a weaponized hot air balloon through hostile skies.</strong><br><strong>Scavenge, fight and survive against an occult biotech corporation hiding a world ending mistake.   </strong> <br><strong>A stylized action horror game with aerial combat, and survival mechanics.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/0fa402586870791651b69b958e6cbd24.avif?t=1774029615\" width=1560 height=159 /></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/4a733d124fd706f4079c67367d062e9a.poster.avif?t=1774029615\" width=1170 height=468 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/4a733d124fd706f4079c67367d062e9a.webm?t=1774029615\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/4a733d124fd706f4079c67367d062e9a.mp4?t=1774029615\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><strong>Everything you need comes from the world itself or from people who barely survived it.</strong><br><strong>Scrap, metal sheets, gears, and cloth are used to repair damage and improve your flying machine.</strong></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/d949ce5c20b1d5a8c7d3ef22144bd4da.avif?t=1774029615\" width=1560 height=159 /></span></h2><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/d52613d6f582970b248233ba1bc9a44a.poster.avif?t=1774029615\" width=1170 height=468 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/d52613d6f582970b248233ba1bc9a44a.webm?t=1774029615\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/d52613d6f582970b248233ba1bc9a44a.mp4?t=1774029615\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><strong>Use mounted weapons to fight Blinky and when things get too close fight back with an axe or shotgun.</strong><br><strong>Manage limited med kits, and get airborne again before you’re overrun.</strong></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/e84fb6761def964b0ac7f8974bc4bdde.avif?t=1774029615\" width=1560 height=159 /></span></h2><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/1673a450bfef4d0c61e2f7262bdb1034.poster.avif?t=1774029615\" width=1170 height=468 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/1673a450bfef4d0c61e2f7262bdb1034.webm?t=1774029615\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/1673a450bfef4d0c61e2f7262bdb1034.mp4?t=1774029615\" type=\"video/mp4\"></video></span><strong>Quantum Corp’s underground facility is sealed beneath a massive energy dome.</strong><br><strong>The only way in is by powering Tesla Towers spread across the islands.</strong></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/ac2fed9a9062b44d98194bc95acecff5.avif?t=1774029615\" width=1560 height=159 /></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/d3f874c0321ce0be0558cb4c02a688c2.poster.avif?t=1774029615\" width=1170 height=468 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/d3f874c0321ce0be0558cb4c02a688c2.webm?t=1774029615\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/d3f874c0321ce0be0558cb4c02a688c2.mp4?t=1774029615\" type=\"video/mp4\"></video></span></h2><p class=\"bb_paragraph\" style=\"text-align: center\"><strong>Your flying machine isn’t just transport, it’s how the game is built.</strong><br><strong>Take off, fly freely between islands and approach objectives from above.</strong></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/ff1d14f3c4fec23ed4cd4f7d251723a0.avif?t=1774029615\" width=1560 height=159 /></span></h2><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/60126c66bead491496eb7201ace43f83.poster.avif?t=1774029615\" width=1170 height=468 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/60126c66bead491496eb7201ace43f83.webm?t=1774029615\" type=\"video/webm; codecs=vp9\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><strong>The islands are home to strange survivors with their own problems and ideas.</strong><br><strong>They offer gigs, weapons and materials, usually in exchange for something dangerous or weird.</strong></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4305130/extras/be7c3289ba00c033b6d614b5c4b3ec71.avif?t=1774029615\" width=1560 height=159 /></span></h2><p class=\"bb_paragraph\" style=\"text-align: center\"><strong>Night never really goes away. The skies look wrong.</strong><br><strong>Things are dangerous but they rarely play out the way you expect.  </strong><br><strong>Anything that starts serious usually doesn’t stay that way for long.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Custom Volume Controls",
-    "Stereo Sound",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0431,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 18.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
   "classification": "new_release",
-  "review_count": 30,
-  "review_positive": 26,
-  "review_percentage": 86.7,
+  "review_count": 21,
+  "review_positive": 0,
+  "review_percentage": 81.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 4,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 5,
-      "review_percentage": 60.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
-      "review_count": 19,
-      "review_percentage": 78.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 21,
       "review_percentage": 81.0,
       "ccu_estimate": 0,
       "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
-      "review_count": 30,
-      "review_percentage": 86.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    }
-  ],
-  "reviews": [
-    {
-      "review_id": "221193401",
-      "author_steamid": "76561198020313592",
-      "voted_up": true,
-      "votes_up": 15,
-      "playtime_at_review": 464,
-      "review_text": "[h2]Inky Blinky Bob - Review[/h2]\r\n\r\nInky Blinky Bob wants and tries to be a lot of things: a vehicle-based FPS, a survival horror, an open-world RPG and, at times, a quest-based nonlinear adventure and a stealth game. The saying goes: ‘too many chefs spoil the broth’, and in this case, perhaps ‘too many genres spoil the game’. In some ways, this mish-mash of genres actually works pretty well; in others, much less so. It’s good and all to experiment and blend things together to craft a fine mix, much like cocktails; however, even for the most experienced studios, never mind an Indie one on their first Steam release, this would be a daunting task. The result of great ambitions and only passable execution is still better than most similar cases: a game that works and plays out just well enough to be passable, but not nearly well enough to be actually good, let alone great.\r\n\r\n[b]The full review was written for Summit Reviews' website, you can find it [url=https://summitreviews.biz/article/71/inky-blinky-bob-review]here[/url][/b]\r\n\r\nFollow the [url=https://store.steampowered.com/curator/41449676/]Summit Reviews Curator[/url] and [url=https://summitreviews.biz]Website[/url] to see more high-quality reviews regularly.",
-      "timestamp_created": 1774036667
-    },
-    {
-      "review_id": "221305769",
-      "author_steamid": "76561197964616102",
-      "voted_up": true,
-      "votes_up": 1,
-      "playtime_at_review": 222,
-      "review_text": "When I saw the trailer for this game I thought it'd be too good to be true, but having almost beaten it at this point I want to leave an \"early\" review and just say it's a blast. The writing is simple and funny and straight to the point, the gameplay is varied and satisfying and it lasts you for a few hours. For being an indie title, this game gave so much more than I expected and looks absolutely stellar. With so many different elements in the game it could've ended up too chaotic, but I feel like the devs found a pretty good balance for everything. I found a few bugs during my own stream, but the devs saw it and instantly made a point to get it fixed either today or tomorrow, so they're eager to make sure any potential bugs are stomped out fast. W devs!",
-      "timestamp_created": 1774120718
-    },
-    {
-      "review_id": "221277625",
-      "author_steamid": "76561198848902357",
-      "voted_up": false,
-      "votes_up": 0,
-      "playtime_at_review": 17,
-      "review_text": "The trailer did a great job selling this game but when I jumped in you could just totally tell this was not a quality game at all - poor character mouth movements, beard hair assets clipping through the face, teleportation entering/exiting the balloon, god awful UI art, super boring combat and just full on empty world - I knew in 20 minutes this game was just a quick flip for cash. Avoid.",
-      "timestamp_created": 1774103843
     }
   ]
 }

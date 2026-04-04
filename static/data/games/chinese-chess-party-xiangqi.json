@@ -3,8 +3,8 @@
   "name": "Chinese Chess Party (Xiangqi)",
   "slug": "chinese-chess-party-xiangqi",
   "developer": "Zero",
-  "publisher": "Zero Cores",
-  "release_date": "Mar 21, 2023",
+  "publisher": "",
+  "release_date": "2023-03-21",
   "price_usd": 9.99,
   "genres": [
     "Indie",
@@ -18,48 +18,17 @@
     "windows",
     "mac"
   ],
-  "short_description": "Chinese Chess(Xiangqi) is no longer just a 1v1 game, Chinese Chess Party can support up to 4 players. You can play against the computer on a 1v1 game or even play a 2v2 team game with a computer teammate.",
+  "short_description": "Chinese Chess(Xiangqi) is no longer just a 1v1 game, Chinese Chess Party can support up to 4 players. You can play against the computer on a 1v1 game or even play a 2v2 team game with a computer teamm",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336550/header.jpg?t=1684941545",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336550/ss_c097fb8806c507b0e3ec146027c92df0ab80f696.600x338.jpg?t=1684941545",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336550/ss_54e83756221fbee301d8964e46655ba5920cfa3f.600x338.jpg?t=1684941545",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336550/ss_852718efcf65861b0972315069895ef73819551f.600x338.jpg?t=1684941545",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336550/ss_c2fd8c22cae9575da70c27858b988390669b48b2.600x338.jpg?t=1684941545",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336550/ss_6f6749fbddeba21622c125c0a6acff2453d668df.600x338.jpg?t=1684941545",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336550/ss_8bac1aebc1f6597113124b60f5e011efd0f85e4b.600x338.jpg?t=1684941545"
-  ],
-  "detailed_description": "<strong>Xiangqi</strong>, also known as <strong>Chinese chess</strong> or <strong>elephant chess</strong>, is a strategy board game for two players. The game represents a battle between two armies, with the primary objective to checkmate the enemy's king.<br><br>Besides all the traditional features, this game provides more experiences:<br><br>* Support up to 4 players in a game.<br>* Support iconic piece(instead of conventional Chinese characters) for easy recognition.<br>* Online ranked game and leaderboards.<br>* Non-ranked lobby game with friends or other casual players.<br>* 5 AI levels ranging from easy to master.<br>* Post-match analysis by powerful AI.<br>* Real-time analysis by powerful AI when you play offline games.<br><br>Note: AI level depends on the computer hardware configuration",
-  "about_the_game": "<strong>Xiangqi</strong>, also known as <strong>Chinese chess</strong> or <strong>elephant chess</strong>, is a strategy board game for two players. The game represents a battle between two armies, with the primary objective to checkmate the enemy's king.<br><br>Besides all the traditional features, this game provides more experiences:<br><br>* Support up to 4 players in a game.<br>* Support iconic piece(instead of conventional Chinese characters) for easy recognition.<br>* Online ranked game and leaderboards.<br>* Non-ranked lobby game with friends or other casual players.<br>* 5 AI levels ranging from easy to master.<br>* Post-match analysis by powerful AI.<br>* Real-time analysis by powerful AI when you play offline games.<br><br>Note: AI level depends on the computer hardware configuration",
-  "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Vietnamese<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Shared/Split Screen PvP",
-    "Co-op",
-    "Online Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Stats",
-    "Steam Leaderboards",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.5,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 10,
-  "review_positive": 10,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -67,19 +36,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 10,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

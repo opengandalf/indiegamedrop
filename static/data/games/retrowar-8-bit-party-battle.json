@@ -3,8 +3,8 @@
   "name": "RetroWar: 8-bit Party Battle",
   "slug": "retrowar-8-bit-party-battle",
   "developer": "Electron Studio",
-  "publisher": "Electron Studio",
-  "release_date": "Jun 17, 2019",
+  "publisher": "",
+  "release_date": "2019-06-17",
   "price_usd": 9.99,
   "genres": [
     "Action",
@@ -19,41 +19,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "RetroWar is an 80s arcade multiplayer party battle! Compete against up to 15 of your friends on a very large couch in 7 different games, all inspired by 8-bit classics, each with multiple levels. Customize the games with level editor and mod tools.",
+  "short_description": "RetroWar is an 80s arcade multiplayer party battle! Compete against up to 15 of your friends on a very large couch in 7 different games, all inspired by 8-bit classics, each with multiple levels. Cust",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664240/header.jpg?t=1606509202",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664240/ss_58fecc790436b05554370b86f0779e259884dbc4.600x338.jpg?t=1606509202",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664240/ss_14e5b9c1ccfde22b83618bf03e8ffce60e8088e2.600x338.jpg?t=1606509202",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664240/ss_196912b35b3df1527839499d504974bd17b2aba4.600x338.jpg?t=1606509202",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664240/ss_5c86d05bbc8c1268a0efd01201c1016c9eeca0d8.600x338.jpg?t=1606509202",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664240/ss_90208dbf12fcc5bcfaec8ec47f60989582d008ab.600x338.jpg?t=1606509202",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664240/ss_8cba58a123e84b15785a5792080493addc0151d5.600x338.jpg?t=1606509202",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/664240/ss_443a5b74d1f4c15c86dfa304da8ec408bf706165.600x338.jpg?t=1606509202"
-  ],
-  "detailed_description": "<strong>RetroWar</strong> is a collection of 8-bit <i>retro style</i> arcade games.  Currently we are focused on <strong>single-screen multiplayer games</strong> that you play with your friends <i>locally</i> (i.e. sitting on the couch together.)  <strong>Most of the games don't have single player mode</strong> (If you <i>want</i> single player mode then vote for it in the forums!)<h2 class=\"bb_tag\" >Games</h2><br><ul class=\"bb_ul\"><li><strong>Spaceships</strong> - vector thrust in the tradition of SpaceWar / Asteroids  / Subspace.<br></li><li><strong>Droids</strong> - fast-paced twin stick shooter.<br></li><li><strong>Tanks</strong> - tactical sniping game .<br></li><li><strong>Bomb Bots</strong> - drop bombs to blow up your opponents, but don't get caught in the blast.<br></li><li><strong>Ghost Jumpers</strong> - platform race to be first while jumping over spooky enemies.<br></li><li><strong>SnakeEaters</strong> - the classic snake game.<br></li><li><strong>Balloonacy</strong> - mash buttons to fill your balloon.</li></ul><br>Our <strong>UniBlaster</strong> game engine is designed with the specs of a 'fantasy' 1980s console, akin to an NES, but with modern standards for framerate, aspect ratio and controller input.  It's easily extensible, so you can mod games, mash up different games, or even create your own.<h2 class=\"bb_tag\" >Features</h2><br><ul class=\"bb_ul\"><li><strong>Authentic</strong>: old school low resolution gaming - no mixing of different sized pixels here.<br></li><li><strong>Controls</strong>: modern controllers/keyboard/mouse, but still fully playable with a NES or SNES style controller.<br></li><li><strong>Music</strong>: authentic soundtracker mods and  8-bit chiptunes.<br></li><li><strong>Modable</strong>: change the music, graphics, rules, or write your own games.<br></li><li><strong>16 local players</strong></li></ul><h2 class=\"bb_tag\" >Early Access plans</h2><br>We want feedback from you as to what you would like to play.  None of these features are guaranteed, but we plan to work on the features you support.<br><br><ul class=\"bb_ul\"><li>Steam Workshop  (download games and mods made by fans).<br></li><li>Online multiplayer.<br></li><li>Linux and Mac support.<br></li><li>JumpJet Troopers - run and gun game.<br></li><li>Artillery game.<br></li><li>Football mod for Droids.</li></ul>",
-  "about_the_game": "<strong>RetroWar</strong> is a collection of 8-bit <i>retro style</i> arcade games.  Currently we are focused on <strong>single-screen multiplayer games</strong> that you play with your friends <i>locally</i> (i.e. sitting on the couch together.)  <strong>Most of the games don't have single player mode</strong> (If you <i>want</i> single player mode then vote for it in the forums!)<h2 class=\"bb_tag\" >Games</h2><br><ul class=\"bb_ul\"><li><strong>Spaceships</strong> - vector thrust in the tradition of SpaceWar / Asteroids  / Subspace.<br></li><li><strong>Droids</strong> - fast-paced twin stick shooter.<br></li><li><strong>Tanks</strong> - tactical sniping game .<br></li><li><strong>Bomb Bots</strong> - drop bombs to blow up your opponents, but don't get caught in the blast.<br></li><li><strong>Ghost Jumpers</strong> - platform race to be first while jumping over spooky enemies.<br></li><li><strong>SnakeEaters</strong> - the classic snake game.<br></li><li><strong>Balloonacy</strong> - mash buttons to fill your balloon.</li></ul><br>Our <strong>UniBlaster</strong> game engine is designed with the specs of a 'fantasy' 1980s console, akin to an NES, but with modern standards for framerate, aspect ratio and controller input.  It's easily extensible, so you can mod games, mash up different games, or even create your own.<h2 class=\"bb_tag\" >Features</h2><br><ul class=\"bb_ul\"><li><strong>Authentic</strong>: old school low resolution gaming - no mixing of different sized pixels here.<br></li><li><strong>Controls</strong>: modern controllers/keyboard/mouse, but still fully playable with a NES or SNES style controller.<br></li><li><strong>Music</strong>: authentic soundtracker mods and  8-bit chiptunes.<br></li><li><strong>Modable</strong>: change the music, graphics, rules, or write your own games.<br></li><li><strong>16 local players</strong></li></ul><h2 class=\"bb_tag\" >Early Access plans</h2><br>We want feedback from you as to what you would like to play.  None of these features are guaranteed, but we plan to work on the features you support.<br><br><ul class=\"bb_ul\"><li>Steam Workshop  (download games and mods made by fans).<br></li><li>Online multiplayer.<br></li><li>Linux and Mac support.<br></li><li>JumpJet Troopers - run and gun game.<br></li><li>Artillery game.<br></li><li>Football mod for Droids.</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Shared/Split Screen",
-    "Full controller support",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 8,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -61,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 8,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

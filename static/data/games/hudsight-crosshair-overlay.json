@@ -3,8 +3,8 @@
   "name": "HudSight - crosshair overlay",
   "slug": "hudsight-crosshair-overlay",
   "developer": "Eduard Kozadaev",
-  "publisher": "Eduard Kozadaev",
-  "release_date": "Jan 5, 2021",
+  "publisher": "",
+  "release_date": "2021-01-05",
   "price_usd": 4.79,
   "genres": [
     "Action",
@@ -23,34 +23,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Create unique crosshairs for any game! Choose from many built-in crosshairs or download from the Steam Workshop, and create your own. User-friendly interface, anti-cheat compatible. Customize your gaming experience!",
+  "short_description": "Create unique crosshairs for any game! Choose from many built-in crosshairs or download from the Steam Workshop, and create your own. User-friendly interface, anti-cheat compatible. Customize your gam",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477830/header.jpg?t=1756228884",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477830/ss_51c13766554f2c28cf9da686cbcd48d0971f8a1e.600x338.jpg?t=1756228884",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477830/ss_5020957ac76334b4a8b9af38bf79eaea9c9b4cf3.600x338.jpg?t=1756228884",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477830/ss_278f61252534a47372c14c37fe291de369670e57.600x338.jpg?t=1756228884",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477830/ss_776b78c295bcdc9f6b5eeb7d345bd7d3c6f28569.600x338.jpg?t=1756228884",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1477830/ss_22ed43d22be3400bd1aaadb5bd309f645c735fc2.600x338.jpg?t=1756228884"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Add your crosshair to any game! You can use a crosshair from the set of pre-built images, create your own in our image editor or crosshair generator, or choose one of the crosshairs created by our community.</p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Rendering</strong> | HudSight can use the traditional technique using Hooks, as well as secure ways via Microsoft Game Bar extension or our Real Overlay technique. </p></li><li><p class=\"bb_paragraph\" ><strong>Generator</strong> | By adjusting various parameters in the crosshair generator you can quickly create your unique crosshair. </p></li><li><p class=\"bb_paragraph\" ><strong>Image Editor</strong> | The raster (pixel) editor allows you to draw any unusual crosshair. </p></li><li><p class=\"bb_paragraph\" ><strong>Images</strong> | Import any image from your disk to use as a crosshair. </p></li><li><p class=\"bb_paragraph\" ><strong>Workshop</strong> | Use crosshairs created by the Steam community, or share your own. </p></li><li><p class=\"bb_paragraph\" ><strong>Multi-crosshair</strong> | Use key bindings for quick switching between crosshairs or toggling crosshair visibility. </p></li><li><p class=\"bb_paragraph\" ><strong>Offset, scale, lean</strong> | Set the offset relative to the center of the screen, as well as the scale or tilt for each crosshair. </p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Core feature of our software is a unique overlay rendering technique which is applicable both for full screen exclusive and windowed modes. Every gamer knows that playing in full screen mode offers maximum performance and minimal input lag. However, there is a problem with common \"on top\" overlay tools - they cannot work in the exclusive full screen mode. HudSight solves this problem by allowing you to add overlays even in full screen games! </p><p class=\"bb_paragraph\" >Moreover HudSight has special overlay rendering ability using its own Microsoft Game Bar extension. This is more safe technique in the case of games (anti-cheats) that are too afraid of hooks. Don't you like Game Bar? Use our Real Overlay mode to draw overlays \"as Game Bar\" but without Game Bar.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >HudSight supports games based on DirectX 9, 10, 11, 12, OpenGL and Vulkan graphics. 32 and 64-bits games are welcome on  Windows 10/11.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Add your crosshair to any game! You can use a crosshair from the set of pre-built images, create your own in our image editor or crosshair generator, or choose one of the crosshairs created by our community.</p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Rendering</strong> | HudSight can use the traditional technique using Hooks, as well as secure ways via Microsoft Game Bar extension or our Real Overlay technique. </p></li><li><p class=\"bb_paragraph\" ><strong>Generator</strong> | By adjusting various parameters in the crosshair generator you can quickly create your unique crosshair. </p></li><li><p class=\"bb_paragraph\" ><strong>Image Editor</strong> | The raster (pixel) editor allows you to draw any unusual crosshair. </p></li><li><p class=\"bb_paragraph\" ><strong>Images</strong> | Import any image from your disk to use as a crosshair. </p></li><li><p class=\"bb_paragraph\" ><strong>Workshop</strong> | Use crosshairs created by the Steam community, or share your own. </p></li><li><p class=\"bb_paragraph\" ><strong>Multi-crosshair</strong> | Use key bindings for quick switching between crosshairs or toggling crosshair visibility. </p></li><li><p class=\"bb_paragraph\" ><strong>Offset, scale, lean</strong> | Set the offset relative to the center of the screen, as well as the scale or tilt for each crosshair. </p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Core feature of our software is a unique overlay rendering technique which is applicable both for full screen exclusive and windowed modes. Every gamer knows that playing in full screen mode offers maximum performance and minimal input lag. However, there is a problem with common \"on top\" overlay tools - they cannot work in the exclusive full screen mode. HudSight solves this problem by allowing you to add overlays even in full screen games! </p><p class=\"bb_paragraph\" >Moreover HudSight has special overlay rendering ability using its own Microsoft Game Bar extension. This is more safe technique in the case of games (anti-cheats) that are too afraid of hooks. Don't you like Game Bar? Use our Real Overlay mode to draw overlays \"as Game Bar\" but without Game Bar.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >HudSight supports games based on DirectX 9, 10, 11, 12, OpenGL and Vulkan graphics. 32 and 64-bits games are welcome on  Windows 10/11.</p>",
-  "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Bulgarian<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Swedish<strong>*</strong>, Thai<strong>*</strong>, Turkish<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Achievements",
-    "Steam Workshop"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 4971,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 5359,
-  "review_positive": 4777,
+  "review_positive": 0,
   "review_percentage": 89.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4677,
-      "review_percentage": 88.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 5359,
       "review_percentage": 89.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

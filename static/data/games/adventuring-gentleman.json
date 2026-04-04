@@ -3,8 +3,8 @@
   "name": "Adventuring Gentleman",
   "slug": "adventuring-gentleman",
   "developer": "Ernests Klavins",
-  "publisher": "Ernests Klavins",
-  "release_date": "Apr 10, 2017",
+  "publisher": "",
+  "release_date": "2017-04-10",
   "price_usd": 0.99,
   "genres": [
     "Action"
@@ -15,73 +15,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Adventuring Gentleman is a steampunk roguelite platform shooter where you can go on a number ofadventures offered by your clubhouse members. Each adventure consists of procedurally generated floor with enemy wave sequences unique tothe chosen adventure. Each adventure has three difficulty levels and lengths.",
+  "short_description": "Adventuring Gentleman is a steampunk roguelite platform shooter where you can go on a number ofadventures offered by your clubhouse members. Each adventure consists of procedurally generated floor wit",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564280/header.jpg?t=1492422359",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564280/ss_7837b4e26c28a7cf5db655c0dd81206dd5e1ed6c.600x338.jpg?t=1492422359",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564280/ss_631a3fa39d7fe1a8b93466e96e0f82a547231f7a.600x338.jpg?t=1492422359",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564280/ss_51d98c4e75f9254996563702d877188815656c4e.600x338.jpg?t=1492422359",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564280/ss_905a8ccf820a5f8d2e49c53aacc8a92af6566509.600x338.jpg?t=1492422359",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564280/ss_a7b05947f296b94fbab5fb2c7faff2028121c77f.600x338.jpg?t=1492422359",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564280/ss_62d4381816b1f7e849011fef17f394c300c15622.600x338.jpg?t=1492422359",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564280/ss_5d3a5bdd5fc644aaa798c74b100dbcc81bdcba67.600x338.jpg?t=1492422359",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564280/ss_5c8a84605534ce163c4f37626b516588723d44cc.600x338.jpg?t=1492422359",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564280/ss_7995f570eae19a4042c044af12ceacdb3f9559e4.600x338.jpg?t=1492422359"
-  ],
-  "detailed_description": "Adventuring Gentleman is a steampunk roguelite platform shooter where you can go on a number ofadventures offered by your clubhouse members. Each adventure consists of procedurally generated floor with enemy wave sequences unique tothe chosen adventure. Each adventure has three difficulty levels and lengths.<br />\r\n<br />\r\nAfter beating each floor you are offered a choise from two powerups which will make you stronger, change playstyle and alter your dashing looks.<br />\r\n<br />\r\nDepending on the length of an adventure you will face up to three boss battles with varied and very nasty adversaries with changing behaviour.",
-  "about_the_game": "Adventuring Gentleman is a steampunk roguelite platform shooter where you can go on a number ofadventures offered by your clubhouse members. Each adventure consists of procedurally generated floor with enemy wave sequences unique tothe chosen adventure. Each adventure has three difficulty levels and lengths.<br />\r\n<br />\r\nAfter beating each floor you are offered a choise from two powerups which will make you stronger, change playstyle and alter your dashing looks.<br />\r\n<br />\r\nDepending on the length of an adventure you will face up to three boss battles with varied and very nasty adversaries with changing behaviour.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Steam Achievements",
-    "Steam Trading Cards",
-    "Partial Controller Support",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.4000000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 28,
-  "review_positive": 22,
+  "review_positive": 0,
   "review_percentage": 78.6,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 351,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 29,
-      "review_percentage": 79.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 28,
-      "review_percentage": 78.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 28,
       "review_percentage": 78.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

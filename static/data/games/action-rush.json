@@ -3,8 +3,8 @@
   "name": "Action Rush",
   "slug": "action-rush",
   "developer": "ThroneLab",
-  "publisher": "ThroneLab",
-  "release_date": "Dec 15, 2017",
+  "publisher": "",
+  "release_date": "2017-12-15",
   "price_usd": 2.99,
   "genres": [
     "Casual",
@@ -21,33 +21,15 @@
   ],
   "short_description": "Simple racing game. Our goal is to reach the exit by coming from the top of simple obstacles in 10 different maps.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/758920/header.jpg?t=1592375295",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/758920/ss_d7c4b1655c99993d3675b24696e78747e92c9d2d.600x338.jpg?t=1592375295",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/758920/ss_7ecf0b86ca45566f7a1dc9c12ca16cba2d82bb74.600x338.jpg?t=1592375295",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/758920/ss_dd3269ace2fdd24f6d1352a069d4a07537ffec62.600x338.jpg?t=1592375295",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/758920/ss_516f0afd0b9cdadbb6dd48cf4f1dcbfa5f2dccba.600x338.jpg?t=1592375295",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/758920/ss_63ce45757e70e054ddfbe560960bf302b724623c.600x338.jpg?t=1592375295"
-  ],
-  "detailed_description": "A contest game based on running and jumping, consisting of simple mappings. Our goal is to reach the exit area from the top of the obstacles in 10 different maps.<br />\r\nWe need some things to overcome the difficulties in this game that has a lot of obstacles to look for. You need to find out the qualities you need, there is no help for it.<br />\r\n<br />\r\n\"The important thing is not to be seen hard but to see what is easy.\"<br />\r\n<br />\r\nNOTE: Please install this from game directory: Engine/Extras/Redist/en-us/UE4PrereqSetup_x86.exe",
-  "about_the_game": "A contest game based on running and jumping, consisting of simple mappings. Our goal is to reach the exit area from the top of the obstacles in 10 different maps.<br />\r\nWe need some things to overcome the difficulties in this game that has a lot of obstacles to look for. You need to find out the qualities you need, there is no help for it.<br />\r\n<br />\r\n\"The important thing is not to be seen hard but to see what is easy.\"<br />\r\n<br />\r\nNOTE: Please install this from game directory: Engine/Extras/Redist/en-us/UE4PrereqSetup_x86.exe",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 2.85,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 57,
-  "review_positive": 28,
+  "review_positive": 0,
   "review_percentage": 49.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 55,
-      "review_percentage": 49.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 57,
       "review_percentage": 49.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

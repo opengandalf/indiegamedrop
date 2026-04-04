@@ -3,8 +3,8 @@
   "name": "Perfect Balance",
   "slug": "perfect-balance",
   "developer": "Output Enable Studio",
-  "publisher": "Output Enable Studio",
-  "release_date": "Jan 1, 2022",
+  "publisher": "",
+  "release_date": "2022-01-01",
   "price_usd": 1.99,
   "genres": [
     "Casual",
@@ -21,36 +21,11 @@
     "mac",
     "linux"
   ],
-  "short_description": "A minimalist physics simulation game about balancing weights of different shapes and sizes on a tilting platform. Simple controls let you drag and drop weights wherever you choose, and upgrades will make the balancing easier.",
+  "short_description": "A minimalist physics simulation game about balancing weights of different shapes and sizes on a tilting platform. Simple controls let you drag and drop weights wherever you choose, and upgrades will m",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1828770/header.jpg?t=1641055570",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1828770/ss_1d1c4530565cbb00f775f4491ecdf901e10eb25d.600x338.jpg?t=1641055570",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1828770/ss_385ec00c25602bd863fb9024fd870fa62e6e7a77.600x338.jpg?t=1641055570",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1828770/ss_b47348fe734613a8d4d4bf6b8ef485e27029ea6a.600x338.jpg?t=1641055570",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1828770/ss_db80bc8bc6b6d8e759e03606d162d35234d61bf1.600x338.jpg?t=1641055570",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1828770/ss_52e135b98acde94d6c382867dafe606e58dd0901.600x338.jpg?t=1641055570",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1828770/ss_b90961f8f8fe8e3a6e53f4c1e1ccb046bf1e0682.600x338.jpg?t=1641055570",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1828770/ss_8eb7e45c564b0182107ffc2525181084baeb8374.600x338.jpg?t=1641055570"
-  ],
-  "detailed_description": "Jump into this hypercasual physics game and keep the disk balanced. You'll encounter different sizes and shapes of weights, and earn upgrades to assist you along the way. A streamlined gameplay loop gets you into the fun in the blink of an eye. Find out who the best balancer is with the in-game leaderboards!<br />\r\n<br />\r\nThere is a rogue-like upgrade system that lets the game get easier as you put more time into it. These upgrades can help you survive longer and longer into a round, but be ready, things really start to ramp up. New weights will begin to spawn just as you think you've gotten the hang of it, and the spawn rate is always speeding up!<br />\r\n<br />\r\nThe game was born during the 49th Ludum Dare game jam around the theme of \"unstable\". After seeing how many people had a blast and wanted to play it again, we turned it into a full game.",
-  "about_the_game": "Jump into this hypercasual physics game and keep the disk balanced. You'll encounter different sizes and shapes of weights, and earn upgrades to assist you along the way. A streamlined gameplay loop gets you into the fun in the blink of an eye. Find out who the best balancer is with the in-game leaderboards!<br />\r\n<br />\r\nThere is a rogue-like upgrade system that lets the game get easier as you put more time into it. These upgrades can help you survive longer and longer into a round, but be ready, things really start to ramp up. New weights will begin to spawn just as you think you've gotten the hang of it, and the spawn rate is always speeding up!<br />\r\n<br />\r\nThe game was born during the 49th Ludum Dare game jam around the theme of \"unstable\". After seeing how many people had a blast and wanted to play it again, we turned it into a full game.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 5,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

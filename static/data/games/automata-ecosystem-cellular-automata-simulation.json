@@ -3,8 +3,8 @@
   "name": "Automata Ecosystem - Cellular Automata Simulation",
   "slug": "automata-ecosystem-cellular-automata-simulation",
   "developer": "Giuseppe La Malfa",
-  "publisher": "Giuseppe La Malfa",
-  "release_date": "May 30, 2022",
+  "publisher": "",
+  "release_date": "2022-05-30",
   "price_usd": 5.99,
   "genres": [
     "Simulation"
@@ -17,33 +17,15 @@
   ],
   "short_description": "Turning cellular automata into an audiovisual experience. Automata Ecosystem is a GPU-powered cellular automata simulation with complex interactions and procedural audio generation.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966940/header.jpg?t=1654126332",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966940/ss_38d9d46000e32a56559246da5ec7bc5895b21655.600x338.jpg?t=1654126332",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966940/ss_2a6dc59dbf366bed23fc1dd855e9c05087909d07.600x338.jpg?t=1654126332",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966940/ss_c2dec4aff8f65b152ddbbfcf3948ff94aa5b28c7.600x338.jpg?t=1654126332",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966940/ss_5247b8624cfd36ebf2d8304fcee7e93912f39068.600x338.jpg?t=1654126332",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966940/ss_8034b7b5a159282aa135eb2371eb43bdc053ecd5.600x338.jpg?t=1654126332"
-  ],
-  "detailed_description": "Automata Ecosystem is a sandbox simulation game that lets you experiment with all kinds of cellular automata in an environment that lets them interact with each other. Not only that, this is a sandbox built for customizability: you can create your own species and customize their behavior, appearance and sound. Yes, their sound too! Automata Ecosystem is also built to turn cellular automata into a complete, interactive and evolving audiovisual experience.<br><br><strong>Large scale cellular automata simulation powered by the GPU</strong><br>Automata Ecosystem's simulation model runs almost entirely on the GPU, allowing grids that fit millions of units to run at more than 30 turns per second. Play with how many different species you want! The only limit is how big of a grid fits in your VRAM.<br><br><strong>Customizable species interacting with each other</strong><br>Putting a twist on Life-like cellular automata. More than one species of cellular automata may live and interact on the same grid, and you can decide how they act, when they die and reproduce, and which species they consider friendly or hostile<br><br><strong>Turning cellular automata into an audiovisual experience.</strong><br>Each species' look and sound can be customized. You can have flat or animated colors that change each turn, for an ecosystem that also evolves in appearance; you can also import images into the simulation to easily bring your own art to life. As for sound, each species can be assigned a sample to be played with dynamic effects that change depending on the simulation's state.",
-  "about_the_game": "Automata Ecosystem is a sandbox simulation game that lets you experiment with all kinds of cellular automata in an environment that lets them interact with each other. Not only that, this is a sandbox built for customizability: you can create your own species and customize their behavior, appearance and sound. Yes, their sound too! Automata Ecosystem is also built to turn cellular automata into a complete, interactive and evolving audiovisual experience.<br><br><strong>Large scale cellular automata simulation powered by the GPU</strong><br>Automata Ecosystem's simulation model runs almost entirely on the GPU, allowing grids that fit millions of units to run at more than 30 turns per second. Play with how many different species you want! The only limit is how big of a grid fits in your VRAM.<br><br><strong>Customizable species interacting with each other</strong><br>Putting a twist on Life-like cellular automata. More than one species of cellular automata may live and interact on the same grid, and you can decide how they act, when they die and reproduce, and which species they consider friendly or hostile<br><br><strong>Turning cellular automata into an audiovisual experience.</strong><br>Each species' look and sound can be customized. You can have flat or animated colors that change each turn, for an ecosystem that also evolves in appearance; you can also import images into the simulation to easily bring your own art to life. As for sound, each species can be assigned a sample to be played with dynamic effects that change depending on the simulation's state.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 4,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

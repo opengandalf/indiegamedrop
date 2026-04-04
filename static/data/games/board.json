@@ -3,8 +3,8 @@
   "name": "Board",
   "slug": "board",
   "developer": "Ma Ma Software",
-  "publisher": "Ma Ma Software",
-  "release_date": "Jun 17, 2022",
+  "publisher": "",
+  "release_date": "2022-06-17",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -19,33 +19,15 @@
   ],
   "short_description": "Board is a minimalist puzzle game that offers a relaxing short experience.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021050/header.jpg?t=1728304152",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021050/ss_6dfb9c1a9e6bf6a220d2a489587c3543d4431bb2.600x338.jpg?t=1728304152",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021050/ss_1de84da8d5829c9b9473b5fe307c9fcfb1ea704e.600x338.jpg?t=1728304152",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021050/ss_410354be8121f3add7681cc694708591690cb1c6.600x338.jpg?t=1728304152",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021050/ss_3959c2327084781857841758b5719bd4d25f7ff4.600x338.jpg?t=1728304152",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2021050/ss_6df55ab2112cd8620ac7d639a8590eee5e654639.600x338.jpg?t=1728304152"
-  ],
-  "detailed_description": "Board is a minimalist puzzle game that offers a relaxing short experience.<br />\r\n<br />\r\nThe goal is to remove all the dark pieces from the board.",
-  "about_the_game": "Board is a minimalist puzzle game that offers a relaxing short experience.<br />\r\n<br />\r\nThe goal is to remove all the dark pieces from the board.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.4000000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 28,
-  "review_positive": 28,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 27,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 28,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

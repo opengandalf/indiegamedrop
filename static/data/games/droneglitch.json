@@ -3,8 +3,8 @@
   "name": "DroneGlitch",
   "slug": "droneglitch",
   "developer": "Corva Nocta",
-  "publisher": "Corva Nocta",
-  "release_date": "Oct 5, 2020",
+  "publisher": "",
+  "release_date": "2020-10-05",
   "price_usd": 0.99,
   "genres": [
     "Action"
@@ -17,32 +17,15 @@
   ],
   "short_description": "Low-Poly FPS with randomly generated levels. Find new weapons while fighting off a variety of drones!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413170/header.jpg?t=1601955592",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413170/ss_219a3ffd9dad290b59df82cb9fbeecdc2afe6fe5.600x338.jpg?t=1601955592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413170/ss_b15bf0e17d4357e7896090d4b0ef1c943f271866.600x338.jpg?t=1601955592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413170/ss_548479ca398b4ec4e795af7a304b3ed7630674d9.600x338.jpg?t=1601955592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413170/ss_5c74acdab3d3e280e6a8b4afa265c417cd08f863.600x338.jpg?t=1601955592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413170/ss_6f528d782bc0dd4dc7d029b42da0625887300c47.600x338.jpg?t=1601955592"
-  ],
-  "detailed_description": "Drone Glitch is a fast paced FPS set in a Low-Poly futuristic environment. Avoid killer drones while trying to find better weapons to get to your ship! Each time you play Drone Glitch the world is randomly generated, different every time but always exciting to run through! Collect a number of new weapons to help you take down those pesky drones trying to kill you. All weapons and keys are randomly generated as well, keeping the excitement fresh each time you hit the Play button!<br />\r\n<br />\r\nLevels:<br />\r\nEach time a level is loaded, whether by death or starting the game, a brand new level layout is generated. Branching paths and locked doors are generated as well as the new weapon pickup locations. Enemy types are also randomly inserted when the game begins, watch out for those larger drones! The level generator is a robust system that ensures every level is unique and presents a new layer of challenge to the player.<br />\r\n<br />\r\nFirst Person Shooter:<br />\r\nDrone Glitch is based off the Unity FPS Microgame framework, built to be fun, efficient, and robust. This framework allows for future additions to be added quickly and easily to the game, new rooms, weapons, enemies, and more!<br />\r\n<br />\r\nEnvironment:<br />\r\nDrone Glitch uses low poly environments to keep the focus on the action, a \"Less is More\" design approach! This also makes terrain easier to understand and use as cover. Not to mention future maps can be quickly iterated upon!<br />\r\n<br />\r\n<br />\r\n<br />\r\nUpdates:<br />\r\nBug Fixes:<br />\r\n- Fixed a respawn bug where players fell through the ground on respawn",
-  "about_the_game": "Drone Glitch is a fast paced FPS set in a Low-Poly futuristic environment. Avoid killer drones while trying to find better weapons to get to your ship! Each time you play Drone Glitch the world is randomly generated, different every time but always exciting to run through! Collect a number of new weapons to help you take down those pesky drones trying to kill you. All weapons and keys are randomly generated as well, keeping the excitement fresh each time you hit the Play button!<br />\r\n<br />\r\nLevels:<br />\r\nEach time a level is loaded, whether by death or starting the game, a brand new level layout is generated. Branching paths and locked doors are generated as well as the new weapon pickup locations. Enemy types are also randomly inserted when the game begins, watch out for those larger drones! The level generator is a robust system that ensures every level is unique and presents a new layer of challenge to the player.<br />\r\n<br />\r\nFirst Person Shooter:<br />\r\nDrone Glitch is based off the Unity FPS Microgame framework, built to be fun, efficient, and robust. This framework allows for future additions to be added quickly and easily to the game, new rooms, weapons, enemies, and more!<br />\r\n<br />\r\nEnvironment:<br />\r\nDrone Glitch uses low poly environments to keep the focus on the action, a \"Less is More\" design approach! This also makes terrain easier to understand and use as cover. Not to mention future maps can be quickly iterated upon!<br />\r\n<br />\r\n<br />\r\n<br />\r\nUpdates:<br />\r\nBug Fixes:<br />\r\n- Fixed a respawn bug where players fell through the ground on respawn",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

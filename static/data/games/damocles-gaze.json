@@ -3,8 +3,8 @@
   "name": "Damocles Gaze",
   "slug": "damocles-gaze",
   "developer": "PUNKCAKE Delicieux",
-  "publisher": "PUNKCAKE Delicieux",
-  "release_date": "Sep 1, 2023",
+  "publisher": "",
+  "release_date": "2023-09-01",
   "price_usd": 3.89,
   "genres": [
     "Action",
@@ -21,35 +21,15 @@
   ],
   "short_description": "A radical and mystical action roguelike top-down shooter where every run takes 12 minutes. How far can you go? What will you find?",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521530/header.jpg?t=1711560767",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521530/ss_60a8c26d5fbbfc8684bfac44d73bb725270a0785.600x338.jpg?t=1711560767",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521530/ss_3191e523db72b5ef30c09f9517b2fd13ac32a48f.600x338.jpg?t=1711560767",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521530/ss_5b79ed110d113f0876e2882eb9ed194f80207cd6.600x338.jpg?t=1711560767",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521530/ss_4a04321fd402a184618707cc32b79aabad91b522.600x338.jpg?t=1711560767",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521530/ss_6f6d09c1c6899e23acffb4a80319aa769b28da0b.600x338.jpg?t=1711560767"
-  ],
-  "detailed_description": "Here is a tight roguelite top-down shooter in the spirit of classic indie Nuclear Throne, where every run takes 12 minutes. Death is merely a set-back as you try to make it through the levels fighting mystic creatures and picking tarot cards for radical upgrades.",
-  "about_the_game": "Here is a tight roguelite top-down shooter in the spirit of classic indie Nuclear Throne, where every run takes 12 minutes. Death is merely a set-back as you try to make it through the levels fighting mystic creatures and picking tarot cards for radical upgrades.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.30000000000000004,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 6,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 83.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 83.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 83.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

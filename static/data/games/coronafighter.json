@@ -3,8 +3,8 @@
   "name": "CoronaFighter",
   "slug": "coronafighter",
   "developer": "Aaron W. Calhoun, Noah W. Calhoun",
-  "publisher": "Self",
-  "release_date": "May 28, 2020",
+  "publisher": "",
+  "release_date": "2020-05-28",
   "price_usd": 0.0,
   "genres": [
     "Action"
@@ -17,37 +17,15 @@
   ],
   "short_description": "A coronavirus-themed shoot-em-up in the classic arcade tradition.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281990/header.jpg?t=1592012308",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281990/ss_5a5e06d6ec725898f4a084b1be8b51fa248e229e.600x338.jpg?t=1592012308",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281990/ss_13982dba6f942427e514b8d71e509d1a4ae68832.600x338.jpg?t=1592012308",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281990/ss_8ba2d00236b467ec204bf26a030bc74cf74f648d.600x338.jpg?t=1592012308",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281990/ss_3e22268bd0e4e91af766a2ff2580b60a4fcb2306.600x338.jpg?t=1592012308",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281990/ss_e314f277948b5a6eea7881b908e7302a3e9ff3b2.600x338.jpg?t=1592012308",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281990/ss_cdb92b4ef4ddc47c410b95ab30efb91e578d09a1.600x338.jpg?t=1592012308",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281990/ss_b63f37b4177bd0ac0205a75928f779e82d5d6a11.600x338.jpg?t=1592012308",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281990/ss_687ede52485bef2234df3e87430663914cf10645.600x338.jpg?t=1592012308",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281990/ss_e467ddd3eeedf9b310647e010123471f5f167b0a.600x338.jpg?t=1592012308",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281990/ss_137b023c2f960e35b8fa813ca7346a0bfc2171dc.600x338.jpg?t=1592012308"
-  ],
-  "detailed_description": "<h1>Just Updated</h1><p>The full game is complete!  Play now for free!</p><br><h1>About the Game</h1>In the tradition of classic arcade shoot-em-ups comes CoronaFighter.  You are a white blood cell attempting to clear Coronavirus particles from your host's nasal passages.  Armed with an antibody cannon and an array of special weapons, you set off on your mission.  But you face long odds, for the virions keep coming.\r\n\r\nFeatures include:\r\n- Six full stages:  Throat, Stomach, Colon, Kidney, Lungs, and Heart!\r\n- Sixteen Bosses!\r\n- New music tracks, cutscenes, and stage map screens!\r\n- Upgradable antibody cannon!\r\n- Special weapons including TNF Laser, Cytokine Wave, NK Charge, Complement Shield, and more...\r\n- Oxidative Burst bombs! Clear the screen of virions!\r\n- Now with controller support and continue feature!\r\n\r\nClear the infected tissue!  Eradicate the virus! Save the patient!",
-  "about_the_game": "In the tradition of classic arcade shoot-em-ups comes CoronaFighter.  You are a white blood cell attempting to clear Coronavirus particles from your host's nasal passages.  Armed with an antibody cannon and an array of special weapons, you set off on your mission.  But you face long odds, for the virions keep coming.<br />\r\n<br />\r\nFeatures include:<br />\r\n- Six full stages:  Throat, Stomach, Colon, Kidney, Lungs, and Heart!<br />\r\n- Sixteen Bosses!<br />\r\n- New music tracks, cutscenes, and stage map screens!<br />\r\n- Upgradable antibody cannon!<br />\r\n- Special weapons including TNF Laser, Cytokine Wave, NK Charge, Complement Shield, and more...<br />\r\n- Oxidative Burst bombs! Clear the screen of virions!<br />\r\n- Now with controller support and continue feature!<br />\r\n<br />\r\nClear the infected tissue!  Eradicate the virus! Save the patient!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.65,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 13,
-  "review_positive": 12,
+  "review_positive": 0,
   "review_percentage": 92.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 12,
-      "review_percentage": 91.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 13,
       "review_percentage": 92.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

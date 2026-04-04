@@ -3,8 +3,8 @@
   "name": "Antiyoy",
   "slug": "antiyoy",
   "developer": "yiotro",
-  "publisher": "yiotro",
-  "release_date": "Nov 12, 2024",
+  "publisher": "",
+  "release_date": "2024-11-12",
   "price_usd": 2.49,
   "genres": [
     "Strategy"
@@ -17,41 +17,15 @@
   ],
   "short_description": "Turn-based strategy with simple rules",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929080/header.jpg?t=1745575373",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929080/ss_8645756910937f91b9c33f3780de30ff53fd9daa.600x338.jpg?t=1745575373",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929080/ss_97eddbd47ce4785d98838dfa83ddf5ea4caeebcf.600x338.jpg?t=1745575373",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929080/ss_0677bac154072e0d910d2d7f5b644fe2a9b93515.600x338.jpg?t=1745575373",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929080/ss_e4e22b84ecd45cc3070133e4c3f411355d73e3ef.600x338.jpg?t=1745575373",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929080/ss_634095d5b0f402bc3ff8628b16bb48ea21f729ec.600x338.jpg?t=1745575373",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929080/ss_43396ac34d783c17e326824073d2b0dd23ee23dc.600x338.jpg?t=1745575373",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929080/ss_18a0b97c1aef14d04f4274626ef145ea19cf4d7a.600x338.jpg?t=1745575373",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929080/ss_1db139a847d59699fdacf00942929b60c7e75776.600x338.jpg?t=1745575373"
-  ],
-  "detailed_description": "Turn-based strategy with simple rules. Easy to learn, hard to master. <br />\r\n<br />\r\nFeatures:<br />\r\n- Campaign with 180+ levels<br />\r\n- More than 1500 user levels<br />\r\n- Skirmish mode with random map generator<br />\r\n- Calendar mode (new level each day)<br />\r\n- Map editor<br />\r\n- Optional diplomacy mode<br />\r\n- Replays<br />\r\n- Clean UI",
-  "about_the_game": "Turn-based strategy with simple rules. Easy to learn, hard to master. <br />\r\n<br />\r\nFeatures:<br />\r\n- Campaign with 180+ levels<br />\r\n- More than 1500 user levels<br />\r\n- Skirmish mode with random map generator<br />\r\n- Calendar mode (new level each day)<br />\r\n- Map editor<br />\r\n- Optional diplomacy mode<br />\r\n- Replays<br />\r\n- Clean UI",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Romanian, Simplified Chinese, Swedish, Thai, Turkish, Ukrainian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Adjustable Difficulty",
-    "Mouse Only Option",
-    "Playable without Timed Input",
-    "Save Anytime",
-    "Touch Only Option",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.9000000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 38,
-  "review_positive": 33,
+  "review_positive": 0,
   "review_percentage": 86.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 32,
-      "review_percentage": 87.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 38,
       "review_percentage": 86.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

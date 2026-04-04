@@ -3,8 +3,8 @@
   "name": "Warped Continuity",
   "slug": "warped-continuity",
   "developer": "Xufactor",
-  "publisher": "Xufactor",
-  "release_date": "Mar 12, 2024",
+  "publisher": "",
+  "release_date": "2024-03-12",
   "price_usd": 0.99,
   "genres": [
     "Indie",
@@ -17,34 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "The game incorporates the mechanics of the famous \"slider\" puzzle. The character is on one screen, and the player must move the screens around and move the character from screen to screen to get to the door.",
+  "short_description": "The game incorporates the mechanics of the famous \"slider\" puzzle. The character is on one screen, and the player must move the screens around and move the character from screen to screen to",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761290/header.jpg?t=1747167566",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761290/ss_54c5a36ad8b8a7d18ffd730da27a41c3ff771621.600x338.jpg?t=1747167566",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761290/ss_f4c7f875ff8a5ee8ad66d7b60456ae1227abab9b.600x338.jpg?t=1747167566",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761290/ss_d7aec9903f6c26c9d99e121545ac690b61f7e842.600x338.jpg?t=1747167566",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761290/ss_f00467ad24e9861d6e49af369b8e66cf08a922b1.600x338.jpg?t=1747167566",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2761290/ss_6cdf8e56d4810a96267e07be7e80315020614ffd.600x338.jpg?t=1747167566"
-  ],
-  "detailed_description": "Warped Continuity is a puzzle platform game based on the Indie game Continuity, but it includes the ability to reverse gravity, create a block, and remove blocks in some levels. The game uses Java graphics, but the concept of the game doesn't require fancy graphics to work.",
-  "about_the_game": "Warped Continuity is a puzzle platform game based on the Indie game Continuity, but it includes the ability to reverse gravity, create a block, and remove blocks in some levels. The game uses Java graphics, but the concept of the game doesn't require fancy graphics to work.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

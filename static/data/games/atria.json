@@ -3,8 +3,8 @@
   "name": "Atria",
   "slug": "atria",
   "developer": "Studio7",
-  "publisher": "Studio7",
-  "release_date": "Jun 21, 2022",
+  "publisher": "",
+  "release_date": "2022-06-21",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -23,32 +23,15 @@
   ],
   "short_description": "Atria is a small-scale sci-fi single-player space sim with exploitable areas both in and out of space. The A1 galaxy awaits your arrival.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2011030/header.jpg?t=1685534723",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2011030/ss_427fa2eed993ad9607706a6a61976062ed367c50.600x338.jpg?t=1685534723",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2011030/ss_5506bdd349264acd779e252717f189baa2bb7685.600x338.jpg?t=1685534723",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2011030/ss_1776ac305c6f4d1c6ab97656819bec0160d3cb7f.600x338.jpg?t=1685534723",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2011030/ss_80b9eae67b272e6656964d934d7d0fd88890da03.600x338.jpg?t=1685534723",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2011030/ss_e5153362cc368a10d4121956b450a3eb04b69c7e.600x338.jpg?t=1685534723"
-  ],
-  "detailed_description": "Atria aims to be a small-scale single-player sci-fi space sim experience. <br />\r\n<br />\r\nFly around the galaxy in your ship exploring areas both in and out of space.<br />\r\n<br />\r\nDo delivery missions and fight off Koretech drones and other enemies.",
-  "about_the_game": "Atria aims to be a small-scale single-player sci-fi space sim experience. <br />\r\n<br />\r\nFly around the galaxy in your ship exploring areas both in and out of space.<br />\r\n<br />\r\nDo delivery missions and fight off Koretech drones and other enemies.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 5,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 80.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 80.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 80.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

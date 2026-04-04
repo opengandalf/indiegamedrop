@@ -3,8 +3,8 @@
   "name": "Cat On The Desktop",
   "slug": "cat-on-the-desktop",
   "developer": "GCN",
-  "publisher": "GCN",
-  "release_date": "Dec 1, 2023",
+  "publisher": "",
+  "release_date": "2023-12-01",
   "price_usd": 0.79,
   "genres": [
     "Casual",
@@ -19,32 +19,15 @@
   ],
   "short_description": "Who can refuse a cat! A cat on the desktop interacts with you, hangs up, and enjoys this tranquility together",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2674420/header.jpg?t=1701425170",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2674420/ss_fb33cb1ea79277c7c684afeeda6f0af4ab5afb05.600x338.jpg?t=1701425170",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2674420/ss_d049f61cb15c8f4d196a76c8aa7d657e7bb0fe40.600x338.jpg?t=1701425170",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2674420/ss_6cb932df5f0741e3597768beaf59c68a1c44f0ba.600x338.jpg?t=1701425170",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2674420/ss_5827a934f29ebc1518a94038b251867114e57d35.600x338.jpg?t=1701425170",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2674420/ss_136dcf827f3dcf79d83793f5c439b6e127684843.600x338.jpg?t=1701425170"
-  ],
-  "detailed_description": "<strong>Game Content</strong><br><ul class=\"bb_ul\"><li>  Cats with 10 different skin types.<br></li><li>  Hang up and interact with your mouse operation.</li></ul><br><strong>Game Controls</strong><br>Double click on the cat's head to pop up a menu; Can set whether to interact or not; Whether to place at the top; Switch skin.",
-  "about_the_game": "<strong>Game Content</strong><br><ul class=\"bb_ul\"><li>  Cats with 10 different skin types.<br></li><li>  Hang up and interact with your mouse operation.</li></ul><br><strong>Game Controls</strong><br>Double click on the cat's head to pop up a menu; Can set whether to interact or not; Whether to place at the top; Switch skin.",
-  "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 5,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

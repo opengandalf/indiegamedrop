@@ -3,8 +3,8 @@
   "name": "Beholder: Conductor",
   "slug": "beholder-conductor",
   "developer": "Alawar",
-  "publisher": "Alawar",
-  "release_date": "Apr 23, 2025",
+  "publisher": "",
+  "release_date": "2025-04-23",
   "price_usd": 6.99,
   "genres": [
     "Adventure",
@@ -22,89 +22,29 @@
     "windows",
     "mac"
   ],
-  "short_description": "A Beholder series spin-off. Become a conductor of the Determination Bringer train: monitor passengers, report incidents, and carry out important Ministry assignments — whose level of secrecy depends only on your loyalty. And remember: mission success is very important to you!",
+  "short_description": "A Beholder series spin-off. Become a conductor of the Determination Bringer train: monitor passengers, report incidents, and carry out important Ministry assignments — whose level of secrecy depends o",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/03a43454bca1da1aef81cfad92fefc1583be463d/header.jpg?t=1773119814",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/7e9e4263708aa42593bb50895095cc37ac9bda3b/ss_7e9e4263708aa42593bb50895095cc37ac9bda3b.600x338.jpg?t=1773119814",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/d2f1f43d4f1134262fb857d890cf9ea33aa9b6ac/ss_d2f1f43d4f1134262fb857d890cf9ea33aa9b6ac.600x338.jpg?t=1773119814",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/f1fb3e99b536162a36d31d028e791d360de146c1/ss_f1fb3e99b536162a36d31d028e791d360de146c1.600x338.jpg?t=1773119814",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/2a53365c4bc4ebcbb1ba6bb8ce0747f6d67ab09a/ss_2a53365c4bc4ebcbb1ba6bb8ce0747f6d67ab09a.600x338.jpg?t=1773119814",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/974bfcce32fe5021e1935bd464c856cbc96db555/ss_974bfcce32fe5021e1935bd464c856cbc96db555.600x338.jpg?t=1773119814",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/4ed5d9402570ec69566977089186cfb8ed451b91/ss_4ed5d9402570ec69566977089186cfb8ed451b91.600x338.jpg?t=1773119814",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/238cab81df89bfcf563e4db2fe5ebf1274453f15/ss_238cab81df89bfcf563e4db2fe5ebf1274453f15.600x338.jpg?t=1773119814",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/e37aa32f0d23234bc2fdd4723b5a6dea3a22c8ef/ss_e37aa32f0d23234bc2fdd4723b5a6dea3a22c8ef.600x338.jpg?t=1773119814",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/f904648c91c9e572f1e9fa165950f3a23655cb1d/ss_f904648c91c9e572f1e9fa165950f3a23655cb1d.600x338.jpg?t=1773119814",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/5a7163ca57d3c380ad829b9f5786a2a0945f8b2a/ss_5a7163ca57d3c380ad829b9f5786a2a0945f8b2a.600x338.jpg?t=1773119814",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/6025e681f19c4e69763265eabf332be3f4b5dd29/ss_6025e681f19c4e69763265eabf332be3f4b5dd29.600x338.jpg?t=1773119814",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/add0404ae951e8bfc2a1736d026666b0dad92a96/ss_add0404ae951e8bfc2a1736d026666b0dad92a96.600x338.jpg?t=1773119814",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/647c8aa4a7c7ff87553fde737e185c5bd8fca5fe/ss_647c8aa4a7c7ff87553fde737e185c5bd8fca5fe.600x338.jpg?t=1773119814",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/ac1083cad32d79a88f9aba00f43f4f6c3008d337/ss_ac1083cad32d79a88f9aba00f43f4f6c3008d337.600x338.jpg?t=1773119814",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/161eb472a947bc220366d1e03313200505bab5c2/ss_161eb472a947bc220366d1e03313200505bab5c2.600x338.jpg?t=1773119814"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Welcome aboard the Determination Bringer! </p><p class=\"bb_paragraph\" >You have been appointed senior conductor of the legendary train, which all the citizens of our vast country are happy to see in their cities. Your responsibilities are maintaining order in the carriage assigned to you and providing assistance to passengers along the way. Your tools are reporting, intimidation, searches and ejection. Remember: the conductor is always right.  </p><h2 class=\"bb_tag\" >Monitor the passengers</h2><p class=\"bb_paragraph\" >Carefully monitor everyone who enters the carriage and decide what to do with fare-evaders. Observe and report all suspicious, unauthorized and basically any passenger activity. Search the baggage and call the police if you find prohibited items.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/extras/1467deff5a78bd9f4409ef81caa392d2.poster.avif?t=1773119814\" width=627 height=233 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/extras/1467deff5a78bd9f4409ef81caa392d2.webm?t=1773119814\" type=\"video/webm; codecs=vp9\"></video></span>  </p><h2 class=\"bb_tag\" >Move up the train</h2><p class=\"bb_paragraph\" >Get access to the dining car or VIP compartments and carriages where high-ranking officials and big industrialists ride. Keep an eye on your colleagues and report their accepting bribes or transporting banned goods. The Ministry will not let your dedication go unnoticed.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/extras/c30ccfdba5a234ae4d88a8f035688c7e.poster.avif?t=1773119814\" width=615 height=233 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/extras/c30ccfdba5a234ae4d88a8f035688c7e.webm?t=1773119814\" type=\"video/webm; codecs=vp9\"></video></span> </p><h2 class=\"bb_tag\" >Complete secret missions</h2><p class=\"bb_paragraph\" >Earn the trust of higher-ups in order to receive special assignments. Their level of secrecy will depend on your loyalty, and completion will be rewarded with a bonus or even a promotion. You will also encounter smugglers — transporting their packages along the route is risky, but profitable.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/extras/558eb34a06eb550b04e4c8af0c6849f6.poster.avif?t=1773119814\" width=616 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/extras/558eb34a06eb550b04e4c8af0c6849f6.webm?t=1773119814\" type=\"video/webm; codecs=vp9\"></video></span></p><p class=\"bb_paragraph\" >  </p><p class=\"bb_paragraph\" >Visit various stations and remote corners of the country. Make difficult decisions determining the fate of passengers and your colleagues. What kind of person will you be at the end of the journey? The choice is yours!</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Welcome aboard the Determination Bringer! </p><p class=\"bb_paragraph\" >You have been appointed senior conductor of the legendary train, which all the citizens of our vast country are happy to see in their cities. Your responsibilities are maintaining order in the carriage assigned to you and providing assistance to passengers along the way. Your tools are reporting, intimidation, searches and ejection. Remember: the conductor is always right.  </p><h2 class=\"bb_tag\" >Monitor the passengers</h2><p class=\"bb_paragraph\" >Carefully monitor everyone who enters the carriage and decide what to do with fare-evaders. Observe and report all suspicious, unauthorized and basically any passenger activity. Search the baggage and call the police if you find prohibited items.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/extras/1467deff5a78bd9f4409ef81caa392d2.poster.avif?t=1773119814\" width=627 height=233 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/extras/1467deff5a78bd9f4409ef81caa392d2.webm?t=1773119814\" type=\"video/webm; codecs=vp9\"></video></span>  </p><h2 class=\"bb_tag\" >Move up the train</h2><p class=\"bb_paragraph\" >Get access to the dining car or VIP compartments and carriages where high-ranking officials and big industrialists ride. Keep an eye on your colleagues and report their accepting bribes or transporting banned goods. The Ministry will not let your dedication go unnoticed.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/extras/c30ccfdba5a234ae4d88a8f035688c7e.poster.avif?t=1773119814\" width=615 height=233 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/extras/c30ccfdba5a234ae4d88a8f035688c7e.webm?t=1773119814\" type=\"video/webm; codecs=vp9\"></video></span> </p><h2 class=\"bb_tag\" >Complete secret missions</h2><p class=\"bb_paragraph\" >Earn the trust of higher-ups in order to receive special assignments. Their level of secrecy will depend on your loyalty, and completion will be rewarded with a bonus or even a promotion. You will also encounter smugglers — transporting their packages along the route is risky, but profitable.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/extras/558eb34a06eb550b04e4c8af0c6849f6.poster.avif?t=1773119814\" width=616 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2825530/extras/558eb34a06eb550b04e4c8af0c6849f6.webm?t=1773119814\" type=\"video/webm; codecs=vp9\"></video></span></p><p class=\"bb_paragraph\" >  </p><p class=\"bb_paragraph\" >Visit various stations and remote corners of the country. Make difficult decisions determining the fate of passengers and your colleagues. What kind of person will you be at the end of the journey? The choice is yours!</p>",
-  "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Portuguese - Brazil, Simplified Chinese, Korean, Russian<strong>*</strong>, Japanese, Traditional Chinese, Polish, Turkish<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Trading Cards",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 3575,
-  "rising_score": 0.0042,
+  "screenshots": [],
+  "rising_score": 0.0008,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 2436.0,
+  "review_velocity_7d": 210.3,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
-  "review_count": 4213,
-  "review_positive": 3841,
+  "review_count": 4206,
+  "review_positive": 0,
   "review_percentage": 91.2,
   "owner_estimate": 350000,
-  "ccu_estimate": 174,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 210,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1770,
-      "review_percentage": 89.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
-      "review_count": 4184,
-      "review_percentage": 91.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
-      "review_count": 4197,
-      "review_percentage": 91.1,
-      "ccu_estimate": 174,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 4206,
       "review_percentage": 91.2,
-      "ccu_estimate": 174,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
-      "review_count": 4213,
-      "review_percentage": 91.2,
-      "ccu_estimate": 174,
+      "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

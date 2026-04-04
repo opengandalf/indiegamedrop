@@ -3,8 +3,8 @@
   "name": "Color +",
   "slug": "color",
   "developer": "MiCake",
-  "publisher": "MiCake",
-  "release_date": "Aug 31, 2019",
+  "publisher": "",
+  "release_date": "2019-08-31",
   "price_usd": 0.59,
   "genres": [
     "Casual",
@@ -19,32 +19,15 @@
   ],
   "short_description": "Your goal is to score more points over a long distance. Good luck",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142280/header.jpg?t=1567274420",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142280/ss_466ece88b82c7968af7d1956ad49d032437c4951.600x338.jpg?t=1567274420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142280/ss_9efebedae8fc4fd180c80b816cd08cd6ca46b1e3.600x338.jpg?t=1567274420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142280/ss_332fca6f38ebae07a90da21e8f90e1b04f6f1a50.600x338.jpg?t=1567274420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142280/ss_d9e8370acd3a59c73409765505499e61d14ebc2b.600x338.jpg?t=1567274420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142280/ss_9bf1f162e1fe4b2db4443fada33fd0b18654a87f.600x338.jpg?t=1567274420"
-  ],
-  "detailed_description": "This simple clicker-hopper is made in various colors and lightweight gameplay. Click with the mouse to bounce a small ball moving through a color tunnel. Avoid collisions with upper and lower corners as well as running towards the crossbars and flying particles. Together with the jump, you simultaneously shoot a ball of your color. Thus, you can repaint the crossbars in your color and pass through them without damage, and you can also shoot down flying particles. Each color of the ball has its own strengths and weaknesses. Your goal is to score more points over a long distance. Good luck",
-  "about_the_game": "This simple clicker-hopper is made in various colors and lightweight gameplay. Click with the mouse to bounce a small ball moving through a color tunnel. Avoid collisions with upper and lower corners as well as running towards the crossbars and flying particles. Together with the jump, you simultaneously shoot a ball of your color. Thus, you can repaint the crossbars in your color and pass through them without damage, and you can also shoot down flying particles. Each color of the ball has its own strengths and weaknesses. Your goal is to score more points over a long distance. Good luck",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.5,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 10,
-  "review_positive": 9,
+  "review_positive": 0,
   "review_percentage": 90.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 11,
-      "review_percentage": 90.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 90.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

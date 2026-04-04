@@ -3,8 +3,8 @@
   "name": "iMemo",
   "slug": "imemo",
   "developer": "cBlck",
-  "publisher": "cBlck",
-  "release_date": "Mar 26, 2020",
+  "publisher": "",
+  "release_date": "2020-03-26",
   "price_usd": 0.59,
   "genres": [
     "Casual",
@@ -21,32 +21,9 @@
   ],
   "short_description": "You assign the number of blocks and create a game field where you need to find paired images.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1265130/header.jpg?t=1585241169",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1265130/ss_08f5f7ed7b8d7f36a99192a2b485657ae753c1c2.600x338.jpg?t=1585241169",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1265130/ss_00fe587f3278b8fa62f1411b51f319591c784124.600x338.jpg?t=1585241169",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1265130/ss_6a249753168ea74e1ead44103450086de716c3d0.600x338.jpg?t=1585241169",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1265130/ss_483031f495ed1944d33c2d2170a98e268b673e45.600x338.jpg?t=1585241169",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1265130/ss_3be08585c646857d2f727cda2d627b1a8d50e930.600x338.jpg?t=1585241169"
-  ],
-  "detailed_description": "This is a puzzle game for the whole family. You assign the number of blocks and create a game field where you need to find paired images. Use the mouse to open the first image and then the second. If both pictures coincide, they remain open, otherwise they close back and you continue to search or remember where you came across the same ones. The number of attempts is unlimited, good training of visual memory.",
-  "about_the_game": "This is a puzzle game for the whole family. You assign the number of blocks and create a game field where you need to find paired images. Use the mouse to open the first image and then the second. If both pictures coincide, they remain open, otherwise they close back and you continue to search or remember where you came across the same ones. The number of attempts is unlimited, good training of visual memory.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Death By Tomato",
   "slug": "death-by-tomato",
   "developer": "Benjamin Jeffrey Wise",
-  "publisher": "Benjamin Jeffrey Wise",
-  "release_date": "Feb 9, 2022",
+  "publisher": "",
+  "release_date": "2022-02-09",
   "price_usd": 7.99,
   "genres": [
     "Action",
@@ -19,37 +19,15 @@
   ],
   "short_description": "Death By Tomato is an arcade style slicing game. In it the player must use bladed weapons to slice on coming food that is thrown at you. This game is for fast passed rhythm fun.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867470/header.jpg?t=1678981227",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867470/ss_09018c851c42231adde1ef68a6176ced8e8ebcc1.600x338.jpg?t=1678981227",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867470/ss_25d1d63345ba0a5ec7755908f1021ee7c178036b.600x338.jpg?t=1678981227",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867470/ss_7c224adfee2b9b3ac3020823e69a0a7775dbfdb8.600x338.jpg?t=1678981227",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867470/ss_030c327bb666a0c86ae23cffaf9af203c7990f7f.600x338.jpg?t=1678981227",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867470/ss_f0fcc9205e7e87885fe55ecd941ed9a20f2404a8.600x338.jpg?t=1678981227",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867470/ss_a1482ccb5f7bad08946f47120992b9ab93928fef.600x338.jpg?t=1678981227",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867470/ss_e154022a8511b1bad12c855fb66dab62a11718af.600x338.jpg?t=1678981227",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867470/ss_ea9cd63eab36f9ddde86c74ffe4d7a5c5812dd77.600x338.jpg?t=1678981227"
-  ],
-  "detailed_description": "In this VR only game you try to avoid getting hit by Tomatoes and other food. Cats might also be thrown at you. You can slice food <br />\r\nbeing thrown at you or you can catch it, but if you slice a cat you loose a lot of health points. If you catch a Cat you get all your <br />\r\nhealth back. There are 5 difficulties with 5 unlockable weapons and 10 levels with music.",
-  "about_the_game": "In this VR only game you try to avoid getting hit by Tomatoes and other food. Cats might also be thrown at you. You can slice food <br />\r\nbeing thrown at you or you can catch it, but if you slice a cat you loose a lot of health points. If you catch a Cat you get all your <br />\r\nhealth back. There are 5 difficulties with 5 unlockable weapons and 10 levels with music.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Easy Controller",
   "slug": "easy-controller",
   "developer": "1bit Army",
-  "publisher": "1bit Army",
-  "release_date": "May 1, 2025",
+  "publisher": "",
+  "release_date": "2025-05-01",
   "price_usd": 7.99,
   "genres": [
     "Utilities"
@@ -17,30 +17,15 @@
   ],
   "short_description": "With this application, you can control your computer using any console controller—right from your couch! Browse applications, manage tasks, and enjoy games that don't support controllers natively.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3587880/134ae08972b4006d2ab2425eb48f192eb42bb412/header.jpg?t=1764414520",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3587880/128fc28dc0d25ce951b714d4b4fb5513e1a84cdc/ss_128fc28dc0d25ce951b714d4b4fb5513e1a84cdc.600x338.jpg?t=1764414520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3587880/b6e894fc3c2325dd447218adb2ab63d72c94511c/ss_b6e894fc3c2325dd447218adb2ab63d72c94511c.600x338.jpg?t=1764414520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3587880/a4627f3ec2decf374a9dae698966a7cb1a9355cf/ss_a4627f3ec2decf374a9dae698966a7cb1a9355cf.600x338.jpg?t=1764414520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3587880/2d6850bef74a6659c359d701da73bbd5bd5c48fa/ss_2d6850bef74a6659c359d701da73bbd5bd5c48fa.600x338.jpg?t=1764414520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3587880/5d65fd459b25feb153686d1aad5b3dae058f4f2f/ss_5d65fd459b25feb153686d1aad5b3dae058f4f2f.600x338.jpg?t=1764414520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3587880/e370e98d28e8a4964e79359ec3647f6dd625c071/ss_e370e98d28e8a4964e79359ec3647f6dd625c071.600x338.jpg?t=1764414520"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >A tool created <strong>by gamers, for gamers</strong>.<br><br>Because controlling your PC from the <strong>couch</strong> with your gamepad is <strong>priceless</strong>.<br><br><strong>Compatible with any controller!</strong><br><br><u>Coming soon:</u></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Linux and Mac support</p></li><li><p class=\"bb_paragraph\" >Customizable mapping<br> </p></li></ul><p class=\"bb_paragraph\" ><strong>IMPORTANT! To avoid conflicts, we suggest disabling Steam Input. How? Very simple. In your Library, right-click the game, go to Properties, then Controller, and in the dropdown menu that appears, select Disable Steam Input.</strong></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >A tool created <strong>by gamers, for gamers</strong>.<br><br>Because controlling your PC from the <strong>couch</strong> with your gamepad is <strong>priceless</strong>.<br><br><strong>Compatible with any controller!</strong><br><br><u>Coming soon:</u></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Linux and Mac support</p></li><li><p class=\"bb_paragraph\" >Customizable mapping<br> </p></li></ul><p class=\"bb_paragraph\" ><strong>IMPORTANT! To avoid conflicts, we suggest disabling Steam Input. How? Very simple. In your Library, right-click the game, go to Properties, then Controller, and in the dropdown menu that appears, select Disable Steam Input.</strong></p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -48,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

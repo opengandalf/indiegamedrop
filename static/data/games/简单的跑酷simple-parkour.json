@@ -3,8 +3,8 @@
   "name": "简单的跑酷(Simple parkour)",
   "slug": "简单的跑酷simple-parkour",
   "developer": "tree",
-  "publisher": "tree",
-  "release_date": "Jul 23, 2021",
+  "publisher": "",
+  "release_date": "2021-07-23",
   "price_usd": 0.99,
   "genres": [
     "Casual"
@@ -15,34 +15,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Independently developed casual parkour games. Players through the keyboard W, A, D, S key operation role, jump, left and right, down, to avoid obstacles. Encountering obstacles reduces energy and retrieves it by acquiring items.",
+  "short_description": "Independently developed casual parkour games. Players through the keyboard W, A, D, S key operation role, jump, left and right, down, to avoid obstacles. Encountering obstacles reduces energy and retr",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1685500/header.jpg?t=1627038444",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1685500/ss_e679d9066656c573bcb6b332881861f0b920a0f0.600x338.jpg?t=1627038444",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1685500/ss_6d4be8f513307914d3d1c81fe1a3ea8ffb890fb1.600x338.jpg?t=1627038444",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1685500/ss_f150a32c1328b69e68133e475aba52a5a7b42f97.600x338.jpg?t=1627038444",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1685500/ss_b1da42cda7bfc197d1ae55437478bcc86ec3e6fd.600x338.jpg?t=1627038444",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1685500/ss_d18536a873deedfcef91fdb0833c25c570095e44.600x338.jpg?t=1627038444"
-  ],
-  "detailed_description": "\"Simple Parkour\" is a simple casual parkour game,The role of the game automatically run, the player through the keyboard W A S D keys to operate the role jump, left and right and down to avoid obstacles.<br />\r\nEncountering obstacles reduces energy and gains energy by acquiring items.",
-  "about_the_game": "\"Simple Parkour\" is a simple casual parkour game,The role of the game automatically run, the player through the keyboard W A S D keys to operate the role jump, left and right and down to avoid obstacles.<br />\r\nEncountering obstacles reduces energy and gains energy by acquiring items.",
-  "supported_languages": "Simplified Chinese, English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 4,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

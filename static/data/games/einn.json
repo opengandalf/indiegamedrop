@@ -3,8 +3,8 @@
   "name": "Einn",
   "slug": "einn",
   "developer": "Crazy Magnet Studios",
-  "publisher": "Crazy Magnet Studios",
-  "release_date": "Jul 23, 2019",
+  "publisher": "",
+  "release_date": "2019-07-23",
   "price_usd": 9.99,
   "genres": [
     "Action",
@@ -21,37 +21,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Separated from your raiding party you are a lone viking stranded in a strange new world. Use the environment to craft tools and weapons. Gather resources to build shelters. Hunt and be hunted by the local life. Will you let this new world claim you? Don't just survive. Thrive!",
+  "short_description": "Separated from your raiding party you are a lone viking stranded in a strange new world. Use the environment to craft tools and weapons. Gather resources to build shelters. Hunt and be hunted by the l",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1111990/header.jpg?t=1563865903",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1111990/ss_76bde3c6b1298252933f8f46274da4904aefbaa7.600x338.jpg?t=1563865903",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1111990/ss_3283463a05db45eb6d5fc3ec88f60f2dd121794e.600x338.jpg?t=1563865903",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1111990/ss_517cec8db702d1457b9608db0518f281e43cd842.600x338.jpg?t=1563865903",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1111990/ss_e8e7f2917db7a47602b28e40e0aa8d1728c0045a.600x338.jpg?t=1563865903",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1111990/ss_3cefdcada15e38493ce6d36454e1804137520cbd.600x338.jpg?t=1563865903",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1111990/ss_06ff2b402b0c48d289dcddaf5140ced0dbbe3df8.600x338.jpg?t=1563865903",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1111990/ss_a55b6a17d2aad2fe2932b2edea7df89ccdc1ffa1.600x338.jpg?t=1563865903",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1111990/ss_bb38951b0115dad12f0e2971f8f2b76ab4d14623.600x338.jpg?t=1563865903"
-  ],
-  "detailed_description": "Separated from your raiding party you are a lone viking stranded in a strange new world. Use the environment to craft tools and weapons. Gather resources to build shelters. Hunt and be hunted by the local life. Will you let this new world claim you? Don't just survive. Thrive!",
-  "about_the_game": "Separated from your raiding party you are a lone viking stranded in a strange new world. Use the environment to craft tools and weapons. Gather resources to build shelters. Hunt and be hunted by the local life. Will you let this new world claim you? Don't just survive. Thrive!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 7,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 14.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 14.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 14.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

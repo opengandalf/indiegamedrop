@@ -3,8 +3,8 @@
   "name": "DoDodge",
   "slug": "dododge",
   "developer": "HIZUKI",
-  "publisher": "HIZUKI",
-  "release_date": "Jan 27, 2023",
+  "publisher": "",
+  "release_date": "2023-01-27",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -17,34 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "DoDodge is a game about dodging the music notes playing with Youtube video. Also, there is basic NCS songs for who that wants to try this game simple. Control is very simple, press left arrow or right arrow to dodge the notes. You can play all kinds of music with youtube play!",
+  "short_description": "DoDodge is a game about dodging the music notes playing with Youtube video. Also, there is basic NCS songs for who that wants to try this game simple. Control is very simple, press left arrow or right",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277790/header.jpg?t=1681212457",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277790/ss_b24edf3043e2a97645f858392cc42e13bac595e6.600x338.jpg?t=1681212457",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277790/ss_00a65418098c8d99ff46e63c3ebd328500bafca3.600x338.jpg?t=1681212457",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277790/ss_09367006ecf7d224ad76c225262ba20f44323412.600x338.jpg?t=1681212457",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277790/ss_598bd86e325f96ee7df4ca28d9737fc03a50c235.600x338.jpg?t=1681212457",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277790/ss_cb4d244b23ed429498beb77280ba2c12ecbb501b.600x338.jpg?t=1681212457"
-  ],
-  "detailed_description": "DoDodge is a game about dodging the music notes playing with all kinds of music. There is basic NCS songs for who that wants to try this game simply. Control is very simple, press left arrow and right arrow to dodge the notes. The speed will get faster as you play, so you can feel the thrill. You can get higher score by keep moving and dodging the notes risky. You can play all kinds of music with youtube play!",
-  "about_the_game": "DoDodge is a game about dodging the music notes playing with all kinds of music. There is basic NCS songs for who that wants to try this game simply. Control is very simple, press left arrow and right arrow to dodge the notes. The speed will get faster as you play, so you can feel the thrill. You can get higher score by keep moving and dodging the notes risky. You can play all kinds of music with youtube play!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "In-App Purchases"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.45,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 9,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 77.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 71.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 77.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

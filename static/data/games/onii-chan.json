@@ -3,8 +3,8 @@
   "name": "Onii-Chan",
   "slug": "onii-chan",
   "developer": "voksolril",
-  "publisher": "voksolril",
-  "release_date": "Mar 27, 2018",
+  "publisher": "",
+  "release_date": "2018-03-27",
   "price_usd": 0.0,
   "genres": [],
   "tags": [],
@@ -13,35 +13,9 @@
   ],
   "short_description": "",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/807920/header.jpg?t=1594056137",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/807920/ss_6154db27ef439ab8913c42e464b55738efb0bd36.600x338.jpg?t=1594056137",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/807920/ss_64e9b598802641db3eed4f1237cb737901f30552.600x338.jpg?t=1594056137",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/807920/ss_83823c81c2787aa647131e034e51d956ef935a82.600x338.jpg?t=1594056137",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/807920/ss_42686db5032d469bcea9b891aa610c2b7b8bd54b.600x338.jpg?t=1594056137",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/807920/ss_09f33490ac37197bc86c00030bf6bd6075cee3c3.600x338.jpg?t=1594056137",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/807920/ss_138637aaf9318e421cd7024313e2cd856237dbfc.600x338.jpg?t=1594056137",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/807920/ss_bd599c0fd224a7e2d6143327cfc937461fe76daa.600x338.jpg?t=1594056137"
-  ],
-  "detailed_description": "",
-  "about_the_game": "",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 105,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 134,
-  "review_positive": 76,
+  "review_positive": 0,
   "review_percentage": 56.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -49,26 +23,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 139,
-      "review_percentage": 56.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 134,
-      "review_percentage": 56.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
+      "date": "2026-04-04",
       "review_count": 134,
       "review_percentage": 56.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

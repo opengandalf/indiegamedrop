@@ -3,8 +3,8 @@
   "name": "Wire up!",
   "slug": "wire-up",
   "developer": "Indium Entertainment",
-  "publisher": "Indium Entertainment",
-  "release_date": "May 19, 2020",
+  "publisher": "",
+  "release_date": "2020-05-19",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -21,31 +21,9 @@
   ],
   "short_description": "Help robots to party!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252920/header.jpg?t=1627042713",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252920/ss_38e8b6aa152d3ce56627b7bf90289b1715381fae.600x338.jpg?t=1627042713",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252920/ss_f8a1aa84139c76590376869df650a0889525dbd0.600x338.jpg?t=1627042713",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252920/ss_e87120de2a0bfb2deb13ce827ac5b593962cf2ad.600x338.jpg?t=1627042713",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252920/ss_62368831667f530e284bcab1d8f24d00ea2d3ca2.600x338.jpg?t=1627042713",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252920/ss_5e739bdca1ea9f05be5fe1dd17892b2bc7d739c4.600x338.jpg?t=1627042713"
-  ],
-  "detailed_description": "Wire up! - is an indie game, where you connect robots, so they could party!<br />\r\nShoot wires, connect robots, play for the score.<br />\r\n<br />\r\nWire up! was made during Global Game Jam 2020.<br />\r\nIn-game music - \"Zombie disco\" by six umbrellas.",
-  "about_the_game": "Wire up! - is an indie game, where you connect robots, so they could party!<br />\r\nShoot wires, connect robots, play for the score.<br />\r\n<br />\r\nWire up! was made during Global Game Jam 2020.<br />\r\nIn-game music - \"Zombie disco\" by six umbrellas.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 5,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 80.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 80.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Brick Stack VR",
   "slug": "brick-stack-vr",
   "developer": "Andrew French",
-  "publisher": "Andrew French",
-  "release_date": "Jul 26, 2016",
+  "publisher": "",
+  "release_date": "2016-07-26",
   "price_usd": 3.99,
   "genres": [
     "Casual",
@@ -19,36 +19,15 @@
   ],
   "short_description": "Surround yourself by three walls of falling bricks as you work as fast as you can to clear them.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504840/header.jpg?t=1483506985",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504840/ss_1869abe6539c0dc310e8bc74a34d5b9cb480215f.600x338.jpg?t=1483506985",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504840/ss_36fb53713191721788d60a25266e5bc9c7e342c9.600x338.jpg?t=1483506985",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504840/ss_73dcbbdd138dd2c19e2ad543492c485834ab4f98.600x338.jpg?t=1483506985",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504840/ss_7ea7f2b5ec2996a97b6ff426af2560a6f129d457.600x338.jpg?t=1483506985",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504840/ss_6d889638c4fc3a611909a0d845c1d2ab5d454f48.600x338.jpg?t=1483506985"
-  ],
-  "detailed_description": "Surround yourself by three walls of falling bricks as you work as fast as you can to clear them.  Using quick timing and careful placement you will move the bricks into complete rows to remove them before they become too high.  As you clear more and more the challenge will only become harder as the bricks fall faster and appear more rapidly.  How long will you last?",
-  "about_the_game": "Surround yourself by three walls of falling bricks as you work as fast as you can to clear them.  Using quick timing and careful placement you will move the bricks into complete rows to remove them before they become too high.  As you clear more and more the challenge will only become harder as the bricks fall faster and appear more rapidly.  How long will you last?",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Tracked Controller Support",
-    "VR Only",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.5,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 10,
-  "review_positive": 10,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 10,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

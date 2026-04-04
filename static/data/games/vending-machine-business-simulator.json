@@ -3,8 +3,8 @@
   "name": "Vending Machine Business Simulator",
   "slug": "vending-machine-business-simulator",
   "developer": "Crow Interactive",
-  "publisher": "Crow Interactive",
-  "release_date": "Jul 23, 2025",
+  "publisher": "",
+  "release_date": "2025-07-23",
   "price_usd": 4.49,
   "genres": [
     "Casual",
@@ -19,52 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Build your business! control every aspect of a thriving vending machine business. Buy, place, and restock machines to increase profits. Do you have what it takes to manage, expand, and dominate the vending industry?",
+  "short_description": "Build your business! control every aspect of a thriving vending machine business. Buy, place, and restock machines to increase profits. Do you have what it takes to manage, expand, and dominate the ve",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/41f7374bd60d1ba412ebe726cb7f6fb352a17bd1/header_alt_assets_0.jpg?t=1773637953",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/9812bb31f1572aff6b92a75be264a17a4db0a684/ss_9812bb31f1572aff6b92a75be264a17a4db0a684.600x338.jpg?t=1773637953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/b04243a9435277b30eb3405225a3703d53cf83a0/ss_b04243a9435277b30eb3405225a3703d53cf83a0.600x338.jpg?t=1773637953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/0b9886e5d9fccb8a30b3f6e6886324af7b91527e/ss_0b9886e5d9fccb8a30b3f6e6886324af7b91527e.600x338.jpg?t=1773637953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/279486b638de534a515086efe9544da9bdec0a14/ss_279486b638de534a515086efe9544da9bdec0a14.600x338.jpg?t=1773637953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/2677091d041d633a9d20fe5e837fc1de3ebe7288/ss_2677091d041d633a9d20fe5e837fc1de3ebe7288.600x338.jpg?t=1773637953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/e013409d76a39d95951b8581ec4d1ba8980ce15a/ss_e013409d76a39d95951b8581ec4d1ba8980ce15a.600x338.jpg?t=1773637953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/79935700c3d16c60a9276763ba594e84c66b31e9/ss_79935700c3d16c60a9276763ba594e84c66b31e9.600x338.jpg?t=1773637953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/30c3205d2fb303e7e7ea3be45d27a93be3bf41b0/ss_30c3205d2fb303e7e7ea3be45d27a93be3bf41b0.600x338.jpg?t=1773637953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/4aeb302462a07a7918412a85e6ebcc4b12683458/ss_4aeb302462a07a7918412a85e6ebcc4b12683458.600x338.jpg?t=1773637953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/9ff35a90b5fdfebca427483772766de1f32a2999/ss_9ff35a90b5fdfebca427483772766de1f32a2999.600x338.jpg?t=1773637953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/c8dcd66f505a4309f60f8b5899b0715ca8295d5f/ss_c8dcd66f505a4309f60f8b5899b0715ca8295d5f.600x338.jpg?t=1773637953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/1209a6086943b937ff16fe0277243fc90be472f6/ss_1209a6086943b937ff16fe0277243fc90be472f6.600x338.jpg?t=1773637953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/90e894d1df42208756fd5ecff9b8b54d11cb81f1/ss_90e894d1df42208756fd5ecff9b8b54d11cb81f1.600x338.jpg?t=1773637953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/f8ce2b89964e0c51798e6b5e2a2e418d3f09f3dd/ss_f8ce2b89964e0c51798e6b5e2a2e418d3f09f3dd.600x338.jpg?t=1773637953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/d4caede3bd60b3affa3873da437da4ac2fe365ea/ss_d4caede3bd60b3affa3873da437da4ac2fe365ea.600x338.jpg?t=1773637953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/b1940ba71ddf128ee22dcd4dd50018ff586d0f40/ss_b1940ba71ddf128ee22dcd4dd50018ff586d0f40.600x338.jpg?t=1773637953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/c3782438152d28f05a62d97e6e18cce7776ff2f4/ss_c3782438152d28f05a62d97e6e18cce7776ff2f4.600x338.jpg?t=1773637953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/62156fd51fa528c34272e3f01c7025bc6ba1054c/ss_62156fd51fa528c34272e3f01c7025bc6ba1054c.600x338.jpg?t=1773637953"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Vending Machine Business Simulator is a simulation game where you start with very little money in your pocket and build a vending empire that spreads across the city. Work for others and once you have the necessary experience and money, start your own business.</p><h2 class=\"bb_tag\" > <strong>Manage Your Machines:</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/8fe2306b17f6acd7a229286e06b961eb.poster.avif?t=1773637953\" width=610 height=150 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/8fe2306b17f6acd7a229286e06b961eb.webm?t=1773637953\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/8fe2306b17f6acd7a229286e06b961eb.mp4?t=1773637953\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Purchase, place, and maintain vending machines across different locations. Keep track of inventory and ensure machines are stocked and operational.</p><h2 class=\"bb_tag\" ><strong>Optimize Profits:</strong> </h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/718d4322e29a6c7c5bfedfa9d66964d0.poster.avif?t=1773637953\" width=610 height=150 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/718d4322e29a6c7c5bfedfa9d66964d0.webm?t=1773637953\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/718d4322e29a6c7c5bfedfa9d66964d0.mp4?t=1773637953\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Follow local events, adjust pricing strategies, and optimize product offerings to maximize revenue and profitability.</p><h2 class=\"bb_tag\" ><strong>Expand Your Empire:</strong> </h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/35d4cbe0ebb585aa79e953b3e849f3ed.poster.avif?t=1773637953\" width=610 height=150 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/35d4cbe0ebb585aa79e953b3e849f3ed.webm?t=1773637953\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/35d4cbe0ebb585aa79e953b3e849f3ed.mp4?t=1773637953\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Unlock new locations and unlock new type of machines to attract more customers and increase sales.</p><h2 class=\"bb_tag\" ><strong>Dynamic Challenges:</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/64a9b10a2c4ad09df6fb03105d8a4537.poster.avif?t=1773637953\" width=610 height=150 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/64a9b10a2c4ad09df6fb03105d8a4537.webm?t=1773637953\" type=\"video/webm; codecs=vp9\"></video></span></p><p class=\"bb_paragraph\" >Overcome challenges such as machine malfunctions, aggressive customers, changing consumer trends, and economic changes.</p><h2 class=\"bb_tag\" ><strong>Realistic Simulation:</strong> </h2><p class=\"bb_paragraph\" >Experience a realistic simulation of the vending machine business, including factors like machine maintenance, customer preferences.</p><p class=\"bb_paragraph\" >Are you ready to embark on the journey to vending success?</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Vending Machine Business Simulator is a simulation game where you start with very little money in your pocket and build a vending empire that spreads across the city. Work for others and once you have the necessary experience and money, start your own business.</p><h2 class=\"bb_tag\" > <strong>Manage Your Machines:</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/8fe2306b17f6acd7a229286e06b961eb.poster.avif?t=1773637953\" width=610 height=150 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/8fe2306b17f6acd7a229286e06b961eb.webm?t=1773637953\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/8fe2306b17f6acd7a229286e06b961eb.mp4?t=1773637953\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Purchase, place, and maintain vending machines across different locations. Keep track of inventory and ensure machines are stocked and operational.</p><h2 class=\"bb_tag\" ><strong>Optimize Profits:</strong> </h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/718d4322e29a6c7c5bfedfa9d66964d0.poster.avif?t=1773637953\" width=610 height=150 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/718d4322e29a6c7c5bfedfa9d66964d0.webm?t=1773637953\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/718d4322e29a6c7c5bfedfa9d66964d0.mp4?t=1773637953\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Follow local events, adjust pricing strategies, and optimize product offerings to maximize revenue and profitability.</p><h2 class=\"bb_tag\" ><strong>Expand Your Empire:</strong> </h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/35d4cbe0ebb585aa79e953b3e849f3ed.poster.avif?t=1773637953\" width=610 height=150 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/35d4cbe0ebb585aa79e953b3e849f3ed.webm?t=1773637953\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/35d4cbe0ebb585aa79e953b3e849f3ed.mp4?t=1773637953\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Unlock new locations and unlock new type of machines to attract more customers and increase sales.</p><h2 class=\"bb_tag\" ><strong>Dynamic Challenges:</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/64a9b10a2c4ad09df6fb03105d8a4537.poster.avif?t=1773637953\" width=610 height=150 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2998750/extras/64a9b10a2c4ad09df6fb03105d8a4537.webm?t=1773637953\" type=\"video/webm; codecs=vp9\"></video></span></p><p class=\"bb_paragraph\" >Overcome challenges such as machine malfunctions, aggressive customers, changing consumer trends, and economic changes.</p><h2 class=\"bb_tag\" ><strong>Realistic Simulation:</strong> </h2><p class=\"bb_paragraph\" >Experience a realistic simulation of the vending machine business, including factors like machine maintenance, customer preferences.</p><p class=\"bb_paragraph\" >Are you ready to embark on the journey to vending success?</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p>",
-  "supported_languages": "English<strong>*</strong>, French, German, Japanese, Korean, Polish, Portuguese - Portugal, Russian, Simplified Chinese, Spanish - Latin America, Turkish, Italian<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Trading Cards",
-    "Partial Controller Support",
-    "Steam Cloud",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 180,
+  "screenshots": [],
   "rising_score": 0.0012,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 44.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 187,
-  "review_positive": 140,
+  "review_positive": 0,
   "review_percentage": 74.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -72,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 143,
-      "review_percentage": 73.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 187,
       "review_percentage": 74.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

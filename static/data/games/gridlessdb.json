@@ -3,8 +3,8 @@
   "name": "GridlessDB",
   "slug": "gridlessdb",
   "developer": "radmatt",
-  "publisher": "radmatt",
-  "release_date": "Aug 24, 2021",
+  "publisher": "",
+  "release_date": "2021-08-24",
   "price_usd": 9.99,
   "genres": [
     "RPG",
@@ -23,40 +23,11 @@
     "mac",
     "linux"
   ],
-  "short_description": "Stop using spreadsheets to create your game data. Instead, use a powerful and intuitive editor with a drag-and-drop interface to design, edit and visualize content for your games, like items, quests, characters, and more. Then export to a text file or Unity's Scriptable Objects.",
+  "short_description": "Stop using spreadsheets to create your game data. Instead, use a powerful and intuitive editor with a drag-and-drop interface to design, edit and visualize content for your games, like items, quests, ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/header.jpg?t=1629894506",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/ss_1a562367e85fecf0bb5914796de4f2c1f60c305c.600x338.jpg?t=1629894506",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/ss_eb6668af58862179765898236591c8759ccc6d21.600x338.jpg?t=1629894506",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/ss_060786949ae92e7a138983bd4aa071bdde7e9e2a.600x338.jpg?t=1629894506",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/ss_80890e0b6c42e94ab0edf155ba8d1cdf36d1fbbd.600x338.jpg?t=1629894506",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/ss_89d4870602ee8661fe855387bcc838e694369f7d.600x338.jpg?t=1629894506",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/ss_5cb56cefd2604ca85c12021a7c399b6f356f91de.600x338.jpg?t=1629894506",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/ss_8b092f85eed90df7832957ae9e9a206ddd1d8804.600x338.jpg?t=1629894506",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/ss_69ed4a6759099784f134f1586c34b965d4a146a7.600x338.jpg?t=1629894506",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/ss_d3dcffa23c572dcccf7fdc63e98d40a01bf84e8d.600x338.jpg?t=1629894506",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/ss_97d29e6bc5d047c4ad8d167f98354bd14bec92cb.600x338.jpg?t=1629894506",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/ss_68012d064fe0840e9a1cfea8440908eb7165e8e8.600x338.jpg?t=1629894506",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/ss_e962ea806d7467153087e0a55b3e9732632f8b2d.600x338.jpg?t=1629894506",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/ss_40ad50eaec99f854caaf932fbd334362c2327fc0.600x338.jpg?t=1629894506",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/ss_81ccef48a4df5861cb0e0ec7ed75ff1e4c8598c3.600x338.jpg?t=1629894506"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Say goodbye to spreadsheets!</h2><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/extras/839e1aaf4f3dcc5036ebf36a0ba92676.webp?t=1629894506\" width=582 height=57 /></span><br>Create editors for <strong>items</strong>, <strong>characters</strong>, <strong>worlds</strong>, <strong>storylines</strong>, and anything else your project needs, using simple building blocks called <i>Properties</i>.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/extras/a68c70c52d717b72618d6b507f23f82d.webp?t=1629894506\" width=582 height=54 /></span><br>Create a familiar <strong>tree-like structure</strong> of your categories and items by simply dragging and dropping ui elements. Use an inheritance system to manage your items' properties and propagate changes through whole sets of items. Changing something at the top of the tree will update all descendant items automatically. No more need for micromanaging.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/extras/4b2fd7832f2f442cf370f5e16149f060.webp?t=1629894506\" width=582 height=54 /></span><br>Use a wide array of inputs to edit your data: from simple text/number boxes to file paths with image previews and dynamic drop-down lists or create your own, <strong>custom inputs</strong>. Design the layout of each category using an intuitive drag and drop ui.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/extras/c345a3bc08dc525d9a31c95ed2ee457c.webp?t=1629894506\" width=582 height=58 /></span><br>Export your databases to easy-to-read file formats (<strong>JSON, INI, CSV</strong>) or export directly to Unity's Scriptable Objects - with one click of a button create all the needed C# classes and objects, then simply drag and drop them into the inspector. Text files can be imported into<strong> Unity, Unreal, Godot, Game Maker, Construct</strong>, and many more (including custom frameworks). There are many options to set the structure of the final file.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/extras/145e526330590199708baee783663de2.avif?t=1629894506\" width=585 height=121 /></span><h2 class=\"bb_tag\" >Features list:</h2><ul class=\"bb_ul\"><li> Create any databases from scratch.<br></li><li> Lightweight and beautiful dark interface.<br></li><li> Drag-and-drop workflow makes it easy to design and edit your content.<br></li><li> Organize using an inheritance tree.<br></li><li> Supports many languages (including those with special characters).<br></li><li> Change your content language with a click of a button.<br></li><li> Export to an easy-to-read file and import it into any game engine or framework.<br></li><li> Export to Unity's Scriptable Objects.<br></li><li> Visualize your data with images and colors. Attach any kind of files.<br></li><li> Easily create custom input types.<br></li><li> Make your data interconnected with references to other databases.<br></li><li> Enable relative paths for easier multi-user editing.</li></ul><br><strong>All future updates will be free for owners of the tool.</strong>",
-  "about_the_game": "<h2 class=\"bb_tag\" >Say goodbye to spreadsheets!</h2><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/extras/839e1aaf4f3dcc5036ebf36a0ba92676.webp?t=1629894506\" width=582 height=57 /></span><br>Create editors for <strong>items</strong>, <strong>characters</strong>, <strong>worlds</strong>, <strong>storylines</strong>, and anything else your project needs, using simple building blocks called <i>Properties</i>.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/extras/a68c70c52d717b72618d6b507f23f82d.webp?t=1629894506\" width=582 height=54 /></span><br>Create a familiar <strong>tree-like structure</strong> of your categories and items by simply dragging and dropping ui elements. Use an inheritance system to manage your items' properties and propagate changes through whole sets of items. Changing something at the top of the tree will update all descendant items automatically. No more need for micromanaging.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/extras/4b2fd7832f2f442cf370f5e16149f060.webp?t=1629894506\" width=582 height=54 /></span><br>Use a wide array of inputs to edit your data: from simple text/number boxes to file paths with image previews and dynamic drop-down lists or create your own, <strong>custom inputs</strong>. Design the layout of each category using an intuitive drag and drop ui.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/extras/c345a3bc08dc525d9a31c95ed2ee457c.webp?t=1629894506\" width=582 height=58 /></span><br>Export your databases to easy-to-read file formats (<strong>JSON, INI, CSV</strong>) or export directly to Unity's Scriptable Objects - with one click of a button create all the needed C# classes and objects, then simply drag and drop them into the inspector. Text files can be imported into<strong> Unity, Unreal, Godot, Game Maker, Construct</strong>, and many more (including custom frameworks). There are many options to set the structure of the final file.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662910/extras/145e526330590199708baee783663de2.avif?t=1629894506\" width=585 height=121 /></span><h2 class=\"bb_tag\" >Features list:</h2><ul class=\"bb_ul\"><li> Create any databases from scratch.<br></li><li> Lightweight and beautiful dark interface.<br></li><li> Drag-and-drop workflow makes it easy to design and edit your content.<br></li><li> Organize using an inheritance tree.<br></li><li> Supports many languages (including those with special characters).<br></li><li> Change your content language with a click of a button.<br></li><li> Export to an easy-to-read file and import it into any game engine or framework.<br></li><li> Export to Unity's Scriptable Objects.<br></li><li> Visualize your data with images and colors. Attach any kind of files.<br></li><li> Easily create custom input types.<br></li><li> Make your data interconnected with references to other databases.<br></li><li> Enable relative paths for easier multi-user editing.</li></ul><br><strong>All future updates will be free for owners of the tool.</strong>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 25,
-  "review_positive": 18,
+  "review_positive": 0,
   "review_percentage": 72.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -64,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 22,
-      "review_percentage": 77.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 25,
       "review_percentage": 72.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

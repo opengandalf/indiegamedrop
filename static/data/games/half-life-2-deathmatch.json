@@ -3,8 +3,8 @@
   "name": "Half-Life 2: Deathmatch",
   "slug": "half-life-2-deathmatch",
   "developer": "Valve",
-  "publisher": "Valve",
-  "release_date": "Nov 1, 2004",
+  "publisher": "",
+  "release_date": "2004-11-01",
   "price_usd": 0.0,
   "genres": [
     "Action"
@@ -16,60 +16,23 @@
     "windows",
     "linux"
   ],
-  "short_description": "Fast multiplayer action set in the Half-Life 2 universe! HL2's physics adds a new dimension to deathmatch play. Play straight deathmatch or try Combine vs. Resistance teamplay. Toss a toilet at your friend today!",
+  "short_description": "Fast multiplayer action set in the Half-Life 2 universe! HL2's physics adds a new dimension to deathmatch play. Play straight deathmatch or try Combine vs. Resistance teamplay. Toss a toilet at your f",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320/header.jpg?t=1749481506",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320/ss_09a55c755073d11c5c708da922abd9005546a5ee.600x338.jpg?t=1749481506",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320/ss_7241594c2575bc1f822f1431490cea485b7aef8a.600x338.jpg?t=1749481506",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320/ss_57349aec96338ccabd38577ea8fcf80b42f0ef49.600x338.jpg?t=1749481506",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320/ss_0312ff64a5839736a7dfa4c4f735f8d48843739e.600x338.jpg?t=1749481506",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320/ss_aee760995a2913908a7d4d0471ca81a22232f4a6.600x338.jpg?t=1749481506"
-  ],
-  "detailed_description": "Fast multiplayer action set in the Half-Life 2 universe! HL2's physics adds a new dimension to deathmatch play. Play straight deathmatch or try Combine vs. Resistance teamplay. Toss a toilet at your friend today!",
-  "about_the_game": "Fast multiplayer action set in the Half-Life 2 universe! HL2's physics adds a new dimension to deathmatch play. Play straight deathmatch or try Combine vs. Resistance teamplay. Toss a toilet at your friend today!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "Custom Volume Controls",
-    "Playable without Timed Input",
-    "Stereo Sound",
-    "Surround Sound",
-    "Valve Anti-Cheat enabled",
-    "Includes Source SDK",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 10026,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 15028,
-  "review_positive": 13645,
+  "review_positive": 0,
   "review_percentage": 90.8,
   "owner_estimate": 15000000,
-  "ccu_estimate": 159,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 30,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 14296,
-      "review_percentage": 90.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 15028,
       "review_percentage": 90.8,
-      "ccu_estimate": 159,
+      "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

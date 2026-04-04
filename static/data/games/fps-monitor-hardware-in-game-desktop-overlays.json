@@ -3,8 +3,8 @@
   "name": "FPS Monitor – hardware in-game & desktop overlays",
   "slug": "fps-monitor-hardware-in-game-desktop-overlays",
   "developer": "Eduard Kozadaev",
-  "publisher": "Eduard Kozadaev",
-  "release_date": "Nov 9, 2018",
+  "publisher": "",
+  "release_date": "2018-11-09",
   "price_usd": 7.79,
   "genres": [
     "Utilities",
@@ -23,30 +23,15 @@
   ],
   "short_description": "FPS Monitor tracks your PC's hardware state and displays this information as an overlay in-game or over desktop. Does not require configuration, it works immediately after installation.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/966610/header.jpg?t=1766346275",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/966610/ss_00461eff27d8d0f38316ed13259627b3d7e804d8.600x338.jpg?t=1766346275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/966610/ss_34f59aa1cedb9d2ee604f923107d227d20d7cc53.600x338.jpg?t=1766346275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/966610/ss_42772cb04914a20250b149dcdcc3f769dfa07cfd.600x338.jpg?t=1766346275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/966610/ss_4ad51b4eb7adeb3cd67fac43b1f0977ff1166eeb.600x338.jpg?t=1766346275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/966610/ss_a7024d64080da8d3e49232d168ae45d74762b7b3.600x338.jpg?t=1766346275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/966610/ss_fdc01aeb7ea1c838bea6879a36602597466e389c.600x338.jpg?t=1766346275"
-  ],
-  "detailed_description": "FPS Monitor tracks your PC's hardware state and displays this information as an overlay in-game. You no longer need to switch to desktop or attach a second display to control your hardware status. FPS Monitor will show all valuable information in-game.<br><br>FPS Monitor is the very first special software tool that not only shows an FPS counter similar to good old Fraps™, but can also display a lot of other parameters. This gives a clear overview of how your hardware is performing while you're gaming.<br><br>FPS Monitor does not require configuration and displays all the most useful information immediately after installation, as well as has a rich functionality for those who prefer to configure everything as he likes.<h2 class=\"bb_tag\" >Core features</h2><ul class=\"bb_ul\"><li>Supports games based on DirectX 9, 10, 11, 12, OpenGL and Vulkan.<br></li><li>Supports rendering to a desktop widget<br></li><li>Can show detailed real time information about CPU, GPU, RAM, Network, hard drives, etc.<br></li><li>Can show detailed real time information about any other sensor like temperatures, voltages, cooler speeds, etc.<br></li><li>Can show realtime hardware information in various graphical form (2D graph as example).<br></li><li>Hardware alerts - software will warn you in the overlay when your hardware is running in a dangerous state or close to critical.<br></li><li>Of course it can calculate and show actual Frame rate, its min/max/average values, frame time, 0.1%/1% Low FPS values.</li></ul><h2 class=\"bb_tag\" >Convenience</h2><ul class=\"bb_ul\"><li>You can configure the font, size, style, colors and other rendering options for each sensor value right in the program (WYSIWYG).<br></li><li>You can add text, images and filled rectangles and clock in a scene.<br></li><li>You can prepare a set of different scenes and switch between them even during playing game.<br></li><li>You can take screenshots from games.<br></li><li>FPS Lock feature.</li></ul><br>FPS Monitor is compatible with well known anti-cheats: Valve Anti-Cheat, EasyAntiCheat, PunkBuster, BattlEye and many others.",
-  "about_the_game": "FPS Monitor tracks your PC's hardware state and displays this information as an overlay in-game. You no longer need to switch to desktop or attach a second display to control your hardware status. FPS Monitor will show all valuable information in-game.<br><br>FPS Monitor is the very first special software tool that not only shows an FPS counter similar to good old Fraps™, but can also display a lot of other parameters. This gives a clear overview of how your hardware is performing while you're gaming.<br><br>FPS Monitor does not require configuration and displays all the most useful information immediately after installation, as well as has a rich functionality for those who prefer to configure everything as he likes.<h2 class=\"bb_tag\" >Core features</h2><ul class=\"bb_ul\"><li>Supports games based on DirectX 9, 10, 11, 12, OpenGL and Vulkan.<br></li><li>Supports rendering to a desktop widget<br></li><li>Can show detailed real time information about CPU, GPU, RAM, Network, hard drives, etc.<br></li><li>Can show detailed real time information about any other sensor like temperatures, voltages, cooler speeds, etc.<br></li><li>Can show realtime hardware information in various graphical form (2D graph as example).<br></li><li>Hardware alerts - software will warn you in the overlay when your hardware is running in a dangerous state or close to critical.<br></li><li>Of course it can calculate and show actual Frame rate, its min/max/average values, frame time, 0.1%/1% Low FPS values.</li></ul><h2 class=\"bb_tag\" >Convenience</h2><ul class=\"bb_ul\"><li>You can configure the font, size, style, colors and other rendering options for each sensor value right in the program (WYSIWYG).<br></li><li>You can add text, images and filled rectangles and clock in a scene.<br></li><li>You can prepare a set of different scenes and switch between them even during playing game.<br></li><li>You can take screenshots from games.<br></li><li>FPS Lock feature.</li></ul><br>FPS Monitor is compatible with well known anti-cheats: Valve Anti-Cheat, EasyAntiCheat, PunkBuster, BattlEye and many others.",
-  "supported_languages": "English, Italian, Hungarian, Korean, Portuguese - Brazil, Russian, Thai",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 2078,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0003,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 111.7,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2234,
-  "review_positive": 1866,
+  "review_positive": 0,
   "review_percentage": 83.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2095,
-      "review_percentage": 84.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 2234,
       "review_percentage": 83.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

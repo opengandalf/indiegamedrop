@@ -3,8 +3,8 @@
   "name": "BeyondThere",
   "slug": "beyondthere",
   "developer": "Regen",
-  "publisher": "Regen",
-  "release_date": "Oct 30, 2024",
+  "publisher": "",
+  "release_date": "2024-10-30",
   "price_usd": 1.99,
   "genres": [
     "Indie",
@@ -17,34 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Beyond There is an immersive first-person horror game where you explore the eerie house of a missing friend. As you uncover dark secrets and confront terrifying encounters, your sanity will be tested. Can you uncover the truth behind their disappearance, or will the house consume you too?",
+  "short_description": "Beyond There is an immersive first-person horror game where you explore the eerie house of a missing friend. As you uncover dark secrets and confront terrifying encounters, your sanity will be tested.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3207730/header.jpg?t=1730291434",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3207730/ss_67a5e8b5767494d26afc2f512d2b3b4f0419c059.600x338.jpg?t=1730291434",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3207730/ss_1ac0a1104161e285832464bda7f67b875d3f3fb7.600x338.jpg?t=1730291434",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3207730/ss_f86578db541528ae3befee922b3310877089cbdb.600x338.jpg?t=1730291434",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3207730/ss_d5664d024215b017c377c95923c8d3e8cc5bc1c5.600x338.jpg?t=1730291434",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3207730/ss_9921f360bf3c3d598e38e2c74bcafb5333f7321e.600x338.jpg?t=1730291434"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >About Game</h2><p class=\"bb_paragraph\" >You enter a dark, eerie house in search of your friend who has gone missing.</p><p class=\"bb_paragraph\" >But soon you realize that your friend isn’t the only one waiting for you inside.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Beyond There </strong>is a first-person psychological horror game. You visit a friend's house to find your missing friend, but as time goes on, strange things begin to happen. In the face of ominous sounds drawing closer and encroaching darkness, will you be able to uncover your friend's fate?</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game contains flashes of light that can cause epileptic seizures.</p><p class=\"bb_paragraph\" ></p>",
-  "about_the_game": "<h2 class=\"bb_tag\" >About Game</h2><p class=\"bb_paragraph\" >You enter a dark, eerie house in search of your friend who has gone missing.</p><p class=\"bb_paragraph\" >But soon you realize that your friend isn’t the only one waiting for you inside.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Beyond There </strong>is a first-person psychological horror game. You visit a friend's house to find your missing friend, but as time goes on, strange things begin to happen. In the face of ominous sounds drawing closer and encroaching darkness, will you be able to uncover your friend's fate?</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game contains flashes of light that can cause epileptic seizures.</p><p class=\"bb_paragraph\" ></p>",
-  "supported_languages": "English, Korean",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.0,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 20,
-  "review_positive": 15,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 21,
-      "review_percentage": 76.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 20,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

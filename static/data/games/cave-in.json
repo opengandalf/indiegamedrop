@@ -3,8 +3,8 @@
   "name": "Cave in",
   "slug": "cave-in",
   "developer": "Hypovolemiadeveloper",
-  "publisher": "Hypovolemiadeveloper",
-  "release_date": "May 19, 2024",
+  "publisher": "",
+  "release_date": "2024-05-19",
   "price_usd": 0.99,
   "genres": [
     "Adventure",
@@ -17,34 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Cave in is a game where the player enteres a dark and mysterious cave to explore, but the cave collapses behind and the player must survive inside the cave with typical survival mechanics (hunger, thirst, fatigue) all the while having an errie sense of dread in the humming dark cold cave.",
+  "short_description": "Cave in is a game where the player enteres a dark and mysterious cave to explore, but the cave collapses behind and the player must survive inside the cave with typical survival mechanics (hunger, thi",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2944190/header.jpg?t=1750975922",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2944190/ss_3bbad3f5c76eb4ab60b282f073112f25247eedfd.600x338.jpg?t=1750975922",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2944190/ss_ff36c556993f6a9852d40d6bb7a165234ea54190.600x338.jpg?t=1750975922",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2944190/ss_61a4de580169c2c6ca7dbd8d3470ca01a961877d.600x338.jpg?t=1750975922",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2944190/ss_66b6ce582fea37e86efe921e8f3d54608d77fa95.600x338.jpg?t=1750975922",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2944190/ss_d6c8c6401fa53931715fb8dd510ce280b992c90d.600x338.jpg?t=1750975922"
-  ],
-  "detailed_description": "you are about to explore a cave, the cave collapses and now you must survive and dig out!<br />\r\n<br />\r\nthe cave is hazardous, so watch your step.<br />\r\nwith a backpack and some camp food and drink, you must find extra food and water inside the cave, use your wits no hand holding.<br />\r\nunerving atmosphere of the cave is your only friend, you might find some dark creatures inside.<br />\r\n<br />\r\n<br />\r\n<br />\r\nthis is a short survival game, it can be completed in under four hours.",
-  "about_the_game": "you are about to explore a cave, the cave collapses and now you must survive and dig out!<br />\r\n<br />\r\nthe cave is hazardous, so watch your step.<br />\r\nwith a backpack and some camp food and drink, you must find extra food and water inside the cave, use your wits no hand holding.<br />\r\nunerving atmosphere of the cave is your only friend, you might find some dark creatures inside.<br />\r\n<br />\r\n<br />\r\n<br />\r\nthis is a short survival game, it can be completed in under four hours.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

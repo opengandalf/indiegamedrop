@@ -3,8 +3,8 @@
   "name": "BreakHack",
   "slug": "breakhack",
   "developer": "Linus Probert",
-  "publisher": "Oliveshark",
-  "release_date": "Sep 25, 2018",
+  "publisher": "",
+  "release_date": "2018-09-25",
   "price_usd": 0.99,
   "genres": [
     "Adventure",
@@ -26,39 +26,15 @@
   ],
   "short_description": "BreakHack is a casual roguelike intended to provide entertainment for 10-30 minutes when you are taking a break from anything else in your life.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931040/header.jpg?t=1740418262",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931040/ss_1e570939e40573d312cab27260422b4d85e4c084.600x338.jpg?t=1740418262",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931040/ss_a5056bf88d139bc361d44103328fbe7d7e652604.600x338.jpg?t=1740418262",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931040/ss_e7813bdf9cb1827d13976543d9fc661de7c559c4.600x338.jpg?t=1740418262",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931040/ss_857e12588287796d32c0e2c450b070fa9bcc3b64.600x338.jpg?t=1740418262",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931040/ss_46400e8163dba8fdc11a409deb902f75707f37cb.600x338.jpg?t=1740418262",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931040/ss_5785ef5e3dc7e7261bb690d893c610787921fcaa.600x338.jpg?t=1740418262",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931040/ss_25c892a81ba156a3cac763e29beff398cb20ffca.600x338.jpg?t=1740418262",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931040/ss_fc9bb44ec3cfcec38d6c6c13487583f3e32ca5a4.600x338.jpg?t=1740418262"
-  ],
-  "detailed_description": "BreakHack is a casual roguelike intended to provide entertainment for 10-30 minutes when you are taking a break from anything else in your life.<br><br>It's easy to learn but hard to beat, no save games, no extra lives no fuss. Just enter the dungeon kill the monsters and get the loot.<br>Dungeons are procedurally generated on every playthrough. You will always get a unique new dungeon to explore every time you play.<br><br>Currently you can play as the Warrior or the Rogue who have different skills and play styles.<br><br>Once I get the time and there seems to be a demand (since I'm the only developer and I do this in my spare time) I will add additional playable classes to the game.<h2 class=\"bb_tag\" ><strong>Source code</strong></h2>The source to this game is available on GitHub.",
-  "about_the_game": "BreakHack is a casual roguelike intended to provide entertainment for 10-30 minutes when you are taking a break from anything else in your life.<br><br>It's easy to learn but hard to beat, no save games, no extra lives no fuss. Just enter the dungeon kill the monsters and get the loot.<br>Dungeons are procedurally generated on every playthrough. You will always get a unique new dungeon to explore every time you play.<br><br>Currently you can play as the Warrior or the Rogue who have different skills and play styles.<br><br>Once I get the time and there seems to be a demand (since I'm the only developer and I do this in my spare time) I will add additional playable classes to the game.<h2 class=\"bb_tag\" ><strong>Source code</strong></h2>The source to this game is available on GitHub.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Steam Cloud",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 4,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -66,19 +42,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

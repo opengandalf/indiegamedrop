@@ -3,8 +3,8 @@
   "name": "CRUMB Circuit Simulator",
   "slug": "crumb-circuit-simulator",
   "developer": "Mike Bushell",
-  "publisher": "Mike Bushell",
-  "release_date": "Nov 18, 2022",
+  "publisher": "",
+  "release_date": "2022-11-18",
   "price_usd": 6.02,
   "genres": [
     "Simulation"
@@ -17,35 +17,15 @@
   ],
   "short_description": "Powerful Realtime 3D Electronic Circuit Simulator",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198800/header.jpg?t=1732890458",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198800/ss_b8346aae26787242312927697c15c1eb1180b17f.600x338.jpg?t=1732890458",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198800/ss_d7f0bf2e6895bc1f54f7483f5625a101eb34c51b.600x338.jpg?t=1732890458",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198800/ss_c6134055a5df3f54e56409baaca20fc44d44cbac.600x338.jpg?t=1732890458",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198800/ss_61cd987d0a822e16b6bdbf220c75d681556cbb2e.600x338.jpg?t=1732890458",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198800/ss_772a01ab597e28c604c41e5d23e1f38a9ed557ce.600x338.jpg?t=1732890458",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198800/ss_70dd270ef4c3fbc504deb6f12e0ff12331fbadfd.600x338.jpg?t=1732890458",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198800/ss_ed1875ea1d6bd17ca3f7ff174c36334587df873d.600x338.jpg?t=1732890458",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198800/ss_203b6b7fab971c7863bd176a9d5c4a32931818a1.600x338.jpg?t=1732890458"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198800/extras/f9acda55d0979324333dd8243046f9e3.avif?t=1732890458\" width=627 height=135 /></span><h2 class=\"bb_tag\" >Interactive and immersive learning</h2>CRUMB offers an easy to use and interactive introduction to electronic circuitry. Fully realised in 3D, you can construct prototype circuits as you would at the workbench without the risk of terminal component failure or the hassle of ordering individual components. A broad selection of parts and features offers an insight into many different areas of modern electronics<br><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198800/extras/ee1a1eba48f587f379cf1f6804ee550b.avif?t=1732890458\" width=627 height=90 /></span><h2 class=\"bb_tag\" >Large catalogue of components </h2>CRUMB has a varied selection of components, even at this early stage in its development. There are no limits to what circuits you can create. CRUMB includes several built-in examples which showcase some of the abilities of CRUMB. This list below highlights some of the included components<br><br><br><ul class=\"bb_ul\"><li>Passives such as Resistors, Capacitors and Inductors<br></li><li>Tactile, slide and DIP switches<br></li><li>Semiconductors such as Diodes, BJT Transistors, MOSFETs and Silicon Controlled Rectifiers<br></li><li>LEDS, Transducers, Seven Segment displays<br></li><li>LCD and TFT displays<br></li><li>DC Power and Signal Generators<br></li><li>Large selection of Integrated Circuits ranging from Basic to Complex Logic, Timers, Counters, Memory, EEPROM and Op Amps<br></li><li>Fully programmable Microcontroller</li></ul><h2 class=\"bb_tag\" >Advanced features</h2>The latest update has expanded some of the special features included with CRUMB<br><br><br><strong>Code Editor</strong><br>The built-in Code Editor has been expanded to allow the viewing and editing of the Source Files that I have written for the programmable Microcontroller included in CRUMB<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198800/extras/9de32040d197a3caf3d33a5362294899.avif?t=1732890458\" width=600 height=378 /></span><br><br><strong>Hex Editor</strong><br>This is an EEPROM available to use which can be programmed via circuitry (see built-in example) or values can be entered manually with the built-in hex editor<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198800/extras/8434245624cfa8bbea3beffa80b8d129.avif?t=1732890458\" width=600 height=284 /></span><br><br><strong>Scope Analysis</strong><br>Up to 4 components can be added to the built-in scope, allowing you to view the intricacies of your circuit<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198800/extras/09ae5b69cb67436fd0b0f0d2dd3895f6.avif?t=1732890458\" width=600 height=271 /></span><br><br><strong>Visualisation</strong><br>CRUMB offers a set of different visualisations tools. You can view current and voltages in the wires, logic output at the pins of various components, highlight the pin labels and anodes of polarized components and switch off the scene lighting for dark mode<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198800/extras/90c3d78788870890c6d315b86c632e46.avif?t=1732890458\" width=600 height=378 /></span>",
-  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198800/extras/f9acda55d0979324333dd8243046f9e3.avif?t=1732890458\" width=627 height=135 /></span><h2 class=\"bb_tag\" >Interactive and immersive learning</h2>CRUMB offers an easy to use and interactive introduction to electronic circuitry. Fully realised in 3D, you can construct prototype circuits as you would at the workbench without the risk of terminal component failure or the hassle of ordering individual components. A broad selection of parts and features offers an insight into many different areas of modern electronics<br><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198800/extras/ee1a1eba48f587f379cf1f6804ee550b.avif?t=1732890458\" width=627 height=90 /></span><h2 class=\"bb_tag\" >Large catalogue of components </h2>CRUMB has a varied selection of components, even at this early stage in its development. There are no limits to what circuits you can create. CRUMB includes several built-in examples which showcase some of the abilities of CRUMB. This list below highlights some of the included components<br><br><br><ul class=\"bb_ul\"><li>Passives such as Resistors, Capacitors and Inductors<br></li><li>Tactile, slide and DIP switches<br></li><li>Semiconductors such as Diodes, BJT Transistors, MOSFETs and Silicon Controlled Rectifiers<br></li><li>LEDS, Transducers, Seven Segment displays<br></li><li>LCD and TFT displays<br></li><li>DC Power and Signal Generators<br></li><li>Large selection of Integrated Circuits ranging from Basic to Complex Logic, Timers, Counters, Memory, EEPROM and Op Amps<br></li><li>Fully programmable Microcontroller</li></ul><h2 class=\"bb_tag\" >Advanced features</h2>The latest update has expanded some of the special features included with CRUMB<br><br><br><strong>Code Editor</strong><br>The built-in Code Editor has been expanded to allow the viewing and editing of the Source Files that I have written for the programmable Microcontroller included in CRUMB<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198800/extras/9de32040d197a3caf3d33a5362294899.avif?t=1732890458\" width=600 height=378 /></span><br><br><strong>Hex Editor</strong><br>This is an EEPROM available to use which can be programmed via circuitry (see built-in example) or values can be entered manually with the built-in hex editor<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198800/extras/8434245624cfa8bbea3beffa80b8d129.avif?t=1732890458\" width=600 height=284 /></span><br><br><strong>Scope Analysis</strong><br>Up to 4 components can be added to the built-in scope, allowing you to view the intricacies of your circuit<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198800/extras/09ae5b69cb67436fd0b0f0d2dd3895f6.avif?t=1732890458\" width=600 height=271 /></span><br><br><strong>Visualisation</strong><br>CRUMB offers a set of different visualisations tools. You can view current and voltages in the wires, logic output at the pins of various components, highlight the pin labels and anodes of polarized components and switch off the scene lighting for dark mode<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2198800/extras/90c3d78788870890c6d315b86c632e46.avif?t=1732890458\" width=600 height=378 /></span>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 695,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 35.65,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 713,
-  "review_positive": 555,
+  "review_positive": 0,
   "review_percentage": 77.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 585,
-      "review_percentage": 79.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 713,
       "review_percentage": 77.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Antenna",
   "slug": "antenna",
   "developer": "LWNA",
-  "publisher": "LWNA",
-  "release_date": "Apr 7, 2016",
+  "publisher": "",
+  "release_date": "2016-04-07",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -21,61 +21,27 @@
   ],
   "short_description": "A machine ponders its loneliness. It scans the radio spectrum for an answer to its question.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/443580/header.jpg?t=1477864446",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/443580/ss_c1b7176b12cf004705dba883e2ff30b8b984de5d.600x338.jpg?t=1477864446",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/443580/ss_5cde60307f1b05ea57129075daba5b0028472e76.600x338.jpg?t=1477864446",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/443580/ss_de762187cb013ecf20c842a9aab56a808175c4b8.600x338.jpg?t=1477864446",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/443580/ss_a6483ed1e8f4b8f24e4657b6fa2f978b24afa701.600x338.jpg?t=1477864446",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/443580/ss_d82e23db2d0b1517af5c4c797caacfbd01ee4022.600x338.jpg?t=1477864446",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/443580/ss_ac15c5a278f44792c0a27f42854b5479921aeada.600x338.jpg?t=1477864446",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/443580/ss_56062eaf1b313fd21e71dc14abc63a144bda3859.600x338.jpg?t=1477864446"
-  ],
-  "detailed_description": "<strong>A machine ponders its loneliness. It scans the radio spectrum for an answer to its question.</strong><br><br>Antenna currently supports US keyboard input only. <br>Other keyboard layouts will work but results may be unpredictable. <br>Mouse wheel required.<br>Puzzles are Audio Based, Please ensure you have sound on.",
-  "about_the_game": "<strong>A machine ponders its loneliness. It scans the radio spectrum for an answer to its question.</strong><br><br>Antenna currently supports US keyboard input only. <br>Other keyboard layouts will work but results may be unpredictable. <br>Mouse wheel required.<br>Puzzles are Audio Based, Please ensure you have sound on.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0004,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 44.0,
+  "review_velocity_7d": 135.75,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2715,
-  "review_positive": 2071,
+  "review_positive": 0,
   "review_percentage": 76.3,
   "owner_estimate": 350000,
-  "ccu_estimate": 2,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 33,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2671,
-      "review_percentage": 76.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
+      "date": "2026-04-04",
       "review_count": 2715,
       "review_percentage": 76.3,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
-      "review_count": 2715,
-      "review_percentage": 76.3,
-      "ccu_estimate": 2,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

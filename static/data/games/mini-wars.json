@@ -3,8 +3,8 @@
   "name": "MINI Wars",
   "slug": "mini-wars",
   "developer": "Applykat",
-  "publisher": "Applykat",
-  "release_date": "Nov 11, 2019",
+  "publisher": "",
+  "release_date": "2019-11-11",
   "price_usd": 6.99,
   "genres": [
     "Action",
@@ -27,32 +27,9 @@
   ],
   "short_description": "MINI Wars, FPS Survival Game",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122870/header.jpg?t=1616439436",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122870/ss_bf9e46302fcec8247662726d77b9e78537e85cdc.600x338.jpg?t=1616439436",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122870/ss_bd8d1b982921a07ecc3fda1b649b6f49b52196c0.600x338.jpg?t=1616439436",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122870/ss_42f92ac63ae698790f7f176ca22e8246ca1ab51f.600x338.jpg?t=1616439436",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122870/ss_db608a10d8557289bcfc2f5a9e79ad3285005b86.600x338.jpg?t=1616439436",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122870/ss_920d05de24fe6cb131f737a8f4f4b1c6cdb7fc54.600x338.jpg?t=1616439436"
-  ],
-  "detailed_description": "MINI Wars is a Survival FPS Game. Try to survive the zombie infection!. Get the guns and stuff!",
-  "about_the_game": "MINI Wars is a Survival FPS Game. Try to survive the zombie infection!. Get the guns and stuff!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 17,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 23.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 16,
-      "review_percentage": 25.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 17,
       "review_percentage": 23.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Cogito",
   "slug": "cogito",
   "developer": "Evan Downing",
-  "publisher": "Evan Downing",
-  "release_date": "Oct 14, 2016",
+  "publisher": "",
+  "release_date": "2016-10-14",
   "price_usd": 5.99,
   "genres": [
     "Indie"
@@ -15,41 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Cogito is a puzzle game for the HTC Vive that contains increasingly difficult puzzles in the realm of escape-room style puzzles, logic puzzles, spatial reasoning, and memory. You'll have to use your brain to its utmost potential to decipher puzzles, ciphers, and patterns!",
+  "short_description": "Cogito is a puzzle game for the HTC Vive that contains increasingly difficult puzzles in the realm of escape-room style puzzles, logic puzzles, spatial reasoning, and memory. You'll have to use your b",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/543710/header.jpg?t=1488161178",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/543710/ss_0e504696ddaffcfe3e3194e9b8914dd06f9979c8.600x338.jpg?t=1488161178",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/543710/ss_e6e73357983e3ac5a68fb392ae66407194c7fbef.600x338.jpg?t=1488161178",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/543710/ss_2d2af7b9799bd96c611b4124b100965789d79853.600x338.jpg?t=1488161178",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/543710/ss_6ebc2fde574d288688a0a0199a48ac4dd1b03fa5.600x338.jpg?t=1488161178",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/543710/ss_b235730fdc7767c0cb9395eaa22b35361d8828e8.600x338.jpg?t=1488161178",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/543710/ss_8875fc37c2bbf0eafac7e2070aef73890a2bc9f6.600x338.jpg?t=1488161178",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/543710/ss_c521050fe02fe2059b13ae1a8adef24e7e4ad932.600x338.jpg?t=1488161178",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/543710/ss_79d979b8653680ad2752dbc6e6684cd20a8bcf09.600x338.jpg?t=1488161178",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/543710/ss_20f15928deed803423179143f6a7b159cb7e1058.600x338.jpg?t=1488161178",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/543710/ss_4336b67f6276a226463c908cbeb5f429bb8c463a.600x338.jpg?t=1488161178"
-  ],
-  "detailed_description": "Cogito is a puzzle game for the HTC Vive that contains increasingly difficult puzzles in the realm of escape-room style puzzles, logic puzzles, spatial reasoning, and memory. You'll have to use your brain to its utmost potential to decipher puzzles, ciphers, and patterns!<br />\r\n<br />\r\nCurrently only has support for the HTC Vive.",
-  "about_the_game": "Cogito is a puzzle game for the HTC Vive that contains increasingly difficult puzzles in the realm of escape-room style puzzles, logic puzzles, spatial reasoning, and memory. You'll have to use your brain to its utmost potential to decipher puzzles, ciphers, and patterns!<br />\r\n<br />\r\nCurrently only has support for the HTC Vive.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.8500000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 17,
-  "review_positive": 12,
+  "review_positive": 0,
   "review_percentage": 70.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 17,
-      "review_percentage": 70.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 17,
       "review_percentage": 70.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

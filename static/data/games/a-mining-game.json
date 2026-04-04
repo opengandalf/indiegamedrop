@@ -3,8 +3,8 @@
   "name": "A Mining Game",
   "slug": "a-mining-game",
   "developer": "Atlas, Daz",
-  "publisher": "Trillium Studio Ltd.",
-  "release_date": "Jul 20, 2019",
+  "publisher": "",
+  "release_date": "2019-07-20",
   "price_usd": 0.0,
   "genres": [
     "Free To Play",
@@ -23,68 +23,27 @@
   ],
   "short_description": "An idle Mining Simulation game, Compete against other miners to reach the top of the leader boards, Build an army. Climb your way through the combat tower with friends. And compete in daily events",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/659500/header.jpg?t=1630083862",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/659500/ss_acb0c33ee0c9d16bdfa5bf63f33494238c02f0f7.600x338.jpg?t=1630083862",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/659500/ss_d70e620b6df028d5e8add0baeee535149223e7aa.600x338.jpg?t=1630083862",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/659500/ss_6fc02e7798adf88755baa02fea6f5db9f7087f87.600x338.jpg?t=1630083862",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/659500/ss_790761e96498a384a8b0b20a618949d8614e5848.600x338.jpg?t=1630083862"
-  ],
-  "detailed_description": "An idle Mining Simulation game, Compete against other miners to reach the top of the leader boards, Build an army. Climb your way through the combat tower with friends. And compete in daily events",
-  "about_the_game": "An idle Mining Simulation game, Compete against other miners to reach the top of the leader boards, Build an army. Climb your way through the combat tower with friends. And compete in daily events",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Stats",
-    "Steam Leaderboards"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 5.0,
+  "review_velocity_7d": 11.65,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 233,
-  "review_positive": 154,
+  "review_positive": 0,
   "review_percentage": 66.1,
   "owner_estimate": 75000,
-  "ccu_estimate": 2,
+  "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 228,
-      "review_percentage": 66.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 233,
-      "review_percentage": 66.1,
-      "ccu_estimate": 2,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 233,
       "review_percentage": 66.1,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
-      "review_count": 233,
-      "review_percentage": 66.1,
-      "ccu_estimate": 2,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

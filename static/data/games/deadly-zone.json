@@ -3,8 +3,8 @@
   "name": "Deadly Zone",
   "slug": "deadly-zone",
   "developer": "VASYL LIUBEZHANIN",
-  "publisher": "VASYL LIUBEZHANIN",
-  "release_date": "Sep 9, 2018",
+  "publisher": "",
+  "release_date": "2018-09-09",
   "price_usd": 10.99,
   "genres": [
     "Action",
@@ -21,34 +21,15 @@
   ],
   "short_description": "Deadly Zone: Horror with first-person view",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/676310/header.jpg?t=1586085298",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/676310/ss_e8ce789cc60ff08e19c7fd08bbde55b6fbd2836e.600x338.jpg?t=1586085298",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/676310/ss_458c4ec7266cea3fb15e5707e856f87d78ee8668.600x338.jpg?t=1586085298",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/676310/ss_0cc759522648363c151feaca1955a9cdc0bb3680.600x338.jpg?t=1586085298",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/676310/ss_f5fe6a8ea306211ddb37fd84b62ebe0dd382db34.600x338.jpg?t=1586085298",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/676310/ss_b0882716677fe3183f637e4f26c3b45a760f8598.600x338.jpg?t=1586085298",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/676310/ss_3a0446934be0605433adda994308d52bf9f2131c.600x338.jpg?t=1586085298",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/676310/ss_3706ada60e439c0aa55267b83525ebb4bbb1a6ea.600x338.jpg?t=1586085298"
-  ],
-  "detailed_description": "Players have to get into a huge city filled with zombies, and explore it up and down. During the game, players will have to run around urban areas, create weapons and various devices to protect them from being infected, and also collect various supplies for survival.",
-  "about_the_game": "Players have to get into a huge city filled with zombies, and explore it up and down. During the game, players will have to run around urban areas, create weapons and various devices to protect them from being infected, and also collect various supplies for survival.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.45,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 9,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 33.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 33.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 33.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

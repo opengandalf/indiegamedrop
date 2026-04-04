@@ -3,8 +3,8 @@
   "name": "Later",
   "slug": "later",
   "developer": "Little Thingie",
-  "publisher": "Little Thingie",
-  "release_date": "Jan 3, 2020",
+  "publisher": "",
+  "release_date": "2020-01-03",
   "price_usd": 6.99,
   "genres": [
     "Adventure",
@@ -19,33 +19,9 @@
   ],
   "short_description": "After everything that has happened, I've got nothing else to lose.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184720/header.jpg?t=1578094250",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184720/ss_b6b623be209ac1dd10add6fc6ea5b5b839f864e6.600x338.jpg?t=1578094250",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184720/ss_1b93336f11d4b5caaaae4b427eaa52b5304678d3.600x338.jpg?t=1578094250",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184720/ss_6a0d19734672a1c538291d909df6facabfe61d05.600x338.jpg?t=1578094250",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184720/ss_411c71157a4621d4b03f0b8b103f3e7f997ec3ca.600x338.jpg?t=1578094250",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184720/ss_f87f9c3552d03ed7eef99de26707e8eeab4aa429.600x338.jpg?t=1578094250",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184720/ss_213f27df49fe6492bc4f56279a3c3f3101340c86.600x338.jpg?t=1578094250"
-  ],
-  "detailed_description": "<i>Later is a puzzle-solving adventurous 2D platformer that does not go easy on your brain.</i><br><br>After everything that has happened, you've got nothing else to lose. You have no idea what you have become. You have no idea what the world has become, or what you are up against. Anywhere you go, there is danger waiting for you. Survive, find your way out of this nightmare, or die trying.",
-  "about_the_game": "<i>Later is a puzzle-solving adventurous 2D platformer that does not go easy on your brain.</i><br><br>After everything that has happened, you've got nothing else to lose. You have no idea what you have become. You have no idea what the world has become, or what you are up against. Anywhere you go, there is danger waiting for you. Survive, find your way out of this nightmare, or die trying.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 4,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

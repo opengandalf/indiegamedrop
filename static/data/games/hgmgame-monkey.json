@@ -3,8 +3,8 @@
   "name": "hgmGame-monkey",
   "slug": "hgmgame-monkey",
   "developer": "hgmGame, hgmGame",
-  "publisher": "hgmGame",
-  "release_date": "Apr 3, 2025",
+  "publisher": "",
+  "release_date": "2025-04-03",
   "price_usd": 9.99,
   "genres": [
     "Casual"
@@ -15,34 +15,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "This is a casual puzzle game, where the position of each game image is random and can be repeated.At first, it may be very chaotic,Then gradually place the image in the corresponding position,The image gradually becomes complete,Come and give it a try!",
+  "short_description": "This is a casual puzzle game, where the position of each game image is random and can be repeated.At first, it may be very chaotic,Then gradually place the image in the corresponding position,The imag",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/a3e96348316d95304fc71c55315917b6ee4ebcfa/header.jpg?t=1743663731",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/60f13f44f2dd9491dd934f6f1526f92d54a16d7e/ss_60f13f44f2dd9491dd934f6f1526f92d54a16d7e.600x338.jpg?t=1743663731",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/4fb5ca16c932b2a682bc6e331beeabf77dd6fe3b/ss_4fb5ca16c932b2a682bc6e331beeabf77dd6fe3b.600x338.jpg?t=1743663731",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/f2dfa6b75f022a8d74ee9c60b5566ec60f650a10/ss_f2dfa6b75f022a8d74ee9c60b5566ec60f650a10.600x338.jpg?t=1743663731",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/8478a342f6cdc6ddc3c9e03f4ef13f1d9887eb17/ss_8478a342f6cdc6ddc3c9e03f4ef13f1d9887eb17.600x338.jpg?t=1743663731",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/b6ce25be6fec8b2109804737c672e1c76cc96e27/ss_b6ce25be6fec8b2109804737c672e1c76cc96e27.600x338.jpg?t=1743663731"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >This is a casual and puzzle puzzle game where the complete image is randomly shuffled into 4 * 4 small images each time. The position of each small image is random, and you need to assemble them into a complete image (in order to make the image move, the final puzzle will be 1/16 smaller).</p><p class=\"bb_paragraph\" >Suitable for: Those who enjoy puzzles or have free time to exercise their brainpower can repeat the challenge.</p><p class=\"bb_paragraph\" >Features included:</p><p class=\"bb_paragraph\" >Game interface composition: 15 small images+1 black square image, a total of 4 * 4=16 images</p><p class=\"bb_paragraph\" >Game steps: Click the left mouse button on the image around the black square, and the image and black square will switch positions. The goal is to assemble all the small images into a complete image. The complete image is as follows:</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/extras/2c2592c46f931c1112bccdad69587a0e.avif?t=1743663731\" width=800 height=800 /></span></p><p class=\"bb_paragraph\" >Here is the process and screenshot of one of the games:</p><p class=\"bb_paragraph\" >At first, it may be very chaotic:</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/extras/6f3104a0d86d91d6a4d19fcc65be7a36.avif?t=1743663731\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/extras_big/6f3104a0d86d91d6a4d19fcc65be7a36.avif?t=1743663731 width=800 height=450 /></span></p><p class=\"bb_paragraph\" >Then gradually place the image in the corresponding position:</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/extras/4d04a4db358bb85f51e59d8a057d1411.avif?t=1743663731\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/extras_big/4d04a4db358bb85f51e59d8a057d1411.avif?t=1743663731 width=800 height=450 /></span></p><p class=\"bb_paragraph\" >The image gradually becomes complete:</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/extras/371ad37838076ebdf181af3b6b087f79.avif?t=1743663731\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/extras_big/371ad37838076ebdf181af3b6b087f79.avif?t=1743663731 width=800 height=450 /></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/extras/f6209e46ca0266e7e5bfd6807467f744.avif?t=1743663731\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/extras_big/f6209e46ca0266e7e5bfd6807467f744.avif?t=1743663731 width=800 height=450 /></span></p><p class=\"bb_paragraph\" >Come and give it a try!</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >This is a casual and puzzle puzzle game where the complete image is randomly shuffled into 4 * 4 small images each time. The position of each small image is random, and you need to assemble them into a complete image (in order to make the image move, the final puzzle will be 1/16 smaller).</p><p class=\"bb_paragraph\" >Suitable for: Those who enjoy puzzles or have free time to exercise their brainpower can repeat the challenge.</p><p class=\"bb_paragraph\" >Features included:</p><p class=\"bb_paragraph\" >Game interface composition: 15 small images+1 black square image, a total of 4 * 4=16 images</p><p class=\"bb_paragraph\" >Game steps: Click the left mouse button on the image around the black square, and the image and black square will switch positions. The goal is to assemble all the small images into a complete image. The complete image is as follows:</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/extras/2c2592c46f931c1112bccdad69587a0e.avif?t=1743663731\" width=800 height=800 /></span></p><p class=\"bb_paragraph\" >Here is the process and screenshot of one of the games:</p><p class=\"bb_paragraph\" >At first, it may be very chaotic:</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/extras/6f3104a0d86d91d6a4d19fcc65be7a36.avif?t=1743663731\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/extras_big/6f3104a0d86d91d6a4d19fcc65be7a36.avif?t=1743663731 width=800 height=450 /></span></p><p class=\"bb_paragraph\" >Then gradually place the image in the corresponding position:</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/extras/4d04a4db358bb85f51e59d8a057d1411.avif?t=1743663731\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/extras_big/4d04a4db358bb85f51e59d8a057d1411.avif?t=1743663731 width=800 height=450 /></span></p><p class=\"bb_paragraph\" >The image gradually becomes complete:</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/extras/371ad37838076ebdf181af3b6b087f79.avif?t=1743663731\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/extras_big/371ad37838076ebdf181af3b6b087f79.avif?t=1743663731 width=800 height=450 /></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/extras/f6209e46ca0266e7e5bfd6807467f744.avif?t=1743663731\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3604110/extras_big/f6209e46ca0266e7e5bfd6807467f744.avif?t=1743663731 width=800 height=450 /></span></p><p class=\"bb_paragraph\" >Come and give it a try!</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "FreeDraw",
   "slug": "freedraw",
   "developer": "Banco",
-  "publisher": "BancoGames",
-  "release_date": "Mar 3, 2021",
+  "publisher": "",
+  "release_date": "2021-03-03",
   "price_usd": 0.0,
   "genres": [
     "Casual"
@@ -17,33 +17,9 @@
   ],
   "short_description": "This game is an app that allows you to draw 3D pictures using brush tools in the virtual reality world.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1539810/header.jpg?t=1614844500",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1539810/ss_51ff5b029542f79b3240eb0da620aedf10c368f2.600x338.jpg?t=1614844500",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1539810/ss_b94586ceb9b3b6e579b325fb0c9ce17df1bdf752.600x338.jpg?t=1614844500",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1539810/ss_2de67b8cce2c384e568d38af7c2af225560dfa0f.600x338.jpg?t=1614844500",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1539810/ss_6abd012dccb9466a515d8bdb2a1bfe00cf611f3e.600x338.jpg?t=1614844500",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1539810/ss_c35ac575ce59f8bfc215ab6113b13fb9e1e3e334.600x338.jpg?t=1614844500"
-  ],
-  "detailed_description": "This game is an app that allows you to draw 3D pictures using brush tools in the virtual reality world. Users can also use the recording function on the left-hand UI panel in the Draw Room to record their appearance based on pre-positioned cameras.<br />\r\nThe user can check the recorded video within the in-game.",
-  "about_the_game": "This game is an app that allows you to draw 3D pictures using brush tools in the virtual reality world. Users can also use the recording function on the left-hand UI panel in the Draw Room to record their appearance based on pre-positioned cameras.<br />\r\nThe user can check the recorded video within the in-game.",
-  "supported_languages": "Korean",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 23,
-  "review_positive": 21,
+  "review_positive": 0,
   "review_percentage": 91.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 22,
-      "review_percentage": 90.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 23,
       "review_percentage": 91.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

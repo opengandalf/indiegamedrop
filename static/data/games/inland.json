@@ -3,8 +3,8 @@
   "name": "Inland",
   "slug": "inland",
   "developer": "borgia mango",
-  "publisher": "borgia mango art",
-  "release_date": "Nov 20, 2020",
+  "publisher": "",
+  "release_date": "2020-11-20",
   "price_usd": 0.55,
   "genres": [
     "Action",
@@ -19,35 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Inland - is a fast paced runner game. You run forward and you need to dodge dark obstacles, for each obstacle you overcome, you get one point. But if you run into at least one, you will immediately lose. How many points can you get?",
+  "short_description": "Inland - is a fast paced runner game. You run forward and you need to dodge dark obstacles, for each obstacle you overcome, you get one point. But if you run into at least one, you will immediately lo",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468280/header.jpg?t=1605891783",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468280/ss_cd907f5221bbd8adc5e345c6d739a8040ad55ddd.600x338.jpg?t=1605891783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468280/ss_417864a65441cdcb47027cf815aef08fce7c84ae.600x338.jpg?t=1605891783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468280/ss_e154343fc7f07b783a0d54ac7878c0a8f6755f29.600x338.jpg?t=1605891783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468280/ss_fc84ac4d4601383f563342805694d07b9c6735d0.600x338.jpg?t=1605891783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468280/ss_a9cb3006beb3b3004a99ec5d211363c0555b80cb.600x338.jpg?t=1605891783"
-  ],
-  "detailed_description": "Inland - is a fast paced runner game. You run forward and you need to dodge dark obstacles, for each obstacle you overcome, you get one point. The difficulty is that if you run into at least one obstacle, you will immediately lose. Over time, the running speed increases and it becomes more difficult to dodge obstacles. How many points can you get?<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n- Intuitive gameplay<br />\r\n<br />\r\n- Increasing difficulty level<br />\r\n<br />\r\n- Pleasant music<br />\r\n<br />\r\n- Nice graphics",
-  "about_the_game": "Inland - is a fast paced runner game. You run forward and you need to dodge dark obstacles, for each obstacle you overcome, you get one point. The difficulty is that if you run into at least one obstacle, you will immediately lose. Over time, the running speed increases and it becomes more difficult to dodge obstacles. How many points can you get?<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n- Intuitive gameplay<br />\r\n<br />\r\n- Increasing difficulty level<br />\r\n<br />\r\n- Pleasant music<br />\r\n<br />\r\n- Nice graphics",
-  "supported_languages": "English, French, Italian, German, Portuguese - Brazil, Spanish - Latin America, Traditional Chinese, Simplified Chinese, Korean, Polish, Portuguese - Portugal, Russian, Japanese, Spanish - Spain",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0003,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 7.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 78,
-  "review_positive": 65,
+  "review_positive": 0,
   "review_percentage": 83.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 71,
-      "review_percentage": 83.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 78,
       "review_percentage": 83.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

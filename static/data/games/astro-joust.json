@@ -3,8 +3,8 @@
   "name": "Astro Joust",
   "slug": "astro-joust",
   "developer": "Mutant Entertainment Studios",
-  "publisher": "Mutant Entertainment Studios",
-  "release_date": "Mar 28, 2018",
+  "publisher": "",
+  "release_date": "2018-03-28",
   "price_usd": 0.54,
   "genres": [
     "Action"
@@ -15,45 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Joust with Jetpacks! Classic Arcade action packed mayhem! Destroy your friends! (or just bop them on top of the head) Climb to the top of the global leaderboard! Knocked out of the round? That's okay, just become a saw blade, or a freakin' laser and seek your revenge!",
+  "short_description": "Joust with Jetpacks! Classic Arcade action packed mayhem! Destroy your friends! (or just bop them on top of the head) Climb to the top of the global leaderboard! Knocked out of the round? That's okay,",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/762670/header.jpg?t=1727115070",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/762670/ss_d412ad1c0fc0b6874353620d381a416706dd9fe3.600x338.jpg?t=1727115070",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/762670/ss_64ed8d2c768d2714a54409fab907caa2bbc04434.600x338.jpg?t=1727115070",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/762670/ss_c18c924c52333016ba250fa5c7e99ca7c6270adc.600x338.jpg?t=1727115070",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/762670/ss_a7fcb64ef0849e0bbc933e7079cfc0cea8a20e2a.600x338.jpg?t=1727115070",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/762670/ss_41a85d4ee55d01626161d5306269c5081e6440a6.600x338.jpg?t=1727115070",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/762670/ss_57f669d6a2c19caf2b2e8f92d576fe4a570c02ed.600x338.jpg?t=1727115070",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/762670/ss_ec09b3df0d7eb88c9ea252ad9f0946e8d2bc1fea.600x338.jpg?t=1727115070"
-  ],
-  "detailed_description": "<h1>Joystick Recommended</h1><p>Astro Joust does have 2 player keyboard support, but <strong>is not recommended</strong>.</p><br><h1>About the Game</h1>Astro Joust is an action multiplayer game about jousting with jetpacks!<br><br>Inspired by the arcade classic!<br> <br>Grab your friends and get ready to Astro Joust!<br><br>Features:<br><ul class=\"bb_ul\"><li>Pick up and play gameplay!<br></li><li>2 to 4 Player Versus Mode!<br></li><li>Single Player Wave Mode!<br></li><li>Global Leaderboard!<br></li><li>Five beautiful maps with varying obstacles and styles!<br></li><li>A unique after-death mechanic to keep you playing even if you're knocked out of the match!</li></ul>",
-  "about_the_game": "Astro Joust is an action multiplayer game about jousting with jetpacks!<br><br>Inspired by the arcade classic!<br> <br>Grab your friends and get ready to Astro Joust!<br><br>Features:<br><ul class=\"bb_ul\"><li>Pick up and play gameplay!<br></li><li>2 to 4 Player Versus Mode!<br></li><li>Single Player Wave Mode!<br></li><li>Global Leaderboard!<br></li><li>Five beautiful maps with varying obstacles and styles!<br></li><li>A unique after-death mechanic to keep you playing even if you're knocked out of the match!</li></ul>",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Thai, Turkish",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Shared/Split Screen",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Leaderboards",
-    "Remote Play on TV",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.6000000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 12,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 75000,
   "ccu_estimate": 0,
@@ -61,26 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 10,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 12,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 12,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

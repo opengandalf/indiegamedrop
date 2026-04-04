@@ -3,8 +3,8 @@
   "name": "5Rings",
   "slug": "5rings",
   "developer": "Bonittor Games",
-  "publisher": "Bonittor Games",
-  "release_date": "May 3, 2018",
+  "publisher": "",
+  "release_date": "2018-05-03",
   "price_usd": 0.49,
   "genres": [
     "Casual"
@@ -17,33 +17,15 @@
   ],
   "short_description": "5Rings is a rotary jigsaw puzzle game. 1.Tap the ring, let the ring rotate a certain angle to recover the target picture. 2.28 kinds of target pictures. 3.Support import any picture as target .",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/790610/header.jpg?t=1748030115",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/790610/ss_6209bb6bf5bcc8f0eb4789bb8d8bfa9b05175768.600x338.jpg?t=1748030115",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/790610/ss_04dfeeced92a6f31ac8e32dbd1dc9d261f23d767.600x338.jpg?t=1748030115",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/790610/ss_4a8e12913a5736359b694bbcd2229b10fdc2d23e.600x338.jpg?t=1748030115",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/790610/ss_f804ecd5fe998a2ec23ffb8e038914aa9e3814d0.600x338.jpg?t=1748030115",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/790610/ss_e5621265c850825a00d5c9b12ea8a91c84a4e504.600x338.jpg?t=1748030115",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/790610/ss_9e9b0a0634b60ee666fb196b41cef63f36f02740.600x338.jpg?t=1748030115"
-  ],
-  "detailed_description": "5Rings is  a rotary jigsaw puzzle game.<br />\r\n1.Tap the ring, let the ring rotate a certain angle to recover the target picture.<br />\r\n2.28 kinds of  target pictures.<br />\r\n3.Support import any picture as target .",
-  "about_the_game": "5Rings is  a rotary jigsaw puzzle game.<br />\r\n1.Tap the ring, let the ring rotate a certain angle to recover the target picture.<br />\r\n2.28 kinds of  target pictures.<br />\r\n3.Support import any picture as target .",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0024,
+  "screenshots": [],
+  "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.6000000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 12,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 16.7,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -51,54 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 11,
-      "review_percentage": 9.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 12,
-      "review_percentage": 16.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 12,
-      "review_percentage": 16.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
-      "review_count": 12,
-      "review_percentage": 16.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-29",
-      "review_count": 12,
-      "review_percentage": 16.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
-      "review_count": 12,
-      "review_percentage": 16.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 12,
       "review_percentage": 16.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

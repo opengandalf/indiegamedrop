@@ -3,8 +3,8 @@
   "name": "Cake Platformer",
   "slug": "cake-platformer",
   "developer": "Bonittor Games",
-  "publisher": "Bonittor Games",
-  "release_date": "Jul 11, 2024",
+  "publisher": "",
+  "release_date": "2024-07-11",
   "price_usd": 0.49,
   "genres": [
     "Adventure",
@@ -19,34 +19,15 @@
   ],
   "short_description": "Be a Ninja character in this 3rd person platformer. Avoid traps, enemies, solve puzzles and finish maps",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070460/header.jpg?t=1748033385",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070460/ss_3fbd2915760b692efe229af2739b1b35026902ae.600x338.jpg?t=1748033385",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070460/ss_76546f74848d120b865b00917bc15636289f0353.600x338.jpg?t=1748033385",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070460/ss_d31109ad0143f660cca8ab5a57c0e81ff9e259fd.600x338.jpg?t=1748033385",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070460/ss_13222e0198277f986050472f44223d4e55e40029.600x338.jpg?t=1748033385",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070460/ss_3afdcd696f3531e6ad9f0bdf349e2e38ce81559e.600x338.jpg?t=1748033385",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070460/ss_26cd48ceb2583f5021459e6de15076e4a3290b38.600x338.jpg?t=1748033385"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Gameplay:</h2>Player controls Ninja character in this 3rd person platformer. Game has 5 different maps and every map mission is to solve puzzles and finish levels. End of every map there is cake which gives steam achievement and magic platform which ends map/level. Maps has different enemies like following ghost, shooting cannons, moving cannons, laser beams and following ufo. Levels has different puzzles like player need move different items to unlock doors, unlock hidden platforms. Some levels player need find keys to open door. There is also moving platforms, falling platforms. <br>Falling to water will kill player and player will be respawned last checkpoint. In start of level there is 3 lives and player can collect more at levels.<br>Also player can use laser shoot to destroy enemies and solve some puzzles.<br>So be the hero, kill enemies, solve puzzles and finish all levels<h2 class=\"bb_tag\" >Features:</h2>-  5 maps<br>- Platforms (Spline platform, fall platform, spinning platform, destructible platform).<br>- Solve different puzzles to unlock doors, different hidden platforms etc<br>- Puzzle system.<br> - Collectibles (Coins, Health, Lifes, Keys).<br>- Score system.<br>- Checkpoints.<br>- Physics surface component (Slippery ice and sticky goop).<br>- Enemies like ghosts, cannons, moving cannons, Ufo<br>- Fan/Wind machine.",
-  "about_the_game": "<h2 class=\"bb_tag\" >Gameplay:</h2>Player controls Ninja character in this 3rd person platformer. Game has 5 different maps and every map mission is to solve puzzles and finish levels. End of every map there is cake which gives steam achievement and magic platform which ends map/level. Maps has different enemies like following ghost, shooting cannons, moving cannons, laser beams and following ufo. Levels has different puzzles like player need move different items to unlock doors, unlock hidden platforms. Some levels player need find keys to open door. There is also moving platforms, falling platforms. <br>Falling to water will kill player and player will be respawned last checkpoint. In start of level there is 3 lives and player can collect more at levels.<br>Also player can use laser shoot to destroy enemies and solve some puzzles.<br>So be the hero, kill enemies, solve puzzles and finish all levels<h2 class=\"bb_tag\" >Features:</h2>-  5 maps<br>- Platforms (Spline platform, fall platform, spinning platform, destructible platform).<br>- Solve different puzzles to unlock doors, different hidden platforms etc<br>- Puzzle system.<br> - Collectibles (Coins, Health, Lifes, Keys).<br>- Score system.<br>- Checkpoints.<br>- Physics surface component (Slippery ice and sticky goop).<br>- Enemies like ghosts, cannons, moving cannons, Ufo<br>- Fan/Wind machine.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.6000000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 12,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 58.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 8,
-      "review_percentage": 62.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 12,
       "review_percentage": 58.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

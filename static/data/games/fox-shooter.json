@@ -3,8 +3,8 @@
   "name": "Fox Shooter",
   "slug": "fox-shooter",
   "developer": "张嘉祺",
-  "publisher": "张嘉祺",
-  "release_date": "Mar 17, 2026",
+  "publisher": "",
+  "release_date": "2026-03-17",
   "price_usd": 89.99,
   "genres": [
     "Action",
@@ -21,37 +21,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "This is a pick-up-and-play, pure stress-relief top-down pixel Roguelike game. Don't overthink it: there are no mind-bending build calculations, no obscure backstory—just raw combat instinct. Let your score do the talking. PLEASE DO NOT HAVE MUCH EXPECTATIONS!",
+  "short_description": "This is a pick-up-and-play, pure stress-relief top-down pixel Roguelike game. Don't overthink it: there are no mind-bending build calculations, no obscure backstory—just raw combat instinct. Let your ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466240/15f8c3e97c7ce15ee58b74fe03ea16e9099f3587/header.jpg?t=1773757641",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466240/8ce8462785a686f58549d8baf76666c7fea10d35/ss_8ce8462785a686f58549d8baf76666c7fea10d35.600x338.jpg?t=1773757641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466240/a9db9f6e3b47a2e3a882ebf29111fa645e9c1195/ss_a9db9f6e3b47a2e3a882ebf29111fa645e9c1195.600x338.jpg?t=1773757641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466240/7fc4670c8324844e8ed788d6a4f9974be5df6edc/ss_7fc4670c8324844e8ed788d6a4f9974be5df6edc.600x338.jpg?t=1773757641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466240/59f68ff187f5bfbe00fb367ae2713d11182ed305/ss_59f68ff187f5bfbe00fb367ae2713d11182ed305.600x338.jpg?t=1773757641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466240/681f7501ac4a521eb498d369ea9911064035bf4a/ss_681f7501ac4a521eb498d369ea9911064035bf4a.600x338.jpg?t=1773757641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466240/33ff87c0f787dc306415aca40bc529af8609f4cc/ss_33ff87c0f787dc306415aca40bc529af8609f4cc.600x338.jpg?t=1773757641"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>This game is a Godot Engine learning demo.</strong> It features <strong>no storyline, incomplete content, and no guarantee of game balance.</strong> It is intended solely for technical exchange and experimental entertainment. <strong>This is not a formal commercial product.</strong></p><p class=\"bb_paragraph\" >Some assets and code are sourced from <strong>Bilibili@码客二十二</strong>.</p><p class=\"bb_paragraph\" >Overall production, code refinement, and publication are by <strong>Bilibili@巧克力Chocola_</strong>.</p><h2 class=\"bb_tag\" ><strong>Game Introduction</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >This is a boring, plotless, and arguably unfinished 2D Pixel Roguelike game.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Please do not have high expectations!</strong> This game was created purely to learn the Godot engine. It contains no substantial gameplay content; it’s barely even entertaining.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >It is an informal project with no claim to significant value.</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>FAQ</strong></h2><h2 class=\"bb_tag\" ><strong>About the Game</strong></h2><p class=\"bb_paragraph\" ><strong>Q: Why release such an embarrassing game on Steam?</strong><br><strong>A:</strong> <i>Honestly, I don’t know myself. Just treat it as a joke. If you look closely at the details on the Steam store page, you’ll see this is just a prank/meme project... I actually hope you <strong>don’t</strong> buy this game.</i></p><p class=\"bb_paragraph\" ><strong>Q: If it’s just a joke game, why is it paid?</strong><br><strong>A:</strong> <i>Originally, I wanted to price it as a joke (like several million dollars), but Steam apparently wouldn’t let me set that price.</i></p><p class=\"bb_paragraph\" ><strong>Q: Is the game difficult? (</strong>Meow<strong>?)</strong><br><strong>A:</strong> <i>Overall, it shouldn’t be too hard. The developer has tweaked the values many times.</i></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>About Technology & Performance</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong> </strong>Which devices support this game?<br><strong>A:</strong> <i>It supports all platforms: <strong>Mac, iOS, Android, Windows, and SteamOS/Linux</strong>. It even runs on some web browsers that support specific assembly instruction sets (Web). The developer holds an Apple Developer subscription, so iOS/macOS builds are legit.</i></p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >I encountered a BUG / crash / error. Where can I report it?<br><strong>A:</strong> <i>Since this is a learning project, bugs are expected, and the developer is already aware of some. If you’d like to help the developer improve, feel free to leave a comment describing the issue on <strong>Bilibili@巧克力Chocola_ </strong>videos or posts. You can also add the developer’s <strong>QQ</strong> on the Steam store page to report issues.</i><br><br><i>Note: The author may not fix issues immediately, or might not fix them at all.</i></p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>About Copyright & Assets</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Are the game’s assets/code fully original and copyrighted by the developer? (Miao?)<br><strong>A:</strong> <i>Some assets are from <strong>Bilibili@码客二十二</strong>. The overall compilation, secondary development, inclusion of certain assets, and publication were completed by <strong>Bilibili@巧克力Chocola_</strong>. We respect and thank the original author for their open-source sharing spirit.</i><br><br><i>If the original author believes any assets infringe on their rights, please add the author’s <strong>QQ</strong> on the Steam store page to explain the issue. <strong>Please remark: \"Fox Shooter Asset Infringement Case Submission\".</strong></i></p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong> </strong>Can I critique, suggest, record videos, or quote the game on social media platforms (including Mainland China, HK/Mac/TW, and global social media)?<br><strong>A:</strong> <i>Of course! Since this is a learning demo, I welcome suggestions and critiques. However, <strong>please do not insult anyone</strong>. The developer might cry upon seeing insults and might even report you : (</i></p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Soul-Searching Questions</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Is this game fun? (<strong>Meow</strong>?) Is it worth downloading? (Meow?) <br><strong>A:</strong> <strong>DO NOT HAVE ANY EXPECTATIONS!!!</strong><br><i>If you are looking for a genuine, high-quality time-killing Roguelike, go left to The Binding of Isaac or right to Brotato.</i><br><br><i>However, if you just want to complete some collection achievements, the developer doesn’t mind if you buy and play, but <strong>please do not overspend</strong> (this is very important).</i></p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Will there be future updates? (<strong>Meow</strong>?)<br><strong>A:</strong> <i>Currently, there are <strong>no clear plans for further development</strong>. This is mainly a phased learning summary. Whether it gets improved depends entirely on the developer’s future time and circumstances. Please do not bet on it or expect too much. After all, the author is just an ordinary <strong>high school student</strong> grinding through life.</i></p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Why use pixel art?<br><strong>A:</strong> <i>Pixel art has a low barrier to entry, and the developer can only draw pixel art on a computer.</i></p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Some Heartfelt Words</strong></h2><p class=\"bb_paragraph\" >This game is very simple. The <strong>game code is open source</strong>, including Godot build assets and project files.<br>The developer promises to create a high-quality pixel mini-game in the future! Stay tuned~ </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >If you really can’t stand it and want to leave a negative review, that’s fine. But <strong>please do not insult any individuals or nations</strong>, and <strong>do not post politically sensitive content</strong> (Yes, I’m talking about those who randomly accuse others of being spies/trolls everywhere. Do they really think their IQ is higher than a Border Collie’s?).</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >If any experts review the code and have optimization suggestions, you are <strong>very welcome and greatly appreciated</strong>! 🙏</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Meow Meow Meow~</strong> 🐱</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>This game is a Godot Engine learning demo.</strong> It features <strong>no storyline, incomplete content, and no guarantee of game balance.</strong> It is intended solely for technical exchange and experimental entertainment. <strong>This is not a formal commercial product.</strong></p><p class=\"bb_paragraph\" >Some assets and code are sourced from <strong>Bilibili@码客二十二</strong>.</p><p class=\"bb_paragraph\" >Overall production, code refinement, and publication are by <strong>Bilibili@巧克力Chocola_</strong>.</p><h2 class=\"bb_tag\" ><strong>Game Introduction</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >This is a boring, plotless, and arguably unfinished 2D Pixel Roguelike game.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Please do not have high expectations!</strong> This game was created purely to learn the Godot engine. It contains no substantial gameplay content; it’s barely even entertaining.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >It is an informal project with no claim to significant value.</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>FAQ</strong></h2><h2 class=\"bb_tag\" ><strong>About the Game</strong></h2><p class=\"bb_paragraph\" ><strong>Q: Why release such an embarrassing game on Steam?</strong><br><strong>A:</strong> <i>Honestly, I don’t know myself. Just treat it as a joke. If you look closely at the details on the Steam store page, you’ll see this is just a prank/meme project... I actually hope you <strong>don’t</strong> buy this game.</i></p><p class=\"bb_paragraph\" ><strong>Q: If it’s just a joke game, why is it paid?</strong><br><strong>A:</strong> <i>Originally, I wanted to price it as a joke (like several million dollars), but Steam apparently wouldn’t let me set that price.</i></p><p class=\"bb_paragraph\" ><strong>Q: Is the game difficult? (</strong>Meow<strong>?)</strong><br><strong>A:</strong> <i>Overall, it shouldn’t be too hard. The developer has tweaked the values many times.</i></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>About Technology & Performance</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong> </strong>Which devices support this game?<br><strong>A:</strong> <i>It supports all platforms: <strong>Mac, iOS, Android, Windows, and SteamOS/Linux</strong>. It even runs on some web browsers that support specific assembly instruction sets (Web). The developer holds an Apple Developer subscription, so iOS/macOS builds are legit.</i></p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >I encountered a BUG / crash / error. Where can I report it?<br><strong>A:</strong> <i>Since this is a learning project, bugs are expected, and the developer is already aware of some. If you’d like to help the developer improve, feel free to leave a comment describing the issue on <strong>Bilibili@巧克力Chocola_ </strong>videos or posts. You can also add the developer’s <strong>QQ</strong> on the Steam store page to report issues.</i><br><br><i>Note: The author may not fix issues immediately, or might not fix them at all.</i></p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>About Copyright & Assets</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Are the game’s assets/code fully original and copyrighted by the developer? (Miao?)<br><strong>A:</strong> <i>Some assets are from <strong>Bilibili@码客二十二</strong>. The overall compilation, secondary development, inclusion of certain assets, and publication were completed by <strong>Bilibili@巧克力Chocola_</strong>. We respect and thank the original author for their open-source sharing spirit.</i><br><br><i>If the original author believes any assets infringe on their rights, please add the author’s <strong>QQ</strong> on the Steam store page to explain the issue. <strong>Please remark: \"Fox Shooter Asset Infringement Case Submission\".</strong></i></p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong> </strong>Can I critique, suggest, record videos, or quote the game on social media platforms (including Mainland China, HK/Mac/TW, and global social media)?<br><strong>A:</strong> <i>Of course! Since this is a learning demo, I welcome suggestions and critiques. However, <strong>please do not insult anyone</strong>. The developer might cry upon seeing insults and might even report you : (</i></p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Soul-Searching Questions</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Is this game fun? (<strong>Meow</strong>?) Is it worth downloading? (Meow?) <br><strong>A:</strong> <strong>DO NOT HAVE ANY EXPECTATIONS!!!</strong><br><i>If you are looking for a genuine, high-quality time-killing Roguelike, go left to The Binding of Isaac or right to Brotato.</i><br><br><i>However, if you just want to complete some collection achievements, the developer doesn’t mind if you buy and play, but <strong>please do not overspend</strong> (this is very important).</i></p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Will there be future updates? (<strong>Meow</strong>?)<br><strong>A:</strong> <i>Currently, there are <strong>no clear plans for further development</strong>. This is mainly a phased learning summary. Whether it gets improved depends entirely on the developer’s future time and circumstances. Please do not bet on it or expect too much. After all, the author is just an ordinary <strong>high school student</strong> grinding through life.</i></p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Why use pixel art?<br><strong>A:</strong> <i>Pixel art has a low barrier to entry, and the developer can only draw pixel art on a computer.</i></p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Some Heartfelt Words</strong></h2><p class=\"bb_paragraph\" >This game is very simple. The <strong>game code is open source</strong>, including Godot build assets and project files.<br>The developer promises to create a high-quality pixel mini-game in the future! Stay tuned~ </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >If you really can’t stand it and want to leave a negative review, that’s fine. But <strong>please do not insult any individuals or nations</strong>, and <strong>do not post politically sensitive content</strong> (Yes, I’m talking about those who randomly accuse others of being spies/trolls everywhere. Do they really think their IQ is higher than a Border Collie’s?).</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >If any experts review the code and have optimization suggestions, you are <strong>very welcome and greatly appreciated</strong>! 🙏</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Meow Meow Meow~</strong> 🐱</p>",
-  "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Playable without Timed Input",
-    "Touch Only Option",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -59,33 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

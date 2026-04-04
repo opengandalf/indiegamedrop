@@ -3,8 +3,8 @@
   "name": "Shadron",
   "slug": "shadron",
   "developer": "Viktor Chlumský",
-  "publisher": "Viktor Chlumský",
-  "release_date": "Sep 5, 2016",
+  "publisher": "",
+  "release_date": "2016-09-05",
   "price_usd": 17.99,
   "genres": [
     "Animation & Modeling",
@@ -20,33 +20,11 @@
     "windows",
     "mac"
   ],
-  "short_description": "Shadron is the ultimate graphics editor for programmers. Create images, animations, 3D models, particle systems and more with a simple scripting language based on GLSL shaders. See the output of your scripts in real time and tweak your creations using adjustable parameters.",
+  "short_description": "Shadron is the ultimate graphics editor for programmers. Create images, animations, 3D models, particle systems and more with a simple scripting language based on GLSL shaders. See the output of your ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524490/header.jpg?t=1572688895",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524490/ss_41d4c5f78cf568e659e32495d4045e135e8b2e25.600x338.jpg?t=1572688895",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524490/ss_54859de47395f9d45274c1df9cb78c52df3d1bb1.600x338.jpg?t=1572688895",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524490/ss_a4b74451e92a265a722c5a1bde9357b6b90dc53d.600x338.jpg?t=1572688895",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524490/ss_3fa1f8903b05947eb991ca5f0d065e228fc21882.600x338.jpg?t=1572688895",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524490/ss_b39a8d6e7c148e8929d03f220bf39269f3331cf7.600x338.jpg?t=1572688895",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524490/ss_3f93856ecf2632569084bd66692511ad2c10493f.600x338.jpg?t=1572688895",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524490/ss_afd4114edd8124f32e93014adf0e994197bf02dd.600x338.jpg?t=1572688895"
-  ],
-  "detailed_description": "Shadron is a procedural graphics editor based on GLSL shaders. Using a simple scripting language, you can define images, animations, 2D or 3D models, cubemaps, particle systems, and even audio. Describe how they are generated with shader code. You can load image files or use intermediate outputs as textures and alter them in any way you can imagine. A library of functions that are commonly used in procedural graphics is readily available for use in your scripts.<br><br><ul class=\"bb_ul\"><li> Includes 17 commented example scripts for your inspiration</li></ul><br>This version requires Steam to run in the background. If that is an issue, you can buy the standalone version from the official website.<br><br><strong>Warning</strong>: Basic programming skills required!<br><br>Please watch the introduction tutorial to see if this program is for you. There will be more tutorials coming soon.<br><br>Shadron is a very versatile tool with many applications. What can you do with it?<br><br><ul class=\"bb_ul\"><li> <strong>Create game assets.</strong> Create natural-looking seamlessly-tiled procedurally-generated textures using the bundled gradient noise functions. Generate 3D heightmap terrain. Create environment maps (cubemaps). Design and test materials with many different texture channels.<br></li><li> <strong>Perform trivial image modifications.</strong> Sometimes, it can be much easier than using conventional image editors, especially when applying the same modification on multiple images.<br></li><li> <strong>Create simple icons or animations.</strong> They will be mathematically precise, and for certain types of animations, some form of procedural generation is essential. Spinning loading progress animation included as an example.<br></li><li> <strong>Create videos.</strong> All of the demos in the trailer were created only using Shadron, including the intro. You can have text, 3D perspective, particles, raytracing - anything, as long as you're able to write it in code. 4K resolution at 60 FPS is not a problem for Shadron.<br></li><li> <strong>Design shaders or learn how to write them.</strong> Preview how they're going to look and see the changes as you type. No need to worry about setting up the rest of OpenGL.<br></li><li> <strong>Play around with shaders.</strong> The possibilities of shaders are endless. Just experiment, be creative, and you might even surprise yourself.</li></ul>There are probably many other uses I didn't even think of.",
-  "about_the_game": "Shadron is a procedural graphics editor based on GLSL shaders. Using a simple scripting language, you can define images, animations, 2D or 3D models, cubemaps, particle systems, and even audio. Describe how they are generated with shader code. You can load image files or use intermediate outputs as textures and alter them in any way you can imagine. A library of functions that are commonly used in procedural graphics is readily available for use in your scripts.<br><br><ul class=\"bb_ul\"><li> Includes 17 commented example scripts for your inspiration</li></ul><br>This version requires Steam to run in the background. If that is an issue, you can buy the standalone version from the official website.<br><br><strong>Warning</strong>: Basic programming skills required!<br><br>Please watch the introduction tutorial to see if this program is for you. There will be more tutorials coming soon.<br><br>Shadron is a very versatile tool with many applications. What can you do with it?<br><br><ul class=\"bb_ul\"><li> <strong>Create game assets.</strong> Create natural-looking seamlessly-tiled procedurally-generated textures using the bundled gradient noise functions. Generate 3D heightmap terrain. Create environment maps (cubemaps). Design and test materials with many different texture channels.<br></li><li> <strong>Perform trivial image modifications.</strong> Sometimes, it can be much easier than using conventional image editors, especially when applying the same modification on multiple images.<br></li><li> <strong>Create simple icons or animations.</strong> They will be mathematically precise, and for certain types of animations, some form of procedural generation is essential. Spinning loading progress animation included as an example.<br></li><li> <strong>Create videos.</strong> All of the demos in the trailer were created only using Shadron, including the intro. You can have text, 3D perspective, particles, raytracing - anything, as long as you're able to write it in code. 4K resolution at 60 FPS is not a problem for Shadron.<br></li><li> <strong>Design shaders or learn how to write them.</strong> Preview how they're going to look and see the changes as you type. No need to worry about setting up the rest of OpenGL.<br></li><li> <strong>Play around with shaders.</strong> The possibilities of shaders are endless. Just experiment, be creative, and you might even surprise yourself.</li></ul>There are probably many other uses I didn't even think of.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 27,
-  "review_positive": 24,
+  "review_positive": 0,
   "review_percentage": 88.9,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -54,26 +32,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 25,
-      "review_percentage": 88.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 27,
-      "review_percentage": 88.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 27,
       "review_percentage": 88.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Curvy3D GO",
   "slug": "curvy3d-go",
   "developer": "Aartform",
-  "publisher": "Aartform",
-  "release_date": "Jun 3, 2024",
+  "publisher": "",
+  "release_date": "2024-06-03",
   "price_usd": 7.19,
   "genres": [
     "Animation & Modeling"
@@ -17,30 +17,15 @@
   ],
   "short_description": "Fun 3D Sculpting - Sketch curves to model and sculpt in 3D",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455850/header.jpg?t=1717408251",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455850/ss_1ccc4c78fcf8190a24a8fd5106ca6aa9231c0d66.600x338.jpg?t=1717408251",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455850/ss_8604864a4d420c19545a65c9c205810992b8da02.600x338.jpg?t=1717408251",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455850/ss_688a5bb257f8caa26b3078527282d695268b08b4.600x338.jpg?t=1717408251",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455850/ss_694213b2904a548c5841bf42dab0df674e7d396b.600x338.jpg?t=1717408251",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455850/ss_73f4df5a16439e871fe3eab4851844103f42f29e.600x338.jpg?t=1717408251",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455850/ss_8b43ce3abe5c166df137b931dfc84602fa024348.600x338.jpg?t=1717408251"
-  ],
-  "detailed_description": "Fun 3D Sculpting - Use your drawing skills to model in 3D<br><br>• Draw 3D forms with your tablet or mouse.<br>• Blend forms together to make complex shapes.<br>• Detail the model using Curvy's surface sculpt tools.<br><br>Curvy's hand drawn curves turn effortlessly into rounded forms and can be merged for sculpting and exported rendering.<br><br>Curvy is great at organic art, and now adds a full set of digital clay tools to its drawing toolset. You can pinch, and buldge, roughen, smooth and flatten the model easily.<br><br><strong>Creation Tools:</strong><br>Curve based primitives: Lathe, Line, Loft, Blob, Slab, Sketched Curve<br>Standard Primitives: Cube, Sphere, Cylinder<br><br><strong>Curve Tools:</strong><br>Rulers and reshaping tools to perfect your curves.<br><br><strong>Sculpting Tools:</strong><br>Merge and Weld tools to join primitives into more complex meshes.<br>15 sculpting brushes to shape your meshes like clay.<br><br><strong>Export:</strong><br>Export to OBJ format to use models with other applications.<br>Save high resolution screenshots to use your models in other 2D programs.",
-  "about_the_game": "Fun 3D Sculpting - Use your drawing skills to model in 3D<br><br>• Draw 3D forms with your tablet or mouse.<br>• Blend forms together to make complex shapes.<br>• Detail the model using Curvy's surface sculpt tools.<br><br>Curvy's hand drawn curves turn effortlessly into rounded forms and can be merged for sculpting and exported rendering.<br><br>Curvy is great at organic art, and now adds a full set of digital clay tools to its drawing toolset. You can pinch, and buldge, roughen, smooth and flatten the model easily.<br><br><strong>Creation Tools:</strong><br>Curve based primitives: Lathe, Line, Loft, Blob, Slab, Sketched Curve<br>Standard Primitives: Cube, Sphere, Cylinder<br><br><strong>Curve Tools:</strong><br>Rulers and reshaping tools to perfect your curves.<br><br><strong>Sculpting Tools:</strong><br>Merge and Weld tools to join primitives into more complex meshes.<br>15 sculpting brushes to shape your meshes like clay.<br><br><strong>Export:</strong><br>Export to OBJ format to use models with other applications.<br>Save high resolution screenshots to use your models in other 2D programs.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 21,
-  "review_positive": 18,
+  "review_positive": 0,
   "review_percentage": 85.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -48,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 19,
-      "review_percentage": 89.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 21,
       "review_percentage": 85.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

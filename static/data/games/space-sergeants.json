@@ -3,8 +3,8 @@
   "name": "Space Sergeants",
   "slug": "space-sergeants",
   "developer": "EV",
-  "publisher": "EV",
-  "release_date": "Mar 24, 2020",
+  "publisher": "",
+  "release_date": "2020-03-24",
   "price_usd": 0.99,
   "genres": [
     "Action"
@@ -17,32 +17,9 @@
   ],
   "short_description": "Dynamic shooter",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1255300/header.jpg?t=1585085697",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1255300/ss_4bc2dad8ee0b460d23cc380908d5b66a9c9b635a.600x338.jpg?t=1585085697",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1255300/ss_ef0d518872784bc48f6a150ec3ef4796976d7fc5.600x338.jpg?t=1585085697",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1255300/ss_e8a6592ae27ded26e7c5efb1552da95b2238f2a6.600x338.jpg?t=1585085697",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1255300/ss_46d275c09d18d31e762222a7c4b17a41efd97dae.600x338.jpg?t=1585085697",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1255300/ss_8da14091d38dc1d32dab2a4e715ee7bbf8568f83.600x338.jpg?t=1585085697"
-  ],
-  "detailed_description": "Single-player first-person shooter, fight against crazy bots and get to the enemy base to survive and remain the winner in this battle.",
-  "about_the_game": "Single-player first-person shooter, fight against crazy bots and get to the enemy base to survive and remain the winner in this battle.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 10,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 10,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

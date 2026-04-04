@@ -3,8 +3,8 @@
   "name": "Ecco the Dolphin™",
   "slug": "ecco-the-dolphin",
   "developer": "SEGA",
-  "publisher": "SEGA",
-  "release_date": "Jun 1, 2010",
+  "publisher": "",
+  "release_date": "2010-06-01",
   "price_usd": 0.0,
   "genres": [
     "Action"
@@ -17,34 +17,17 @@
     "mac",
     "linux"
   ],
-  "short_description": "Life was an adventure for Ecco, the young dolphin. The ocean seemed endless with rolling breakers to race through! At high speed Ecco could burst through the waves leaping through the air – almost flying! Until one day, all of that changed. A freak whirlpool of air and water tore the life from Ecco’s home leaving Ecco all alone.",
+  "short_description": "Life was an adventure for Ecco, the young dolphin. The ocean seemed endless with rolling breakers to race through! At high speed Ecco could burst through the waves leaping through the air – almost fly",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34274/header.jpg?t=1733765071",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34274/ss_ab815178de31d88a72ae35a48d9c7918c5fe974d.600x338.jpg?t=1733765071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34274/ss_7b2b7ae417444a19abaec45830019b751fc6d258.600x338.jpg?t=1733765071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34274/ss_bc1f5adc08c40d06757825b275029d5b1e014e29.600x338.jpg?t=1733765071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34274/ss_733b433f95d3708fe31aec641144bd6edfd96921.600x338.jpg?t=1733765071"
-  ],
-  "detailed_description": "Life was an adventure for Ecco, the young dolphin. The ocean seemed endless with rolling breakers to race through!<br />\r\n\t\t\t\t\t\tAt high speed Ecco could burst through the waves leaping through the air – almost flying!<br />\r\n\t\t\t\t\t\tUntil one day, all of that changed. A freak whirlpool of air and water tore the life from Ecco’s home leaving Ecco all alone. Now he must fight to stay alive, while traversing the vast ocean in search of clues that will help him save his family and return them to the bay.",
-  "about_the_game": "Life was an adventure for Ecco, the young dolphin. The ocean seemed endless with rolling breakers to race through!<br />\r\n\t\t\t\t\t\tAt high speed Ecco could burst through the waves leaping through the air – almost flying!<br />\r\n\t\t\t\t\t\tUntil one day, all of that changed. A freak whirlpool of air and water tore the life from Ecco’s home leaving Ecco all alone. Now he must fight to stay alive, while traversing the vast ocean in search of clues that will help him save his family and return them to the bay.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.65,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 13,
-  "review_positive": 11,
+  "review_positive": 0,
   "review_percentage": 84.6,
   "owner_estimate": 35000,
   "ccu_estimate": 0,
@@ -52,26 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 13,
-      "review_percentage": 84.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 13,
-      "review_percentage": 84.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 13,
       "review_percentage": 84.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

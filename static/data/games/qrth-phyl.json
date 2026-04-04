@@ -3,8 +3,8 @@
   "name": "qrth-phyl",
   "slug": "qrth-phyl",
   "developer": "Verran",
-  "publisher": "Verran",
-  "release_date": "Jul 19, 2018",
+  "publisher": "",
+  "release_date": "2018-07-19",
   "price_usd": 2.49,
   "genres": [
     "Indie"
@@ -17,56 +17,27 @@
   ],
   "short_description": "Arcade documentary of maze/dot/snake mechanic within changing dimensions, axis locks and the corruption of the system. Collect, grow, avoid your past, find new space, wake up…",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451930/header.jpg?t=1717932575",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451930/ss_cc7248d3ac3071efa0019a4377c60d8f268e7892.600x338.jpg?t=1717932575",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451930/ss_68b0cca4214e43466a2385e4865577fb3019a779.600x338.jpg?t=1717932575",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451930/ss_0631743a7af63d0beac7b59333a332cc9e0673b7.600x338.jpg?t=1717932575",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451930/ss_7bd747b343f38e264d84aa6e44b62187695d90cc.600x338.jpg?t=1717932575",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/451930/ss_74308ba11594c8569198415dcf8535904d3da6ab.600x338.jpg?t=1717932575"
-  ],
-  "detailed_description": "In <strong>qrth-phyl</strong> you will manoeuvre around, and within, three dimensional stages, leaving a persistent tail behind you that you must avoid. The stages are algorithmically generated and adapted according to how you play. Hidden in the game are documentary elements that chart the development and inception of Blockade/snake/worm videogames from 1976 to today.<br><br>The game plays in 3D, is adaptive and fuses elements of documentary.<br><br><strong>qrth-phyl</strong> continues the algorithmic, generative and metaphorical arcade game design ideas last seen in previous hermitgames/Verran release <strong>Leave Home</strong>.<h2 class=\"bb_tag\" >Key Features</h2>-  <strong>Sequence</strong> game mode: play through an infinite algorithmicly generated sequence of stages collecting dots to unlock the exit and generate the next stage informed by how you've played.<br><br>- <strong>Seed</strong> game mode: generate a single infinite stage from a chosen seed recorded to the leaderboard. Optimise the best seed for the highest score.<br><br>- <strong>Box</strong> game mode: simple fixed size box 3D stage for hiscore chasing<br><br>- Steam Leaderboards, chase friends scores or better every player in the world<br><br>- 14 carefully chosen Steam Achievements<br><br>- Unique electronic soundtrack created using the AY-3-8912 (ZX Sinclair Spectrum audio microchip)<br><br><br>Based on a prototype created in the deep south west of Cornwall circa 2004 it was (re)developed for PC and XBLIG between 2011-2013 and revised for Steam in 2018. Built by one person with custom tools, self generating code and a modified AY-3-8912 audio chip.<br>​",
-  "about_the_game": "In <strong>qrth-phyl</strong> you will manoeuvre around, and within, three dimensional stages, leaving a persistent tail behind you that you must avoid. The stages are algorithmically generated and adapted according to how you play. Hidden in the game are documentary elements that chart the development and inception of Blockade/snake/worm videogames from 1976 to today.<br><br>The game plays in 3D, is adaptive and fuses elements of documentary.<br><br><strong>qrth-phyl</strong> continues the algorithmic, generative and metaphorical arcade game design ideas last seen in previous hermitgames/Verran release <strong>Leave Home</strong>.<h2 class=\"bb_tag\" >Key Features</h2>-  <strong>Sequence</strong> game mode: play through an infinite algorithmicly generated sequence of stages collecting dots to unlock the exit and generate the next stage informed by how you've played.<br><br>- <strong>Seed</strong> game mode: generate a single infinite stage from a chosen seed recorded to the leaderboard. Optimise the best seed for the highest score.<br><br>- <strong>Box</strong> game mode: simple fixed size box 3D stage for hiscore chasing<br><br>- Steam Leaderboards, chase friends scores or better every player in the world<br><br>- 14 carefully chosen Steam Achievements<br><br>- Unique electronic soundtrack created using the AY-3-8912 (ZX Sinclair Spectrum audio microchip)<br><br><br>Based on a prototype created in the deep south west of Cornwall circa 2004 it was (re)developed for PC and XBLIG between 2011-2013 and revised for Steam in 2018. Built by one person with custom tools, self generating code and a modified AY-3-8912 audio chip.<br>​",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.8805,
   "hype_score": 0.0,
   "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 26,
-  "review_positive": 24,
+  "review_positive": 0,
   "review_percentage": 92.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 26,
-      "review_percentage": 92.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
+      "date": "2026-04-04",
       "review_count": 26,
       "review_percentage": 92.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

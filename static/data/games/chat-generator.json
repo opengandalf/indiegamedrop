@@ -3,8 +3,8 @@
   "name": "Chat Generator",
   "slug": "chat-generator",
   "developer": "Kkyul",
-  "publisher": "Kkyul",
-  "release_date": "Oct 4, 2021",
+  "publisher": "",
+  "release_date": "2021-10-04",
   "price_usd": 0.99,
   "genres": [
     "Utilities"
@@ -18,33 +18,15 @@
   ],
   "short_description": "Chat Generator can export various chat and comment screen images.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1750210/header.jpg?t=1633838423",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1750210/ss_0ebeb9781904edb9871b5cbe0e151766b83a52c9.600x338.jpg?t=1633838423",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1750210/ss_74f5317d0522c034487c8efc1e812ad9c4da3d99.600x338.jpg?t=1633838423",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1750210/ss_6d2b28f67076e9a9565b821081eb459b8ea40cbc.600x338.jpg?t=1633838423",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1750210/ss_1719be23cea86f28ec07c3b6f4552cb7b3f58e78.600x338.jpg?t=1633838423",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1750210/ss_57797627c340af1c8f487538cfdec9d228875af1.600x338.jpg?t=1633838423",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1750210/ss_082c87207b7685b5e213a113b7be866a4be578de.600x338.jpg?t=1633838423",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1750210/ss_0a5e529d702a6eaf042dae02c073f67aab876154.600x338.jpg?t=1633838423",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1750210/ss_f5439b95ee5b379ef04a2a42582cc45836542eac.600x338.jpg?t=1633838423",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1750210/ss_a055cfad4f8c513eb6973f7b251b5d15554d313a.600x338.jpg?t=1633838423"
-  ],
-  "detailed_description": "Chat Generator can export various chat and comment screen images.<br><br>You may create a story for your own needs. So instead of using expensive photo editor and learn how to do layering, you can just create these images using our amazing and easy to use software.<br><br><strong>Templates</strong><br><ul class=\"bb_ul\"><li> Chat (Feetbook, Outstagram, Kilogram, Kokonut)<br></li><li> Chat List (Feetbook, Outstagram, Kilogram, Kokonut)<br></li><li> Friend List (Feetbook, Outstagram, Kilogram, Kokonut)<br></li><li> Outstagram<br></li><li> Metube<br></li><li> Maver</li></ul><br><strong>Details</strong><br><ul class=\"bb_ul\"><li> Use any installed font on your computer.<br></li><li> Reorder chat bubbles or comments easily.<br></li><li> Import and crop images.<br></li><li> Make your own styles.<br></li><li> Save and load your progress anytime.<br></li><li> Export up to 16k resolution!<br></li><li> Unlimited messages!<br></li><li> Endless fun!</li></ul>",
-  "about_the_game": "Chat Generator can export various chat and comment screen images.<br><br>You may create a story for your own needs. So instead of using expensive photo editor and learn how to do layering, you can just create these images using our amazing and easy to use software.<br><br><strong>Templates</strong><br><ul class=\"bb_ul\"><li> Chat (Feetbook, Outstagram, Kilogram, Kokonut)<br></li><li> Chat List (Feetbook, Outstagram, Kilogram, Kokonut)<br></li><li> Friend List (Feetbook, Outstagram, Kilogram, Kokonut)<br></li><li> Outstagram<br></li><li> Metube<br></li><li> Maver</li></ul><br><strong>Details</strong><br><ul class=\"bb_ul\"><li> Use any installed font on your computer.<br></li><li> Reorder chat bubbles or comments easily.<br></li><li> Import and crop images.<br></li><li> Make your own styles.<br></li><li> Save and load your progress anytime.<br></li><li> Export up to 16k resolution!<br></li><li> Unlimited messages!<br></li><li> Endless fun!</li></ul>",
-  "supported_languages": "Korean, English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +34,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

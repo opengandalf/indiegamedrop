@@ -3,8 +3,8 @@
   "name": "Bookworm",
   "slug": "bookworm",
   "developer": "Bjørnar Prytz",
-  "publisher": "Marsch pannkaka!",
-  "release_date": "Sep 7, 2024",
+  "publisher": "",
+  "release_date": "2024-09-07",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -19,35 +19,15 @@
   ],
   "short_description": "Travel across Wonderland in this zen little typing game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3033230/header.jpg?t=1725729246",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3033230/ss_ab0e91508a5326ab04faa7abae0ec5b5737b493c.600x338.jpg?t=1725729246",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3033230/ss_d19881523d2dd4481c8551ad14297bc494c393f4.600x338.jpg?t=1725729246",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3033230/ss_59b93350cfb33e021adf36cf0cbc67c66f20fd09.600x338.jpg?t=1725729246",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3033230/ss_29bc88c176e565cea7e0c1a3ed05ca388e1673ea.600x338.jpg?t=1725729246",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3033230/ss_3ad35e5aa969d65708f404679e7cb93dc6068a4f.600x338.jpg?t=1725729246"
-  ],
-  "detailed_description": "Bookworm is a typing game where the goal is to score points by completing as many words as possible. The twist is that you can type in any direction you want - even up or down.<br><br>You are the Bookworm with an appetite for the finest words in the fairytale. Crawl from letter to letter in search for quest words to stay <i>golden</i>. While <i>golden</i>, your multiplier increases by covering words. Relax, take your time, but avoid dead ends and climb the leaderboard. <br><br>Each run begins somewhere in the 12 chapters of Lewis Carrolls' <i>Alice’s Adventures in Wonderland</i>",
-  "about_the_game": "Bookworm is a typing game where the goal is to score points by completing as many words as possible. The twist is that you can type in any direction you want - even up or down.<br><br>You are the Bookworm with an appetite for the finest words in the fairytale. Crawl from letter to letter in search for quest words to stay <i>golden</i>. While <i>golden</i>, your multiplier increases by covering words. Relax, take your time, but avoid dead ends and climb the leaderboard. <br><br>Each run begins somewhere in the 12 chapters of Lewis Carrolls' <i>Alice’s Adventures in Wonderland</i>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Stats",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.4,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 8,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

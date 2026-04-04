@@ -3,8 +3,8 @@
   "name": "Blobble Wars 2",
   "slug": "blobble-wars-2",
   "developer": "Tusk and Paw Games",
-  "publisher": "Tusk and Paw Games",
-  "release_date": "Aug 1, 2022",
+  "publisher": "",
+  "release_date": "2022-08-01",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -19,34 +19,15 @@
   ],
   "short_description": "Mouse-based physics strategy game. Take the other team's towers before they can take yours! Features 50 unique levels and four difficulty modes.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067200/header.jpg?t=1659373155",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067200/ss_b0e315485af15a9f63a5ed4400a5addf93d546a0.600x338.jpg?t=1659373155",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067200/ss_54f9916be2b7723bcd383d8bcf4496b2821a3d7a.600x338.jpg?t=1659373155",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067200/ss_1697b2a95590105d738ec47b7d5c4a1f04f36baa.600x338.jpg?t=1659373155",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067200/ss_f8ea3f926ffba1673f98904fb6c8e603ea7bc253.600x338.jpg?t=1659373155",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067200/ss_2eca5dda2f40be33ac567f77400a6d0d28fcca05.600x338.jpg?t=1659373155"
-  ],
-  "detailed_description": "A sequel to the 2009 Flash game \"Blobble Wars\". This game builds on the original adding many new levels, new tower types, and new strategic options. Through 50 varied levels your goal will be to conquer all of the towers on the map before your AI opponents can. <br />\r\n<br />\r\nThe controls are simple: click your tower and drag in the direction you want to aim. Hitting an enemy tower with your blobbles will capture it. Hitting a friendly tower will reinforce it. <br />\r\n<br />\r\nThe game has four difficulty modes. Easy mode is forgiving for a casual expereince. Impossible mode provides a challenge for even experienced players.",
-  "about_the_game": "A sequel to the 2009 Flash game \"Blobble Wars\". This game builds on the original adding many new levels, new tower types, and new strategic options. Through 50 varied levels your goal will be to conquer all of the towers on the map before your AI opponents can. <br />\r\n<br />\r\nThe controls are simple: click your tower and drag in the direction you want to aim. Hitting an enemy tower with your blobbles will capture it. Hitting a friendly tower will reinforce it. <br />\r\n<br />\r\nThe game has four difficulty modes. Easy mode is forgiving for a casual expereince. Impossible mode provides a challenge for even experienced players.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

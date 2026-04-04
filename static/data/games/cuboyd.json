@@ -3,8 +3,8 @@
   "name": "Cuboyd",
   "slug": "cuboyd",
   "developer": "Sam Niemeier",
-  "publisher": "Sam Niemeier",
-  "release_date": "Jun 12, 2024",
+  "publisher": "",
+  "release_date": "2024-06-12",
   "price_usd": 1.5,
   "genres": [
     "Casual",
@@ -19,32 +19,15 @@
   ],
   "short_description": "Control a cube and solve puzzles! Learn to master the power of equipping items on your six colorful faces.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800880/header.jpg?t=1718250169",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800880/ss_52b863d20ebba543c387944997012a176544dea2.600x338.jpg?t=1718250169",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800880/ss_2d6d3fdd901b80d7d70d2aa5edbe3725684a38b5.600x338.jpg?t=1718250169",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800880/ss_f8f3b3ba88144f6126bf1b1092230cc15e9c915e.600x338.jpg?t=1718250169",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800880/ss_b66b152b61b420e9e30ab336c09e2cb1caee6a2d.600x338.jpg?t=1718250169",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800880/ss_d170500ed234c4f40c11d94600eaac871f5ac00c.600x338.jpg?t=1718250169"
-  ],
-  "detailed_description": "Experience the power of rotating a cube. In this game you solve short puzzles by rolling your cube around. In several puzzles you will equip items on your faces, such as color-coded keys for locks, as well as ladders for crossing gaps. Pitfalls like numbered blocks, which limit the number of times you can move over them before they fall, will force you to seriously consider your moves!",
-  "about_the_game": "Experience the power of rotating a cube. In this game you solve short puzzles by rolling your cube around. In several puzzles you will equip items on your faces, such as color-coded keys for locks, as well as ladders for crossing gaps. Pitfalls like numbered blocks, which limit the number of times you can move over them before they fall, will force you to seriously consider your moves!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Birdfont",
   "slug": "birdfont",
   "developer": "Johan Mattsson",
-  "publisher": "Johan Mattsson",
-  "release_date": "Jul 19, 2023",
+  "publisher": "",
+  "release_date": "2023-07-19",
   "price_usd": 14.99,
   "genres": [
     "Design & Illustration"
@@ -17,28 +17,15 @@
   ],
   "short_description": "A font editor.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2484760/header.jpg?t=1717203098",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2484760/ss_919432917c0b1866cec01a7042fc12a650eb949a.600x338.jpg?t=1717203098",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2484760/ss_7264e34b1011d42c4900e35f0cda1e7271d76d4d.600x338.jpg?t=1717203098",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2484760/ss_19e8236571be9320b8a33426d3f5a8b9ee16095b.600x338.jpg?t=1717203098",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2484760/ss_35d56233776a5ee90846202a3b039bbd96723475.600x338.jpg?t=1717203098"
-  ],
-  "detailed_description": "Birdfont is a font editor which lets you create vector graphics and export TTF, OTF and SVG fonts. The editor has good support for both monochrome and color font formats. It is a good place to start developing your fonts.<br />\r\n<br />\r\nAll versions of the program includes TTF support. You can draw your letters, kern them and easily add ligatures.<br />\r\n<br />\r\nThe commercial version lets you create commercial fonts and it has some additional features that are not available in the demo. The main features are OTF support and support for color fonts.",
-  "about_the_game": "Birdfont is a font editor which lets you create vector graphics and export TTF, OTF and SVG fonts. The editor has good support for both monochrome and color font formats. It is a good place to start developing your fonts.<br />\r\n<br />\r\nAll versions of the program includes TTF support. You can draw your letters, kern them and easily add ligatures.<br />\r\n<br />\r\nThe commercial version lets you create commercial fonts and it has some additional features that are not available in the demo. The main features are OTF support and support for color fonts.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.55,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 11,
-  "review_positive": 11,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -46,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 11,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

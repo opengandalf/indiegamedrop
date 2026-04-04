@@ -3,8 +3,8 @@
   "name": "Elve",
   "slug": "elve",
   "developer": "FrisbyStudio",
-  "publisher": "FrisbyStudio",
-  "release_date": "Aug 2, 2024",
+  "publisher": "",
+  "release_date": "2024-08-02",
   "price_usd": 0.74,
   "genres": [
     "Action"
@@ -17,32 +17,15 @@
   ],
   "short_description": "Single player horror battle royal shooter",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3026290/header.jpg?t=1722584699",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3026290/ss_c1dca934083eac74928ea2b0ebe83afbb6a6bee1.600x338.jpg?t=1722584699",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3026290/ss_05caa4e9724691f3462e4d9099b8c03a4a98a102.600x338.jpg?t=1722584699",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3026290/ss_5ed818cbaa00e502881f7ae20fdccd0daca30059.600x338.jpg?t=1722584699",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3026290/ss_80468b44c3347ce86f36aca6813bf1328cc705a4.600x338.jpg?t=1722584699",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3026290/ss_6ee11be3cb328480d772ab85a03f5a6f0ab0e34f.600x338.jpg?t=1722584699"
-  ],
-  "detailed_description": "Elve is an engaging single-player battle royal game that immerses players in a dark, fantastic world using their archery skills to survive. As the protagonist, you navigate through a dense, eerie Christmas town haunted by relentless ghouls. Your goal is to eliminate these supernatural enemies before they overwhelm you.<br />\r\nIt's Christmas in July in the small town of Ghoulvile for the evil vampire Elve and his army of ghouls want to take over Ghoulvile. Being the good Santa elf you are you must stop his destruction.<br />\r\nUse a bow and arrow to defeat the ghouls. You must defeat the ghouls in waves and finally try and defeat the evil vampire named Elve",
-  "about_the_game": "Elve is an engaging single-player battle royal game that immerses players in a dark, fantastic world using their archery skills to survive. As the protagonist, you navigate through a dense, eerie Christmas town haunted by relentless ghouls. Your goal is to eliminate these supernatural enemies before they overwhelm you.<br />\r\nIt's Christmas in July in the small town of Ghoulvile for the evil vampire Elve and his army of ghouls want to take over Ghoulvile. Being the good Santa elf you are you must stop his destruction.<br />\r\nUse a bow and arrow to defeat the ghouls. You must defeat the ghouls in waves and finally try and defeat the evil vampire named Elve",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

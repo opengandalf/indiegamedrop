@@ -3,8 +3,8 @@
   "name": "Forget Something?",
   "slug": "forget-something",
   "developer": "Trevor Treadway",
-  "publisher": "Treadway Studios",
-  "release_date": "Apr 12, 2024",
+  "publisher": "",
+  "release_date": "2024-04-12",
   "price_usd": 0.99,
   "genres": [
     "Indie"
@@ -17,39 +17,9 @@
   ],
   "short_description": "A thrilling and fast-paced indie horror game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2901330/header.jpg?t=1723224747",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2901330/ss_53fa7e9be3412adf9a58e300c762cf7bf2306996.600x338.jpg?t=1723224747",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2901330/ss_6ba710183607b4e55eedc590aab6b9f52a1ef8ac.600x338.jpg?t=1723224747",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2901330/ss_b8926435e1f7e7e218100b297078c74c2c505627.600x338.jpg?t=1723224747",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2901330/ss_bfea23af8ee9fc4b8546c20d4a193fd604d643b3.600x338.jpg?t=1723224747",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2901330/ss_cc78b90273e457cd37dc491edf5e0d6d7ea9fc25.600x338.jpg?t=1723224747",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2901330/ss_ab5263fb55778ce4978c753ca2196887852bf637.600x338.jpg?t=1723224747",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2901330/ss_7de84d4821cdc272354a68dbfbe49dde7bc25d09.600x338.jpg?t=1723224747",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2901330/ss_c7a789c1dffcdada0af48b0725d142eb4a33d9e0.600x338.jpg?t=1723224747",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2901330/ss_4e2ce86e213b651f7d780391613999b14cc2aa8f.600x338.jpg?t=1723224747",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2901330/ss_dc04c6ba326bbf94b916f11a68a99872230b4a4d.600x338.jpg?t=1723224747",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2901330/ss_b62a89475d506c29279e9c3b4e5a640dfaac7f99.600x338.jpg?t=1723224747",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2901330/ss_80f78bda364b76a0ee450ee3d0ccd64d273cee65.600x338.jpg?t=1723224747"
-  ],
-  "detailed_description": "After a hard day's work, you're eager to leave. Wait. Did you... Forget Something? What you've forgotten is precious, but the office is closed. Quietly or quickly search for your forgotten item and escape!<br />\r\n<br />\r\nForget Something? is the first game that I have made, and I am very excited to share it with people. This is a very early version of the game, and I plan to add many more features very soon. Feedback is appreciated!<br />\r\n<br />\r\nThe game's goal is to collect the specific item you have left behind in the office (right now only a trophy, more in the future) and return to the entrance where you started. You can sprint by holding shift, but that makes it easier for the entities to detect you. Crouching with C makes it harder for the entities to detect you, but you travel slower. Avoid the entities; they want you gone and if they get you it's game over. Fortunately, it's a very fast process to retry, which I really encourage, as the game gets much easier as you start to learn the map.",
-  "about_the_game": "After a hard day's work, you're eager to leave. Wait. Did you... Forget Something? What you've forgotten is precious, but the office is closed. Quietly or quickly search for your forgotten item and escape!<br />\r\n<br />\r\nForget Something? is the first game that I have made, and I am very excited to share it with people. This is a very early version of the game, and I plan to add many more features very soon. Feedback is appreciated!<br />\r\n<br />\r\nThe game's goal is to collect the specific item you have left behind in the office (right now only a trophy, more in the future) and return to the entrance where you started. You can sprint by holding shift, but that makes it easier for the entities to detect you. Crouching with C makes it harder for the entities to detect you, but you travel slower. Avoid the entities; they want you gone and if they get you it's game over. Fortunately, it's a very fast process to retry, which I really encourage, as the game gets much easier as you start to learn the map.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

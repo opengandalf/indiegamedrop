@@ -3,8 +3,8 @@
   "name": "Seishin - Virtual Rhythm",
   "slug": "seishin-virtual-rhythm",
   "developer": "Sean Reilly",
-  "publisher": "Sean Reilly",
-  "release_date": "Feb 20, 2018",
+  "publisher": "",
+  "release_date": "2018-02-20",
   "price_usd": 0.99,
   "genres": [
     "Indie"
@@ -15,38 +15,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Seishin is a virtual reality rhythm game where the goal is to hit targets the beat of the music. Use your pair of magical drumsticks to hit targets, follow sliders and spin spinners. A strong combination of timing and precision is key to achieving success.",
+  "short_description": "Seishin is a virtual reality rhythm game where the goal is to hit targets the beat of the music. Use your pair of magical drumsticks to hit targets, follow sliders and spin spinners. A strong combinat",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770160/header.jpg?t=1522214360",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770160/ss_3ebcab058bc582500c1e1be8fe6a3afd9b91a6ca.600x338.jpg?t=1522214360",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770160/ss_e2e989b4b62d7ae540f1291a2563ce6e479f94ea.600x338.jpg?t=1522214360",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770160/ss_2931836cd7052022a7638a2d2526610515671104.600x338.jpg?t=1522214360",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770160/ss_8f255fdf8b2441fb40efce4c22fb3f10f73ec673.600x338.jpg?t=1522214360",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770160/ss_fe8dcef2f673751513eb4cdcb20605968cf90f5d.600x338.jpg?t=1522214360"
-  ],
-  "detailed_description": "<h1>Update Notes</h1><p>Update 3/27/18:<br><ul class=\"bb_ul\"><li> Fixed a bug where single channel songs would play at double the normal speed</li></ul>Update 3/5/18:<br><ul class=\"bb_ul\"><li> Fixed a bug where certain beatmaps wouldn't load properly</li></ul></p><br><h1>About the Game</h1>Seishin is a virtual reality rhythm game where the goal is to hit targets the beat of the music. Use your pair of magical drumsticks to hit targets, follow sliders and spin spinners. A strong combination of timing and precision is key to achieving success.<h2 class=\"bb_tag\" >Beatmaps</h2>Each song contains hand-crafted beatmaps at various difficulties, ensuring a variety of distinct patterns and unique challenges. Import your existing beatmap collection. Browse and download new tracks within the game.<h2 class=\"bb_tag\" >Leaderboards</h2>Track your personal progress or compete against others via local and online leaderboards.<h2 class=\"bb_tag\" >Mods</h2>Choose from a variety of mods to create a more hardcore or casual experience to your liking.",
-  "about_the_game": "Seishin is a virtual reality rhythm game where the goal is to hit targets the beat of the music. Use your pair of magical drumsticks to hit targets, follow sliders and spin spinners. A strong combination of timing and precision is key to achieving success.<h2 class=\"bb_tag\" >Beatmaps</h2>Each song contains hand-crafted beatmaps at various difficulties, ensuring a variety of distinct patterns and unique challenges. Import your existing beatmap collection. Browse and download new tracks within the game.<h2 class=\"bb_tag\" >Leaderboards</h2>Track your personal progress or compete against others via local and online leaderboards.<h2 class=\"bb_tag\" >Mods</h2>Choose from a variety of mods to create a more hardcore or casual experience to your liking.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Tracked Controller Support",
-    "VR Only",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 9,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 57.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

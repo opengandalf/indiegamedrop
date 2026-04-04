@@ -3,8 +3,8 @@
   "name": "Shimmer",
   "slug": "shimmer",
   "developer": "Zatara Software Ltd",
-  "publisher": "Zatara Software Ltd",
-  "release_date": "Oct 3, 2018",
+  "publisher": "",
+  "release_date": "2018-10-03",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -17,56 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Your yacht has been marooned in the Pacific Ocean following a violent storm. Gather the scarce resources you find to try and stay alive in the hopes of rescue. Explore, craft and hunt in this first person desert island simulator.",
+  "short_description": "Your yacht has been marooned in the Pacific Ocean following a violent storm. Gather the scarce resources you find to try and stay alive in the hopes of rescue. Explore, craft and hunt in this first pe",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/header.jpg?t=1590168068",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_813326b56e3e5d38057486312dbfee0504b18efd.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_b6a8444e975e335c3b3ddbca3cff1e71057bfbb8.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_53ba4f4de78fc0e747005c816db5fd79ab960df9.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_32648ddc431801b1abd2c1ca5a15dc75d2e2292e.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_252a5946503f4353f4e698140901bdf6d14114c2.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_4127200591687de4ee525d4b5d650cc34e9cf725.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_9d64cb243961c04629b24d9968e4b90b5d97063b.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_e520b8a8a38b91cc1d3f64c6433c6fa381e3d2f5.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_134057cfa1e6c1cf8a9385bcb4b35d218b2fe7d0.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_cb443ea407cf97441781fb7c9e3d9017446ea9f8.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_6ab24709305d100fab4d08267585c334873d3734.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_783226eb7969ed315fbc02d2a6119075165ff293.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_09afa69980f0d302f83337c8991bf9aebb76d02b.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_4ef41f9079f629827be9e798e3810e661779f04b.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_4ae439be0be4d467666307a1e94f9fef69d96d56.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_d9bb66b4a435891a445467bcbcdc922f73b2244d.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_675ab6fd79d06f47b286843777f383fd0103f969.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_06ca78a1cefd3409f860b1b5b5d05225c6f72da1.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_0166604faf07ee34f7ec8f4f81b4155ee5f8c59d.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_5220e9fdeb28c557650448b0b3083c2900cb8382.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_46dceefaf8da6f473f4ca4bb63c3a50dbeca0bfb.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_d097fc825ecef1e0e0ba7db06fb953f808776610.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_ec411362a943d29d4b7ca8bd8efd8330263eaf0d.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_7be2f3956609dea7c9e993e9dd82e907f88da02b.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_7c601f8799f325acd74b507961a77dd2144a3a82.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_30830f140ac3fd3b400ec248ab5e4e7fefbac494.600x338.jpg?t=1590168068",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883370/ss_8ec25099daa904f4d2659135389e6f9c734982bd.600x338.jpg?t=1590168068"
-  ],
-  "detailed_description": "Marooned somewhere in the Pacific Ocean you need to gather the scarce resources you find to try and stay alive in the hopes of rescue. <br><br>Explore, craft and hunt in this first person desert island simulator.<br><br><strong>Features:</strong><br><br>An open world containing over 30 different islands to explore<br>Dynamic night/day and weather system<br>Manage your vitals for thirst, hunger and exposure to the natural elements<br>Hunt for edible fish, crabs and boar using a spear<br>Craft various items to help you survive the islands<br>Use the modular building system to create a home for yourself<br>Collect water and grow plants to sustain your life<br>Watch out for sharks lurking in the ocean<br><br><strong>Roadmap:</strong><br><br>More plants to grow for eating and crafting<br>Additional depth to the crafting system<br>Co-operative game mode<br>Game environment improvements<br>Bug crushing and performance improvements<br>Feedback from the community to help direct and grow the game",
-  "about_the_game": "Marooned somewhere in the Pacific Ocean you need to gather the scarce resources you find to try and stay alive in the hopes of rescue. <br><br>Explore, craft and hunt in this first person desert island simulator.<br><br><strong>Features:</strong><br><br>An open world containing over 30 different islands to explore<br>Dynamic night/day and weather system<br>Manage your vitals for thirst, hunger and exposure to the natural elements<br>Hunt for edible fish, crabs and boar using a spear<br>Craft various items to help you survive the islands<br>Use the modular building system to create a home for yourself<br>Collect water and grow plants to sustain your life<br>Watch out for sharks lurking in the ocean<br><br><strong>Roadmap:</strong><br><br>More plants to grow for eating and crafting<br>Additional depth to the crafting system<br>Co-operative game mode<br>Game environment improvements<br>Bug crushing and performance improvements<br>Feedback from the community to help direct and grow the game",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 8,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -74,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 8,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

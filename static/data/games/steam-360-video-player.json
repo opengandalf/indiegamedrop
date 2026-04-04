@@ -4,7 +4,7 @@
   "slug": "steam-360-video-player",
   "developer": "Valve",
   "publisher": "",
-  "release_date": "May 10, 2017",
+  "release_date": "2017-05-10",
   "price_usd": 0.0,
   "genres": [],
   "tags": [],
@@ -13,28 +13,9 @@
   ],
   "short_description": "The Steam 360 Video Player allows SteamVR compatible VR headsets to playback Steam 360 Video content that can be found on the Steam Store.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613220/header.jpg?t=1555972654",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613220/ss_326843d53e9dbbc263b8aba0edf27c0b545e0f45.600x338.jpg?t=1555972654",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613220/ss_3f5b7f94b14d251aa3e7ae7677052e16ba85e916.600x338.jpg?t=1555972654"
-  ],
-  "detailed_description": "The Steam 360 Video Player allows SteamVR compatible VR headsets to playback Steam 360 Video content that can be found on the Steam Store. Once installed, you can find 360 videos on the Steam store.<br><br>The Steam 360 Video Player is currently in Beta. More information about the 360 Video Beta can be found here.<br><br><strong><i>Update: An early test for Non-HMD playback is now available in the build released 7/7/2017.</i></strong>",
-  "about_the_game": "The Steam 360 Video Player allows SteamVR compatible VR headsets to playback Steam 360 Video content that can be found on the Steam Store. Once installed, you can find 360 videos on the Steam store.<br><br>The Steam 360 Video Player is currently in Beta. More information about the 360 Video Beta can be found here.<br><br><strong><i>Update: An early test for Non-HMD playback is now available in the build released 7/7/2017.</i></strong>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 140,
-  "review_positive": 78,
+  "review_positive": 0,
   "review_percentage": 55.7,
   "owner_estimate": 150000,
   "ccu_estimate": 0,
@@ -42,26 +23,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 139,
-      "review_percentage": 54.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 140,
-      "review_percentage": 55.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 140,
       "review_percentage": 55.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

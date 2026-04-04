@@ -3,8 +3,8 @@
   "name": "Conductor",
   "slug": "conductor",
   "developer": "Overflow",
-  "publisher": "Overflow",
-  "release_date": "May 2, 2017",
+  "publisher": "",
+  "release_date": "2017-05-02",
   "price_usd": 9.99,
   "genres": [
     "Action",
@@ -19,63 +19,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Conductor is a action-adventure, puzzle game. Take control of a locomotive and clear anything that stands in your way. Solve puzzles by using tools and wit. Defend yourself from the forces of Overcorp.",
+  "short_description": "Conductor is a action-adventure, puzzle game. Take control of a locomotive and clear anything that stands in your way. Solve puzzles by using tools and wit. Defend yourself from the forces of Overcorp",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584930/header.jpg?t=1587713414",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584930/ss_3041fa6750d834a99fc411221c0877b76e1b7958.600x338.jpg?t=1587713414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584930/ss_0988ea07074061cac7c80c068c69e98670df6b26.600x338.jpg?t=1587713414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584930/ss_107ee207f4c007f2228d6ce364b6b8ca3c03729a.600x338.jpg?t=1587713414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584930/ss_bcc3ce7a89897b90aed89e454cd98c223ff40228.600x338.jpg?t=1587713414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584930/ss_2afe94c3424b0d6bb355a127947ccde1bb6a608d.600x338.jpg?t=1587713414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584930/ss_fc28c20d388bd95420c856a0f6eabaa9a177aacb.600x338.jpg?t=1587713414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584930/ss_dd70ead7d8140fa4af5f74b0c7f7cb3b46739d08.600x338.jpg?t=1587713414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584930/ss_d36d78df41fefd1d7f26f387b0b67869f1951365.600x338.jpg?t=1587713414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584930/ss_973b62bcd3055a7a6c0a38f45e9cb71f2ba6fbe4.600x338.jpg?t=1587713414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584930/ss_45ce427820b61fd018f5c1a1f27772fe631214ca.600x338.jpg?t=1587713414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584930/ss_e0d1879a0b056068fb9b8443d9b824d7c993999e.600x338.jpg?t=1587713414"
-  ],
-  "detailed_description": "Conductor is a puzzle, action-adventure VR game, It takes place in a post Industrial apocalypse.<br><br>You are on the run from Overcorp and on your way to safety. But to get there you'll have to take control of a locomotive and clear anything that stands in your way with the help of your gravity cannon. <br><br>Solve puzzles by using tools and wit. Defend yourself from the forces of Overcorp.<br><br><ul class=\"bb_ul\"><li>Visit multiple stations, each with unique puzzles and challenges.<br></li><li>Manipulate the environment and objects using the Gravity Cannon.<br></li><li>Drive and maintain a Locomotive.</li></ul><br>Game length :   1.5 - 2.5 hrs <br>Locomotion   :   Teleportation",
-  "about_the_game": "Conductor is a puzzle, action-adventure VR game, It takes place in a post Industrial apocalypse.<br><br>You are on the run from Overcorp and on your way to safety. But to get there you'll have to take control of a locomotive and clear anything that stands in your way with the help of your gravity cannon. <br><br>Solve puzzles by using tools and wit. Defend yourself from the forces of Overcorp.<br><br><ul class=\"bb_ul\"><li>Visit multiple stations, each with unique puzzles and challenges.<br></li><li>Manipulate the environment and objects using the Gravity Cannon.<br></li><li>Drive and maintain a Locomotive.</li></ul><br>Game length :   1.5 - 2.5 hrs <br>Locomotion   :   Teleportation",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 248,
-  "rising_score": 0.0,
-  "gem_score": 0.5429,
+  "screenshots": [],
+  "rising_score": 0.0001,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 15.05,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 301,
-  "review_positive": 280,
+  "review_positive": 0,
   "review_percentage": 93.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "rising",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 300,
-      "review_percentage": 93.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 301,
       "review_percentage": 93.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

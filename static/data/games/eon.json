@@ -3,8 +3,8 @@
   "name": "Eon",
   "slug": "eon",
   "developer": "pengaru.com",
-  "publisher": "pengaru.com",
-  "release_date": "Feb 25, 2020",
+  "publisher": "",
+  "release_date": "2020-02-25",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -25,37 +25,15 @@
   ],
   "short_description": "A fun, fast-paced, challenging game of cellular conflict.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056060/header.jpg?t=1592773986",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056060/ss_2609d9be40745ab89730e9babbe0eb72574586fd.600x338.jpg?t=1592773986",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056060/ss_e377b1fc7a4bb7c9637cf531352550d38a16a8e3.600x338.jpg?t=1592773986",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056060/ss_3398b613f4c6adc324c4bb9a8b088834bdd5441a.600x338.jpg?t=1592773986",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056060/ss_283ea24fe0dc36e5a893b30a0f999351d7012500.600x338.jpg?t=1592773986",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056060/ss_41a341ad352ffa7ce16f3b5d51b97ae61e7fccde.600x338.jpg?t=1592773986",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056060/ss_0505eb851a4015267d266fee02a9722a47036ed8.600x338.jpg?t=1592773986",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056060/ss_a963526b478fd7f7b04f5a0755a60deb470ed52c.600x338.jpg?t=1592773986",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056060/ss_0991b37ab555111be727ca82f50110044e2218ef.600x338.jpg?t=1592773986",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056060/ss_90f9ec8f63d2b508aca25a7877405fdf74e91d16.600x338.jpg?t=1592773986"
-  ],
-  "detailed_description": "Eon is a small, fun, fast-paced, challenging game of cellular conflict.<br><br>The goal is to conquer a 7x7 grid by either eliminating the opposing colors destructively or by displacing them from the board.<br><br>The tools at your disposal, shared equally with your AI opponents, consist of two simple mechanics:<br><ul class=\"bb_ul\"><li> Taking a neighboring cell as your own</li><li> Sacrificing your cells to affect the surrounding cells</li></ul><br>As levels progress gameplay evolves, incorporating additional, smarter, and faster AI players, and a variety of dynamic obstacles.<br><br>Being a small game, once mastered the average play session surpassing level 10 lasts around fifteen minutes.  It's good for a quick distraction that starts slow and easy before becoming frenetic and difficult.",
-  "about_the_game": "Eon is a small, fun, fast-paced, challenging game of cellular conflict.<br><br>The goal is to conquer a 7x7 grid by either eliminating the opposing colors destructively or by displacing them from the board.<br><br>The tools at your disposal, shared equally with your AI opponents, consist of two simple mechanics:<br><ul class=\"bb_ul\"><li> Taking a neighboring cell as your own</li><li> Sacrificing your cells to affect the surrounding cells</li></ul><br>As levels progress gameplay evolves, incorporating additional, smarter, and faster AI players, and a variety of dynamic obstacles.<br><br>Being a small game, once mastered the average play session surpassing level 10 lasts around fifteen minutes.  It's good for a quick distraction that starts slow and easy before becoming frenetic and difficult.",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -63,19 +41,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

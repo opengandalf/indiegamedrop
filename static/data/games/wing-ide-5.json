@@ -3,8 +3,8 @@
   "name": "Wing IDE 5",
   "slug": "wing-ide-5",
   "developer": "Wingware",
-  "publisher": "Wingware",
-  "release_date": "Apr 30, 2014",
+  "publisher": "",
+  "release_date": "2014-04-30",
   "price_usd": 79.99,
   "genres": [
     "Utilities"
@@ -17,60 +17,23 @@
     "mac",
     "linux"
   ],
-  "short_description": "Wing IDE is a development environment for the Python programming language. Its powerful editor and debugger speed up development of Python code for Maya, MotionBuilder, NUKE, Blender, Source Filmmaker, and other Python-based applications, game engines, and libraries.",
+  "short_description": "Wing IDE is a development environment for the Python programming language. Its powerful editor and debugger speed up development of Python code for Maya, MotionBuilder, NUKE, Blender, Source Filmmaker",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244830/header.jpg?t=1447358221",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244830/ss_7d7b67e12119fc98fea31f7ecd59e46a63d1642c.600x338.jpg?t=1447358221",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244830/ss_93ad72f4cef7e5c68b4f441817f68b1785dee9de.600x338.jpg?t=1447358221",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244830/ss_5ad92a373cd30b28eb49245156879f4a872f6d54.600x338.jpg?t=1447358221",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244830/ss_ad95e1a10a070b44f73896056b8ef250c6c3ba10.600x338.jpg?t=1447358221",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244830/ss_8b456a72a22b77f6fc88a338af6cadbfda71ea6d.600x338.jpg?t=1447358221"
-  ],
-  "detailed_description": "Wing IDE is an integrated development environment that makes programming in Python fast and easy.  Wing IDE delivers many powerful features for editing, debugging, testing, inspecting, navigating, refactoring, searching, and managing Python code.<br><br>Wing IDE works with Python 2.x and 3.x and can be used with Autodesk Maya, MotionBuilder, NUKE, Blender, Source Filmmaker, and other modeling, rendering, and compositing software that uses Python as a scripting language.<br><br>Wing IDE also works with pygame, PyOpenGL, and other Python game libraries (see ).<br><br>The Non-Commercial Use license is for students and hobbyists.  If you make money from your use of Wing IDE, please purchase the Commercial Use license.",
-  "about_the_game": "Wing IDE is an integrated development environment that makes programming in Python fast and easy.  Wing IDE delivers many powerful features for editing, debugging, testing, inspecting, navigating, refactoring, searching, and managing Python code.<br><br>Wing IDE works with Python 2.x and 3.x and can be used with Autodesk Maya, MotionBuilder, NUKE, Blender, Source Filmmaker, and other modeling, rendering, and compositing software that uses Python as a scripting language.<br><br>Wing IDE also works with pygame, PyOpenGL, and other Python game libraries (see ).<br><br>The Non-Commercial Use license is for students and hobbyists.  If you make money from your use of Wing IDE, please purchase the Commercial Use license.",
-  "supported_languages": "English, French, German",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 19,
-  "review_positive": 17,
+  "review_positive": 0,
   "review_percentage": 89.5,
   "owner_estimate": 75000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 4164,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 19,
-      "review_percentage": 89.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 19,
-      "review_percentage": 89.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 19,
       "review_percentage": 89.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

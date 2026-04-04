@@ -3,8 +3,8 @@
   "name": "Image To Normal Map",
   "slug": "image-to-normal-map",
   "developer": "Aurora",
-  "publisher": "Aurora",
-  "release_date": "May 20, 2020",
+  "publisher": "",
+  "release_date": "2020-05-20",
   "price_usd": 5.99,
   "genres": [
     "Indie",
@@ -25,28 +25,7 @@
   ],
   "short_description": "A convenient tool for game design, which can convert 2D plate into normal map of picture, and display tool of WYSIWYG",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1310860/header.jpg?t=1661241388",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1310860/ss_e3a6f2ec2131dfc69b54acce374d99ba3968b30b.600x338.jpg?t=1661241388",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1310860/ss_fe4d644d264686ad589cfb5f68d71c5a593d8a13.600x338.jpg?t=1661241388",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1310860/ss_4d91b7d11a0eb1270aee829520afa56005b4ff39.600x338.jpg?t=1661241388",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1310860/ss_11108cd1e111ef059156a9f38c9dbf67ca20d6b7.600x338.jpg?t=1661241388",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1310860/ss_49a263d690826adbb08078108549c0b1d253af9d.600x338.jpg?t=1661241388",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1310860/ss_f0ff7feb65f0a9c997d73703a423f1d3f04aeb16.600x338.jpg?t=1661241388"
-  ],
-  "detailed_description": "A convenient tool for game design, which can convert 2D plate into normal map of picture, and display tool of WYSIWYG<br />\r\n<br />\r\n<br />\r\n<br />\r\nIn the game and image design, it is a tool for generating relative normal texture from pictures. Normal map can be used for bump texture, etc., which is convenient for the related functions of model subtraction<br />\r\n<br />\r\n<br />\r\n<br />\r\nThe tool uses the physical material effect. If you want to achieve relevant functions, please refer to the physical material effect",
-  "about_the_game": "A convenient tool for game design, which can convert 2D plate into normal map of picture, and display tool of WYSIWYG<br />\r\n<br />\r\n<br />\r\n<br />\r\nIn the game and image design, it is a tool for generating relative normal texture from pictures. Normal map can be used for bump texture, etc., which is convenient for the related functions of model subtraction<br />\r\n<br />\r\n<br />\r\n<br />\r\nThe tool uses the physical material effect. If you want to achieve relevant functions, please refer to the physical material effect",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 2,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -56,89 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 2,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
-      "review_count": 2,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
-      "review_count": 2,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
-      "review_count": 2,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
-      "review_count": 2,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
-      "review_count": 2,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-29",
-      "review_count": 2,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
-      "review_count": 2,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
-      "review_count": 2,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-01",
-      "review_count": 2,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

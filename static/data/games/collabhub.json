@@ -3,8 +3,8 @@
   "name": "CollabHub",
   "slug": "collabhub",
   "developer": "CollabHub",
-  "publisher": "CollabHub",
-  "release_date": "Jan 27, 2021",
+  "publisher": "",
+  "release_date": "2021-01-27",
   "price_usd": 11.99,
   "genres": [
     "Design & Illustration",
@@ -17,34 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "CollabHub lets you draw and diagram on a virtual whiteboard with a team or all for yourself. Create advanced diagrams, upload images or share ideas in either the summer or winter environments. More than 30 tools and shapes to choose from.",
+  "short_description": "CollabHub lets you draw and diagram on a virtual whiteboard with a team or all for yourself. Create advanced diagrams, upload images or share ideas in either the summer or winter environments. More th",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/679160/header.jpg?t=1611775151",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/679160/ss_b1efa297a6af7fb4d0026d3ddadec7cf5e6a9b37.600x338.jpg?t=1611775151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/679160/ss_dc72d69f3dfec17fe042211896050fe68ca4097f.600x338.jpg?t=1611775151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/679160/ss_da279ce7f48ea57a6ba5a4a9093d90ebf6b78d9f.600x338.jpg?t=1611775151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/679160/ss_22f2f543df6f992a2e5ef800b8cd1f50b68c562f.600x338.jpg?t=1611775151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/679160/ss_6396b118e0430be8d3af65f928450c2827105a63.600x338.jpg?t=1611775151"
-  ],
-  "detailed_description": "CollabHub is your ideal creative workspace where you can draw diagrams, upload images and share ideas in VR. Enjoy your surroundings in either the summer or winter environments while collaborating with a team or expressing yourself on your own.<br><br><ul class=\"bb_ul\"><li><strong>Real-time collaborative whiteboard: </strong>Draw diagrams on a virtual whiteboard with a team of up to 12 or have it all for yourself. Customize the color, size and material of your board and move it around the environment.<br></li><li><strong>Advanced Diagrams: </strong>Create diagrams such as flow charts, mind maps, business process diagrams, or use freehand drawing as you would on a whiteboard. Make use of a full color palette and more than 30 tools and shapes to choose from.<br></li><li><strong>Superior Clarity: </strong>All shapes are modelled in 3D with no pixellation or texture artifacts. Your drawings and diagrams look sharp from afar or right up close and whether you use a large or small canvas. <br></li><li><strong>Personalize your avatar: </strong>Expressive avatars that include customizable skin tone and hair color, with more than 350 variations. High quality voice chat and avatar lip sync give a real sense of presence.<br></li><li><strong>Import and Export: </strong>Import images to your board and move / resize them anywhere you like. Export to an image file or scalable vector graphics file (SVG).<br></li><li><strong>Tutorial: </strong>A 7 step tutorial that guides you through the controls and UI to help get you started</li></ul>",
-  "about_the_game": "CollabHub is your ideal creative workspace where you can draw diagrams, upload images and share ideas in VR. Enjoy your surroundings in either the summer or winter environments while collaborating with a team or expressing yourself on your own.<br><br><ul class=\"bb_ul\"><li><strong>Real-time collaborative whiteboard: </strong>Draw diagrams on a virtual whiteboard with a team of up to 12 or have it all for yourself. Customize the color, size and material of your board and move it around the environment.<br></li><li><strong>Advanced Diagrams: </strong>Create diagrams such as flow charts, mind maps, business process diagrams, or use freehand drawing as you would on a whiteboard. Make use of a full color palette and more than 30 tools and shapes to choose from.<br></li><li><strong>Superior Clarity: </strong>All shapes are modelled in 3D with no pixellation or texture artifacts. Your drawings and diagrams look sharp from afar or right up close and whether you use a large or small canvas. <br></li><li><strong>Personalize your avatar: </strong>Expressive avatars that include customizable skin tone and hair color, with more than 350 variations. High quality voice chat and avatar lip sync give a real sense of presence.<br></li><li><strong>Import and Export: </strong>Import images to your board and move / resize them anywhere you like. Export to an image file or scalable vector graphics file (SVG).<br></li><li><strong>Tutorial: </strong>A 7 step tutorial that guides you through the controls and UI to help get you started</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 5,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 60.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -52,26 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 60.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 5,
-      "review_percentage": 60.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 60.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

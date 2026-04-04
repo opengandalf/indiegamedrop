@@ -3,8 +3,8 @@
   "name": "Blackjack Hands",
   "slug": "blackjack-hands",
   "developer": "Minimol Games",
-  "publisher": "Minimol Games",
-  "release_date": "May 13, 2020",
+  "publisher": "",
+  "release_date": "2020-05-13",
   "price_usd": 0.49,
   "genres": [
     "Casual",
@@ -20,33 +20,15 @@
   ],
   "short_description": "An addictive puzzle game inspired by BlackJack. Merge neighboring cards in the correct order to beat the Dealer.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1292250/header.jpg?t=1729888669",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1292250/ss_c94962539004b9bac5e3c19e7bb7af990028b32d.600x338.jpg?t=1729888669",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1292250/ss_462453253f91867595449a34ff44ae22c65a9b0e.600x338.jpg?t=1729888669",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1292250/ss_2dcc00ad1edf795fa81f9f997c9d5bedf328ab6c.600x338.jpg?t=1729888669",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1292250/ss_014940a3078c241251f62876fe70849e8db125e6.600x338.jpg?t=1729888669",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1292250/ss_7d2263d3d8993e86e5b84bfa51f58e217f3a2a17.600x338.jpg?t=1729888669"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >An addictive puzzle game inspired by <strong>BlackJack</strong>. Merge neighboring cards in the correct order to beat the Dealer.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Use your arrow keys to move the cards. When two cards touch, they merge into one!</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Try to beat the dealer in 50 hand-crafted levels; </p></li><li><p class=\"bb_paragraph\" > Designed for experienced blackjack players and newcomers alike (you don't need to know how to play blackjack to enjoy this game!); </p></li><li><p class=\"bb_paragraph\" > A relaxing and addictive puzzle game.</p></li></ul>",
-  "about_the_game": "<p class=\"bb_paragraph\" >An addictive puzzle game inspired by <strong>BlackJack</strong>. Merge neighboring cards in the correct order to beat the Dealer.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Use your arrow keys to move the cards. When two cards touch, they merge into one!</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Try to beat the dealer in 50 hand-crafted levels; </p></li><li><p class=\"bb_paragraph\" > Designed for experienced blackjack players and newcomers alike (you don't need to know how to play blackjack to enjoy this game!); </p></li><li><p class=\"bb_paragraph\" > A relaxing and addictive puzzle game.</p></li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 25,
-  "review_positive": 20,
+  "review_positive": 0,
   "review_percentage": 80.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +36,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 24,
-      "review_percentage": 83.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 25,
       "review_percentage": 80.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

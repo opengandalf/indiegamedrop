@@ -3,8 +3,8 @@
   "name": "Come on-be with you",
   "slug": "come-on-be-with-you",
   "developer": "yu",
-  "publisher": "yun",
-  "release_date": "Feb 13, 2020",
+  "publisher": "",
+  "release_date": "2020-02-13",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -28,25 +28,14 @@
   "short_description": "",
   "header_image_url": null,
   "screenshots": [],
-  "detailed_description": "",
-  "about_the_game": "",
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Russian<strong>*</strong>, Japanese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Arabic<strong>*</strong>, Korean<strong>*</strong>, Spanish - Spain, Danish, Ukrainian, Bulgarian, Hungarian, Turkish, Greek, Norwegian, Czech, Polish, Thai, Swedish, Romanian, Finnish, Dutch, Portuguese - Portugal, Spanish - Latin America, Vietnamese<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 5,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 20.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +43,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 20.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 20.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

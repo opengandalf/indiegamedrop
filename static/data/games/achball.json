@@ -3,8 +3,8 @@
   "name": "AchBall",
   "slug": "achball",
   "developer": "Achpile",
-  "publisher": "Achpile",
-  "release_date": "Nov 17, 2017",
+  "publisher": "",
+  "release_date": "2017-11-17",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -21,63 +21,27 @@
   ],
   "short_description": "AchBall is a casual game in which you hit goals by launching a ball. You score extra points for each time the ball bounces.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739180/header.jpg?t=1762785794",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739180/ss_06d3a5602f316c41db14b49fdaa164b7867b3203.600x338.jpg?t=1762785794",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739180/ss_4a437a5754a759cfc28e80e0026324a14f26f955.600x338.jpg?t=1762785794",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739180/ss_4e6f91c3e35e44ef0fb81978b1d667123976ff65.600x338.jpg?t=1762785794",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739180/ss_73bbb99f06b52ae074811cd365f4c8754347cec1.600x338.jpg?t=1762785794",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739180/ss_c602967ffc641679672ce84a8392b73c15b8aaa9.600x338.jpg?t=1762785794"
-  ],
-  "detailed_description": "AchBall is a casual game in which you hit goals by launching a ball. You score extra points for each time the ball bounces.<h2 class=\"bb_tag\" >Gameplay</h2>Shoot the ball toward the goal, but remember each time the ball hits a wall you will get 10 points.<br><br><br>There are 80 levels divided into 4 sets. Each set has something different such as moving platforms, fragile blocks, and cobwebs. There are leaderboards for each level and for a full completion. Get the highest scores possible and compare your scores with friends or other players around the world.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Precisely tuned mechanics<br></li><li>80 interesting levels<br></li><li>Relaxing soundtracks<br></li><li>Achievements<br></li><li>Leaderboards<br></li><li>Gamepad support<br></li><li>Cloud save support</li></ul>",
-  "about_the_game": "AchBall is a casual game in which you hit goals by launching a ball. You score extra points for each time the ball bounces.<h2 class=\"bb_tag\" >Gameplay</h2>Shoot the ball toward the goal, but remember each time the ball hits a wall you will get 10 points.<br><br><br>There are 80 levels divided into 4 sets. Each set has something different such as moving platforms, fragile blocks, and cobwebs. There are leaderboards for each level and for a full completion. Get the highest scores possible and compare your scores with friends or other players around the world.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Precisely tuned mechanics<br></li><li>80 interesting levels<br></li><li>Relaxing soundtracks<br></li><li>Achievements<br></li><li>Leaderboards<br></li><li>Gamepad support<br></li><li>Cloud save support</li></ul>",
-  "supported_languages": "English, Italian, German, Spanish - Spain, Dutch, Polish, Russian, Ukrainian, Czech, Romanian, Swedish",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Steam Cloud",
-    "Steam Leaderboards"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0007,
-  "gem_score": 0.7226,
+  "screenshots": [],
+  "rising_score": 0.0,
+  "gem_score": 37.1865,
   "hype_score": 0.0,
-  "review_velocity_7d": 12.0,
+  "review_velocity_7d": 3.6500000000000004,
   "follower_velocity_7d": 0.0,
   "classification": "hidden_gem",
   "review_count": 73,
-  "review_positive": 66,
+  "review_positive": 0,
   "review_percentage": 90.4,
   "owner_estimate": 35000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 44,
-  "gem_tier": "early",
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 61,
-      "review_percentage": 88.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 73,
-      "review_percentage": 90.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 73,
       "review_percentage": 90.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

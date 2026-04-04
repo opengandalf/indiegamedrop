@@ -3,8 +3,8 @@
   "name": "The Croaker",
   "slug": "the-croaker",
   "developer": "AlienTaker",
-  "publisher": "AlienTaker",
-  "release_date": "Apr 20, 2024",
+  "publisher": "",
+  "release_date": "2024-04-20",
   "price_usd": 0.49,
   "genres": [
     "Action",
@@ -23,48 +23,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "A 2D Platformer, with: a unique Platformer Level Editor, Leaderboards, 50 Unique levels, Easy speedrunning system, An online shop (Where apples are the currency) In Game + Steam achievements, and an Integrated Save and Load System!",
+  "short_description": "A 2D Platformer, with: a unique Platformer Level Editor, Leaderboards, 50 Unique levels, Easy speedrunning system, An online shop (Where apples are the currency) In Game + Steam achievements, and an I",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2920070/13d7c67070bbee95dd44c6862465cabb86b9f27d/header.jpg?t=1767319252",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2920070/001e1492b2b12092f9dc0601301fa9568ae5acb1/ss_001e1492b2b12092f9dc0601301fa9568ae5acb1.600x338.jpg?t=1767319252",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2920070/845dbef2a1dfd2f8cd48d0a137536df373484bdb/ss_845dbef2a1dfd2f8cd48d0a137536df373484bdb.600x338.jpg?t=1767319252",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2920070/61b310e1fca01a85d150daeacaa7f155b559577e/ss_61b310e1fca01a85d150daeacaa7f155b559577e.600x338.jpg?t=1767319252",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2920070/bdcdedf7fa1e9da581328edc4e84dee35041620a/ss_bdcdedf7fa1e9da581328edc4e84dee35041620a.600x338.jpg?t=1767319252",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2920070/10a347e9294502b04a92b47940df178194e79483/ss_10a347e9294502b04a92b47940df178194e79483.600x338.jpg?t=1767319252",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2920070/7371db6a7bde859d4516bd06ed0ccd767a2e6a3f/ss_7371db6a7bde859d4516bd06ed0ccd767a2e6a3f.600x338.jpg?t=1767319252",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2920070/74a24f2eff76420b7ae51e2d43ed987f5410edec/ss_74a24f2eff76420b7ae51e2d43ed987f5410edec.600x338.jpg?t=1767319252",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2920070/c7e564dfc656b4d360d1ee953ae12e4e1e4ae09e/ss_c7e564dfc656b4d360d1ee953ae12e4e1e4ae09e.600x338.jpg?t=1767319252",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2920070/de3b5dbaa3bcfa1b1df3e1ce202d43921c8b1e1a/ss_de3b5dbaa3bcfa1b1df3e1ce202d43921c8b1e1a.600x338.jpg?t=1767319252",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2920070/7b315788d8e0aa3e51919afce361b22b2afa0eb3/ss_7b315788d8e0aa3e51919afce361b22b2afa0eb3.600x338.jpg?t=1767319252",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2920070/5dd87108d85c647c9ff19a4d3c3d383d8dadeb76/ss_5dd87108d85c647c9ff19a4d3c3d383d8dadeb76.600x338.jpg?t=1767319252",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2920070/fc8d1ebb3284bda2f3ba582dd4f0002f2814335b/ss_fc8d1ebb3284bda2f3ba582dd4f0002f2814335b.600x338.jpg?t=1767319252",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2920070/03ab8a32a2c33e1b91a80cc4259dee69b401837b/ss_03ab8a32a2c33e1b91a80cc4259dee69b401837b.600x338.jpg?t=1767319252",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2920070/cffe9dae8e5e73e445f8ea94b46c1182092dd146/ss_cffe9dae8e5e73e445f8ea94b46c1182092dd146.600x338.jpg?t=1767319252",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2920070/db900ea110421b995d7077a53ef2466fb8f51926/ss_db900ea110421b995d7077a53ef2466fb8f51926.600x338.jpg?t=1767319252",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2920070/30a15cca2db2d09a83cc69f49a91ffbc2657295a/ss_30a15cca2db2d09a83cc69f49a91ffbc2657295a.600x338.jpg?t=1767319252"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >  The Croaker is a feature-packed game where you collect apples. Where's the fun in that? Well, these apples you collect are used all throughout the game: You can buy skins and banners from the online shop and compete on leaderboards. Also, every time you complete a level, you earn a certain amount of Emeralds, which you can also compete for on their own seperate leaderboards. <br><br>  There are 50 unique campaign levels (Each one has their own theme), where the protagonist, Jeremy, gets trapped in a simulation and must escape without the antagonist of Virtual Guy finding him. Not only that, there are going to be brand new Bonus Levels every few updates just to keep adding content to the game so you can never get bored. <br><br>That's not enough? Well, you can create a level using the in-game level editor and upload it for a chance of me noticing it and tagging it- or better yet, it can become the featured level for everyone to see! There's also account saving so you can never lose your progress.</p><p class=\"bb_paragraph\" >Update 1.7 (Released January 1st, 2026) nearly doubled the games size with the amount of features it added, and introduced Daily Rewards where you can earn daily Apples and Amethysts, along with a major graphical revamp.<br><br>There's so much packed into such a simple game, and the best part is, thre's tons more coming! What's in this version might be a fraction of what you see in a future release! You can take a peek at the screenshots to see how the game looks. </p><p class=\"bb_paragraph\" >\"made me dissolve into <strong>hydrogen atoms</strong>\" -funkedt0ast, Artist  </p><p class=\"bb_paragraph\" >\"<strong>frog\"</strong>- Botscoutt, Playtester</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >  The Croaker is a feature-packed game where you collect apples. Where's the fun in that? Well, these apples you collect are used all throughout the game: You can buy skins and banners from the online shop and compete on leaderboards. Also, every time you complete a level, you earn a certain amount of Emeralds, which you can also compete for on their own seperate leaderboards. <br><br>  There are 50 unique campaign levels (Each one has their own theme), where the protagonist, Jeremy, gets trapped in a simulation and must escape without the antagonist of Virtual Guy finding him. Not only that, there are going to be brand new Bonus Levels every few updates just to keep adding content to the game so you can never get bored. <br><br>That's not enough? Well, you can create a level using the in-game level editor and upload it for a chance of me noticing it and tagging it- or better yet, it can become the featured level for everyone to see! There's also account saving so you can never lose your progress.</p><p class=\"bb_paragraph\" >Update 1.7 (Released January 1st, 2026) nearly doubled the games size with the amount of features it added, and introduced Daily Rewards where you can earn daily Apples and Amethysts, along with a major graphical revamp.<br><br>There's so much packed into such a simple game, and the best part is, thre's tons more coming! What's in this version might be a fraction of what you see in a future release! You can take a peek at the screenshots to see how the game looks. </p><p class=\"bb_paragraph\" >\"made me dissolve into <strong>hydrogen atoms</strong>\" -funkedt0ast, Artist  </p><p class=\"bb_paragraph\" >\"<strong>frog\"</strong>- Botscoutt, Playtester</p>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 15,
-  "review_positive": 14,
+  "review_positive": 0,
   "review_percentage": 93.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -72,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 13,
-      "review_percentage": 84.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 15,
       "review_percentage": 93.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

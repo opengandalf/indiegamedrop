@@ -3,8 +3,8 @@
   "name": "Tenrow",
   "slug": "tenrow",
   "developer": "Cleverweek",
-  "publisher": "Cleverweek",
-  "release_date": "Apr 8, 2016",
+  "publisher": "",
+  "release_date": "2016-04-08",
   "price_usd": 2.99,
   "genres": [
     "Casual",
@@ -21,36 +21,9 @@
   ],
   "short_description": "Tenrow is a logic puzzle game. Includes 50 levels.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449760/header.jpg?t=1478260544",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449760/ss_3c5c112a736afa70350f10f686a9e4f8b86907b6.600x338.jpg?t=1478260544",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449760/ss_2e1db79080432c31c05a4b3386d0e413220abd35.600x338.jpg?t=1478260544",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449760/ss_6472cfae4162a04db612cdd5a8eb48b14bc1a7bf.600x338.jpg?t=1478260544",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449760/ss_b3da52455f25f103e78ff14939162716f6abcf25.600x338.jpg?t=1478260544",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449760/ss_da52e370944d124aacab91cc62c577dbc9b72cba.600x338.jpg?t=1478260544",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449760/ss_1ccc9ac5c5970704b47ef03782398b1ab93fe2b6.600x338.jpg?t=1478260544"
-  ],
-  "detailed_description": "Tenrow is a grid-based logical puzzle game. <br />\r\nEach level, the player is given a shape created using squares. A number in a square depicts the number of red squares that share a row or a column with it. (including itself) <br />\r\nTaking all these numbers into account, turn the blue squares into red to complete all numbers and win the level.<br />\r\nIncludes 50 levels.",
-  "about_the_game": "Tenrow is a grid-based logical puzzle game. <br />\r\nEach level, the player is given a shape created using squares. A number in a square depicts the number of red squares that share a row or a column with it. (including itself) <br />\r\nTaking all these numbers into account, turn the blue squares into red to complete all numbers and win the level.<br />\r\nIncludes 50 levels.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Trading Cards",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 168,
-  "review_positive": 136,
+  "review_positive": 0,
   "review_percentage": 81.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 169,
-      "review_percentage": 81.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
+      "date": "2026-04-04",
       "review_count": 168,
       "review_percentage": 81.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

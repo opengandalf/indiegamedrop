@@ -3,8 +3,8 @@
   "name": "Easy Tile Mapper",
   "slug": "easy-tile-mapper",
   "developer": "Questtracers",
-  "publisher": "Questtracers",
-  "release_date": "Jun 8, 2023",
+  "publisher": "",
+  "release_date": "2023-06-08",
   "price_usd": 14.99,
   "genres": [
     "Design & Illustration",
@@ -22,29 +22,13 @@
   ],
   "short_description": "A really easy tile map tool that exports to your favourite game development engines!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/header.jpg?t=1686208037",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/ss_4d2a624342175fc1bca439a893f673fdd96380a2.600x338.jpg?t=1686208037",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/ss_bad650d66d57268cd50ae7b0c3e12196b174be7c.600x338.jpg?t=1686208037",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/ss_d4d004e06f68ba10b96e81a00b89a8ee81f37eb5.600x338.jpg?t=1686208037",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/ss_c763fc4e9f4b5a9ccbeabca4e5d9098e4bcfaa72.600x338.jpg?t=1686208037",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/ss_d62d09e44ece8b9a9cd86b6efe29d737b13cb5f0.600x338.jpg?t=1686208037",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/ss_6aa9fbf05be93ef2cf7bb5d4a3f7cf53c47e880b.600x338.jpg?t=1686208037",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/ss_d6f5ad19749174701c94d8cc7b412d1f3a9dbd70.600x338.jpg?t=1686208037"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Autotiles made easy</h2><ul class=\"bb_ul\"><li>Set autotiles by just doing a couple of clicks with a powerful tile profile editor. Also the tile settings can be shared to use the most popular tiles distributions.</li></ul><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/143f4212a5849d1128321f4395eb883a.poster.avif?t=1686208037\" width=590 height=238 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/143f4212a5849d1128321f4395eb883a.webm?t=1686208037\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/143f4212a5849d1128321f4395eb883a.mp4?t=1686208037\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Set tile animations</h2><ul class=\"bb_ul\"><li>Animating the tiles never have been that easy, set an animation and assign it to any of your tiles and it would work. Including whole groups of autotiles :D. Watch the results in the editor!</li></ul><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/bb1e93cd513aa047d798866693257aa4.poster.avif?t=1686208037\" width=590 height=238 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/bb1e93cd513aa047d798866693257aa4.webm?t=1686208037\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/bb1e93cd513aa047d798866693257aa4.mp4?t=1686208037\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Collisions and special objects</h2><ul class=\"bb_ul\"><li>Set as many types of collisions you want and assign them to specific tiles or autotiles. You can also override the assigned collisions too! Also place special objects locations very easy in the map!</li></ul><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/730a3b3aa88dab99bb48d67aeb16a3b0.poster.avif?t=1686208037\" width=590 height=238 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/730a3b3aa88dab99bb48d67aeb16a3b0.webm?t=1686208037\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/730a3b3aa88dab99bb48d67aeb16a3b0.mp4?t=1686208037\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Export to multiple platforms</h2><ul class=\"bb_ul\"><li>Get your maps working on your favourites engine by making a couple of clicks. Right now Game Maker, Love2D and Unity3D is supported. The tool has an export scripter that allow anyone to build its own exporters and I will add more support soon!</li></ul><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/26dad0fa561ee2c5aeb03916d24ade7d.poster.avif?t=1686208037\" width=590 height=238 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/26dad0fa561ee2c5aeb03916d24ade7d.webm?t=1686208037\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/26dad0fa561ee2c5aeb03916d24ade7d.mp4?t=1686208037\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >More cool features</h2><ul class=\"bb_ul\"><li>Modify images inside the tool like removing backgrounds or merging images<br></li><li>Autodetect splitted tiles<br></li><li>Move the tiles to different positions to organize them as you like<br></li><li>Manage multiple maps</li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" >Autotiles made easy</h2><ul class=\"bb_ul\"><li>Set autotiles by just doing a couple of clicks with a powerful tile profile editor. Also the tile settings can be shared to use the most popular tiles distributions.</li></ul><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/143f4212a5849d1128321f4395eb883a.poster.avif?t=1686208037\" width=590 height=238 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/143f4212a5849d1128321f4395eb883a.webm?t=1686208037\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/143f4212a5849d1128321f4395eb883a.mp4?t=1686208037\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Set tile animations</h2><ul class=\"bb_ul\"><li>Animating the tiles never have been that easy, set an animation and assign it to any of your tiles and it would work. Including whole groups of autotiles :D. Watch the results in the editor!</li></ul><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/bb1e93cd513aa047d798866693257aa4.poster.avif?t=1686208037\" width=590 height=238 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/bb1e93cd513aa047d798866693257aa4.webm?t=1686208037\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/bb1e93cd513aa047d798866693257aa4.mp4?t=1686208037\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Collisions and special objects</h2><ul class=\"bb_ul\"><li>Set as many types of collisions you want and assign them to specific tiles or autotiles. You can also override the assigned collisions too! Also place special objects locations very easy in the map!</li></ul><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/730a3b3aa88dab99bb48d67aeb16a3b0.poster.avif?t=1686208037\" width=590 height=238 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/730a3b3aa88dab99bb48d67aeb16a3b0.webm?t=1686208037\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/730a3b3aa88dab99bb48d67aeb16a3b0.mp4?t=1686208037\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Export to multiple platforms</h2><ul class=\"bb_ul\"><li>Get your maps working on your favourites engine by making a couple of clicks. Right now Game Maker, Love2D and Unity3D is supported. The tool has an export scripter that allow anyone to build its own exporters and I will add more support soon!</li></ul><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/26dad0fa561ee2c5aeb03916d24ade7d.poster.avif?t=1686208037\" width=590 height=238 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/26dad0fa561ee2c5aeb03916d24ade7d.webm?t=1686208037\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2418080/extras/26dad0fa561ee2c5aeb03916d24ade7d.mp4?t=1686208037\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >More cool features</h2><ul class=\"bb_ul\"><li>Modify images inside the tool like removing backgrounds or merging images<br></li><li>Autodetect splitted tiles<br></li><li>Move the tiles to different positions to organize them as you like<br></li><li>Manage multiple maps</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -54,19 +38,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

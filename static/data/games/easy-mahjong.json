@@ -3,8 +3,8 @@
   "name": "Easy Mahjong",
   "slug": "easy-mahjong",
   "developer": "Angelo Stambelos",
-  "publisher": "Angelo Stambelos",
-  "release_date": "Nov 6, 2024",
+  "publisher": "",
+  "release_date": "2024-11-06",
   "price_usd": 2.49,
   "genres": [
     "Casual",
@@ -19,32 +19,15 @@
   ],
   "short_description": "Mahjong using Chinese rules against 3 AI players.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2410190/header.jpg?t=1730933839",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2410190/ss_2981db87ca72b0f3551bc215fc63a45a6902b492.600x338.jpg?t=1730933839",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2410190/ss_48fb31a4c42a0588950bae51ee75d223754e7718.600x338.jpg?t=1730933839",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2410190/ss_6f4d73b26a76c8b749753b96343ffd2734844e33.600x338.jpg?t=1730933839",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2410190/ss_2db22695f21cb16a704216e50ebe489309f1c381.600x338.jpg?t=1730933839",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2410190/ss_8fca97b900be701114755b013970baf1130d9b0c.600x338.jpg?t=1730933839"
-  ],
-  "detailed_description": "Play Mahjong Using Chinese rules against 3 non-cheating AI Players.<br />\r\n<br />\r\nThere are two tile sets, traditional and simplified with a choice of eight colours.<br />\r\n<br />\r\nThe board can either be viewed as isometric 3D or tot down 2D.",
-  "about_the_game": "Play Mahjong Using Chinese rules against 3 non-cheating AI Players.<br />\r\n<br />\r\nThere are two tile sets, traditional and simplified with a choice of eight colours.<br />\r\n<br />\r\nThe board can either be viewed as isometric 3D or tot down 2D.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 4,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

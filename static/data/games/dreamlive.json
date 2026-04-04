@@ -3,8 +3,8 @@
   "name": "DREAMLIVE",
   "slug": "dreamlive",
   "developer": "Star Dragon",
-  "publisher": "Star Dragon",
-  "release_date": "Feb 21, 2020",
+  "publisher": "",
+  "release_date": "2020-02-21",
   "price_usd": 0.0,
   "genres": [
     "Indie",
@@ -21,35 +21,15 @@
   ],
   "short_description": "DREAMLIVE is a sandbox game. Create. Experiment with physics. Do whatever you want.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224130/header.jpg?t=1684105900",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224130/ss_b57064a514ad0eb159689090d1a88e8def599c4f.600x338.jpg?t=1684105900",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224130/ss_5eca1ad344bcab4c4a7bc5a5099d53d4343d9bc7.600x338.jpg?t=1684105900",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224130/ss_6e222dc9eeac76241496e911dee9f9609f698587.600x338.jpg?t=1684105900",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224130/ss_176edb6b0634cc7d60920f12876d8a9ed5309b81.600x338.jpg?t=1684105900",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224130/ss_86f21aebb375d879515d5c33330f4ef4b0e4e9a8.600x338.jpg?t=1684105900",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224130/ss_33371170cf49ac4be97f218a10496fd417b23519.600x338.jpg?t=1684105900",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224130/ss_345056ba9d3f45f8f29fc8189ee149d2548bd73a.600x338.jpg?t=1684105900",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224130/ss_e562766c4fb2b6c658c83b3f911932f66cf5e25d.600x338.jpg?t=1684105900"
-  ],
-  "detailed_description": "<strong>DREAMLIVE</strong> is a sandbox game using advanced experimental physics.<br>The goal I set is to turn dreams in our heads into immersive experiences.<h2 class=\"bb_tag\" >KEY FEATURES</h2><ul class=\"bb_ul\"><li><strong>Building</strong><br>Create structures using advanced building system that combines blocks and objects. <br>You get limitless resources. Visualize architecture, create artwork, build whatever you want.<br></li><li><strong>Library</strong><br>Use any block or object you like from a constantly growing library.<br></li><li><strong>Physics control</strong><br>You can manipulate the objects. Freeze them. Control their collision.<br></li><li><strong>Procedurally generated world</strong><br>If you need more space, just walk forward.<br></li><li><strong>Cinematic mode</strong><br>There is camera mode with special DOF and movement settings.</li></ul>",
-  "about_the_game": "<strong>DREAMLIVE</strong> is a sandbox game using advanced experimental physics.<br>The goal I set is to turn dreams in our heads into immersive experiences.<h2 class=\"bb_tag\" >KEY FEATURES</h2><ul class=\"bb_ul\"><li><strong>Building</strong><br>Create structures using advanced building system that combines blocks and objects. <br>You get limitless resources. Visualize architecture, create artwork, build whatever you want.<br></li><li><strong>Library</strong><br>Use any block or object you like from a constantly growing library.<br></li><li><strong>Physics control</strong><br>You can manipulate the objects. Freeze them. Control their collision.<br></li><li><strong>Procedurally generated world</strong><br>If you need more space, just walk forward.<br></li><li><strong>Cinematic mode</strong><br>There is camera mode with special DOF and movement settings.</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 22,
-  "review_positive": 15,
+  "review_positive": 0,
   "review_percentage": 68.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 23,
-      "review_percentage": 69.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 22,
       "review_percentage": 68.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

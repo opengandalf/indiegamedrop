@@ -3,8 +3,8 @@
   "name": "Lonely Tribes",
   "slug": "lonely-tribes",
   "developer": "Jack Maguire",
-  "publisher": "Jack Maguire",
-  "release_date": "Mar 1, 2022",
+  "publisher": "",
+  "release_date": "2022-03-01",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -21,31 +21,9 @@
   ],
   "short_description": "Merge all of the people together!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1715490/header.jpg?t=1671585465",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1715490/ss_7479acf769c504bcdadb3176d0b12d32cf319207.600x338.jpg?t=1671585465",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1715490/ss_37c7839119d8c795ee5a2f981fd9ed7dfcf9286c.600x338.jpg?t=1671585465",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1715490/ss_05f7ca2b7440e735f33aac4d12eaece25a6adca5.600x338.jpg?t=1671585465",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1715490/ss_aa7ec10a958d523ae8b0db7e90aca2b24a4c1cb2.600x338.jpg?t=1671585465",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1715490/ss_a692b5133d244401e82b026e10783a81016801e2.600x338.jpg?t=1671585465"
-  ],
-  "detailed_description": "Lonely Tribes is a puzzle game in which you beat each level by moving the characters such that they all merge together, using walls and the environment to push them together.<br />\r\n<br />\r\nLater levels include special modes which allow you to completely change the method of play, such as Frenzy which moves everything 3x as far, allowing you to clip through walls, but at a cost.<br />\r\n<br />\r\nThere are currently 7 levels, with a level generator that can create over 4 billion different levels.<br />\r\n<br />\r\nIf you wish to peruse the code, feel free to have a look here: https://github.com/BurntNail/lonely-tribes",
-  "about_the_game": "Lonely Tribes is a puzzle game in which you beat each level by moving the characters such that they all merge together, using walls and the environment to push them together.<br />\r\n<br />\r\nLater levels include special modes which allow you to completely change the method of play, such as Frenzy which moves everything 3x as far, allowing you to clip through walls, but at a cost.<br />\r\n<br />\r\nThere are currently 7 levels, with a level generator that can create over 4 billion different levels.<br />\r\n<br />\r\nIf you wish to peruse the code, feel free to have a look here: https://github.com/BurntNail/lonely-tribes",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 9,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 77.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 83.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 77.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

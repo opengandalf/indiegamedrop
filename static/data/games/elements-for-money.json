@@ -3,8 +3,8 @@
   "name": "Elements For Money",
   "slug": "elements-for-money",
   "developer": "Pika2",
-  "publisher": "Pika2",
-  "release_date": "Jan 25, 2024",
+  "publisher": "",
+  "release_date": "2024-01-25",
   "price_usd": 1.99,
   "genres": [
     "Casual",
@@ -23,33 +23,15 @@
   ],
   "short_description": "A turn-based game about forming reactions to pay off an ever-increasing payment demand.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766500/header.jpg?t=1706205612",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766500/ss_abd4a14ed2411a477fef220e4ac9abbf67b179e3.600x338.jpg?t=1706205612",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766500/ss_47f619d7375c339856653e7812b3e2e72fe08f12.600x338.jpg?t=1706205612",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766500/ss_6e14dcb7c7563674b428035c1f128b72df27dc26.600x338.jpg?t=1706205612",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766500/ss_30296b749533cebe78f178eee840cfbddc329f2a.600x338.jpg?t=1706205612",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766500/ss_699b2abdb0a2c9a574d013f21026b810d40fc7d6.600x338.jpg?t=1706205612"
-  ],
-  "detailed_description": "Cause reactions, discover new elements, and gain gold for your efforts in Elements For Money!<br><br>Every turn, you can move your elements around and get a new one from the shop. Adjacent elements can react to form new elements or provide gold bonuses for being next to other elements.<br><br>Get enough gold before payment to stay in the game, and obtain a high total gold count to get as high of a rank as you can.<br><strong><br>Features</strong><br><ul class=\"bb_ul\"><li>90+ elements to discover!<br></li><li>~1000 reactions to cause!<br></li><li>Playable with mouse and/or keyboard (support for both)!<br></li><li>A randomized shop for roguelike gameplay!<br></li><li>A variety of strategies to get high profit!<br></li><li>Gold to gain!</li></ul><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766500/extras/8836df64859a5bcde2bafadb0d8e05e8.poster.avif?t=1706205612\" width=640 height=186 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766500/extras/8836df64859a5bcde2bafadb0d8e05e8.webm?t=1706205612\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766500/extras/8836df64859a5bcde2bafadb0d8e05e8.mp4?t=1706205612\" type=\"video/mp4\"></video></span>",
-  "about_the_game": "Cause reactions, discover new elements, and gain gold for your efforts in Elements For Money!<br><br>Every turn, you can move your elements around and get a new one from the shop. Adjacent elements can react to form new elements or provide gold bonuses for being next to other elements.<br><br>Get enough gold before payment to stay in the game, and obtain a high total gold count to get as high of a rank as you can.<br><strong><br>Features</strong><br><ul class=\"bb_ul\"><li>90+ elements to discover!<br></li><li>~1000 reactions to cause!<br></li><li>Playable with mouse and/or keyboard (support for both)!<br></li><li>A randomized shop for roguelike gameplay!<br></li><li>A variety of strategies to get high profit!<br></li><li>Gold to gain!</li></ul><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766500/extras/8836df64859a5bcde2bafadb0d8e05e8.poster.avif?t=1706205612\" width=640 height=186 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766500/extras/8836df64859a5bcde2bafadb0d8e05e8.webm?t=1706205612\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766500/extras/8836df64859a5bcde2bafadb0d8e05e8.mp4?t=1706205612\" type=\"video/mp4\"></video></span>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

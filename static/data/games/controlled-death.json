@@ -3,8 +3,8 @@
   "name": "Controlled Death",
   "slug": "controlled-death",
   "developer": "UNB Studios",
-  "publisher": "UNB",
-  "release_date": "Jun 19, 2024",
+  "publisher": "",
+  "release_date": "2024-06-19",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -29,35 +29,15 @@
   ],
   "short_description": "Multiplayer FPS Game that has Quality Features including, bullet trails, kill limits, and adjustable FOV. Some server features is ping limits player identification. And we have a few Maps.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669830/header.jpg?t=1730249213",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669830/ss_b7c2878777c0712638a76f257277c43fac1f4389.600x338.jpg?t=1730249213",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669830/ss_9d54e3b096259f7f9008724e6474bf348edf0032.600x338.jpg?t=1730249213",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669830/ss_7407da2ba563eee7bc6792f2cf111e1eb1e03835.600x338.jpg?t=1730249213",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669830/ss_d3f276f4432843b71f539939f1d4a3da940caa24.600x338.jpg?t=1730249213",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669830/ss_e0966ebf71ff8aa12c4ca2e0c0bffbb1b8853283.600x338.jpg?t=1730249213"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Welcome to Our Multiplayer FPS Game!</h2><br>Experience the thrill of intense combat with a plethora of exciting features. Choose from three game modes: <strong>Team Deathmatch, Free For All, and Capture the Flag</strong>. Communicate effectively with <strong>voice team chat</strong> and <strong>lobby chat</strong>. Engage in battles alongside intelligent <strong>AI players</strong>, and utilize the <strong>player team system</strong> for organized gameplay in both private and public matches. Select from four distinct player classes—<strong>Assault, Engineer, Support, and Recon</strong>—each with unique abilities, and arm yourself with eight types of weapons, including <strong>Rifle, Sniper, Shotgun, Pistol, Grenade, Molotov, Grenade Launcher, and Knife</strong>.<h2 class=\"bb_tag\" >Features</h2><strong>Advanced weapon handling</strong>, <strong>damage indicators</strong>, and the ability to kick disruptive players via the <strong>kick vote system</strong>. The game features a <strong>start countdown</strong>, <strong>Photon offline support</strong>, <strong>slide, jump, and crouch player movements</strong>, <strong>manual and automatic team selection</strong>, and various <strong>fire modes</strong> such as <strong>automatic, single, and semi-automatic</strong>. Experience <strong>precise synchronization</strong> of bullets and positions, <strong>realistic fall damage</strong>, comprehensive <strong>server statistics</strong>, <strong>optional health regeneration</strong>, <strong>kill feeds</strong>, <strong>scoreboards</strong>, and <strong>room time limits</strong>.<h2 class=\"bb_tag\" >Quality Features Include</h2><strong>Headshot detection</strong>, <strong>foot IK placement</strong>, <strong>bullet trails</strong>, <strong>maximum kill limits</strong>, <strong>adjustable weapon FOV</strong>, <strong>ping limits</strong>, <strong>player identification</strong>, <strong>footstep sounds</strong>, <strong>in-room chat</strong>, <strong>smooth weapon movements</strong>, <strong>networked weapon pickups</strong>, <strong>weapon drops upon death</strong>, <strong>player waiting periods</strong>, <strong>throwable ammo and medic kits</strong>, <strong>kill cameras</strong>, <strong>teammate health bars</strong>, <strong>customizable UGUI crosshairs</strong>, <strong>network stats</strong>, <strong>friendly fire options</strong>, <strong>team switching mid-game</strong>, and <strong>optimized high performance</strong> for seamless gameplay.<br><br>Head into the Battle field and have fun. Just not racisim.",
-  "about_the_game": "<h2 class=\"bb_tag\" >Welcome to Our Multiplayer FPS Game!</h2><br>Experience the thrill of intense combat with a plethora of exciting features. Choose from three game modes: <strong>Team Deathmatch, Free For All, and Capture the Flag</strong>. Communicate effectively with <strong>voice team chat</strong> and <strong>lobby chat</strong>. Engage in battles alongside intelligent <strong>AI players</strong>, and utilize the <strong>player team system</strong> for organized gameplay in both private and public matches. Select from four distinct player classes—<strong>Assault, Engineer, Support, and Recon</strong>—each with unique abilities, and arm yourself with eight types of weapons, including <strong>Rifle, Sniper, Shotgun, Pistol, Grenade, Molotov, Grenade Launcher, and Knife</strong>.<h2 class=\"bb_tag\" >Features</h2><strong>Advanced weapon handling</strong>, <strong>damage indicators</strong>, and the ability to kick disruptive players via the <strong>kick vote system</strong>. The game features a <strong>start countdown</strong>, <strong>Photon offline support</strong>, <strong>slide, jump, and crouch player movements</strong>, <strong>manual and automatic team selection</strong>, and various <strong>fire modes</strong> such as <strong>automatic, single, and semi-automatic</strong>. Experience <strong>precise synchronization</strong> of bullets and positions, <strong>realistic fall damage</strong>, comprehensive <strong>server statistics</strong>, <strong>optional health regeneration</strong>, <strong>kill feeds</strong>, <strong>scoreboards</strong>, and <strong>room time limits</strong>.<h2 class=\"bb_tag\" >Quality Features Include</h2><strong>Headshot detection</strong>, <strong>foot IK placement</strong>, <strong>bullet trails</strong>, <strong>maximum kill limits</strong>, <strong>adjustable weapon FOV</strong>, <strong>ping limits</strong>, <strong>player identification</strong>, <strong>footstep sounds</strong>, <strong>in-room chat</strong>, <strong>smooth weapon movements</strong>, <strong>networked weapon pickups</strong>, <strong>weapon drops upon death</strong>, <strong>player waiting periods</strong>, <strong>throwable ammo and medic kits</strong>, <strong>kill cameras</strong>, <strong>teammate health bars</strong>, <strong>customizable UGUI crosshairs</strong>, <strong>network stats</strong>, <strong>friendly fire options</strong>, <strong>team switching mid-game</strong>, and <strong>optimized high performance</strong> for seamless gameplay.<br><br>Head into the Battle field and have fun. Just not racisim.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Partial Controller Support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 5,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -65,19 +45,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

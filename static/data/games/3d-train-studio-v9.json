@@ -3,8 +3,8 @@
   "name": "3D Train Studio V9",
   "slug": "3d-train-studio-v9",
   "developer": "Stefan Werner",
-  "publisher": "Stefan Werner",
-  "release_date": "Jan 5, 2025",
+  "publisher": "",
+  "release_date": "2025-01-05",
   "price_usd": 17.49,
   "genres": [
     "Simulation"
@@ -17,33 +17,15 @@
   ],
   "short_description": "Create your own miniature world as a model railroad with tracks from popular manufacturers or as a realistic railroad simulation - in 3D!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2159090/header.jpg?t=1736076708",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2159090/ss_339a1ab9c6887ec3209998fee79baa7c073b695d.600x338.jpg?t=1736076708",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2159090/ss_00f3ad827fadfcac1d7a554bd85f72efd4e8151a.600x338.jpg?t=1736076708",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2159090/ss_1291e0e7cbb1616bcb2f68a4bc590c01a49d4f6e.600x338.jpg?t=1736076708",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2159090/ss_87697501462d89995a18e0f6fcd286377abe7510.600x338.jpg?t=1736076708",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2159090/ss_270fa2b236a732f5bf2feff66347e5a85c7d7f8d.600x338.jpg?t=1736076708",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2159090/ss_cc65081e67c5bf6ad44c38776bd8748c3a195bff.600x338.jpg?t=1736076708"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Create your own miniature world!</h2><p class=\"bb_paragraph\" >3D Train Studio allows you to plan and design miniature worlds on your own PC in a simple and fun way.</p><p class=\"bb_paragraph\" >Whether it's a model railroad with tracks from popular manufacturers or a realistic railroad simulation, 3D Train Studio unites all the tools you need, under a modern and intuitive user interface.</p><h2 class=\"bb_tag\" >Plan</h2><p class=\"bb_paragraph\" >3D Train Studio supports you in a simple way in planning a realistic railroad simulation. Construct your layouts with thousands of tracks in all common gauges, true to detail and scale.</p><h2 class=\"bb_tag\" >Build</h2><p class=\"bb_paragraph\" >Create a landscape of mountains and valleys, place houses and trees along roads and bring your own miniature world to life - with modern 3D graphics and in real time.</p><h2 class=\"bb_tag\" >Simulate</h2><p class=\"bb_paragraph\" >Enter the virtual railroad and playfully simulate a complete railroad operation, including animated barriers, signals or road vehicles, automatically or through custom defined events.</p><h2 class=\"bb_tag\" >All features</h2><p class=\"bb_paragraph\" >3D Train Studio contains over 2000 different tracks from well-known manufacturers in all common gauges, which can be used to plan classic indoor layouts, garden railroads, brick style railroads or even real track constructions.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Terrain design</strong>- Designing the landscape with mountains, valleys, waters, vegetation and more.</p></li><li><p class=\"bb_paragraph\" ><strong>Rolling stock</strong> - Numerous locomotives, wagons, cars and other vehicles from different eras.</p></li><li><p class=\"bb_paragraph\" ><strong>Online catalog</strong> - Parts catalog with access to thousands of additional models, contributed by the community.</p></li><li><p class=\"bb_paragraph\" ><strong>Real-time</strong> - Real-time planning and simulation, from different 2D and 3D perspectives.</p></li><li><p class=\"bb_paragraph\" ><strong>Railroad operations</strong> - Support of track blocks and routes to ensure realistic railroad operations.</p></li><li><p class=\"bb_paragraph\" ><strong>Automation</strong> - Event-driven automation of all processes with the support of the Lua scripting language.</p></li><li><p class=\"bb_paragraph\" ><strong>API</strong> - Programming interface (API) for connecting external programs, such as Rocrail.</p><p class=\"bb_paragraph\" ></p></li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" >Create your own miniature world!</h2><p class=\"bb_paragraph\" >3D Train Studio allows you to plan and design miniature worlds on your own PC in a simple and fun way.</p><p class=\"bb_paragraph\" >Whether it's a model railroad with tracks from popular manufacturers or a realistic railroad simulation, 3D Train Studio unites all the tools you need, under a modern and intuitive user interface.</p><h2 class=\"bb_tag\" >Plan</h2><p class=\"bb_paragraph\" >3D Train Studio supports you in a simple way in planning a realistic railroad simulation. Construct your layouts with thousands of tracks in all common gauges, true to detail and scale.</p><h2 class=\"bb_tag\" >Build</h2><p class=\"bb_paragraph\" >Create a landscape of mountains and valleys, place houses and trees along roads and bring your own miniature world to life - with modern 3D graphics and in real time.</p><h2 class=\"bb_tag\" >Simulate</h2><p class=\"bb_paragraph\" >Enter the virtual railroad and playfully simulate a complete railroad operation, including animated barriers, signals or road vehicles, automatically or through custom defined events.</p><h2 class=\"bb_tag\" >All features</h2><p class=\"bb_paragraph\" >3D Train Studio contains over 2000 different tracks from well-known manufacturers in all common gauges, which can be used to plan classic indoor layouts, garden railroads, brick style railroads or even real track constructions.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Terrain design</strong>- Designing the landscape with mountains, valleys, waters, vegetation and more.</p></li><li><p class=\"bb_paragraph\" ><strong>Rolling stock</strong> - Numerous locomotives, wagons, cars and other vehicles from different eras.</p></li><li><p class=\"bb_paragraph\" ><strong>Online catalog</strong> - Parts catalog with access to thousands of additional models, contributed by the community.</p></li><li><p class=\"bb_paragraph\" ><strong>Real-time</strong> - Real-time planning and simulation, from different 2D and 3D perspectives.</p></li><li><p class=\"bb_paragraph\" ><strong>Railroad operations</strong> - Support of track blocks and routes to ensure realistic railroad operations.</p></li><li><p class=\"bb_paragraph\" ><strong>Automation</strong> - Event-driven automation of all processes with the support of the Lua scripting language.</p></li><li><p class=\"bb_paragraph\" ><strong>API</strong> - Programming interface (API) for connecting external programs, such as Rocrail.</p><p class=\"bb_paragraph\" ></p></li></ul>",
-  "supported_languages": "German<strong>*</strong>, English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0651,
+  "screenshots": [],
+  "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 15.0,
+  "review_velocity_7d": 1.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 22,
-  "review_positive": 19,
+  "review_positive": 0,
   "review_percentage": 86.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,26 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 21,
-      "review_percentage": 85.7,
-      "ccu_estimate": 5,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 22,
       "review_percentage": 86.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

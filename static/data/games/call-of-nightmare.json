@@ -3,8 +3,8 @@
   "name": "Call of Nightmare",
   "slug": "call-of-nightmare",
   "developer": "NightmaresGames",
-  "publisher": "NightmaresGames",
-  "release_date": "Oct 13, 2017",
+  "publisher": "",
+  "release_date": "2017-10-13",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -21,34 +21,15 @@
   ],
   "short_description": "Deadly horrors fill the world. To survive in this demonic world, you have to kill everything that moves. You will visit different parts of the world, from ancient destroyed cities to forest fringes.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724450/header.jpg?t=1657920858",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724450/ss_c10cde682a0e8ada5e43dc9da3bad8aa571550ba.600x338.jpg?t=1657920858",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724450/ss_bbad6588577e2d0f98ec186c0aa3c1f8cf8d0c34.600x338.jpg?t=1657920858",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724450/ss_274975cc053c4f41464f7f3f73dfa440c05d9a9d.600x338.jpg?t=1657920858",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724450/ss_0ebf26571d46e259fed2ee99694db35c9a245dce.600x338.jpg?t=1657920858",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724450/ss_1ff1037ed1045d7972afbb35da983aaab4363ff2.600x338.jpg?t=1657920858",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724450/ss_aeaf838871c4d369bc5bc5c548989809f6328bc1.600x338.jpg?t=1657920858"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Deadly horrors fill the world.</h2> To survive in this demonic world, you have to kill everything that moves. You will visit different parts of the world, from ancient destroyed cities to forest fringes.<h2 class=\"bb_tag\" >Call of Nightmare is:</h2><br><ul class=\"bb_ul\"><li>Kill zombies, spiders, monsters on your way and survive. <br></li><li>You will be transferred to different places, and you have to kill monsters by click<br></li><li>Press Reload button(or right click, or R), when the ammunition ends. <br></li><li>Watch your lives, three hearts.</li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" >Deadly horrors fill the world.</h2> To survive in this demonic world, you have to kill everything that moves. You will visit different parts of the world, from ancient destroyed cities to forest fringes.<h2 class=\"bb_tag\" >Call of Nightmare is:</h2><br><ul class=\"bb_ul\"><li>Kill zombies, spiders, monsters on your way and survive. <br></li><li>You will be transferred to different places, and you have to kill monsters by click<br></li><li>Press Reload button(or right click, or R), when the ammunition ends. <br></li><li>Watch your lives, three hearts.</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.6000000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 12,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 16.7,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -56,26 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 10,
-      "review_percentage": 20.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 12,
-      "review_percentage": 16.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
+      "date": "2026-04-04",
       "review_count": 12,
       "review_percentage": 16.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

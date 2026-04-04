@@ -3,8 +3,8 @@
   "name": "Dive",
   "slug": "dive",
   "developer": "Bala Vicknesh",
-  "publisher": "Bala Vicknesh",
-  "release_date": "Mar 7, 2018",
+  "publisher": "",
+  "release_date": "2018-03-07",
   "price_usd": 3.99,
   "genres": [
     "Adventure"
@@ -15,35 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Dive is a 2d pixel art platformer that takes place underwater. You cannot jump in this game, instead you use the ability to raise and lower pillars of water to gain vertical movement and solve puzzles.",
+  "short_description": "Dive is a 2d pixel art platformer that takes place underwater. You cannot jump in this game, instead you use the ability to raise and lower pillars of water to gain vertical movement and solve puzzles",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/798170/header.jpg?t=1520927463",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/798170/ss_1bdb43be4519f3ed49aff5d93cab943b21d843b4.600x338.jpg?t=1520927463",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/798170/ss_64f3f085f2d9e1df435f918adbed4e8d828cf0a4.600x338.jpg?t=1520927463",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/798170/ss_3abfed6cd6e076a6590c6945c5d533a1f165149b.600x338.jpg?t=1520927463",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/798170/ss_2c141112a0f94b30b9d7f3be271a7da0700692a2.600x338.jpg?t=1520927463",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/798170/ss_682dc5c3aca692e67fac5ad4e577b3c165e3e3f7.600x338.jpg?t=1520927463",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/798170/ss_8e271e4aa55fa304528aa54481903ca6f3eb84b1.600x338.jpg?t=1520927463"
-  ],
-  "detailed_description": "Lost deep in the ocean, two small beacons of hope guide you back home.<br><strong><br>Gameplay:</strong><br>​<br>Dive is an underwater platformer.<br><br>You raise and lower pillars of water to solve puzzles and gain vertical access through the levels.<br><br>The game itself contains 11 levels including a beginning and end scene.<br><br>I have to preface that the game is relatively short, and there's no save system.<br><br>​<br><strong>Story:</strong><br><br>Trapped and isolated after crashing your submarine into the side of a huge cavern, you are the only survivor of your crew. <br><br>Accompanied by two mysterious orbs, you gain the ability to raise and lower pillars of water that helps you make your way back up.<br><br>Further Details:<br>Dive is a fun, unique, and condensed experience with pretty pixels. <br><br>It is made solely by me.<br><br>Supporting this game will go a long way in helping me create my next project. Thank you and Much Appreciated!",
-  "about_the_game": "Lost deep in the ocean, two small beacons of hope guide you back home.<br><strong><br>Gameplay:</strong><br>​<br>Dive is an underwater platformer.<br><br>You raise and lower pillars of water to solve puzzles and gain vertical access through the levels.<br><br>The game itself contains 11 levels including a beginning and end scene.<br><br>I have to preface that the game is relatively short, and there's no save system.<br><br>​<br><strong>Story:</strong><br><br>Trapped and isolated after crashing your submarine into the side of a huge cavern, you are the only survivor of your crew. <br><br>Accompanied by two mysterious orbs, you gain the ability to raise and lower pillars of water that helps you make your way back up.<br><br>Further Details:<br>Dive is a fun, unique, and condensed experience with pretty pixels. <br><br>It is made solely by me.<br><br>Supporting this game will go a long way in helping me create my next project. Thank you and Much Appreciated!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.55,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 11,
-  "review_positive": 11,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -51,26 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 11,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 11,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 11,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Hold the door!",
   "slug": "hold-the-door",
   "developer": "Saucisson",
-  "publisher": "Saucisson",
-  "release_date": "Sep 2, 2016",
+  "publisher": "",
+  "release_date": "2016-09-02",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -21,34 +21,9 @@
   ],
   "short_description": "You must defend the door of your castle from the invaders ! Use your bow and arrows to shoot at the ennemy.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/501470/header.jpg?t=1472838832",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/501470/ss_cf15501ca77bd9f2a20912adb0d80d3d74c90bf8.600x338.jpg?t=1472838832",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/501470/ss_6edac59ceb408695f266be78cff58cb2564744d9.600x338.jpg?t=1472838832",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/501470/ss_4953902648643d8f25c2eb55b5951885a7175329.600x338.jpg?t=1472838832",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/501470/ss_c066461a5dbe8194409bccef9cc0f055c7a5389f.600x338.jpg?t=1472838832",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/501470/ss_5755fc1d45169dd191f328abaf536d9318167598.600x338.jpg?t=1472838832",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/501470/ss_38bc5e9d9045a4968a74ed14eb146c0e59509e2a.600x338.jpg?t=1472838832"
-  ],
-  "detailed_description": "You must defend the door of your castle from the invaders !<br>Use your bow and arrows to shoot at the enemy.<br><br><br><strong>This game is still in development, read the early access section for more informations on what's coming next.</strong><br><br><strong>Important : </strong>the world ranking will be reseted every time an update impact the scoring, it's very likely to be quite often in the first weeks of release.",
-  "about_the_game": "You must defend the door of your castle from the invaders !<br>Use your bow and arrows to shoot at the enemy.<br><br><br><strong>This game is still in development, read the early access section for more informations on what's coming next.</strong><br><br><strong>Important : </strong>the world ranking will be reseted every time an update impact the scoring, it's very likely to be quite often in the first weeks of release.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 46,
-  "review_positive": 30,
+  "review_positive": 0,
   "review_percentage": 65.2,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -56,26 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 46,
-      "review_percentage": 63.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 46,
-      "review_percentage": 65.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 46,
       "review_percentage": 65.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

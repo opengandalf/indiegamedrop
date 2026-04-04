@@ -3,7 +3,7 @@
   "name": "Arma 3 Tools",
   "slug": "arma-3-tools",
   "developer": "Bohemia Interactive",
-  "publisher": "Bohemia Interactive",
+  "publisher": "",
   "release_date": "",
   "price_usd": 0.0,
   "genres": [],
@@ -13,58 +13,27 @@
   ],
   "short_description": "A complete tools suite for the Real Virtuality game engine powering Arma 3.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233800/header.jpg?t=1726044269",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233800/ss_23012fe7b0ae6db7b3a6652b804da82c56b31976.600x338.jpg?t=1726044269",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233800/ss_d2b58120ac06086bbf44bbe2024c9d4c2625cbfd.600x338.jpg?t=1726044269",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233800/ss_a158849355b1e7d23b028b3d6ce3d1fcfd3ffab5.600x338.jpg?t=1726044269",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233800/ss_2f76519041cd35a0a7452a0941c8caa744f427d4.600x338.jpg?t=1726044269",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233800/ss_b507b22a2f0662a373356c9c5f7abf733a6c8ac1.600x338.jpg?t=1726044269"
-  ],
-  "detailed_description": "Arma 3 Tools is a complete tools suite for the Real Virtuality game engine powering Arma 3. It allows you to produce your own content for the game.<br><br>Samples of usage and work are available in the Arma 3 Samples application.<h2 class=\"bb_tag\" >Key tools</h2><ul class=\"bb_ul\"><li><strong>Terrain Builder </strong><br>This is a terrain creation tool. It allows users to build their own virtual worlds from scratch.<br></li><li><strong>Object Builder </strong><br>This tool is used to create, edit and configure 3D models made for Arma 3.<br></li><li><strong>Addon Builder</strong><br>The purpose of this tool is to convert all data into formats readable by the Real Virtuality engine and pack them into a single archive.<br></li><li><strong>Publisher</strong><br>This tool can publish whole Mods onto Steam Workshop to be used in the game.<br></li><li><strong>Game Updater </strong><br>This application aims to improve the experience of switching between Steam branches of the game by avoiding the inconvenience of additional downloads every time you change.</li></ul>",
-  "about_the_game": "Arma 3 Tools is a complete tools suite for the Real Virtuality game engine powering Arma 3. It allows you to produce your own content for the game.<br><br>Samples of usage and work are available in the Arma 3 Samples application.<h2 class=\"bb_tag\" >Key tools</h2><ul class=\"bb_ul\"><li><strong>Terrain Builder </strong><br>This is a terrain creation tool. It allows users to build their own virtual worlds from scratch.<br></li><li><strong>Object Builder </strong><br>This tool is used to create, edit and configure 3D models made for Arma 3.<br></li><li><strong>Addon Builder</strong><br>The purpose of this tool is to convert all data into formats readable by the Real Virtuality engine and pack them into a single archive.<br></li><li><strong>Publisher</strong><br>This tool can publish whole Mods onto Steam Workshop to be used in the game.<br></li><li><strong>Game Updater </strong><br>This application aims to improve the experience of switching between Steam branches of the game by avoiding the inconvenience of additional downloads every time you change.</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 326,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0002,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 26.6,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 532,
-  "review_positive": 465,
+  "review_positive": 0,
   "review_percentage": 87.4,
   "owner_estimate": 150000,
-  "ccu_estimate": 35,
+  "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 513,
-      "review_percentage": 87.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 531,
-      "review_percentage": 87.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 532,
       "review_percentage": 87.4,
-      "ccu_estimate": 35,
+      "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

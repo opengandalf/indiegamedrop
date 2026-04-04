@@ -3,8 +3,8 @@
   "name": "キラーの謎 -QUEST OF KILLER-",
   "slug": "キラーの謎-quest-of-killer",
   "developer": "11PLANNING",
-  "publisher": "11PLANNING",
-  "release_date": "Jul 27, 2023",
+  "publisher": "",
+  "release_date": "2023-07-27",
   "price_usd": 0.0,
   "genres": [
     "RPG"
@@ -17,35 +17,9 @@
   ],
   "short_description": "2Dタイプのアクション系RPG。VC++で白紙から完全手打ちで自力のみで約2万行のプログラムを組んで作成。グラフィックも音楽もオリジナル。",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515270/header.jpg?t=1758652568",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515270/ss_8d5edb4ff01bc8a90ec4bff700e9621ca2ec9036.600x338.jpg?t=1758652568",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515270/ss_253b779469e9c0c843fb2fa486ec2c89c61088ea.600x338.jpg?t=1758652568",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515270/ss_baabf88756f2e1f0c079988db319231ff76c2359.600x338.jpg?t=1758652568",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515270/ss_54ab254f463871d8d77479ab4a14d8fee4d4d9fb.600x338.jpg?t=1758652568",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515270/ss_c4a6f26def58cd0e9cd369a0c86406f1d5f619ee.600x338.jpg?t=1758652568",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515270/ss_cf9db227a1ad8dfd4d89125dc99bef2a3e9d625e.600x338.jpg?t=1758652568",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515270/ss_67636bbd2f3d6cfd86b07503aa51091fc18f0d8c.600x338.jpg?t=1758652568",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515270/ss_40324dd2439edbea2f70409902e178c4ce715d6c.600x338.jpg?t=1758652568"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >2Dタイプのアクション系RPGです。</h2><h2 class=\"bb_tag\" >VC++で白紙から完全手打ちで自力のみで約2万行のプログラムを組んで作成しました。</h2><h2 class=\"bb_tag\" >グラフィックも音楽もオリジナル。</h2><h2 class=\"bb_tag\" > 洞窟の奥底に潜むキラードラゴンを倒すことが目的です。</h2><h2 class=\"bb_tag\" >Windows11のみ稼働確認済。</h2><h2 class=\"bb_tag\" >それではどうかぜひよろしくお願いします。</h2>",
-  "about_the_game": "<h2 class=\"bb_tag\" >2Dタイプのアクション系RPGです。</h2><h2 class=\"bb_tag\" >VC++で白紙から完全手打ちで自力のみで約2万行のプログラムを組んで作成しました。</h2><h2 class=\"bb_tag\" >グラフィックも音楽もオリジナル。</h2><h2 class=\"bb_tag\" > 洞窟の奥底に潜むキラードラゴンを倒すことが目的です。</h2><h2 class=\"bb_tag\" >Windows11のみ稼働確認済。</h2><h2 class=\"bb_tag\" >それではどうかぜひよろしくお願いします。</h2>",
-  "supported_languages": "Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

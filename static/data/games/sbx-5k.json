@@ -3,8 +3,8 @@
   "name": "SBX 5K",
   "slug": "sbx-5k",
   "developer": "Shadowmatic Labs",
-  "publisher": "Shadowmatic Labs",
-  "release_date": "Apr 20, 2020",
+  "publisher": "",
+  "release_date": "2020-04-20",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -23,35 +23,9 @@
   ],
   "short_description": "PVP turn-based strategy sci-fi arena shooter",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273720/header.jpg?t=1587388592",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273720/ss_9f62c1cd697d060a047a2c28dc89c373aa504fcf.600x338.jpg?t=1587388592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273720/ss_46c8c0498642d3cc70d21a652765f62397c6450e.600x338.jpg?t=1587388592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273720/ss_bc928c1813a56046086a3071ef8f8c6a804d4ca3.600x338.jpg?t=1587388592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273720/ss_9f30f793c5145457487ec585fc54a9a87456ab0f.600x338.jpg?t=1587388592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273720/ss_5d5331dbbf71ae46eaec7e9a9df9b9a4e7d0c18b.600x338.jpg?t=1587388592"
-  ],
-  "detailed_description": "SBX 5K is a Multiplayer PVP turn-based strategy sci-fi arena shooter.<br />\r\n<br />\r\nPlayers fight in 1vs1 matches that test their reflexes and wits. Player fight 4 to 7 rounds of FPS action in a small modular map, in between these rounds they make strategic decisions that change the configuration of the map. They can place walls to give cover or imprison opponents, they can extend the map or place props to give them an advantage.<br />\r\n<br />\r\nA global leaderboard keeps the score and victories are broadcast to the game's discord channel.",
-  "about_the_game": "SBX 5K is a Multiplayer PVP turn-based strategy sci-fi arena shooter.<br />\r\n<br />\r\nPlayers fight in 1vs1 matches that test their reflexes and wits. Player fight 4 to 7 rounds of FPS action in a small modular map, in between these rounds they make strategic decisions that change the configuration of the map. They can place walls to give cover or imprison opponents, they can extend the map or place props to give them an advantage.<br />\r\n<br />\r\nA global leaderboard keeps the score and victories are broadcast to the game's discord channel.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Steam Achievements",
-    "Steam Leaderboards"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 20,
-  "review_positive": 13,
+  "review_positive": 0,
   "review_percentage": 65.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 20,
-      "review_percentage": 65.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 20,
       "review_percentage": 65.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

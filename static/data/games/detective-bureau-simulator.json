@@ -3,8 +3,8 @@
   "name": "Detective Bureau Simulator",
   "slug": "detective-bureau-simulator",
   "developer": "Detective Bureau Simulator",
-  "publisher": "Detective Bureau Simulator",
-  "release_date": "Jun 1, 2021",
+  "publisher": "",
+  "release_date": "2021-06-01",
   "price_usd": 4.99,
   "genres": [
     "Adventure",
@@ -25,34 +25,11 @@
   ],
   "short_description": "How successful detective are you? Do you believe you can find the mysteries? Solve incidents by finding clues and using the clues given to you.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1635290/header.jpg?t=1622835236",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1635290/ss_e1e799ba8d2a228cbda6acce50e99cae6f685fe6.600x338.jpg?t=1622835236",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1635290/ss_9acdce3d3947a8d7d8ceb7c54ac587b75a9d8676.600x338.jpg?t=1622835236",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1635290/ss_cf289dc106fc8baecbf4425cd6f7309c1002e7b9.600x338.jpg?t=1622835236",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1635290/ss_cb6b0d9620b9f74f927639c82ee4daf57975e473.600x338.jpg?t=1622835236",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1635290/ss_a6eb7a0c6df1458608ca3f8b7a144b2a5d45ab1f.600x338.jpg?t=1622835236",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1635290/ss_943d74062a9710a045ec5e2e298aba2059340ea3.600x338.jpg?t=1622835236",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1635290/ss_ea3d75dc7d1823df4dc8984bb93b3a5cb60d2fe9.600x338.jpg?t=1622835236",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1635290/ss_058fb8b882cea75c69863c8a85ef89fcd7f596c7.600x338.jpg?t=1622835236",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1635290/ss_c6c8a600f6604668a7946ce49ca30c7c923b2165.600x338.jpg?t=1622835236",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1635290/ss_d418204d1d98644994b5be1cc75dbe01fe554e32.600x338.jpg?t=1622835236",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1635290/ss_5e09e629e0acc37b70a4f037dffb39f445463592.600x338.jpg?t=1622835236"
-  ],
-  "detailed_description": "How successful detective are you? Do you believe you can find the mysteries? Solve incidents by finding clues and using the clues given to you.<br><br>There are hints for you to find on the map. Each episode has its own events. You can end the episode by finding the culprit in the incidents and adding it to the search with the MDC Tablet used by the police. On the MDC Tablet you can view other detectives' comments and details on suspects. Since it is a detective game, you have to find the clues yourself. You can select a section by clicking on the table in the main house.<br><br><br><strong> MDC Tablet [/]<br>You can open it with \"T\". On the tablet, you can find out what all the people involved in the incident did, whether they have committed a crime before, and their name and surname.<br><br><strong> Interactive Objects [/]<br>When you click on an interactive object, you can tamper with it.<br><br></strong></strong>",
-  "about_the_game": "How successful detective are you? Do you believe you can find the mysteries? Solve incidents by finding clues and using the clues given to you.<br><br>There are hints for you to find on the map. Each episode has its own events. You can end the episode by finding the culprit in the incidents and adding it to the search with the MDC Tablet used by the police. On the MDC Tablet you can view other detectives' comments and details on suspects. Since it is a detective game, you have to find the clues yourself. You can select a section by clicking on the table in the main house.<br><br><br><strong> MDC Tablet [/]<br>You can open it with \"T\". On the tablet, you can find out what all the people involved in the incident did, whether they have committed a crime before, and their name and surname.<br><br><strong> Interactive Objects [/]<br>When you click on an interactive object, you can tamper with it.<br><br></strong></strong>",
-  "supported_languages": "English, Turkish",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
@@ -64,19 +41,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

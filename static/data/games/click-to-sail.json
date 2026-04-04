@@ -3,8 +3,8 @@
   "name": "Click To Sail",
   "slug": "click-to-sail",
   "developer": "EdFarage",
-  "publisher": "EdFarage",
-  "release_date": "Sep 29, 2022",
+  "publisher": "",
+  "release_date": "2022-09-29",
   "price_usd": 1.99,
   "genres": [
     "Indie",
@@ -23,35 +23,15 @@
   ],
   "short_description": "Build a team of sailors to navigate around the world using only your mouse!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149430/header.jpg?t=1664473854",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149430/ss_e01df4cd1492130567766fa4659a31ab5b528d11.600x338.jpg?t=1664473854",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149430/ss_299b32abd990c256ec6a0d74a11071240c28b1d7.600x338.jpg?t=1664473854",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149430/ss_725160546b4a980a58d3479615316abeafeb41b2.600x338.jpg?t=1664473854",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149430/ss_a3879015746fb6d25aba9406f4401d95a2032a4a.600x338.jpg?t=1664473854",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149430/ss_a6e699c396b52991cd3d605292fff0779a538567.600x338.jpg?t=1664473854",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149430/ss_51fa7ef32e26ef596d3816dd693d6f2d6fc14a60.600x338.jpg?t=1664473854",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149430/ss_6fa07cff98fd686644ae64157a6bb2c9acb3f48d.600x338.jpg?t=1664473854",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149430/ss_86e27274259f8d6ce6134f5699901a44d161b285.600x338.jpg?t=1664473854"
-  ],
-  "detailed_description": "Click to Sail is a <strong>simple game</strong> that allows you to build a team of sailors and go into an adventure that you would probably not expect.<br>The gameplay consists of simply clicking a button, that will transport you to new lands with challenges, choices and secrets.<br>There are multiple different units, with different abilities that you can pair up in your team, in order to progress into the game.<br>The game also contains a lot of different items with different effects that can even change gameplay; And different maps, each with its own specific biome.<br>Managing your gold is the central mechanic of the game, you have to do it well in order to buy items, hire units and others to essentially stay alive.<br>Happy Sailing!",
-  "about_the_game": "Click to Sail is a <strong>simple game</strong> that allows you to build a team of sailors and go into an adventure that you would probably not expect.<br>The gameplay consists of simply clicking a button, that will transport you to new lands with challenges, choices and secrets.<br>There are multiple different units, with different abilities that you can pair up in your team, in order to progress into the game.<br>The game also contains a lot of different items with different effects that can even change gameplay; And different maps, each with its own specific biome.<br>Managing your gold is the central mechanic of the game, you have to do it well in order to buy items, hire units and others to essentially stay alive.<br>Happy Sailing!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 2.45,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 49,
-  "review_positive": 40,
+  "review_positive": 0,
   "review_percentage": 81.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 50,
-      "review_percentage": 80.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 49,
       "review_percentage": 81.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

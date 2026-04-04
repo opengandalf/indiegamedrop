@@ -3,8 +3,8 @@
   "name": "Four Animals",
   "slug": "four-animals",
   "developer": "beans rolls",
-  "publisher": "beans rolls",
-  "release_date": "Nov 11, 2021",
+  "publisher": "",
+  "release_date": "2021-11-11",
   "price_usd": 0.49,
   "genres": [
     "Casual",
@@ -19,32 +19,9 @@
   ],
   "short_description": "Four Animals is an arcade scoring game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803170/header.jpg?t=1699094999",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803170/ss_85f524a985aa106b381d5782c33bc3ff2e2c430c.600x338.jpg?t=1699094999",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803170/ss_b67c6d29bdd5c6c0de1e980df4cc5ba995d75816.600x338.jpg?t=1699094999",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803170/ss_7431bdb83b57076fd48da52e12f977ad5dcdf0fd.600x338.jpg?t=1699094999",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803170/ss_b1fafecf0e474a8afadf8595dca575869129e830.600x338.jpg?t=1699094999",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803170/ss_c155f6cc5d12d58cafc23b17d98d6dbaebc9928d.600x338.jpg?t=1699094999"
-  ],
-  "detailed_description": "Four Animals is an arcade scoring game.<br />\r\nThere are four pipes of different colors, from which animals of the color of the pipes randomly jump out and you need to move the pipes from side to side so that animals of the desired color fall into them.<br />\r\nOver time, the game pace accelerates and there are more jumping animals, you need to try not to lose.",
-  "about_the_game": "Four Animals is an arcade scoring game.<br />\r\nThere are four pipes of different colors, from which animals of the color of the pipes randomly jump out and you need to move the pipes from side to side so that animals of the desired color fall into them.<br />\r\nOver time, the game pace accelerates and there are more jumping animals, you need to try not to lose.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 9,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 55.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 55.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 55.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

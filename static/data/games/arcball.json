@@ -3,8 +3,8 @@
   "name": "ArcBall",
   "slug": "arcball",
   "developer": "VladProduction",
-  "publisher": "VladProduction",
-  "release_date": "Mar 29, 2018",
+  "publisher": "",
+  "release_date": "2018-03-29",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -21,33 +21,15 @@
   ],
   "short_description": "ArcBall - Simple and casual arcanoid-like game. Interesting levels and nice retro-graphics are waiting you!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801060/header.jpg?t=1541016012",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801060/ss_10ea01868a453c1f721d523a754c6eb6c8897423.600x338.jpg?t=1541016012",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801060/ss_ab7eb9876242fdcd4a04e98cb2973c00cd755ac3.600x338.jpg?t=1541016012",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801060/ss_0c6c8df5a4af2c54058e289cc27bba7874120b51.600x338.jpg?t=1541016012",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801060/ss_154ff205c2137c7ca68d029c53000e77d5dca670.600x338.jpg?t=1541016012",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801060/ss_237638ceb6bac42418d6f9472c2feee5875a74e8.600x338.jpg?t=1541016012"
-  ],
-  "detailed_description": "ArcBall - Simple and casual arcanoid-like game. Interesting levels and nice retro-graphics are waiting you!<br />\r\nList of game features:<br />\r\n~ Interesting designed levels<br />\r\n~ Nice game graphics like in retro games<br />\r\n~ Old-school gameplay: destroy blocks and complete all levels!",
-  "about_the_game": "ArcBall - Simple and casual arcanoid-like game. Interesting levels and nice retro-graphics are waiting you!<br />\r\nList of game features:<br />\r\n~ Interesting designed levels<br />\r\n~ Nice game graphics like in retro games<br />\r\n~ Old-school gameplay: destroy blocks and complete all levels!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
+  "review_velocity_7d": 3.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 62,
-  "review_positive": 17,
+  "review_positive": 0,
   "review_percentage": 27.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 59,
-      "review_percentage": 25.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 62,
       "review_percentage": 27.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

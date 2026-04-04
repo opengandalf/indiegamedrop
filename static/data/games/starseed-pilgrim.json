@@ -3,8 +3,8 @@
   "name": "Starseed Pilgrim",
   "slug": "starseed-pilgrim",
   "developer": "droqen",
-  "publisher": "droqen",
-  "release_date": "Apr 16, 2013",
+  "publisher": "",
+  "release_date": "2013-04-16",
   "price_usd": 5.99,
   "genres": [
     "Adventure",
@@ -18,62 +18,23 @@
     "windows",
     "mac"
   ],
-  "short_description": "Starseed Pilgrim is a game about tending a symphonic garden, exploring space, and embracing fate.You are a gardener, tending to empty noise and empty space to fill them both with colour.You are a refugee, building your own world away from the spreading darkness.You are an explorer, discovering new places, new rules, and new fascinations.",
+  "short_description": "Starseed Pilgrim is a game about tending a symphonic garden, exploring space, and embracing fate.You are a gardener, tending to empty noise and empty space to fill them both with colour.You are a refu",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230980/header.jpg?t=1634922642",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230980/ss_861dfa0d6dcddc8e97c4df24f960c9973509d7e1.600x338.jpg?t=1634922642",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230980/ss_ac074c1820b57e393cab4fba1ac977682ce1a4f1.600x338.jpg?t=1634922642",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230980/ss_f2cc98aad534df0fda021b930291d84ab82df685.600x338.jpg?t=1634922642",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230980/ss_2d641f5e3f06b5ca8216cc81d537d9ec6e4ee0bc.600x338.jpg?t=1634922642",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230980/ss_f1fa51937a31722273db8055c5adcfa7a1640ed2.600x338.jpg?t=1634922642"
-  ],
-  "detailed_description": "<strong>Starseed Pilgrim is a game about tending a symphonic garden, exploring space, and embracing fate.</strong><br><br><br>You are a gardener, tending to empty noise and empty space to fill them both with colour.<br><br>You are a refugee, building your own world away from the spreading darkness.<br><br>You are an explorer, discovering new places, new rules, and new fascinations.<br><br><br><strong>The Universe Is Bigger Than You Know.</strong>",
-  "about_the_game": "<strong>Starseed Pilgrim is a game about tending a symphonic garden, exploring space, and embracing fate.</strong><br><br><br>You are a gardener, tending to empty noise and empty space to fill them both with colour.<br><br>You are a refugee, building your own world away from the spreading darkness.<br><br>You are an explorer, discovering new places, new rules, and new fascinations.<br><br><br><strong>The Universe Is Bigger Than You Know.</strong>",
-  "supported_languages": "English",
-  "metacritic_score": 83,
-  "metacritic_url": "https://www.metacritic.com/game/pc/starseed-pilgrim?ftag=MCD-06-10aaa1f",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 187,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 5.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 534,
-  "review_positive": 323,
+  "review_positive": 0,
   "review_percentage": 60.5,
   "owner_estimate": 350000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 19,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 529,
-      "review_percentage": 60.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 534,
-      "review_percentage": 60.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 534,
       "review_percentage": 60.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

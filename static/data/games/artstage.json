@@ -3,8 +3,8 @@
   "name": "Artstage",
   "slug": "artstage",
   "developer": "Soy-software",
-  "publisher": "Soy-software",
-  "release_date": "Sep 1, 2016",
+  "publisher": "",
+  "release_date": "2016-09-01",
   "price_usd": 19.99,
   "genres": [
     "Animation & Modeling",
@@ -21,32 +21,15 @@
   ],
   "short_description": "ArtStage is VR creative application. You can paint color on any 3D model textures you have. and you can play voxel sculpting. You can create anything what you want to make.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523050/header.jpg?t=1545584566",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523050/ss_79f9986b1a73c1480bbe584a43e35458a00a59e3.600x338.jpg?t=1545584566",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523050/ss_7d2b6c74a39790f082d9b6ede14e58ede6dbd064.600x338.jpg?t=1545584566",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523050/ss_96ff35dd3655caa643025429faa4153f602882e3.600x338.jpg?t=1545584566",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523050/ss_f070607574a0c2db863997a3a0e66f245ec1576a.600x338.jpg?t=1545584566",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523050/ss_b14b5d47b901e19a9fadc6de99a11c017737eeef.600x338.jpg?t=1545584566"
-  ],
-  "detailed_description": "ArtStage is VR creative application.<br />\r\n- 3D Paint<br />\r\nYou can paint color on any 3D model textures you have.<br />\r\nOpen any your 3D model. and open and save texture image file.<br />\r\n- Voxel sculpting<br />\r\nYou can create anything what you want to make.<br />\r\nIt feels like real clay modeling!<br />\r\nSave, load, and export to 3D model file. (.obj) <br />\r\nYou can use \"auto UV unwrap\" for paint to exported sculpt work.<br />\r\n<br />\r\n・Support type of 3D model file<br />\r\n.obj<br />\r\n・Support type of texture image file<br />\r\n.png<br />\r\n・If you want to paint your 3D model, It must have UV mapping.<br />\r\n<br />\r\n<br />\r\n■About demo version<br />\r\nIn the demo version you can try all the features except the model export.<br />\r\n<br />\r\nIn the full version, you can export the created model in .fbx or .obj format.<br />\r\nIf you like creation in Artstage, please purchase the full version.",
-  "about_the_game": "ArtStage is VR creative application.<br />\r\n- 3D Paint<br />\r\nYou can paint color on any 3D model textures you have.<br />\r\nOpen any your 3D model. and open and save texture image file.<br />\r\n- Voxel sculpting<br />\r\nYou can create anything what you want to make.<br />\r\nIt feels like real clay modeling!<br />\r\nSave, load, and export to 3D model file. (.obj) <br />\r\nYou can use \"auto UV unwrap\" for paint to exported sculpt work.<br />\r\n<br />\r\n・Support type of 3D model file<br />\r\n.obj<br />\r\n・Support type of texture image file<br />\r\n.png<br />\r\n・If you want to paint your 3D model, It must have UV mapping.<br />\r\n<br />\r\n<br />\r\n■About demo version<br />\r\nIn the demo version you can try all the features except the model export.<br />\r\n<br />\r\nIn the full version, you can export the created model in .fbx or .obj format.<br />\r\nIf you like creation in Artstage, please purchase the full version.",
-  "supported_languages": "English, French, German, Spanish - Spain, Russian, Simplified Chinese, Traditional Chinese, Japanese, Korean",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.75,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 15,
-  "review_positive": 15,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -54,26 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 15,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 15,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 15,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

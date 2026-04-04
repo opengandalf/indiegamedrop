@@ -3,8 +3,8 @@
   "name": "Super Markup Man",
   "slug": "super-markup-man",
   "developer": "Roppy Chop Studios",
-  "publisher": "Roppy Chop Studios",
-  "release_date": "Aug 16, 2016",
+  "publisher": "",
+  "release_date": "2016-08-16",
   "price_usd": 2.49,
   "genres": [
     "Casual",
@@ -21,42 +21,9 @@
   ],
   "short_description": "Learn HTML and CSS through a 2D puzzle platformer! Carry and place real web tags, solve logic-based levels, and build your own web page templates. No coding needed!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502210/header.jpg?t=1750272618",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502210/ss_058fb7489f18128ea05ee26e20de1b988efc9e9b.600x338.jpg?t=1750272618",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502210/ss_8d7d8f09f05a6f450a66efc08cfae470fdf9cc33.600x338.jpg?t=1750272618",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502210/ss_3ada74c98143424aded043afcc579709e6e454bb.600x338.jpg?t=1750272618",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502210/ss_c3417f57beb3be97ec8003caa62fb7e924e016ca.600x338.jpg?t=1750272618",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502210/ss_83174ee0553ad53691a16ce939d8a07247927080.600x338.jpg?t=1750272618"
-  ],
-  "detailed_description": "<i>Super Markup Man</i> is a unique blend of puzzle platforming and real web development education. Learn the fundamentals of HTML and CSS in a hands-on, no-code environment where every level challenges your logic and creativity.<h2 class=\"bb_tag\" >Features</h2><br>🧠 100 handcrafted levels combining web dev learning with puzzle-solving<br><br>🔤 HTML Mode that covers basic tags like <a>, <img>, <strong>, and more<br><br>🎨 CSS Mode to style elements with selectors, colors, and layouts<br><br>🧪 Bug mode to add random errors that must be squashed<br><br>🕹️ Local co-op mode to learn with a friend*<br><br>💾 Free Play Mode to export your levels as real HTML files<br><br>👪 Family-friendly and beginner-friendly, perfect for classrooms or home<br><br><i>* Note: Only Free Play and CSS Mode support local co-op. Player 2 will also need to use a gamepad (Xbox gamepad recommended).</i>",
-  "about_the_game": "<i>Super Markup Man</i> is a unique blend of puzzle platforming and real web development education. Learn the fundamentals of HTML and CSS in a hands-on, no-code environment where every level challenges your logic and creativity.<h2 class=\"bb_tag\" >Features</h2><br>🧠 100 handcrafted levels combining web dev learning with puzzle-solving<br><br>🔤 HTML Mode that covers basic tags like <a>, <img>, <strong>, and more<br><br>🎨 CSS Mode to style elements with selectors, colors, and layouts<br><br>🧪 Bug mode to add random errors that must be squashed<br><br>🕹️ Local co-op mode to learn with a friend*<br><br>💾 Free Play Mode to export your levels as real HTML files<br><br>👪 Family-friendly and beginner-friendly, perfect for classrooms or home<br><br><i>* Note: Only Free Play and CSS Mode support local co-op. Player 2 will also need to use a gamepad (Xbox gamepad recommended).</i>",
-  "supported_languages": "English, Spanish - Spain, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Steam Achievements",
-    "Steam Trading Cards",
-    "Keyboard Only Option",
-    "Partial Controller Support",
-    "Steam Cloud",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 118,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 125,
-  "review_positive": 102,
+  "review_positive": 0,
   "review_percentage": 81.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -64,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 122,
-      "review_percentage": 82.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 125,
       "review_percentage": 81.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

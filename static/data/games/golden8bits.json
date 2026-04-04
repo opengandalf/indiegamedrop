@@ -3,8 +3,8 @@
   "name": "Golden8bits",
   "slug": "golden8bits",
   "developer": "Vicente Fleitas",
-  "publisher": "Criptomedia Studios",
-  "release_date": "May 21, 2018",
+  "publisher": "",
+  "release_date": "2018-05-21",
   "price_usd": 9.99,
   "genres": [
     "Adventure",
@@ -20,35 +20,11 @@
     "windows",
     "mac"
   ],
-  "short_description": "Golden8bits is a minimalistic game and Fantasy console. The game includes the possibility of creating graphics, levels, animations and music like chiptune with our own tracker; all in the same environment. No programming knowledge is needed.",
+  "short_description": "Golden8bits is a minimalistic game and Fantasy console. The game includes the possibility of creating graphics, levels, animations and music like chiptune with our own tracker; all in the same environ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794230/header.jpg?t=1598920783",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794230/ss_b55d115320fc935fca352d4be60352414d06551a.600x338.jpg?t=1598920783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794230/ss_a11985f26f075298f4701b58dba74183e6f5c58f.600x338.jpg?t=1598920783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794230/ss_a80f8116127dab58c914779d9f35fc6c69985ccc.600x338.jpg?t=1598920783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794230/ss_b59d84b5c161bcf33afded4ef4d9e2127addb65a.600x338.jpg?t=1598920783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794230/ss_7bb7510e7346a0fbc3279df24c960d1016276383.600x338.jpg?t=1598920783"
-  ],
-  "detailed_description": "Golden8bits is a minimalistic game and Fantasy console. Still in development and dont have any final release date yet.<h2 class=\"bb_tag\" >Game State</h2>The game is fully playable, you play as a magic apprentice. Jump and fight pixel monster as you run for all the platform.<h2 class=\"bb_tag\" >Fantasy console</h2>The game it self is just a example of wath you can create with this fantasy console.<h2 class=\"bb_tag\" >All the features right now implemented are:</h2><ul class=\"bb_ul\"><li>Create 8x8 pixel tiles.<br></li><li>Create 8x8 pixel items like weapons, shields, potions, coins, key, doors.<br></li><li>Create characters like player, npc and enemies.<br></li><li>Use the canvas editor to animate all your characters frame by frame.<br></li><li>Integrate all the element in a level editor.<br></li><li>Create and edit levels.<br></li><li>Create and edit dialogues for your npc.<br></li><li>Compose your own chiptune music.</li></ul><h2 class=\"bb_tag\" >Features that still missing</h2><ul class=\"bb_ul\"><li>Buttons descriptions on the editor.<br></li><li>Balance of shield and weapons effect.<br></li><li>A nice transition between levels.<br></li><li>All game over modes.<br></li><li>Tiles with stairs behavior.<br></li><li>Tiles with bounce behavior.<br></li><li>Extra layer on level editor for background drawning.<br></li><li>More palette colors.</li></ul><h2 class=\"bb_tag\" >Screen</h2>The software run just in windowed mode.<h2 class=\"bb_tag\" >Controll</h2><ul class=\"bb_ul\"><li> Move: wasd<br></li><li> Jump: k<br></li><li> action: j<br></li><li> defense: L<br></li><li> open item: i</li></ul>",
-  "about_the_game": "Golden8bits is a minimalistic game and Fantasy console. Still in development and dont have any final release date yet.<h2 class=\"bb_tag\" >Game State</h2>The game is fully playable, you play as a magic apprentice. Jump and fight pixel monster as you run for all the platform.<h2 class=\"bb_tag\" >Fantasy console</h2>The game it self is just a example of wath you can create with this fantasy console.<h2 class=\"bb_tag\" >All the features right now implemented are:</h2><ul class=\"bb_ul\"><li>Create 8x8 pixel tiles.<br></li><li>Create 8x8 pixel items like weapons, shields, potions, coins, key, doors.<br></li><li>Create characters like player, npc and enemies.<br></li><li>Use the canvas editor to animate all your characters frame by frame.<br></li><li>Integrate all the element in a level editor.<br></li><li>Create and edit levels.<br></li><li>Create and edit dialogues for your npc.<br></li><li>Compose your own chiptune music.</li></ul><h2 class=\"bb_tag\" >Features that still missing</h2><ul class=\"bb_ul\"><li>Buttons descriptions on the editor.<br></li><li>Balance of shield and weapons effect.<br></li><li>A nice transition between levels.<br></li><li>All game over modes.<br></li><li>Tiles with stairs behavior.<br></li><li>Tiles with bounce behavior.<br></li><li>Extra layer on level editor for background drawning.<br></li><li>More palette colors.</li></ul><h2 class=\"bb_tag\" >Screen</h2>The software run just in windowed mode.<h2 class=\"bb_tag\" >Controll</h2><ul class=\"bb_ul\"><li> Move: wasd<br></li><li> Jump: k<br></li><li> action: j<br></li><li> defense: L<br></li><li> open item: i</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 6,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +32,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

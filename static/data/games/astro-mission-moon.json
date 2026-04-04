@@ -3,8 +3,8 @@
   "name": "Astro Mission: Moon",
   "slug": "astro-mission-moon",
   "developer": "One Buck",
-  "publisher": "One Buck",
-  "release_date": "Feb 25, 2022",
+  "publisher": "",
+  "release_date": "2022-02-25",
   "price_usd": 0.69,
   "genres": [
     "Adventure"
@@ -17,37 +17,15 @@
   ],
   "short_description": "Overcome all obstacles and destroy the enemies to cross the Moon. But watch your instincts.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1901940/header.jpg?t=1769009802",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1901940/ss_05674174c07c53ec3f2d517b375f8b38400014a7.600x338.jpg?t=1769009802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1901940/ss_d4019178e5598efb1cce9df089cfd25f1c192d20.600x338.jpg?t=1769009802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1901940/ss_819b4ae1b9d280928b11e997efa1ef538bfb4573.600x338.jpg?t=1769009802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1901940/ss_369eceb30761496a7fd8036f5c1921deacf0ad36.600x338.jpg?t=1769009802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1901940/ss_dd229a85a89dd0dc7ed98a30b830a0b9e9fc02de.600x338.jpg?t=1769009802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1901940/ss_f4e44c9751e1b122b0ea4fc1b38cbf4686b55b06.600x338.jpg?t=1769009802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1901940/ss_894314492386f050b1eb54225a17f88915bbb30b.600x338.jpg?t=1769009802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1901940/ss_5e8af8d152a54ffd4b1e314f7ee078d2de8d9d1e.600x338.jpg?t=1769009802"
-  ],
-  "detailed_description": "Platform style game where you are an astronaut on a reconnaissance mission on the Moon. Your objective is to cross the Moon through 30 stages. Walk, jump, dodge obstacles, use your gun to fight the drones and use moving platforms to move through the levels and reach new dimensions. Despite the simple gameplay it is not a 100% linear game, as there will be times when you will have to choose which way to go, but you will only know that you chose the wrong path when it is too late.<br><br><strong>Features</strong><br><br><ul class=\"bb_ul\"><li> Easy controls<br><br></li><li> 30 levels<br><br></li><li> Non-linear<br><br></li><li> Checkpoints<br><br></li><li> Save game<br><br></li><li> Shooting</li></ul>",
-  "about_the_game": "Platform style game where you are an astronaut on a reconnaissance mission on the Moon. Your objective is to cross the Moon through 30 stages. Walk, jump, dodge obstacles, use your gun to fight the drones and use moving platforms to move through the levels and reach new dimensions. Despite the simple gameplay it is not a 100% linear game, as there will be times when you will have to choose which way to go, but you will only know that you chose the wrong path when it is too late.<br><br><strong>Features</strong><br><br><ul class=\"bb_ul\"><li> Easy controls<br><br></li><li> 30 levels<br><br></li><li> Non-linear<br><br></li><li> Checkpoints<br><br></li><li> Save game<br><br></li><li> Shooting</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 7,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 28.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 28.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 28.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

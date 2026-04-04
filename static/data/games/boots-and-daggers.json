@@ -3,8 +3,8 @@
   "name": "Boots and Daggers",
   "slug": "boots-and-daggers",
   "developer": "Ringwood Goblins",
-  "publisher": "Ringwood Goblins",
-  "release_date": "Oct 18, 2023",
+  "publisher": "",
+  "release_date": "2023-10-18",
   "price_usd": 1.99,
   "genres": [
     "Action",
@@ -25,32 +25,15 @@
   ],
   "short_description": "How much COIN can you grab before time runs out?",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2478940/header.jpg?t=1697644618",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2478940/ss_69914ad10fa9d1921aa7448fd4a6d9268c2eb07b.600x338.jpg?t=1697644618",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2478940/ss_8ea9689cf92f382f55cd4f7b10676b4cd3834c4a.600x338.jpg?t=1697644618",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2478940/ss_43e63932bd38a99ca1050960a48bd848378b3bf6.600x338.jpg?t=1697644618",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2478940/ss_57afa67020b5496bf3b82ed737d750065a606b7f.600x338.jpg?t=1697644618",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2478940/ss_40d3151db33dca9724e08a99ed9979a781eb330b.600x338.jpg?t=1697644618"
-  ],
-  "detailed_description": "Collect as many golden coins as you can before you are overwhelmed by goblins or time expires. Goblins want your coin AND your life.",
-  "about_the_game": "Collect as many golden coins as you can before you are overwhelmed by goblins or time expires. Goblins want your coin AND your life.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +41,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

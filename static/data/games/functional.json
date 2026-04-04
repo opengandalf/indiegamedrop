@@ -3,8 +3,8 @@
   "name": "functional",
   "slug": "functional",
   "developer": "yancouto",
-  "publisher": "Marvellous Soft",
-  "release_date": "Jul 9, 2021",
+  "publisher": "",
+  "release_date": "2021-07-09",
   "price_usd": 3.49,
   "genres": [
     "Simulation"
@@ -19,37 +19,9 @@
   ],
   "short_description": "functional is a puzzle game about math and abstraction.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636730/header.jpg?t=1708786900",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636730/ss_2fa2f7d15c73d38547a18d06aca5cda17cf66b2b.600x338.jpg?t=1708786900",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636730/ss_bf72bd5f0552d079c07e4b3734636f364bd37744.600x338.jpg?t=1708786900",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636730/ss_595507772d4e19192acfb5dbc129edf72aaeacd5.600x338.jpg?t=1708786900",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636730/ss_304fa475393a78b82462dc6d3e6d2028f3f9df60.600x338.jpg?t=1708786900",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636730/ss_379f76e5201fb664dfc639f9fa2fb4f8330f2cd7.600x338.jpg?t=1708786900"
-  ],
-  "detailed_description": "<h1>Check our new puzzle game!</h1><p></p><br><h1>About the Game</h1>functional is a puzzle game about math and abstraction. Solve problems and reuse your solutions to write ever-more-complex logic.<h2 class=\"bb_tag\" >Start from scratch</h2><br>Start with the simplest mathematical primitives. Everything is a function, and functions can be used to build everything else.<h2 class=\"bb_tag\" >Solve increasingly complex problems</h2><br>Use your previous solutions as black boxes, and use them as building blocks to build more complex solutions.<h2 class=\"bb_tag\" >Compare your solutions</h2><br>Compare your solutions against other players, and against your Steam friends, both in efficiency and simplicity.<h2 class=\"bb_tag\" >Workshop support</h2><br>Create your own levels and share them with the community.",
-  "about_the_game": "functional is a puzzle game about math and abstraction. Solve problems and reuse your solutions to write ever-more-complex logic.<h2 class=\"bb_tag\" >Start from scratch</h2><br>Start with the simplest mathematical primitives. Everything is a function, and functions can be used to build everything else.<h2 class=\"bb_tag\" >Solve increasingly complex problems</h2><br>Use your previous solutions as black boxes, and use them as building blocks to build more complex solutions.<h2 class=\"bb_tag\" >Compare your solutions</h2><br>Compare your solutions against other players, and against your Steam friends, both in efficiency and simplicity.<h2 class=\"bb_tag\" >Workshop support</h2><br>Create your own levels and share them with the community.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Workshop",
-    "Steam Cloud",
-    "Steam Leaderboards",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 42,
-  "review_positive": 26,
+  "review_positive": 0,
   "review_percentage": 61.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 41,
-      "review_percentage": 61.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 42,
       "review_percentage": 61.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

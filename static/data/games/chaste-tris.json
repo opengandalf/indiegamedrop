@@ -3,8 +3,8 @@
   "name": "Chaste Tris",
   "slug": "chaste-tris",
   "developer": "Chastity White Rose",
-  "publisher": "Chastity White Rose",
-  "release_date": "May 31, 2022",
+  "publisher": "",
+  "release_date": "2022-05-31",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -19,34 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Chaste Tris is based on Tetris but there is no gravity. Blocks can be freely moved up, down, left, and right with the arrow keys. They can be rotated with X or Y keys and can also be held for later use with C. The space bar or H key can also be used to hard drop the blocks!",
+  "short_description": "Chaste Tris is based on Tetris but there is no gravity. Blocks can be freely moved up, down, left, and right with the arrow keys. They can be rotated with X or Y keys and can also be held for later us",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1986120/header.jpg?t=1742275793",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1986120/ss_1d855d1f3db9927607a64b9d934d75edcee46acf.600x338.jpg?t=1742275793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1986120/ss_76e619684d9bf135868646bd7651969535a7babb.600x338.jpg?t=1742275793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1986120/ss_cfe473263d82c4c19fc6406bb822f42d08612dd8.600x338.jpg?t=1742275793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1986120/ss_f84daf83ccb83f70d4afcc4c10c9103ed08b8e4f.600x338.jpg?t=1742275793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1986120/ss_5a64fd3779147b9b4cb729b5123eec1218afd28e.600x338.jpg?t=1742275793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1986120/ss_3df1a61f3a9e9e70b3a96f6cd49b379989ad3c3d.600x338.jpg?t=1742275793"
-  ],
-  "detailed_description": "<h1>Hard Drop</h1><p><p class=\"bb_paragraph\" >In response to requests in the Steam reviews, which I do actually read, I have added the hard drop into the game now. Try it out with space bar or H key.</p></p><br><h1>About the Game</h1><p class=\"bb_paragraph\" >Chaste Tris is my first complete video game I have made. It is based on Tetris but there is no gravity. Blocks can be freely moved up, down, left, and right with the arrow keys. They can be rotated with X or Y keys and can also be held for later use with C. The space bar or H key can also be used to hard drop the blocks!</p><p class=\"bb_paragraph\" >But my game also allows for a new feature that none of the other games have. It is possible to save the state of the game by pressing the I key and reload it with the L key to go back and correct mistakes. This makes it the perfect tool to test out playing styles which would be perfectly valid on other puzzle block style games but would be very difficult. </p><p class=\"bb_paragraph\" >Consider this game as a relaxing practice tool to test the limits of what you can think of when you have all the time in the world to get it right! This game is not meant to compete with the officially licensed Tetris games. However, I think it adds the feeling of the 1980s and 1990s. It is meant to run on even the oldest and slowest of computers. It is fully Open-Source and was developed on Linux. However, this Steam port is the Windows port which I have confirmed also works on Debian Linux using Proton Emulation.</p><p class=\"bb_paragraph\" >For more information on how you can use the source code and modify it to your own needs, you can visit the GitHub page</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Chaste Tris is my first complete video game I have made. It is based on Tetris but there is no gravity. Blocks can be freely moved up, down, left, and right with the arrow keys. They can be rotated with X or Y keys and can also be held for later use with C. The space bar or H key can also be used to hard drop the blocks!</p><p class=\"bb_paragraph\" >But my game also allows for a new feature that none of the other games have. It is possible to save the state of the game by pressing the I key and reload it with the L key to go back and correct mistakes. This makes it the perfect tool to test out playing styles which would be perfectly valid on other puzzle block style games but would be very difficult. </p><p class=\"bb_paragraph\" >Consider this game as a relaxing practice tool to test the limits of what you can think of when you have all the time in the world to get it right! This game is not meant to compete with the officially licensed Tetris games. However, I think it adds the feeling of the 1980s and 1990s. It is meant to run on even the oldest and slowest of computers. It is fully Open-Source and was developed on Linux. However, this Steam port is the Windows port which I have confirmed also works on Debian Linux using Proton Emulation.</p><p class=\"bb_paragraph\" >For more information on how you can use the source code and modify it to your own needs, you can visit the GitHub page</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 4.0,
+  "review_velocity_7d": 0.65,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 13,
-  "review_positive": 11,
+  "review_positive": 0,
   "review_percentage": 84.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 77.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 13,
       "review_percentage": 84.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

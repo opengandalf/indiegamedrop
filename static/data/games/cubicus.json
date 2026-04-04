@@ -3,8 +3,8 @@
   "name": "Cubicus",
   "slug": "cubicus",
   "developer": "Louie Inc",
-  "publisher": "Louie Inc",
-  "release_date": "Sep 23, 2021",
+  "publisher": "",
+  "release_date": "2021-09-23",
   "price_usd": 0.79,
   "genres": [
     "Casual",
@@ -19,33 +19,15 @@
   ],
   "short_description": "An addictive puzzle game with many challenging levels of varying difficulty.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1752190/header.jpg?t=1632405064",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1752190/ss_71c1a39bdaab489b68dd47b464ea18a704a34907.600x338.jpg?t=1632405064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1752190/ss_4c5fde1a1e822a938166b98caa24f5d23804327f.600x338.jpg?t=1632405064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1752190/ss_61d7af30a16d458e49e02f2a866212658633246b.600x338.jpg?t=1632405064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1752190/ss_ebeb8308dedc56baa59df324d0c4d1836043d088.600x338.jpg?t=1632405064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1752190/ss_c93df33b7e90fa8fd2b933afc8078a68c062d0a6.600x338.jpg?t=1632405064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1752190/ss_10237d37799a04f7c0ed33a7c21c4cd0a4a50dea.600x338.jpg?t=1632405064"
-  ],
-  "detailed_description": "An addictive puzzle game with many challenging levels of varying difficulty.<br />\r\n<br />\r\nCubicus has tons of unique blocks and levels, so complete them all!<br />\r\nYou have to go from beginning to end, solving interesting puzzles! Whether you will be able to go this way is up to you.<br />\r\n<br />\r\nFeatures of the game:<br />\r\n- Many levels<br />\r\n- Convenient management<br />\r\n- Physics<br />\r\n- Colorful graphics",
-  "about_the_game": "An addictive puzzle game with many challenging levels of varying difficulty.<br />\r\n<br />\r\nCubicus has tons of unique blocks and levels, so complete them all!<br />\r\nYou have to go from beginning to end, solving interesting puzzles! Whether you will be able to go this way is up to you.<br />\r\n<br />\r\nFeatures of the game:<br />\r\n- Many levels<br />\r\n- Convenient management<br />\r\n- Physics<br />\r\n- Colorful graphics",
-  "supported_languages": "English, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 5,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 40.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 40.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 40.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

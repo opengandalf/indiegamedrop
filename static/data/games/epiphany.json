@@ -3,8 +3,8 @@
   "name": "Epiphany!",
   "slug": "epiphany",
   "developer": "Promethean Interactive",
-  "publisher": "Promethean Interactive",
-  "release_date": "May 25, 2018",
+  "publisher": "",
+  "release_date": "2018-05-25",
   "price_usd": 1.99,
   "genres": [
     "Casual",
@@ -21,33 +21,15 @@
   ],
   "short_description": "Epiphany! is a logic puzzle game in which the goal is to find the hidden pattern for the sequence of gems.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/790840/header.jpg?t=1527245857",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/790840/ss_67f6442af126ebaa1103b659bd53d11662f3056d.600x338.jpg?t=1527245857",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/790840/ss_712e7d08c46bde7b3b878974792dee216ee40127.600x338.jpg?t=1527245857",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/790840/ss_722b48283b3873c88e2ed36f2fe188120963dd62.600x338.jpg?t=1527245857",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/790840/ss_024043b579f324ca822a7b2126d1bdeb44448af0.600x338.jpg?t=1527245857",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/790840/ss_a79ec7ff68e18865b8d6ce60fb29195dfb899a2d.600x338.jpg?t=1527245857"
-  ],
-  "detailed_description": "Epiphany! is a puzzle game based on abstract logic and lateral thinking.<br><br>Discover the hidden rule for the sequence pattern.<br><br>The infinity of possible combinations is what makes the game challenging and imprevisible, with high difficulty. A game for the people who really like logical challenges.<br><br><ul class=\"bb_ul\"><li>A complex and compelling puzzle<br></li><li>Infinite procedural levels<br></li><li>High replayability value <br></li><li>Steam Achievements<br></li><li>Playable on Windows and Linux</li></ul>",
-  "about_the_game": "Epiphany! is a puzzle game based on abstract logic and lateral thinking.<br><br>Discover the hidden rule for the sequence pattern.<br><br>The infinity of possible combinations is what makes the game challenging and imprevisible, with high difficulty. A game for the people who really like logical challenges.<br><br><ul class=\"bb_ul\"><li>A complex and compelling puzzle<br></li><li>Infinite procedural levels<br></li><li>High replayability value <br></li><li>Steam Achievements<br></li><li>Playable on Windows and Linux</li></ul>",
-  "supported_languages": "English, Spanish - Spain, Portuguese - Brazil, French",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.5,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 10,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 40.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 10,
-      "review_percentage": 40.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 40.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

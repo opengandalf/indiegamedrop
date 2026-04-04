@@ -3,8 +3,8 @@
   "name": "Vtuber Animator",
   "slug": "vtuber-animator",
   "developer": "Megu Studio",
-  "publisher": "Megu Studio",
-  "release_date": "Feb 16, 2024",
+  "publisher": "",
+  "release_date": "2024-02-16",
   "price_usd": 0.99,
   "genres": [
     "Animation & Modeling",
@@ -25,30 +25,9 @@
   ],
   "short_description": "Vtuber Animator is the simplistic, and 3D animation tool for VTuber Content that can seamlessly transmit animations in real-time to live streaming software supporting the OSC protocol",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2810100/header.jpg?t=1708097216",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2810100/ss_4638deee36092d8da5dd8eec4e58bdcde3460431.600x338.jpg?t=1708097216",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2810100/ss_cd7b67ba15d45fc97a8bdb7131a6b76aba6680ec.600x338.jpg?t=1708097216",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2810100/ss_ccfba795bd6a653bb8f776d72bbf37607884fe4d.600x338.jpg?t=1708097216",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2810100/ss_f1bb47020afbb85becf7dbf33200ebd6979ef618.600x338.jpg?t=1708097216",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2810100/ss_8307fe656b41c8d5c14844fee537a90a9c4af887.600x338.jpg?t=1708097216",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2810100/ss_663567150830666e72ff059e3e0e8f024955809f.600x338.jpg?t=1708097216"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" > <h2 class=\"bb_tag\" > <strong> What can Vtuber Animator do? </strong></h2></h2>Vtuber Animator is a VRM model animation player that can synchronize animations in real-time to live streaming software via the OSC protocol.<h2 class=\"bb_tag\" ><h2 class=\"bb_tag\" ><strong>Featured</strong></h2></h2><ul class=\"bb_ul\"><li>Support *.vrm model</li></ul><ul class=\"bb_ul\"><li>Support *.vmd and mixamo fbx animations</li></ul><ul class=\"bb_ul\"><li>Support *.vpd poses</li></ul><ul class=\"bb_ul\"><li>Animations can be switched using hotkeys</li></ul><h2 class=\"bb_tag\" > <h2 class=\"bb_tag\" > <strong> How to use? </strong></h2></h2>In <strong>Vtuber Animator</strong>:<br>Press \"Model+\" then select your model through the file picker<br>Enter ip and a port and press \"Connect\"<br>Press \"Import\" in \"Motion List\",then select your motion through the file picker<br>Press \"Play\" button<br><br>In <strong>VSeeFace</strong>:<br>Enable the \"OSC/VMC Receiver (Disable Tracking)\" option in VSeeFace, and input the same port as entered in Vtuber Animator. <br>Optionally toggle \"Apply VSeeFace Tracking\" and any other toggles underneath it if you only want to perform partial poses.",
-  "about_the_game": "<h2 class=\"bb_tag\" > <h2 class=\"bb_tag\" > <strong> What can Vtuber Animator do? </strong></h2></h2>Vtuber Animator is a VRM model animation player that can synchronize animations in real-time to live streaming software via the OSC protocol.<h2 class=\"bb_tag\" ><h2 class=\"bb_tag\" ><strong>Featured</strong></h2></h2><ul class=\"bb_ul\"><li>Support *.vrm model</li></ul><ul class=\"bb_ul\"><li>Support *.vmd and mixamo fbx animations</li></ul><ul class=\"bb_ul\"><li>Support *.vpd poses</li></ul><ul class=\"bb_ul\"><li>Animations can be switched using hotkeys</li></ul><h2 class=\"bb_tag\" > <h2 class=\"bb_tag\" > <strong> How to use? </strong></h2></h2>In <strong>Vtuber Animator</strong>:<br>Press \"Model+\" then select your model through the file picker<br>Enter ip and a port and press \"Connect\"<br>Press \"Import\" in \"Motion List\",then select your motion through the file picker<br>Press \"Play\" button<br><br>In <strong>VSeeFace</strong>:<br>Enable the \"OSC/VMC Receiver (Disable Tracking)\" option in VSeeFace, and input the same port as entered in Vtuber Animator. <br>Optionally toggle \"Apply VSeeFace Tracking\" and any other toggles underneath it if you only want to perform partial poses.",
-  "supported_languages": "English, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

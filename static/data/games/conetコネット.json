@@ -3,8 +3,8 @@
   "name": "CONET｜コネット",
   "slug": "conetコネット",
   "developer": "MIYAKOpubl, 株式会社ビットグルーヴ",
-  "publisher": "MIYAKOpubl",
-  "release_date": "Jun 24, 2021",
+  "publisher": "",
+  "release_date": "2021-06-24",
   "price_usd": 0.79,
   "genres": [
     "Casual",
@@ -23,36 +23,15 @@
   ],
   "short_description": "\"Conet\" is an extremely simple one-on-one puzzle battle game of dots and boxes.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442080/header.jpg?t=1758024737",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442080/ss_43ac21537958020bd98cecbe6f288c41ee630fe2.600x338.jpg?t=1758024737",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442080/ss_410cc706af49840872620c6313d09260e8fb6635.600x338.jpg?t=1758024737",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442080/ss_276a9553ba5bed39e1bce266bb94e0e043019a05.600x338.jpg?t=1758024737",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442080/ss_cacb08c9f9c8a539b9d63c1c73f0ec42e54de6c0.600x338.jpg?t=1758024737",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442080/ss_b93315862399a18ae82a099196e5740d9abc523c.600x338.jpg?t=1758024737"
-  ],
-  "detailed_description": "\"Conet\" is an extremely simple one-on-one strategy game of dots and boxes.<br />\r\n<br />\r\nBlack is the first player and white is the second player.<br />\r\nClicking the square dots will connect them with lines to any other adjacent square dots that have already been clicked, scoring you one point for each line formed.<br />\r\nBoth players take in turns clicking the square dots until they have all been clicked, and the player with the most points wins!<br />\r\nThe special \"lonely points\" rule also means that any square dots that have not been connected to any others are worth three points each.<br />\r\n<br />\r\nFeatures:<br />\r\n- Play online battles against players matched with you based on your victory record.<br />\r\n- Practice by playing with a CPU.",
-  "about_the_game": "\"Conet\" is an extremely simple one-on-one strategy game of dots and boxes.<br />\r\n<br />\r\nBlack is the first player and white is the second player.<br />\r\nClicking the square dots will connect them with lines to any other adjacent square dots that have already been clicked, scoring you one point for each line formed.<br />\r\nBoth players take in turns clicking the square dots until they have all been clicked, and the player with the most points wins!<br />\r\nThe special \"lonely points\" rule also means that any square dots that have not been connected to any others are worth three points each.<br />\r\n<br />\r\nFeatures:<br />\r\n- Play online battles against players matched with you based on your victory record.<br />\r\n- Practice by playing with a CPU.",
-  "supported_languages": "English, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Desktop Audio Visualizer",
   "slug": "desktop-audio-visualizer",
   "developer": "RainySoft",
-  "publisher": "RainySoft",
-  "release_date": "Dec 17, 2018",
+  "publisher": "",
+  "release_date": "2018-12-17",
   "price_usd": 1.7,
   "genres": [
     "Animation & Modeling",
@@ -21,60 +21,27 @@
   ],
   "short_description": "Desktop Audio Visualizer is a Lightweight audio visualization software.It can always dock on the screen and translucent without affecting your work.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691190/header.jpg?t=1577013232",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691190/ss_48e7c3a01c59c608568e4b47e2fa1831ba528ade.600x338.jpg?t=1577013232",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691190/ss_9e2b985c612cb9db640957cf2afa911f0413783d.600x338.jpg?t=1577013232",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691190/ss_5640a85947837aacbc3b81c91f63846dfa33a6b3.600x338.jpg?t=1577013232",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691190/ss_51483d141b466a756623d852b28d47e33476ac9a.600x338.jpg?t=1577013232",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691190/ss_79cafd336410489b5df95c1be3861db2eff67515.600x338.jpg?t=1577013232",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691190/ss_3ded82c2a91c474b9da0d0ac437947e729a667cf.600x338.jpg?t=1577013232"
-  ],
-  "detailed_description": "Desktop Audio Visualizer is a Lightweight audio visualization software.It can always dock on the screen and translucent without affecting your work.<h2 class=\"bb_tag\" ><strong>FEATURES</strong></h2><ul class=\"bb_ul\"><li>Support all sound sources on the system, including music players, games, etc.<br></li><li>Visualizer support many customization options.<br></li><li>It is displayed at the front of the screen and is always visible but without affecting your game and work.<br></li><li>Support theme presets, one-click switching.<br></li><li>Very low resource usage.<br></li><li>Can be used with other Steam app.</li></ul>",
-  "about_the_game": "Desktop Audio Visualizer is a Lightweight audio visualization software.It can always dock on the screen and translucent without affecting your work.<h2 class=\"bb_tag\" ><strong>FEATURES</strong></h2><ul class=\"bb_ul\"><li>Support all sound sources on the system, including music players, games, etc.<br></li><li>Visualizer support many customization options.<br></li><li>It is displayed at the front of the screen and is always visible but without affecting your game and work.<br></li><li>Support theme presets, one-click switching.<br></li><li>Very low resource usage.<br></li><li>Can be used with other Steam app.</li></ul>",
-  "supported_languages": "English, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Cloud",
-    "Includes level editor"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 3.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 64,
-  "review_positive": 40,
+  "review_positive": 0,
   "review_percentage": 62.5,
   "owner_estimate": 10000,
-  "ccu_estimate": 5,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 384,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 62,
-      "review_percentage": 61.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 64,
       "review_percentage": 62.5,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
-      "review_count": 64,
-      "review_percentage": 62.5,
-      "ccu_estimate": 5,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

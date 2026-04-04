@@ -3,8 +3,8 @@
   "name": "Escape This",
   "slug": "escape-this",
   "developer": "Four Winged Studio",
-  "publisher": "Conglomerate 5",
-  "release_date": "May 4, 2016",
+  "publisher": "",
+  "release_date": "2016-05-04",
   "price_usd": 0.49,
   "genres": [
     "Action",
@@ -24,61 +24,27 @@
   ],
   "short_description": "Escape This is a precision 3d platformer. Complete each of the random levels without touching any of the red blocks. It is possible to make your own levels",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/467370/header.jpg?t=1764928114",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/467370/ss_2a87e086c2696d7cb8db79f44a3e98d43c180451.600x338.jpg?t=1764928114",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/467370/ss_4323161f32fcba58314ff6023dd4e473415e8ddc.600x338.jpg?t=1764928114",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/467370/ss_ce471b3c48af58beac75e00872b794da8909aec5.600x338.jpg?t=1764928114",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/467370/ss_c12423a76bc7c9c432bc43fe79a81c31c8b27396.600x338.jpg?t=1764928114",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/467370/ss_4bf8dc0b2a6ab78165f0688f8bfb1dcc5e426bab.600x338.jpg?t=1764928114"
-  ],
-  "detailed_description": "<h1>FIND HMUR!</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/467370/extras/b009372be95605a3fb4580f8fe3b1d8f.poster.avif?t=1764928114\" width=1170 height=426 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/467370/extras/b009372be95605a3fb4580f8fe3b1d8f.webm?t=1764928114\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/467370/extras/b009372be95605a3fb4580f8fe3b1d8f.mp4?t=1764928114\" type=\"video/mp4\"></video></span></p></p><br><h1>About the Game</h1><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/467370/extras/8eee270c063aadf8fe042814e72f4895.avif?t=1764928114\" width=400 height=100 /></span><h2 class=\"bb_tag\" ><strong>Escape This</strong></h2> is a casual puzzle game where the main objective is for the player to complete the given stage. <br>Each stage is selected at random.<br><br>All maps can be edited and you are also able to create your own unique maps and share them with the rest of the community.<br><br><strong>Can you escape?</strong>",
-  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/467370/extras/8eee270c063aadf8fe042814e72f4895.avif?t=1764928114\" width=400 height=100 /></span><h2 class=\"bb_tag\" ><strong>Escape This</strong></h2> is a casual puzzle game where the main objective is for the player to complete the given stage. <br>Each stage is selected at random.<br><br>All maps can be edited and you are also able to create your own unique maps and share them with the rest of the community.<br><br><strong>Can you escape?</strong>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Trading Cards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 137,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 16.0,
+  "review_velocity_7d": 35.35,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 707,
-  "review_positive": 349,
+  "review_positive": 0,
   "review_percentage": 49.4,
   "owner_estimate": 150000,
-  "ccu_estimate": 2,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 217,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 691,
-      "review_percentage": 48.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 707,
       "review_percentage": 49.4,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
-      "review_count": 707,
-      "review_percentage": 49.4,
-      "ccu_estimate": 2,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

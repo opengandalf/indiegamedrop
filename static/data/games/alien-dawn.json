@@ -3,8 +3,8 @@
   "name": "Alien Dawn",
   "slug": "alien-dawn",
   "developer": "VoyagerVR",
-  "publisher": "VoyagerVR",
-  "release_date": "Oct 23, 2021",
+  "publisher": "",
+  "release_date": "2021-10-23",
   "price_usd": 13.99,
   "genres": [
     "Action",
@@ -21,41 +21,15 @@
   ],
   "short_description": "This game is currently going through a major revision and a public playtest. Please see store description 2-4-2026",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1376580/header.jpg?t=1770429756",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1376580/415963eca76b3b0dcfc8d977e26e432c957a339f/ss_415963eca76b3b0dcfc8d977e26e432c957a339f.600x338.jpg?t=1770429756",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1376580/d070412b6b0b29636976f152845dcd54673f95a4/ss_d070412b6b0b29636976f152845dcd54673f95a4.600x338.jpg?t=1770429756",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1376580/21dac677b6ee754835442232fb100c6daca9e433/ss_21dac677b6ee754835442232fb100c6daca9e433.600x338.jpg?t=1770429756",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1376580/94646885315f3b0cda10e35a7a2ddd2aac4e35b9/ss_94646885315f3b0cda10e35a7a2ddd2aac4e35b9.600x338.jpg?t=1770429756",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1376580/e02ff9f0ef954d47c11854c5b86ffcedcc472b30/ss_e02ff9f0ef954d47c11854c5b86ffcedcc472b30.600x338.jpg?t=1770429756",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1376580/05d223ba46c802c7b2266a9a8ab5cff30e38be9e/ss_05d223ba46c802c7b2266a9a8ab5cff30e38be9e.600x338.jpg?t=1770429756"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" style=\"text-align: center\"><strong>2-4-2026</strong> </h2><h2 class=\"bb_tag\" style=\"text-align: center\">This game is currently going through a major revision and a public playtest.</h2><h2 class=\"bb_tag\" > </h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\">The default branch is not the current / correct version.</p><p class=\"bb_paragraph\" style=\"text-align: center\">I want to confirm the game is stable before making the full release official. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\">If you are interested in testing the new version of the game, please message me on Discord - Link in store description</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" style=\"text-align: center\">Wishlist if you prefer to be alerted when the official version is released.</p><p class=\"bb_paragraph\" style=\"text-align: center\">Thank you for being patient while I get this sorted out.</p><p class=\"bb_paragraph\" ></p>",
-  "about_the_game": "<h2 class=\"bb_tag\" style=\"text-align: center\"><strong>2-4-2026</strong> </h2><h2 class=\"bb_tag\" style=\"text-align: center\">This game is currently going through a major revision and a public playtest.</h2><h2 class=\"bb_tag\" > </h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\">The default branch is not the current / correct version.</p><p class=\"bb_paragraph\" style=\"text-align: center\">I want to confirm the game is stable before making the full release official. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\">If you are interested in testing the new version of the game, please message me on Discord - Link in store description</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" style=\"text-align: center\">Wishlist if you prefer to be alerted when the official version is released.</p><p class=\"bb_paragraph\" style=\"text-align: center\">Thank you for being patient while I get this sorted out.</p><p class=\"bb_paragraph\" ></p>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Co-op",
-    "Online Co-op",
-    "Full controller support",
-    "Tracked Controller Support",
-    "VR Supported",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 5.0,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 100,
-  "review_positive": 63,
+  "review_positive": 0,
   "review_percentage": 63.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -63,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 100,
-      "review_percentage": 63.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 100,
       "review_percentage": 63.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

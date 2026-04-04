@@ -3,8 +3,8 @@
   "name": "Dark City",
   "slug": "dark-city",
   "developer": "Black Coffee",
-  "publisher": "Black Coffee",
-  "release_date": "Jan 16, 2023",
+  "publisher": "",
+  "release_date": "2023-01-16",
   "price_usd": 1.99,
   "genres": [
     "Action",
@@ -23,32 +23,15 @@
   ],
   "short_description": "",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261280/header.jpg?t=1737198125",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261280/ss_57b8bc9a019092a11a6edd0e0c89b2f66ecd2137.600x338.jpg?t=1737198125",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261280/ss_669efe47842f6d8c64262948d87eea84757ea974.600x338.jpg?t=1737198125",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261280/ss_39ccaaf76c7bbd884e92f8e79f9d439a764f9b9a.600x338.jpg?t=1737198125",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261280/ss_a578b6a78e6f53972fbb07e06fe4f61c8b09ed97.600x338.jpg?t=1737198125",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2261280/ss_1418b130af56aeeae1c11cd97e708479d916115d.600x338.jpg?t=1737198125"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ></p>",
-  "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

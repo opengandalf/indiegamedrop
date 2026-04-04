@@ -3,8 +3,8 @@
   "name": "DancingSim",
   "slug": "dancingsim",
   "developer": "MetaDancer",
-  "publisher": "NIJICO",
-  "release_date": "Jan 16, 2023",
+  "publisher": "",
+  "release_date": "2023-01-16",
   "price_usd": 0.0,
   "genres": [
     "Animation & Modeling",
@@ -17,34 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "DancingSim is a mini-tool for watching virtual characters dance, with built-in characters, costumes, animation resources, and customizable scenes. It supports Workshop and you can import characters, animations, and background music as you wish.",
+  "short_description": "DancingSim is a mini-tool for watching virtual characters dance, with built-in characters, costumes, animation resources, and customizable scenes. It supports Workshop and you can import characters, a",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2238890/header.jpg?t=1679007175",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2238890/ss_921e7e449d58767d96b2e9a35dc07cfef62f0737.600x338.jpg?t=1679007175",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2238890/ss_fbb3e0682632a30eabb12fc8d70cb78dd46d1324.600x338.jpg?t=1679007175",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2238890/ss_669b85be0e8037af33f63447fdb42df9c789d346.600x338.jpg?t=1679007175",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2238890/ss_676ea44adff0b0f17b7c5992ddbdf4fb823fb488.600x338.jpg?t=1679007175",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2238890/ss_1a8639a30de3bd61c5361d7a1ec5ccfb1ebb75e9.600x338.jpg?t=1679007175"
-  ],
-  "detailed_description": "DancingSim is a mini-tool for watching virtual characters dance, with built-in characters, costumes, animation resources, and customizable scenes. It supports Workshop and you can import characters, animations, and background music as you wish.<h2 class=\"bb_tag\" >[FEATURES]</h2><br>- Beautiful, almost real and well-designed female character Mia, whose hair, clothing and other key joints are made as realistic as it can get.<br><br>- Built-in resources: attires, animations, scenes.<br><br>- Support importing GLTF, and GLB format files, replaceable character models, and using built-in animations to make any character you like to move immediately! Of course, you can also import your own animations.<br><br>- Customizable scenes - for example, you can change the position of the dancing character, and the intensity, color, and toning of the lighting, to make the scene your own. <br><br>- Support customized BGM, you can import music on your own. Supported format: mp3, wav, flac<br><br>- Steam Workshop supported - manage and share your mods!<br><br>Stay tuned, there are more features ahead.",
-  "about_the_game": "DancingSim is a mini-tool for watching virtual characters dance, with built-in characters, costumes, animation resources, and customizable scenes. It supports Workshop and you can import characters, animations, and background music as you wish.<h2 class=\"bb_tag\" >[FEATURES]</h2><br>- Beautiful, almost real and well-designed female character Mia, whose hair, clothing and other key joints are made as realistic as it can get.<br><br>- Built-in resources: attires, animations, scenes.<br><br>- Support importing GLTF, and GLB format files, replaceable character models, and using built-in animations to make any character you like to move immediately! Of course, you can also import your own animations.<br><br>- Customizable scenes - for example, you can change the position of the dancing character, and the intensity, color, and toning of the lighting, to make the scene your own. <br><br>- Support customized BGM, you can import music on your own. Supported format: mp3, wav, flac<br><br>- Steam Workshop supported - manage and share your mods!<br><br>Stay tuned, there are more features ahead.",
-  "supported_languages": "Simplified Chinese, English, Russian, Japanese, Traditional Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Trading Cards",
-    "Steam Workshop"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 2.35,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 47,
-  "review_positive": 28,
+  "review_positive": 0,
   "review_percentage": 59.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 76,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 47,
       "review_percentage": 59.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

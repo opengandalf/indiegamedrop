@@ -3,8 +3,8 @@
   "name": "#!/bin/bash",
   "slug": "binbash",
   "developer": "High on Caffeine",
-  "publisher": "High on Caffeine",
-  "release_date": "May 27, 2024",
+  "publisher": "",
+  "release_date": "2024-05-27",
   "price_usd": 1.99,
   "genres": [
     "Adventure",
@@ -21,33 +21,15 @@
   ],
   "short_description": "#!/bin/bash is a typing adventure game using linux terminal commands as controls. Yum some cake, touch some loot and bash those enemies!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2983840/header.jpg?t=1717095329",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2983840/ss_727247d62948509ef4889722cd8e855a1c283fdc.600x338.jpg?t=1717095329",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2983840/ss_b6bd6374583d2127fe3480690da1d857a464b991.600x338.jpg?t=1717095329",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2983840/ss_bf89b92d1785eceecd2a0f669de2b61fd1cb20b2.600x338.jpg?t=1717095329",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2983840/ss_fb868b5305b312c49cd66df866486f75478ef298.600x338.jpg?t=1717095329",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2983840/ss_55581d9cbd31139142447b18dacedba7989b2bf1.600x338.jpg?t=1717095329"
-  ],
-  "detailed_description": "<strong>#!/bin/bash</strong> is a joyful adventure game about a person who fell into a well that opened up into a huge cave full of monsters and loot!<h2 class=\"bb_tag\" >Features:</h2>> Intentionally awkward controls (Terminal commands)<br>> ASCII art and graphics<br>> Environmental puzzles<br>> Easter eggs<br>> And there may even be a cake",
-  "about_the_game": "<strong>#!/bin/bash</strong> is a joyful adventure game about a person who fell into a well that opened up into a huge cave full of monsters and loot!<h2 class=\"bb_tag\" >Features:</h2>> Intentionally awkward controls (Terminal commands)<br>> ASCII art and graphics<br>> Environmental puzzles<br>> Easter eggs<br>> And there may even be a cake",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.2000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 24,
-  "review_positive": 9,
+  "review_positive": 0,
   "review_percentage": 37.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,26 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 24,
-      "review_percentage": 37.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 24,
-      "review_percentage": 37.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 24,
       "review_percentage": 37.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

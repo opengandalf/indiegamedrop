@@ -3,8 +3,8 @@
   "name": "RYB",
   "slug": "ryb",
   "developer": "FLEB",
-  "publisher": "FLEB",
-  "release_date": "Nov 17, 2016",
+  "publisher": "",
+  "release_date": "2016-11-17",
   "price_usd": 0.0,
   "genres": [
     "Indie"
@@ -18,59 +18,27 @@
   ],
   "short_description": "RYB is a logic puzzle game that plays like a combination of sudoku and minesweeper.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547050/d778d626f4012f9863d21a25e9365faaf8d87787/header.jpg?t=1754324368",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547050/ss_6ad060734719398ab788137ac4a556a197a38b72.600x338.jpg?t=1754324368",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547050/ss_40e468cfa908fb24fa3efc0973ac34e28bd04fdc.600x338.jpg?t=1754324368",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547050/ss_8ccdc27327ee120fa2052e1c635d4fd09a31d157.600x338.jpg?t=1754324368",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547050/ss_3bf76c8bf4c35dddd4736e83c76410cfd807a0fc.600x338.jpg?t=1754324368",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547050/ss_853ec17e5fc19f8473cab7617dcbedd9bb29c094.600x338.jpg?t=1754324368"
-  ],
-  "detailed_description": "RYB is a logic puzzle game that plays like a combination of sudoku and minesweeper. <br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547050/extras/2bebfa596d9e19bd6e2307c80de45941.avif?t=1754324368\" width=600 height=188 /></span><br><br>It has around 60 puzzles or so.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547050/extras/80b6bb7938d0fff136f648cbac51f2c3.avif?t=1754324368\" width=600 height=188 /></span>",
-  "about_the_game": "RYB is a logic puzzle game that plays like a combination of sudoku and minesweeper. <br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547050/extras/2bebfa596d9e19bd6e2307c80de45941.avif?t=1754324368\" width=600 height=188 /></span><br><br>It has around 60 puzzles or so.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547050/extras/80b6bb7938d0fff136f648cbac51f2c3.avif?t=1754324368\" width=600 height=188 /></span>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.001,
   "gem_score": 0.4337,
   "hype_score": 0.0,
-  "review_velocity_7d": 161.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 594,
-  "review_positive": 537,
+  "review_positive": 0,
   "review_percentage": 90.4,
   "owner_estimate": 75000,
-  "ccu_estimate": 1,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 81,
-  "gem_tier": "proven",
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 433,
-      "review_percentage": 90.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 594,
       "review_percentage": 90.4,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
-      "review_count": 594,
-      "review_percentage": 90.4,
-      "ccu_estimate": 1,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

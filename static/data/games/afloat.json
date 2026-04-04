@@ -3,8 +3,8 @@
   "name": "Afloat",
   "slug": "afloat",
   "developer": "Blue Atom Interactive",
-  "publisher": "Blue Atom Interactive",
-  "release_date": "Aug 22, 2019",
+  "publisher": "",
+  "release_date": "2019-08-22",
   "price_usd": 5.99,
   "genres": [
     "Adventure",
@@ -23,35 +23,15 @@
   ],
   "short_description": "Afloat is a VR survival game, where you gather resources, craft items and upgrade your raft.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1112010/header.jpg?t=1576025998",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1112010/ss_6d80d29e53e5c4d0d980b0f2df31714077173f8d.600x338.jpg?t=1576025998",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1112010/ss_c44ef56daef4b71fe153e3579f920b48323e45a4.600x338.jpg?t=1576025998",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1112010/ss_0cb6673c733d50ada2a5be131fdd561f8bb93d55.600x338.jpg?t=1576025998",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1112010/ss_276ef4a203e43defb6191fe5765ee8d5a0c80987.600x338.jpg?t=1576025998",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1112010/ss_f4d6a9d194b00f574a3466baf2b5de382c9dfb88.600x338.jpg?t=1576025998",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1112010/ss_65a6b403da0eba463925d8ade643c9279971fd0b.600x338.jpg?t=1576025998"
-  ],
-  "detailed_description": "Have you ever though about what would happen to you, if you would crashland in the jungle? What if, you had to gather your water and food by yourself, in order to survive? In Afloat, you can use virtual reality, and see if you've got what it takes.<h2 class=\"bb_tag\" >About Afloat</h2>You have crashlanded in the jungle, and somehow you awake on a raft, with only a grappling gun and a tablet with building blueprints beside you. Using your survival skills, you have try to make your way back to society. Luckily for you, the river that you are following is full of useful resources, that can help you in this endeavour.<h2 class=\"bb_tag\" >Fully in VR</h2>Afloat is a game that can only be played using VR headset, to achieve maximum immersion. VR can also have some downsides, like motion sickness, and because of this, no teleporting is neccessary in this game. Where the player stands in the room, is identical to where the players stands on the raft.<h2 class=\"bb_tag\" >Current features</h2><ul class=\"bb_ul\"><li>Grapple resources - use a grappling gun to get the resources you want<br></li><li>Craft - make tools, and use them to make new resources<br></li><li>Cook - use a campfire to roast your food<br></li><li>Build - make the raft of your dreams<br></li><li>Dynamic weather - enjoy the sun, or float through the rain<br></li><li>Hostile creatures - protect yourself from bloodthirsty bats<br></li><li>Day/night cycle</li></ul>",
-  "about_the_game": "Have you ever though about what would happen to you, if you would crashland in the jungle? What if, you had to gather your water and food by yourself, in order to survive? In Afloat, you can use virtual reality, and see if you've got what it takes.<h2 class=\"bb_tag\" >About Afloat</h2>You have crashlanded in the jungle, and somehow you awake on a raft, with only a grappling gun and a tablet with building blueprints beside you. Using your survival skills, you have try to make your way back to society. Luckily for you, the river that you are following is full of useful resources, that can help you in this endeavour.<h2 class=\"bb_tag\" >Fully in VR</h2>Afloat is a game that can only be played using VR headset, to achieve maximum immersion. VR can also have some downsides, like motion sickness, and because of this, no teleporting is neccessary in this game. Where the player stands in the room, is identical to where the players stands on the raft.<h2 class=\"bb_tag\" >Current features</h2><ul class=\"bb_ul\"><li>Grapple resources - use a grappling gun to get the resources you want<br></li><li>Craft - make tools, and use them to make new resources<br></li><li>Cook - use a campfire to roast your food<br></li><li>Build - make the raft of your dreams<br></li><li>Dynamic weather - enjoy the sun, or float through the rain<br></li><li>Hostile creatures - protect yourself from bloodthirsty bats<br></li><li>Day/night cycle</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 5,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 60.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 60.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 60.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

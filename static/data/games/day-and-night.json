@@ -3,8 +3,8 @@
   "name": "Day and Night",
   "slug": "day-and-night",
   "developer": "Nertic Game",
-  "publisher": "Nertic Game",
-  "release_date": "Apr 12, 2020",
+  "publisher": "",
+  "release_date": "2020-04-12",
   "price_usd": 0.0,
   "genres": [
     "Simulation"
@@ -17,32 +17,15 @@
   ],
   "short_description": "Day and night briefly represent the day and night cycle.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273700/header.jpg?t=1600400367",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273700/ss_56bda516d89e402a14338cc1b4de990c40b1d033.600x338.jpg?t=1600400367",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273700/ss_4171c6b12664902b0d8c4b436a7164bfe41537ff.600x338.jpg?t=1600400367",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273700/ss_8174c214284f2749970ada04a2cf71861a931c3c.600x338.jpg?t=1600400367",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273700/ss_8a3c5c2ea3914f3abf1beaed6edd381f6fbc8f7c.600x338.jpg?t=1600400367",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273700/ss_e423e911e6cb57d38e150a78399484db4a0ed8ec.600x338.jpg?t=1600400367"
-  ],
-  "detailed_description": "Day and night briefly represent the day and night cycle. The cycle starts from the local time and lasts forever. While representing the cycle, you can control the acceleration of the cycle with several multiples.",
-  "about_the_game": "Day and night briefly represent the day and night cycle. The cycle starts from the local time and lasts forever. While representing the cycle, you can control the acceleration of the cycle with several multiples.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 3,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 33.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 33.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 33.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

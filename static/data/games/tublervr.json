@@ -3,8 +3,8 @@
   "name": "TublerVR",
   "slug": "tublervr",
   "developer": "Reto Kolly",
-  "publisher": "SiliconWetware",
-  "release_date": "Oct 29, 2018",
+  "publisher": "",
+  "release_date": "2018-10-29",
   "price_usd": 14.99,
   "genres": [
     "Action",
@@ -25,33 +25,9 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "TublerVR is a game designed for virtual reality. It's up to you to help the tublers to grow and collect the rare blue mushroom. Activate bridges with a simple touch and allow the tublers a save passage. Save the tublers!",
+  "short_description": "TublerVR is a game designed for virtual reality. It's up to you to help the tublers to grow and collect the rare blue mushroom. Activate bridges with a simple touch and allow the tublers a save passag",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650340/header.jpg?t=1540812319",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650340/ss_eec4578c59d23f3fed8107bfa19eab215ee85c46.600x338.jpg?t=1540812319",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650340/ss_f9c118b859f778898c8921934528dfaeac0f9255.600x338.jpg?t=1540812319",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650340/ss_c787b13f4afcda20059e5f3dd18964a87e6e0d2f.600x338.jpg?t=1540812319",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650340/ss_c23ccd5f445b3a937d18c5e4f36e618875916e7e.600x338.jpg?t=1540812319"
-  ],
-  "detailed_description": "TublerVR is a game designed for virtual reality. It's up to you to help the tublers to grow and collect the rare blue mushroom. Activate bridges with a simple touch and allow the tublers a save passage.<br><br>In this game you stand in the middle of a tubler mushroom village. There you will take control of every tublers path simply by using your wand (controller) to activate and deactivate the bridges you want. Just touch the switches at the poles around you to activate a bridge. <br><br>A switch can have different colors indicating its current state <br><ul class=\"bb_ul\"><li>white: not selected, not activated<br></li><li>red: selected, not activated<br></li><li>green: possible connection to the red switch<br></li><li>blue: connected</li></ul>If you want to activate a bridge, touch/select a \"white\" switch so it turns red, then touch/select a green one and a bridge is formed. Be aware, bridges cannot be established crossing each other and they can't be formed at large angles. Touch a white switch and all possible connections are marked \"green\".<br>To deactivate a bridge touch one of the blue switches<br><br>By selecting and activating the proper bridge-connections, you help the tublers to grow and collect the rare blue mushroom. A level is won if you were able to place 6 blue mushrooms in the mushroom shrine. The level is lost, if three tublers have fallen to their death.<br><br>Save the tublers!",
-  "about_the_game": "TublerVR is a game designed for virtual reality. It's up to you to help the tublers to grow and collect the rare blue mushroom. Activate bridges with a simple touch and allow the tublers a save passage.<br><br>In this game you stand in the middle of a tubler mushroom village. There you will take control of every tublers path simply by using your wand (controller) to activate and deactivate the bridges you want. Just touch the switches at the poles around you to activate a bridge. <br><br>A switch can have different colors indicating its current state <br><ul class=\"bb_ul\"><li>white: not selected, not activated<br></li><li>red: selected, not activated<br></li><li>green: possible connection to the red switch<br></li><li>blue: connected</li></ul>If you want to activate a bridge, touch/select a \"white\" switch so it turns red, then touch/select a green one and a bridge is formed. Be aware, bridges cannot be established crossing each other and they can't be formed at large angles. Touch a white switch and all possible connections are marked \"green\".<br>To deactivate a bridge touch one of the blue switches<br><br>By selecting and activating the proper bridge-connections, you help the tublers to grow and collect the rare blue mushroom. A level is won if you were able to place 6 blue mushrooms in the mushroom shrine. The level is lost, if three tublers have fallen to their death.<br><br>Save the tublers!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 2,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -61,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

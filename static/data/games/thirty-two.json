@@ -3,8 +3,8 @@
   "name": "Thirty Two",
   "slug": "thirty-two",
   "developer": "LillyWelland inc.",
-  "publisher": "Bitlock Studio",
-  "release_date": "Nov 20, 2018",
+  "publisher": "",
+  "release_date": "2018-11-20",
   "price_usd": 0.49,
   "genres": [
     "Casual",
@@ -19,34 +19,9 @@
   ],
   "short_description": "A small arcade game about a small cube. Collect all the coins at the level to open the exit leading to the next level.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977290/header.jpg?t=1542729736",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977290/ss_3ec513bbd4dff5db46d7ec7c217322248dbe6af9.600x338.jpg?t=1542729736",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977290/ss_baaa30649b8ace6d2fb241b24ab3edf21d9ee9ff.600x338.jpg?t=1542729736",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977290/ss_da6fc0d9792425dcdcb47d7313ba123e957ff49a.600x338.jpg?t=1542729736",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977290/ss_d91d992fbe5b02d0a37a85db726434b6c903e823.600x338.jpg?t=1542729736",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/977290/ss_f2d4cb0487dbc78d6742bf8d0d110a33d1c15b7d.600x338.jpg?t=1542729736"
-  ],
-  "detailed_description": "A small arcade game about a small cube. Collect all the coins at the level to open the exit leading to the next level. The game has many dangers such as spikes and lava, blades and shooting cubes. Use double jump to reach higher and calculate timings to jump at the right moment.<br />\r\n<br />\r\n- 20 levels of varying difficulty<br />\r\n- Partial gamepad support",
-  "about_the_game": "A small arcade game about a small cube. Collect all the coins at the level to open the exit leading to the next level. The game has many dangers such as spikes and lava, blades and shooting cubes. Use double jump to reach higher and calculate timings to jump at the right moment.<br />\r\n<br />\r\n- 20 levels of varying difficulty<br />\r\n- Partial gamepad support",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 5,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

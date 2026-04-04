@@ -3,8 +3,8 @@
   "name": "Axe Party VR",
   "slug": "axe-party-vr",
   "developer": "Zac Strong",
-  "publisher": "Zac Strong",
-  "release_date": "Nov 30, 2023",
+  "publisher": "",
+  "release_date": "2023-11-30",
   "price_usd": 8.99,
   "genres": [
     "Casual",
@@ -21,39 +21,15 @@
   ],
   "short_description": "VR Axe Games",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2343290/header.jpg?t=1701357592",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2343290/ss_90696f50373b1330daecce82d5eeed262dd14b4d.600x338.jpg?t=1701357592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2343290/ss_37e4922d5daed05e1e8fcb1cd006c9c044d22ecb.600x338.jpg?t=1701357592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2343290/ss_cd59003eb8f086b85179b0a0d16c297e6eea5a7c.600x338.jpg?t=1701357592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2343290/ss_7bbc295ad0d9ce516ee7bed1c6be1cb2841f07d1.600x338.jpg?t=1701357592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2343290/ss_ac52dac4a55d3ca2dbe412b94b24708a63770b02.600x338.jpg?t=1701357592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2343290/ss_65af8a05211472720ea52b0a6683b6036b343ae8.600x338.jpg?t=1701357592"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Welcome to the Party! 🪓🪓🪓</h2><br>Axe Party VR is a virtual reality axe-throwing experience. Compete against your friends or your own high score with 3 exciting and challenging game modes. <br>Unlike other titles, our multiplayer is contained in a single VR headset allowing you to show off your axe-throwing skills and compete with your friends locally, without having to purchase multiple devices.<h2 class=\"bb_tag\" >Game Modes</h2><ul class=\"bb_ul\"><li>1. Classic Axe Throw: 5 throws per round. 3 rounds. Highest score wins. <br></li><li>2. BreakRoom: A room of fun gadgets and breakables.<br></li><li>3. Axe Hunt: Hunt virtual birds with axes.</li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" >Welcome to the Party! 🪓🪓🪓</h2><br>Axe Party VR is a virtual reality axe-throwing experience. Compete against your friends or your own high score with 3 exciting and challenging game modes. <br>Unlike other titles, our multiplayer is contained in a single VR headset allowing you to show off your axe-throwing skills and compete with your friends locally, without having to purchase multiple devices.<h2 class=\"bb_tag\" >Game Modes</h2><ul class=\"bb_ul\"><li>1. Classic Axe Throw: 5 throws per round. 3 rounds. Highest score wins. <br></li><li>2. BreakRoom: A room of fun gadgets and breakables.<br></li><li>3. Axe Hunt: Hunt virtual birds with axes.</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "VR Supported",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -61,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

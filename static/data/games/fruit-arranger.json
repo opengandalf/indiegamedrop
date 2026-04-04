@@ -3,8 +3,8 @@
   "name": "Fruit Arranger",
   "slug": "fruit-arranger",
   "developer": "Mihai Morosanu",
-  "publisher": "Mihai Morosanu",
-  "release_date": "Jan 23, 2017",
+  "publisher": "",
+  "release_date": "2017-01-23",
   "price_usd": 0.49,
   "genres": [
     "Casual",
@@ -17,63 +17,23 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Fruit Arranger is a fun puzzle game where you have to place fruits on a 9x9 table. When you match 3 in a same row or column the last fruit placed will transform into another fruit. Your goal is to place as many fruits as possible without getting stuck.OVER 100 ACHIEVEMENTS to gain",
+  "short_description": "Fruit Arranger is a fun puzzle game where you have to place fruits on a 9x9 table. When you match 3 in a same row or column the last fruit placed will transform into another fruit. Your goal is to pla",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575700/header.jpg?t=1667464610",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575700/ss_9c03432ae426c8432e25d4d4cc1aec97e38a4f98.600x338.jpg?t=1667464610",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575700/ss_740ac16d4eaca381cdc9adf74b1510d7e0332909.600x338.jpg?t=1667464610",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575700/ss_b091a103db68b48b7b2e78dbfa9febebbe525b28.600x338.jpg?t=1667464610",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575700/ss_b9714f13546de3780d5f80500f8e6b18aead2ee3.600x338.jpg?t=1667464610",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575700/ss_65e26b0c529c781f2bd7f92be37fb96d47534e37.600x338.jpg?t=1667464610"
-  ],
-  "detailed_description": "Fruit Arranger is a fun puzzle game where you have to place fruits on a 9x9 table. When you match 3 in a same row or column the last fruit placed will transform into another fruit. Your goal is to place as many fruits as possible without getting stuck.<br><br><strong>OVER 100 ACHIEVEMENTS to gain</strong><br><br>Trading cards pending approval.",
-  "about_the_game": "Fruit Arranger is a fun puzzle game where you have to place fruits on a 9x9 table. When you match 3 in a same row or column the last fruit placed will transform into another fruit. Your goal is to place as many fruits as possible without getting stuck.<br><br><strong>OVER 100 ACHIEVEMENTS to gain</strong><br><br>Trading cards pending approval.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Trading Cards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 145,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 9.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 330,
-  "review_positive": 219,
+  "review_positive": 0,
   "review_percentage": 66.4,
   "owner_estimate": 350000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 219,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 321,
-      "review_percentage": 65.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 330,
-      "review_percentage": 66.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 330,
       "review_percentage": 66.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

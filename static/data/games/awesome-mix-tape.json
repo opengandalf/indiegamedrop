@@ -3,8 +3,8 @@
   "name": "Awesome Mix Tape",
   "slug": "awesome-mix-tape",
   "developer": "Projector Studios",
-  "publisher": "Projector Studios",
-  "release_date": "Dec 12, 2020",
+  "publisher": "",
+  "release_date": "2020-12-12",
   "price_usd": 4.5,
   "genres": [
     "Action",
@@ -21,36 +21,15 @@
   ],
   "short_description": "Struggle with obsolete tech to load up a growing mixtape of quirky micro-games. Play, discover, repeat!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1437160/header.jpg?t=1755687377",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1437160/ss_8cfa4844c9a40199924e96bf649d71753f9bd258.600x338.jpg?t=1755687377",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1437160/ss_56fc117f6cbcea940f85d5a6139a4996f1d961d3.600x338.jpg?t=1755687377",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1437160/ss_8e83089355ea5f6f1b1a4132f7797834a837ae31.600x338.jpg?t=1755687377",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1437160/ss_958e4eae0beb01d38c6db63c1e483534b54cb3b3.600x338.jpg?t=1755687377",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1437160/ss_e0cd8ac68c61a15973db2ec00e5b87c39333bd1e.600x338.jpg?t=1755687377",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1437160/ss_fc6f64743140f36093d69309b7c8a62f203b78ce.600x338.jpg?t=1755687377",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1437160/ss_808fc498c250048fa4a66f723927c8b4d1bd98ff.600x338.jpg?t=1755687377",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1437160/ss_f1babcca87fcac1469a38ec26d83a494f37d28b4.600x338.jpg?t=1755687377"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>Relive the charm of retro gaming – with all its clunky frustrations!</strong><br>Awesome Mix Tape is a growing collection of bite-sized, single-mechanic games packed into one nostalgic experience. Think of it as your personal mixtape – but instead of music, it’s a playlist of fun, quirky, colourful micro-games.</p><p class=\"bb_paragraph\" >🎮 <strong>What’s Inside?</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >A variety of fast, simple, and addictive games – perfect for quick sessions</p></li><li><p class=\"bb_paragraph\" >Challenges that range from fun and casual to experimental prototypes</p></li><li><p class=\"bb_paragraph\" >Ongoing free updates with brand-new micro-games</p></li></ul><p class=\"bb_paragraph\" >📼 <strong>Why “Mix Tape”?</strong><br>Inspired by the days of cassettes and classic gaming, Awesome Mix Tape brings back that feeling of discovery. Each game is a surprise – something new to try every time you launch.</p><p class=\"bb_paragraph\" ><strong>Install once, keep it forever – and watch your collection grow!</strong></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>Relive the charm of retro gaming – with all its clunky frustrations!</strong><br>Awesome Mix Tape is a growing collection of bite-sized, single-mechanic games packed into one nostalgic experience. Think of it as your personal mixtape – but instead of music, it’s a playlist of fun, quirky, colourful micro-games.</p><p class=\"bb_paragraph\" >🎮 <strong>What’s Inside?</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >A variety of fast, simple, and addictive games – perfect for quick sessions</p></li><li><p class=\"bb_paragraph\" >Challenges that range from fun and casual to experimental prototypes</p></li><li><p class=\"bb_paragraph\" >Ongoing free updates with brand-new micro-games</p></li></ul><p class=\"bb_paragraph\" >📼 <strong>Why “Mix Tape”?</strong><br>Inspired by the days of cassettes and classic gaming, Awesome Mix Tape brings back that feeling of discovery. Each game is a surprise – something new to try every time you launch.</p><p class=\"bb_paragraph\" ><strong>Install once, keep it forever – and watch your collection grow!</strong></p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

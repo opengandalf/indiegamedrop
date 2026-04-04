@@ -3,8 +3,8 @@
   "name": "Mouse",
   "slug": "mouse",
   "developer": "Sten",
-  "publisher": "Sten",
-  "release_date": "Mar 24, 2025",
+  "publisher": "",
+  "release_date": "2025-03-24",
   "price_usd": 0.99,
   "genres": [
     "Adventure",
@@ -19,35 +19,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Mouse is a fun 2D platformer where you control a small mouse, collect keys, and unlock doors to reach the next level. Jump through tricky obstacles, explore creative levels, and test your platforming skills. Can you unlock every door and complete the challenge?",
+  "short_description": "Mouse is a fun 2D platformer where you control a small mouse, collect keys, and unlock doors to reach the next level. Jump through tricky obstacles, explore creative levels, and test your platforming ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3538100/header.jpg?t=1743078504",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3538100/ss_dc711320e80513fadfd9ae3ff3db1cb0058817be.600x338.jpg?t=1743078504",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3538100/ss_592b85a0212c8837b32d36e78f1fab01dac745c9.600x338.jpg?t=1743078504",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3538100/ss_6178c9e7ecafab79e73cb1af5508b5cb56817096.600x338.jpg?t=1743078504",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3538100/ss_606c084d4dd52e35c2a1c025d304d1404d25919f.600x338.jpg?t=1743078504",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3538100/c65e12a61f2417225a4cd4b8968941c880ea150c/ss_c65e12a61f2417225a4cd4b8968941c880ea150c.600x338.jpg?t=1743078504"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Mouse is a fun and challenging 2D platformer where you take control of an adventurous little mouse! Your goal is simple: navigate through tricky levels, collect keys, and unlock doors to progress to the next stage.</p><p class=\"bb_paragraph\" >Each level presents new obstacles, requiring precise jumps and clever movement to reach the key and find the exit. With colorful visuals, smooth controls, and creative level design, Mouse offers an exciting platforming experience for players of all skill levels.</p><p class=\"bb_paragraph\" >Are you ready to jump, explore, and unlock your way to victory? Test your reflexes and platforming skills in Mouse!</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Mouse is a fun and challenging 2D platformer where you take control of an adventurous little mouse! Your goal is simple: navigate through tricky levels, collect keys, and unlock doors to progress to the next stage.</p><p class=\"bb_paragraph\" >Each level presents new obstacles, requiring precise jumps and clever movement to reach the key and find the exit. With colorful visuals, smooth controls, and creative level design, Mouse offers an exciting platforming experience for players of all skill levels.</p><p class=\"bb_paragraph\" >Are you ready to jump, explore, and unlock your way to victory? Test your reflexes and platforming skills in Mouse!</p>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 6.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 19,
-  "review_positive": 16,
+  "review_positive": 0,
   "review_percentage": 84.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 13,
-      "review_percentage": 92.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 19,
       "review_percentage": 84.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

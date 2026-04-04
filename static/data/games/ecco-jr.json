@@ -3,8 +3,8 @@
   "name": "Ecco™ Jr.",
   "slug": "ecco-jr",
   "developer": "SEGA",
-  "publisher": "SEGA",
-  "release_date": "Sep 13, 2010",
+  "publisher": "",
+  "release_date": "2010-09-13",
   "price_usd": 0.0,
   "genres": [
     "Adventure"
@@ -17,34 +17,17 @@
     "mac",
     "linux"
   ],
-  "short_description": "Somewhere there is a place called the Endless Sea. There lives a giant whale named Big Blue. To find Big Blue, you have to open the Crystal Doors called Glyphs. To open the Crystal Doors, you must satisfy their wish. Guide Ecco and his friends to swim through the ocean and find Big Blue.",
+  "short_description": "Somewhere there is a place called the Endless Sea. There lives a giant whale named Big Blue. To find Big Blue, you have to open the Crystal Doors called Glyphs. To open the Crystal Doors, you must sat",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34287/header.jpg?t=1733765074",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34287/ss_2142dbad85e578e38fa05bea5dd894917a88c70f.600x338.jpg?t=1733765074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34287/ss_460850c7b1cfff01d08432c282a1d8cbc7119c39.600x338.jpg?t=1733765074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34287/ss_ce6c93d33472dbaa67e40a0414300514daa83f2d.600x338.jpg?t=1733765074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34287/ss_95ce478f1ca7f8500dbd4c9759fb31206cfe0d0f.600x338.jpg?t=1733765074"
-  ],
-  "detailed_description": "Somewhere there is a place called the Endless Sea. There lives a giant whale named Big Blue.<br />\r\n\t\t\t\t\t  To find Big Blue, you have to open the Crystal Doors called Glyphs. To open the Crystal Doors, you must satisfy their wish. Guide Ecco and his friends to swim through the ocean and find Big Blue.",
-  "about_the_game": "Somewhere there is a place called the Endless Sea. There lives a giant whale named Big Blue.<br />\r\n\t\t\t\t\t  To find Big Blue, you have to open the Crystal Doors called Glyphs. To open the Crystal Doors, you must satisfy their wish. Guide Ecco and his friends to swim through the ocean and find Big Blue.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 7,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 85.7,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -52,26 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 85.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 7,
-      "review_percentage": 85.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 85.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Ficket: 追剧引擎",
   "slug": "ficket-追剧引擎",
   "developer": "一个小目标工作室",
-  "publisher": "一个小目标工作室",
-  "release_date": "Jun 18, 2021",
+  "publisher": "",
+  "release_date": "2021-06-18",
   "price_usd": 1.99,
   "genres": [
     "Indie",
@@ -21,35 +21,15 @@
   ],
   "short_description": "You can browse uniformly the same information scattered on various websites through Ficket.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634680/header.jpg?t=1766062702",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634680/ss_cdf803fd71e715ba6761ba43b1700f40b03efb73.600x338.jpg?t=1766062702",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634680/ss_35677b22e23d5aac34531ce87e6bfdde705825cd.600x338.jpg?t=1766062702",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634680/ss_23558b91502cf9afe7a76bc2afe76b8da61127c6.600x338.jpg?t=1766062702",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634680/ss_4dfd708eb642e99a0f7293f42614f25acc40606b.600x338.jpg?t=1766062702",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634680/ss_ddf7c91fef6c68ad899a49e8cfc3af65bda7cda8.600x338.jpg?t=1766062702",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634680/ss_79483f925c8ff8d269d4ed1b079e2d76784603b2.600x338.jpg?t=1766062702",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634680/ss_f366cc3c96a876374eccf8d3a25e1abf1fa1e638.600x338.jpg?t=1766062702",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634680/ss_e3b801384aee80039b44feae89a7e8c945733584.600x338.jpg?t=1766062702"
-  ],
-  "detailed_description": "Ficket is software that focuses on aggregating various similar information.<br />\r\n<br />\r\nYou can use ficket as a customized browser or search engine to save time when surfing the Internet.<br />\r\n<br />\r\nYou can customize it, or rely on the steam workshop to put together websites of the same type you like to browse<br />\r\n<br />\r\nThe Early Access version is currently available, and the functions currently implemented include:<br />\r\n1. The user can customize the rules/import the list of rules through the URL<br />\r\n2. After configuring the rules, users can search for videos on related websites<br />\r\n3. The user can select the video<br />\r\n4. Users can jump to the target website for video browsing<br />\r\n5. The user can bookmark the video and jump from the homepage",
-  "about_the_game": "Ficket is software that focuses on aggregating various similar information.<br />\r\n<br />\r\nYou can use ficket as a customized browser or search engine to save time when surfing the Internet.<br />\r\n<br />\r\nYou can customize it, or rely on the steam workshop to put together websites of the same type you like to browse<br />\r\n<br />\r\nThe Early Access version is currently available, and the functions currently implemented include:<br />\r\n1. The user can customize the rules/import the list of rules through the URL<br />\r\n2. After configuring the rules, users can search for videos on related websites<br />\r\n3. The user can select the video<br />\r\n4. Users can jump to the target website for video browsing<br />\r\n5. The user can bookmark the video and jump from the homepage",
-  "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Workshop",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 1982,
+  "screenshots": [],
   "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 145.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 2252,
-  "review_positive": 1614,
+  "review_positive": 0,
   "review_percentage": 71.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2107,
-      "review_percentage": 71.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 2252,
       "review_percentage": 71.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

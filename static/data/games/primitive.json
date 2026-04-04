@@ -3,8 +3,8 @@
   "name": "Primitive",
   "slug": "primitive",
   "developer": "John Voorhees",
-  "publisher": "Prime Software Systems, Inc.",
-  "release_date": "Jan 23, 2019",
+  "publisher": "",
+  "release_date": "2019-01-23",
   "price_usd": 0.0,
   "genres": [
     "Software Training",
@@ -20,33 +20,9 @@
   ],
   "short_description": "Enter a three dimensional representation of open source Java, C#, C++, and JavaScript code in the Primitive Immersive Development Environment.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/777890/header.jpg?t=1618077094",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/777890/ss_cf43cac7ea9268446fe846c2547c7b9439df17f0.600x338.jpg?t=1618077094",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/777890/ss_fc49e9f7388de2a8b4d4a78ed52b9764601c9e44.600x338.jpg?t=1618077094",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/777890/ss_360abc1679a30445de88c8c6ef61b93a37bba3e8.600x338.jpg?t=1618077094",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/777890/ss_3159de0713a41d64857fed92840d1dfcc7858e58.600x338.jpg?t=1618077094",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/777890/ss_af0e4ecef64d4c97c9dbd69eb13c3742cc2ef58e.600x338.jpg?t=1618077094",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/777890/ss_1fc36372688eb9655a7368edcc685fd7fb2e79d8.600x338.jpg?t=1618077094"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Primitive</h2><br>Immersive Development Environment<h2 class=\"bb_tag\" >Code Immersion in Primitive</h2><br>Software development teams are only as good as their ability to rapidly comprehend and integrate the work of many different authors.<br><br>At Primitive, we believe that collaboration and immersive visualization are the future of software development. The arrival of virtual reality has provided a tremendous new platform to visualize data and collaborate in advanced ways. The Primitive programming interface is taking advantage of everything that VR can offer while applying the best practices of software analysis tools.<h2 class=\"bb_tag\" >Spatial Interpretation</h2><br>Primitive turns the output of software analyses into interactive 3D structures that are displayed in immersive VR. A team of developers will see:<br><br><ul class=\"bb_ul\"><li> Architectural Overviews - up to several million lines of code<br></li><li> 3D Call Graphs - spatial layouts that are clearer and more memorable<br></li><li> Multi-thread Runtime Animations - allowing collaboration in debugging and performance evaluation</li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" >Primitive</h2><br>Immersive Development Environment<h2 class=\"bb_tag\" >Code Immersion in Primitive</h2><br>Software development teams are only as good as their ability to rapidly comprehend and integrate the work of many different authors.<br><br>At Primitive, we believe that collaboration and immersive visualization are the future of software development. The arrival of virtual reality has provided a tremendous new platform to visualize data and collaborate in advanced ways. The Primitive programming interface is taking advantage of everything that VR can offer while applying the best practices of software analysis tools.<h2 class=\"bb_tag\" >Spatial Interpretation</h2><br>Primitive turns the output of software analyses into interactive 3D structures that are displayed in immersive VR. A team of developers will see:<br><br><ul class=\"bb_ul\"><li> Architectural Overviews - up to several million lines of code<br></li><li> 3D Call Graphs - spatial layouts that are clearer and more memorable<br></li><li> Multi-thread Runtime Animations - allowing collaboration in debugging and performance evaluation</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Tracked Controller Support",
-    "VR Supported"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 13,
-  "review_positive": 13,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -54,26 +30,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 13,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 13,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 13,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

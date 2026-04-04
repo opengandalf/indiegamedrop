@@ -3,8 +3,8 @@
   "name": "Twig's Adventure 64",
   "slug": "twigs-adventure-64",
   "developer": "kurigamedev",
-  "publisher": "kurigamedev",
-  "release_date": "May 8, 2025",
+  "publisher": "",
+  "release_date": "2025-05-08",
   "price_usd": 2.99,
   "genres": [
     "Adventure",
@@ -20,58 +20,27 @@
   ],
   "short_description": "Twig's Adventure 64 is a tiny 3D collect-a-thon platformer with looks and gameplay inspired by the N64 era, featuring a movement system that is both deep and intuitive.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567760/2cf65a35a5ece48273150772729480decb8256a6/header.jpg?t=1746699086",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567760/fe4124c5b897b18485ed3eed7cdd32c338e40b53/ss_fe4124c5b897b18485ed3eed7cdd32c338e40b53.600x338.jpg?t=1746699086",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567760/1f9093afce873a7e49faffba66593c2af4e38d52/ss_1f9093afce873a7e49faffba66593c2af4e38d52.600x338.jpg?t=1746699086",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567760/b895c0a4772cda434773a67f613171c21e60d11a/ss_b895c0a4772cda434773a67f613171c21e60d11a.600x338.jpg?t=1746699086",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567760/be0db097d8f1c13b0457fdf45024a378deeee7ef/ss_be0db097d8f1c13b0457fdf45024a378deeee7ef.600x338.jpg?t=1746699086",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567760/4ca8f58a974101959d243793d6be4c77a5d152ea/ss_4ca8f58a974101959d243793d6be4c77a5d152ea.600x338.jpg?t=1746699086",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567760/5479c3c0a645da8d14233a792a81eac2bb5efd2a/ss_5479c3c0a645da8d14233a792a81eac2bb5efd2a.600x338.jpg?t=1746699086",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3567760/e2fe0853b77a8027d51ce26777e25684eb9f95d7/ss_e2fe0853b77a8027d51ce26777e25684eb9f95d7.600x338.jpg?t=1746699086"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Twig's Adventure 64 is a tiny 3D collect-a-thon platformer with looks and gameplay inspired by the N64 era, featuring a movement system that is both deep and intuitive.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Features:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >3 densely packed worlds with lots of collectibles and secrets.</p></li><li><p class=\"bb_paragraph\" >a fully explorable hub area</p></li><li><p class=\"bb_paragraph\" >an easy and satisfying movement system that also allows for very complex movement tech</p></li><li><p class=\"bb_paragraph\" >a secret level</p></li><li><p class=\"bb_paragraph\" >controller support</p></li><li><p class=\"bb_paragraph\" >steam achievements</p></li></ul>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Twig's Adventure 64 is a tiny 3D collect-a-thon platformer with looks and gameplay inspired by the N64 era, featuring a movement system that is both deep and intuitive.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Features:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >3 densely packed worlds with lots of collectibles and secrets.</p></li><li><p class=\"bb_paragraph\" >a fully explorable hub area</p></li><li><p class=\"bb_paragraph\" >an easy and satisfying movement system that also allows for very complex movement tech</p></li><li><p class=\"bb_paragraph\" >a secret level</p></li><li><p class=\"bb_paragraph\" >controller support</p></li><li><p class=\"bb_paragraph\" >steam achievements</p></li></ul>",
-  "supported_languages": "English, Portuguese - Brazil",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0062,
   "gem_score": 0.8149,
   "hype_score": 0.0,
-  "review_velocity_7d": 31.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 60,
-  "review_positive": 59,
+  "review_positive": 0,
   "review_percentage": 98.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 29,
-      "review_percentage": 96.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 60,
       "review_percentage": 98.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

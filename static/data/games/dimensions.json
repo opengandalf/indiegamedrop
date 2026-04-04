@@ -3,8 +3,8 @@
   "name": "Dimensions",
   "slug": "dimensions",
   "developer": "Equanox Productions",
-  "publisher": "Equanox Productions",
-  "release_date": "Dec 17, 2020",
+  "publisher": "",
+  "release_date": "2020-12-17",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -19,38 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "An Action-Platformer inspired by Mega Man 2, Dimensions has the player fight crazy bosses, collect and upgrade weapons, and find secrets. Players will take control of a sprite from the 2D universe to save the 3rd dimension universe.",
+  "short_description": "An Action-Platformer inspired by Mega Man 2, Dimensions has the player fight crazy bosses, collect and upgrade weapons, and find secrets. Players will take control of a sprite from the 2D universe to ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1453480/header.jpg?t=1667619681",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1453480/ss_c178ff39b2ae61cde576acea9cdd0dbabd38b449.600x338.jpg?t=1667619681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1453480/ss_a60a1b490f381795bf498154f5a65278812c49a2.600x338.jpg?t=1667619681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1453480/ss_df4f0cd74ffae0aa081b37d0c664696803d05f34.600x338.jpg?t=1667619681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1453480/ss_2b56dd1f5d988b6b6c21e9950890c9a53ba6b791.600x338.jpg?t=1667619681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1453480/ss_c47160097528ca1e89618f1e31c168371f595288.600x338.jpg?t=1667619681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1453480/ss_581938eecb85130c1298ec4d12ca5289e5035a41.600x338.jpg?t=1667619681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1453480/ss_0ed8bab12d039100b7b297a80f9e62453ff9bbfd.600x338.jpg?t=1667619681"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Story</h2>Drakken has destroyed the 2nd Dimension.  You must take on all of his minions, save each world, and take out the the evil dragon to save the 3rd Dimension from the same fate.<h2 class=\"bb_tag\" >Weapons</h2>Collect numerous weapons as you progress that will help you on your quest.  Will you use the Charge cannon to shoot multiple enemies at once, or will you use the shrink ray to make your enemies tiny to step on them?  Enemies will also have weaknesses and immunity to specific weapons, so test out all weapons to see what works best for each enemy type!  What weapon will you use?<h2 class=\"bb_tag\" >Bosses</h2>Take on tough and unique bosses that control each world.  After you defeat each boss, you can collect the weapon or powerup that they possess.<h2 class=\"bb_tag\" >Levels</h2>Explore 10 unique levels that have very different mechanics and features.  Defy gravity on a space station, slide around in the ice level, bounce on jelly fish underwater, and so much more!<h2 class=\"bb_tag\" >New Game+</h2>Want a real challenge?  Take on multiple levels of new game+ (up to NG+ Level 5) with enemies gaining double health and damage on every level of NG+.  Heads up, NG+5 is almost impossible!",
-  "about_the_game": "<h2 class=\"bb_tag\" >Story</h2>Drakken has destroyed the 2nd Dimension.  You must take on all of his minions, save each world, and take out the the evil dragon to save the 3rd Dimension from the same fate.<h2 class=\"bb_tag\" >Weapons</h2>Collect numerous weapons as you progress that will help you on your quest.  Will you use the Charge cannon to shoot multiple enemies at once, or will you use the shrink ray to make your enemies tiny to step on them?  Enemies will also have weaknesses and immunity to specific weapons, so test out all weapons to see what works best for each enemy type!  What weapon will you use?<h2 class=\"bb_tag\" >Bosses</h2>Take on tough and unique bosses that control each world.  After you defeat each boss, you can collect the weapon or powerup that they possess.<h2 class=\"bb_tag\" >Levels</h2>Explore 10 unique levels that have very different mechanics and features.  Defy gravity on a space station, slide around in the ice level, bounce on jelly fish underwater, and so much more!<h2 class=\"bb_tag\" >New Game+</h2>Want a real challenge?  Take on multiple levels of new game+ (up to NG+ Level 5) with enemies gaining double health and damage on every level of NG+.  Heads up, NG+5 is almost impossible!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

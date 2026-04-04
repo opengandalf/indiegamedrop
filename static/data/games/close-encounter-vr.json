@@ -3,8 +3,8 @@
   "name": "Close Encounter VR",
   "slug": "close-encounter-vr",
   "developer": "Wolf Tango Games",
-  "publisher": "Wolf Tango Games",
-  "release_date": "May 12, 2020",
+  "publisher": "",
+  "release_date": "2020-05-12",
   "price_usd": 0.99,
   "genres": [
     "Adventure",
@@ -19,35 +19,15 @@
   ],
   "short_description": "Experience the thrill of a UFO sighting and the terror of an alien abduction as you come face to face with extraterrestrial beings! Don't worry, everything will be fine in the end, I promise!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302430/header.jpg?t=1589352654",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302430/ss_11292d4d79a5467002200aff5020343d132d8464.600x338.jpg?t=1589352654",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302430/ss_b48ae8652b7462826a9e03eab6b48257d246ae94.600x338.jpg?t=1589352654",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302430/ss_67a399b41431ea4c18fbb1c22f238ce27ddcacdf.600x338.jpg?t=1589352654",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302430/ss_f4a0388fea0901a64cbe354b680edddbfd1fb33c.600x338.jpg?t=1589352654",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1302430/ss_ed135791336ed0be866f43f3d686281da1e909c0.600x338.jpg?t=1589352654"
-  ],
-  "detailed_description": "In this short, 10 minute long, purely cinematic VR experience a peaceful evening turns into a horror movie, leading to face-to-face encounters with extraterrestrials. It's not all \"doom and gloom\" however, as you find out upon your eventual return to Earth.",
-  "about_the_game": "In this short, 10 minute long, purely cinematic VR experience a peaceful evening turns into a horror movie, leading to face-to-face encounters with extraterrestrials. It's not all \"doom and gloom\" however, as you find out upon your eventual return to Earth.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.6,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 32,
-  "review_positive": 20,
+  "review_positive": 0,
   "review_percentage": 62.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 31,
-      "review_percentage": 61.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 32,
       "review_percentage": 62.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

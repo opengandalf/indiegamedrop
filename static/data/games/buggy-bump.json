@@ -3,8 +3,8 @@
   "name": "Buggy Bump",
   "slug": "buggy-bump",
   "developer": "MoonShine Games",
-  "publisher": "MoonShine Games",
-  "release_date": "Nov 4, 2020",
+  "publisher": "",
+  "release_date": "2020-11-04",
   "price_usd": 10.99,
   "genres": [
     "Action",
@@ -21,57 +21,13 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Welcome to the Buggy Bump festival. Buggy Bump is a racing experience like no other. Offering moment-to-moment racing in VR or on the screen.{headset not required for screen play}. Race through the desert festival setting by day and night, Every bump counts as you have to watch out for not just the other drivers but the track itself.",
+  "short_description": "Welcome to the Buggy Bump festival. Buggy Bump is a racing experience like no other. Offering moment-to-moment racing in VR or on the screen.{headset not required for screen play}. Race through the de",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/header.jpg?t=1604764151",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_cc3eb55f4933d78fe342141b0bbd6d3ee8ad5864.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_d4ea4ff39f51386a3692a41a4162b0168a46c2b3.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_32eb2e5369b6ce91ba453703d92406cea39426b0.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_c783d4d3f6ce2720488fbad4712900c635c9acc4.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_03f979ccad5407110cd127601eb20cf89311dedd.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_099457950781f48f5d70ddf29bb5f1228b501932.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_7ed2db8635f6f6ea01a5321e057e36fd3508b96f.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_a560b82a22cb6acf8ebed8679f1720cc660e9477.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_8e68e2a7c5f4ba818fa964996b257ff4f604bc68.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_1eb9006ee9ceaa08f3346b4d71dc3b763e483b73.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_3042ee475033f03495dc52cf926c043eda82bbf5.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_56846bbbb4b65df1d51e2c0b8ca75a0dc57cce5b.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_ece9618b2b1e00894d9c7d5b7a66d17aca21fb50.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_abfd03b2493cd0ada3bfbcb1c394e99867084534.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_5c10948e9b3b60fc9de1fc233530c0cd31b17955.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_c84ffe45d6f14d91bb15b96d2261bfb3406a7fcf.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_3130bbf50b9494cf10bf8037ee3baa619d792b1b.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_13fa1137644fc18b0338944482552b0252e510c4.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_2e231d258b14f9bfe49e52316c86ce5ecbcbdaca.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_f4f1eed21d8d41de7f2933e55aa603faae188254.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_a879557db2143451f8d5b43d6438029d15d3270f.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_75cd3b27f37d2bb017585f806941a6ea60cba7da.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_2755bb64b5f840301b54674178c1689ab46cb6db.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_f7f101120a0c8e4f8cf1638da5b5901413f8a992.600x338.jpg?t=1604764151",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152800/ss_dfd58b95dec31260f94afa967af0ccc46e238f2c.600x338.jpg?t=1604764151"
-  ],
-  "detailed_description": "<strong>Welcome to the Buggy Bump festival</strong><br><br><br>Join the fast-paced racing competition play in VR or on screen {headset not required for screen play}.<br><br>Buggy Bump is a racing experience like no other. Offering moment-to-moment racing in VR or on the screen.<br>Take your place in the Buggy Bump Championships and fight in thrilling wheel-to-wheel battles with the buggy's built for fun.<br>The adrenaline rush of lights-out as each stage can be driven at night to give you yet another chance to be the Buggy Bump Champion. <br><br>Race through the desert festival setting by day and night, Every bump counts as you have to watch out for not just the other drivers but the track itself.<br>If you fall or get pushed off the tracks, a crane will pop you back on again to finish the fight. The tracks do have hazards so beware.<br><br><br>Key Features:<br>Play online or offline in single player or up to 4 players online.<br>Race against your friends in VR or on the screen <br>Race across 19 tracks. 9 Day time tracks + 9 Night time tracks and one surprise<br>Buggy Bump Championship Mode. Can you be the Buggy Bump Champion.<br>Single Player Arcade mode. Race against 3 other computer controlled Buggy's<br>Time Trail Mode. Here you can learn each track a beat your own time.",
-  "about_the_game": "<strong>Welcome to the Buggy Bump festival</strong><br><br><br>Join the fast-paced racing competition play in VR or on screen {headset not required for screen play}.<br><br>Buggy Bump is a racing experience like no other. Offering moment-to-moment racing in VR or on the screen.<br>Take your place in the Buggy Bump Championships and fight in thrilling wheel-to-wheel battles with the buggy's built for fun.<br>The adrenaline rush of lights-out as each stage can be driven at night to give you yet another chance to be the Buggy Bump Champion. <br><br>Race through the desert festival setting by day and night, Every bump counts as you have to watch out for not just the other drivers but the track itself.<br>If you fall or get pushed off the tracks, a crane will pop you back on again to finish the fight. The tracks do have hazards so beware.<br><br><br>Key Features:<br>Play online or offline in single player or up to 4 players online.<br>Race against your friends in VR or on the screen <br>Race across 19 tracks. 9 Day time tracks + 9 Night time tracks and one surprise<br>Buggy Bump Championship Mode. Can you be the Buggy Bump Champion.<br>Single Player Arcade mode. Race against 3 other computer controlled Buggy's<br>Time Trail Mode. Here you can learn each track a beat your own time.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Shared/Split Screen PvP",
-    "Shared/Split Screen",
-    "Full controller support",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
@@ -83,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

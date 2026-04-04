@@ -3,8 +3,8 @@
   "name": "Dungeonoid",
   "slug": "dungeonoid",
   "developer": "Pixel Bones Studio",
-  "publisher": "Pixel Bones Studio",
-  "release_date": "Oct 28, 2022",
+  "publisher": "",
+  "release_date": "2022-10-28",
   "price_usd": 2.44,
   "genres": [
     "Action",
@@ -19,44 +19,15 @@
   ],
   "short_description": "Dungeonoid is a brick breaker with a classic RPG system. Play solo or with a friend over 40 challenging levels, build up your skills and use your special powers to defeat the Demon Master.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153000/header.jpg?t=1666978979",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153000/ss_64b3864dcec4622867ca7364b4db23eae558f7a0.600x338.jpg?t=1666978979",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153000/ss_ce6972a7935e0e4ad2b0b758c4e0314c94b0c14e.600x338.jpg?t=1666978979",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153000/ss_aebece1010961a0b03f8754c7e75027223a9333c.600x338.jpg?t=1666978979",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153000/ss_d83deefe9bb682c3f07239a32065d0ec1faddc10.600x338.jpg?t=1666978979",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153000/ss_729acbe29560c1bdf974496cac6e2de7642d3c86.600x338.jpg?t=1666978979",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153000/ss_74adafaaae3ae3a09c84ee91b81935dd6ad43881.600x338.jpg?t=1666978979",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153000/ss_6e10c3216c80386658e587c446850ab71036a355.600x338.jpg?t=1666978979",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153000/ss_f8d925f188f743484da0577f0002bb4897380216.600x338.jpg?t=1666978979",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153000/ss_c651a8b709b03df498461afe7d04ed484002f197.600x338.jpg?t=1666978979",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153000/ss_1bd7d928eb92f2a632087157102fc0dd16e73e42.600x338.jpg?t=1666978979"
-  ],
-  "detailed_description": "Your mission is to cross the dungeons of the Infernal Castle with the aim of recovering the 3 sacred gems and defeating the Demon Master and his henchmen. Are you ready?<br><br>Key Features:<br><ul class=\"bb_ul\"><li>40 game levels<br></li><li>Time attack levels<br></li><li>Power-ups<br></li><li>Final Bosses<br></li><li>Classic RPG system with level-ups and skills<br></li><li>Great 16-bits music<br></li><li>Co-op mode<br></li><li>Achievements<br></li><li>Online ranking</li></ul>",
-  "about_the_game": "Your mission is to cross the dungeons of the Infernal Castle with the aim of recovering the 3 sacred gems and defeating the Demon Master and his henchmen. Are you ready?<br><br>Key Features:<br><ul class=\"bb_ul\"><li>40 game levels<br></li><li>Time attack levels<br></li><li>Power-ups<br></li><li>Final Bosses<br></li><li>Classic RPG system with level-ups and skills<br></li><li>Great 16-bits music<br></li><li>Co-op mode<br></li><li>Achievements<br></li><li>Online ranking</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Shared/Split Screen",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 4,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -64,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

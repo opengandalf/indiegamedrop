@@ -3,8 +3,8 @@
   "name": "Color Crush",
   "slug": "color-crush",
   "developer": "Frederik Holst",
-  "publisher": "Frederik Holst",
-  "release_date": "Apr 22, 2020",
+  "publisher": "",
+  "release_date": "2020-04-22",
   "price_usd": 4.99,
   "genres": [
     "Casual",
@@ -21,33 +21,15 @@
   ],
   "short_description": "Color Crush is a match 3 game. Swap and match the shapes. Solve the levels making smart moves.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280490/header.jpg?t=1601400597",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280490/ss_52c2e54258280bbc4d2ab58ba8f620ae87d01184.600x338.jpg?t=1601400597",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280490/ss_a2e604f30d0d3e33a47ea82194e428c60bacfc51.600x338.jpg?t=1601400597",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280490/ss_dd22cf85fa116f8c218d0d41d6f9ecb5a50bdaca.600x338.jpg?t=1601400597",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280490/ss_546425c35bdbcf3df02d69a3643a684f2d3661f7.600x338.jpg?t=1601400597",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280490/ss_beb0bb40a244c42ffee6a2a2c74e04f49e60b499.600x338.jpg?t=1601400597"
-  ],
-  "detailed_description": "Color Crush is a match 3 game where you swap and match the shapes. Solve the levels making smart moves. Your next move can be deciding whether you win or lose. Every day you gain a free daily bonus spins. You can win boosts to activate in the levels or boost to activate before you enter the level. But you can also get gems to buy specifically what you want.",
-  "about_the_game": "Color Crush is a match 3 game where you swap and match the shapes. Solve the levels making smart moves. Your next move can be deciding whether you win or lose. Every day you gain a free daily bonus spins. You can win boosts to activate in the levels or boost to activate before you enter the level. But you can also get gems to buy specifically what you want.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.30000000000000004,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 6,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 33.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 33.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 33.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

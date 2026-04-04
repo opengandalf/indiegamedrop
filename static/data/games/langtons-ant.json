@@ -3,8 +3,8 @@
   "name": "Langton's Ant",
   "slug": "langtons-ant",
   "developer": "DawnTree",
-  "publisher": "DawnTree",
-  "release_date": "Aug 29, 2020",
+  "publisher": "",
+  "release_date": "2020-08-29",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -23,36 +23,9 @@
   ],
   "short_description": "Based on simple inputs, amazing patterns can be achieved!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1123090/header.jpg?t=1598702679",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1123090/ss_c5ad52d96f8b52e69e2445a673775b054f7fb9d8.600x338.jpg?t=1598702679",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1123090/ss_1b3450dad7d5468ba1f52b74f3e26f26353b8206.600x338.jpg?t=1598702679",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1123090/ss_13a6b791d0add3d725ae0a90db75140aa51a7a0e.600x338.jpg?t=1598702679",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1123090/ss_7e345ecba6f99ed10f81e9a3ce689b10786f9598.600x338.jpg?t=1598702679",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1123090/ss_972963209e5bdb7f81510b3b81f7080c0c87e839.600x338.jpg?t=1598702679",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1123090/ss_ba75726ce8ae7cd766672c00f798b4df25a4c815.600x338.jpg?t=1598702679",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1123090/ss_938d0e6fcf89041c726b210716f2c85625808858.600x338.jpg?t=1598702679",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1123090/ss_42c86e97c3659c89fe31387419212418faeb7b33.600x338.jpg?t=1598702679",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1123090/ss_130446a59712d31a0de30804bf352131fb068f1b.600x338.jpg?t=1598702679",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1123090/ss_b752dce6fdbfe9d664674b448399293de15dcbfa.600x338.jpg?t=1598702679"
-  ],
-  "detailed_description": "Langton's Ant at its heart is a simple set of instructions which can result in amazing patterns; or just nonsense movements.<br />\r\n<br />\r\nLangton's Ant is also a 2D universal Turing machine and was invented by Chris Langton in 1986.<br />\r\nThis allows the community to discover patterns which the world has never seen before!<br />\r\n<br />\r\nMy version, in addition to the base ruleset, includes the ability to input more than one of the same color with different commands which allows for some really interesting pattern generation of which has never been seen before!",
-  "about_the_game": "Langton's Ant at its heart is a simple set of instructions which can result in amazing patterns; or just nonsense movements.<br />\r\n<br />\r\nLangton's Ant is also a 2D universal Turing machine and was invented by Chris Langton in 1986.<br />\r\nThis allows the community to discover patterns which the world has never seen before!<br />\r\n<br />\r\nMy version, in addition to the base ruleset, includes the ability to input more than one of the same color with different commands which allows for some really interesting pattern generation of which has never been seen before!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 4.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 28,
-  "review_positive": 23,
+  "review_positive": 0,
   "review_percentage": 82.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 24,
-      "review_percentage": 83.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 28,
       "review_percentage": 82.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

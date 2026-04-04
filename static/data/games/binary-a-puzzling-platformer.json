@@ -3,8 +3,8 @@
   "name": "Binary: A Puzzling Platformer",
   "slug": "binary-a-puzzling-platformer",
   "developer": "Arkantanium, L.L.C.",
-  "publisher": "Arkantanium, L.L.C.",
-  "release_date": "Jul 25, 2022",
+  "publisher": "",
+  "release_date": "2022-07-25",
   "price_usd": 9.99,
   "genres": [
     "RPG"
@@ -15,35 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Binary is a game that requires players to mix the ability to solve puzzles and effectively platform. It is about Bit, a piece of computer data, trying to find his fellow bits who got lost in a data transfer.",
+  "short_description": "Binary is a game that requires players to mix the ability to solve puzzles and effectively platform. It is about Bit, a piece of computer data, trying to find his fellow bits who got lost in a data tr",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074130/header.jpg?t=1659280830",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074130/ss_a63b97eeecdac7f970f055ab22fb454eab5cc811.600x338.jpg?t=1659280830",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074130/ss_c4e2520e770f66a9234fbd9ffe2fe88da14ea902.600x338.jpg?t=1659280830",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074130/ss_8c7893b18a7972e57ce5dfd7acdca65089ac1f93.600x338.jpg?t=1659280830",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074130/ss_524b5637bbeb767eb558cb3c34da98c4609e7268.600x338.jpg?t=1659280830",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074130/ss_fd15ed005da336d361b3e5d6180dd4ce5d2bc9f1.600x338.jpg?t=1659280830",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074130/ss_da79b3036f99e491d88f25ccaa073d0d45881dc6.600x338.jpg?t=1659280830"
-  ],
-  "detailed_description": "Binary is a game that requires players to mix the ability to solve puzzles and effectively platform. It is about Bit, a piece of computer data, trying to find his fellow bits who got lost in a data transfer.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Emphasis on precise platforming and puzzle gameplay.<br></li><li>Artwork in a unique blend of vector graphics and pixel art that captures the feeling of a digital world.<br></li><li>6 levels, each with unique features including mouse-movable platforms, ferocious viruses (no, they will not infect your computer), player-changing processors, and more!<br></li><li>Original Soundtrack with distinct personalities and feelings.</li></ul><h2 class=\"bb_tag\" >Controls</h2><ul class=\"bb_ul\"><li>WASD Or Arrow Keys to Move<br></li><li>Space to Jump</li></ul>",
-  "about_the_game": "Binary is a game that requires players to mix the ability to solve puzzles and effectively platform. It is about Bit, a piece of computer data, trying to find his fellow bits who got lost in a data transfer.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Emphasis on precise platforming and puzzle gameplay.<br></li><li>Artwork in a unique blend of vector graphics and pixel art that captures the feeling of a digital world.<br></li><li>6 levels, each with unique features including mouse-movable platforms, ferocious viruses (no, they will not infect your computer), player-changing processors, and more!<br></li><li>Original Soundtrack with distinct personalities and feelings.</li></ul><h2 class=\"bb_tag\" >Controls</h2><ul class=\"bb_ul\"><li>WASD Or Arrow Keys to Move<br></li><li>Space to Jump</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

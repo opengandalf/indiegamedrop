@@ -3,8 +3,8 @@
   "name": "VoxelSuite",
   "slug": "voxelsuite",
   "developer": "Drakeling Labs",
-  "publisher": "Drakeling Labs",
-  "release_date": "Oct 15, 2020",
+  "publisher": "",
+  "release_date": "2020-10-15",
   "price_usd": 0.0,
   "genres": [
     "Animation & Modeling",
@@ -29,29 +29,9 @@
   ],
   "short_description": "VoxelSuite is a free, open source, voxel editing application. Use VoxelSuite to create entire scenes, characters, or assets for your games.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1125980/header.jpg?t=1745693264",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1125980/ss_19769ff20a24a96a033291fb65c7d0a42a1b2233.600x338.jpg?t=1745693264",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1125980/ss_0810316b5d4e04b9dbb9a7155018de52cd3db38f.600x338.jpg?t=1745693264",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1125980/ss_fde9eafa7869a376903f708decf83335d2c02bf2.600x338.jpg?t=1745693264",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1125980/ss_d1f7555de10b001d0b5452020bca9c2c043caac1.600x338.jpg?t=1745693264",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1125980/ss_f8f9630b1bbfcfdcc9bb524727af9c82ccfe7150.600x338.jpg?t=1745693264"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1125980/extras/6a96bbee2dba5ae72318614479dee874.avif?t=1745693264\" width=600 height=150 /></span><br><br>Welcome to VoxelSuite! VoxelSuite is a free, open source, simple voxel editing tool! This application can be used to create game assets for any game engine or modeling application that supports voxel file formats! Create weapons, buildings, vehicles, or anything else you can imagine!<br><br>Built upon the original Apache-2.0 VoxelShop project written by Lukas Siemon, VoxelSuite is a new branch developed by Drakeling Labs. VoxelSuite features a wide variety of powerful tools and settings that help creators build amazing assets with ease.<br><br><strong>Features</strong><br><br><ul class=\"bb_ul\"><li> Simple to use interface.<br></li><li> Export your creations into a variety of formats.<br></li><li> Completely free and open source.<br></li><li> Surface texturing and support for custom texture libraries.<br></li><li> Skeletal animation support.<br></li><li> Perspective tools for both 2D and 3D rendering.<br></li><li> Custom bindable shortcuts and hotkeys.<br></li><li> Complex layer management for advanced creations.</li></ul><br>If you are looking for a free, fun, and easy way to get started making assets for video games... VoxelSuite is the best place to start! Download the application for free, and start creating amazing things today.",
-  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1125980/extras/6a96bbee2dba5ae72318614479dee874.avif?t=1745693264\" width=600 height=150 /></span><br><br>Welcome to VoxelSuite! VoxelSuite is a free, open source, simple voxel editing tool! This application can be used to create game assets for any game engine or modeling application that supports voxel file formats! Create weapons, buildings, vehicles, or anything else you can imagine!<br><br>Built upon the original Apache-2.0 VoxelShop project written by Lukas Siemon, VoxelSuite is a new branch developed by Drakeling Labs. VoxelSuite features a wide variety of powerful tools and settings that help creators build amazing assets with ease.<br><br><strong>Features</strong><br><br><ul class=\"bb_ul\"><li> Simple to use interface.<br></li><li> Export your creations into a variety of formats.<br></li><li> Completely free and open source.<br></li><li> Surface texturing and support for custom texture libraries.<br></li><li> Skeletal animation support.<br></li><li> Perspective tools for both 2D and 3D rendering.<br></li><li> Custom bindable shortcuts and hotkeys.<br></li><li> Complex layer management for advanced creations.</li></ul><br>If you are looking for a free, fun, and easy way to get started making assets for video games... VoxelSuite is the best place to start! Download the application for free, and start creating amazing things today.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 11,
-  "review_positive": 9,
+  "review_positive": 0,
   "review_percentage": 81.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 88.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 11,
       "review_percentage": 81.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,7 +3,7 @@
   "name": "Arma 3 Samples",
   "slug": "arma-3-samples",
   "developer": "Bohemia Interactive",
-  "publisher": "Bohemia Interactive",
+  "publisher": "",
   "release_date": "",
   "price_usd": 0.0,
   "genres": [],
@@ -11,35 +11,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Samples of assets for Arma 3 which provide a starting point for community members who want to create their own assets for the game. They cover a broad spectrum of topics, from scenario design to mod making.",
+  "short_description": "Samples of assets for Arma 3 which provide a starting point for community members who want to create their own assets for the game. They cover a broad spectrum of topics, from scenario design to mod m",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390500/header.jpg?t=1726044336",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390500/ss_6e126dcf801cd7d20f573cea53fa9f1de90a187d.600x338.jpg?t=1726044336",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390500/ss_46a5075562520b292dd011653a67338102d48606.600x338.jpg?t=1726044336",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390500/ss_509035134001ea56c1db02cb6575b5ff897dabd4.600x338.jpg?t=1726044336",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390500/ss_5cff4f511f6ddd75c04c8a43c9fd842a41e28a8a.600x338.jpg?t=1726044336",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390500/ss_de2d4126f66d10b2cf8caf50efebd16b2236c27f.600x338.jpg?t=1726044336",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390500/ss_8b092033af3210fbdab51521a871e85857a84e1b.600x338.jpg?t=1726044336",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390500/ss_23a58057e4e933a646ed7edf924ebf5179129277.600x338.jpg?t=1726044336"
-  ],
-  "detailed_description": "Formerly part of Arma 3 Tools, this application contains all necessary samples to get started with Arma 3 content creation. The collection covers a broad spectrum of topics, from scenario design to mod making. Along with every sample comes commented code and relevant documentation to allow you to understand how they work.<br><br>Note: These samples are meant to be used with Arma 3 Tools.<h2 class=\"bb_tag\" >The samples are separated into several categories</h2><ul class=\"bb_ul\"><li><strong>Addons</strong><br>Samples of Addons that can be packed by Addon Builder and tested in-game.<br></li><li><strong>Art</strong><br>Contains art assets as textures or icons to provide an example and basis for your own work.<br></li><li><strong>Content Licensing</strong><br>Everything about Content Licensing (i.e. mod presentation).<br></li><li><strong>Programming</strong><br>How to build extensions for Arma 3 or use SDKs for the tools.<br></li><li><strong>Scenario Design</strong><br>Everything about scenario design, game modes and the usage of systems.</li></ul>",
-  "about_the_game": "Formerly part of Arma 3 Tools, this application contains all necessary samples to get started with Arma 3 content creation. The collection covers a broad spectrum of topics, from scenario design to mod making. Along with every sample comes commented code and relevant documentation to allow you to understand how they work.<br><br>Note: These samples are meant to be used with Arma 3 Tools.<h2 class=\"bb_tag\" >The samples are separated into several categories</h2><ul class=\"bb_ul\"><li><strong>Addons</strong><br>Samples of Addons that can be packed by Addon Builder and tested in-game.<br></li><li><strong>Art</strong><br>Contains art assets as textures or icons to provide an example and basis for your own work.<br></li><li><strong>Content Licensing</strong><br>Everything about Content Licensing (i.e. mod presentation).<br></li><li><strong>Programming</strong><br>How to build extensions for Arma 3 or use SDKs for the tools.<br></li><li><strong>Scenario Design</strong><br>Everything about scenario design, game modes and the usage of systems.</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 5,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 80.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -47,26 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 80.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 5,
-      "review_percentage": 80.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 80.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

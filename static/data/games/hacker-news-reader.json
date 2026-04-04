@@ -3,8 +3,8 @@
   "name": "Hacker News Reader",
   "slug": "hacker-news-reader",
   "developer": "Gametroleum",
-  "publisher": "Gametroleum",
-  "release_date": "May 24, 2018",
+  "publisher": "",
+  "release_date": "2018-05-24",
   "price_usd": 0.0,
   "genres": [
     "Education",
@@ -19,56 +19,21 @@
   ],
   "short_description": "Hacker News Reader",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/834410/header.jpg?t=1527176848",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/834410/ss_aabb4f5fafc4abaa9390b875f50179484ba039f7.600x338.jpg?t=1527176848",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/834410/ss_e8199c8f4bc48435e557873aa82887303c9bad72.600x338.jpg?t=1527176848",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/834410/ss_d946c302601697a32e683b06a3f01d94e496969e.600x338.jpg?t=1527176848",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/834410/ss_1a98611f99f32c4dbfa468984fe867cabc9c799f.600x338.jpg?t=1527176848",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/834410/ss_8124c3f89d7cf4160321835bf100e60fd9472267.600x338.jpg?t=1527176848"
-  ],
-  "detailed_description": "Just Hacker News reader. <br>This application allows you convenient read posted links from Hacker News site.<br>You can browse stories, read content & comments in the same view panel.<br><br><strong>Hacker News is a social news website focusing on computer science and entrepreneurship. It is run by Paul Graham's investment fund and startup incubator, Y Combinator. In general, content that can be submitted is defined as \"anything that gratifies one's intellectual curiosity\".</strong><br><br><i>-- \"Hacker News\", Wikipedia, last edited on 28 February 2018, at 21:59</i>",
-  "about_the_game": "Just Hacker News reader. <br>This application allows you convenient read posted links from Hacker News site.<br>You can browse stories, read content & comments in the same view panel.<br><br><strong>Hacker News is a social news website focusing on computer science and entrepreneurship. It is run by Paul Graham's investment fund and startup incubator, Y Combinator. In general, content that can be submitted is defined as \"anything that gratifies one's intellectual curiosity\".</strong><br><br><i>-- \"Hacker News\", Wikipedia, last edited on 28 February 2018, at 21:59</i>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
-  "review_count": 28,
-  "review_positive": 21,
-  "review_percentage": 75.0,
-  "owner_estimate": 10000,
+  "screenshots": [],
+  "review_count": 29,
+  "review_positive": 0,
+  "review_percentage": 72.4,
+  "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 26,
-      "review_percentage": 69.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 29,
       "review_percentage": 72.4,
       "ccu_estimate": 0,
       "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
-      "review_count": 28,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

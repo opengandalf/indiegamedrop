@@ -3,8 +3,8 @@
   "name": "100 Hidden Cats in China",
   "slug": "100-hidden-cats-in-china",
   "developer": "ms",
-  "publisher": "ms",
-  "release_date": "Jan 25, 2024",
+  "publisher": "",
+  "release_date": "2024-01-25",
   "price_usd": 0.99,
   "genres": [
     "Adventure",
@@ -19,33 +19,15 @@
   ],
   "short_description": "Can you find all 100 Hidden Cats in China?",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745620/header.jpg?t=1718632287",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745620/ss_ed474b9ee7f0568b33cd27cdfc3cd3785efc3116.600x338.jpg?t=1718632287",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745620/ss_6033ab868f2f9c8346c348f40ddd58fd7dda3f72.600x338.jpg?t=1718632287",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745620/ss_9d0f9bbc25b1a992a992b1c5a8ad6995d3a3987e.600x338.jpg?t=1718632287",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745620/ss_249da738a9c988187f3d168a9190540336df3d1d.600x338.jpg?t=1718632287",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745620/ss_54fcb212ceb06fbad9efd6aae3fa9c0f2acbf89d.600x338.jpg?t=1718632287",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2745620/ss_177ba98002a8ef274fccbafae34970472cd007d6.600x338.jpg?t=1718632287"
-  ],
-  "detailed_description": "Can you find all 100 Hidden Cats in China?",
-  "about_the_game": "Can you find all 100 Hidden Cats in China?",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.6000000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 12,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 8.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,26 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 11,
-      "review_percentage": 9.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 12,
-      "review_percentage": 8.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 12,
       "review_percentage": 8.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

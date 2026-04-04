@@ -3,8 +3,8 @@
   "name": "Tilt Brush",
   "slug": "tilt-brush",
   "developer": "Google",
-  "publisher": "Google",
-  "release_date": "Apr 5, 2016",
+  "publisher": "",
+  "release_date": "2016-04-05",
   "price_usd": 0.0,
   "genres": [
     "Free To Play",
@@ -17,65 +17,23 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Tilt Brush lets you paint in 3D space with virtual reality. Unleash your creativity with three-dimensional brush strokes, stars, light, and even fire. Your room is your canvas. Your palette is your imagination. The possibilities are endless.",
+  "short_description": "Tilt Brush lets you paint in 3D space with virtual reality. Unleash your creativity with three-dimensional brush strokes, stars, light, and even fire. Your room is your canvas. Your palette is your im",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327140/header.jpg?t=1726856282",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327140/ss_b2ed44caf46fb4d708351e0dde5db95c9d8a9fc4.600x338.jpg?t=1726856282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327140/ss_1f7898539a580dd81642b3f4111bf5c85875fcf6.600x338.jpg?t=1726856282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327140/ss_91ec266074cb9a2f9f1718effaae4b58945c5f68.600x338.jpg?t=1726856282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327140/ss_6642b45af0bc06580ce83bf4799543ffca037a9a.600x338.jpg?t=1726856282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327140/ss_de47c5820525d28b84ba5b7286364b355f84d153.600x338.jpg?t=1726856282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327140/ss_cb54b7b72c08f1157b8ac7d1a1feb01f8f2f59d2.600x338.jpg?t=1726856282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327140/ss_6056e5df28eec47892dfe7f08fdaf683e1276c26.600x338.jpg?t=1726856282"
-  ],
-  "detailed_description": "<strong>Tilt Brush</strong> lets you paint in 3D space with virtual reality. Unleash your creativity with three-dimensional brush strokes, stars, light, and even fire. Your room is your canvas. Your palette is your imagination. The possibilities are endless.",
-  "about_the_game": "<strong>Tilt Brush</strong> lets you paint in 3D space with virtual reality. Unleash your creativity with three-dimensional brush strokes, stars, light, and even fire. Your room is your canvas. Your palette is your imagination. The possibilities are endless.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Tracked Controller Support",
-    "VR Only",
-    "VR Support",
-    "SteamVR Collectibles"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 570,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 1203,
-  "review_positive": 1125,
+  "review_positive": 0,
   "review_percentage": 93.5,
   "owner_estimate": 350000,
-  "ccu_estimate": 8,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 101,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1188,
-      "review_percentage": 94.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
+      "date": "2026-04-04",
       "review_count": 1203,
       "review_percentage": 93.5,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
-      "review_count": 1203,
-      "review_percentage": 93.5,
-      "ccu_estimate": 8,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

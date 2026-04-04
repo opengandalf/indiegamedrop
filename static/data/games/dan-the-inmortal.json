@@ -3,8 +3,8 @@
   "name": "Dan the Inmortal",
   "slug": "dan-the-inmortal",
   "developer": "Max Valentino Calderon Reyes",
-  "publisher": "Max Valentino Calderon reyes",
-  "release_date": "Aug 3, 2022",
+  "publisher": "",
+  "release_date": "2022-08-03",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -19,33 +19,15 @@
   ],
   "short_description": "Dan wants to reach the top to drink the fountain of mortality, will he be able to reach his goal?",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062830/header.jpg?t=1666988125",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062830/ss_d1fc0732c3ff7413efe0af2606b5982273d01b55.600x338.jpg?t=1666988125",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062830/ss_8e305293efd8d752db2ee5cf441f4bd4e8e68a3a.600x338.jpg?t=1666988125",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062830/ss_587b787675e5f34250044b435c1ff414c3ab06a3.600x338.jpg?t=1666988125",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062830/ss_efb15aeaa3f2099e4e57adb17a5ebde504348887.600x338.jpg?t=1666988125",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062830/ss_1b495c82a3fe6773ea5e9bfcd37f5a55e1b10b55.600x338.jpg?t=1666988125",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2062830/ss_605ea9f1b8b7e90c570a1fabe69a7cec2ca8453b.600x338.jpg?t=1666988125"
-  ],
-  "detailed_description": "High difficulty game where you will have to test your coordination to jump from platform to platform without falling, will you reach the top!?",
-  "about_the_game": "High difficulty game where you will have to test your coordination to jump from platform to platform without falling, will you reach the top!?",
-  "supported_languages": "English<strong>*</strong>, Korean<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 4,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 80.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

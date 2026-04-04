@@ -3,8 +3,8 @@
   "name": "Amazing Tictactoe",
   "slug": "amazing-tictactoe",
   "developer": "WJW06",
-  "publisher": "WJW06",
-  "release_date": "Feb 23, 2025",
+  "publisher": "",
+  "release_date": "2025-02-23",
   "price_usd": 1.99,
   "genres": [
     "Casual",
@@ -19,37 +19,15 @@
   ],
   "short_description": "In 6x6 Tic-Tac-Toe, use 4 different types of items to come up with good tactics and strategies to defeat your opponent!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394890/header.jpg?t=1774538901",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394890/ss_076ccf40c0582a039213192b7d1d8d2b9f6d0744.600x338.jpg?t=1774538901",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394890/ss_2c04b677c30636be2fd268097ac5293795b3b7c1.600x338.jpg?t=1774538901",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394890/ss_2cff49971d460b988f2662696406d119fd35396a.600x338.jpg?t=1774538901",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394890/ss_eb184f7561b2dc8ee3c7cdde73c781206bb04919.600x338.jpg?t=1774538901",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394890/ss_dcfc5904f4028e009a9276eb3eff5cd358837c40.600x338.jpg?t=1774538901"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394890/extras/38b5aae68cfce0ce0059e84b33a04b22.avif?t=1774538901\" width=128 height=128 /></span></p><h2 class=\"bb_tag\" ><strong>Amazing Tictactoe</strong></h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >This game is a casual game based on 6x6 tic-tac-toe using the mouse. You can create an environment that is advantageous to you by using 4 types of items, and you win by filling 1 line with your color.</p><p class=\"bb_paragraph\" >The effects of using the 4 items are as follows:</p><p class=\"bb_paragraph\" >- Hammer: Delete a 3x3 radius centered on the mouse</p><p class=\"bb_paragraph\" >- HandGun: Delete 5 random locations in the entire radius</p><p class=\"bb_paragraph\" >- ShotGun: Delete 3 random locations in a 3x3 radius centered on the mouse</p><p class=\"bb_paragraph\" >- WildCard: Change the designated location to your color</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3394890/extras/38b5aae68cfce0ce0059e84b33a04b22.avif?t=1774538901\" width=128 height=128 /></span></p><h2 class=\"bb_tag\" ><strong>Amazing Tictactoe</strong></h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >This game is a casual game based on 6x6 tic-tac-toe using the mouse. You can create an environment that is advantageous to you by using 4 types of items, and you win by filling 1 line with your color.</p><p class=\"bb_paragraph\" >The effects of using the 4 items are as follows:</p><p class=\"bb_paragraph\" >- Hammer: Delete a 3x3 radius centered on the mouse</p><p class=\"bb_paragraph\" >- HandGun: Delete 5 random locations in the entire radius</p><p class=\"bb_paragraph\" >- ShotGun: Delete 3 random locations in a 3x3 radius centered on the mouse</p><p class=\"bb_paragraph\" >- WildCard: Change the designated location to your color</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Shared/Split Screen PvP",
-    "Shared/Split Screen",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

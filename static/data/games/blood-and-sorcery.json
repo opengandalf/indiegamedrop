@@ -3,8 +3,8 @@
   "name": "Blood and Sorcery",
   "slug": "blood-and-sorcery",
   "developer": "Quantum12 Studios, Aydin Yousaf",
-  "publisher": "Quantum12 Studios",
-  "release_date": "Sep 15, 2022",
+  "publisher": "",
+  "release_date": "2022-09-15",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -21,32 +21,15 @@
   ],
   "short_description": "Journey through the mysterious land of Notor and find the corruption within! Fight bosses, learn abilities and become the most talented mage alive!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2114520/header.jpg?t=1663271464",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2114520/ss_9b0e6b7d17e5c56e987b787f3064358a4ed8ab6f.600x338.jpg?t=1663271464",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2114520/ss_5aee0d48110b816de1758a7c97f895a45b361db4.600x338.jpg?t=1663271464",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2114520/ss_6c6c302a4f6d6b4e7fbd211b9301bec168e410e4.600x338.jpg?t=1663271464",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2114520/ss_34288fba4572812385367acfe981b10990c84bb9.600x338.jpg?t=1663271464",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2114520/ss_b866f66fff281f13523e06f33b3df0a12ebf97a1.600x338.jpg?t=1663271464"
-  ],
-  "detailed_description": "This is an action adventure 2D platforming pixel art game, inspired by dark souls. Fight bosses and gain new abilities in order to cleanse the corruption from the land!<br />\r\n<br />\r\n- gameplay has some elements from the souls series, such as dodge rolling, stamina and mana bars as well as boss fights. <br />\r\n<br />\r\n- movement controls are like a standard 2D platformer<br />\r\n<br />\r\n- different abilities are acquired and can be used<br />\r\n<br />\r\n- game has different zones that you can progress to once you have beaten the boss of the area (similar to dark souls)",
-  "about_the_game": "This is an action adventure 2D platforming pixel art game, inspired by dark souls. Fight bosses and gain new abilities in order to cleanse the corruption from the land!<br />\r\n<br />\r\n- gameplay has some elements from the souls series, such as dodge rolling, stamina and mana bars as well as boss fights. <br />\r\n<br />\r\n- movement controls are like a standard 2D platformer<br />\r\n<br />\r\n- different abilities are acquired and can be used<br />\r\n<br />\r\n- game has different zones that you can progress to once you have beaten the boss of the area (similar to dark souls)",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Frequent Flyer",
   "slug": "frequent-flyer",
   "developer": "Coldwild Games, Vladimir Slav, Helen Nazarenko",
-  "publisher": "Coldwild Games",
-  "release_date": "Jan 20, 2017",
+  "publisher": "",
+  "release_date": "2017-01-20",
   "price_usd": 0.49,
   "genres": [
     "Action",
@@ -23,68 +23,27 @@
   ],
   "short_description": "Complete tasks and survive the oncoming enemy waves for as long as possible! Are you good enough? Are you a frequent flyer?",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/554150/header.jpg?t=1572434160",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/554150/ss_2c38f7f7033a0867615440b1308f148e215ae84d.600x338.jpg?t=1572434160",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/554150/ss_708d158d69cf09c7d02d4f3ae87c64c90e744ab3.600x338.jpg?t=1572434160",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/554150/ss_a87f6e4861f493aee1ca0757d094375d10718706.600x338.jpg?t=1572434160",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/554150/ss_89d612e8ef38acbff2ae608af45f7bb577251b53.600x338.jpg?t=1572434160",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/554150/ss_5c15338e8221c63f53da68761bf7ec4fa03991b6.600x338.jpg?t=1572434160",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/554150/ss_8afc19c10b4de372d8aa46acfa632c29ad4cbb81.600x338.jpg?t=1572434160",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/554150/ss_52bc07f6de58794127caed8cdaee5eb6c5d445c2.600x338.jpg?t=1572434160",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/554150/ss_dd9098f1ff4eb94f11b5a4ccfe5126d68593955e.600x338.jpg?t=1572434160"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >The game</h2>Frequent Flyer is a tribute to old-school shoot-em-up games with a modern twist. <br><br>You control your plane and try to survive oncoming enemy waves for as long as possible. You collect health, ammo pickups and weapon bonuses to survive longer. As time goes, new threats appear. Right now we have 10 different planes and about 10 enemies planned.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Fly 10 different unlockable planes, each with its own distinct features.<br></li><li> 10 enemies, each one has its own movement / shooting pattern<br></li><li> More than 10 weapon bonuses, unlockable as you progress further<br></li><li> 4 different game modes: missions, infinite, organized and time attack!<br></li><li> Complete more than 20 short missions, each with increasing difficulty<br></li><li> Leaderboards / Achievements<br></li><li> Full Controller Support on Windows/Linux, Partial Controller Support on OSX</li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" >The game</h2>Frequent Flyer is a tribute to old-school shoot-em-up games with a modern twist. <br><br>You control your plane and try to survive oncoming enemy waves for as long as possible. You collect health, ammo pickups and weapon bonuses to survive longer. As time goes, new threats appear. Right now we have 10 different planes and about 10 enemies planned.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Fly 10 different unlockable planes, each with its own distinct features.<br></li><li> 10 enemies, each one has its own movement / shooting pattern<br></li><li> More than 10 weapon bonuses, unlockable as you progress further<br></li><li> 4 different game modes: missions, infinite, organized and time attack!<br></li><li> Complete more than 20 short missions, each with increasing difficulty<br></li><li> Leaderboards / Achievements<br></li><li> Full Controller Support on Windows/Linux, Partial Controller Support on OSX</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Trading Cards",
-    "Partial Controller Support",
-    "Steam Cloud",
-    "Stats",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 109,
+  "screenshots": [],
   "rising_score": 0.0003,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 10.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 110,
-  "review_positive": 98,
+  "review_positive": 0,
   "review_percentage": 89.1,
   "owner_estimate": 35000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 181,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 100,
-      "review_percentage": 87.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 110,
-      "review_percentage": 89.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 110,
       "review_percentage": 89.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

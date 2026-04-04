@@ -3,8 +3,8 @@
   "name": "Pixelpart",
   "slug": "pixelpart",
   "developer": "Sören Möllers",
-  "publisher": "Sören Möllers",
-  "release_date": "Jan 4, 2022",
+  "publisher": "",
+  "release_date": "2022-01-04",
   "price_usd": 24.99,
   "genres": [
     "Animation & Modeling",
@@ -22,32 +22,11 @@
     "windows",
     "linux"
   ],
-  "short_description": "Visual effects for your game! Design animated effects in this particle-based editor and play them in your games. Use the game engine plugins or export effects to sprite sheets, image sequences and videos.",
+  "short_description": "Visual effects for your game! Design animated effects in this particle-based editor and play them in your games. Use the game engine plugins or export effects to sprite sheets, image sequences and vid",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734820/header.jpg?t=1767347154",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734820/8ebd0beacca35832f1dabf6a0648624b4983be5e/ss_8ebd0beacca35832f1dabf6a0648624b4983be5e.600x338.jpg?t=1767347154",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734820/7bf1269a532536382b2f117aa6216c1e2af503e1/ss_7bf1269a532536382b2f117aa6216c1e2af503e1.600x338.jpg?t=1767347154",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734820/29b494fd3c7b0d12d88113c2ae7774526d9dd135/ss_29b494fd3c7b0d12d88113c2ae7774526d9dd135.600x338.jpg?t=1767347154",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734820/d43caa15d5678fd4045fd89df9ea04e8072e6723/ss_d43caa15d5678fd4045fd89df9ea04e8072e6723.600x338.jpg?t=1767347154",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734820/2305742bd4c5609c457701a8c4e222c3a9308e38/ss_2305742bd4c5609c457701a8c4e222c3a9308e38.600x338.jpg?t=1767347154",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734820/c66348f681238b7e4741367565550f7afb2640fa/ss_c66348f681238b7e4741367565550f7afb2640fa.600x338.jpg?t=1767347154"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Create visual effects in this particle-based editor! Import the effects into your favorite game engine and fill your game world with colorful animations using the <strong>runtime plugins</strong> or by rendering them to <strong>sprite sheets</strong>, <strong>image sequences</strong> and <strong>videos</strong>.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734820/extras/b1ac289f7c2adc8f4a5f70a1e8201d8d.webp?t=1767347154\" width=200 height=50 /></span></p><p class=\"bb_paragraph\" >Design 2D and 3D visual effects in a matter of minutes using Pixelpart's intuitive particle-based workflow. Pixelpart offers a variety of features to bring your effects to life like force fields, colliders, keyframe animations, motion paths and custom materials.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734820/extras/78d045658094b0f836a7f500131382a6.webp?t=1767347154\" width=200 height=50 /></span></p><p class=\"bb_paragraph\" >Using Pixelpart's game engine plugins, directly import effects into the engine and control them via scripts. You can download plugins for these game engines on the Pixelpart website: </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Unity Engine (Unity 2021.3+)</strong> </p></li><li><p class=\"bb_paragraph\" ><strong>Godot (Godot 4.3+)</strong> </p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734820/extras/8199a149f353ddfe29fa34a63e10abca.webp?t=1767347154\" width=200 height=50 /></span></p><p class=\"bb_paragraph\" >You can export your effects to various formats: </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Sprite sheets</strong> </p></li><li><p class=\"bb_paragraph\" ><strong>Image sequences and GIFs</strong> </p></li><li><p class=\"bb_paragraph\" ><strong>Videos</strong> </p></li></ul>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Create visual effects in this particle-based editor! Import the effects into your favorite game engine and fill your game world with colorful animations using the <strong>runtime plugins</strong> or by rendering them to <strong>sprite sheets</strong>, <strong>image sequences</strong> and <strong>videos</strong>.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734820/extras/b1ac289f7c2adc8f4a5f70a1e8201d8d.webp?t=1767347154\" width=200 height=50 /></span></p><p class=\"bb_paragraph\" >Design 2D and 3D visual effects in a matter of minutes using Pixelpart's intuitive particle-based workflow. Pixelpart offers a variety of features to bring your effects to life like force fields, colliders, keyframe animations, motion paths and custom materials.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734820/extras/78d045658094b0f836a7f500131382a6.webp?t=1767347154\" width=200 height=50 /></span></p><p class=\"bb_paragraph\" >Using Pixelpart's game engine plugins, directly import effects into the engine and control them via scripts. You can download plugins for these game engines on the Pixelpart website: </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Unity Engine (Unity 2021.3+)</strong> </p></li><li><p class=\"bb_paragraph\" ><strong>Godot (Godot 4.3+)</strong> </p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734820/extras/8199a149f353ddfe29fa34a63e10abca.webp?t=1767347154\" width=200 height=50 /></span></p><p class=\"bb_paragraph\" >You can export your effects to various formats: </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Sprite sheets</strong> </p></li><li><p class=\"bb_paragraph\" ><strong>Image sequences and GIFs</strong> </p></li><li><p class=\"bb_paragraph\" ><strong>Videos</strong> </p></li></ul>",
-  "supported_languages": "English, German, Spanish - Spain, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 18,
-  "review_positive": 18,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +34,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 17,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 18,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Dave Dave Dave",
   "slug": "dave-dave-dave",
   "developer": "axilirate",
-  "publisher": "axilirate",
-  "release_date": "Jan 15, 2022",
+  "publisher": "",
+  "release_date": "2022-01-15",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -22,33 +22,15 @@
   ],
   "short_description": "Dave Dave Dave, is a retro style hardcore platforming game set in an unknown world for you to explore with a single goal, reaching freedom.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1625760/header.jpg?t=1680573025",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1625760/ss_cf3cf5dab6245e6aaf1a697f23a17e7692fdfb8e.600x338.jpg?t=1680573025",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1625760/ss_4438cff31003605c0830235aef9231ef49bd0674.600x338.jpg?t=1680573025",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1625760/ss_196f414653ed9960a419be46ca32141a15cdf3bc.600x338.jpg?t=1680573025",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1625760/ss_720d37c47e7e139e3627b9d69b3d9df38f08108d.600x338.jpg?t=1680573025",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1625760/ss_bada661259b90aded325ffc8d9ef5b3800cdb0c3.600x338.jpg?t=1680573025"
-  ],
-  "detailed_description": "Dave Dave Dave tries to combine Metroidvania with a Platformer, the path is non linier and you most likely will find yourself lost.<br>There is no map so you will have to rely on you memory.<br>A world filled with hidden (and not so hidden) diamonds you have to collect, are you up for the challenge?<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1625760/extras/976ecd20b8024a6168fcec41ee558968.avif?t=1680573025\" width=606 height=535 /></span><br><br><strong>Game Features</strong>:<br><br><ul class=\"bb_ul\"><li> a large world to explore<br></li><li> minimalistic retro graphics<br></li><li> simple controls<br></li><li> no easy mode<br></li><li> hidden secrets<br></li><li> built in timer with death counter<br></li><li> lots of death in the process<br></li><li> modding support with godot</li></ul>",
-  "about_the_game": "Dave Dave Dave tries to combine Metroidvania with a Platformer, the path is non linier and you most likely will find yourself lost.<br>There is no map so you will have to rely on you memory.<br>A world filled with hidden (and not so hidden) diamonds you have to collect, are you up for the challenge?<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1625760/extras/976ecd20b8024a6168fcec41ee558968.avif?t=1680573025\" width=606 height=535 /></span><br><br><strong>Game Features</strong>:<br><br><ul class=\"bb_ul\"><li> a large world to explore<br></li><li> minimalistic retro graphics<br></li><li> simple controls<br></li><li> no easy mode<br></li><li> hidden secrets<br></li><li> built in timer with death counter<br></li><li> lots of death in the process<br></li><li> modding support with godot</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 4.0,
+  "review_velocity_7d": 1.35,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 27,
-  "review_positive": 23,
+  "review_positive": 0,
   "review_percentage": 85.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +38,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 23,
-      "review_percentage": 82.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 27,
       "review_percentage": 85.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

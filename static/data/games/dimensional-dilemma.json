@@ -3,8 +3,8 @@
   "name": "Dimensional Dilemma",
   "slug": "dimensional-dilemma",
   "developer": "Anki Games",
-  "publisher": "Anki Games",
-  "release_date": "Nov 29, 2024",
+  "publisher": "",
+  "release_date": "2024-11-29",
   "price_usd": 1.99,
   "genres": [
     "Indie"
@@ -17,32 +17,15 @@
   ],
   "short_description": "A first-person physics-based puzzle game reminiscent of Portal. Manipulate the sizes of different objects to forge a path back to your ship.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3338460/header.jpg?t=1732900754",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3338460/ss_e1fbf61d478bdcd6e240ff39c925416df4acd695.600x338.jpg?t=1732900754",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3338460/ss_5ce731e44f634634b4a3bafe5999e3222aebf95d.600x338.jpg?t=1732900754",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3338460/ss_9a2626cb46b389590f1fc5b788c0bce479f27547.600x338.jpg?t=1732900754",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3338460/ss_f9bf98d63fb18f618b35a16d0c677d036e536ba3.600x338.jpg?t=1732900754",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3338460/ss_6ed518fcb08369fa9f71e3a99ce5be6658618f8c.600x338.jpg?t=1732900754"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >A first-person physics-based puzzle game reminiscent of Portal. Use the dilator to manipulate the sizes of objects, then rearrange them to create a path through the maze of obstacles. Explore the surroundings and find new passages to conquer a large variety of puzzles.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >FEATURES:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >30+ puzzles</p></li><li><p class=\"bb_paragraph\" >Dynamic hinting system </p></li><li><p class=\"bb_paragraph\" >Interconnected map to explore</p></li></ul>",
-  "about_the_game": "<p class=\"bb_paragraph\" >A first-person physics-based puzzle game reminiscent of Portal. Use the dilator to manipulate the sizes of objects, then rearrange them to create a path through the maze of obstacles. Explore the surroundings and find new passages to conquer a large variety of puzzles.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >FEATURES:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >30+ puzzles</p></li><li><p class=\"bb_paragraph\" >Dynamic hinting system </p></li><li><p class=\"bb_paragraph\" >Interconnected map to explore</p></li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 5,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

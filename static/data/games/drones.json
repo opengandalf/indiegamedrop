@@ -3,8 +3,8 @@
   "name": "Drones",
   "slug": "drones",
   "developer": "Sharksauce",
-  "publisher": "Sharksauce",
-  "release_date": "Nov 14, 2019",
+  "publisher": "",
+  "release_date": "2019-11-14",
   "price_usd": 7.99,
   "genres": [
     "Action",
@@ -19,39 +19,15 @@
   ],
   "short_description": "Blast your way through hordes of enemies in the progressive wave mode to defeat the overseer, or test your skills with the endless survival mode to become the greatest warrior on the leaderboard.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100560/header.jpg?t=1573797641",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100560/ss_3c668f180a929e7720c89aa8eed05c6546cc95a9.600x338.jpg?t=1573797641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100560/ss_622aca9d6b1e6d90150a0cacbb3c056129c758d8.600x338.jpg?t=1573797641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100560/ss_6d370af90bcd49c7cedda2eebfcd2b63832e9c37.600x338.jpg?t=1573797641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100560/ss_41a705fb21910384bb0c60e21265a85095f905ed.600x338.jpg?t=1573797641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100560/ss_f2ead5547d95f6a56074a5765b83b9791885e3db.600x338.jpg?t=1573797641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100560/ss_a7d8ba19f3ba91c6a1d5b604731d66d51025d91d.600x338.jpg?t=1573797641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100560/ss_00b1ac16c2edd6fd0fe45ee795b4a3d1d1397ff8.600x338.jpg?t=1573797641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100560/ss_164e5576ad3e69aab7ed241b9d635e925c196222.600x338.jpg?t=1573797641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100560/ss_cdd53789fda03ca50f1cf818b9de853e96fbf271.600x338.jpg?t=1573797641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100560/ss_f18c323a09a7527043acbdc577fb46087060aea0.600x338.jpg?t=1573797641"
-  ],
-  "detailed_description": "<strong>Can you defeat the overseer and live to tell the tale? </strong><br><br>Drones is an action packed, fast paced, arcade style game in which you must do whatever it takes to stay alive while facing hordes of drones which are hard set on preventing you from surviving. Dodge grenade launching sentries and patrolling probe mines while blasting open doors and disrupting shield generators. Beware of the wardens though, as each one has it's own special ability hiding in it's circuits - none of which are very forgiving. You'll die a few times, but each time you can upgrade you character permanently to make the next attempt a little easier - and those who stay vigilant may one day defeat the overseer.",
-  "about_the_game": "<strong>Can you defeat the overseer and live to tell the tale? </strong><br><br>Drones is an action packed, fast paced, arcade style game in which you must do whatever it takes to stay alive while facing hordes of drones which are hard set on preventing you from surviving. Dodge grenade launching sentries and patrolling probe mines while blasting open doors and disrupting shield generators. Beware of the wardens though, as each one has it's own special ability hiding in it's circuits - none of which are very forgiving. You'll die a few times, but each time you can upgrade you character permanently to make the next attempt a little easier - and those who stay vigilant may one day defeat the overseer.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

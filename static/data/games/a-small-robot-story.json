@@ -3,8 +3,8 @@
   "name": "A Small Robot Story",
   "slug": "a-small-robot-story",
   "developer": "bc likes you",
-  "publisher": "MAGIC Spell Studios",
-  "release_date": "Dec 19, 2017",
+  "publisher": "",
+  "release_date": "2017-12-19",
   "price_usd": 0.0,
   "genres": [
     "Adventure"
@@ -15,39 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "A Small Robot Story is an adventure-platformer where you play as Rae, a small robot who activates and has no idea why. So you need to set out and find out what's up! With a heavy emphasis on story, A Small Robot Story will take you through forests, factories, caves, laboratories, and more.",
+  "short_description": "A Small Robot Story is an adventure-platformer where you play as Rae, a small robot who activates and has no idea why. So you need to set out and find out what's up! With a heavy emphasis on story, A ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753440/header.jpg?t=1624548271",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753440/ss_af4862a66074ce5eaf25aa67eab91182ccd7896a.600x338.jpg?t=1624548271",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753440/ss_93f98a5863eec25cab5613c01c090666411861e6.600x338.jpg?t=1624548271",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753440/ss_a850c7c92bdc4d9656a057556841831e1148c38d.600x338.jpg?t=1624548271",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753440/ss_287a6c204c93fa19141863822427c6b224564987.600x338.jpg?t=1624548271",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753440/ss_bc4f753bfb9fd588dc41399da772e5278e454afd.600x338.jpg?t=1624548271",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753440/ss_73c867de9c7a52101827c3517365f24cb25e668f.600x338.jpg?t=1624548271",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753440/ss_6ef29dc0132b17e93490cde88c4b8dd4105fb10f.600x338.jpg?t=1624548271",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753440/ss_4933aab8fa8bd1476149d9bdeb6af7e8c68f25c4.600x338.jpg?t=1624548271",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753440/ss_76622d936b5d01ceea016f033a0282269e08fcf4.600x338.jpg?t=1624548271"
-  ],
-  "detailed_description": "A Small Robot Story is an adventure-platformer where you play as Rae, a small robot who activates and has no idea why. So you need to set out and find out what's up! <br><br>With a heavy emphasis on story, A Small Robot Story will take you through forests, factories, caves, laboratories, and more as you track down and find the source of your sudden activation. <br><br><ul class=\"bb_ul\"><li>Power-ups<br></li><li>NES-styled challenging gameplay <br></li><li>Detailed story delivered through rpg-style dialogues and cut scenes<br></li><li>Gamepad support<br></li><li>Original chiptune soundtrack</li></ul>",
-  "about_the_game": "A Small Robot Story is an adventure-platformer where you play as Rae, a small robot who activates and has no idea why. So you need to set out and find out what's up! <br><br>With a heavy emphasis on story, A Small Robot Story will take you through forests, factories, caves, laboratories, and more as you track down and find the source of your sudden activation. <br><br><ul class=\"bb_ul\"><li>Power-ups<br></li><li>NES-styled challenging gameplay <br></li><li>Detailed story delivered through rpg-style dialogues and cut scenes<br></li><li>Gamepad support<br></li><li>Original chiptune soundtrack</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 2.45,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 49,
-  "review_positive": 43,
+  "review_positive": 0,
   "review_percentage": 87.8,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -55,26 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 44,
-      "review_percentage": 88.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 49,
-      "review_percentage": 87.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 49,
       "review_percentage": 87.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

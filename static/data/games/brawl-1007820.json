@@ -3,8 +3,8 @@
   "name": "Brawl",
   "slug": "brawl-1007820",
   "developer": "Milan Toth",
-  "publisher": "Milan Toth",
-  "release_date": "Jan 20, 2019",
+  "publisher": "",
+  "release_date": "2019-01-20",
   "price_usd": 0.0,
   "genres": [
     "Action"
@@ -18,32 +18,15 @@
   ],
   "short_description": "Mass Brawl!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1007820/header.jpg?t=1547971717",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1007820/ss_d7478de22622e6a6b709800ad6897d2a3471aeba.600x338.jpg?t=1547971717",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1007820/ss_7182771d72fb3f551d51d4779141e88522647300.600x338.jpg?t=1547971717",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1007820/ss_46ac238bce8427d863b1874981c4a916b11c317f.600x338.jpg?t=1547971717",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1007820/ss_7c037b35a4afbdf50c6edbc57e22b9c09e8fa7a3.600x338.jpg?t=1547971717",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1007820/ss_78b5df202fde4bca94ca954d8cf1e50756752690.600x338.jpg?t=1547971717"
-  ],
-  "detailed_description": "Brawl is a game about intense action with super realistic physics. You have to lead your gang to victory in a crime-infected town.<br><br>You have to improve your fighting skills continuously, learn to block attacks, punch or kick with the correct timing. Watch your health and energy state. You can pick up fainted opponents/friends and use guns.<br><br>Features :<br><br><ul class=\"bb_ul\"><li>Intense action<br></li><li>Fluid animation<br></li><li>6 different scenes<br></li><li>Responsive controls<br></li><li>Dozens of buddies and enemies</li></ul><br>The last 2 levels are donation-dependent. Please support open-source game development & tutorials with a little donation. Donation works only within the steam overlay. <br><br>Brawl is open source. If you want to learn multi-platform game development or just don't want to donate check the game's repository out :<br>",
-  "about_the_game": "Brawl is a game about intense action with super realistic physics. You have to lead your gang to victory in a crime-infected town.<br><br>You have to improve your fighting skills continuously, learn to block attacks, punch or kick with the correct timing. Watch your health and energy state. You can pick up fainted opponents/friends and use guns.<br><br>Features :<br><br><ul class=\"bb_ul\"><li>Intense action<br></li><li>Fluid animation<br></li><li>6 different scenes<br></li><li>Responsive controls<br></li><li>Dozens of buddies and enemies</li></ul><br>The last 2 levels are donation-dependent. Please support open-source game development & tutorials with a little donation. Donation works only within the steam overlay. <br><br>Brawl is open source. If you want to learn multi-platform game development or just don't want to donate check the game's repository out :<br>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "In-App Purchases"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.6500000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 33,
-  "review_positive": 24,
+  "review_positive": 0,
   "review_percentage": 72.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +34,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 30,
-      "review_percentage": 73.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 33,
       "review_percentage": 72.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

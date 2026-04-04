@@ -3,8 +3,8 @@
   "name": "Magicube",
   "slug": "magicube",
   "developer": "nebu soku",
-  "publisher": "nebu soku",
-  "release_date": "Jun 29, 2023",
+  "publisher": "",
+  "release_date": "2023-06-29",
   "price_usd": 2.99,
   "genres": [
     "Indie"
@@ -17,55 +17,27 @@
   ],
   "short_description": "A magical puzzle platformer made with PICO-8. Be thinky to get the legendary treasure.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216120/header.jpg?t=1692495762",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216120/ss_9e67166e02591e698b9a1ef1c79b2756785204d8.600x338.jpg?t=1692495762",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216120/ss_7b2abb9dae0315038f5f2d79888d024a97a0367b.600x338.jpg?t=1692495762",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216120/ss_cf94724f2e6603870f210488c9e598c621864dd3.600x338.jpg?t=1692495762",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216120/ss_1b8f85301513ff9401f93a5729ee007f7831684a.600x338.jpg?t=1692495762",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216120/ss_243fbfa7db71d6190fd1ea4118bf2272164faa01.600x338.jpg?t=1692495762",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216120/ss_f3235ff647121e5f14e4e15da4b17bbfcc7276c8.600x338.jpg?t=1692495762"
-  ],
-  "detailed_description": "A magical puzzle platformer with 50 thinky levels. <br>No jumps without thinking.<br><br>Game options follow the PICO-8 specifications:<br><ul class=\"bb_ul\"><li><strong>Sound</strong> : on / off<br></li><li><strong>Window / Fullscreen</strong><br></li><li><strong>Controls</strong> (no reassignment) <br><br><strong>Move</strong> : [arrowkeys L / R]<br><strong>Jump</strong> : [Z]<br><strong>Chant</strong> : [X] (with arrowkeys to cast)<br><strong>Undo</strong> : [arrowkey down]<br><strong>Restart</strong> : [hold arrowkey up]<br><strong>Menu</strong> : [Enter]</li></ul>",
-  "about_the_game": "A magical puzzle platformer with 50 thinky levels. <br>No jumps without thinking.<br><br>Game options follow the PICO-8 specifications:<br><ul class=\"bb_ul\"><li><strong>Sound</strong> : on / off<br></li><li><strong>Window / Fullscreen</strong><br></li><li><strong>Controls</strong> (no reassignment) <br><br><strong>Move</strong> : [arrowkeys L / R]<br><strong>Jump</strong> : [Z]<br><strong>Chant</strong> : [X] (with arrowkeys to cast)<br><strong>Undo</strong> : [arrowkey down]<br><strong>Restart</strong> : [hold arrowkey up]<br><strong>Menu</strong> : [Enter]</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 187,
+  "screenshots": [],
   "rising_score": 0.0009,
   "gem_score": 0.6451,
   "hype_score": 0.0,
-  "review_velocity_7d": 33.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 193,
-  "review_positive": 191,
+  "review_positive": 0,
   "review_percentage": 99.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "rising",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 160,
-      "review_percentage": 98.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 193,
       "review_percentage": 99.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Bot Maker For Discord",
   "slug": "bot-maker-for-discord",
   "developer": "Rat",
-  "publisher": "Rat",
-  "release_date": "Oct 2, 2023",
+  "publisher": "",
+  "release_date": "2023-10-02",
   "price_usd": 5.84,
   "genres": [
     "Utilities",
@@ -19,38 +19,15 @@
   ],
   "short_description": "The most complete & easiest to use Discord bot maker there is. Surprisingly also good for killing time. Properly maintained, up-to-date featureset, goodies sprinkled everywhere.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592170/header.jpg?t=1755890253",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592170/c4f7c325113e2fe94e36a1eb2c0f7f7e4a9c66bc/ss_c4f7c325113e2fe94e36a1eb2c0f7f7e4a9c66bc.600x338.jpg?t=1755890253",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592170/0c16fe879bc790f941d4cf149662a3f3a8a04263/ss_0c16fe879bc790f941d4cf149662a3f3a8a04263.600x338.jpg?t=1755890253",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592170/afcabab568fdb6c068a50a4c0b856b976a7f3bfd/ss_afcabab568fdb6c068a50a4c0b856b976a7f3bfd.600x338.jpg?t=1755890253",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592170/9bfd657c69735a604a062548af912e215db34097/ss_9bfd657c69735a604a062548af912e215db34097.600x338.jpg?t=1755890253",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592170/72b7ee7125cf41fbcc4027f06e2f29600691e1b3/ss_72b7ee7125cf41fbcc4027f06e2f29600691e1b3.600x338.jpg?t=1755890253",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592170/1ebc1729c6f112869e9b6ac21025686812e2807f/ss_1ebc1729c6f112869e9b6ac21025686812e2807f.600x338.jpg?t=1755890253",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592170/f15995577fd4ce12f9296c079762884acfc569a9/ss_f15995577fd4ce12f9296c079762884acfc569a9.600x338.jpg?t=1755890253",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592170/dc66749b415761d461bd50cb30669e66b290320b/ss_dc66749b415761d461bd50cb30669e66b290320b.600x338.jpg?t=1755890253"
-  ],
-  "detailed_description": "<h1>Extendable</h1><p><p class=\"bb_paragraph\" >You can extend Bot Maker for Discord with community-made commands, events, actions, automations & more via Steam Workshop.</p></p><br><h1>Our Promise (futureproofing)</h1><p><p class=\"bb_paragraph\" >Bot Maker for Discord is an indie app in constant development.</p><p class=\"bb_paragraph\" >Although this app does not have any subscriptions (and therefore our \"business\" model can be deemed \"unreliable\"), we're never going to:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Paywall features or updates (DLCs)</p></li><li><p class=\"bb_paragraph\" >Quit development without prior notice</p></li><li><p class=\"bb_paragraph\" >Turn a blind eye to the community's requests</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Information such as your token does not leave your computer except for when it goes to Discord. You have full control of your data and your bot as we do not get any access to it.</p></p><br><h1>About the Software</h1><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Note</strong> - I'll refer to this as BMD (<u>B</u>ot <u>M</u>aker for <u>D</u>iscord) to keep things simple </p></li></ul><h2 class=\"bb_tag\" >How it works</h2><p class=\"bb_paragraph\" >Everything's simpler than you think - the base interface actually boils down to three main sections: Your commands, the selected command's information and the things that will happen when your command runs. If you've ever used \"Discord Bot Maker\" (unaffiliated), you'll find this familiar.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592170/extras/56e66ad78975d51cbb30c6ce00efc177.avif?t=1755890253\" width=842 height=595 /></span></p><p class=\"bb_paragraph\" >In short, you have a list of commands and each command has a list of actions.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Why this system?</h2><p class=\"bb_paragraph\" >This uses an one-directional system. Everything runs in one direction: downwards. Your actions run in the same order as you're placing them. </p><p class=\"bb_paragraph\" >To prevent limitations, you can change the order in which actions run while they're running via jumping to actions (or skipping, or stopping, etc.)</p><p class=\"bb_paragraph\" >Actions can be nested and they can escape nesting, adding to the versatility.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >What are actions?</h2><p class=\"bb_paragraph\" >Hmm.. well, imagine a puzzle: you have a bunch of pieces, each one unique from one another and you have to get each piece in order to get the end result.</p><p class=\"bb_paragraph\" >Actions are things that do a single task, such as sending a message, that can be pieced together to create complex systems (commands or events). </p><p class=\"bb_paragraph\" >If you didn't yet get the hang of it, these are actions in their full glory:</p><p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592170/extras/794b08b54f015dcd64efe002503b6f6c.avif?t=1755890253\" width=565 height=605 /></span></p><p class=\"bb_paragraph\" >In a command, those actions would look like this:</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592170/extras/a4ac44c1e86c4bfa4cfa5f523a1100cf.avif?t=1755890253\" width=637 height=636 /></span></p><h2 class=\"bb_tag\" > </h2><p class=\"bb_paragraph\" >If you still don't get it, there's a better explanation out there - click the \"View The Manual\" button to the top right of this paragraph. </p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >What can this app do?</h2><p class=\"bb_paragraph\" >A lot, actually!</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Create Slash, User and Message commands</p></li><li><p class=\"bb_paragraph\" >Send messages containing Components V2</p></li><li><p class=\"bb_paragraph\" >Back up your bot to Steam Cloud</p></li><li><p class=\"bb_paragraph\" >Get JSON from WebAPIs</p></li><li><p class=\"bb_paragraph\" >Upload & get commands from Steam Workshop</p></li><li><p class=\"bb_paragraph\" >Edit Images</p></li><li><p class=\"bb_paragraph\" >Message Users</p></li><li><p class=\"bb_paragraph\" >And about anything you could imagine!</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Special features</h2><p class=\"bb_paragraph\" >ActionPalette - search your actions, commands & shortcuts!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592170/extras/8b4f16ba89c08c7acaa2749e91932e50.avif?t=1755890253\" width=715 height=350 /></span></p><p class=\"bb_paragraph\" >Workshop - share your creations with the world!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592170/extras/94ef7381f3cabfb9e73cb4f21f7ade53.avif?t=1755890253\" width=637 height=490 /></span></p><p class=\"bb_paragraph\" >& more!</p><h2 class=\"bb_tag\" >Attribution</h2><p class=\"bb_paragraph\" ><strong>Thanks to Icons8 for their design software and icons!</strong></p><p class=\"bb_paragraph\" ><strong>Special thanks to Iconduck for their icons 💗</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Art assets made with Lunacy by Icons8</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>The developer of this app and this app are not affiliated or associated with Discord and any mentioned applications or companies (Iconduck, Icons8, Lunacy, Discord Bot Maker).</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >* Support is not guaranteed. We will usually answer within a few moments (or hours depending on the time) regardless.</p><p class=\"bb_paragraph\" >* Translations don't cover the entirety of the app's interface.<strong> </strong>Actions are not translated!</p>",
-  "about_the_game": "<ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Note</strong> - I'll refer to this as BMD (<u>B</u>ot <u>M</u>aker for <u>D</u>iscord) to keep things simple </p></li></ul><h2 class=\"bb_tag\" >How it works</h2><p class=\"bb_paragraph\" >Everything's simpler than you think - the base interface actually boils down to three main sections: Your commands, the selected command's information and the things that will happen when your command runs. If you've ever used \"Discord Bot Maker\" (unaffiliated), you'll find this familiar.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592170/extras/56e66ad78975d51cbb30c6ce00efc177.avif?t=1755890253\" width=842 height=595 /></span></p><p class=\"bb_paragraph\" >In short, you have a list of commands and each command has a list of actions.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Why this system?</h2><p class=\"bb_paragraph\" >This uses an one-directional system. Everything runs in one direction: downwards. Your actions run in the same order as you're placing them. </p><p class=\"bb_paragraph\" >To prevent limitations, you can change the order in which actions run while they're running via jumping to actions (or skipping, or stopping, etc.)</p><p class=\"bb_paragraph\" >Actions can be nested and they can escape nesting, adding to the versatility.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >What are actions?</h2><p class=\"bb_paragraph\" >Hmm.. well, imagine a puzzle: you have a bunch of pieces, each one unique from one another and you have to get each piece in order to get the end result.</p><p class=\"bb_paragraph\" >Actions are things that do a single task, such as sending a message, that can be pieced together to create complex systems (commands or events). </p><p class=\"bb_paragraph\" >If you didn't yet get the hang of it, these are actions in their full glory:</p><p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592170/extras/794b08b54f015dcd64efe002503b6f6c.avif?t=1755890253\" width=565 height=605 /></span></p><p class=\"bb_paragraph\" >In a command, those actions would look like this:</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592170/extras/a4ac44c1e86c4bfa4cfa5f523a1100cf.avif?t=1755890253\" width=637 height=636 /></span></p><h2 class=\"bb_tag\" > </h2><p class=\"bb_paragraph\" >If you still don't get it, there's a better explanation out there - click the \"View The Manual\" button to the top right of this paragraph. </p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >What can this app do?</h2><p class=\"bb_paragraph\" >A lot, actually!</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Create Slash, User and Message commands</p></li><li><p class=\"bb_paragraph\" >Send messages containing Components V2</p></li><li><p class=\"bb_paragraph\" >Back up your bot to Steam Cloud</p></li><li><p class=\"bb_paragraph\" >Get JSON from WebAPIs</p></li><li><p class=\"bb_paragraph\" >Upload & get commands from Steam Workshop</p></li><li><p class=\"bb_paragraph\" >Edit Images</p></li><li><p class=\"bb_paragraph\" >Message Users</p></li><li><p class=\"bb_paragraph\" >And about anything you could imagine!</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Special features</h2><p class=\"bb_paragraph\" >ActionPalette - search your actions, commands & shortcuts!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592170/extras/8b4f16ba89c08c7acaa2749e91932e50.avif?t=1755890253\" width=715 height=350 /></span></p><p class=\"bb_paragraph\" >Workshop - share your creations with the world!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2592170/extras/94ef7381f3cabfb9e73cb4f21f7ade53.avif?t=1755890253\" width=637 height=490 /></span></p><p class=\"bb_paragraph\" >& more!</p><h2 class=\"bb_tag\" >Attribution</h2><p class=\"bb_paragraph\" ><strong>Thanks to Icons8 for their design software and icons!</strong></p><p class=\"bb_paragraph\" ><strong>Special thanks to Iconduck for their icons 💗</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Art assets made with Lunacy by Icons8</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>The developer of this app and this app are not affiliated or associated with Discord and any mentioned applications or companies (Iconduck, Icons8, Lunacy, Discord Bot Maker).</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >* Support is not guaranteed. We will usually answer within a few moments (or hours depending on the time) regardless.</p><p class=\"bb_paragraph\" >* Translations don't cover the entirety of the app's interface.<strong> </strong>Actions are not translated!</p>",
-  "supported_languages": "English, French, German, Spanish - Spain, Portuguese - Portugal, Romanian, Russian, Spanish - Latin America, Turkish",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Achievements",
-    "Steam Workshop",
-    "Steam Cloud",
-    "Includes level editor",
-    "HDR available"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 104,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 5.550000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 111,
-  "review_positive": 104,
+  "review_positive": 0,
   "review_percentage": 93.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 89,
-      "review_percentage": 94.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 111,
       "review_percentage": 93.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Code Surf",
   "slug": "code-surf",
   "developer": "Victdyna",
-  "publisher": "Victdyna",
-  "release_date": "Aug 30, 2024",
+  "publisher": "",
+  "release_date": "2024-08-30",
   "price_usd": 4.99,
   "genres": [
     "Casual"
@@ -17,35 +17,15 @@
   ],
   "short_description": "This is a game about speed. Strive for the fastest time on the different maps. Open Crates for new melees to grind new personal best with.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3152170/header.jpg?t=1725019793",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3152170/ss_1ed5a962d1bc1afa00b114e5d7cb9c75847cb48c.600x338.jpg?t=1725019793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3152170/ss_7a4ac656c482b821bf10b88c87a3c91bd84a909f.600x338.jpg?t=1725019793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3152170/ss_65daa23c589fe8d88c9167a31d54f42c2079a41f.600x338.jpg?t=1725019793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3152170/ss_30eb0cc773a9c4f8832b832c5ea73e0c2e58e7e6.600x338.jpg?t=1725019793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3152170/ss_e3595fb93ffb732519a1f84742c47d4b35c74271.600x338.jpg?t=1725019793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3152170/ss_9b08e6e67c9b49ce60abb93262d290a5fb049a7d.600x338.jpg?t=1725019793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3152170/ss_73dacc03411dc27d19879b3645a076007fbe0954.600x338.jpg?t=1725019793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3152170/ss_d950393a02afc4b69b05eb952ae4230ffdc1f593.600x338.jpg?t=1725019793"
-  ],
-  "detailed_description": "In this game you battle with yourself trying to beat your own high score. Using different types of ramps to traverse the map you must complete the course within a time limit giving you a score. The goal for this game is to get the best score you can possible. Beating a level grants you Exp which allows you to level up and get coins. With coins you can buy loot crates which give you a random knife out the box. Some Knives are more rare than others. <br />\r\n<br />\r\nOn one map so far you are able to play different game modes. Play the default mode, extended or dimension switch. Challenge yourself to get the best time possible within the maps available.",
-  "about_the_game": "In this game you battle with yourself trying to beat your own high score. Using different types of ramps to traverse the map you must complete the course within a time limit giving you a score. The goal for this game is to get the best score you can possible. Beating a level grants you Exp which allows you to level up and get coins. With coins you can buy loot crates which give you a random knife out the box. Some Knives are more rare than others. <br />\r\n<br />\r\nOn one map so far you are able to play different game modes. Play the default mode, extended or dimension switch. Challenge yourself to get the best time possible within the maps available.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

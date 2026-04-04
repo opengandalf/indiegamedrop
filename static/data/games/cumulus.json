@@ -3,8 +3,8 @@
   "name": "Cumulus",
   "slug": "cumulus",
   "developer": "Kuro Star Light, Twisted Pixels",
-  "publisher": "Kuro Star Light",
-  "release_date": "Dec 17, 2019",
+  "publisher": "",
+  "release_date": "2019-12-17",
   "price_usd": 4.99,
   "genres": [
     "Casual",
@@ -19,35 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Cumulus is a 2D puzzle Tetromino game with a twist. Drop tetromino blocks to fill in concentric circles. Once filled the ring will disappear, the higher level rings will fall down and you will gain points! Get as many points as you can!",
+  "short_description": "Cumulus is a 2D puzzle Tetromino game with a twist. Drop tetromino blocks to fill in concentric circles. Once filled the ring will disappear, the higher level rings will fall down and you will gain po",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084560/header.jpg?t=1576598047",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084560/ss_cfc1fafae1c2f7cd4c60a315c1e6d64fff46bfec.600x338.jpg?t=1576598047",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084560/ss_2fa665977579973b8f2ae3073e4f1b12047b99b4.600x338.jpg?t=1576598047",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084560/ss_0368fcea5957170a099d82442351b456009d752c.600x338.jpg?t=1576598047",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084560/ss_4a8935e477f9931679b501672ebb72132aecfe74.600x338.jpg?t=1576598047",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1084560/ss_8505549f3c75d88e9a23b1d7f2b1af361dc6d9ac.600x338.jpg?t=1576598047"
-  ],
-  "detailed_description": "Cumulus is a 2D puzzle Tetromino game with a twist. Drop tetromino blocks to fill in concentric circles. Once filled the ring will disappear, the higher level rings will fall down and you will gain points! Get as many points as you can!",
-  "about_the_game": "Cumulus is a 2D puzzle Tetromino game with a twist. Drop tetromino blocks to fill in concentric circles. Once filled the ring will disappear, the higher level rings will fall down and you will gain points! Get as many points as you can!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Revizor",
   "slug": "revizor",
   "developer": "RevizorGameStudio",
-  "publisher": "RevizorGameStudio",
-  "release_date": "Jul 2, 2021",
+  "publisher": "",
+  "release_date": "2021-07-02",
   "price_usd": 4.99,
   "genres": [
     "Casual",
@@ -19,49 +19,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "\"Revizor\" is a visual novel, a simulator of an office employee. You can flirt with colleagues at work, go on dates, earn and spend money, do business, meet friends, conduct audits, get sick and heal, listen to the radio with exclusive tracks, make decisions, run errands, and much more!",
+  "short_description": "\"Revizor\" is a visual novel, a simulator of an office employee. You can flirt with colleagues at work, go on dates, earn and spend money, do business, meet friends, conduct audits, get sick ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/17d7ab983168cc3b9c9fdc98bc832aad4f473c03/header.jpg?t=1762287665",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/a59be2c99e71dc200fe918dc7f86522846e6cf06/ss_a59be2c99e71dc200fe918dc7f86522846e6cf06.600x338.jpg?t=1762287665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/562badaeb715d349532dc3fdd6a30458a0199d9c/ss_562badaeb715d349532dc3fdd6a30458a0199d9c.600x338.jpg?t=1762287665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/4f1dfc35b71a6a878baa78e80b8f908037ce9407/ss_4f1dfc35b71a6a878baa78e80b8f908037ce9407.600x338.jpg?t=1762287665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/92d0f0deaa1466f349aba927e092f495498aa7b6/ss_92d0f0deaa1466f349aba927e092f495498aa7b6.600x338.jpg?t=1762287665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/af71e8de8ccc5f25ff7125f117e79f6126645ce3/ss_af71e8de8ccc5f25ff7125f117e79f6126645ce3.600x338.jpg?t=1762287665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/54074061408453a13b43a0dc229f20428c5cd98c/ss_54074061408453a13b43a0dc229f20428c5cd98c.600x338.jpg?t=1762287665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/aa2262688103344461a6992f9b7d0b53f91322ed/ss_aa2262688103344461a6992f9b7d0b53f91322ed.600x338.jpg?t=1762287665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/3c624c5772da90338866b86573d6dfddbcda627b/ss_3c624c5772da90338866b86573d6dfddbcda627b.600x338.jpg?t=1762287665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/4ee8ba5357e3b5358dca3ae1cb07ae8c3b247ba6/ss_4ee8ba5357e3b5358dca3ae1cb07ae8c3b247ba6.600x338.jpg?t=1762287665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/e19de5d56bc628c165b132745944623796216c1f/ss_e19de5d56bc628c165b132745944623796216c1f.600x338.jpg?t=1762287665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/d89f804e333cc505fbae34b9725b02ae08ba94b4/ss_d89f804e333cc505fbae34b9725b02ae08ba94b4.600x338.jpg?t=1762287665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/65bb6c3a730af691a59062d6fa3ed39f7f5c4a1d/ss_65bb6c3a730af691a59062d6fa3ed39f7f5c4a1d.600x338.jpg?t=1762287665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/ae2eef5e01981d628f99a506ebc0cee28f9a569f/ss_ae2eef5e01981d628f99a506ebc0cee28f9a569f.600x338.jpg?t=1762287665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/077118e67c828c339b0c8d355b6810f512794672/ss_077118e67c828c339b0c8d355b6810f512794672.600x338.jpg?t=1762287665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/6f06062fb0bbcad7ae4e350fd4afc16e13211684/ss_6f06062fb0bbcad7ae4e350fd4afc16e13211684.600x338.jpg?t=1762287665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/c2720bf34f6b57ddbf33feeafb374cbb0c05ce0d/ss_c2720bf34f6b57ddbf33feeafb374cbb0c05ce0d.600x338.jpg?t=1762287665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/97a4bf61c2ee1685bc23d7c49b0d2cb956f9dfec/ss_97a4bf61c2ee1685bc23d7c49b0d2cb956f9dfec.600x338.jpg?t=1762287665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/8b395ef3bc4ef184aa70bc35c5f087a4b07f1975/ss_8b395ef3bc4ef184aa70bc35c5f087a4b07f1975.600x338.jpg?t=1762287665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/809e187b076bd91124874af1645dcde8a6d3672d/ss_809e187b076bd91124874af1645dcde8a6d3672d.600x338.jpg?t=1762287665"
-  ],
-  "detailed_description": "<i>Revizor Game Studio</i>  presents to your eyes a completely <strong>new game</strong>! <br><br>Game will become something new for you in the endless game world. An exciting adventure awaits you in this office worker novella simulator.<br><br> - Choose which path you have to go through - a bribe-taker-tycoon of the criminal business, or a principled inspector who cares for law and order.<br> - Increase your well-being and ensure a comfortable life for yourself and your descendants. <br> - Make new acquaintances and relationships.<br> - Go on dates.<br> - Collect a collection of real estate and cars, and other things for fun.<br> - Move up the career ladder, increase your income and gain a high reputation.<br> - Show sensitivity and attention to other characters by listening to their stories, doing their assignments, thereby making new friends or enemies.<br> - Immerse yourself in the fascinating world of shadow crime by identifying dishonest entrepreneurs - fraudsters or enter their position and sympathize with them for a small “reward-bribe”.<br> - You will find many exciting quests, funny stories and tasks. <br> - A completely new game system.<br> - Spend an exciting time and spend your hard-earned money earned by honest and completely honest on various entertainments.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/extras/022f9bed0b7277d45e4512e5999b6d48.poster.avif?t=1762287665\" width=560 height=314 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/extras/022f9bed0b7277d45e4512e5999b6d48.webm?t=1762287665\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/extras/022f9bed0b7277d45e4512e5999b6d48.mp4?t=1762287665\" type=\"video/mp4\"></video></span>",
-  "about_the_game": "<i>Revizor Game Studio</i>  presents to your eyes a completely <strong>new game</strong>! <br><br>Game will become something new for you in the endless game world. An exciting adventure awaits you in this office worker novella simulator.<br><br> - Choose which path you have to go through - a bribe-taker-tycoon of the criminal business, or a principled inspector who cares for law and order.<br> - Increase your well-being and ensure a comfortable life for yourself and your descendants. <br> - Make new acquaintances and relationships.<br> - Go on dates.<br> - Collect a collection of real estate and cars, and other things for fun.<br> - Move up the career ladder, increase your income and gain a high reputation.<br> - Show sensitivity and attention to other characters by listening to their stories, doing their assignments, thereby making new friends or enemies.<br> - Immerse yourself in the fascinating world of shadow crime by identifying dishonest entrepreneurs - fraudsters or enter their position and sympathize with them for a small “reward-bribe”.<br> - You will find many exciting quests, funny stories and tasks. <br> - A completely new game system.<br> - Spend an exciting time and spend your hard-earned money earned by honest and completely honest on various entertainments.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/extras/022f9bed0b7277d45e4512e5999b6d48.poster.avif?t=1762287665\" width=560 height=314 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/extras/022f9bed0b7277d45e4512e5999b6d48.webm?t=1762287665\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449290/extras/022f9bed0b7277d45e4512e5999b6d48.mp4?t=1762287665\" type=\"video/mp4\"></video></span>",
-  "supported_languages": "Russian, English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 4,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -69,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

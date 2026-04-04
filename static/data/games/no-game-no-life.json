@@ -3,8 +3,8 @@
   "name": "No Game No LIFE",
   "slug": "no-game-no-life",
   "developer": "Jonny, Tsunehiko Shimazu",
-  "publisher": "スタジオしまづ",
-  "release_date": "Sep 9, 2020",
+  "publisher": "",
+  "release_date": "2020-09-09",
   "price_usd": 3.99,
   "genres": [
     "Casual",
@@ -22,34 +22,9 @@
   ],
   "short_description": "\"No Game No LIFE\" is a puzzle game that erases cubes that increase and decrease according to the rules of \"Conway's Game of Life\".",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219010/header.jpg?t=1646208967",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219010/ss_059dba2da4f2ff59049ce3ce3785806a343847c3.600x338.jpg?t=1646208967",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219010/ss_2e75fe32f250ea978f821b069d15d131b5934eb9.600x338.jpg?t=1646208967",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219010/ss_8ba1657bb4b9a4581f91078584aefa5ca4b65669.600x338.jpg?t=1646208967",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219010/ss_2ab88f2e1e6c47ea0a571e803bee30fc3877adc1.600x338.jpg?t=1646208967",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219010/ss_9f378d95a36df16e1014b8ee7cd67bba399de913.600x338.jpg?t=1646208967",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219010/ss_dee9f69bcdc3f02f062c3271d22b38fc027b930f.600x338.jpg?t=1646208967",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1219010/ss_9135c0994a2406bebe655c420cb8ab4b60a5378e.600x338.jpg?t=1646208967"
-  ],
-  "detailed_description": "<strong>\"No Game No LIFE\"</strong> is a puzzle game that erases cubes that increase and decrease according to the rules of<strong> \"Conway's Game of Life\"</strong>.<br>Player add cube by clicking screen and erase all the cubes that change in real time.<br>You can play more than 10 stages, and each stage starts with a characteristic object such as \"block, pond, beehive\" in \"Conway's Game of Life\".<br><br>\"Conway's Game of Life\", also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves. It is Turing complete and can simulate a universal constructor or any other Turing machine.<br><br>Even if you are not familiar with life games, this is a work where you can enjoy a beautifully changing collection of cubes and fantastic graphics.",
-  "about_the_game": "<strong>\"No Game No LIFE\"</strong> is a puzzle game that erases cubes that increase and decrease according to the rules of<strong> \"Conway's Game of Life\"</strong>.<br>Player add cube by clicking screen and erase all the cubes that change in real time.<br>You can play more than 10 stages, and each stage starts with a characteristic object such as \"block, pond, beehive\" in \"Conway's Game of Life\".<br><br>\"Conway's Game of Life\", also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970. It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves. It is Turing complete and can simulate a universal constructor or any other Turing machine.<br><br>Even if you are not familiar with life games, this is a work where you can enjoy a beautifully changing collection of cubes and fantastic graphics.",
-  "supported_languages": "Japanese, English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +32,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

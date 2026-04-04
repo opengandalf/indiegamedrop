@@ -3,8 +3,8 @@
   "name": "De Profundis",
   "slug": "de-profundis",
   "developer": "points contigus",
-  "publisher": "points contigus",
-  "release_date": "Jan 25, 2019",
+  "publisher": "",
+  "release_date": "2019-01-25",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -23,33 +23,15 @@
   ],
   "short_description": "Un visual novel d’horreur qui se déroule dans le noir complet, où les paroles des personnages sont mises en musique.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003960/header.jpg?t=1745889475",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003960/ss_08117ec5e7be161b381710b69926d512c1400943.600x338.jpg?t=1745889475",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003960/ss_cc48cc47af4b7c7f362e6306b0085b1482c62885.600x338.jpg?t=1745889475",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003960/ss_5a3d666e3d3e771eeedb687a64e80ccecd1fac24.600x338.jpg?t=1745889475",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003960/ss_5180da9bd76de7eb502536153ccb45a334b8b6a3.600x338.jpg?t=1745889475",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003960/ss_405695ff9ccc831a5d2ec0fd9d21b25923565022.600x338.jpg?t=1745889475",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003960/ss_8c18da47414426f9cec4fa79801781b18507f96d.600x338.jpg?t=1745889475"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><i>Après une mystérieuse explosion au sein du centre commercial Grasseille, Daniel se réveille au milieu des débris, dans le noir complet. Il rencontre d’autres survivants et, ensemble, ils cherchent une voie de sortie. <br><br>Mais les sous-sols dans lesquels ils sont tombés sont étrangement vastes, et tous les dangers semblent possibles.<br><br>Surtout ceux qu'on ne peut pas voir.</i></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >_________________________________</p><p class=\"bb_paragraph\" >De Profundis est construit comme un visual novel, mais se passe intégralement dans le noir. Le son y est essentiel. En particulier, les paroles des personnages sont mises en musique, chacun avec son instrument propre.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >En fonction des choix du joueur, son lien avec chaque personnage grandit. Lorsque ce lien est au maximum, Daniel, artiste peintre, imagine un tableau le représentant.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Plusieurs fins sont possibles. La vraie fin du jeu arrive lorsque suffisamment de tableaux sont débloqués.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Il faut compter environ 8 heures pour terminer le jeu avec sa vraie fin.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><i>Après une mystérieuse explosion au sein du centre commercial Grasseille, Daniel se réveille au milieu des débris, dans le noir complet. Il rencontre d’autres survivants et, ensemble, ils cherchent une voie de sortie. <br><br>Mais les sous-sols dans lesquels ils sont tombés sont étrangement vastes, et tous les dangers semblent possibles.<br><br>Surtout ceux qu'on ne peut pas voir.</i></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >_________________________________</p><p class=\"bb_paragraph\" >De Profundis est construit comme un visual novel, mais se passe intégralement dans le noir. Le son y est essentiel. En particulier, les paroles des personnages sont mises en musique, chacun avec son instrument propre.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >En fonction des choix du joueur, son lien avec chaque personnage grandit. Lorsque ce lien est au maximum, Daniel, artiste peintre, imagine un tableau le représentant.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Plusieurs fins sont possibles. La vraie fin du jeu arrive lorsque suffisamment de tableaux sont débloqués.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Il faut compter environ 8 heures pour terminer le jeu avec sa vraie fin.</p>",
-  "supported_languages": "French<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 6.0,
+  "review_velocity_7d": 0.4,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 8,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

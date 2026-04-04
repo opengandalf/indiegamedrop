@@ -3,8 +3,8 @@
   "name": "100 hidden snails",
   "slug": "100-hidden-snails",
   "developer": "Anatoliy Loginovskikh",
-  "publisher": "Anatoliy Loginovskikh",
-  "release_date": "Nov 6, 2020",
+  "publisher": "",
+  "release_date": "2020-11-06",
   "price_usd": 0.59,
   "genres": [
     "Casual",
@@ -19,62 +19,27 @@
   ],
   "short_description": "Hidden object game in a surreal style. Extremely hard!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446330/header.jpg?t=1710886158",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446330/ss_122de2df4f4a554986c4fe9c576fe913f1091497.600x338.jpg?t=1710886158",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446330/ss_1f645a16d2af101876096b7b24ef0626faa48871.600x338.jpg?t=1710886158",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446330/ss_f466d85367feb8f5a47b7a3b53811e1695cf2e51.600x338.jpg?t=1710886158",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446330/ss_a06eece4718824b676cc0ba235c90465e7b041ee.600x338.jpg?t=1710886158",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446330/ss_9b2d8983b901add1f01e611bb4df75c18f76ce60.600x338.jpg?t=1710886158"
-  ],
-  "detailed_description": "<h1>My first 3D game!</h1><p></p><br><h1>About the Game</h1>Hidden object game in a surreal style.<br>Extremely hard!<br><br>Can you find 100 snails? <br>They are dangerous ...",
-  "about_the_game": "Hidden object game in a surreal style.<br />\r\nExtremely hard!<br />\r\n<br />\r\nCan you find 100 snails? <br />\r\nThey are dangerous ...",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Trading Cards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 519,
+  "screenshots": [],
   "rising_score": 0.0002,
-  "gem_score": 0.4544,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 32.0,
+  "review_velocity_7d": 28.8,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 576,
-  "review_positive": 540,
+  "review_positive": 0,
   "review_percentage": 93.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "proven",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 544,
-      "review_percentage": 94.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 576,
-      "review_percentage": 93.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 576,
       "review_percentage": 93.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

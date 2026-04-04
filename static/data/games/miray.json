@@ -3,8 +3,8 @@
   "name": "MIRAY",
   "slug": "miray",
   "developer": "Poobool",
-  "publisher": "Poobool, PsychoFlux Entertainment",
-  "release_date": "Jul 28, 2021",
+  "publisher": "",
+  "release_date": "2021-07-28",
   "price_usd": 3.49,
   "genres": [
     "Casual",
@@ -20,59 +20,27 @@
   ],
   "short_description": "It's a rhythm game inspired by the Reflection. The ball will bounce slope to slope, You should press any key when the ball hits the slope.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1410600/header.jpg?t=1756964765",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1410600/ss_acaf0fb629de89f54ba5fdd70cfe40e74d9bf5e1.600x338.jpg?t=1756964765",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1410600/ss_68dc7f7548c4fdc34177d4318bf8c8fa2701a32e.600x338.jpg?t=1756964765",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1410600/ss_94401bed7a2fdb8174840617e7f7d72d9e953fd3.600x338.jpg?t=1756964765",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1410600/ss_701c73f2293950f4441e81369f9d32326fd35a31.600x338.jpg?t=1756964765",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1410600/ss_9d575cde586e635e36ffe3d2a0c6c3fd9a1e6d61.600x338.jpg?t=1756964765",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1410600/ss_4441d841197ccc6145a94f93d76a0ed18b9f09b2.600x338.jpg?t=1756964765",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1410600/ss_5323636374cf983cf7a82161771dc46dab4e5fc2.600x338.jpg?t=1756964765",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1410600/ss_66db96e13dc55f16c22e138bcdcb8bda3d27244b.600x338.jpg?t=1756964765"
-  ],
-  "detailed_description": "It's a rhythm game inspired by the Reflection.<br />\r\nIt little looks like ping-pong.<br />\r\nThe ball will bounce slope to slope, You should press any key when the ball hits the slope.<br />\r\nYou have 5 lives. You will lose a life when you press any key at the wrong time.<br />\r\nThe diamond shape note is \"Save point\".<br />\r\nThat means, when you lose all lives, You will replay the game from that point.<br />\r\nThere are 16 stages in the game now.  <br />\r\nChallenge the stages, and Please enjoy the game.",
-  "about_the_game": "It's a rhythm game inspired by the Reflection.<br />\r\nIt little looks like ping-pong.<br />\r\nThe ball will bounce slope to slope, You should press any key when the ball hits the slope.<br />\r\nYou have 5 lives. You will lose a life when you press any key at the wrong time.<br />\r\nThe diamond shape note is \"Save point\".<br />\r\nThat means, when you lose all lives, You will replay the game from that point.<br />\r\nThere are 16 stages in the game now.  <br />\r\nChallenge the stages, and Please enjoy the game.",
-  "supported_languages": "English, Korean",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.7405,
   "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 66,
-  "review_positive": 60,
+  "review_positive": 0,
   "review_percentage": 90.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 63,
-      "review_percentage": 92.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 66,
       "review_percentage": 90.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

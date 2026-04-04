@@ -3,8 +3,8 @@
   "name": "Carrot Paradise",
   "slug": "carrot-paradise",
   "developer": "珠木だるま",
-  "publisher": "珠木だるま",
-  "release_date": "Jul 31, 2024",
+  "publisher": "",
+  "release_date": "2024-07-31",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -21,36 +21,15 @@
   ],
   "short_description": "You are a rabbit! Play with the farmer and bring back lots of carrots to the nest!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2802620/header.jpg?t=1723688937",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2802620/ss_cd70a38232d94476cde6a65081db3fcb23702cd6.600x338.jpg?t=1723688937",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2802620/ss_91b54cf9a330300b1129bfc6ea216cc26fe55345.600x338.jpg?t=1723688937",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2802620/ss_f955188fe5979adb8de2435e457bcfa769b0938d.600x338.jpg?t=1723688937",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2802620/ss_e39aa85d45f074beb6a514737b2005ea4b51cd27.600x338.jpg?t=1723688937",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2802620/ss_b00f79744ef29b5c1d1b3ed4426d5b7b34d5e8a7.600x338.jpg?t=1723688937",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2802620/ss_b05536cce7f0e9327778c169a8e88e8a82df3849.600x338.jpg?t=1723688937",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2802620/ss_044946f588b70b8d62c3b55b11ea2757762aafce.600x338.jpg?t=1723688937",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2802620/ss_31052b2d5421c51e628954ac8e47d9ddbd80c1fd.600x338.jpg?t=1723688937"
-  ],
-  "detailed_description": "You are a rabbit!<br>Jump around, steal as many carrots as you can from the carrot fields, and bring them back to your nest!<br><br>But don't be too careful.<br>There are farmers roaming around with shotguns in the carrot fields.<br>If you get shot at, eat a carrot to recover.<br><br>The choice between eating the carrots or taking them back to the nest can mean the difference between life and death.<br><br>Carrot fields are randomly generated each time you play.<br>Some of them may contain hidden rare carrots!<br><br><strong>Game Streaming</strong><br>Please feel free to use it for commercial or non-commercial purposes.",
-  "about_the_game": "You are a rabbit!<br>Jump around, steal as many carrots as you can from the carrot fields, and bring them back to your nest!<br><br>But don't be too careful.<br>There are farmers roaming around with shotguns in the carrot fields.<br>If you get shot at, eat a carrot to recover.<br><br>The choice between eating the carrots or taking them back to the nest can mean the difference between life and death.<br><br>Carrot fields are randomly generated each time you play.<br>Some of them may contain hidden rare carrots!<br><br><strong>Game Streaming</strong><br>Please feel free to use it for commercial or non-commercial purposes.",
-  "supported_languages": "English, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

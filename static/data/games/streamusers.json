@@ -3,8 +3,8 @@
   "name": "StreamUsers",
   "slug": "streamusers",
   "developer": "Yevhenii Rabtsun",
-  "publisher": "Yevhenii Rabtsun",
-  "release_date": "Nov 3, 2020",
+  "publisher": "",
+  "release_date": "2020-11-03",
   "price_usd": 0.0,
   "genres": [
     "Audio Production",
@@ -23,29 +23,9 @@
   ],
   "short_description": "Simple and useful tool for streamer that allows you to track the current list of viewers and chat in real time.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1448900/header.jpg?t=1677156161",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1448900/ss_b3f95b681f350cf037b976707edc5255568fe279.600x338.jpg?t=1677156161",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1448900/ss_cbe961f5a2bc4b81e46123cb02881b8743fb9dda.600x338.jpg?t=1677156161",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1448900/ss_7ca5f051c55714754bb11d8bbbd73bbd9964b8cd.600x338.jpg?t=1677156161",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1448900/ss_366df8095dd6be933f6a8614c8dae0badf687498.600x338.jpg?t=1677156161",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1448900/ss_751c5e385c589402696ad39c238261dbbe0d64e1.600x338.jpg?t=1677156161"
-  ],
-  "detailed_description": "StreamUsers is a program that allows streamers to always know who is watching their broadcast. It is enough to connect your channel in the settings and the main window will display a list of viewers, which is divided into three categories: common viewers, moderators and VIPs.<br><br>An additional category, favorite viewers, is optional. It will display viewers that you mark as favorites.<br><br>Of additional, but no less important functionality is the chat. It can be opened either in a separate window or as a browser source in a streaming program (OBS, XSplit, PlayClaw).<h2 class=\"bb_tag\" >Main Features</h2><ul class=\"bb_ul\"><li>Real-time viewer list tracking<br></li><li>Adding favorite viewers<br></li><li>Display online difference<br></li><li>Appearance customization<br></li><li>Stopwatch and timer</li></ul><h2 class=\"bb_tag\" >Chat</h2><ul class=\"bb_ul\"><li>Display icons for moderators, VIPs, turbos, etc.<br></li><li>Default smileys display<br></li><li>BTTV smilies support.<br></li><li>Ability to display in the stream program: OBS, XSplit, PlayClaw</li></ul><br><i>Supported streaming platform: Twitch</i>",
-  "about_the_game": "StreamUsers is a program that allows streamers to always know who is watching their broadcast. It is enough to connect your channel in the settings and the main window will display a list of viewers, which is divided into three categories: common viewers, moderators and VIPs.<br><br>An additional category, favorite viewers, is optional. It will display viewers that you mark as favorites.<br><br>Of additional, but no less important functionality is the chat. It can be opened either in a separate window or as a browser source in a streaming program (OBS, XSplit, PlayClaw).<h2 class=\"bb_tag\" >Main Features</h2><ul class=\"bb_ul\"><li>Real-time viewer list tracking<br></li><li>Adding favorite viewers<br></li><li>Display online difference<br></li><li>Appearance customization<br></li><li>Stopwatch and timer</li></ul><h2 class=\"bb_tag\" >Chat</h2><ul class=\"bb_ul\"><li>Display icons for moderators, VIPs, turbos, etc.<br></li><li>Default smileys display<br></li><li>BTTV smilies support.<br></li><li>Ability to display in the stream program: OBS, XSplit, PlayClaw</li></ul><br><i>Supported streaming platform: Twitch</i>",
-  "supported_languages": "English, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 7,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 85.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 85.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 85.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

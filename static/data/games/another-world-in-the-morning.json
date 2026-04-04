@@ -3,8 +3,8 @@
   "name": "Another World In The Morning",
   "slug": "another-world-in-the-morning",
   "developer": "Three Man, Two Girl",
-  "publisher": "Three Man, Two Girl",
-  "release_date": "Aug 5, 2023",
+  "publisher": "",
+  "release_date": "2023-08-05",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -19,34 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "The player must choose one of three jobs to defeat the enemies of the other world. Each job has a different special skill, and it is a 2D platformer game with the goal of sealing the demon king by defeating bosses and obtaining stones suitable for attributes.",
+  "short_description": "The player must choose one of three jobs to defeat the enemies of the other world. Each job has a different special skill, and it is a 2D platformer game with the goal of sealing the demon king by def",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518230/header.jpg?t=1691247039",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518230/ss_80b5e9c3e88ba60248104847d07c37285a50f08e.600x338.jpg?t=1691247039",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518230/ss_7fc096a1990a60a29aff0232f4d8f0bcfaaa9f0d.600x338.jpg?t=1691247039",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518230/ss_c86c727995b1930c7f3bb16c1ae04b89bc48103b.600x338.jpg?t=1691247039",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518230/ss_9724223b7c7ec9f25cbb3531a8ffe37d8b8c207c.600x338.jpg?t=1691247039",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518230/ss_422ff709ab3c4c867f72c2569d701a1a5d564401.600x338.jpg?t=1691247039"
-  ],
-  "detailed_description": "<strong>\"Do you want to open your eyes in our other world?\"</strong><br><br>wait a minute! Save the endangered [Another World] with your own hands!<br>Choose one of three jobs and defeat enemies with different special skills.<br>Purify the fallen spirits to get 4 elemental spirit stones and seal the demon king!<br><br>You are the only hero who can save this world..",
-  "about_the_game": "<strong>\"Do you want to open your eyes in our other world?\"</strong><br><br>wait a minute! Save the endangered [Another World] with your own hands!<br>Choose one of three jobs and defeat enemies with different special skills.<br>Purify the fallen spirits to get 4 elemental spirit stones and seal the demon king!<br><br>You are the only hero who can save this world..",
-  "supported_languages": "English, Korean",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 3,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

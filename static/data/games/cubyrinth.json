@@ -3,8 +3,8 @@
   "name": "Cubyrinth",
   "slug": "cubyrinth",
   "developer": "AP2 Games",
-  "publisher": "AP2 Games",
-  "release_date": "Sep 20, 2021",
+  "publisher": "",
+  "release_date": "2021-09-20",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -17,38 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Cubyrinth is a 3D puzzle game. Will you be able to navigate and find the correct solution in the labyrinth located on the 6 sides of the cube? This game will provide you with an infinite number of auto-generated 3D labyrinths!",
+  "short_description": "Cubyrinth is a 3D puzzle game. Will you be able to navigate and find the correct solution in the labyrinth located on the 6 sides of the cube? This game will provide you with an infinite number of aut",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734810/header.jpg?t=1661935091",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734810/ss_80dbb33e3bb2c66f0854410b5d25b7ca9e6da360.600x338.jpg?t=1661935091",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734810/ss_12cea447de8d57f7aa1f10f4c580922fc3d5bc77.600x338.jpg?t=1661935091",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734810/ss_bea21b87694b8fdccae1e43ef6e10d2aa5fe39ce.600x338.jpg?t=1661935091",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734810/ss_78c1131f8ed0a74bf0ff0adfa0df88e9d5754e32.600x338.jpg?t=1661935091",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734810/ss_017892d3a0b4f8cf30f8760c4976d8a5c7e834a6.600x338.jpg?t=1661935091",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734810/ss_6d5704254a7b949811b4c5360bdd7bd64e6539f1.600x338.jpg?t=1661935091"
-  ],
-  "detailed_description": "<strong>Cubyrinth</strong> is a 3D puzzle game. Will you be able to navigate and find the correct solution in the labyrinth located on the 6 sides of the cube?<br><br>To complete the labyrinths, you can use highlight mode, which allows you to see already visited areas, as well as skip points, which allow you to skip too complex labyrinths (skip points will be given for every 3 completed labyrinths).<h2 class=\"bb_tag\" >Game Features:</h2><ul class=\"bb_ul\"><li>An infinite number of labyrinths.<br></li><li>Each labyrinth is located on 6 sides of the cube.<br></li><li>Each labyrinth is unique, because they all are auto-generated.</li></ul>",
-  "about_the_game": "<strong>Cubyrinth</strong> is a 3D puzzle game. Will you be able to navigate and find the correct solution in the labyrinth located on the 6 sides of the cube?<br><br>To complete the labyrinths, you can use highlight mode, which allows you to see already visited areas, as well as skip points, which allow you to skip too complex labyrinths (skip points will be given for every 3 completed labyrinths).<h2 class=\"bb_tag\" >Game Features:</h2><ul class=\"bb_ul\"><li>An infinite number of labyrinths.<br></li><li>Each labyrinth is located on 6 sides of the cube.<br></li><li>Each labyrinth is unique, because they all are auto-generated.</li></ul>",
-  "supported_languages": "English, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

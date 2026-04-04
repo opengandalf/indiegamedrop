@@ -3,8 +3,8 @@
   "name": "Bitcoin VR",
   "slug": "bitcoin-vr",
   "developer": "Indiesquare, Mandelduck",
-  "publisher": "Indiesquare",
-  "release_date": "Mar 31, 2017",
+  "publisher": "",
+  "release_date": "2017-03-31",
   "price_usd": 0.0,
   "genres": [
     "Simulation"
@@ -17,33 +17,15 @@
   ],
   "short_description": "Ever wanted to see real time bitcoin transaction in VR? Ever wanted to prune the blockchain with a bow and arrow? Enter the forest of satoshi!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/615460/header.jpg?t=1490959599",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/615460/ss_03102775226329f19ded2e8ec58b73f3d91b032e.600x338.jpg?t=1490959599",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/615460/ss_14d244e481419ee5e966e607315804081a8010be.600x338.jpg?t=1490959599",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/615460/ss_3a1459e7a4cc6cd6f96948b83b7820af1cc2eb08.600x338.jpg?t=1490959599",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/615460/ss_fa21d7297eed3fe2e46198e0f1afd677af1613b5.600x338.jpg?t=1490959599",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/615460/ss_04a5f8f2c674f6020edd24625a517d5249b92a9c.600x338.jpg?t=1490959599"
-  ],
-  "detailed_description": "Ok this is pretty geeky and may not be for all but we think it`s cool, the first VR bitcoin block explorer!<br />\r\n<br />\r\nEver wanted to see real time bitcoin transaction in VR? Ever wanted to prune the blockchain with a bow and arrow? Enter the forest of satoshi!<br />\r\n<br />\r\nIn Bitcoin VR you can see real time bitcoin transactions fall from the sky in the form of gems you can grab a gem to see the transaction details or shoot them with a Bow and Arrow.<br />\r\n<br />\r\n<br />\r\nKey Aspects:<br />\r\nThe larger the transaction size the larger the gem!<br />\r\nBlock confirmation effects!<br />\r\nView counterparty token transactions!<br />\r\nArchery and mini game!",
-  "about_the_game": "Ok this is pretty geeky and may not be for all but we think it`s cool, the first VR bitcoin block explorer!<br />\r\n<br />\r\nEver wanted to see real time bitcoin transaction in VR? Ever wanted to prune the blockchain with a bow and arrow? Enter the forest of satoshi!<br />\r\n<br />\r\nIn Bitcoin VR you can see real time bitcoin transactions fall from the sky in the form of gems you can grab a gem to see the transaction details or shoot them with a Bow and Arrow.<br />\r\n<br />\r\n<br />\r\nKey Aspects:<br />\r\nThe larger the transaction size the larger the gem!<br />\r\nBlock confirmation effects!<br />\r\nView counterparty token transactions!<br />\r\nArchery and mini game!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.8500000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 17,
-  "review_positive": 13,
+  "review_positive": 0,
   "review_percentage": 76.5,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -51,26 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 16,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 17,
-      "review_percentage": 76.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 17,
       "review_percentage": 76.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

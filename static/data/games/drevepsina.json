@@ -3,8 +3,8 @@
   "name": "Drevepsina",
   "slug": "drevepsina",
   "developer": "yiotro",
-  "publisher": "yiotro",
-  "release_date": "Apr 1, 2024",
+  "publisher": "",
+  "release_date": "2024-04-01",
   "price_usd": 1.69,
   "genres": [
     "Strategy"
@@ -17,41 +17,15 @@
   ],
   "short_description": "Combat focused minimalist RTS",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473650/header.jpg?t=1745575330",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473650/ss_cb3486b142cc3eede583db95feb238d9d75ed5db.600x338.jpg?t=1745575330",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473650/ss_2b9dc49279f2210e7b5f8e20039f1f9ba82ac9ff.600x338.jpg?t=1745575330",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473650/ss_e61443a3e7f609e82bdcf7c03d481bd3af870238.600x338.jpg?t=1745575330",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473650/ss_1da462f8d051c87979d163580497ac0a29ab0d96.600x338.jpg?t=1745575330",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473650/ss_8a10cc6ffef736dbbd119e5acac5b1c940a4c2fe.600x338.jpg?t=1745575330",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473650/ss_cdb533dcd4078aec24e9767dd880f0ab44ba0332.600x338.jpg?t=1745575330",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473650/ss_f39655f873eefef73d1cf29ef7dfeb4875346d6f.600x338.jpg?t=1745575330",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473650/ss_c334af779ef45ad823e774a1524217d88c19a204.600x338.jpg?t=1745575330"
-  ],
-  "detailed_description": "Drevepsina is a simple RTS about fierce large scale battles. Develop your base, train your army, and destroy your opponents. <br />\r\n<br />\r\nFeatures:<br />\r\n- Easy to learn<br />\r\n- Campaign with 250+ levels<br />\r\n- Map editor<br />\r\n- Clean UI",
-  "about_the_game": "Drevepsina is a simple RTS about fierce large scale battles. Develop your base, train your army, and destroy your opponents. <br />\r\n<br />\r\nFeatures:<br />\r\n- Easy to learn<br />\r\n- Campaign with 250+ levels<br />\r\n- Map editor<br />\r\n- Clean UI",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Norwegian, Polish, Portuguese - Portugal, Romanian, Swedish, Turkish, Ukrainian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Adjustable Difficulty",
-    "Mouse Only Option",
-    "Playable without Timed Input",
-    "Save Anytime",
-    "Touch Only Option",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.8,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 16,
-  "review_positive": 16,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 13,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 16,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

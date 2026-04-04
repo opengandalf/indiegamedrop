@@ -3,8 +3,8 @@
   "name": "DOCHKA",
   "slug": "dochka",
   "developer": "DabDabYa",
-  "publisher": "DabDavYa",
-  "release_date": "Feb 21, 2019",
+  "publisher": "",
+  "release_date": "2019-02-21",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -21,32 +21,15 @@
   ],
   "short_description": "The game will play a plate that tries to beat the ball. The main task is to knock down all the balls to open the full picture",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016650/header.jpg?t=1575224856",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016650/ss_7110d5c5e54f49e0d65c231a04faab2ecf771139.600x338.jpg?t=1575224856",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016650/ss_281d81ea9aa1e30e21336734b18f944bc7514dd8.600x338.jpg?t=1575224856",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016650/ss_55ba1df3be3073479428b55c02a3ea3e2992611a.600x338.jpg?t=1575224856",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016650/ss_3a995a07e20a47952b5a59963553cac880cb0d6c.600x338.jpg?t=1575224856",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016650/ss_3fc8373ba18d5202191ec79c88320a316e4efb07.600x338.jpg?t=1575224856"
-  ],
-  "detailed_description": "<strong>Game-puzzle. In the game you need to pass the level to see the picture.<br><br>The game will play a plate that tries to beat the ball. The main task is to knock down all the balls to open the full picture. Advantages of the game:<br><br><u>- Interesting gameplay<br>- Beautiful design</u></strong>",
-  "about_the_game": "<strong>Game-puzzle. In the game you need to pass the level to see the picture.<br><br>The game will play a plate that tries to beat the ball. The main task is to knock down all the balls to open the full picture. Advantages of the game:<br><br><u>- Interesting gameplay<br>- Beautiful design</u></strong>",
-  "supported_languages": "English, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.8,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 16,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 18,
-      "review_percentage": 55.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 16,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Military Operations: Benchmark",
   "slug": "military-operations-benchmark",
   "developer": "Military Operations",
-  "publisher": "Military Operations",
-  "release_date": "Jun 21, 2018",
+  "publisher": "",
+  "release_date": "2018-06-21",
   "price_usd": 0.0,
   "genres": [
     "Utilities"
@@ -15,65 +15,23 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "\"Military Operations: Benchmark\", is a performance and stability Benchmark utility that can be used to specifically test your gaming system for compatibility with the upcoming \"Military Operations\" (MilOps) Realtime Operational Wargame and the \"Metis Simulation Technology\" it is developed with.",
+  "short_description": "\"Military Operations: Benchmark\", is a performance and stability Benchmark utility that can be used to specifically test your gaming system for compatibility with the upcoming \"Military",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821680/header.jpg?t=1534178926",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821680/ss_a3993f04e4db4533e190739f3854b92f3357d410.600x338.jpg?t=1534178926",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821680/ss_3b71a3512193ff7b575186343b1fe7adcf4a21ee.600x338.jpg?t=1534178926",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821680/ss_d5e2c8093a58e2a214723b08615eeb2060ce36ca.600x338.jpg?t=1534178926",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821680/ss_7c3377eb11cf7cbef2d93b9ca27df3d63e7910c3.600x338.jpg?t=1534178926",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821680/ss_ebdec6475face5cbf2b3d1d6159e8264341d0afe.600x338.jpg?t=1534178926",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821680/ss_027171850cff612f660d24d76181f59191951dfc.600x338.jpg?t=1534178926",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821680/ss_ece1f10f56a53b5c4aea4b9c37e88ac7f3865cd4.600x338.jpg?t=1534178926",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821680/ss_ad2ecd9bda53ae438da7d7412bcd4f72edb017cc.600x338.jpg?t=1534178926",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821680/ss_0322d62cf03a92edba5b9d723814ee14fa8364be.600x338.jpg?t=1534178926",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821680/ss_76e47509bf0e988ea3625158738add037a2dc646.600x338.jpg?t=1534178926"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821680/extras/b0b35d4a37a3e565693607898a6a21e6.poster.avif?t=1534178926\" width=600 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821680/extras/b0b35d4a37a3e565693607898a6a21e6.webm?t=1534178926\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821680/extras/b0b35d4a37a3e565693607898a6a21e6.mp4?t=1534178926\" type=\"video/mp4\"></video></span><br><br>The <strong>\"Military Operations: Benchmark\"</strong> utility can be used to determine if your system is ready to run the <i>\"Military Operations\" Realtime Operational Wargame</i> that is currently in development.<br>It performs a number of tests to measure your system's capability for running the <strong>\"Metis engine\"</strong>.<h2 class=\"bb_tag\" >Important!</h2><ul class=\"bb_ul\">    <li>If you just want to stress-test your system, there are better products for that. <br>    </li><li>If you are interested in Realtime Operational Wargaming, this is for you.</li></ul><h2 class=\"bb_tag\" >More than a benchmark tool</h2>Besides its profiling purpose, MilOps Benchmark is also a fully functional interactive visualization that allows you to roam the globe without limits. <br>Interact with units, follow their movements or watch combat up close.<br>Throughout the development of MilOps: the game, users of this benchmark will have a chance to try out preliminary game-play.<h2 class=\"bb_tag\" >Profiling tests:</h2><ul class=\"bb_ul\">    <li>Streaming data from disk to memory to GPU<br>    </li><li>Background processing on CPU and GPU<br>    </li><li>Generic GPU computing<br>    </li><li>Rendering frame rate</li></ul><h2 class=\"bb_tag\" >Other features include:</h2><ul class=\"bb_ul\">   <li>Interact with troops and units to inspect OOB and status details<br>   </li><li>Traverse the historically inspired OOB hierarchy<br>   </li><li>Accelerate the simulation or slow it down to bullet-time<br>   </li><li>Tens of thousands of troops, each individually simulated<br>   </li><li>Game-play sneak-peeks</li></ul><br>The game <i>\"Military Operations\"</i> (currently in development), is an operational level real-time strategy game set in World War 2 where the player assumes command of large bodies of troops and directs them to victory. Draw battle plans on accurate maps and watch your troops execute them to achieve your objectives. Adapt plans as the situation changes due to enemy action, unexpected changes in the supply situation or to improve your lines of communication.<br>MilOps: benchmark will be used to share early game-play experiments with the community.",
-  "about_the_game": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821680/extras/b0b35d4a37a3e565693607898a6a21e6.poster.avif?t=1534178926\" width=600 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821680/extras/b0b35d4a37a3e565693607898a6a21e6.webm?t=1534178926\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821680/extras/b0b35d4a37a3e565693607898a6a21e6.mp4?t=1534178926\" type=\"video/mp4\"></video></span><br><br>The <strong>\"Military Operations: Benchmark\"</strong> utility can be used to determine if your system is ready to run the <i>\"Military Operations\" Realtime Operational Wargame</i> that is currently in development.<br>It performs a number of tests to measure your system's capability for running the <strong>\"Metis engine\"</strong>.<h2 class=\"bb_tag\" >Important!</h2><ul class=\"bb_ul\">    <li>If you just want to stress-test your system, there are better products for that. <br>    </li><li>If you are interested in Realtime Operational Wargaming, this is for you.</li></ul><h2 class=\"bb_tag\" >More than a benchmark tool</h2>Besides its profiling purpose, MilOps Benchmark is also a fully functional interactive visualization that allows you to roam the globe without limits. <br>Interact with units, follow their movements or watch combat up close.<br>Throughout the development of MilOps: the game, users of this benchmark will have a chance to try out preliminary game-play.<h2 class=\"bb_tag\" >Profiling tests:</h2><ul class=\"bb_ul\">    <li>Streaming data from disk to memory to GPU<br>    </li><li>Background processing on CPU and GPU<br>    </li><li>Generic GPU computing<br>    </li><li>Rendering frame rate</li></ul><h2 class=\"bb_tag\" >Other features include:</h2><ul class=\"bb_ul\">   <li>Interact with troops and units to inspect OOB and status details<br>   </li><li>Traverse the historically inspired OOB hierarchy<br>   </li><li>Accelerate the simulation or slow it down to bullet-time<br>   </li><li>Tens of thousands of troops, each individually simulated<br>   </li><li>Game-play sneak-peeks</li></ul><br>The game <i>\"Military Operations\"</i> (currently in development), is an operational level real-time strategy game set in World War 2 where the player assumes command of large bodies of troops and directs them to victory. Draw battle plans on accurate maps and watch your troops execute them to achieve your objectives. Adapt plans as the situation changes due to enemy action, unexpected changes in the supply situation or to improve your lines of communication.<br>MilOps: benchmark will be used to share early game-play experiments with the community.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Leaderboards"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 68,
-  "review_positive": 34,
+  "review_positive": 0,
   "review_percentage": 50.0,
-  "owner_estimate": 75000,
+  "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 69,
-      "review_percentage": 50.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 68,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
+      "date": "2026-04-04",
       "review_count": 68,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

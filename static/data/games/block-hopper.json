@@ -3,8 +3,8 @@
   "name": "Block Hopper",
   "slug": "block-hopper",
   "developer": "Shooter101121",
-  "publisher": "Shooter101121",
-  "release_date": "Jan 31, 2024",
+  "publisher": "",
+  "release_date": "2024-01-31",
   "price_usd": 2.49,
   "genres": [
     "Casual",
@@ -19,35 +19,15 @@
   ],
   "short_description": "A short 2D platformer meant to be enjoyed at your own pace and possibly annoy you with its challenges.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2777880/header.jpg?t=1770327309",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2777880/ss_aa6d89d6f6183900bdc19508a33612d35da870f1.600x338.jpg?t=1770327309",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2777880/ss_e4c1c1198b3f84178f2bce90a4c3ac37ac7dc636.600x338.jpg?t=1770327309",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2777880/ss_084fdb91299cd1001d437f182958d8bc7c7a454b.600x338.jpg?t=1770327309",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2777880/ss_28d2dc2a4442eeb7198af03b59312f0a1a801ea5.600x338.jpg?t=1770327309",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2777880/b2730142dd45b42a33cf7e6fa25b11ea48838a76/ss_b2730142dd45b42a33cf7e6fa25b11ea48838a76.600x338.jpg?t=1770327309",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2777880/1c6bd045c1790ab9bac880bdb3c4588b06bdd8d8/ss_1c6bd045c1790ab9bac880bdb3c4588b06bdd8d8.600x338.jpg?t=1770327309"
-  ],
-  "detailed_description": "Block Hopper is a 2D platforming game made with low poly 3D assets. The game comes with Four game modes and more bonus levels and content to come in the future and each differs in small ways and large ways. <br />\r\nBlock Hopper is a game you can enjoy at your own pace or if you want a bit of a challenge you can play Hardcore Mode which restarts you if you aren't fast enough.",
-  "about_the_game": "Block Hopper is a 2D platforming game made with low poly 3D assets. The game comes with Four game modes and more bonus levels and content to come in the future and each differs in small ways and large ways. <br />\r\nBlock Hopper is a game you can enjoy at your own pace or if you want a bit of a challenge you can play Hardcore Mode which restarts you if you aren't fast enough.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

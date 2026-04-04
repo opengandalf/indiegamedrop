@@ -3,8 +3,8 @@
   "name": "Scamper",
   "slug": "scamper",
   "developer": "Bezbro Games",
-  "publisher": "Bezbro Games",
-  "release_date": "Jul 28, 2023",
+  "publisher": "",
+  "release_date": "2023-07-28",
   "price_usd": 9.99,
   "genres": [
     "Action",
@@ -19,59 +19,27 @@
   ],
   "short_description": "You are a rat. Your fear response will be tested.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481930/73a7159a1472f2e6a27dbc826fc877ed524ec578/header.jpg?t=1746296371",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481930/305d0a003cbe595558d191971f6e110ad0182350/ss_305d0a003cbe595558d191971f6e110ad0182350.600x338.jpg?t=1746296371",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481930/54d2cb1b2792a2639e3c51d3f32796a4014124cc/ss_54d2cb1b2792a2639e3c51d3f32796a4014124cc.600x338.jpg?t=1746296371",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481930/843818a80604d8f8829ea0c756f7d831c8421cbe/ss_843818a80604d8f8829ea0c756f7d831c8421cbe.600x338.jpg?t=1746296371",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481930/ee9d6cf0d5173ee862cc5988b1789fcc86035d20/ss_ee9d6cf0d5173ee862cc5988b1789fcc86035d20.600x338.jpg?t=1746296371",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2481930/6c593bc0a7678cd6918550942192e3bf27d6cdd5/ss_6c593bc0a7678cd6918550942192e3bf27d6cdd5.600x338.jpg?t=1746296371"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>You are a rat.</strong></p><p class=\"bb_paragraph\" >Your fear response will be tested.</p><p class=\"bb_paragraph\" >Through the tunnel, you will find an environment where another rat is lost.</p><p class=\"bb_paragraph\" >Your mission is to find the lost rat and help it escape.</p><p class=\"bb_paragraph\" >You can go alone or with other rats.</p><p class=\"bb_paragraph\" >You must move quickly with your hands and arms to guide the lost rat to safety.</p><p class=\"bb_paragraph\" ><strong>You may begin.</strong></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>You are a rat.</strong></p><p class=\"bb_paragraph\" >Your fear response will be tested.</p><p class=\"bb_paragraph\" >Through the tunnel, you will find an environment where another rat is lost.</p><p class=\"bb_paragraph\" >Your mission is to find the lost rat and help it escape.</p><p class=\"bb_paragraph\" >You can go alone or with other rats.</p><p class=\"bb_paragraph\" >You must move quickly with your hands and arms to guide the lost rat to safety.</p><p class=\"bb_paragraph\" ><strong>You may begin.</strong></p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Online Co-op",
-    "Cross-Platform Multiplayer",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0014,
   "gem_score": 0.688,
   "hype_score": 0.0,
-  "review_velocity_7d": 26.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 94,
-  "review_positive": 85,
+  "review_positive": 0,
   "review_percentage": 90.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 68,
-      "review_percentage": 97.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 94,
       "review_percentage": 90.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

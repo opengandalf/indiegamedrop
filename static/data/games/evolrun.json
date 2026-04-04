@@ -3,8 +3,8 @@
   "name": "EvolRUN",
   "slug": "evolrun",
   "developer": "KellenKyo",
-  "publisher": "KellenKyo",
-  "release_date": "Oct 19, 2024",
+  "publisher": "",
+  "release_date": "2024-10-19",
   "price_usd": 0.99,
   "genres": [
     "Adventure",
@@ -19,35 +19,15 @@
   ],
   "short_description": "Can you survive for years since the beginning of evolution, where you will face creatures that you must devour or flee if they are more evolved? It's a score game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3233190/header.jpg?t=1774393415",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3233190/ss_d9606768698bad4b450dd0647efbe7c18c9ef974.600x338.jpg?t=1774393415",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3233190/ss_e13ed5efc2aaef3b9f54d60c3614d4d28e948413.600x338.jpg?t=1774393415",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3233190/ss_1eb377e0bb3b3c5656db4ffeeb5a79f68fa05af3.600x338.jpg?t=1774393415",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3233190/ss_184e03f725a2f3f2a705f33d4be910603b1b94c3.600x338.jpg?t=1774393415",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3233190/ss_5f9e89741e16d13d18ba0bae489dadd1ab83a24e.600x338.jpg?t=1774393415",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3233190/ss_af6b65c52c9bdf0ddc23b4fa21dacabae0c98df5.600x338.jpg?t=1774393415"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Have you imagined a game themed around evolution since the dawn of time as you manage to survive?</p><p class=\"bb_paragraph\" >The EvolRUN is a game that was initially for OPinguim10's Game Jam in 2022, with an Evolution theme. Now, the game will have an official version here on Steam with additional contents.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game is an Infinite Runner where you aim to survive throughout the evolution of the species, where you control the beginning of the species that has the form of the origin of the defenseless fish. Your objective is to survive during your journey, dodging predators, eating prey which are smaller species, and collecting evolution's items. Each evolution will change the form and improve its food chain. And you will have the chance to change the phase, but with great challenge than the previous</p><p class=\"bb_paragraph\" >If you die, the game restarts from the very beginning... And that beginning is as a <strong>FISH!</strong></p><h2 class=\"bb_tag\" ><strong>       <u>GAMEPLAY:</u></strong></h2><p class=\"bb_paragraph\" >The gameplay revolves around the keyboard, but you must take caution, for each stage mechanic can change depending on the evolution form. There are three types of stages, each with different mechanics, like:  <br><u><strong>•    Water Stage:</strong></u> Movement going up and down.</p><p class=\"bb_paragraph\" ><u><strong>•    Earth Stage: </strong></u>Movement to the left, right, and jump. </p><p class=\"bb_paragraph\" ><u><strong>•    Wind Stage:</strong></u> Flight by clicking and diving downward.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Have you imagined a game themed around evolution since the dawn of time as you manage to survive?</p><p class=\"bb_paragraph\" >The EvolRUN is a game that was initially for OPinguim10's Game Jam in 2022, with an Evolution theme. Now, the game will have an official version here on Steam with additional contents.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game is an Infinite Runner where you aim to survive throughout the evolution of the species, where you control the beginning of the species that has the form of the origin of the defenseless fish. Your objective is to survive during your journey, dodging predators, eating prey which are smaller species, and collecting evolution's items. Each evolution will change the form and improve its food chain. And you will have the chance to change the phase, but with great challenge than the previous</p><p class=\"bb_paragraph\" >If you die, the game restarts from the very beginning... And that beginning is as a <strong>FISH!</strong></p><h2 class=\"bb_tag\" ><strong>       <u>GAMEPLAY:</u></strong></h2><p class=\"bb_paragraph\" >The gameplay revolves around the keyboard, but you must take caution, for each stage mechanic can change depending on the evolution form. There are three types of stages, each with different mechanics, like:  <br><u><strong>•    Water Stage:</strong></u> Movement going up and down.</p><p class=\"bb_paragraph\" ><u><strong>•    Earth Stage: </strong></u>Movement to the left, right, and jump. </p><p class=\"bb_paragraph\" ><u><strong>•    Wind Stage:</strong></u> Flight by clicking and diving downward.</p>",
-  "supported_languages": "English, Spanish - Latin America, Portuguese - Brazil",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Keyboard Only Option",
-    "Mouse Only Option",
-    "Playable without Timed Input",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 7,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 85.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 85.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 85.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "DressMaker",
   "slug": "dressmaker",
   "developer": "Suzuki Cecil",
-  "publisher": "Dream Factory Co., Ltd.",
-  "release_date": "Mar 26, 2021",
+  "publisher": "",
+  "release_date": "2021-03-26",
   "price_usd": 9.99,
   "genres": [
     "Casual",
@@ -23,31 +23,15 @@
   ],
   "short_description": "This app lets you make a one-piece (texture) of a 3D avatar made with ‘’Cecil HenShin App” and ”VRoid Studio”. Import VRM and dress up!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1487080/header.jpg?t=1638234922",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1487080/ss_3302836a5e73e3b1d0b1d9b0cf238c0d4c218f11.600x338.jpg?t=1638234922",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1487080/ss_6c53a195b3c7391191cd6b56b9fbe9add0d53a37.600x338.jpg?t=1638234922",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1487080/ss_d79b816aba134560adf5ad764cf7925d32a3c7e0.600x338.jpg?t=1638234922",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1487080/ss_fb8e6ce72c1a1e221e6d7af23e943f45772199b4.600x338.jpg?t=1638234922",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1487080/ss_e6638e29e9255257e9eb82bba56f96f499fa3ae1.600x338.jpg?t=1638234922"
-  ],
-  "detailed_description": "This app lets you make a one-piece (texture) of a 3D avatar made with ‘’Cecil HenShin App” or ”VRoid Studio”.<br>Import VRM and dress up!<br><br>DressMaker is the application that allows you to create and output textures compatible with VRoid Studio and ‘’Cecil HenShin App”.<br><br>You can output a VRM format file while wearing the dress you created.<br><br>You can create your own original dress by arranging the designs in the app, even if you can't draw a picture.<h2 class=\"bb_tag\" >【DressMaker Pro】NOW ON SALE!</h2><br><br><br><br>”This app is for designing the dresses for Vroid onepiece.\" <br>Use this app with VRoidStudio!<br> <br>What is the Cecil HenShin App?<br>Cecil HenShin is a 3D avatar maker that is developed by Virtual Youtuber, Suzuki Cecil. <br>The avatars you create can be export in VRM format and used in various VRM-enabled applications.<h2 class=\"bb_tag\" >Do you wanna add \"kawaii\" items on your VRM？<br>【ItemShop】NOW ON SALE!</h2>",
-  "about_the_game": "This app lets you make a one-piece (texture) of a 3D avatar made with ‘’Cecil HenShin App” or ”VRoid Studio”.<br>Import VRM and dress up!<br><br>DressMaker is the application that allows you to create and output textures compatible with VRoid Studio and ‘’Cecil HenShin App”.<br><br>You can output a VRM format file while wearing the dress you created.<br><br>You can create your own original dress by arranging the designs in the app, even if you can't draw a picture.<h2 class=\"bb_tag\" >【DressMaker Pro】NOW ON SALE!</h2><br><br><br><br>”This app is for designing the dresses for Vroid onepiece.\" <br>Use this app with VRoidStudio!<br> <br>What is the Cecil HenShin App?<br>Cecil HenShin is a 3D avatar maker that is developed by Virtual Youtuber, Suzuki Cecil. <br>The avatars you create can be export in VRM format and used in various VRM-enabled applications.<h2 class=\"bb_tag\" >Do you wanna add \"kawaii\" items on your VRM？<br>【ItemShop】NOW ON SALE!</h2>",
-  "supported_languages": "Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.45,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 9,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 33.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 33.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 33.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

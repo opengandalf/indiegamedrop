@@ -3,8 +3,8 @@
   "name": "TAKANARIA",
   "slug": "takanaria",
   "developer": "Crownbird",
-  "publisher": "Crownbird",
-  "release_date": "Jan 14, 2019",
+  "publisher": "",
+  "release_date": "2019-01-14",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -23,52 +23,27 @@
   ],
   "short_description": "TAKANARIA is a very simple game created with Pixel art.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005910/header.jpg?t=1547513198",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005910/ss_e14efb8da62b9b034b0cfc4d62f482257def114d.600x338.jpg?t=1547513198",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005910/ss_c470d2150e6b44af791ed12c9e7fb609ab765011.600x338.jpg?t=1547513198",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005910/ss_2e5e490be2b402aa885778fb6fe8a4facea6d67a.600x338.jpg?t=1547513198",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005910/ss_7f768570bdbfdad433a9ef6013f859fd3d1dee3c.600x338.jpg?t=1547513198",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005910/ss_560626275627d193ccc852c568e4fae46b1a61f3.600x338.jpg?t=1547513198"
-  ],
-  "detailed_description": "TAKANARIA is a very simple game created with Pixel art.<br />\r\nYou will be controlling Anensi, a botanist, and Yaful, a manager of a desert islands in TAKANARIA islands, to discover the island.<br />\r\nThere is no story to complete as there is no concept of clearing stages.<br />\r\nEnjoy the beautiful scenery of the islands and enjoy discovering  the life of the islands.",
-  "about_the_game": "TAKANARIA is a very simple game created with Pixel art.<br />\r\nYou will be controlling Anensi, a botanist, and Yaful, a manager of a desert islands in TAKANARIA islands, to discover the island.<br />\r\nThere is no story to complete as there is no concept of clearing stages.<br />\r\nEnjoy the beautiful scenery of the islands and enjoy discovering  the life of the islands.",
-  "supported_languages": "English, Simplified Chinese, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0001,
   "gem_score": 0.5503,
   "hype_score": 0.0,
-  "review_velocity_7d": 6.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 259,
-  "review_positive": 235,
+  "review_positive": 0,
   "review_percentage": 90.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "rising",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 253,
-      "review_percentage": 90.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 259,
       "review_percentage": 90.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

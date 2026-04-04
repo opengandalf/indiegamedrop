@@ -3,8 +3,8 @@
   "name": "3D Text Adventure",
   "slug": "3d-text-adventure",
   "developer": "Ariel Love",
-  "publisher": "Infocom Remakes",
-  "release_date": "Sep 10, 2019",
+  "publisher": "",
+  "release_date": "2019-09-10",
   "price_usd": 0.0,
   "genres": [
     "Adventure"
@@ -15,33 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "This Australian Indie studio is committed to converting the old Infocom text adventures to 3d first person adventures. 3D Text Adventure is the first of these to be developed. These infocom remakes are practically exactly the same as the originals.",
+  "short_description": "This Australian Indie studio is committed to converting the old Infocom text adventures to 3d first person adventures. 3D Text Adventure is the first of these to be developed. These infocom remakes ar",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1083700/header.jpg?t=1572215893",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1083700/ss_563341b3aba41a12663831527166267ccf9560b0.600x338.jpg?t=1572215893",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1083700/ss_24da87e161e123e0f8ad7d47c5a9ab9e20d3a111.600x338.jpg?t=1572215893",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1083700/ss_527a668f36dee6f087a5b56297da3e13f6c2bae9.600x338.jpg?t=1572215893",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1083700/ss_9efa27391a3943453ed090f864e9dcf2bed7224d.600x338.jpg?t=1572215893",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1083700/ss_fd066d310f6a74ad7cfda364c980981564b7fabb.600x338.jpg?t=1572215893"
-  ],
-  "detailed_description": "WARNING! - you will need dedicated graphics to run this game.<br />\r\n<br />\r\nThis is a remake of the first Infocom game complete.<br />\r\n<br />\r\n<br />\r\nUPDATE PATCH 14th Sept - the stuttering in the forest at the beginning of the game has been removed. The frame rate is much better. Sorry about the rocky launch. Please email me any bugs. Thank you.<br />\r\n<br />\r\n<br />\r\nThis Australian Indie studio is committed to converting the old Infocom text adventures to 3d first person adventures.3D Text Adventure is the first of these to be developed.  These infocom remakes are practically exactly the same as the originals.<br />\r\n<br />\r\nInstructions for playing the free pre-release demo - <br />\r\nWASD  - move<br />\r\nMouse - look around<br />\r\nLeft click - interact<br />\r\nRight click - inventory / save / load / quit<br />\r\nSpace - jump<br />\r\nLeft Shift - run<br />\r\n<br />\r\nObjects to find in the demo - 8<br />\r\nThings to do in the demo - 3<br />\r\n<br />\r\n3D Text Adventure is a puzzle adventure game of the past. Like the original, this game has no instructions or quest markers. It<br />\r\n is up to the player to figure out how to progress. The only hint is to PROGRESS! You will know once you have won.",
-  "about_the_game": "WARNING! - you will need dedicated graphics to run this game.<br />\r\n<br />\r\nThis is a remake of the first Infocom game complete.<br />\r\n<br />\r\n<br />\r\nUPDATE PATCH 14th Sept - the stuttering in the forest at the beginning of the game has been removed. The frame rate is much better. Sorry about the rocky launch. Please email me any bugs. Thank you.<br />\r\n<br />\r\n<br />\r\nThis Australian Indie studio is committed to converting the old Infocom text adventures to 3d first person adventures.3D Text Adventure is the first of these to be developed.  These infocom remakes are practically exactly the same as the originals.<br />\r\n<br />\r\nInstructions for playing the free pre-release demo - <br />\r\nWASD  - move<br />\r\nMouse - look around<br />\r\nLeft click - interact<br />\r\nRight click - inventory / save / load / quit<br />\r\nSpace - jump<br />\r\nLeft Shift - run<br />\r\n<br />\r\nObjects to find in the demo - 8<br />\r\nThings to do in the demo - 3<br />\r\n<br />\r\n3D Text Adventure is a puzzle adventure game of the past. Like the original, this game has no instructions or quest markers. It<br />\r\n is up to the player to figure out how to progress. The only hint is to PROGRESS! You will know once you have won.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0008,
+  "screenshots": [],
+  "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 1.75,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 35,
-  "review_positive": 17,
+  "review_positive": 0,
   "review_percentage": 48.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -49,26 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 34,
-      "review_percentage": 44.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 35,
-      "review_percentage": 48.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 35,
       "review_percentage": 48.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

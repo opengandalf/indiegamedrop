@@ -3,8 +3,8 @@
   "name": "Escortina Life! 2.0",
   "slug": "escortina-life-20",
   "developer": "Jaano Krapu, Rasmus Lumijärvi",
-  "publisher": "Nuclear Maniacs",
-  "release_date": "Aug 16, 2024",
+  "publisher": "",
+  "release_date": "2024-08-16",
   "price_usd": 4.99,
   "genres": [
     "Racing",
@@ -21,31 +21,13 @@
   ],
   "short_description": "Early Project.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661060/header.jpg?t=1767537487",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661060/ss_5f26d03123289e81aed400e8f7a81bdd03cc2bfb.600x338.jpg?t=1767537487",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661060/ss_6fecf3243fde90a4a09fade2954b0a9d66766109.600x338.jpg?t=1767537487",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661060/ss_e394b569ccac3bf10fbe8841ba9000aa2a3abb60.600x338.jpg?t=1767537487",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661060/ss_880943b21577af7d652d2f592ec3d782253f0c64.600x338.jpg?t=1767537487",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2661060/ss_c97196bbc3cd461f807e87994d3b20070e621ff3.600x338.jpg?t=1767537487"
-  ],
-  "detailed_description": "Warning! this is just a project, and not a game at all.",
-  "about_the_game": "Warning! this is just a project, and not a game at all.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "HDR available",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

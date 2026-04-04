@@ -3,8 +3,8 @@
   "name": "Space Rocks Blaster",
   "slug": "space-rocks-blaster",
   "developer": "M0ustache Games",
-  "publisher": "M0ustache Games",
-  "release_date": "Nov 14, 2021",
+  "publisher": "",
+  "release_date": "2021-11-14",
   "price_usd": 1.99,
   "genres": [
     "Casual",
@@ -17,40 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "An arcade space shooter with a simple retro design. The player earns score for destroying asteroids and enemy space ships. The game has a single player mode and a two players co-op mode on a single computer.",
+  "short_description": "An arcade space shooter with a simple retro design. The player earns score for destroying asteroids and enemy space ships. The game has a single player mode and a two players co-op mode on a single co",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1793960/header.jpg?t=1636949871",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1793960/ss_d1a0c3bc5b4b86b0c2b380cc1c25eb35b62b06d0.600x338.jpg?t=1636949871",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1793960/ss_24e65632418d25a9e09ee1319c64053cd009d741.600x338.jpg?t=1636949871",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1793960/ss_b12fa4438420a5d1c72c162e0c92e12bd8655bef.600x338.jpg?t=1636949871",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1793960/ss_b2c23881e487860dd4a4a217b9471be72f19c47f.600x338.jpg?t=1636949871",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1793960/ss_76bbd7224253e03b820e3c0640260abc498ed6a3.600x338.jpg?t=1636949871"
-  ],
-  "detailed_description": "Become a space pilot and take the controls of different spaceships.<br />\r\n<br />\r\nFly through treacherous asteroid fields and destroy the asteroids to earn points. But be careful not to crash.<br />\r\n<br />\r\nAim for heart-shaped rocks to regain lost lives.<br />\r\n<br />\r\nFight enemy spaceships, avoiding their powerful plasma projectiles.",
-  "about_the_game": "Become a space pilot and take the controls of different spaceships.<br />\r\n<br />\r\nFly through treacherous asteroid fields and destroy the asteroids to earn points. But be careful not to crash.<br />\r\n<br />\r\nAim for heart-shaped rocks to regain lost lives.<br />\r\n<br />\r\nFight enemy spaceships, avoiding their powerful plasma projectiles.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Steam Achievements",
-    "Stats",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

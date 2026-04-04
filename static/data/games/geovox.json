@@ -3,8 +3,8 @@
   "name": "GeoVox",
   "slug": "geovox",
   "developer": "Axis Game Factory, Inc.",
-  "publisher": "Axis Game Factory, Inc.",
-  "release_date": "May 22, 2015",
+  "publisher": "",
+  "release_date": "2015-05-22",
   "price_usd": 24.99,
   "genres": [
     "Animation & Modeling",
@@ -27,70 +27,23 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "GeoVox is the latest application by Axis Game Factory, Inc. GeoVox is a completely new stand-alone Voxel based real-time terrain creation tool. Instantly create lush AAA quality environments from the start; carve, sculpt, and generate scenes like never before! Build, Play & Share.",
+  "short_description": "GeoVox is the latest application by Axis Game Factory, Inc. GeoVox is a completely new stand-alone Voxel based real-time terrain creation tool. Instantly create lush AAA quality environments from the ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368470/header.jpg?t=1447373906",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368470/ss_99de88f8a2e520ec61701e8009b297d82f457895.600x338.jpg?t=1447373906",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368470/ss_0cab6061b8dc08d7aa057c939160a8c2b216ef94.600x338.jpg?t=1447373906",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368470/ss_96842fac10ebe5b688fd857fb48d2560c5bec09d.600x338.jpg?t=1447373906",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368470/ss_71950ef6a887f7bcbcbbfda36a0d363c8204bf74.600x338.jpg?t=1447373906",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368470/ss_e39c1534753d402937af93fd2584dd99b7da372d.600x338.jpg?t=1447373906",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368470/ss_8a080c891ec9478062032deaf1b4e54097f82b1f.600x338.jpg?t=1447373906",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368470/ss_f02ec0187d006c2efccfa5acdef85abdafa95ef4.600x338.jpg?t=1447373906",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368470/ss_9c73d4953bf53142e4441f22d4b2e56d960eb3b7.600x338.jpg?t=1447373906",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368470/ss_63feeb234d9e7a3136b7d5371f45229075849fae.600x338.jpg?t=1447373906",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368470/ss_a57b2331f278ff93a94cd7f9006d0cf5a3c5504d.600x338.jpg?t=1447373906",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368470/ss_2a2e414c70a662afae8e9acdee5142dc9fec2879.600x338.jpg?t=1447373906",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368470/ss_8391275e87213723cf4381ab19fc7adbb6d7b0e3.600x338.jpg?t=1447373906",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368470/ss_9351ab4c6e6333f96bec8ca63bc94a0307784f8d.600x338.jpg?t=1447373906",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368470/ss_bf5e46bcc1e2698417a2d3327402fe1e14788752.600x338.jpg?t=1447373906"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >GeoVox</h2><br>GeoVox is the latest real time world generation software application created by Axis Game Factory, Inc.  GeoVox is a completely new stand-alone Voxel based real-time terrain creation tool. <br><br>GeoVox instantly creates lush AAA quality environments at the start of the application.  Designed with intuitive game like controls it allows users to test for level playability as they are creating.  <br><br><strong>Key Features:  </strong><br>  <strong>User Experience</strong><br>•\tInstant environment is generated at application start <br>•\tSimple tools that allow users to edit the environment as needed without a steep learning curve<br>•\tClean, low overhead GUI that allows for fast terrain editing, without limiting users creativity<br>•\tStandard game controls to allow users to explore their environment to simulate gameplay<br>•\tFlying Camera or FPS style with gravity and jump ability camera modes<br>•\tFull real-time Voxel based terrain editing<br>  o\t  Easily edit the terrain with simple point and click volume brushes<br>  o\t  Define Voxel brush sizes and shape<br>  o\t  Single click and click and drag on Voxel application<br>  o\t  Offset Voxel brush from center or base<br>  o\t  Brush snapping<br>  o\t  Add Voxel volumes<br>  o\t  Cut Voxel volumes<br>  o\t  Paint Voxel volumes<br>  o\t  User definable smoothing <br>  o\t  Cut volumes and Paint textures and apply environmental assets simultaneously  <br>  o\t  Create a pallet of Voxel types to be used in your environment<br>  o\t  Voxel types can include textures, assets and vegetation<br>  o\t  Mix and match variables to create many Voxel types<br>  o\t  Voxel types can be applied upright or aligned to terrain normal<br>  o\t  Assets can have user defined depth off-sets <br>•\tFully featured fractal algorithmic terrain generator <br>•\tLimited or Infinite terrain editing abilities (user decides and determines how large they want their maps)<br>•\tCreate from hundreds of pre-packed, license free assets to use for professional development<br>•\tAssets include:<br>  o\t  Trees<br>  o\t  Plants<br>  o\t  Rocks<br>  o\t  Shrubs<br>  o\t  Flowers<br>  o\t  Grasses<br>•\tLibrary of terrain textures included with color, normal and specular maps<br>•\tReal-Time, user defined Ambient Occlusion <br><br><strong>Input/Output</strong><br>•\tCreate Asset Packs for use with Geovox using the Geovox Asset packager and Unity FREE<br>•\tImporting of AGF and Geovox Asset Packs for use in Geovox<br>•\tImporting of the Geovox Terrain Format (Raw Mesh data) to Unity 5.0 <br>•      Asset Packager for use with Unity 5.0 Free to GeoVox asset package format<br>•\tGeoVox to .Obj exporting <br>  o\t  User defined model export parameters<br>  o\t  User defined export location<br>  o\t  User defined export size<br>  o\t  All mesh assets export with transforms applied <br>  o\t  All images export in .PNG format<br><br><strong>Product Road Map of Future Updates / DLC - will be added at a later date</strong><br>•\tImporting of the Geovox Terrain Format (Raw Mesh data) to Unity 5.0 (COMPLETED AND PUBLISHED 06.11.2015) <br>•\tImporting of the Geovox Terrain Format to the AGFPRO Editor (future update)<br>•\tImporting of the Geovox Terrain Format to the AGFPRO Player DLC (future update)<br>•      Asset Packager for use with Unity 5.0 Free to GeoVox asset package format (COMPLETED AND PUBLISHED 06.11.2015)",
-  "about_the_game": "<h2 class=\"bb_tag\" >GeoVox</h2><br>GeoVox is the latest real time world generation software application created by Axis Game Factory, Inc.  GeoVox is a completely new stand-alone Voxel based real-time terrain creation tool. <br><br>GeoVox instantly creates lush AAA quality environments at the start of the application.  Designed with intuitive game like controls it allows users to test for level playability as they are creating.  <br><br><strong>Key Features:  </strong><br>  <strong>User Experience</strong><br>•\tInstant environment is generated at application start <br>•\tSimple tools that allow users to edit the environment as needed without a steep learning curve<br>•\tClean, low overhead GUI that allows for fast terrain editing, without limiting users creativity<br>•\tStandard game controls to allow users to explore their environment to simulate gameplay<br>•\tFlying Camera or FPS style with gravity and jump ability camera modes<br>•\tFull real-time Voxel based terrain editing<br>  o\t  Easily edit the terrain with simple point and click volume brushes<br>  o\t  Define Voxel brush sizes and shape<br>  o\t  Single click and click and drag on Voxel application<br>  o\t  Offset Voxel brush from center or base<br>  o\t  Brush snapping<br>  o\t  Add Voxel volumes<br>  o\t  Cut Voxel volumes<br>  o\t  Paint Voxel volumes<br>  o\t  User definable smoothing <br>  o\t  Cut volumes and Paint textures and apply environmental assets simultaneously  <br>  o\t  Create a pallet of Voxel types to be used in your environment<br>  o\t  Voxel types can include textures, assets and vegetation<br>  o\t  Mix and match variables to create many Voxel types<br>  o\t  Voxel types can be applied upright or aligned to terrain normal<br>  o\t  Assets can have user defined depth off-sets <br>•\tFully featured fractal algorithmic terrain generator <br>•\tLimited or Infinite terrain editing abilities (user decides and determines how large they want their maps)<br>•\tCreate from hundreds of pre-packed, license free assets to use for professional development<br>•\tAssets include:<br>  o\t  Trees<br>  o\t  Plants<br>  o\t  Rocks<br>  o\t  Shrubs<br>  o\t  Flowers<br>  o\t  Grasses<br>•\tLibrary of terrain textures included with color, normal and specular maps<br>•\tReal-Time, user defined Ambient Occlusion <br><br><strong>Input/Output</strong><br>•\tCreate Asset Packs for use with Geovox using the Geovox Asset packager and Unity FREE<br>•\tImporting of AGF and Geovox Asset Packs for use in Geovox<br>•\tImporting of the Geovox Terrain Format (Raw Mesh data) to Unity 5.0 <br>•      Asset Packager for use with Unity 5.0 Free to GeoVox asset package format<br>•\tGeoVox to .Obj exporting <br>  o\t  User defined model export parameters<br>  o\t  User defined export location<br>  o\t  User defined export size<br>  o\t  All mesh assets export with transforms applied <br>  o\t  All images export in .PNG format<br><br><strong>Product Road Map of Future Updates / DLC - will be added at a later date</strong><br>•\tImporting of the Geovox Terrain Format (Raw Mesh data) to Unity 5.0 (COMPLETED AND PUBLISHED 06.11.2015) <br>•\tImporting of the Geovox Terrain Format to the AGFPRO Editor (future update)<br>•\tImporting of the Geovox Terrain Format to the AGFPRO Player DLC (future update)<br>•      Asset Packager for use with Unity 5.0 Free to GeoVox asset package format (COMPLETED AND PUBLISHED 06.11.2015)",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Full controller support",
-    "Includes level editor"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 52,
-  "review_positive": 27,
+  "review_positive": 0,
   "review_percentage": 51.9,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 4705,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 52,
-      "review_percentage": 51.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 52,
-      "review_percentage": 51.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
+      "date": "2026-04-04",
       "review_count": 52,
       "review_percentage": 51.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

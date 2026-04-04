@@ -3,8 +3,8 @@
   "name": "Light Crawler",
   "slug": "light-crawler",
   "developer": "Craig Beeson, Jonny Vorderkunz",
-  "publisher": "Craig Beeson",
-  "release_date": "Oct 28, 2023",
+  "publisher": "",
+  "release_date": "2023-10-28",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -25,34 +25,9 @@
   ],
   "short_description": "A first-person dungeon crawler where you explore a procedurally generated dark world with dungeons. You only have your lantern for light. Don't let it run out as you explore the world and dungeons.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712510/header.jpg?t=1698521985",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712510/ss_78550a5b331f13782ef7e7b71e003ffa9f3a08e4.600x338.jpg?t=1698521985",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712510/ss_dc7b49827e9101c12d3818acc207762462a44119.600x338.jpg?t=1698521985",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712510/ss_62ce8759f7e27e0c07c5728486e9da32172e85f2.600x338.jpg?t=1698521985",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712510/ss_854ab3ff45bf5af38e6517666ebed64a54e0d9f6.600x338.jpg?t=1698521985",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712510/ss_f0b4812321cb60373acababc4b22a0c872dc34db.600x338.jpg?t=1698521985",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712510/ss_bc54e759a50c9b445b9c8729df1cdd7fb79fd066.600x338.jpg?t=1698521985",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712510/ss_35b085be97e366097bb7787c548c7169b2716848.600x338.jpg?t=1698521985"
-  ],
-  "detailed_description": "A first-person dungeon crawler with a procedurally generated open world.<br />\r\nAs you explore the outside world you will come across different area types, forest, desert, tundra, etc.<br />\r\nEach area will feature its own enemies and dungeons.<br />\r\nAs you level up so do your weapons, find ones you like and keep upgrading them.<br />\r\nThe primary weapon types are magic, ranged, and melee.<br />\r\nYou can get different lights for your lantern, green(poisons enemies affected by its light), blue(slows enemies), etc.<br />\r\nWeapons drop as the base item, base item with prefix buff, base item with suffix buff, base item with prefix and suffix buff, or unique item",
-  "about_the_game": "A first-person dungeon crawler with a procedurally generated open world.<br />\r\nAs you explore the outside world you will come across different area types, forest, desert, tundra, etc.<br />\r\nEach area will feature its own enemies and dungeons.<br />\r\nAs you level up so do your weapons, find ones you like and keep upgrading them.<br />\r\nThe primary weapon types are magic, ranged, and melee.<br />\r\nYou can get different lights for your lantern, green(poisons enemies affected by its light), blue(slows enemies), etc.<br />\r\nWeapons drop as the base item, base item with prefix buff, base item with suffix buff, base item with prefix and suffix buff, or unique item",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 4,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Cave Confectioner",
   "slug": "cave-confectioner",
   "developer": "Motor Strip Entertainment",
-  "publisher": "Motor Strip Entertainment",
-  "release_date": "Mar 16, 2021",
+  "publisher": "",
+  "release_date": "2021-03-16",
   "price_usd": 2.99,
   "genres": [
     "Adventure",
@@ -25,35 +25,15 @@
   ],
   "short_description": "A prehistoric RPG that's light on combat and farming, heavy on scavenging and crafting. Collect ingredients, process them into finished goods, and click your way to a sweeter future.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181900/header.jpg?t=1724280812",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181900/ss_b58e1124bb569e243b42ec080015017e98d10f28.600x338.jpg?t=1724280812",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181900/ss_5eb18a3a7f69b6b70b2fec57c976564c415e4d1c.600x338.jpg?t=1724280812",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181900/ss_c67e76d2d65fe1d220d4cc27bc316b589d69ad59.600x338.jpg?t=1724280812",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181900/ss_d7f1b744eef381c06bbec255e9dd9677c1717b6e.600x338.jpg?t=1724280812",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181900/ss_20f6af528f3b6d2c9f1ff966e1a9460d2c19c806.600x338.jpg?t=1724280812",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181900/ss_17c9549d81bb9291b7615bee4cea87823598f60e.600x338.jpg?t=1724280812",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181900/ss_71edb6fa6ce229d49af828e85a42f5495e3113a7.600x338.jpg?t=1724280812"
-  ],
-  "detailed_description": "<h1>New DLC Available</h1><p></p><br><h1>About the Game</h1><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181900/extras/1e39c133ab6ede040366fe09c0ac4097.avif?t=1724280812\" width=600 height=128 /></span><br><br>Cave Confectioner is a back-to-the-land farming and cooking RPG. Farm crops, discover new recipes, fight wild animals, and get to know the locals. But don't let your guard down. This is a two-handed experience that punishes you for overlooking details. Cavemen don't get vacations.<h2 class=\"bb_tag\" ><strong>Explore an open world</strong></h2>Go almost anywhere, interact with almost anything, eat almost anything. The temperate climate makes crops grow fast and food plentiful.<h2 class=\"bb_tag\" ><strong>Combine ingredients</strong></h2>An intuitive crafting system lets you at least attempt to combine everything with everything, whether or not the things go together. Combine natural ingredients with manmade things and fixtures of the world. Dozens of end products are formed by unique recipes, and only the correct combinations yield the goods.<h2 class=\"bb_tag\" ><strong>Choose your own path</strong></h2>Craft things, sell foodstuffs to cave people, poke around and see how nature reacts. There is no \"quest\" or \"mission\" dialog box telling you where to go. Advancement is achieved through secrets and exploration.<h2 class=\"bb_tag\" ><strong>Built to last</strong></h2>This developer has done the heavy lifting to give you a constant 60 FPS. A custom C++/OpenGL engine is used, Windows executables are built with MinGW, Linux executables are built against glibc 2.25 and tested on the latest versions of Ubuntu. There is no third-party proprietary software outside of Apple platforms. Anything that breaks is fixable.",
-  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181900/extras/1e39c133ab6ede040366fe09c0ac4097.avif?t=1724280812\" width=600 height=128 /></span><br><br>Cave Confectioner is a back-to-the-land farming and cooking RPG. Farm crops, discover new recipes, fight wild animals, and get to know the locals. But don't let your guard down. This is a two-handed experience that punishes you for overlooking details. Cavemen don't get vacations.<h2 class=\"bb_tag\" ><strong>Explore an open world</strong></h2>Go almost anywhere, interact with almost anything, eat almost anything. The temperate climate makes crops grow fast and food plentiful.<h2 class=\"bb_tag\" ><strong>Combine ingredients</strong></h2>An intuitive crafting system lets you at least attempt to combine everything with everything, whether or not the things go together. Combine natural ingredients with manmade things and fixtures of the world. Dozens of end products are formed by unique recipes, and only the correct combinations yield the goods.<h2 class=\"bb_tag\" ><strong>Choose your own path</strong></h2>Craft things, sell foodstuffs to cave people, poke around and see how nature reacts. There is no \"quest\" or \"mission\" dialog box telling you where to go. Advancement is achieved through secrets and exploration.<h2 class=\"bb_tag\" ><strong>Built to last</strong></h2>This developer has done the heavy lifting to give you a constant 60 FPS. A custom C++/OpenGL engine is used, Windows executables are built with MinGW, Linux executables are built against glibc 2.25 and tested on the latest versions of Ubuntu. There is no third-party proprietary software outside of Apple platforms. Anything that breaks is fixable.",
-  "supported_languages": "English, Traditional Chinese, Greek",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.75,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 15,
-  "review_positive": 11,
+  "review_positive": 0,
   "review_percentage": 73.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -61,19 +41,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 15,
-      "review_percentage": 73.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 15,
       "review_percentage": 73.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

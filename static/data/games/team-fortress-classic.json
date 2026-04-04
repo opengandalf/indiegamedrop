@@ -3,8 +3,8 @@
   "name": "Team Fortress Classic",
   "slug": "team-fortress-classic",
   "developer": "Valve",
-  "publisher": "Valve",
-  "release_date": "Apr 1, 1999",
+  "publisher": "",
+  "release_date": "1999-04-01",
   "price_usd": 1.24,
   "genres": [
     "Action"
@@ -17,62 +17,23 @@
     "mac",
     "linux"
   ],
-  "short_description": "One of the most popular online action games of all time, Team Fortress Classic features over nine character classes -- from Medic to Spy to Demolition Man -- enlisted in a unique style of online team warfare. Each character class possesses unique weapons, items, and abilities, as teams compete online in a variety of game play modes.",
+  "short_description": "One of the most popular online action games of all time, Team Fortress Classic features over nine character classes -- from Medic to Spy to Demolition Man -- enlisted in a unique style of online team ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/header.jpg?t=1745368565",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000164.600x338.jpg?t=1745368565",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000165.600x338.jpg?t=1745368565",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000166.600x338.jpg?t=1745368565",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000167.600x338.jpg?t=1745368565",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20/0000000168.600x338.jpg?t=1745368565"
-  ],
-  "detailed_description": "One of the most popular online action games of all time, Team Fortress Classic features over nine character classes -- from Medic to Spy to Demolition Man -- enlisted in a unique style of online team warfare. Each character class possesses unique weapons, items, and abilities, as teams compete online in a variety of game play modes.",
-  "about_the_game": "One of the most popular online action games of all time, Team Fortress Classic features over nine character classes -- from Medic to Spy to Demolition Man -- enlisted in a unique style of online team warfare. Each character class possesses unique weapons, items, and abilities, as teams compete online in a variety of game play modes.",
-  "supported_languages": "English, French, German, Italian, Spanish - Spain, Korean, Russian, Simplified Chinese, Traditional Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Shared/Split Screen PvP",
-    "Custom Volume Controls",
-    "Keyboard Only Option",
-    "Stereo Sound",
-    "Valve Anti-Cheat enabled",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 6847,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 9069,
-  "review_positive": 7901,
+  "review_positive": 0,
   "review_percentage": 87.1,
   "owner_estimate": 1500000,
-  "ccu_estimate": 66,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 13,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 8738,
-      "review_percentage": 87.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 9069,
       "review_percentage": 87.1,
-      "ccu_estimate": 66,
+      "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

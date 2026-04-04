@@ -3,8 +3,8 @@
   "name": "manaCompiler",
   "slug": "manacompiler",
   "developer": "Joel Kivelä",
-  "publisher": "Joel Kivelä",
-  "release_date": "Mar 22, 2022",
+  "publisher": "",
+  "release_date": "2022-03-22",
   "price_usd": 20.09,
   "genres": [
     "Indie",
@@ -20,32 +20,9 @@
   ],
   "short_description": "Modular audio/music environment with accessible visual programming style and infinite possibilities to create your own sound and style.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836380/header.jpg?t=1759079707",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836380/ss_a61c374af3067c10604290ee4bf738b9f966aa02.600x338.jpg?t=1759079707",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836380/ss_d6558b6585f7994c79465dc6ca86f97e21a00db6.600x338.jpg?t=1759079707",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836380/ss_a345e239c706d6e237d465bad2ecdd156845ce8f.600x338.jpg?t=1759079707",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836380/ss_06565b84649ff0ce1d7fa218253e1baf40eeaaf8.600x338.jpg?t=1759079707",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836380/ss_34b0b7179379e9142422ce1bf1cba0e89f67395b.600x338.jpg?t=1759079707",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836380/ss_6de158a235a270b15fbcf9ef5baf553deaeca100.600x338.jpg?t=1759079707",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836380/ss_13eb345b13b03f0a6ee39e84371ddee150c557f8.600x338.jpg?t=1759079707",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836380/ss_bf143c72ba5810fe7cfd08111792ea0a94f7d4d4.600x338.jpg?t=1759079707"
-  ],
-  "detailed_description": "manaCompiler is a <strong>modular audio/music environment</strong> that aspires to establish a ground <strong>between </strong>traditional<strong> digital audio workstations</strong> and <strong>visual </strong>DSP <strong>programming languages</strong> in extremely<strong> accessible way</strong>, focusing only in <strong>fast </strong>and <strong>intuitive </strong>creative process.<br><br><strong>Play </strong>and <strong>mix </strong>audio <strong>loops</strong>, <strong>build </strong>your own <strong>synthesizers </strong>or<strong> sample-based instruments</strong>, <strong>combine </strong>different <strong>sequencer </strong>types together like <strong>nobody </strong>has ever <strong>dared to imagine</strong>, <strong>with incredible ease</strong>. <strong>Render </strong>the <strong>output </strong>to WAV or <strong>route</strong> individual audio channels to <strong>external mixer</strong> or <strong>DAW </strong>and <strong>link </strong>multiple manaCompiler instances with <strong>network audio</strong>.<br><br>So far <strong>59 different object types</strong> provide functionality to <strong>create and process</strong> multichannel <strong>audio</strong> and simulate <strong>analog control</strong> signals across <strong>audio/midi interfaces</strong> and <strong>TCP/IP network</strong>.<h2 class=\"bb_tag\" >Environment</h2><br><ul class=\"bb_ul\"> <li> So far 50 object types from simple operators to complete sequencers.<br></li><li> Objects can send three types of signal: Audio, Sync and Trigger.<br></li><li> Any object can be connected to any other object.<br></li><li> Connection types are auto-resolved between object types.<br></li><li> Groups of objects can be saved to macros and loaded back between projects.<br></li><li> No (software) limit on object amount.<br></li><li> State machine for sequencing parameter/data scenes.<br></li><li> Complete project saving and loading with all data and parameter states.</li></ul><h2 class=\"bb_tag\" >Interface</h2><ul class=\"bb_ul\"> <li> OpenGL rendered 2.5D interface.<br></li><li> Supporting resolutions up to 8K @ 60Hz.<br></li><li> Rapid intuitive navigation and operation with or without keyboard shortcuts.<br></li><li> (almost) VR ready.<br></li><li> Internal manual with thoroughly explained pictures.<br></li><li> Customizable color themes as text files. </li></ul><h2 class=\"bb_tag\" >Sound</h2><ul class=\"bb_ul\"><li> Engine sample rate from 22 KHz to 192 KHz<br></li><li> Seamless object operation on runtime.<br></li><li> Anti-aliased oscillators.<br></li><li> Control signals at audio rate, with ultra precise effect.<br></li><li> High quality stereo sample interpolation.<br></li><li> Buffered online stereo hard disk recorder.<br></li><li> Stereo audio auto-slicing, pitch-analysis and pitch shifting.<br></li><li> OPUS-compressed real-time network audio. </li></ul><h2 class=\"bb_tag\" >Control</h2><ul class=\"bb_ul\"><li> Traditional polyphonic piano roll editor/sequencer.<br></li><li> Microtonal support for all synthesis and sample playing.<br></li><li> Traditional automation editor/sequencer.<br></li><li> Arithmetic and logic objects to process control signals.<br></li><li> Algorithmic and stockhastic sequencers.<br></li><li> Physics simulation sequencer.<br></li><li> Virtual keyboard and sheet note visualizer.</li></ul><h2 class=\"bb_tag\" >I/O</h2><ul class=\"bb_ul\"><li> Audio through DirectSound, WASAPI or ASIO in Windows 10.<br></li><li> Native CoreAudio for macOS.<br></li><li> Up to 32 individual input and output audio channels.<br></li><li> Reads WAV, AIFF and MP3 audio files.<br></li><li> MIDI in/out with support for multiple simultaneous devices.<br></li><li> Writes 32-bit WAV files with online render.<br></li><li> Reads and writes Scala (.SCL) tuning files.<br></li><li> TCP/IP real-time network audio.</li></ul>",
-  "about_the_game": "manaCompiler is a <strong>modular audio/music environment</strong> that aspires to establish a ground <strong>between </strong>traditional<strong> digital audio workstations</strong> and <strong>visual </strong>DSP <strong>programming languages</strong> in extremely<strong> accessible way</strong>, focusing only in <strong>fast </strong>and <strong>intuitive </strong>creative process.<br><br><strong>Play </strong>and <strong>mix </strong>audio <strong>loops</strong>, <strong>build </strong>your own <strong>synthesizers </strong>or<strong> sample-based instruments</strong>, <strong>combine </strong>different <strong>sequencer </strong>types together like <strong>nobody </strong>has ever <strong>dared to imagine</strong>, <strong>with incredible ease</strong>. <strong>Render </strong>the <strong>output </strong>to WAV or <strong>route</strong> individual audio channels to <strong>external mixer</strong> or <strong>DAW </strong>and <strong>link </strong>multiple manaCompiler instances with <strong>network audio</strong>.<br><br>So far <strong>59 different object types</strong> provide functionality to <strong>create and process</strong> multichannel <strong>audio</strong> and simulate <strong>analog control</strong> signals across <strong>audio/midi interfaces</strong> and <strong>TCP/IP network</strong>.<h2 class=\"bb_tag\" >Environment</h2><br><ul class=\"bb_ul\"> <li> So far 50 object types from simple operators to complete sequencers.<br></li><li> Objects can send three types of signal: Audio, Sync and Trigger.<br></li><li> Any object can be connected to any other object.<br></li><li> Connection types are auto-resolved between object types.<br></li><li> Groups of objects can be saved to macros and loaded back between projects.<br></li><li> No (software) limit on object amount.<br></li><li> State machine for sequencing parameter/data scenes.<br></li><li> Complete project saving and loading with all data and parameter states.</li></ul><h2 class=\"bb_tag\" >Interface</h2><ul class=\"bb_ul\"> <li> OpenGL rendered 2.5D interface.<br></li><li> Supporting resolutions up to 8K @ 60Hz.<br></li><li> Rapid intuitive navigation and operation with or without keyboard shortcuts.<br></li><li> (almost) VR ready.<br></li><li> Internal manual with thoroughly explained pictures.<br></li><li> Customizable color themes as text files. </li></ul><h2 class=\"bb_tag\" >Sound</h2><ul class=\"bb_ul\"><li> Engine sample rate from 22 KHz to 192 KHz<br></li><li> Seamless object operation on runtime.<br></li><li> Anti-aliased oscillators.<br></li><li> Control signals at audio rate, with ultra precise effect.<br></li><li> High quality stereo sample interpolation.<br></li><li> Buffered online stereo hard disk recorder.<br></li><li> Stereo audio auto-slicing, pitch-analysis and pitch shifting.<br></li><li> OPUS-compressed real-time network audio. </li></ul><h2 class=\"bb_tag\" >Control</h2><ul class=\"bb_ul\"><li> Traditional polyphonic piano roll editor/sequencer.<br></li><li> Microtonal support for all synthesis and sample playing.<br></li><li> Traditional automation editor/sequencer.<br></li><li> Arithmetic and logic objects to process control signals.<br></li><li> Algorithmic and stockhastic sequencers.<br></li><li> Physics simulation sequencer.<br></li><li> Virtual keyboard and sheet note visualizer.</li></ul><h2 class=\"bb_tag\" >I/O</h2><ul class=\"bb_ul\"><li> Audio through DirectSound, WASAPI or ASIO in Windows 10.<br></li><li> Native CoreAudio for macOS.<br></li><li> Up to 32 individual input and output audio channels.<br></li><li> Reads WAV, AIFF and MP3 audio files.<br></li><li> MIDI in/out with support for multiple simultaneous devices.<br></li><li> Writes 32-bit WAV files with online render.<br></li><li> Reads and writes Scala (.SCL) tuning files.<br></li><li> TCP/IP real-time network audio.</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 9,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 88.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +30,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 71.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 88.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

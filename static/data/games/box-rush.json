@@ -3,8 +3,8 @@
   "name": "BOX RUSH",
   "slug": "box-rush",
   "developer": "Max Pedro",
-  "publisher": "Louie Inc",
-  "release_date": "Feb 10, 2022",
+  "publisher": "",
+  "release_date": "2022-02-10",
   "price_usd": 0.89,
   "genres": [
     "Casual"
@@ -17,32 +17,15 @@
   ],
   "short_description": "The Magic Kingdom was attacked by fantastic monsters who erected siege structures around the entire island.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1884720/header.jpg?t=1644511404",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1884720/ss_a483e788bd6ae48af9d352535e8e3ccc20e5e0cd.600x338.jpg?t=1644511404",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1884720/ss_72a59065c33ad08224cb202b9ae3a3cccb822739.600x338.jpg?t=1644511404",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1884720/ss_84176217f5bcfd635b515d57f05df3c2df5708e2.600x338.jpg?t=1644511404",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1884720/ss_01c52fa9a496568174d0e0398bfd72d85e359c94.600x338.jpg?t=1644511404",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1884720/ss_d0420dfe47312e0ff0e7e58a28a852a677aede93.600x338.jpg?t=1644511404"
-  ],
-  "detailed_description": "BOX RUSH is a 2D puzzle game with many different levels, the goal of the game is simple: in front of you is a location where buildings are located and your goal is to destroy the building without letting the flag fall.<br><br>The Magic Kingdom was attacked by fantastic monsters who erected siege structures around the entire island. The little prince did not think of anything better than to fight back and destroy all their fortifications, so that they would not destroy his small but devoted kingdom.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1884720/extras/afda3b866176565c7bbdebd113b82506.poster.avif?t=1644511404\" width=544 height=306 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1884720/extras/afda3b866176565c7bbdebd113b82506.webm?t=1644511404\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1884720/extras/afda3b866176565c7bbdebd113b82506.mp4?t=1644511404\" type=\"video/mp4\"></video></span><br><br>Take control of the little prince and do everything in your power. But keep in mind that the monsters are not asleep and their arsenal is not just wooden boxes and sticks, which means that a difficult battle awaits you!",
-  "about_the_game": "BOX RUSH is a 2D puzzle game with many different levels, the goal of the game is simple: in front of you is a location where buildings are located and your goal is to destroy the building without letting the flag fall.<br><br>The Magic Kingdom was attacked by fantastic monsters who erected siege structures around the entire island. The little prince did not think of anything better than to fight back and destroy all their fortifications, so that they would not destroy his small but devoted kingdom.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1884720/extras/afda3b866176565c7bbdebd113b82506.poster.avif?t=1644511404\" width=544 height=306 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1884720/extras/afda3b866176565c7bbdebd113b82506.webm?t=1644511404\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1884720/extras/afda3b866176565c7bbdebd113b82506.mp4?t=1644511404\" type=\"video/mp4\"></video></span><br><br>Take control of the little prince and do everything in your power. But keep in mind that the monsters are not asleep and their arsenal is not just wooden boxes and sticks, which means that a difficult battle awaits you!",
-  "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 3,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 33.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 33.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

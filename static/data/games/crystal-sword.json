@@ -3,8 +3,8 @@
   "name": "Crystal sword",
   "slug": "crystal-sword",
   "developer": "HUNTERS",
-  "publisher": "HUNTERS",
-  "release_date": "Mar 25, 2021",
+  "publisher": "",
+  "release_date": "2021-03-25",
   "price_usd": 1.59,
   "genres": [
     "Action"
@@ -17,34 +17,15 @@
   ],
   "short_description": "Fantasy dot-eating-action",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1513710/header.jpg?t=1616687883",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1513710/ss_58594135f06991b7b7915e14b856f53207b3f7da.600x338.jpg?t=1616687883",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1513710/ss_98ba6beb4fff8a38364519986504a02db1d1416b.600x338.jpg?t=1616687883",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1513710/ss_43120c03b92b6c09df5a99a21736ca587c9d4af0.600x338.jpg?t=1616687883",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1513710/ss_223c672debb5c8bbcaa02a5820a79cefb92f3a00.600x338.jpg?t=1616687883",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1513710/ss_483d2faa5d80f035cd4ed7ebfdf933664e47d729.600x338.jpg?t=1616687883",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1513710/ss_7aef63088a316fe326b76340f5aae11a2c4f0730.600x338.jpg?t=1616687883"
-  ],
-  "detailed_description": "The game is a dot-eating action game where you collect crystal shards.<br />\r\nOnce you have collected 100 shards, your sword will have power to attack enemies.<br />\r\nThe stage is cleared when you enter the door that appears when all enemies are defeated.<br />\r\n<br />\r\nDepending on the stage, there are mushrooms that you can jump on or floors that you can dash on.<br />\r\nMake full use of various gimmicks to advance through the stages.<br />\r\nYou can return to the stage selection screen from the menu screen.<br />\r\n<br />\r\nYou can use keyboard or XBOX360 and PS4 controller to control the game.<br />\r\nSave the game automatically when you switch stages.<br />\r\nJapanese and English are available, and you can switch between them on the title screen.",
-  "about_the_game": "The game is a dot-eating action game where you collect crystal shards.<br />\r\nOnce you have collected 100 shards, your sword will have power to attack enemies.<br />\r\nThe stage is cleared when you enter the door that appears when all enemies are defeated.<br />\r\n<br />\r\nDepending on the stage, there are mushrooms that you can jump on or floors that you can dash on.<br />\r\nMake full use of various gimmicks to advance through the stages.<br />\r\nYou can return to the stage selection screen from the menu screen.<br />\r\n<br />\r\nYou can use keyboard or XBOX360 and PS4 controller to control the game.<br />\r\nSave the game automatically when you switch stages.<br />\r\nJapanese and English are available, and you can switch between them on the title screen.",
-  "supported_languages": "English, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 4,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

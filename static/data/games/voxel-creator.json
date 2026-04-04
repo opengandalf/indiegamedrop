@@ -3,8 +3,8 @@
   "name": "Voxel Creator",
   "slug": "voxel-creator",
   "developer": "ReedPlay",
-  "publisher": "ReedPlay",
-  "release_date": "May 17, 2023",
+  "publisher": "",
+  "release_date": "2023-05-17",
   "price_usd": 4.99,
   "genres": [
     "Animation & Modeling"
@@ -17,30 +17,9 @@
   ],
   "short_description": "Create voxel art and bring it right into your own projects!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406920/header.jpg?t=1688386187",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406920/ss_7d2eb62bf69d44659e2ee74c17fcc614032418ae.600x338.jpg?t=1688386187",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406920/ss_4fb9514e33ad93cc09cedc4676f25cf8307d7c06.600x338.jpg?t=1688386187",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406920/ss_480d72c38a95831eaac00a815e16e7f3dd85532a.600x338.jpg?t=1688386187",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406920/ss_941e5a8f5d7950a8c651fcccfaecb1947f0ab115.600x338.jpg?t=1688386187",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406920/ss_61bce95251ecf7359d73bcac2c133d60f514e467.600x338.jpg?t=1688386187",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406920/ss_5a00c5016a8fb6314ee14ade94e02ff5ca9d366c.600x338.jpg?t=1688386187"
-  ],
-  "detailed_description": "<i><strong>Voxel Creator</strong></i> is a powerful voxel art engine that let's you export your creations for use in your own games or projects!<br>- Quickly create blocky objects and scenes with an easy-to-use interface.<br>- Powerful meshing algorithm allows for unlimited detail (tiny/huge blocks).<br>- Meshes are optimized to generate with fewest possible triangles.<br>- Easily copy, paste, flip and rotate blocks for speedy creation.<br>- Interact with your voxel creations with 'chips'.<br>- Export your voxel art (currently supports OBJ file format) for easy import into your projects (Blender, Unity, etc.)",
-  "about_the_game": "<i><strong>Voxel Creator</strong></i> is a powerful voxel art engine that let's you export your creations for use in your own games or projects!<br>- Quickly create blocky objects and scenes with an easy-to-use interface.<br>- Powerful meshing algorithm allows for unlimited detail (tiny/huge blocks).<br>- Meshes are optimized to generate with fewest possible triangles.<br>- Easily copy, paste, flip and rotate blocks for speedy creation.<br>- Interact with your voxel creations with 'chips'.<br>- Export your voxel art (currently supports OBJ file format) for easy import into your projects (Blender, Unity, etc.)",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 5,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 60.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -48,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 60.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

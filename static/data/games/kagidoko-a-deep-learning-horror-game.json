@@ -3,8 +3,8 @@
   "name": "KAGIDOKO : A Deep Learning Horror Game",
   "slug": "kagidoko-a-deep-learning-horror-game",
   "developer": "SeungGeon Kim",
-  "publisher": "Fischl Works",
-  "release_date": "Dec 1, 2023",
+  "publisher": "",
+  "release_date": "2023-12-01",
   "price_usd": 3.99,
   "genres": [
     "Action",
@@ -22,58 +22,29 @@
     "windows",
     "mac"
   ],
-  "short_description": "KAGIDOKO is an experimental horror game where every jumpscare has a reason. Collect all keys, open all doors, and get out of that house... While being stalked by a pre-trained Deep Learning Gameplay AI.",
+  "short_description": "KAGIDOKO is an experimental horror game where every jumpscare has a reason. Collect all keys, open all doors, and get out of that house... While being stalked by a pre-trained Deep Learning Gameplay A",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421470/header.jpg?t=1703107976",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421470/ss_a5bd305a55a80fafb6c2715ad06a81c19d35dcbf.600x338.jpg?t=1703107976",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421470/ss_c188bd22abe9f9afcbcf9437c3ad927497c46e4b.600x338.jpg?t=1703107976",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421470/ss_6057860bfe51d75e282fa66afc5ed812eeb63051.600x338.jpg?t=1703107976",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421470/ss_202c15074dd85e616a9cb2d988f41d8d05a161d2.600x338.jpg?t=1703107976",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421470/ss_2227e1c8797444130da716780743b212e5acd908.600x338.jpg?t=1703107976"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421470/extras/6a6594d44abf0d9c01805ecdd3868f3e.avif?t=1703107976\" width=460 height=214 /></span><h2 class=\"bb_tag\" >\"There's nowhere to hide from it. All the corridors will lead to a dead end. <br>But it will disappear... Only if you manage to look at it under the light.\"</h2><br>In KAGIDOKO, you are not the one who are expected to hide.<br><br>Actually, you <strong><i>can't.</i></strong> <br><br>Instead, <strong><i>you</i></strong> need to predict where the ghost could be hiding, and look right at it... <br>Before it sneaks up right behind you for a jumpscare.<br><br>Once the ghost decides that you can no longer be jumpscared, it will <strong><i>disappear.</i></strong><br>Just to come back later, of course.<br><br>Collect all keys, open all doors, don't get jumpscared, and get out of that house.<br><br>That's all. Good luck.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421470/extras/763909fd0f3c1868f5ca4d23e6ede26e.avif?t=1703107976\" width=300 height=76 /></span><h2 class=\"bb_tag\" >The AI model (brain) in this game is roughly 3MB in size, <br>while YOUR brain is... About 112 million times larger than that. </h2><br>Human brains are much smarter, larger, and complex than you think.<br>You have already outsmarted the AI by 112 million times while you are reading this.<br><br>This game is not meant to demonstrate AI supremacy or anything,<br>but is meant to provide <i><strong>continuous, unabstracted</strong></i> gameplay using neural networks.<br><br>In other words, I wanted a game where I literally put a real life mosquito in the game,<br>to make it act as the ghost for us 60 frames per second. And boom, here it is!",
-  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421470/extras/6a6594d44abf0d9c01805ecdd3868f3e.avif?t=1703107976\" width=460 height=214 /></span><h2 class=\"bb_tag\" >\"There's nowhere to hide from it. All the corridors will lead to a dead end. <br>But it will disappear... Only if you manage to look at it under the light.\"</h2><br>In KAGIDOKO, you are not the one who are expected to hide.<br><br>Actually, you <strong><i>can't.</i></strong> <br><br>Instead, <strong><i>you</i></strong> need to predict where the ghost could be hiding, and look right at it... <br>Before it sneaks up right behind you for a jumpscare.<br><br>Once the ghost decides that you can no longer be jumpscared, it will <strong><i>disappear.</i></strong><br>Just to come back later, of course.<br><br>Collect all keys, open all doors, don't get jumpscared, and get out of that house.<br><br>That's all. Good luck.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421470/extras/763909fd0f3c1868f5ca4d23e6ede26e.avif?t=1703107976\" width=300 height=76 /></span><h2 class=\"bb_tag\" >The AI model (brain) in this game is roughly 3MB in size, <br>while YOUR brain is... About 112 million times larger than that. </h2><br>Human brains are much smarter, larger, and complex than you think.<br>You have already outsmarted the AI by 112 million times while you are reading this.<br><br>This game is not meant to demonstrate AI supremacy or anything,<br>but is meant to provide <i><strong>continuous, unabstracted</strong></i> gameplay using neural networks.<br><br>In other words, I wanted a game where I literally put a real life mosquito in the game,<br>to make it act as the ghost for us 60 frames per second. And boom, here it is!",
-  "supported_languages": "English<strong>*</strong>, Korean<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Workshop",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.8743,
   "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 38,
-  "review_positive": 37,
+  "review_positive": 0,
   "review_percentage": 97.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 35,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 38,
       "review_percentage": 97.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

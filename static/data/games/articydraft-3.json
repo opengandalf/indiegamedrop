@@ -3,8 +3,8 @@
   "name": "articy:draft 3",
   "slug": "articydraft-3",
   "developer": "articy Software",
-  "publisher": "articy Software",
-  "release_date": "Feb 16, 2017",
+  "publisher": "",
+  "release_date": "2017-02-16",
   "price_usd": 69.99,
   "genres": [
     "Design & Illustration",
@@ -19,66 +19,23 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "articy:draft is a visual tool for creating interactive stories and organizing narrative content such as branching dialogues, object databases and more. This single user license will help you keep track of storylines and manage all narrative content visually, with convenient engine integrations",
+  "short_description": "articy:draft is a visual tool for creating interactive stories and organizing narrative content such as branching dialogues, object databases and more. This single user license will help you keep trac",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570090/header.jpg?t=1739194189",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570090/ss_543204cfa22e0b2a02730fe3f555712a02fb3786.600x338.jpg?t=1739194189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570090/ss_280dc3cbb198db4ea4f0de761eca5369b7971d2b.600x338.jpg?t=1739194189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570090/ss_6bac1a09a8a94e07acae6a8d8d0a2dbc320e25c1.600x338.jpg?t=1739194189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570090/ss_c1ad426061c90898b68a589aa7153dab8df318b6.600x338.jpg?t=1739194189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570090/ss_706f13f3baa574a9c52fee331574368aebbfbb0b.600x338.jpg?t=1739194189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570090/ss_8ce37b7ab9ab936cf664a05fb87165aa0f2fdc7e.600x338.jpg?t=1739194189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570090/ss_796079c358456b7ce5bb02e7d6495e48163256f1.600x338.jpg?t=1739194189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570090/ss_47e03a3fe3b1d0a5a6772404868ada1ff5c5522d.600x338.jpg?t=1739194189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570090/ss_020dda78038b04e2568a2a94ce4d0f29fac4741a.600x338.jpg?t=1739194189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570090/ss_38c5a15d93baf8b59922996072b796629da20208.600x338.jpg?t=1739194189"
-  ],
-  "detailed_description": "<h1>FEATURES & CHANGES</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570090/extras/d55b131cd786d0b21bb2bfa3c6a66f62.avif?t=1739194189\" width=608 height=208 /></span><br>This Steam license is a <strong>single user</strong> version of articy:draft 3. Find a complete feature list here: </p><br><h1>About the Software</h1><p class=\"bb_paragraph\" ><strong>Please note: </strong>articy:draft 3 is no longer the latest version of articy:draft, therefore active development has ceased. It will only be supported with critical bug fixes but it will not receive new feature updates. This also extends to the articy:draft 3 Importers for Unity and Unreal. Latest supported versions for the articy:draft 3 Importers are for Unity from 2021 up to 6000 and for Unreal UE 5.3 - 5.5. Updates for newer engine versions will not be released.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >For access to the latest features and ongoing support, check out articy:draft X on , the Articy official website. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Articy:draft is a visual tool for creating interactive stories and managing narrative content: witty dialogue, compelling choices, charming characters, useful items, challenging quests, strategic locations, global variables and more. All content can be exported into various formats - including JSON, XML and Microsoft Office. You can also integrate your content easily into Unity or Unreal with the comprehensive articy:draft Importers.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Features</u></strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Plan and keep an overview of non-linear stories</p></li><li><p class=\"bb_paragraph\" >Write branching conversations</p></li><li><p class=\"bb_paragraph\" >Control game logic with variables and conditions</p></li><li><p class=\"bb_paragraph\" >Simulate your story content to find problems early on</p></li><li><p class=\"bb_paragraph\" >Manage large amounts of game objects (characters, items, ...) </p></li><li><p class=\"bb_paragraph\" >Sketch locations and communicate level ideas</p></li><li><p class=\"bb_paragraph\" >Document your game in detail</p></li><li><p class=\"bb_paragraph\" >Export to Word</p></li><li><p class=\"bb_paragraph\" >Export & Import to Excel for localization</p></li><li><p class=\"bb_paragraph\" >Export to JSON or XML to integrate your content </p></li><li><p class=\"bb_paragraph\" >Integrate your content in Unity and Unreal easily</p></li><li><p class=\"bb_paragraph\" >Commercial Usage</p></li><li><p class=\"bb_paragraph\" ><i>and more…</i></p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Story, Mission & Quest Design</u></strong></p><p class=\"bb_paragraph\" >articy:draft makes the creation of interactive, branching content easy. It’s perfect for your narrative structure design. Each node in your story or mission flowchart can contain an inner flowchart. You can start with a top-level chapter-like structure and break it down into further and further until reaching single lines of dialogue. This nested approach ensures clean and organized flowcharts.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Create variables, conditions and instructions to control the flow your game and make your player's choices count.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Use the simulation mode to go through your story from a player's perspective and test your flow logic before you export it. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Unity and Unreal Integrations</u></strong></p><p class=\"bb_paragraph\" >Boost your iteration process. The comprehensive engine plugins get your content ready to use with Unity or Unreal with just a few clicks.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Game Object Database</u></strong></p><p class=\"bb_paragraph\" >articy:draft includes a powerful game object database with a flexible template system. Build everything, from characters, items, spells to weapons and skills. Templates are editable and very iteration-friendly due to their modular setup. Objects inherit the characteristics of their template making it easy to modify or expand them later.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Use And Create Plugins</u></strong></p><p class=\"bb_paragraph\" >Automate tasks and customize workflows by using custom plugins. The Macro Devkit enables you to develop your own plugins fast and easy.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Location Planning</u></strong></p><p class=\"bb_paragraph\" >With the build-in location editor, a vector-based 2D drawing tool, you can easily plan your game world and single levels. This editor is an iteration-friendly sketching tool for maps and scenarios. You can place story events, spawn points and trigger zones on the map for planning purposes. For some game genres, the location editor can even produce the actual game output. For example 2D layer-based backgrounds for point’n’click adventures or hidden object games.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>Please note: </strong>articy:draft 3 is no longer the latest version of articy:draft, therefore active development has ceased. It will only be supported with critical bug fixes but it will not receive new feature updates. This also extends to the articy:draft 3 Importers for Unity and Unreal. Latest supported versions for the articy:draft 3 Importers are for Unity from 2021 up to 6000 and for Unreal UE 5.3 - 5.5. Updates for newer engine versions will not be released.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >For access to the latest features and ongoing support, check out articy:draft X on , the Articy official website. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Articy:draft is a visual tool for creating interactive stories and managing narrative content: witty dialogue, compelling choices, charming characters, useful items, challenging quests, strategic locations, global variables and more. All content can be exported into various formats - including JSON, XML and Microsoft Office. You can also integrate your content easily into Unity or Unreal with the comprehensive articy:draft Importers.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Features</u></strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Plan and keep an overview of non-linear stories</p></li><li><p class=\"bb_paragraph\" >Write branching conversations</p></li><li><p class=\"bb_paragraph\" >Control game logic with variables and conditions</p></li><li><p class=\"bb_paragraph\" >Simulate your story content to find problems early on</p></li><li><p class=\"bb_paragraph\" >Manage large amounts of game objects (characters, items, ...) </p></li><li><p class=\"bb_paragraph\" >Sketch locations and communicate level ideas</p></li><li><p class=\"bb_paragraph\" >Document your game in detail</p></li><li><p class=\"bb_paragraph\" >Export to Word</p></li><li><p class=\"bb_paragraph\" >Export & Import to Excel for localization</p></li><li><p class=\"bb_paragraph\" >Export to JSON or XML to integrate your content </p></li><li><p class=\"bb_paragraph\" >Integrate your content in Unity and Unreal easily</p></li><li><p class=\"bb_paragraph\" >Commercial Usage</p></li><li><p class=\"bb_paragraph\" ><i>and more…</i></p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Story, Mission & Quest Design</u></strong></p><p class=\"bb_paragraph\" >articy:draft makes the creation of interactive, branching content easy. It’s perfect for your narrative structure design. Each node in your story or mission flowchart can contain an inner flowchart. You can start with a top-level chapter-like structure and break it down into further and further until reaching single lines of dialogue. This nested approach ensures clean and organized flowcharts.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Create variables, conditions and instructions to control the flow your game and make your player's choices count.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Use the simulation mode to go through your story from a player's perspective and test your flow logic before you export it. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Unity and Unreal Integrations</u></strong></p><p class=\"bb_paragraph\" >Boost your iteration process. The comprehensive engine plugins get your content ready to use with Unity or Unreal with just a few clicks.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Game Object Database</u></strong></p><p class=\"bb_paragraph\" >articy:draft includes a powerful game object database with a flexible template system. Build everything, from characters, items, spells to weapons and skills. Templates are editable and very iteration-friendly due to their modular setup. Objects inherit the characteristics of their template making it easy to modify or expand them later.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Use And Create Plugins</u></strong></p><p class=\"bb_paragraph\" >Automate tasks and customize workflows by using custom plugins. The Macro Devkit enables you to develop your own plugins fast and easy.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><u>Location Planning</u></strong></p><p class=\"bb_paragraph\" >With the build-in location editor, a vector-based 2D drawing tool, you can easily plan your game world and single levels. This editor is an iteration-friendly sketching tool for maps and scenarios. You can place story events, spawn points and trigger zones on the map for planning purposes. For some game genres, the location editor can even produce the actual game output. For example 2D layer-based backgrounds for point’n’click adventures or hidden object games.</p>",
-  "supported_languages": "English, Italian, German, Spanish - Spain, Korean, Polish, Portuguese - Brazil, Russian, French, Ukrainian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Trading Cards",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 108,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 120,
-  "review_positive": 98,
+  "review_positive": 0,
   "review_percentage": 81.7,
   "owner_estimate": 10000,
-  "ccu_estimate": 14,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 1309,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 112,
-      "review_percentage": 85.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 120,
       "review_percentage": 81.7,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
-      "review_count": 120,
-      "review_percentage": 81.7,
-      "ccu_estimate": 14,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

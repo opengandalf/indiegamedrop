@@ -3,8 +3,8 @@
   "name": "Cave Game",
   "slug": "cave-game",
   "developer": "Conarium Software",
-  "publisher": "Conarium Software",
-  "release_date": "Feb 27, 2020",
+  "publisher": "",
+  "release_date": "2020-02-27",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -24,38 +24,15 @@
   ],
   "short_description": "A simple concept with infinite possibilites. A procedurally generated 2D platformer.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238250/header.jpg?t=1678590136",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238250/ss_12a92e4d30e64d5d9a51b8f4ffca356db8211a1a.600x338.jpg?t=1678590136",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238250/ss_82a55ee5cb9a220f960df8db69d1fd0968956d81.600x338.jpg?t=1678590136",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238250/ss_0b5be9a44bca5ec9a67abc0321878d97f7972cfd.600x338.jpg?t=1678590136",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238250/ss_1f42a5488eeb813c0c5634f02506573084c47043.600x338.jpg?t=1678590136",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238250/ss_64cf3a6445f1d40393b0636e8b38a98519030ae1.600x338.jpg?t=1678590136",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238250/ss_7a6206a7cd8de8d76a765d94c3b3dab28fec4e84.600x338.jpg?t=1678590136",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238250/ss_412648b149f40128432881444e2f6db5066b57ab.600x338.jpg?t=1678590136",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238250/ss_7e2367fa5e86d9043dad9c5fa0fda2ee8005e8b4.600x338.jpg?t=1678590136",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238250/ss_db9c725a979791c54b7a57b7fbfb16fb279310b8.600x338.jpg?t=1678590136"
-  ],
-  "detailed_description": "<strong>cavegame</strong><br><br>A simple concept with infinite possibilites. A procedurally generated 2D platformer.<br><br>Explore ancient worlds, or jump into the darkness in search of treasures.<br>Build a house, blow up the house, then build a castle.<br>Create an elaborate, highly-engineered mineshaft for recovering ores.<br>Blindly stumble through caves in search of ore!<br>Confront the darkness, and battle the evils of the underworld.",
-  "about_the_game": "<strong>cavegame</strong><br><br>A simple concept with infinite possibilites. A procedurally generated 2D platformer.<br><br>Explore ancient worlds, or jump into the darkness in search of treasures.<br>Build a house, blow up the house, then build a castle.<br>Create an elaborate, highly-engineered mineshaft for recovering ores.<br>Blindly stumble through caves in search of ore!<br>Confront the darkness, and battle the evils of the underworld.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Online Co-op"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.8500000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 17,
-  "review_positive": 14,
+  "review_positive": 0,
   "review_percentage": 82.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -63,19 +40,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 16,
-      "review_percentage": 81.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 17,
       "review_percentage": 82.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

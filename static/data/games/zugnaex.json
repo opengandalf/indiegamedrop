@@ -3,8 +3,8 @@
   "name": "Zugnaex",
   "slug": "zugnaex",
   "developer": "Twisted Words",
-  "publisher": "Twisted Words",
-  "release_date": "Oct 10, 2024",
+  "publisher": "",
+  "release_date": "2024-10-10",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -21,43 +21,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Zugnaex is a very powerful demon. If you say its name correctly, every single little tiny syllable, you will summon the demon & bring forth the apocalypse. But Zugnaex has never faced a foe like you. Battle online with your friends to ultimately face the demon itself and decide the fate of humanity.",
+  "short_description": "Zugnaex is a very powerful demon. If you say its name correctly, every single little tiny syllable, you will summon the demon & bring forth the apocalypse. But Zugnaex has never faced a foe like y",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100730/3c6221593e7996cdb7f33ad600afd2531ac17b0a/header.jpg?t=1774250371",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100730/a1bcbc2449141fc63f0105bbe40718f8d4bb60c3/ss_a1bcbc2449141fc63f0105bbe40718f8d4bb60c3.600x338.jpg?t=1774250371",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100730/0e3a5b51b9be3b159c07529e1821739df01cf2a7/ss_0e3a5b51b9be3b159c07529e1821739df01cf2a7.600x338.jpg?t=1774250371",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100730/2b0cadf761bab607f53f6788e14cf6dfa314f554/ss_2b0cadf761bab607f53f6788e14cf6dfa314f554.600x338.jpg?t=1774250371",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100730/0c2f871244d632ac7a09dc2c2117b748a351e49c/ss_0c2f871244d632ac7a09dc2c2117b748a351e49c.600x338.jpg?t=1774250371",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100730/cf755dd2a4b86debafeaea3e7797ebce3b0f05c9/ss_cf755dd2a4b86debafeaea3e7797ebce3b0f05c9.600x338.jpg?t=1774250371",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100730/6095628296f9930e9d6e52aa92f5806bd66dc90c/ss_6095628296f9930e9d6e52aa92f5806bd66dc90c.600x338.jpg?t=1774250371"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100730/extras/f09384bae4845f533605e6884ad32414.avif?t=1774250371\" width=920 height=430 /></span></p><h2 class=\"bb_tag\" ><strong>The Game</strong></h2><p class=\"bb_paragraph\" >Zona Pugna Exitium, or Zugnaex for short, are Latin words meaning Zone Battle Doom. It's classic FPS gameplay with a unique multiplayer experience.</p><h2 class=\"bb_tag\" ><strong>The Story</strong></h2><p class=\"bb_paragraph\" >In ancient times, a powerful demon, known only by the forbidden name Zugnaex, was imprisoned by forgotten gods to prevent the destruction of reality itself. The prison, an interdimensional cage bound by immortal blood, is impenetrable, indestructible... and smells really bad. However, the gods did not realize there is one way the demon can escape. If any mortal speaks its name perfectly, every single little tiny syllable, the demon will tear through dimensions, bypass its eternal prison, and return to annihilate humankind. It’s game over and humanity is out of quarters. But Zugnaex has never faced a foe like you. Only you and your friends can defeat the demon Zugnaex and save humanity. It’s global warfare on an epic scale to save the human race. Will you join us?</p><h2 class=\"bb_tag\" >The Battles</h2><p class=\"bb_paragraph\" >The online service hosts many battle variations. Here are some that you can experience: <br><br><strong><i>A Demon a Day </i></strong>- Work together with your friends to defeat demons. Each kill counts for all active players but be careful as friendly fire is enabled. Help each other to get the highest score and become a demon slaying legend.  <br><br><strong><i>That Guy </i></strong>- Complete different mission objectives with your friends but there's a twist. The demons are powerful and the marines may succumb to their will. Who is your ally and who is your enemy? Play to find out.  <br><br><strong><i>Pennies from hell </i></strong>- Demons drop pennies and you collect them. It's a PvP party where the best players will wallow in the riches offered by the denizen of hell.  <br><br><strong><i>Ready or Knot </i></strong>- It's time to play hide & seek but old school FPS style. It's PvP where all players are against \"it.\" If \"it\" survives the other players explode just like in the movie.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><i>Ready or Knot 2: Heir I Come* </i></strong>- Who is it? Who is not it? And who are you? It's a twisted new game mode, inspired by the film, coming soon to a battle zone near you. (*) - not ready just yet...   <br> <br>And many more including speed running, co-op adventures and the ultimate confrontation with Zugnaex itself.</p><h2 class=\"bb_tag\" ><strong>The Source Code</strong></h2><p class=\"bb_paragraph\" >Some of it was written by me. Most of it was written by you. You can use all of it to make something amazing yourself! Use the included source code to build your own battles.</p><p class=\"bb_paragraph\" ><strong>zugzug.zip</strong> - This is the source code for zugnaex (the client) and zugsrv (the server). See the README file for instructions on how to build. (License: GPLv2)</p><p class=\"bb_paragraph\" ><strong>zugbat.zip</strong> - This is the source code for an example battle, \"Kneed Time.\" Try to finish a random UV E1 map in par. See the README file for instructions on how to setup and run the battle. (License: MIT)</p><p class=\"bb_paragraph\" ><strong>zugnite.zip</strong> - This is the source code for a companion launcher for Zugnaex that enables Steam achievements and authentication. (License: MIT-0)</p><p class=\"bb_paragraph\" ><strong>zugdiff.zip</strong> - This is the source code for a utility used to patch game data files to maintain network compatibility. (License: MIT-0)</p><p class=\"bb_paragraph\" ><i>See source files for setup, build, and licensing details.</i></p><h2 class=\"bb_tag\" ><strong>Important! Please read</strong></h2><p class=\"bb_paragraph\" >Zugnaex is an unofficial DOOM® client. This game comes with no playable content. To play or battle, DOOM® and DOOM II® must be licensed and installed on your PC. Licensing details and, for online play, age requirement, terms of use, and privacy policy are included with the game.</p><p class=\"bb_paragraph\" ><strong>Photosensitive Warning:</strong> This game and its downloadable content have flashing lights and visual patterns that could trigger seizures, discomfort or nausea in players. Please take appropriate precautions.</p><p class=\"bb_paragraph\" ><strong>Region Restrictions:</strong> To provide the online service, we host servers in North America and Europe. Players outside these regions may not be able to connect or may have slower network speeds. In addition, our application has very limited localization support. The English language is the only officially supported language for the game.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100730/extras/f09384bae4845f533605e6884ad32414.avif?t=1774250371\" width=920 height=430 /></span></p><h2 class=\"bb_tag\" ><strong>The Game</strong></h2><p class=\"bb_paragraph\" >Zona Pugna Exitium, or Zugnaex for short, are Latin words meaning Zone Battle Doom. It's classic FPS gameplay with a unique multiplayer experience.</p><h2 class=\"bb_tag\" ><strong>The Story</strong></h2><p class=\"bb_paragraph\" >In ancient times, a powerful demon, known only by the forbidden name Zugnaex, was imprisoned by forgotten gods to prevent the destruction of reality itself. The prison, an interdimensional cage bound by immortal blood, is impenetrable, indestructible... and smells really bad. However, the gods did not realize there is one way the demon can escape. If any mortal speaks its name perfectly, every single little tiny syllable, the demon will tear through dimensions, bypass its eternal prison, and return to annihilate humankind. It’s game over and humanity is out of quarters. But Zugnaex has never faced a foe like you. Only you and your friends can defeat the demon Zugnaex and save humanity. It’s global warfare on an epic scale to save the human race. Will you join us?</p><h2 class=\"bb_tag\" >The Battles</h2><p class=\"bb_paragraph\" >The online service hosts many battle variations. Here are some that you can experience: <br><br><strong><i>A Demon a Day </i></strong>- Work together with your friends to defeat demons. Each kill counts for all active players but be careful as friendly fire is enabled. Help each other to get the highest score and become a demon slaying legend.  <br><br><strong><i>That Guy </i></strong>- Complete different mission objectives with your friends but there's a twist. The demons are powerful and the marines may succumb to their will. Who is your ally and who is your enemy? Play to find out.  <br><br><strong><i>Pennies from hell </i></strong>- Demons drop pennies and you collect them. It's a PvP party where the best players will wallow in the riches offered by the denizen of hell.  <br><br><strong><i>Ready or Knot </i></strong>- It's time to play hide & seek but old school FPS style. It's PvP where all players are against \"it.\" If \"it\" survives the other players explode just like in the movie.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><i>Ready or Knot 2: Heir I Come* </i></strong>- Who is it? Who is not it? And who are you? It's a twisted new game mode, inspired by the film, coming soon to a battle zone near you. (*) - not ready just yet...   <br> <br>And many more including speed running, co-op adventures and the ultimate confrontation with Zugnaex itself.</p><h2 class=\"bb_tag\" ><strong>The Source Code</strong></h2><p class=\"bb_paragraph\" >Some of it was written by me. Most of it was written by you. You can use all of it to make something amazing yourself! Use the included source code to build your own battles.</p><p class=\"bb_paragraph\" ><strong>zugzug.zip</strong> - This is the source code for zugnaex (the client) and zugsrv (the server). See the README file for instructions on how to build. (License: GPLv2)</p><p class=\"bb_paragraph\" ><strong>zugbat.zip</strong> - This is the source code for an example battle, \"Kneed Time.\" Try to finish a random UV E1 map in par. See the README file for instructions on how to setup and run the battle. (License: MIT)</p><p class=\"bb_paragraph\" ><strong>zugnite.zip</strong> - This is the source code for a companion launcher for Zugnaex that enables Steam achievements and authentication. (License: MIT-0)</p><p class=\"bb_paragraph\" ><strong>zugdiff.zip</strong> - This is the source code for a utility used to patch game data files to maintain network compatibility. (License: MIT-0)</p><p class=\"bb_paragraph\" ><i>See source files for setup, build, and licensing details.</i></p><h2 class=\"bb_tag\" ><strong>Important! Please read</strong></h2><p class=\"bb_paragraph\" >Zugnaex is an unofficial DOOM® client. This game comes with no playable content. To play or battle, DOOM® and DOOM II® must be licensed and installed on your PC. Licensing details and, for online play, age requirement, terms of use, and privacy policy are included with the game.</p><p class=\"bb_paragraph\" ><strong>Photosensitive Warning:</strong> This game and its downloadable content have flashing lights and visual patterns that could trigger seizures, discomfort or nausea in players. Please take appropriate precautions.</p><p class=\"bb_paragraph\" ><strong>Region Restrictions:</strong> To provide the online service, we host servers in North America and Europe. Players outside these regions may not be able to connect or may have slower network speeds. In addition, our application has very limited localization support. The English language is the only officially supported language for the game.</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "MMO",
-    "PvP",
-    "Online PvP",
-    "Co-op",
-    "Online Co-op",
-    "Cross-Platform Multiplayer",
-    "Steam Achievements",
-    "Stats"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 6.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 8,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 37.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -65,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 37.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "+1%",
   "slug": "1",
   "developer": "IdleClick Games",
-  "publisher": "IdleClick Games",
-  "release_date": "Nov 5, 2024",
+  "publisher": "",
+  "release_date": "2024-11-05",
   "price_usd": 1.99,
   "genres": [
     "Indie",
@@ -19,37 +19,15 @@
   ],
   "short_description": "Idle clicker game with a percentage based math inside. Compound percent is used for all calculations. Slow start, exponential growth and lots of fun!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3292540/header.jpg?t=1731321472",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3292540/ss_9f873deac23ad90985a43efc632db3f5728883dc.600x338.jpg?t=1731321472",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3292540/ss_a9f741f1a57ec3d625a2b8d226fbfcb31c91a1c7.600x338.jpg?t=1731321472",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3292540/ss_94a0252647e106d523cb81cbe9a917bed4abe6e0.600x338.jpg?t=1731321472",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3292540/ss_ad423c09dbb4814f1ad2b09ebfc9782abb15d5a4.600x338.jpg?t=1731321472",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3292540/ss_674ed469607755fa704d36974eba1cc367823ea3.600x338.jpg?t=1731321472",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3292540/ss_7538a4327de60f1edcdb113b932cfcfeb4a1c69c.600x338.jpg?t=1731321472",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3292540/ss_d62d5f2c983ad32a263b48edecb9272151cc4148.600x338.jpg?t=1731321472"
-  ],
-  "detailed_description": "<strong>+1%</strong> is a simple idle clicker game with a percentage based math inside. All values ​​in this game change strictly by a certain percent. Besides, сompound percent is used for calculations. For each variable the current value is taken for increment, not the base value. This means very slow progress at the beginning, but exponential growth rate in the future.<br><br><strong>Features:</strong><br><ul class=\"bb_ul\"><li>Simple gameplay. Click or wait for idle income<br></li><li>Extensive prestige system with strong dependency between upgrades<br></li><li>Interest system for an extra passive income<br></li><li>Global percent improvement as a super upgrade for a late game<br></li><li>Steam achievements, light and dark themes, statistics, changeable precision and many more features</li></ul>",
-  "about_the_game": "<strong>+1%</strong> is a simple idle clicker game with a percentage based math inside. All values ​​in this game change strictly by a certain percent. Besides, сompound percent is used for calculations. For each variable the current value is taken for increment, not the base value. This means very slow progress at the beginning, but exponential growth rate in the future.<br><br><strong>Features:</strong><br><ul class=\"bb_ul\"><li>Simple gameplay. Click or wait for idle income<br></li><li>Extensive prestige system with strong dependency between upgrades<br></li><li>Interest system for an extra passive income<br></li><li>Global percent improvement as a super upgrade for a late game<br></li><li>Steam achievements, light and dark themes, statistics, changeable precision and many more features</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Stats",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 4,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,26 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 4,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

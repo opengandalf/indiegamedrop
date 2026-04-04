@@ -3,8 +3,8 @@
   "name": "Inops",
   "slug": "inops",
   "developer": "ZRZStudio",
-  "publisher": "ZRZStudio",
-  "release_date": "Jun 11, 2020",
+  "publisher": "",
+  "release_date": "2020-06-11",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -19,39 +19,15 @@
   ],
   "short_description": "Dive into the wondrous world of the Inops! The 2D puzzle based side scrolling adventure of dark and light. Battle the fire breathing demons and rescue the scattered Inops.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683260/header.jpg?t=1626521910",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683260/ss_9d6c9a9b9545f17b066e4a135d81ddb40c17756d.600x338.jpg?t=1626521910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683260/ss_f304112ec8b131af48840973143bf8f2336dffc1.600x338.jpg?t=1626521910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683260/ss_0541ddf553ae7a88040515025a4a71fc601f2fb2.600x338.jpg?t=1626521910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683260/ss_ea3b1de0ec5ce33c77f4693a23ba4c257ae8b097.600x338.jpg?t=1626521910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683260/ss_b34ba0e1cb796c9bb2337dba6f7fe0af7718fff6.600x338.jpg?t=1626521910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683260/ss_9d721c6629fb8fa599b5e061592f48b9b03e21e3.600x338.jpg?t=1626521910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683260/ss_da2e9ac9df26527405c099c2315c1738ce958337.600x338.jpg?t=1626521910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683260/ss_7860030f342a637dcf430e99874d12e962797bfc.600x338.jpg?t=1626521910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683260/ss_ac566e05d2537458fff3aed9bd1fb34f1a37284b.600x338.jpg?t=1626521910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683260/ss_bf76acd3afdded81edb327c1b6447a19758401fb.600x338.jpg?t=1626521910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683260/ss_1612071ed78b7693f71d308145380969d5560a31.600x338.jpg?t=1626521910"
-  ],
-  "detailed_description": "Explore the shadowy Mine, twisty Jungle and extra-terrestrial Elect-City but be careful of lurking dangers. Escape traps, solve puzzles and dodge enemies using the Inops ability to split into many little creatures or join into one big Inop whenever you wish. Use the environment to your advantage by using unique intractable components whilst guiding the Inops simultaneously. Get to the end of each level and save as many Inops as you can to avoid being lonesome.",
-  "about_the_game": "Explore the shadowy Mine, twisty Jungle and extra-terrestrial Elect-City but be careful of lurking dangers. Escape traps, solve puzzles and dodge enemies using the Inops ability to split into many little creatures or join into one big Inop whenever you wish. Use the environment to your advantage by using unique intractable components whilst guiding the Inops simultaneously. Get to the end of each level and save as many Inops as you can to avoid being lonesome.",
-  "supported_languages": "English, French, Spanish - Spain",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0009,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 13.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 52,
-  "review_positive": 42,
+  "review_positive": 0,
   "review_percentage": 80.8,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -59,26 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 39,
-      "review_percentage": 79.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 52,
-      "review_percentage": 80.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 52,
       "review_percentage": 80.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Dead Tunnel",
   "slug": "dead-tunnel",
   "developer": "GasMask Creative",
-  "publisher": "GasMask Creative",
-  "release_date": "Oct 30, 2021",
+  "publisher": "",
+  "release_date": "2021-10-30",
   "price_usd": 5.99,
   "genres": [
     "Action",
@@ -19,34 +19,15 @@
   ],
   "short_description": "Dead Tunnel is 2D Shooter Platformer Roguelite game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775100/header.jpg?t=1635593694",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775100/ss_c759e5100738932fe1e75add1206939e7a3a9d56.600x338.jpg?t=1635593694",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775100/ss_7b94b5393c88fdbc2cb6ec9804516218bef93e9e.600x338.jpg?t=1635593694",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775100/ss_2e4a1a479a6205a4e5875d61e33c4f547a8d1f7b.600x338.jpg?t=1635593694",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775100/ss_7511575a4ecec4982feceafbb9edaed4e7391a87.600x338.jpg?t=1635593694",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775100/ss_574491454c5feaa5502a92a96b9c77d91acfc75d.600x338.jpg?t=1635593694",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775100/ss_b6801498b1f0ed6b362f6d6db40c90a07126f65b.600x338.jpg?t=1635593694",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775100/ss_1959c1a8de2655841573afec552996184df1b4a3.600x338.jpg?t=1635593694"
-  ],
-  "detailed_description": "Dead Tunnel is 2D Shooter Platformer Roguelite game.<br />\r\nPlayers must venture into a secret tunnel where monsters await. <br />\r\nPlayers have to buy weapons at the end of the stage to create a variety of battles. <br />\r\nPlayers must upgrade their character's abilities to become stronger in order to fight the boss.",
-  "about_the_game": "Dead Tunnel is 2D Shooter Platformer Roguelite game.<br />\r\nPlayers must venture into a secret tunnel where monsters await. <br />\r\nPlayers have to buy weapons at the end of the stage to create a variety of battles. <br />\r\nPlayers must upgrade their character's abilities to become stronger in order to fight the boss.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

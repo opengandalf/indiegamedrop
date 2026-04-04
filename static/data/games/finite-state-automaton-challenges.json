@@ -3,8 +3,8 @@
   "name": "Finite State Automaton Challenges",
   "slug": "finite-state-automaton-challenges",
   "developer": "Tramolly Game",
-  "publisher": "Tramolly Game",
-  "release_date": "Oct 30, 2023",
+  "publisher": "",
+  "release_date": "2023-10-30",
   "price_usd": 0.49,
   "genres": [
     "Casual",
@@ -20,32 +20,9 @@
   ],
   "short_description": "In this game, we will play with the simplest automaton model, Finite State Automaton, and use it to cope with 80 challenges.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629030/header.jpg?t=1715963956",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629030/ss_4ba206590e865c5e3508d18144faf1297bcaf0a2.600x338.jpg?t=1715963956",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629030/ss_8722cffd63f2a242394971299017fd0574494e22.600x338.jpg?t=1715963956",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629030/ss_8c2a1268f83517403fd5185792ee85d0c94642bb.600x338.jpg?t=1715963956",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629030/ss_94fe9c3d3706f87eea3946d443510ee07ebcdfff.600x338.jpg?t=1715963956",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629030/ss_1fe1c75f1c58a7963902f942953a5ff7a1f414f6.600x338.jpg?t=1715963956"
-  ],
-  "detailed_description": "Automaton is a machine that answers a specific question without human intervention once it is turned on, such as: Whether a + b = c?<br><br>In this game, we will use the simplest automaton model, the Finite State Automaton, to cope with 80 challenges. They come from character string manipulation, binary numbers, and daily life. Don't worry if you are unfamiliar with Finite State Automaton; this game contains a tutorial to get started quickly. Also, you can read the following introduction.<h2 class=\"bb_tag\" >Finite State Automaton</h2><br>Finite State Automaton (FSA) is the simplest automaton type. A finite state automaton consists of several states and transition rules. A transition rule describes when a state transits to another. So, it looks like a metro map. The clients of a finite state automaton are the character strings. It decides which strings are accepted and which strings are rejected. For example, an FSA can accept valid emails, phone numbers, etc. Now, let's dive into the first example:<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629030/extras/7529092b980e7be436e30bfeac8dc541.avif?t=1715963956\" width=208 height=132 /></span><br>It has two states: the left state \"1,\" and the right state \"2\". \"1\" marked with the green color means the automaton starts here. \"2\" marked with the blue color means that the automaton accepts the input string only if it stops here and read all characters in the order of the string. Consequently, this automaton is to accept \"a\" and reject any other string.<br><br>Question: try to design an FSA accepting \"ab\" and an FSA accepting \"a\" or \"b\" (abbr., \"a|b\") on your own (They are two challenges in the game).<h2 class=\"bb_tag\" >Finite State Automaton with Various States</h2>Traditional finite state automata have only three types of states: begin, accept, and normal. In this game, you can play automata with different states at different levels. The picture below shows an example.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629030/extras/95640ceca474554c20744ee2a3153f5b.avif?t=1715963956\" width=280 height=220 /></span><h2 class=\"bb_tag\" >Non-deterministic</h2>The most essential concept of FSA (and other automaton types) is called Non-deterministic. To introduce this concept, here is the second example of an automaton. It accepts all strings (only consisting of 'a' and 'b') ending with 'b':<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629030/extras/f2c90e70ee21ecf8fedcfcce66fe351d.avif?t=1715963956\" width=200 height=116 /></span><br>Run this automaton over \"b\" in your head: (1) It starts at \"1\", runs the self-loop of \"1\", then reads all of \"b\" as well as stops at \"1\", so reject \"b\"; (2) It starts at \"1\" and transits to \"2\", then reads all of \"b\" as well as stops at \"2\", so accept \"b\". A non-deterministic finite state automaton (NFA) accepts a string if at least one trace ends at a state marked with the blue color.<br><br>Run this automaton over \"ab\" in your head: (1) It starts at \"1\", runs the self-loop of \"1\" twice, then reads all of \"ab\" as well as stops at \"1\", so reject \"ab\"; (2) It starts at \"1\", run the self-loop of \"1\" once, and transits to \"2\", then reads all of \"b\" as well as stops at \"2\", so accept \"ab.\"<br><br>Non-deterministic is essential because it allows the FSA to guess, which lets us design an automaton naturally (since we, human beings, like to guess) and quickly.",
-  "about_the_game": "Automaton is a machine that answers a specific question without human intervention once it is turned on, such as: Whether a + b = c?<br><br>In this game, we will use the simplest automaton model, the Finite State Automaton, to cope with 80 challenges. They come from character string manipulation, binary numbers, and daily life. Don't worry if you are unfamiliar with Finite State Automaton; this game contains a tutorial to get started quickly. Also, you can read the following introduction.<h2 class=\"bb_tag\" >Finite State Automaton</h2><br>Finite State Automaton (FSA) is the simplest automaton type. A finite state automaton consists of several states and transition rules. A transition rule describes when a state transits to another. So, it looks like a metro map. The clients of a finite state automaton are the character strings. It decides which strings are accepted and which strings are rejected. For example, an FSA can accept valid emails, phone numbers, etc. Now, let's dive into the first example:<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629030/extras/7529092b980e7be436e30bfeac8dc541.avif?t=1715963956\" width=208 height=132 /></span><br>It has two states: the left state \"1,\" and the right state \"2\". \"1\" marked with the green color means the automaton starts here. \"2\" marked with the blue color means that the automaton accepts the input string only if it stops here and read all characters in the order of the string. Consequently, this automaton is to accept \"a\" and reject any other string.<br><br>Question: try to design an FSA accepting \"ab\" and an FSA accepting \"a\" or \"b\" (abbr., \"a|b\") on your own (They are two challenges in the game).<h2 class=\"bb_tag\" >Finite State Automaton with Various States</h2>Traditional finite state automata have only three types of states: begin, accept, and normal. In this game, you can play automata with different states at different levels. The picture below shows an example.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629030/extras/95640ceca474554c20744ee2a3153f5b.avif?t=1715963956\" width=280 height=220 /></span><h2 class=\"bb_tag\" >Non-deterministic</h2>The most essential concept of FSA (and other automaton types) is called Non-deterministic. To introduce this concept, here is the second example of an automaton. It accepts all strings (only consisting of 'a' and 'b') ending with 'b':<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629030/extras/f2c90e70ee21ecf8fedcfcce66fe351d.avif?t=1715963956\" width=200 height=116 /></span><br>Run this automaton over \"b\" in your head: (1) It starts at \"1\", runs the self-loop of \"1\", then reads all of \"b\" as well as stops at \"1\", so reject \"b\"; (2) It starts at \"1\" and transits to \"2\", then reads all of \"b\" as well as stops at \"2\", so accept \"b\". A non-deterministic finite state automaton (NFA) accepts a string if at least one trace ends at a state marked with the blue color.<br><br>Run this automaton over \"ab\" in your head: (1) It starts at \"1\", runs the self-loop of \"1\" twice, then reads all of \"ab\" as well as stops at \"1\", so reject \"ab\"; (2) It starts at \"1\", run the self-loop of \"1\" once, and transits to \"2\", then reads all of \"b\" as well as stops at \"2\", so accept \"ab.\"<br><br>Non-deterministic is essential because it allows the FSA to guess, which lets us design an automaton naturally (since we, human beings, like to guess) and quickly.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 11,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 72.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +30,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 8,
-      "review_percentage": 62.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 11,
       "review_percentage": 72.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

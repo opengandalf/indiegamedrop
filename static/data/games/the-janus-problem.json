@@ -3,8 +3,8 @@
   "name": "The Janus Problem",
   "slug": "the-janus-problem",
   "developer": "James Decker",
-  "publisher": "Flying Circle Games LLC",
-  "release_date": "Feb 24, 2023",
+  "publisher": "",
+  "release_date": "2023-02-24",
   "price_usd": 4.99,
   "genres": [
     "Indie",
@@ -21,33 +21,9 @@
   ],
   "short_description": "A first-person 3D puzzle game where the player can reverse time.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2166580/header.jpg?t=1677285547",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2166580/ss_1ed9b0ab54ae7d4b1b0597a883d0b7600743eae3.600x338.jpg?t=1677285547",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2166580/ss_9bc4a7e44e7cc385a519b35b2c2558bbba40d24a.600x338.jpg?t=1677285547",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2166580/ss_95d2cf8c5cc47a38be47349ea34a80a6988a1bb8.600x338.jpg?t=1677285547",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2166580/ss_8d4b62d465f291e7d88a9472469f712720ae2dcf.600x338.jpg?t=1677285547",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2166580/ss_fec6bdc4aa438a30b2ef8b8c91547553504bd9f0.600x338.jpg?t=1677285547",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2166580/ss_7bd9fc98ac843eb1874aa4faf256d6a186c2bcbc.600x338.jpg?t=1677285547"
-  ],
-  "detailed_description": "The Janus Problem is a first-person, single player puzzle game where players can reverse time. Set in a virtual testing environment, players must get to the exit of each room.<br />\r\n<br />\r\nPlayers create time marks which, when recalled, cause objects to move back to their position at that time. Players also have the ability to place time locks on different objects which preclude them from reversing. Using these tools, players must orchestrate the movement of objects to solve each level.",
-  "about_the_game": "The Janus Problem is a first-person, single player puzzle game where players can reverse time. Set in a virtual testing environment, players must get to the exit of each room.<br />\r\n<br />\r\nPlayers create time marks which, when recalled, cause objects to move back to their position at that time. Players also have the ability to place time locks on different objects which preclude them from reversing. Using these tools, players must orchestrate the movement of objects to solve each level.",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 4,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

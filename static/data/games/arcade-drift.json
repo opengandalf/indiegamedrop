@@ -3,8 +3,8 @@
   "name": "Arcade Drift",
   "slug": "arcade-drift",
   "developer": "EFatullaev",
-  "publisher": "EFatullaev",
-  "release_date": "Jun 28, 2021",
+  "publisher": "",
+  "release_date": "2021-06-28",
   "price_usd": 4.99,
   "genres": [
     "Casual",
@@ -29,33 +29,15 @@
   ],
   "short_description": "Feel the taste of arcade drift. Be the first on the leaderboard!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607640/header.jpg?t=1627662270",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607640/ss_e21782bceb4c66d1cde7bb8b95ec918838f9db04.600x338.jpg?t=1627662270",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607640/ss_aa8ff061900e47a0e13d96cd3f2f15f513c0b9fb.600x338.jpg?t=1627662270",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607640/ss_58ba7f34753ab7b747c6aff61b080e82fb3dfec7.600x338.jpg?t=1627662270",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607640/ss_23fae66504656a892fc171e493942f3073f374cd.600x338.jpg?t=1627662270",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607640/ss_ef079bf4378ba916a465486c0bec115edaa10b7e.600x338.jpg?t=1627662270",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607640/ss_6dc39225f4365bf7e9405527540469e1d657ac02.600x338.jpg?t=1627662270"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607640/extras/f588d7ad1dd52b5b30224138cf0b6574.poster.avif?t=1627662270\" width=500 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607640/extras/f588d7ad1dd52b5b30224138cf0b6574.webm?t=1627662270\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607640/extras/f588d7ad1dd52b5b30224138cf0b6574.mp4?t=1627662270\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Choose a car and go to the track!</h2>There are 5 maps to choose from, as well as 3 cars (in the future, it is planned to add more cars, as well as maps). Feel the power under the wheels, have fun, compete with friends and other players around the world! Be the first on the world leaderboard!",
-  "about_the_game": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607640/extras/f588d7ad1dd52b5b30224138cf0b6574.poster.avif?t=1627662270\" width=500 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607640/extras/f588d7ad1dd52b5b30224138cf0b6574.webm?t=1627662270\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607640/extras/f588d7ad1dd52b5b30224138cf0b6574.mp4?t=1627662270\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Choose a car and go to the track!</h2>There are 5 maps to choose from, as well as 3 cars (in the future, it is planned to add more cars, as well as maps). Feel the power under the wheels, have fun, compete with friends and other players around the world! Be the first on the world leaderboard!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 0.55,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 11,
-  "review_positive": 10,
+  "review_positive": 0,
   "review_percentage": 90.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -63,19 +45,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 88.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 11,
       "review_percentage": 90.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

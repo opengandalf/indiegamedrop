@@ -3,8 +3,8 @@
   "name": "Light Pursuer",
   "slug": "light-pursuer",
   "developer": "Yang Sun",
-  "publisher": "Yang Sun",
-  "release_date": "Jul 27, 2021",
+  "publisher": "",
+  "release_date": "2021-07-27",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -19,37 +19,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "The map will be displayed only when there is light, otherwise it will be dark and the player can only go to the place with light. The player can push the lighthouse to illuminate other parts of the map, so as to explore different parts of the map.",
+  "short_description": "The map will be displayed only when there is light, otherwise it will be dark and the player can only go to the place with light. The player can push the lighthouse to illuminate other parts of the ma",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1694300/header.jpg?t=1627375171",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1694300/ss_6cc094a837ad0d41891e7094d96c8048825d239f.600x338.jpg?t=1627375171",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1694300/ss_df5cf742a6296e2ff3cd954d525d369cd3fb6aa5.600x338.jpg?t=1627375171",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1694300/ss_6fc8fcf7a8363666724f0fce1d7ace53d715d8b7.600x338.jpg?t=1627375171",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1694300/ss_5931bae2c79a59cc1ba2a813f79690e0e4a0bbb5.600x338.jpg?t=1627375171",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1694300/ss_09a3e09c8df04b749c1e68cb155bab04fbff390f.600x338.jpg?t=1627375171"
-  ],
-  "detailed_description": "The map will be displayed only when there is light, otherwise it will be dark and the player can only go to the place with light. The player can push the lighthouse to illuminate other parts of the map, so as to explore different parts of the map. The goal of the game is to collect the crystals scattered all over the map. After collecting all the crystals, you can win. This is not a very easy process. It needs the players to work hard to achieve it.",
-  "about_the_game": "The map will be displayed only when there is light, otherwise it will be dark and the player can only go to the place with light. The player can push the lighthouse to illuminate other parts of the map, so as to explore different parts of the map. The goal of the game is to collect the crystals scattered all over the map. After collecting all the crystals, you can win. This is not a very easy process. It needs the players to work hard to achieve it.",
-  "supported_languages": "English, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

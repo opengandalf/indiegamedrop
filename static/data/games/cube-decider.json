@@ -3,8 +3,8 @@
   "name": "Cube Decider",
   "slug": "cube-decider",
   "developer": "DillyFrame",
-  "publisher": "DillyFrame",
-  "release_date": "Jun 23, 2022",
+  "publisher": "",
+  "release_date": "2022-06-23",
   "price_usd": 0.67,
   "genres": [
     "Casual",
@@ -21,37 +21,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Cube Decider is a logic puzzle game with RPG elements where you need to make your way through each level collecting power-up and deciding whom and when to attack using your logic and arithmetic skills.",
+  "short_description": "Cube Decider is a logic puzzle game with RPG elements where you need to make your way through each level collecting power-up and deciding whom and when to attack using your logic and arithmetic skills",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008850/header.jpg?t=1709308947",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008850/ss_983374e7c7f0500077b8a474681b442d757c95f0.600x338.jpg?t=1709308947",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008850/ss_b56fdc244e70d8c7c936896461ca6136be5ba69a.600x338.jpg?t=1709308947",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008850/ss_9abbbfde64f8dcc66e1ec01d7aec753504667106.600x338.jpg?t=1709308947",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008850/ss_8a972a84a8c553259148eb3c3b2c8f448fb86bf6.600x338.jpg?t=1709308947",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008850/ss_8f0ff8dffb060d9e3cd894e62e880181515416eb.600x338.jpg?t=1709308947"
-  ],
-  "detailed_description": "You are a Cube with a sword; your default stats values are 1 damage point, 5 health points and 0 armor points.<br><br>Your stats reset to the default values at the beginning of each game level. Then while you are making the way through the level, stats are changed depending on taken power-ups and defeated enemies.<br><br>You initiate all attacks and decide whom to attack first. The fight is turn based. After you attack an enemy, the enemy will attack in turn if it is still alive.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008850/extras/2b9c2283025fc7c58adb7bca5edfad00.poster.avif?t=1709308947\" width=600 height=336 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008850/extras/2b9c2283025fc7c58adb7bca5edfad00.webm?t=1709308947\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008850/extras/2b9c2283025fc7c58adb7bca5edfad00.mp4?t=1709308947\" type=\"video/mp4\"></video></span><br><br>You can “die” if your health becomes below zero; but you can make successful attack even having zero health points. If you die, you will have to start the level from the beginning.  Also you can restart the current level any time.<br><br>You task is to attack enemies in the right order to have enough health, damage, and armor to be able to make it through the level to the exit point.<h2 class=\"bb_tag\" >Features:</h2><br><ul class=\"bb_ul\"><li>50 levels<br></li><li>4 bonus levels<br></li><li>4 power-ups types<br></li><li>28 collectible cards<br></li><li>turn based fights</li></ul>",
-  "about_the_game": "You are a Cube with a sword; your default stats values are 1 damage point, 5 health points and 0 armor points.<br><br>Your stats reset to the default values at the beginning of each game level. Then while you are making the way through the level, stats are changed depending on taken power-ups and defeated enemies.<br><br>You initiate all attacks and decide whom to attack first. The fight is turn based. After you attack an enemy, the enemy will attack in turn if it is still alive.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008850/extras/2b9c2283025fc7c58adb7bca5edfad00.poster.avif?t=1709308947\" width=600 height=336 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008850/extras/2b9c2283025fc7c58adb7bca5edfad00.webm?t=1709308947\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008850/extras/2b9c2283025fc7c58adb7bca5edfad00.mp4?t=1709308947\" type=\"video/mp4\"></video></span><br><br>You can “die” if your health becomes below zero; but you can make successful attack even having zero health points. If you die, you will have to start the level from the beginning.  Also you can restart the current level any time.<br><br>You task is to attack enemies in the right order to have enough health, damage, and armor to be able to make it through the level to the exit point.<h2 class=\"bb_tag\" >Features:</h2><br><ul class=\"bb_ul\"><li>50 levels<br></li><li>4 bonus levels<br></li><li>4 power-ups types<br></li><li>28 collectible cards<br></li><li>turn based fights</li></ul>",
-  "supported_languages": "English, French, German, Japanese, Portuguese - Portugal, Russian, Italian, Spanish - Spain, Portuguese - Brazil, Spanish - Latin America, Turkish",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 4,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

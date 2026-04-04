@@ -3,8 +3,8 @@
   "name": "Demolish",
   "slug": "demolish",
   "developer": "didigames",
-  "publisher": "didigames",
-  "release_date": "Aug 16, 2024",
+  "publisher": "",
+  "release_date": "2024-08-16",
   "price_usd": 39.99,
   "genres": [
     "Casual",
@@ -19,32 +19,15 @@
   ],
   "short_description": "This game is a road racer where players drive a sports car down a challenging highway.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135580/header.jpg?t=1723876959",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135580/ss_4fe3a5f758b31ca2c8bcaf9c9a4bfb72ff36fe32.600x338.jpg?t=1723876959",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135580/ss_314e166011addcdb76622310f926a2a9d23801ee.600x338.jpg?t=1723876959",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135580/ss_a9cfce41909a82341d99c9722ac67580f397418a.600x338.jpg?t=1723876959",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135580/ss_9386ec92e606077af1cc7f4e519a744b17003edb.600x338.jpg?t=1723876959",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3135580/ss_74146c5307ad782656e428977b57c183a0c32fdf.600x338.jpg?t=1723876959"
-  ],
-  "detailed_description": "This game is a road racer where players drive a sports car down a challenging highway.<br />\r\n The objective isn't to race other vehicles, but to collect as many coins scattered along the way as possible. The car moves left and right with the AD keys, and braking is done with the space bar. Acceleration power-ups can be collected to boost speed. Tunnels and bridges add variety and challenge to the scenes. Colliding with obstacles on the road results in failure. The game features detailed graphics and an engaging soundtrack that provides a thrilling driving experience.",
-  "about_the_game": "This game is a road racer where players drive a sports car down a challenging highway.<br />\r\n The objective isn't to race other vehicles, but to collect as many coins scattered along the way as possible. The car moves left and right with the AD keys, and braking is done with the space bar. Acceleration power-ups can be collected to boost speed. Tunnels and bridges add variety and challenge to the scenes. Colliding with obstacles on the road results in failure. The game features detailed graphics and an engaging soundtrack that provides a thrilling driving experience.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 4,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

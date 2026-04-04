@@ -3,8 +3,8 @@
   "name": "Beltex",
   "slug": "beltex",
   "developer": "Notional Games",
-  "publisher": "Notional Games",
-  "release_date": "Jul 8, 2022",
+  "publisher": "",
+  "release_date": "2022-07-08",
   "price_usd": 1.99,
   "genres": [
     "Casual",
@@ -23,35 +23,15 @@
   ],
   "short_description": "Beltex is a casual factory game played on a hex map. Extract numbers. Combine them using mathematical operations. Deliver them using belts across a huge map. Unlock new buildings and upgrades.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051420/header.jpg?t=1726301480",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051420/ss_867a60a2cd45dcd90d6adbf95fa5a2d606edb9ed.600x338.jpg?t=1726301480",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051420/ss_6d575763b4bd3813e3511ffcf8add5f9f0868301.600x338.jpg?t=1726301480",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051420/ss_e995d86cdd9ff3e5ed1d276b995cc708a23d62f4.600x338.jpg?t=1726301480",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051420/ss_3a8b4547c87b4d8ba0d33598001550aa750e60de.600x338.jpg?t=1726301480",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051420/ss_7c51760c83ed28fb1b71604b19be9f1762fb6b2a.600x338.jpg?t=1726301480",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051420/ss_40809e88975144b01dbcf92f2baf5e31a09411a9.600x338.jpg?t=1726301480"
-  ],
-  "detailed_description": "Beltex is a game where you build factories.<br><br><ul class=\"bb_ul\"><li>Extract numbers from the map<br></li><li>Construct buildings that perform mathematical operations<br></li><li>Lay down an expansive belt network<br></li><li>Deliver numbers to core building to reach next level<br></li><li>Build new production lines and reuse old ones<br></li><li>Unlock new buildings and numbers<br></li><li>Upgrade your buildings and belts to work faster<br></li><li>Expand your factory across a huge hex map</li></ul>",
-  "about_the_game": "Beltex is a game where you build factories.<br><br><ul class=\"bb_ul\"><li>Extract numbers from the map<br></li><li>Construct buildings that perform mathematical operations<br></li><li>Lay down an expansive belt network<br></li><li>Deliver numbers to core building to reach next level<br></li><li>Build new production lines and reuse old ones<br></li><li>Unlock new buildings and numbers<br></li><li>Upgrade your buildings and belts to work faster<br></li><li>Expand your factory across a huge hex map</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 221,
-  "rising_score": 0.0003,
+  "screenshots": [],
+  "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 23.0,
+  "review_velocity_7d": 11.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 225,
-  "review_positive": 193,
+  "review_positive": 0,
   "review_percentage": 85.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 202,
-      "review_percentage": 85.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 225,
       "review_percentage": 85.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Block Dungeon",
   "slug": "block-dungeon",
   "developer": "Gnelf",
-  "publisher": "Gnelf",
-  "release_date": "Feb 18, 2021",
+  "publisher": "",
+  "release_date": "2021-02-18",
   "price_usd": 0.84,
   "genres": [
     "Action",
@@ -21,35 +21,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Block Dungeon is a sandbox-style roguelike game. You have to go through dungeons full of unique enemies and bonuses. Collect sets of armor and weapons, defeat enemies who become stronger and stronger each time. Random level generation and constant pumping your character.",
+  "short_description": "Block Dungeon is a sandbox-style roguelike game. You have to go through dungeons full of unique enemies and bonuses. Collect sets of armor and weapons, defeat enemies who become stronger and stronger ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1394720/header.jpg?t=1626415613",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1394720/ss_16858b55d8e04cb2ef3eeef7069cd1fb45e4597a.600x338.jpg?t=1626415613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1394720/ss_f59b242716e554709312f5555a4c95c0017eb51b.600x338.jpg?t=1626415613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1394720/ss_bfed50e55f1bdd0426f872d9d37c1b7befdf9c91.600x338.jpg?t=1626415613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1394720/ss_89832185bdde70b3ec6b9983e5ea4639d98c5855.600x338.jpg?t=1626415613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1394720/ss_14d17703ca214a38d8ed661be0d4fa5e85d03dbe.600x338.jpg?t=1626415613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1394720/ss_38e377f2c0ac33eefa4b7d4e3f9b81f999d2b9d1.600x338.jpg?t=1626415613"
-  ],
-  "detailed_description": "Block Dungeon is a sandbox-style roguelike game.<br />\r\nYou have to go through dungeons full of unique enemies and bonuses.<br />\r\nCollect sets of armor and weapons, defeat enemies who become<br />\r\nstronger and stronger each time. Random level generation and constant<br />\r\npumping your character.<br />\r\n<br />\r\n- More than 30 types of weapons and uniforms.<br />\r\n- 3 unique biomes.<br />\r\n- Several types of enemies for each biome.<br />\r\n- Nice graphics and smooth gameplay.",
-  "about_the_game": "Block Dungeon is a sandbox-style roguelike game.<br />\r\nYou have to go through dungeons full of unique enemies and bonuses.<br />\r\nCollect sets of armor and weapons, defeat enemies who become<br />\r\nstronger and stronger each time. Random level generation and constant<br />\r\npumping your character.<br />\r\n<br />\r\n- More than 30 types of weapons and uniforms.<br />\r\n- 3 unique biomes.<br />\r\n- Several types of enemies for each biome.<br />\r\n- Nice graphics and smooth gameplay.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.7000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 34,
-  "review_positive": 22,
+  "review_positive": 0,
   "review_percentage": 64.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 34,
-      "review_percentage": 64.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 34,
       "review_percentage": 64.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

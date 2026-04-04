@@ -3,8 +3,8 @@
   "name": "Simple Machines",
   "slug": "simple-machines",
   "developer": "Kraken Ink.",
-  "publisher": "Kraken Ink.",
-  "release_date": "May 19, 2020",
+  "publisher": "",
+  "release_date": "2020-05-19",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -19,54 +19,27 @@
   ],
   "short_description": "Simple Machines is a minimalist physics puzzle game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307850/header.jpg?t=1727385456",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307850/ss_5ed3769c8309a4466ead9c4d1604f59b06982a56.600x338.jpg?t=1727385456",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307850/ss_6f13b35c8ce51f92ef3d531eca5232980ff28f35.600x338.jpg?t=1727385456",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307850/ss_81e01bcbc2c550afd1bdf48d0b59f49485bfcf2c.600x338.jpg?t=1727385456",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307850/ss_1bd0956bfde0612fe557c13e4928fe89c603c455.600x338.jpg?t=1727385456",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307850/ss_d5f607a6dd0222efc8d73c2bda894d3b7904c1f2.600x338.jpg?t=1727385456"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Simple Machines is a minimalist physics puzzle game where you control different kinds of platforms to guide the colored balls to the exit.</p><p class=\"bb_paragraph\" > </p><h2 class=\"bb_tag\" >Features</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >110 Levels<br>Relaxing music<br>Minimalist visuals</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Simple Machines is a minimalist physics puzzle game where you control different kinds of platforms to guide the colored balls to the exit.</p><p class=\"bb_paragraph\" > </p><h2 class=\"bb_tag\" >Features</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >110 Levels<br>Relaxing music<br>Minimalist visuals</p>",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Portugal, Portuguese - Brazil, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.9252,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 24,
-  "review_positive": 23,
+  "review_positive": 0,
   "review_percentage": 95.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 23,
-      "review_percentage": 95.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 24,
       "review_percentage": 95.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

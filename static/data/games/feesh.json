@@ -3,8 +3,8 @@
   "name": "Feesh",
   "slug": "feesh",
   "developer": "Terrifying Jellyfish",
-  "publisher": "Terrifying Jellyfish",
-  "release_date": "Feb 1, 2016",
+  "publisher": "",
+  "release_date": "2016-02-01",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -21,41 +21,11 @@
     "mac",
     "linux"
   ],
-  "short_description": "Feesh: An arcade game of microscopic survival, and pesky sharks. The mechanic is simple; eat smaller feesh to get bigger, and avoid being eaten by bigger Feesh. Survive long enough, and you'll evolve! But try not to get naturally selected. A game by Tj H, with music by RDTR Productions",
+  "short_description": "Feesh: An arcade game of microscopic survival, and pesky sharks. The mechanic is simple; eat smaller feesh to get bigger, and avoid being eaten by bigger Feesh. Survive long enough, and you'll evolve!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415240/header.jpg?t=1454485865",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415240/ss_9878d35c90339975f747586c8c343c9cd12e91b7.600x338.jpg?t=1454485865",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415240/ss_c6d5d36b6dab1e1b011c8808990a79d1031f9005.600x338.jpg?t=1454485865",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415240/ss_06d7e2715bcfb5901b5bf40ad9181c9f83889528.600x338.jpg?t=1454485865",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415240/ss_a95758abf2a3473528d490219502b84996f1f765.600x338.jpg?t=1454485865",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415240/ss_f9ba13de25337d9e7fe3eaa8435af6d50f032138.600x338.jpg?t=1454485865"
-  ],
-  "detailed_description": "Feesh is a minimalist arcade game where you play as a tiny microorganism that resembles a fish. The mechanic is simple; eat smaller feesh to get bigger, and avoid being eaten by bigger feesh. Certain feesh have special abilities; Red ones make you smaller, and the jellyfeesh can sting you. Survive long enough, and you'll evolve! But try not to get naturally selected. And watch out for sharks.<br><br><ul class=\"bb_ul\"> <li> Some feesh are more rude than others. Observe the behaviors of the different types of feesh to find out what they do! Or just find out the hard way. </li><li>Uses Steam Leaderboards! See how you rank against other players in the food chain </li><li> Controller support! Or the game can be played using just the mouse! </li><li> 2-4 player competitive mode! </li><li> Chillout mode! Just chill and watch the game play itself in this ambient mode. </li><li>sharks </li><li> Originally made for the Ludum Dare 48 hour game jam!</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415240/extras/c45e5bc368e453bc275580ac87c15b5a.avif?t=1454485865\" width=600 height=926 /></span>",
-  "about_the_game": "Feesh is a minimalist arcade game where you play as a tiny microorganism that resembles a fish. The mechanic is simple; eat smaller feesh to get bigger, and avoid being eaten by bigger feesh. Certain feesh have special abilities; Red ones make you smaller, and the jellyfeesh can sting you. Survive long enough, and you'll evolve! But try not to get naturally selected. And watch out for sharks.<br><br><ul class=\"bb_ul\"> <li> Some feesh are more rude than others. Observe the behaviors of the different types of feesh to find out what they do! Or just find out the hard way. </li><li>Uses Steam Leaderboards! See how you rank against other players in the food chain </li><li> Controller support! Or the game can be played using just the mouse! </li><li> 2-4 player competitive mode! </li><li> Chillout mode! Just chill and watch the game play itself in this ambient mode. </li><li>sharks </li><li> Originally made for the Ludum Dare 48 hour game jam!</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415240/extras/c45e5bc368e453bc275580ac87c15b5a.avif?t=1454485865\" width=600 height=926 /></span>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Shared/Split Screen",
-    "Steam Achievements",
-    "Steam Trading Cards",
-    "Partial Controller Support",
-    "Steam Leaderboards",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 119,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 145,
-  "review_positive": 113,
+  "review_positive": 0,
   "review_percentage": 77.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -63,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 143,
-      "review_percentage": 77.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
+      "date": "2026-04-04",
       "review_count": 145,
       "review_percentage": 77.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

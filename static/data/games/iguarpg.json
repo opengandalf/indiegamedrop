@@ -3,8 +3,8 @@
   "name": "IguaRPG",
   "slug": "iguarpg",
   "developer": "Hubol",
-  "publisher": "Hubol",
-  "release_date": "Apr 23, 2023",
+  "publisher": "",
+  "release_date": "2023-04-23",
   "price_usd": 4.99,
   "genres": [
     "Adventure",
@@ -21,54 +21,27 @@
   ],
   "short_description": "Be an iguana and save the world from evil.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365560/header.jpg?t=1682289144",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365560/ss_f1fe1ae13c93b379beb5512c344c9c3ee6dead98.600x338.jpg?t=1682289144",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365560/ss_9e67d43f1ceabc0d1c525a421f5ebe7c184ab557.600x338.jpg?t=1682289144",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365560/ss_abce97b18a2609296c71017016bb33441227e2f3.600x338.jpg?t=1682289144",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365560/ss_067340a7416508a7079e9c1875842b509e71fd69.600x338.jpg?t=1682289144",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365560/ss_8eadb29badf487bd41a36e1abdd2ea68187db96d.600x338.jpg?t=1682289144"
-  ],
-  "detailed_description": "Be an iguana and save the world from evil.<h2 class=\"bb_tag\" >Features</h2><br><ul class=\"bb_ul\"><li>Create your own adorable iguana with the charming character creator<br></li><li>Solve puzzles and get help from other iguanas to collect the 4 big keys<br></li><li>Collect precious valuables to spend on unique consumables and stat boosts<br></li><li>Defeat strong invaders with strategy and clever use of items</li></ul><br> <span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365560/extras/95d484fda50fd5a2ebb63469d2bea10a.webp?t=1682289144\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365560/extras/95d484fda50fd5a2ebb63469d2bea10a.poster.avif?t=1682289144\" class=\"bb_img\" width=112 height=129 /></picture></span><h2 class=\"bb_tag\" >Controls</h2><br><ul class=\"bb_ul\"><li><strong>Arrow Keys</strong> - Move<br></li><li><strong>Space</strong> - Jump, Confirm, Use potion<br></li><li><strong>U</strong> - View potion supply<br></li><li><strong>Q</strong> - ???</li></ul>",
-  "about_the_game": "Be an iguana and save the world from evil.<h2 class=\"bb_tag\" >Features</h2><br><ul class=\"bb_ul\"><li>Create your own adorable iguana with the charming character creator<br></li><li>Solve puzzles and get help from other iguanas to collect the 4 big keys<br></li><li>Collect precious valuables to spend on unique consumables and stat boosts<br></li><li>Defeat strong invaders with strategy and clever use of items</li></ul><br> <span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365560/extras/95d484fda50fd5a2ebb63469d2bea10a.webp?t=1682289144\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2365560/extras/95d484fda50fd5a2ebb63469d2bea10a.poster.avif?t=1682289144\" class=\"bb_img\" width=112 height=129 /></picture></span><h2 class=\"bb_tag\" >Controls</h2><br><ul class=\"bb_ul\"><li><strong>Arrow Keys</strong> - Move<br></li><li><strong>Space</strong> - Jump, Confirm, Use potion<br></li><li><strong>U</strong> - View potion supply<br></li><li><strong>Q</strong> - ???</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.954,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 26,
-  "review_positive": 26,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 25,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 26,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

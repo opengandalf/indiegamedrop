@@ -3,8 +3,8 @@
   "name": "Rollout",
   "slug": "rollout",
   "developer": "Ryan up in here",
-  "publisher": "Ryan up in here",
-  "release_date": "Sep 14, 2016",
+  "publisher": "",
+  "release_date": "2016-09-14",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -26,36 +26,9 @@
   ],
   "short_description": "Rollout is a multiplayer \"eat-to-grow\" game set in a three(technically four)-dimensional world.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/509190/header.jpg?t=1507900342",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/509190/ss_252ddc372bf8028990c766d9f4197e4fb520fbef.600x338.jpg?t=1507900342",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/509190/ss_65b1697291550863e3cca097aa473ca8087d7ceb.600x338.jpg?t=1507900342",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/509190/ss_f923ad983f3064b1c3e9060abd4f178214a42fea.600x338.jpg?t=1507900342",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/509190/ss_2f792b05604ec88931471e963c94ad7d2bc8cbd7.600x338.jpg?t=1507900342",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/509190/ss_a91629fc8c3a45bd4a6fae54a35658cf31ee9d23.600x338.jpg?t=1507900342",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/509190/ss_291a874a9f373e2feace13596cf8e738b601bbe7.600x338.jpg?t=1507900342"
-  ],
-  "detailed_description": "<strong>Rollout is in Early Access. It's not finished. There are bugs.<br>As of now, there is a maximum of 20 players at one time.</strong><br><br>Rollout is a multiplayer eat-to-grow, \".io\" style game but, unlike others that you may have played, I've added an extra dimension. The goal is to grow as big as you can while not being eaten. <br><br>The rules are simple: Eat anything smaller than you and avoid anything bigger.<h2 class=\"bb_tag\" ><strong><u>Controls:</u></strong></h2>Aim with mouse<br>WASD to move<br>Space to jump when you're big enough<br>Click to boost when you're big enough<br>Hold space to climb buildings when you're big enough<br>Use the scroll wheel to adjust how far the camera can see. Shorter distance  == better performance.",
-  "about_the_game": "<strong>Rollout is in Early Access. It's not finished. There are bugs.<br>As of now, there is a maximum of 20 players at one time.</strong><br><br>Rollout is a multiplayer eat-to-grow, \".io\" style game but, unlike others that you may have played, I've added an extra dimension. The goal is to grow as big as you can while not being eaten. <br><br>The rules are simple: Eat anything smaller than you and avoid anything bigger.<h2 class=\"bb_tag\" ><strong><u>Controls:</u></strong></h2>Aim with mouse<br>WASD to move<br>Space to jump when you're big enough<br>Click to boost when you're big enough<br>Hold space to climb buildings when you're big enough<br>Use the scroll wheel to adjust how far the camera can see. Shorter distance  == better performance.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Steam Achievements",
-    "Stats"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 89,
-  "review_positive": 52,
+  "review_positive": 0,
   "review_percentage": 58.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -63,19 +36,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 88,
-      "review_percentage": 60.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 89,
       "review_percentage": 58.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

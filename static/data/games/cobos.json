@@ -3,8 +3,8 @@
   "name": "Cobos",
   "slug": "cobos",
   "developer": "Anton Shatalov",
-  "publisher": "Anton Shatalov",
-  "release_date": "Oct 17, 2017",
+  "publisher": "",
+  "release_date": "2017-10-17",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -19,31 +19,15 @@
   ],
   "short_description": "3rd person arena shooter which is so hard to be completed by weak players.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/685450/header.jpg?t=1508681266",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/685450/ss_632d7019d7e20ca951cd1beb95c8058ab93a9f5b.600x338.jpg?t=1508681266",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/685450/ss_e7fcb2ecfd0a0da62ee8deb3059755f72ffe410c.600x338.jpg?t=1508681266",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/685450/ss_2fd3d4218c4252e7059f23de5dbac875a37ad51f.600x338.jpg?t=1508681266",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/685450/ss_590f8e9f5cace92a2491f5d512a884d7e2775956.600x338.jpg?t=1508681266",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/685450/ss_446ffa87be4cc819b96caf9e59294958d0c1c36d.600x338.jpg?t=1508681266"
-  ],
-  "detailed_description": "Just watch the video to understand what the game is like. If you have already watched then there are some tips:<br />\r\n- It's a 3rd person arena shooter;<br />\r\n- Enemies spawn in special order and you have to find out it to win;<br />\r\n- Every enemy has a special behavior, weapon and task;<br />\r\n- Where you run is more important than who you are going to kill;<br />\r\n- It's ok if you die 10-20 times before win the first battle.<br />\r\n- Don't forget to use a second weapon.",
-  "about_the_game": "Just watch the video to understand what the game is like. If you have already watched then there are some tips:<br />\r\n- It's a 3rd person arena shooter;<br />\r\n- Enemies spawn in special order and you have to find out it to win;<br />\r\n- Every enemy has a special behavior, weapon and task;<br />\r\n- Where you run is more important than who you are going to kill;<br />\r\n- It's ok if you die 10-20 times before win the first battle.<br />\r\n- Don't forget to use a second weapon.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.8500000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 17,
-  "review_positive": 12,
+  "review_positive": 0,
   "review_percentage": 70.6,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -51,26 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 15,
-      "review_percentage": 73.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 17,
-      "review_percentage": 70.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
+      "date": "2026-04-04",
       "review_count": 17,
       "review_percentage": 70.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

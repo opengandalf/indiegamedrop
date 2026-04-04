@@ -3,8 +3,8 @@
   "name": "Constructed",
   "slug": "constructed",
   "developer": "Gaming Project",
-  "publisher": "Gaming Project",
-  "release_date": "Oct 1, 2024",
+  "publisher": "",
+  "release_date": "2024-10-01",
   "price_usd": 14.99,
   "genres": [
     "Casual",
@@ -23,42 +23,15 @@
   ],
   "short_description": "Constructed is a factory building game, with a single goal... to automate EVERYTHING!!!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915250/header.jpg?t=1756120681",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915250/c7e8ec61c601b97116cf9b97cbcf75bdf3fdbe1f/ss_c7e8ec61c601b97116cf9b97cbcf75bdf3fdbe1f.600x338.jpg?t=1756120681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915250/b0a6452589037244e556f34fd06784444a72fe85/ss_b0a6452589037244e556f34fd06784444a72fe85.600x338.jpg?t=1756120681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915250/ss_08d3ec5a6672d09bff0704617b8f265c38888501.600x338.jpg?t=1756120681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915250/06b2ef6987ec95fd998828f992e034602a103546/ss_06b2ef6987ec95fd998828f992e034602a103546.600x338.jpg?t=1756120681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915250/ss_9a2aa27143eaa276f06d03913a0914ccd3ca0a7b.600x338.jpg?t=1756120681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915250/ss_86cc3713b16b853704e2746ded71222f97439fbd.600x338.jpg?t=1756120681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915250/ss_8ccc8b9083513eb1b10d34cea52f64f49306502a.600x338.jpg?t=1756120681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915250/ss_dae8eab32b457f765e5c53dd5f6810daa10f764e.600x338.jpg?t=1756120681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915250/8ad1b633e731137b459f11ed50303919be37e157/ss_8ad1b633e731137b459f11ed50303919be37e157.600x338.jpg?t=1756120681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915250/ss_af80d82fb707726b5f2192937f97aa69e7213337.600x338.jpg?t=1756120681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915250/a4d4bcc8010e1eea8d998e7e57551dc9e0af877e/ss_a4d4bcc8010e1eea8d998e7e57551dc9e0af877e.600x338.jpg?t=1756120681"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>Constructed</strong> is a third-person open-world factory building game. Explore the world and unlock new resources, create massive factories, and try to automate EVERYTHING!!! The game is being developed by a single developer and is still in EA, major future updates are planned to further enhance the gameplay</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>Constructed</strong> is a third-person open-world factory building game. Explore the world and unlock new resources, create massive factories, and try to automate EVERYTHING!!! The game is being developed by a single developer and is still in EA, major future updates are planned to further enhance the gameplay</p>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Online Co-op",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.45,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 9,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 77.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -66,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 8,
-      "review_percentage": 87.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 77.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

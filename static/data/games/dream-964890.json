@@ -3,8 +3,8 @@
   "name": "Dream",
   "slug": "dream-964890",
   "developer": "Dream Garage, Incorporated",
-  "publisher": "Dream Garage, Incorporated",
-  "release_date": "Apr 12, 2019",
+  "publisher": "",
+  "release_date": "2019-04-12",
   "price_usd": 0.0,
   "genres": [
     "Utilities"
@@ -15,34 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Dream enables you and your team to collaborate like never before! Thoughtfully crafted to make sharing web based content as easy and useful as possible. Built from the ground up, Dream makes meetings seamless and delightful.",
+  "short_description": "Dream enables you and your team to collaborate like never before! Thoughtfully crafted to make sharing web based content as easy and useful as possible. Built from the ground up, Dream makes meetings ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964890/header.jpg?t=1555102352",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964890/ss_7a3fba0168a102ca882dc02f1753aca18a5cf56f.600x338.jpg?t=1555102352",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964890/ss_349f0c12e4d353f729d40bbb3a5814e613e7ef5e.600x338.jpg?t=1555102352",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964890/ss_74915298664ddc76e6b12e362d7d19b114c906c9.600x338.jpg?t=1555102352",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964890/ss_c749afcb99979728d0012ac15b4e05d19634426c.600x338.jpg?t=1555102352",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964890/ss_07d6507ca0dca06742395a1282ff1939cf8dd446.600x338.jpg?t=1555102352"
-  ],
-  "detailed_description": "Unlike Anything Else.<br>Just Like You'd Expect.<br><br>Useful collaboration in Virtual Reality.<br><br>Dream makes it possible to meet and collaborate in virtual reality. Have a remote stand up with your team using Trello, or present a PDF from your Google Drive or Dropbox. Conduct a design review from the comfort of your home with people around the world, or simply watch YouTube together.<h2 class=\"bb_tag\" >Features</h2><br><ul class=\"bb_ul\"><li> Meet with up to 6 people in a Dream Team and collaborate with them in real time.  Dream's custom built engine and stack allow for extremely low latency collaboration while sending data 90 frames per second (as fast as we can from the hardware, with no interpolation needed).  The quality and fidelity really makes Dream feel like being in a space with someone else.<br><br></li><li> Utilize Dream's Browser which is based on Chromium and deeply integrated with our platform and UI.  We've made sure that every bit of Dream can be used entirely in VR, including a first in class VR keyboard that is capable of 30-40 WPM after a bit of getting used to. <br><br></li><li> Federate external accounts like Google Drive and Dropbox to pull content from them directly into Dream.  Bring in a PDF or Image, or bring up a video from your YouTube subscriptions or Plex account.  The goal is to make bringing in the content you want to share easy and seamless. </li></ul>",
-  "about_the_game": "Unlike Anything Else.<br>Just Like You'd Expect.<br><br>Useful collaboration in Virtual Reality.<br><br>Dream makes it possible to meet and collaborate in virtual reality. Have a remote stand up with your team using Trello, or present a PDF from your Google Drive or Dropbox. Conduct a design review from the comfort of your home with people around the world, or simply watch YouTube together.<h2 class=\"bb_tag\" >Features</h2><br><ul class=\"bb_ul\"><li> Meet with up to 6 people in a Dream Team and collaborate with them in real time.  Dream's custom built engine and stack allow for extremely low latency collaboration while sending data 90 frames per second (as fast as we can from the hardware, with no interpolation needed).  The quality and fidelity really makes Dream feel like being in a space with someone else.<br><br></li><li> Utilize Dream's Browser which is based on Chromium and deeply integrated with our platform and UI.  We've made sure that every bit of Dream can be used entirely in VR, including a first in class VR keyboard that is capable of 30-40 WPM after a bit of getting used to. <br><br></li><li> Federate external accounts like Google Drive and Dropbox to pull content from them directly into Dream.  Bring in a PDF or Image, or bring up a video from your YouTube subscriptions or Plex account.  The goal is to make bringing in the content you want to share easy and seamless. </li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.6000000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 12,
-  "review_positive": 11,
+  "review_positive": 0,
   "review_percentage": 91.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 12,
-      "review_percentage": 83.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 12,
       "review_percentage": 91.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

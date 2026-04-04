@@ -3,8 +3,8 @@
   "name": "Pet",
   "slug": "pet",
   "developer": "beepsoft industries",
-  "publisher": "beepsoft industries",
-  "release_date": "Aug 2, 2023",
+  "publisher": "",
+  "release_date": "2023-08-02",
   "price_usd": 0.59,
   "genres": [
     "Casual"
@@ -17,35 +17,9 @@
   ],
   "short_description": "A horror visual novel about trying to get home to feed your cat.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518660/header.jpg?t=1741710258",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518660/ss_b8399ba58f2b2e99f45560ddb3f1486fd6e52f23.600x338.jpg?t=1741710258",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518660/ss_18a71430e6dbfd5ca0dd1f4412c58fdaaf5badc6.600x338.jpg?t=1741710258",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518660/ss_ce953082de06652e0330767600c9d569ba296c31.600x338.jpg?t=1741710258",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518660/ss_5d58442fae9015028e5cb08b86ce08c062c4a5c5.600x338.jpg?t=1741710258",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518660/ss_e363f26d3bfd2de357bacfb0254fa7f091253028.600x338.jpg?t=1741710258",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2518660/ss_0f21878fb3729de825be2c1a72d9c7db851f8f91.600x338.jpg?t=1741710258"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Pet is a horror visual novel about being in a city after a fun day out and how sometimes you gotta get home to take care of your cat. </h2><h2 class=\"bb_tag\" > </h2><p class=\"bb_paragraph\" >It's a late night on an unseasonably warm day. On your way home to feed your cat Kuma, you stumble upon a vending machine in a dark alley.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >This game should take around 60 minutes to complete.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >As this is meant to be played in one setting, you cannot manually save. The game does save between endings, so if you close while at the main menu, you can pick up where you left off, but there's no way to save during each playthrough.</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >There are no jump scares but there are some light visual effects like screen tearing and glitches.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > ~7k words</p></li><li><p class=\"bb_paragraph\" > working vending machine </p></li><li><p class=\"bb_paragraph\" > 4(?) distinct endings depending on player choice</p></li><li><p class=\"bb_paragraph\" > cat</p></li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" >Pet is a horror visual novel about being in a city after a fun day out and how sometimes you gotta get home to take care of your cat. </h2><h2 class=\"bb_tag\" > </h2><p class=\"bb_paragraph\" >It's a late night on an unseasonably warm day. On your way home to feed your cat Kuma, you stumble upon a vending machine in a dark alley.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >This game should take around 60 minutes to complete.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >As this is meant to be played in one setting, you cannot manually save. The game does save between endings, so if you close while at the main menu, you can pick up where you left off, but there's no way to save during each playthrough.</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >There are no jump scares but there are some light visual effects like screen tearing and glitches.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > ~7k words</p></li><li><p class=\"bb_paragraph\" > working vending machine </p></li><li><p class=\"bb_paragraph\" > 4(?) distinct endings depending on player choice</p></li><li><p class=\"bb_paragraph\" > cat</p></li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 20,
-  "review_positive": 19,
+  "review_positive": 0,
   "review_percentage": 95.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 16,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 20,
       "review_percentage": 95.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

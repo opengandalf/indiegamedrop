@@ -3,8 +3,8 @@
   "name": "Nucleares",
   "slug": "nucleares",
   "developer": "Iván Marcelo Pretti",
-  "publisher": "MicroProse Software",
-  "release_date": "Mar 13, 2023",
+  "publisher": "",
+  "release_date": "2023-03-13",
   "price_usd": 11.99,
   "genres": [
     "Indie",
@@ -19,100 +19,27 @@
   ],
   "short_description": "Nuclear Reactor Simulator: Take Control. Prevent Disaster. Power the World.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/9b8ede497a3d8719158e4a23c0a276c19e736e96/header.jpg?t=1767409412",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_6342d0b6b200a2a45b63fdfb80163c7a7d66e6b1.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_ffb71d1fa713603f29288e01bf51f872181f7a3f.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_70f3a4a6d2748876353ad3c4d876e7d0819020df.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_7e74af49785f58943355ab9fa613a530b01264c4.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_76067cbb7d16c9b6d7ed126fec09456c14810355.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_21f29530f01d0e4d453280813b9d49d7b679fd3c.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_410afb810ab11deb82ee42c36b1ddf228c75c626.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_9dd8b83587818d5c13f50e9036cbcc4794374220.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_cb7e8948f1dcc9c2141a661b8f62a8be8d1c0f90.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_76d95bb8fd525fd1cfc7dadfecd318f4fb1c5aae.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_cd44d8854bf793facfaf6911f8534844570a4284.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_318cf9bb36e349a9bd685fa7bdfd663872e620ea.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_c00f8e09887dccbd2d335ad4fcc0990b01bcfc3c.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_6579e8386d1ce3805be754b0b03a9dcf763cbb90.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_2832ddf415fdd941ea25c2f2dd056941d36a652a.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_0eb9fe8494859e56324ea984bdaf370d1a528ea8.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_064e30bc89ab516547d29a429e9f96ac2a331ea5.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_31152e8b8212c3d743b38a904287a9cfb1d028ac.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_738796e679707d0a94c9d07303ec6f470ae83a0a.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_491ee81d2a6055b6d9da4b9af1abb56780dfb386.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_0e48ccc1a562e7a9fa6b828c40308a77d83d9da9.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_73ee9172de13cf32abcc9b9da71c1387298ec834.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_375021c0ce239f68aaa77558fc0a646a49118e1e.600x338.jpg?t=1767409412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/ss_75bf97488e24b97fc2305040dd736803b6fc4b5a.600x338.jpg?t=1767409412"
-  ],
-  "detailed_description": "<h1>Update Notes</h1><p><h2 class=\"bb_tag\" ><strong>Major Updates: Enhanced Core and Safety Systems (V 2.2.21.172)</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>New Core Design</strong>: Operate a reactor with nine fuel blocks and 72 control rods for increased power output and complexity.</p></li><li><p class=\"bb_paragraph\" ><strong>Advanced Safety Features</strong>: Three-tier resistance banks, improved circulation pumps, and real-time monitoring panels for control rods and fuel blocks.</p></li><li><p class=\"bb_paragraph\" ><strong>Operational Tasks App</strong>: Manage reactor functions remotely via your tablet, including fuel block loading/unloading and AO control.</p></li></ul></p><br><h1>Update Notes</h1><p><h2 class=\"bb_tag\" ><strong>Major Updates: Chemical Module (V 0.2.18.141)</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Boric Acid Management</strong>: Fine-tune reactor reactivity with boric acid dosing and filtration systems.</p></li><li><p class=\"bb_paragraph\" ><strong>Ion Exchange Columns</strong>: Maintain absorption capacity and prevent corrosion by managing coolant pH levels.</p></li><li><p class=\"bb_paragraph\" ><strong>Xenon and Iodine Dynamics</strong>: Understand and control the effects of fission products like xenon-135 and iodine-135 on reactor stability.</p></li></ul></p><br><h1>About the Game</h1><p class=\"bb_paragraph\" >Welcome to <strong>Nuclear Reactor Simulator</strong>, where you step into the shoes of a nuclear power plant operator tasked with managing one of the most complex and dangerous systems on Earth. With the help of your AI-powered Operational Assistant (AO), you’ll navigate the intricacies of reactor mechanics, balance energy production, and prevent catastrophic failures.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/extras/a50ae359b9307dc87cc22b1457526975.avif?t=1767409412\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/extras_big/a50ae359b9307dc87cc22b1457526975.avif?t=1767409412 width=800 height=450 /></span></p><p class=\"bb_paragraph\" >This isn’t just a game—it’s a deep, immersive simulation that challenges your strategic thinking, problem-solving skills, and ability to stay calm under pressure. Whether you’re a seasoned simulation enthusiast or a curious newcomer, <strong>Nuclear Reactor Simulator</strong> offers a thrilling and educational experience like no other.</p><h2 class=\"bb_tag\" ><strong>Key Features</strong></h2><h2 class=\"bb_tag\" ><strong>Realistic Nuclear Reactor Operation</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Control Every Aspect</strong>: Manage over 200 parameters and 150 switches across multiple reactor modules, including the Control Room, Containment Building, Turbine Building, and Cooling Towers.</p></li><li><p class=\"bb_paragraph\" ><strong>Dynamic Systems</strong>: Monitor and adjust reactor power, coolant flow, steam generation, and more to maintain optimal performance.</p></li><li><p class=\"bb_paragraph\" ><strong>Emergency Scenarios</strong>: Respond to unexpected events like equipment failures, floods, and fires with quick decision-making and precise actions.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/extras/77274830d5a23946c09b5957e296be8c.avif?t=1767409412\" width=800 height=450 /></span></p><h2 class=\"bb_tag\" ><strong>AI-Powered Assistance</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Operational Assistant (AO)</strong>: Your AI companion helps with ignition protocols, alarm systems, and crisis management. Upgrade its skills to unlock advanced functionalities.</p></li><li><p class=\"bb_paragraph\" ><strong>Remote Control</strong>: Use your tablet to manage reactor tasks, control AO, and oversee operations from anywhere in the plant.</p></li></ul><h2 class=\"bb_tag\" ><strong>Complex and Rewarding Gameplay</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Daily Objectives</strong>: Meet energy production goals to earn Prestige and Experience Points. Level up to unlock more challenging scenarios.</p></li><li><p class=\"bb_paragraph\" ><strong>Resource Management</strong>: Balance fuel consumption, maintenance costs, and community demands to keep your plant running efficiently.</p></li><li><p class=\"bb_paragraph\" ><strong>Prestige System</strong>: Spend Prestige Points on upgrades, fuel blocks, protective gear, and even radioactive waste cleanup.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/extras/71d168cc8e3302a5fa0f139c23dd99a4.avif?t=1767409412\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/extras_big/71d168cc8e3302a5fa0f139c23dd99a4.avif?t=1767409412 width=800 height=450 /></span></p><h2 class=\"bb_tag\" ><strong>Advanced Reactor Mechanics</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Enhanced Core Design</strong>: Operate a state-of-the-art reactor with nine fuel blocks, 72 control rods, and advanced safety systems.</p></li><li><p class=\"bb_paragraph\" ><strong>Chemical Module</strong>: Dive into the chemistry of reactor operation with boric acid dosing, ion exchange filtration, and pH management.</p></li><li><p class=\"bb_paragraph\" ><strong>Thermal and Steam Balance</strong>: Master the delicate equilibrium between steam generation, coolant flow, and energy output to avoid system failures.</p></li></ul><h2 class=\"bb_tag\" ><strong>Immersive Atmosphere</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Realistic Soundtrack</strong>: Feel the tension and excitement of managing a nuclear power plant with an atmospheric soundtrack.</p></li><li><p class=\"bb_paragraph\" ><strong>Detailed Environments</strong>: Explore every corner of your plant, from the Control Room to the underground maintenance tunnels.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/extras/3ab39d8af20a062a560a17c76ab66ba8.avif?t=1767409412\" width=800 height=450 /></span></p><h2 class=\"bb_tag\" ><strong>What Makes This Game Unique?</strong></h2><p class=\"bb_paragraph\" ><strong>Nuclear Reactor Simulator</strong> stands out with its unparalleled depth and realism. Unlike other simulation games, it doesn’t hold your hand with step-by-step tutorials. Instead, it empowers you to learn through experimentation, research, and community collaboration.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>No Hand-Holding</strong>: Consult the in-game manual, research real-world reactor operations, or join the community to master the game’s mechanics.</p></li><li><p class=\"bb_paragraph\" ><strong>Constantly Evolving</strong>: Regular updates introduce new features, improve realism, and refine gameplay based on player feedback.</p></li><li><p class=\"bb_paragraph\" ><strong>Educational Value</strong>: Learn the science behind nuclear energy while having fun.</p></li></ul><h2 class=\"bb_tag\" ><strong>Why You’ll Love This Game</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Thrilling Challenges</strong>: Every decision matters. Will you prioritize power output or safety? Can you handle the pressure of an emergency?</p></li><li><p class=\"bb_paragraph\" ><strong>Endless Replayability</strong>: With dynamic systems, evolving challenges, and a community-driven learning curve, no two playthroughs are the same.</p></li><li><p class=\"bb_paragraph\" ><strong>A True Simulator</strong>: This isn’t just a game—it’s a realistic, hands-on experience that will test your skills and keep you coming back for more.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/extras/2ab39d20fd342c6534465b369a52ee45.avif?t=1767409412\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/extras_big/2ab39d20fd342c6534465b369a52ee45.avif?t=1767409412 width=800 height=450 /></span></p><h2 class=\"bb_tag\" ><strong>Join the Community</strong></h2><p class=\"bb_paragraph\" >Become part of a growing community of players who share tips, strategies, and stories of their reactor operations. Whether you’re looking for advice or want to show off your achievements, there’s a place for you in the <strong>Nuclear Reactor Simulator</strong> community.</p><h2 class=\"bb_tag\" ><strong>Ready to Take Control?</strong></h2><p class=\"bb_paragraph\" >Step into the Control Room, fire up the reactor, and see if you have what it takes to power the world—or risk a meltdown. <strong>Nuclear Reactor Simulator</strong> is waiting for you.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/extras/71d950b3cbe3d09e4e8283909bce28a7.avif?t=1767409412\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/extras_big/71d950b3cbe3d09e4e8283909bce28a7.avif?t=1767409412 width=800 height=450 /></span></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Welcome to <strong>Nuclear Reactor Simulator</strong>, where you step into the shoes of a nuclear power plant operator tasked with managing one of the most complex and dangerous systems on Earth. With the help of your AI-powered Operational Assistant (AO), you’ll navigate the intricacies of reactor mechanics, balance energy production, and prevent catastrophic failures.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/extras/a50ae359b9307dc87cc22b1457526975.avif?t=1767409412\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/extras_big/a50ae359b9307dc87cc22b1457526975.avif?t=1767409412 width=800 height=450 /></span></p><p class=\"bb_paragraph\" >This isn’t just a game—it’s a deep, immersive simulation that challenges your strategic thinking, problem-solving skills, and ability to stay calm under pressure. Whether you’re a seasoned simulation enthusiast or a curious newcomer, <strong>Nuclear Reactor Simulator</strong> offers a thrilling and educational experience like no other.</p><h2 class=\"bb_tag\" ><strong>Key Features</strong></h2><h2 class=\"bb_tag\" ><strong>Realistic Nuclear Reactor Operation</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Control Every Aspect</strong>: Manage over 200 parameters and 150 switches across multiple reactor modules, including the Control Room, Containment Building, Turbine Building, and Cooling Towers.</p></li><li><p class=\"bb_paragraph\" ><strong>Dynamic Systems</strong>: Monitor and adjust reactor power, coolant flow, steam generation, and more to maintain optimal performance.</p></li><li><p class=\"bb_paragraph\" ><strong>Emergency Scenarios</strong>: Respond to unexpected events like equipment failures, floods, and fires with quick decision-making and precise actions.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/extras/77274830d5a23946c09b5957e296be8c.avif?t=1767409412\" width=800 height=450 /></span></p><h2 class=\"bb_tag\" ><strong>AI-Powered Assistance</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Operational Assistant (AO)</strong>: Your AI companion helps with ignition protocols, alarm systems, and crisis management. Upgrade its skills to unlock advanced functionalities.</p></li><li><p class=\"bb_paragraph\" ><strong>Remote Control</strong>: Use your tablet to manage reactor tasks, control AO, and oversee operations from anywhere in the plant.</p></li></ul><h2 class=\"bb_tag\" ><strong>Complex and Rewarding Gameplay</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Daily Objectives</strong>: Meet energy production goals to earn Prestige and Experience Points. Level up to unlock more challenging scenarios.</p></li><li><p class=\"bb_paragraph\" ><strong>Resource Management</strong>: Balance fuel consumption, maintenance costs, and community demands to keep your plant running efficiently.</p></li><li><p class=\"bb_paragraph\" ><strong>Prestige System</strong>: Spend Prestige Points on upgrades, fuel blocks, protective gear, and even radioactive waste cleanup.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/extras/71d168cc8e3302a5fa0f139c23dd99a4.avif?t=1767409412\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/extras_big/71d168cc8e3302a5fa0f139c23dd99a4.avif?t=1767409412 width=800 height=450 /></span></p><h2 class=\"bb_tag\" ><strong>Advanced Reactor Mechanics</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Enhanced Core Design</strong>: Operate a state-of-the-art reactor with nine fuel blocks, 72 control rods, and advanced safety systems.</p></li><li><p class=\"bb_paragraph\" ><strong>Chemical Module</strong>: Dive into the chemistry of reactor operation with boric acid dosing, ion exchange filtration, and pH management.</p></li><li><p class=\"bb_paragraph\" ><strong>Thermal and Steam Balance</strong>: Master the delicate equilibrium between steam generation, coolant flow, and energy output to avoid system failures.</p></li></ul><h2 class=\"bb_tag\" ><strong>Immersive Atmosphere</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Realistic Soundtrack</strong>: Feel the tension and excitement of managing a nuclear power plant with an atmospheric soundtrack.</p></li><li><p class=\"bb_paragraph\" ><strong>Detailed Environments</strong>: Explore every corner of your plant, from the Control Room to the underground maintenance tunnels.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/extras/3ab39d8af20a062a560a17c76ab66ba8.avif?t=1767409412\" width=800 height=450 /></span></p><h2 class=\"bb_tag\" ><strong>What Makes This Game Unique?</strong></h2><p class=\"bb_paragraph\" ><strong>Nuclear Reactor Simulator</strong> stands out with its unparalleled depth and realism. Unlike other simulation games, it doesn’t hold your hand with step-by-step tutorials. Instead, it empowers you to learn through experimentation, research, and community collaboration.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>No Hand-Holding</strong>: Consult the in-game manual, research real-world reactor operations, or join the community to master the game’s mechanics.</p></li><li><p class=\"bb_paragraph\" ><strong>Constantly Evolving</strong>: Regular updates introduce new features, improve realism, and refine gameplay based on player feedback.</p></li><li><p class=\"bb_paragraph\" ><strong>Educational Value</strong>: Learn the science behind nuclear energy while having fun.</p></li></ul><h2 class=\"bb_tag\" ><strong>Why You’ll Love This Game</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Thrilling Challenges</strong>: Every decision matters. Will you prioritize power output or safety? Can you handle the pressure of an emergency?</p></li><li><p class=\"bb_paragraph\" ><strong>Endless Replayability</strong>: With dynamic systems, evolving challenges, and a community-driven learning curve, no two playthroughs are the same.</p></li><li><p class=\"bb_paragraph\" ><strong>A True Simulator</strong>: This isn’t just a game—it’s a realistic, hands-on experience that will test your skills and keep you coming back for more.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/extras/2ab39d20fd342c6534465b369a52ee45.avif?t=1767409412\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/extras_big/2ab39d20fd342c6534465b369a52ee45.avif?t=1767409412 width=800 height=450 /></span></p><h2 class=\"bb_tag\" ><strong>Join the Community</strong></h2><p class=\"bb_paragraph\" >Become part of a growing community of players who share tips, strategies, and stories of their reactor operations. Whether you’re looking for advice or want to show off your achievements, there’s a place for you in the <strong>Nuclear Reactor Simulator</strong> community.</p><h2 class=\"bb_tag\" ><strong>Ready to Take Control?</strong></h2><p class=\"bb_paragraph\" >Step into the Control Room, fire up the reactor, and see if you have what it takes to power the world—or risk a meltdown. <strong>Nuclear Reactor Simulator</strong> is waiting for you.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/extras/71d950b3cbe3d09e4e8283909bce28a7.avif?t=1767409412\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428420/extras_big/71d950b3cbe3d09e4e8283909bce28a7.avif?t=1767409412 width=800 height=450 /></span></p>",
-  "supported_languages": "English<strong>*</strong>, Spanish - Latin America, German, Russian, Ukrainian<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 970,
+  "screenshots": [],
   "rising_score": 0.0009,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 316.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 1020,
-  "review_positive": 850,
+  "review_positive": 0,
   "review_percentage": 83.3,
   "owner_estimate": 35000,
-  "ccu_estimate": 15,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 422,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 704,
-      "review_percentage": 81.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
-      "review_count": 1009,
-      "review_percentage": 83.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
-      "review_count": 1015,
-      "review_percentage": 83.3,
-      "ccu_estimate": 15,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-29",
-      "review_count": 1016,
-      "review_percentage": 83.3,
-      "ccu_estimate": 15,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
+      "date": "2026-04-04",
       "review_count": 1020,
       "review_percentage": 83.3,
-      "ccu_estimate": 15,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
-      "review_count": 1020,
-      "review_percentage": 83.3,
-      "ccu_estimate": 15,
+      "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

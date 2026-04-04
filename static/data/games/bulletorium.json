@@ -3,8 +3,8 @@
   "name": "Bulletorium",
   "slug": "bulletorium",
   "developer": "Trukhan Hryhorii",
-  "publisher": "Trukhan Hryhorii",
-  "release_date": "Aug 13, 2019",
+  "publisher": "",
+  "release_date": "2019-08-13",
   "price_usd": 0.99,
   "genres": [
     "Action"
@@ -17,34 +17,15 @@
   ],
   "short_description": "Bulletorium is a dynamic and fast top-down shooter with a lot of shootouts, base capture and management, AI controlling and various upgrades and boss fights.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1106980/header.jpg?t=1566594888",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1106980/ss_0bf40e9ea30e26e34967ea0ac0823fcc09359106.600x338.jpg?t=1566594888",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1106980/ss_0c85d8b5190458ab3f3c41c2ca447f130bb4a210.600x338.jpg?t=1566594888",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1106980/ss_d5b96e4fb2862a21bc442c42204823526a8b7814.600x338.jpg?t=1566594888",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1106980/ss_a7666053339f53e9d5bd10bf71df89659522a813.600x338.jpg?t=1566594888",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1106980/ss_70b840093299d3ebd6f45c91723b457ccf105a04.600x338.jpg?t=1566594888"
-  ],
-  "detailed_description": "Bulletorium is a 2D top-down bullethell shooter. It has a fast and dynamic gameplay, shootouts, a lot of enemy and friendly drones on the map. The player will have to capture bases, control their ship directly and supervise the actions of friendly drones, build turrets, spawners and determine friendly drone attack directions. <br />\r\nThe game consists of 20 levels, including bases capture, boss-fights and defence missions. Destroy enemies, capture bases, buy various upgrades between missions and go to space domination!",
-  "about_the_game": "Bulletorium is a 2D top-down bullethell shooter. It has a fast and dynamic gameplay, shootouts, a lot of enemy and friendly drones on the map. The player will have to capture bases, control their ship directly and supervise the actions of friendly drones, build turrets, spawners and determine friendly drone attack directions. <br />\r\nThe game consists of 20 levels, including bases capture, boss-fights and defence missions. Destroy enemies, capture bases, buy various upgrades between missions and go to space domination!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.30000000000000004,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 6,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

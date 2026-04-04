@@ -3,8 +3,8 @@
   "name": "Deities Flush",
   "slug": "deities-flush",
   "developer": "JYS",
-  "publisher": "JYS",
-  "release_date": "Nov 5, 2024",
+  "publisher": "",
+  "release_date": "2024-11-05",
   "price_usd": 2.39,
   "genres": [
     "Action",
@@ -23,34 +23,15 @@
   ],
   "short_description": "This is a card-building game, where users build decks to pass levels.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499640/header.jpg?t=1735738498",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499640/ss_d5aebcf7880bbc0c64c1041752c059d7e8d1ae57.600x338.jpg?t=1735738498",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499640/ss_ea511f009ee2212752fceb165303f5af77dc9212.600x338.jpg?t=1735738498",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499640/ss_2b1d949dde299c5d0c77f3d29dc7cb7ac4f474c4.600x338.jpg?t=1735738498",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499640/ss_f13b706d3bfc9ea0c6eb4c609ef793c8b788240b.600x338.jpg?t=1735738498",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499640/ss_2fef65b20f6aa6825cef749e36f485c52842a339.600x338.jpg?t=1735738498"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >This is a card-building game, where users build decks to pass levels.</p><p class=\"bb_paragraph\" >The deck consists of multiple cards with numbers 2-9 and JQKA.</p><p class=\"bb_paragraph\" >Each time, the user can play a specified number of cards from the hand.</p><p class=\"bb_paragraph\" >Different card types have different attack power.</p><p class=\"bb_paragraph\" >The more difficult the deck is to build, the stronger the attack power.</p><p class=\"bb_paragraph\" >After the user defeats the enemy in the level, he enters the next level.</p><p class=\"bb_paragraph\" >In the process of passing levels, the user can get the opportunity to adjust the deck, such as adding new cards, deleting some cards in the deck, and obtaining the God card that provides attack power bonus.</p><p class=\"bb_paragraph\" >﻿</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >This is a card-building game, where users build decks to pass levels.</p><p class=\"bb_paragraph\" >The deck consists of multiple cards with numbers 2-9 and JQKA.</p><p class=\"bb_paragraph\" >Each time, the user can play a specified number of cards from the hand.</p><p class=\"bb_paragraph\" >Different card types have different attack power.</p><p class=\"bb_paragraph\" >The more difficult the deck is to build, the stronger the attack power.</p><p class=\"bb_paragraph\" >After the user defeats the enemy in the level, he enters the next level.</p><p class=\"bb_paragraph\" >In the process of passing levels, the user can get the opportunity to adjust the deck, such as adding new cards, deleting some cards in the deck, and obtaining the God card that provides attack power bonus.</p><p class=\"bb_paragraph\" >﻿</p>",
-  "supported_languages": "English, Simplified Chinese, Traditional Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "In-App Purchases",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.75,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 35,
-  "review_positive": 20,
+  "review_positive": 0,
   "review_percentage": 57.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 29,
-      "review_percentage": 62.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 35,
       "review_percentage": 57.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

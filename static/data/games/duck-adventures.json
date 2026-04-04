@@ -3,8 +3,8 @@
   "name": "Duck Adventures",
   "slug": "duck-adventures",
   "developer": "HungoverGames",
-  "publisher": "HungoverGames",
-  "release_date": "May 6, 2024",
+  "publisher": "",
+  "release_date": "2024-05-06",
   "price_usd": 0.74,
   "genres": [
     "Adventure"
@@ -17,34 +17,15 @@
   ],
   "short_description": "Duck Adventures features 30 levels of exciting gameplay. A game that will not leave you indifferent to the fate of the duck. Who returns home after a long fishing trip.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2940410/header.jpg?t=1715347769",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2940410/ss_95dede023efb55ff81729a2b8e43b639bd798102.600x338.jpg?t=1715347769",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2940410/ss_29127582eb8d93096aba37110f79bdb3e809caea.600x338.jpg?t=1715347769",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2940410/ss_5986ea47b411567d658d458b0df78257ca39e1c3.600x338.jpg?t=1715347769",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2940410/ss_4705f4663292fd95af78d1b867ed486aa9a5eb7a.600x338.jpg?t=1715347769",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2940410/ss_627db5db5a55aeff35db35b08d06667e85dc6f13.600x338.jpg?t=1715347769"
-  ],
-  "detailed_description": "Duck Adventures features 30 levels of exciting gameplay. A game that will not leave you indifferent to the fate of the duck. Who returns home after a long fishing trip.<br />\r\n<br />\r\nYou have to overcome a huge number of obstacles, including: circular saws, spikes, cacti and hostile turrets.",
-  "about_the_game": "Duck Adventures features 30 levels of exciting gameplay. A game that will not leave you indifferent to the fate of the duck. Who returns home after a long fishing trip.<br />\r\n<br />\r\nYou have to overcome a huge number of obstacles, including: circular saws, spikes, cacti and hostile turrets.",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Traditional Chinese, Simplified Chinese, Korean, Polish, Russian, Turkish, Ukrainian, Azerbaijani, Kazakh, Hindi, Portuguese - Portugal, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 21,
-  "review_positive": 18,
+  "review_positive": 0,
   "review_percentage": 85.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 20,
-      "review_percentage": 85.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 21,
       "review_percentage": 85.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "OSCKit",
   "slug": "osckit",
   "developer": "MORA",
-  "publisher": "MORA",
-  "release_date": "Feb 12, 2018",
+  "publisher": "",
+  "release_date": "2018-02-12",
   "price_usd": 0.0,
   "genres": [
     "Audio Production",
@@ -17,31 +17,9 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "OSCKit is a virtual reality environment for composition and performance. Using Open Sound Control (OSC), OSCKit integrates with production software like Ableton Live or Max/MSP for a customizable creative workflow, no programming experience required!",
+  "short_description": "OSCKit is a virtual reality environment for composition and performance. Using Open Sound Control (OSC), OSCKit integrates with production software like Ableton Live or Max/MSP for a customizable crea",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/778430/header.jpg?t=1586654179",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/778430/ss_7795fb2698b90b9f70d376225179335ca71a7edf.600x338.jpg?t=1586654179",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/778430/ss_ee28b367cc02c4551b9e44cf91630ab13e8fc984.600x338.jpg?t=1586654179",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/778430/ss_e94315f3c778fdab86fc18377c3d154557bcf456.600x338.jpg?t=1586654179",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/778430/ss_0788af0e8b3d5f58b57f303d5f5b442a313eb59a.600x338.jpg?t=1586654179",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/778430/ss_a8edf75513c8e0881818a77e852575f6bdd9af71.600x338.jpg?t=1586654179"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Create in VR</h2>OSCKit is a virtual reality environment for composition and performance. Using Open Sound Control (OSC), OSCKit integrates with production software like Ableton Live or Max/MSP for a customizable creative workflow, no programming experience required!<br><br>Inspired by apps like TouchOSC and Lemur, this software aims to bring that same functionality into the 3rd dimension.<h2 class=\"bb_tag\" >How It Works</h2>OSCKit does not generate audio by itself, but rather controls another production software of your choosing. This is done using OSC messages - small packets of information that, for instance, tell a program to press a note or turn a knob. Loads of software supports OSC including:<br><ul class=\"bb_ul\"><li>Ableton Live<br></li><li>Logic Pro X<br></li><li>Cubase<br></li><li>Max/MSP<br></li><li>Pure Data</li></ul><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>8 expressive control types including sliders, knobs and pads.<br></li><li>Built-in integration with TouchOSC Bridge for MIDI I/O.<br></li><li>Simple UI for one-button arrangement and performance.<br></li><li>Saving/Reopening kits for later expansion and sharing.<br></li><li>Customizable OSC addressing system.</li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" >Create in VR</h2>OSCKit is a virtual reality environment for composition and performance. Using Open Sound Control (OSC), OSCKit integrates with production software like Ableton Live or Max/MSP for a customizable creative workflow, no programming experience required!<br><br>Inspired by apps like TouchOSC and Lemur, this software aims to bring that same functionality into the 3rd dimension.<h2 class=\"bb_tag\" >How It Works</h2>OSCKit does not generate audio by itself, but rather controls another production software of your choosing. This is done using OSC messages - small packets of information that, for instance, tell a program to press a note or turn a knob. Loads of software supports OSC including:<br><ul class=\"bb_ul\"><li>Ableton Live<br></li><li>Logic Pro X<br></li><li>Cubase<br></li><li>Max/MSP<br></li><li>Pure Data</li></ul><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>8 expressive control types including sliders, knobs and pads.<br></li><li>Built-in integration with TouchOSC Bridge for MIDI I/O.<br></li><li>Simple UI for one-button arrangement and performance.<br></li><li>Saving/Reopening kits for later expansion and sharing.<br></li><li>Customizable OSC addressing system.</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 1,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -51,26 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

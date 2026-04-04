@@ -3,8 +3,8 @@
   "name": "Lemma",
   "slug": "lemma",
   "developer": "Helvetica Scenario",
-  "publisher": "Helvetica Scenario",
-  "release_date": "May 12, 2015",
+  "publisher": "",
+  "release_date": "2015-05-12",
   "price_usd": 7.49,
   "genres": [
     "Action",
@@ -21,70 +21,21 @@
   ],
   "short_description": "Immersive first-person parkour in a surreal, physics-driven voxel world. Every move can modify the environment. Surfaces pop in and out of existence at will.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300340/header.jpg?t=1756842612",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300340/ss_1af6c05632f7b87059576012fae1b7d865c467aa.600x338.jpg?t=1756842612",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300340/ss_a6f4067ba1f676e240ed87d50e643822ab49af27.600x338.jpg?t=1756842612",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300340/ss_4a72544a18b54f98fa6d1d65dbf2fd3efe5f6646.600x338.jpg?t=1756842612",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300340/ss_4882a2ac09b25228aafef6e0156f08de03b9ad8e.600x338.jpg?t=1756842612",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300340/ss_114eda1084051a3ec8b6b6ca1d65c147eb896b16.600x338.jpg?t=1756842612",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300340/ss_156375ba6dfe87f44cc3ef4b86d023a94a22698d.600x338.jpg?t=1756842612",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300340/ss_cc9e080447becf029d0b150f1bf5f169ad90d8fa.600x338.jpg?t=1756842612"
-  ],
-  "detailed_description": "Immersive first-person parkour in a surreal, physics-driven voxel world.<br><br>Lemma enables creative building through movement. Spawn structures just by moving through space. Extend platforms, smash through walls, and build new ones, all through parkour moves.<br><br><ul class=\"bb_ul\"><li>Non-linear story - four possible endings<br></li><li>Oculus Rift support (currently limited to SDK v0.6.0.1-beta)<br></li><li>Time trial mode<br></li><li>Built-in level editor with Steam Workshop support<br></li><li>Xbox 360 Controller support</li></ul>",
-  "about_the_game": "Immersive first-person parkour in a surreal, physics-driven voxel world.<br><br>Lemma enables creative building through movement. Spawn structures just by moving through space. Extend platforms, smash through walls, and build new ones, all through parkour moves.<br><br><ul class=\"bb_ul\"><li>Non-linear story - four possible endings<br></li><li>Oculus Rift support (currently limited to SDK v0.6.0.1-beta)<br></li><li>Time trial mode<br></li><li>Built-in level editor with Steam Workshop support<br></li><li>Xbox 360 Controller support</li></ul>",
-  "supported_languages": "English, Polish, Spanish - Spain, Hungarian, Turkish, French",
-  "metacritic_score": 73,
-  "metacritic_url": "https://www.metacritic.com/game/pc/lemma?ftag=MCD-06-10aaa1f",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Trading Cards",
-    "VR Support",
-    "Steam Workshop",
-    "Steam Cloud",
-    "Stats",
-    "Steam Leaderboards",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 123,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 4.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 247,
-  "review_positive": 203,
+  "review_positive": 0,
   "review_percentage": 82.2,
   "owner_estimate": 35000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 367,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 243,
-      "review_percentage": 82.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 247,
-      "review_percentage": 82.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 247,
       "review_percentage": 82.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

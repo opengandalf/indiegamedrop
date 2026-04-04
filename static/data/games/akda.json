@@ -3,8 +3,8 @@
   "name": "akda",
   "slug": "akda",
   "developer": "Snkl Studio",
-  "publisher": "Snkl Studio",
-  "release_date": "Dec 27, 2017",
+  "publisher": "",
+  "release_date": "2017-12-27",
   "price_usd": 0.49,
   "genres": [
     "Casual",
@@ -19,33 +19,9 @@
   ],
   "short_description": "A simple physical puzzle.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761630/header.jpg?t=1748669622",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761630/ss_6ad8ac99b10dfc293902d3ffcfe2f06aa889abff.600x338.jpg?t=1748669622",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761630/ss_924266590dcb947d331af8b7c46ad6588831c9b6.600x338.jpg?t=1748669622",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761630/ss_d4c3c713d7d17e1157cfe8bfc7f4bcb66da13931.600x338.jpg?t=1748669622",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761630/ss_9a1fb443d03f29a02b662548412b4cd571a9a5a1.600x338.jpg?t=1748669622",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761630/ss_45d120cfd2fdc2ebc9106d7d04f83f66d24c1247.600x338.jpg?t=1748669622"
-  ],
-  "detailed_description": "akda - is a simple physical puzzle. The goal of the player is to throw the ball into the basket, avoiding obstacles.<br />\r\n- 30 levels<br />\r\n- Pleasant music<br />\r\n- Steam achievements<br />\r\nControls: R - Restart level, LMB and arrows - control<br />\r\nCredits: This game was created using Clickteam Fusion 2.5! Music by Erwarda Savitnaag.",
-  "about_the_game": "akda - is a simple physical puzzle. The goal of the player is to throw the ball into the basket, avoiding obstacles.<br />\r\n- 30 levels<br />\r\n- Pleasant music<br />\r\n- Steam achievements<br />\r\nControls: R - Restart level, LMB and arrows - control<br />\r\nCredits: This game was created using Clickteam Fusion 2.5! Music by Erwarda Savitnaag.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 87,
-  "review_positive": 25,
+  "review_positive": 0,
   "review_percentage": 28.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 88,
-      "review_percentage": 28.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 87,
       "review_percentage": 28.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

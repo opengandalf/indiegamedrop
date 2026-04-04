@@ -3,8 +3,8 @@
   "name": "Romino's Adventure",
   "slug": "rominos-adventure",
   "developer": "InterDan",
-  "publisher": "InterDan",
-  "release_date": "Nov 19, 2021",
+  "publisher": "",
+  "release_date": "2021-11-19",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -20,56 +20,27 @@
   ],
   "short_description": "A blocky puzzle platformer adventure.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775470/header.jpg?t=1687549019",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775470/ss_5a879a7d874429fb8f9a551e15d5b29fc90f13c0.600x338.jpg?t=1687549019",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775470/ss_7fb1cc955eac680f82fbecca121aa95471328a37.600x338.jpg?t=1687549019",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775470/ss_d516af1368222f3a471ba1dbde2f9cdee20d906d.600x338.jpg?t=1687549019",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775470/ss_0c4c204e086eae03f2a3ada83bb521a208ce5b05.600x338.jpg?t=1687549019",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775470/ss_c3409e1574edb5fd5b64fa4cf3096fef0663598c.600x338.jpg?t=1687549019",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775470/ss_0859a126df5eba24e3e50a0ab9d7708424d1f48e.600x338.jpg?t=1687549019",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775470/ss_500659582ac286a8bff3998b5692be97bb3133bc.600x338.jpg?t=1687549019",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775470/ss_afd30dd2ab9500720449a188e04147c50d523216.600x338.jpg?t=1687549019"
-  ],
-  "detailed_description": "Make your way moving around tetrominoes in this puzzle platformer adventure. Travel through 8 unique worlds and a total of 43 levels to claim your rightfully deserved byte of the cake. <br />\r\n<br />\r\nWill you be able to reach the end? I don't know, you can always check a walkthrough, it's cool with me. Also make sure to take breaks and hydrate from time to time. Ily bye.",
-  "about_the_game": "Make your way moving around tetrominoes in this puzzle platformer adventure. Travel through 8 unique worlds and a total of 43 levels to claim your rightfully deserved byte of the cake. <br />\r\n<br />\r\nWill you be able to reach the end? I don't know, you can always check a walkthrough, it's cool with me. Also make sure to take breaks and hydrate from time to time. Ily bye.",
-  "supported_languages": "English, Spanish - Spain",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0004,
   "gem_score": 0.7994,
   "hype_score": 0.0,
-  "review_velocity_7d": 5.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 53,
-  "review_positive": 50,
+  "review_positive": 0,
   "review_percentage": 94.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 48,
-      "review_percentage": 95.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 53,
       "review_percentage": 94.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

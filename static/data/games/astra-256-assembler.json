@@ -3,8 +3,8 @@
   "name": "ASTRA-256 Assembler",
   "slug": "astra-256-assembler",
   "developer": "brusnik.com",
-  "publisher": "brusnik.com",
-  "release_date": "Oct 21, 2025",
+  "publisher": "",
+  "release_date": "2025-10-21",
   "price_usd": 10.19,
   "genres": [
     "Education",
@@ -20,32 +20,15 @@
   ],
   "short_description": "Virtual 8-bit computer with 256 bytes of memory. A powerful learning tool for mastering Assembler, with lessons available in English. Try your hand at low-level programming!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260310/4a374f7f45bfb5404ca01f8c2359eb72240c4728/header.jpg?t=1761045864",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260310/ss_61cc914b23060ac730d37d060b01540a6deab645.600x338.jpg?t=1761045864",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260310/ss_112eb73a84e8cf2c10366cff4358599cbab5667c.600x338.jpg?t=1761045864",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260310/ss_5b2049c434bd30ccfec6b451e180140195f1e03d.600x338.jpg?t=1761045864",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260310/ss_a83b9951cd0a41671e04ed679f22eeb31e1a11a6.600x338.jpg?t=1761045864",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260310/ss_e07cbe1dd029c52872d9b87bd16199b7728d042d.600x338.jpg?t=1761045864"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" ><strong>ASTRA-256 — A BINARY VIRTUAL MACHINE PROGRAMMED IN ASSEMBLER</strong></h2><p class=\"bb_paragraph\" >Step into the era of early computing and feel like a real engineer from the past. ASTRA-256 isn’t just a computer — it’s a complete educational environment where you write real Assembler code for a virtual von Neumann architecture machine.</p><h2 class=\"bb_tag\" ><strong>LEARN BY PLAYING</strong></h2><p class=\"bb_paragraph\" >ASTRA-256 is:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >An interactive simulator for learning Assembler from scratch.</p></li><li><p class=\"bb_paragraph\" >A logic puzzle for those who love “real” programming.</p></li><li><p class=\"bb_paragraph\" >A nostalgic time machine for veterans of the LPG-30, Altair 8800, and PDP-11.</p></li></ul><p class=\"bb_paragraph\" >This is the kind of machine pioneers of computing once used to solve real problems — under tight resource constraints, just like in the 1970s.</p><h2 class=\"bb_tag\" ><strong>WHY LEARN ASSEMBLER?</strong></h2><p class=\"bb_paragraph\" >Assembler is the language the machine truly understands. It’s not obsolete — it’s foundational.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Still used in microcontrollers and embedded systems</strong>: from home appliances and automotive electronics to medical devices and IoT.</p></li><li><p class=\"bb_paragraph\" ><strong>Gives you full control over the hardware</strong> — drivers, firmware, DSP, memory, and registers.</p></li><li><p class=\"bb_paragraph\" ><strong>Essential for cybersecurity</strong>: reverse engineering, malware analysis, hacking, and low-level defense.</p></li><li><p class=\"bb_paragraph\" ><strong>Helps you understand</strong> how high-level languages like Java, C++, and Python work under the hood.</p></li><li><p class=\"bb_paragraph\" ><strong>Reveals the essence of computation</strong> — how bits become intelligence, how stacks, memory, and ALUs operate.</p></li></ul><p class=\"bb_paragraph\" >Understand Assembler, and you’ll understand how everything else works.</p><h2 class=\"bb_tag\" ><strong>WHAT CAN ASTRA-256 DO?</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >8-bit processor with accumulator and visible registers: IP, IN, OUT, SP, FLAGS.</p></li><li><p class=\"bb_paragraph\" >256 bytes of memory — just like the original Altair 8800 released in 1975 with the Intel 8080.</p></li><li><p class=\"bb_paragraph\" >75 instructions grouped by purpose: control flow, data movement, arithmetic, stack, I/O, and more.</p></li><li><p class=\"bb_paragraph\" >Lessons and documentation in five languages — printable, just like in the good old days.</p></li></ul><p class=\"bb_paragraph\" >Start with simple programs and progress to complex algorithms: square roots, trigonometry, even mini-games.</p><p class=\"bb_paragraph\" >ASTRA-256 runs on a custom Assembler designed specifically for this environment. We intentionally offer an extended instruction set — similar to what you’ll find in modern microcontrollers and processors.</p><p class=\"bb_paragraph\" >It’s a hands-on way to gain foundational experience with low-level hardware logic — the kind that prepares you to work with any modern microcontroller. The principles haven’t changed.</p><h2 class=\"bb_tag\" ><strong>PLAY, LEARN, PROGRAM</strong></h2><p class=\"bb_paragraph\" >Everything you need is built in: editor, debugger, help system.</p><p class=\"bb_paragraph\" >Everything is real: memory, registers, instructions.</p><p class=\"bb_paragraph\" >Everything is here to help you understand how computers truly work — not at the interface level, but at the bit level.</p><p class=\"bb_paragraph\" >Who knows — maybe you’ll be the one to write the program that sends Elon Musk to Mars.</p>",
-  "about_the_game": "<h2 class=\"bb_tag\" ><strong>ASTRA-256 — A BINARY VIRTUAL MACHINE PROGRAMMED IN ASSEMBLER</strong></h2><p class=\"bb_paragraph\" >Step into the era of early computing and feel like a real engineer from the past. ASTRA-256 isn’t just a computer — it’s a complete educational environment where you write real Assembler code for a virtual von Neumann architecture machine.</p><h2 class=\"bb_tag\" ><strong>LEARN BY PLAYING</strong></h2><p class=\"bb_paragraph\" >ASTRA-256 is:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >An interactive simulator for learning Assembler from scratch.</p></li><li><p class=\"bb_paragraph\" >A logic puzzle for those who love “real” programming.</p></li><li><p class=\"bb_paragraph\" >A nostalgic time machine for veterans of the LPG-30, Altair 8800, and PDP-11.</p></li></ul><p class=\"bb_paragraph\" >This is the kind of machine pioneers of computing once used to solve real problems — under tight resource constraints, just like in the 1970s.</p><h2 class=\"bb_tag\" ><strong>WHY LEARN ASSEMBLER?</strong></h2><p class=\"bb_paragraph\" >Assembler is the language the machine truly understands. It’s not obsolete — it’s foundational.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Still used in microcontrollers and embedded systems</strong>: from home appliances and automotive electronics to medical devices and IoT.</p></li><li><p class=\"bb_paragraph\" ><strong>Gives you full control over the hardware</strong> — drivers, firmware, DSP, memory, and registers.</p></li><li><p class=\"bb_paragraph\" ><strong>Essential for cybersecurity</strong>: reverse engineering, malware analysis, hacking, and low-level defense.</p></li><li><p class=\"bb_paragraph\" ><strong>Helps you understand</strong> how high-level languages like Java, C++, and Python work under the hood.</p></li><li><p class=\"bb_paragraph\" ><strong>Reveals the essence of computation</strong> — how bits become intelligence, how stacks, memory, and ALUs operate.</p></li></ul><p class=\"bb_paragraph\" >Understand Assembler, and you’ll understand how everything else works.</p><h2 class=\"bb_tag\" ><strong>WHAT CAN ASTRA-256 DO?</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >8-bit processor with accumulator and visible registers: IP, IN, OUT, SP, FLAGS.</p></li><li><p class=\"bb_paragraph\" >256 bytes of memory — just like the original Altair 8800 released in 1975 with the Intel 8080.</p></li><li><p class=\"bb_paragraph\" >75 instructions grouped by purpose: control flow, data movement, arithmetic, stack, I/O, and more.</p></li><li><p class=\"bb_paragraph\" >Lessons and documentation in five languages — printable, just like in the good old days.</p></li></ul><p class=\"bb_paragraph\" >Start with simple programs and progress to complex algorithms: square roots, trigonometry, even mini-games.</p><p class=\"bb_paragraph\" >ASTRA-256 runs on a custom Assembler designed specifically for this environment. We intentionally offer an extended instruction set — similar to what you’ll find in modern microcontrollers and processors.</p><p class=\"bb_paragraph\" >It’s a hands-on way to gain foundational experience with low-level hardware logic — the kind that prepares you to work with any modern microcontroller. The principles haven’t changed.</p><h2 class=\"bb_tag\" ><strong>PLAY, LEARN, PROGRAM</strong></h2><p class=\"bb_paragraph\" >Everything you need is built in: editor, debugger, help system.</p><p class=\"bb_paragraph\" >Everything is real: memory, registers, instructions.</p><p class=\"bb_paragraph\" >Everything is here to help you understand how computers truly work — not at the interface level, but at the bit level.</p><p class=\"bb_paragraph\" >Who knows — maybe you’ll be the one to write the program that sends Elon Musk to Mars.</p>",
-  "supported_languages": "English, Russian, Ukrainian, French, German, Spanish - Spain, Spanish - Latin America",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Workshop",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.5,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 30,
-  "review_positive": 25,
+  "review_positive": 0,
   "review_percentage": 83.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +36,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 19,
-      "review_percentage": 78.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 30,
       "review_percentage": 83.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

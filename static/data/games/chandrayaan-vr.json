@@ -3,8 +3,8 @@
   "name": "Chandrayaan VR",
   "slug": "chandrayaan-vr",
   "developer": "Klip VR Immersive Technologies Pvt Ltd",
-  "publisher": "Klip VR",
-  "release_date": "Dec 28, 2020",
+  "publisher": "",
+  "release_date": "2020-12-28",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -21,40 +21,15 @@
   ],
   "short_description": "A real-time experience of Mission Chandrayaan and an explorative journey through space and time unfolding the story and milestones of the mission.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429800/header.jpg?t=1720783879",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429800/ss_f59b5d8544e06e63129349420d406efb7a11cf27.600x338.jpg?t=1720783879",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429800/ss_94219564a9e1c530e0ea781d0c8e8ac58de01d4a.600x338.jpg?t=1720783879",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429800/ss_3e35472e307bfc7a5535e7012ca9f1d19bb4414f.600x338.jpg?t=1720783879",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429800/ss_b471f542db6f1cfa5ddc349ee8874d351dbe2483.600x338.jpg?t=1720783879",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429800/ss_35fa3995bbff8f79ce7c8a88f923e020c8526015.600x338.jpg?t=1720783879",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429800/ss_0ff2829028fcae42d8d73b9cd1ea8957d5b5512b.600x338.jpg?t=1720783879",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429800/ss_9adf5b4b4a9f7715ad5701355eb0d925461683d2.600x338.jpg?t=1720783879",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429800/ss_9930105cf0d9249832b552f5199906882fdc0841.600x338.jpg?t=1720783879",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429800/ss_1b4d9c4c919f03a83e2cf4c2c56e156e35e00e76.600x338.jpg?t=1720783879",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429800/ss_6751c9ad1757f69be95b228eb05cc9d88f05f5c3.600x338.jpg?t=1720783879",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429800/ss_ec5d47098a7ecaa0522c603adc6f36a7acd38964.600x338.jpg?t=1720783879"
-  ],
-  "detailed_description": "Experience the Indian Moon Mission in VR, Chandrayaan VR allows users to be a part of Space Mission and experience several events that aid the<br />\r\nscientific learning of the subject. With accurate recreation of the Lunar mission, the user is teleported to experience the launch of the GSLC MK III Rocket and see the Science Lab, where All the Components of the Chandryaan mission gets ready. Launch the rocket and experience the whole mission in VR. How the whole mission is planned. Land on the Moon and carry on Moon Exploration. Host your flag.",
-  "about_the_game": "Experience the Indian Moon Mission in VR, Chandrayaan VR allows users to be a part of Space Mission and experience several events that aid the<br />\r\nscientific learning of the subject. With accurate recreation of the Lunar mission, the user is teleported to experience the launch of the GSLC MK III Rocket and see the Science Lab, where All the Components of the Chandryaan mission gets ready. Launch the rocket and experience the whole mission in VR. How the whole mission is planned. Land on the Moon and carry on Moon Exploration. Host your flag.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Explorer Studio",
   "slug": "explorer-studio",
   "developer": "Phocore Inc.",
-  "publisher": "Phocore Inc.",
-  "release_date": "Jul 30, 2020",
+  "publisher": "",
+  "release_date": "2020-07-30",
   "price_usd": 0.0,
   "genres": [
     "Early Access"
@@ -17,32 +17,15 @@
   ],
   "short_description": "Personalize your Windows file explorer. Import Videos/Images to create your own custom file explorer or browse the Steam Workshop for designs from other users.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281310/header.jpg?t=1611931494",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281310/ss_b307b4e27a0f37ec355c9d7f318b5700fd5358ba.600x338.jpg?t=1611931494",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281310/ss_11ff058998a8d7088f8ccdf53ea71b93671049d0.600x338.jpg?t=1611931494",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281310/ss_ac40d8e827b6bca496c3851b07ce90d642164cb2.600x338.jpg?t=1611931494",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281310/ss_610f265af6a4320a45b42659d0eb8cce5d83b9c3.600x338.jpg?t=1611931494",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281310/ss_9d629c8ea5b43c452351af160fccf8dc922ac810.600x338.jpg?t=1611931494",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281310/ss_0ac78c79f41a6d705c0950efc02b1d99e51bb568.600x338.jpg?t=1611931494"
-  ],
-  "detailed_description": "Explorer Studio is an application that allows the user to customize the visual aspects of their Windows File explorer. Users can select images, videos, or colours for the background of various parts of the file explorer while maintaining the same functionality of the default windows file manager.<br><br><strong>** This application is meant to be used as a replacement to the default Windows file explorer app. It does NOT reskin the native Windows file explorer.**</strong><h2 class=\"bb_tag\" >Features</h2><br>•\tApply videos, images and colours to your file explorer.<br>•\tReplace your default file explorer so your custom explorer opens when you open folders.<br>•\tUpload your creations to the Steam Workshop and download designs from other users. <br>•\tSupports many video formats including mp4, mov, m4v, and wmv. <br>•\tPause video backgrounds or adjust their playback rate to optimize performance when needed.<br>•\tExplorer Studio can run in the background with other Steam games.",
-  "about_the_game": "Explorer Studio is an application that allows the user to customize the visual aspects of their Windows File explorer. Users can select images, videos, or colours for the background of various parts of the file explorer while maintaining the same functionality of the default windows file manager.<br><br><strong>** This application is meant to be used as a replacement to the default Windows file explorer app. It does NOT reskin the native Windows file explorer.**</strong><h2 class=\"bb_tag\" >Features</h2><br>•\tApply videos, images and colours to your file explorer.<br>•\tReplace your default file explorer so your custom explorer opens when you open folders.<br>•\tUpload your creations to the Steam Workshop and download designs from other users. <br>•\tSupports many video formats including mp4, mov, m4v, and wmv. <br>•\tPause video backgrounds or adjust their playback rate to optimize performance when needed.<br>•\tExplorer Studio can run in the background with other Steam games.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Workshop"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 2.15,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 43,
-  "review_positive": 15,
+  "review_positive": 0,
   "review_percentage": 34.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 43,
-      "review_percentage": 34.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 43,
       "review_percentage": 34.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

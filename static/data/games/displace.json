@@ -3,8 +3,8 @@
   "name": "Displace",
   "slug": "displace",
   "developer": "Eirtep",
-  "publisher": "Eirtep",
-  "release_date": "Nov 28, 2019",
+  "publisher": "",
+  "release_date": "2019-11-28",
   "price_usd": 3.99,
   "genres": [
     "Indie"
@@ -17,32 +17,15 @@
   ],
   "short_description": "Single player, first-person puzzle game where you can spawn cubes and spheres while utilising switches, launch pads and boost pads to navigate through deceiving blocks to the next teleporter",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1187780/header.jpg?t=1574965539",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1187780/ss_330e220ee517c63caa579a020b99f4cd2c038ba4.600x338.jpg?t=1574965539",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1187780/ss_bd0876f2c5bebfc7d4d7e3d5a9b20b96286d124d.600x338.jpg?t=1574965539",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1187780/ss_4523249b26636eedf900e4ad76329b331142020c.600x338.jpg?t=1574965539",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1187780/ss_a14c2bfe969ba8917fe2d097b134b855fa23c4b3.600x338.jpg?t=1574965539",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1187780/ss_5bba318a42cc31d6b2100e4c295c3e175601f732.600x338.jpg?t=1574965539"
-  ],
-  "detailed_description": "Single player, first-person puzzle game where you can spawn cubes and spheres while utilising switches, launch pads and boost pads to navigate through deceiving blocks to the next teleporter",
-  "about_the_game": "Single player, first-person puzzle game where you can spawn cubes and spheres while utilising switches, launch pads and boost pads to navigate through deceiving blocks to the next teleporter",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "DashboardX",
   "slug": "dashboardx",
   "developer": "Nostromo Digital",
-  "publisher": "Nostromo Digital",
-  "release_date": "Dec 1, 2020",
+  "publisher": "",
+  "release_date": "2020-12-01",
   "price_usd": 3.99,
   "genres": [
     "Utilities",
@@ -19,31 +19,15 @@
   ],
   "short_description": "Manage, create and share Windows settings in one single app.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972390/header.jpg?t=1613668404",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972390/ss_2c9fb916ed13ce3fd2bacb94703504c36f75eaef.600x338.jpg?t=1613668404",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972390/ss_a5b80b60fc45865ee382ecbf0d45a7598c96d794.600x338.jpg?t=1613668404",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972390/ss_d39d37334e959d92da4b5b74e108ed4e7a83649c.600x338.jpg?t=1613668404",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972390/ss_c052f9dc46dde7560f8ea987f42f8f486859e18c.600x338.jpg?t=1613668404",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972390/ss_31f62597ac81158a199a63389f0622edd9844ff2.600x338.jpg?t=1613668404",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972390/ss_24b948ca64b2b6c4e35caee105c2cdddd41422fa.600x338.jpg?t=1613668404",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/972390/ss_76447180464fd1b8fa154d9eaa000865e37c32be.600x338.jpg?t=1613668404"
-  ],
-  "detailed_description": "Hello User,<br>You might already know us since the previous program <strong>WPD</strong>. In this project our goal is to create the best tool for quick Windows customization! Quite ambitious considering there are dozens of programs like this already out there, ha-ha. Yet we still have a couple of aces up the sleeve. <br><br><strong>DashboardX</strong> includes an identical privacy module as in <strong>WPD</strong>, plus many new improvements that are already available or planned for release.<br><br>Here are a few of them:<br><ul class=\"bb_ul\"><li><strong>UI</strong><br>We think that we have made a pretty cool interface, and, of course, we will continue to improve it.<br></li><li><strong>Presets</strong><br>Yes, now you can create and load presets directly from the main menu.<br></li><li><strong>Favorites</strong><br>A category where you can add frequently used switches.<br></li><li><strong>Search</strong><br>When you have a huge list of switches - search is simply necessary.<br></li><li><strong>Observer</strong><br>Keeps track of changes to privacy settings. For example, if you disabled something in the <strong>DashboardX</strong>, and then this setting was enabled again (outside the program), the next time you start the program Observer will highlight this setting in orange. That’s pretty cool, right?<br></li><li><strong>Tweaker</strong> <i>(Shipped)</i><br>A separate section for all your non-privacy settings.<br></li><li><strong>Constructor</strong> <i>(BETA)</i><br>Probably the coolest feature allowing you to add your own switches! <br><i>*This feature is in beta testing on the Experiments tab, after that Constructor will be available on the Privacy and Tweaker tabs.</i></li></ul><br>Also:<br><ul class=\"bb_ul\"><li><strong>Hidden</strong> <i>(Shipped)</i><br>Ability to hide non-used built-in switches.<br></li><li><strong>Fast load</strong> <i>(TBA)</i><br>We plan to significantly reduce the program loading time.<br></li><li><strong>Workshop</strong> <i>(TBA)</i><br>The Constructor will support Steam Workshop.</li></ul><br>And most importantly, <strong>DashboardX</strong>, like <strong>WPD</strong>, works through the Windows API, leaves no traces in the system, and all settings are reversible (unless otherwise specified in the description).",
-  "about_the_game": "Hello User,<br>You might already know us since the previous program <strong>WPD</strong>. In this project our goal is to create the best tool for quick Windows customization! Quite ambitious considering there are dozens of programs like this already out there, ha-ha. Yet we still have a couple of aces up the sleeve. <br><br><strong>DashboardX</strong> includes an identical privacy module as in <strong>WPD</strong>, plus many new improvements that are already available or planned for release.<br><br>Here are a few of them:<br><ul class=\"bb_ul\"><li><strong>UI</strong><br>We think that we have made a pretty cool interface, and, of course, we will continue to improve it.<br></li><li><strong>Presets</strong><br>Yes, now you can create and load presets directly from the main menu.<br></li><li><strong>Favorites</strong><br>A category where you can add frequently used switches.<br></li><li><strong>Search</strong><br>When you have a huge list of switches - search is simply necessary.<br></li><li><strong>Observer</strong><br>Keeps track of changes to privacy settings. For example, if you disabled something in the <strong>DashboardX</strong>, and then this setting was enabled again (outside the program), the next time you start the program Observer will highlight this setting in orange. That’s pretty cool, right?<br></li><li><strong>Tweaker</strong> <i>(Shipped)</i><br>A separate section for all your non-privacy settings.<br></li><li><strong>Constructor</strong> <i>(BETA)</i><br>Probably the coolest feature allowing you to add your own switches! <br><i>*This feature is in beta testing on the Experiments tab, after that Constructor will be available on the Privacy and Tweaker tabs.</i></li></ul><br>Also:<br><ul class=\"bb_ul\"><li><strong>Hidden</strong> <i>(Shipped)</i><br>Ability to hide non-used built-in switches.<br></li><li><strong>Fast load</strong> <i>(TBA)</i><br>We plan to significantly reduce the program loading time.<br></li><li><strong>Workshop</strong> <i>(TBA)</i><br>The Constructor will support Steam Workshop.</li></ul><br>And most importantly, <strong>DashboardX</strong>, like <strong>WPD</strong>, works through the Windows API, leaves no traces in the system, and all settings are reversible (unless otherwise specified in the description).",
-  "supported_languages": "English, Russian, German, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 2.6500000000000004,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 53,
-  "review_positive": 46,
+  "review_positive": 0,
   "review_percentage": 86.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 52,
-      "review_percentage": 90.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 53,
       "review_percentage": 86.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Chocolate",
   "slug": "chocolate",
   "developer": "Gentle Manhands",
-  "publisher": "Viacom NEXT",
-  "release_date": "Aug 17, 2017",
+  "publisher": "",
+  "release_date": "2017-08-17",
   "price_usd": 2.99,
   "genres": [
     "Casual",
@@ -17,57 +17,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Chocolate is a 3-4 minute reactive linear VR music video experience for the song by Giraffage that sets you as a robot in a cat-centric world of colorful chrome in which your hands interact with your environment and everything dynamically moves and changes to the music.",
+  "short_description": "Chocolate is a 3-4 minute reactive linear VR music video experience for the song by Giraffage that sets you as a robot in a cat-centric world of colorful chrome in which your hands interact with your ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575420/header.jpg?t=1503091611",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575420/ss_8ed9d73acecb5634acf11d8cab04b7e13cb31680.600x338.jpg?t=1503091611",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575420/ss_0727a7fe931836824e6aa232a7a00a9b81b86f4b.600x338.jpg?t=1503091611",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575420/ss_fae34ccff788132e92641a6f025320fc2be37296.600x338.jpg?t=1503091611",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575420/ss_46e9faea7700dc500bfd948b5aa6eca3be6e28a4.600x338.jpg?t=1503091611",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575420/ss_32d7b4788d32bb75467aa19a2fc7f9d9c6f3c355.600x338.jpg?t=1503091611"
-  ],
-  "detailed_description": "Set to the song of the same name by Giraffage, Chocolate is a wondrous experience that transforms your hands into cannons that spray cute, colorful chrome kittens onto a circle of people performing a ritualistic dance just for you, their robot god. You shoot giant shock waves into the vast, liquid-like landscape while a herd of giant cat heads migrates in the distance, and a massive tribal chief cat sprays champagne all over you. Everything is shiny and glimmering, smooth and sexy, cute and strange, overwhelming and astonishing.<br />\r\n<br />\r\nChocolate VR is SubPac Optimized:  http://subpac.com/",
-  "about_the_game": "Set to the song of the same name by Giraffage, Chocolate is a wondrous experience that transforms your hands into cannons that spray cute, colorful chrome kittens onto a circle of people performing a ritualistic dance just for you, their robot god. You shoot giant shock waves into the vast, liquid-like landscape while a herd of giant cat heads migrates in the distance, and a massive tribal chief cat sprays champagne all over you. Everything is shiny and glimmering, smooth and sexy, cute and strange, overwhelming and astonishing.<br />\r\n<br />\r\nChocolate VR is SubPac Optimized:  http://subpac.com/",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
-  "gem_score": 0.8761,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.4000000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 28,
-  "review_positive": 26,
+  "review_positive": 0,
   "review_percentage": 92.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 30,
-      "review_percentage": 93.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 28,
       "review_percentage": 92.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

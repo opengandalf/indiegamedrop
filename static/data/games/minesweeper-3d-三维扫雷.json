@@ -3,8 +3,8 @@
   "name": "MineSweeper 3D 三维扫雷",
   "slug": "minesweeper-3d-三维扫雷",
   "developer": "CanFish",
-  "publisher": "CanFish",
-  "release_date": "Aug 13, 2021",
+  "publisher": "",
+  "release_date": "2021-08-13",
   "price_usd": 0.84,
   "genres": [
     "Casual"
@@ -17,32 +17,9 @@
   ],
   "short_description": "A 3D version of the classic game Mine Sweeper.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553570/header.jpg?t=1709368074",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553570/ss_a7de277fd2818895d0e90f74041d4d5d8cfacfcf.600x338.jpg?t=1709368074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553570/ss_4208234b38e5445abb061a2ed7e92034138027ef.600x338.jpg?t=1709368074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553570/ss_5cd878651916f9629b570b7b0eeb03b64904fb6c.600x338.jpg?t=1709368074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553570/ss_81b92b66043261fed6e5dbbd3699a0077120aa1b.600x338.jpg?t=1709368074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553570/ss_dcbcb63fdddb1838442dd28a7a1c22d9f0ce2488.600x338.jpg?t=1709368074"
-  ],
-  "detailed_description": "A 3D version of the classic game Mine Sweeper.<br />\r\nA huge cube of spheres appears in the sky, and some of them contains mine. Discover them!<br />\r\nJust like the traditional minesweeper game, you can mark the sphere by right-click it or discover it with your left mouse bottom.<br />\r\nWhen discovering a mine, the game will end. Otherwise, it will disappear if there's no mine around it, or show a number represents how many mines are around.<br />\r\nYour target is to uncover all the sphere that doesn't contain a mine, while keep those with mines covered. Once you found a sphere contains a mine, mark it. After marking enough mines around a discovered number, you can safely uncover other spheres around. But if there's any flag that marked wrongly, mine will be waiting!<br />\r\n<br />\r\nThe control is really simple:<br />\r\n+ WASD for basic movement<br />\r\n+ C to move lower<br />\r\n+ Space to move upper<br />\r\nApproach a sphere, and you will notice it highlighted. Then:<br />\r\n+ Left mouse bottom to discover it<br />\r\n+ Right mouse bottom to mark it as mine<br />\r\n<br />\r\nYou can use the key Q to quit current game or quit the whole game easily. Esc do the same.<br />\r\n<br />\r\nComparing with the traditional 2D Mine Sweeper game, the Mine Sweeper 3D definitely push the toughness to a new level. An experienced player can mark all the mines in a 10-mine game under 5 secs when playing the 2D version, but it's really hard to complete an 8-mine game in 5 mins playing the 3D version.<br />\r\n<br />\r\nIf you really think you're an expert, the expert mode is here for you! Try it and move with caution.<br />\r\n<br />\r\nThe Mine Sweeper 3D game is made with Unreal Engine4, which provides epic graphics and full screen experience. You are playing the minesweeper game in a mountain area, with a house and a camp besides. Feel free to travel around, and back to game at whenever you want! You can also take a walk after winning a game.<br />\r\n<br />\r\nHave Fun!",
-  "about_the_game": "A 3D version of the classic game Mine Sweeper.<br />\r\nA huge cube of spheres appears in the sky, and some of them contains mine. Discover them!<br />\r\nJust like the traditional minesweeper game, you can mark the sphere by right-click it or discover it with your left mouse bottom.<br />\r\nWhen discovering a mine, the game will end. Otherwise, it will disappear if there's no mine around it, or show a number represents how many mines are around.<br />\r\nYour target is to uncover all the sphere that doesn't contain a mine, while keep those with mines covered. Once you found a sphere contains a mine, mark it. After marking enough mines around a discovered number, you can safely uncover other spheres around. But if there's any flag that marked wrongly, mine will be waiting!<br />\r\n<br />\r\nThe control is really simple:<br />\r\n+ WASD for basic movement<br />\r\n+ C to move lower<br />\r\n+ Space to move upper<br />\r\nApproach a sphere, and you will notice it highlighted. Then:<br />\r\n+ Left mouse bottom to discover it<br />\r\n+ Right mouse bottom to mark it as mine<br />\r\n<br />\r\nYou can use the key Q to quit current game or quit the whole game easily. Esc do the same.<br />\r\n<br />\r\nComparing with the traditional 2D Mine Sweeper game, the Mine Sweeper 3D definitely push the toughness to a new level. An experienced player can mark all the mines in a 10-mine game under 5 secs when playing the 2D version, but it's really hard to complete an 8-mine game in 5 mins playing the 3D version.<br />\r\n<br />\r\nIf you really think you're an expert, the expert mode is here for you! Try it and move with caution.<br />\r\n<br />\r\nThe Mine Sweeper 3D game is made with Unreal Engine4, which provides epic graphics and full screen experience. You are playing the minesweeper game in a mountain area, with a house and a camp besides. Feel free to travel around, and back to game at whenever you want! You can also take a walk after winning a game.<br />\r\n<br />\r\nHave Fun!",
-  "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 8,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 62.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 8,
-      "review_percentage": 62.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 62.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

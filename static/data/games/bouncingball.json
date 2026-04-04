@@ -3,8 +3,8 @@
   "name": "BouncingBall",
   "slug": "bouncingball",
   "developer": "9900Studio",
-  "publisher": "9900Studio",
-  "release_date": "Sep 26, 2024",
+  "publisher": "",
+  "release_date": "2024-09-26",
   "price_usd": 1.99,
   "genres": [
     "Casual",
@@ -21,32 +21,15 @@
   ],
   "short_description": "A simple and relax puzzle game, shooting different ball to the hole, with diffetent mechanism.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214170/header.jpg?t=1727542323",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214170/ss_6aafe201bc2bf37d5996b51e6ce3bc3a0ea5d843.600x338.jpg?t=1727542323",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214170/ss_1db11fe3ef2e3c16850c874a8623d3f04ceee813.600x338.jpg?t=1727542323",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214170/ss_1c12ac83bed9d21625f5d50738b684ce2dce2f40.600x338.jpg?t=1727542323",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214170/ss_bf7ffcbf7a96cb9ce118c2dcd11af842f77262d5.600x338.jpg?t=1727542323",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214170/ss_a118de34909e8a2dcd8f8bbcf611f99a93835620.600x338.jpg?t=1727542323"
-  ],
-  "detailed_description": "A simple and casual pinball game.<br />\r\nShoot and rebound by the wall, move along the slide wall.<br />\r\nShoot balls to switch on and off different mechanisms and facilities. Includes switchs, accelerator... <br />\r\nShoot all the balls to the target point. Each level has different mechanisms and objectives, requiring only simple geometry to complete puzzle.",
-  "about_the_game": "A simple and casual pinball game.<br />\r\nShoot and rebound by the wall, move along the slide wall.<br />\r\nShoot balls to switch on and off different mechanisms and facilities. Includes switchs, accelerator... <br />\r\nShoot all the balls to the target point. Each level has different mechanisms and objectives, requiring only simple geometry to complete puzzle.",
-  "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.30000000000000004,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 6,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

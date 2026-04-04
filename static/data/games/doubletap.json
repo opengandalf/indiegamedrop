@@ -3,8 +3,8 @@
   "name": "DoubleTap",
   "slug": "doubletap",
   "developer": "EasterEgg Workshop",
-  "publisher": "EasterEgg Workshop",
-  "release_date": "Dec 17, 2017",
+  "publisher": "",
+  "release_date": "2017-12-17",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -23,35 +23,15 @@
   ],
   "short_description": "Stylish pistol action for the movie hero/dapper spy/assassin with a dark past that you don't want to talk about/cool person in all of us.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757060/header.jpg?t=1513720675",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757060/ss_97bae8da5d97682fd5724593e940c9170b85f5ca.600x338.jpg?t=1513720675",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757060/ss_2e09715f1f5953470208d933510af8e3ea93f598.600x338.jpg?t=1513720675",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757060/ss_d7b594ce690c24a03a0e6f9b2e9205c5eb63f777.600x338.jpg?t=1513720675",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757060/ss_e67e3db501f4312327d21258c0c5bf792c80c68f.600x338.jpg?t=1513720675",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757060/ss_cb624d141460f4c26648cc0293f65469773020f9.600x338.jpg?t=1513720675",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757060/ss_23282e0db387d96c5406d4fa1d3c5084300d872d.600x338.jpg?t=1513720675"
-  ],
-  "detailed_description": "DoubleTap is an arcade pistol shooter built for VR.  Players enter Stages where they race to complete various missions and tested on their accuracy, speed, judgement, and precision bullet shooting prowesses.",
-  "about_the_game": "DoubleTap is an arcade pistol shooter built for VR.  Players enter Stages where they race to complete various missions and tested on their accuracy, speed, judgement, and precision bullet shooting prowesses.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.75,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 15,
-  "review_positive": 9,
+  "review_positive": 0,
   "review_percentage": 60.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 15,
-      "review_percentage": 60.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 15,
       "review_percentage": 60.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

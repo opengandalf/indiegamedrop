@@ -3,8 +3,8 @@
   "name": "Text Adventure",
   "slug": "text-adventure",
   "developer": "Joey Pawelko Games",
-  "publisher": "Joey Pawelko Games",
-  "release_date": "Aug 28, 2023",
+  "publisher": "",
+  "release_date": "2023-08-28",
   "price_usd": 1.99,
   "genres": [
     "Adventure",
@@ -24,32 +24,9 @@
   ],
   "short_description": "Look at art, listen to jazz, and immerse yourself in the world of Joey Pawelko's Text Adventure.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2462050/header.jpg?t=1703118436",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2462050/ss_88f8e24dfd289e6c2a16f0ffc1988e518a8fa2a0.600x338.jpg?t=1703118436",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2462050/ss_9762cdf5895b9dc81b217a000ed2942e6e09e911.600x338.jpg?t=1703118436",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2462050/ss_3db7828ee53b1249797ab75768d861c4bb51a117.600x338.jpg?t=1703118436",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2462050/ss_7824cd9cfb5db8d93eb024c29388219d261712fc.600x338.jpg?t=1703118436",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2462050/ss_af00a2e2faa3cf4c158d3993da3bdb6fb6cbca5d.600x338.jpg?t=1703118436"
-  ],
-  "detailed_description": "Text Adventure, by Joey Pawelko, is a visually astonishing story game with a beautiful soundtrack and fluid gameplay. Players explore a hand-drawn world filled with psychedelic entities, and slowly uncover the secrets of their own existence.<br><br><strong>Features</strong><br>-Single player<br>-Story<br>-Hand-drawn visuals<br>-Great Music<br><br><strong>Controls</strong><br>Actions are performed by typing into the text box. For instance, typing \"Go Up\" will move you upward if there is a path in that direction, and typing \"Talk <i>Npc Name</i>\" will enter you into dialogue with that Npc. <br><br>Look at art, listen to jazz, and immerse yourself in the world of Joey Pawelko's Text Adventure.",
-  "about_the_game": "Text Adventure, by Joey Pawelko, is a visually astonishing story game with a beautiful soundtrack and fluid gameplay. Players explore a hand-drawn world filled with psychedelic entities, and slowly uncover the secrets of their own existence.<br><br><strong>Features</strong><br>-Single player<br>-Story<br>-Hand-drawn visuals<br>-Great Music<br><br><strong>Controls</strong><br>Actions are performed by typing into the text box. For instance, typing \"Go Up\" will move you upward if there is a path in that direction, and typing \"Talk <i>Npc Name</i>\" will enter you into dialogue with that Npc. <br><br>Look at art, listen to jazz, and immerse yourself in the world of Joey Pawelko's Text Adventure.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 4,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +34,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

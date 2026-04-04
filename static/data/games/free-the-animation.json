@@ -3,8 +3,8 @@
   "name": "Free the Animation",
   "slug": "free-the-animation",
   "developer": "GEORGES SAMAKE",
-  "publisher": "WHMSOFT",
-  "release_date": "Jun 8, 2018",
+  "publisher": "",
+  "release_date": "2018-06-08",
   "price_usd": 9.99,
   "genres": [
     "Action",
@@ -21,43 +21,9 @@
   ],
   "short_description": "Free the Animation - WebGL Animation and Game - Animation with the Roller Coaster - Shooting Game with the Roller Coaster",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851220/header.jpg?t=1643570577",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851220/ss_ff50bf81c48a20dc09f7052a35fc05525352025c.600x338.jpg?t=1643570577",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851220/ss_6f260c44b272101ef51563287daaa36a627ae330.600x338.jpg?t=1643570577",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851220/ss_8ca9a6f6a6ead71013893a797467b8eb201dc28f.600x338.jpg?t=1643570577",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851220/ss_19384d9007d7bbb5023958c15995582dc19bea78.600x338.jpg?t=1643570577",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851220/ss_9116bbd08ad808d7f6fb28621994580f8888ea63.600x338.jpg?t=1643570577",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851220/ss_d63c03cacacd48a855e90faa5c0379e1b7eae043.600x338.jpg?t=1643570577",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851220/ss_ee4693a3a4b31ebbd4f464f7d915f3e91a08d41e.600x338.jpg?t=1643570577",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851220/ss_57aafd1dda9ac48a0eeae1f2c6030e2a26013abe.600x338.jpg?t=1643570577"
-  ],
-  "detailed_description": "<h1>Update Notes</h1><p><strong>New</strong>:<br>The version with the virtual reality and A-Frame / WebVR is available (in test mode).<br>- Launch SteamVR.<br>- Use a default compatible web browser (.<br>- Enable WebVR if necessary (with Chrome for example).<br>- Choose an \"Audio Mode\" to enable or disable a 3D positional audio track.<br>- Choose the \"Game Mode\" to play and kill the monsters by avoiding to miss them.</p><br><h1>About the Game</h1><strong>Free the Animation</strong><br><br>WebGL Animation and Game<br><br>Animation with the Roller Coaster<br>Shooting Game with the Roller Coaster<br><br>Many Background Images:<br>- Cubemaps<br>- Spherical Panoramas<br>- Planar Panoramas<br><br>Many Dynamic Effects:<br>- Fog Density<br>- Exposure of the Cubemaps and of the Panoramas<br>- Color Mixing with Variable Opacity<br><br>Notes:<br>- Compatibility with 4K / HDR<br>- SBS (Side-by-Side)<br>- Full Screen<br>- Gamepad Support<br>- 3D Positional Audio",
-  "about_the_game": "<strong>Free the Animation</strong><br><br>WebGL Animation and Game<br><br>Animation with the Roller Coaster<br>Shooting Game with the Roller Coaster<br><br>Many Background Images:<br>- Cubemaps<br>- Spherical Panoramas<br>- Planar Panoramas<br><br>Many Dynamic Effects:<br>- Fog Density<br>- Exposure of the Cubemaps and of the Panoramas<br>- Color Mixing with Variable Opacity<br><br>Notes:<br>- Compatibility with 4K / HDR<br>- SBS (Side-by-Side)<br>- Full Screen<br>- Gamepad Support<br>- 3D Positional Audio",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "VR Supported",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 3,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -65,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

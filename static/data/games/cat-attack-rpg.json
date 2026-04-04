@@ -3,8 +3,8 @@
   "name": "Cat Attack RPG",
   "slug": "cat-attack-rpg",
   "developer": "CoolSoft",
-  "publisher": "CoolSoft",
-  "release_date": "Oct 5, 2023",
+  "publisher": "",
+  "release_date": "2023-10-05",
   "price_usd": 1.54,
   "genres": [
     "Adventure",
@@ -19,40 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "JRPG similar to Final Fantasy/Lufia with an overworld and a variety of dungeons. Many party members with unique skills/abilities. Original dungeon designs, not randomly generated within RPG Maker. Works on Windows PCs only.",
+  "short_description": "JRPG similar to Final Fantasy/Lufia with an overworld and a variety of dungeons. Many party members with unique skills/abilities. Original dungeon designs, not randomly generated within RPG Maker. Wor",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426370/header.jpg?t=1768856107",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426370/ss_454cbabf278c4015c87678f8f9b55d0a2bafcc5e.600x338.jpg?t=1768856107",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426370/ss_ba7fc2d4ac014340e77c4d7c288495af1382d854.600x338.jpg?t=1768856107",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426370/ss_c65e84d7407cb54200df4eca489ede5aefa7781c.600x338.jpg?t=1768856107",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426370/ss_700b08b3b2ce29df05f136eac4a983ca51ae7aa9.600x338.jpg?t=1768856107",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426370/ss_85f1615bd5b1af07f6070182df91daadb4c3155e.600x338.jpg?t=1768856107",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426370/ss_1091fd64a1e890b1af64e2aae5c7f47c612b75b2.600x338.jpg?t=1768856107"
-  ],
-  "detailed_description": "[Note: RPG Maker has an unremovable \"feature\" where F12 resets the game to the title screen. You will have to change the screenshot key or manually take screenshots.]<br><br>Cat Attack is a game inspired by traditional 1990s JRPGs. It is most similar to Final Fantasy Mystic Quest or the Lufia series, with turn-based combat, enemy portraits and action results on the top of the screen, and party information at the bottom.<br><br>The game does not feature custom sprites but utilizes VX Ace's character creator.<br><br>Dungeons were designed by me and tested by myself and others, rather than using the random dungeon generator that comes with the program.<br><br>Features:<br><br>Variety of characters with their own unique skills and abilities<br>Plot-based learned skills<br>Tactics (weakness/absorb/resistance) to various elements<br>Dozens of weapons/armors/items<br>Dozens of unique enemies<br>100+ of skills/magic abilities",
-  "about_the_game": "[Note: RPG Maker has an unremovable \"feature\" where F12 resets the game to the title screen. You will have to change the screenshot key or manually take screenshots.]<br><br>Cat Attack is a game inspired by traditional 1990s JRPGs. It is most similar to Final Fantasy Mystic Quest or the Lufia series, with turn-based combat, enemy portraits and action results on the top of the screen, and party information at the bottom.<br><br>The game does not feature custom sprites but utilizes VX Ace's character creator.<br><br>Dungeons were designed by me and tested by myself and others, rather than using the random dungeon generator that comes with the program.<br><br>Features:<br><br>Variety of characters with their own unique skills and abilities<br>Plot-based learned skills<br>Tactics (weakness/absorb/resistance) to various elements<br>Dozens of weapons/armors/items<br>Dozens of unique enemies<br>100+ of skills/magic abilities",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Custom Volume Controls",
-    "Keyboard Only Option",
-    "Playable without Timed Input",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 5,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 60.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 60.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

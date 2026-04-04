@@ -3,8 +3,8 @@
   "name": "Epsilon Jump Prime",
   "slug": "epsilon-jump-prime",
   "developer": "Energize Labs Inc.",
-  "publisher": "Energize Labs Inc.",
-  "release_date": "Oct 20, 2017",
+  "publisher": "",
+  "release_date": "2017-10-20",
   "price_usd": 3.99,
   "genres": [
     "Action",
@@ -21,35 +21,15 @@
   ],
   "short_description": "Epsilon Jump is a retro, Geometry Wars-inspired arcade game based on a unique warping mechanic where you warp through enemies to destroy them, chaining warps together to get a high score.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/600230/header.jpg?t=1508517712",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/600230/ss_2cbaf73bbcd296d49bc52fab6784dd4ee82c0803.600x338.jpg?t=1508517712",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/600230/ss_515205b48a7c70917070e1cbdd3bf45de6888635.600x338.jpg?t=1508517712",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/600230/ss_5356be3106980eae8be1e051b4a6084b3056534d.600x338.jpg?t=1508517712",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/600230/ss_d521aae8c596a846be30f36e0ae5d8a383305822.600x338.jpg?t=1508517712",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/600230/ss_7a08c61dfa0c84cb121bd98f31d6209f4d71fe6d.600x338.jpg?t=1508517712",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/600230/ss_f5665428d294e840652ccc577a278c80e01b9289.600x338.jpg?t=1508517712",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/600230/ss_b778ea85fb8cd597a5676d3e7fc9e789e1ebf2e1.600x338.jpg?t=1508517712"
-  ],
-  "detailed_description": "Epsilon Jump is a retro, Geometry Wars-inspired arcade game for Mobile and PC/Mac/Linux devices. The game is based on a unique warping mechanic where you warp through enemies to destroy them, chaining warps together to get a high score.<br />\r\n<br />\r\nGameplay involves a unique jumping mechanic on cooldown timer. When the player clicks (on desktop) or swipes in a direction on a joystick (mobile/desktop), it activates a jump which renders the player invulnerable for a fraction of a second as they are quickly warped in the direction they activated the jump in.",
-  "about_the_game": "Epsilon Jump is a retro, Geometry Wars-inspired arcade game for Mobile and PC/Mac/Linux devices. The game is based on a unique warping mechanic where you warp through enemies to destroy them, chaining warps together to get a high score.<br />\r\n<br />\r\nGameplay involves a unique jumping mechanic on cooldown timer. When the player clicks (on desktop) or swipes in a direction on a joystick (mobile/desktop), it activates a jump which renders the player invulnerable for a fraction of a second as they are quickly warped in the direction they activated the jump in.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

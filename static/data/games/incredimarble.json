@@ -3,8 +3,8 @@
   "name": "IncrediMarble",
   "slug": "incredimarble",
   "developer": "Dave Kap",
-  "publisher": "Dave Kap",
-  "release_date": "Jan 25, 2021",
+  "publisher": "",
+  "release_date": "2021-01-25",
   "price_usd": 5.94,
   "genres": [
     "Casual",
@@ -25,53 +25,27 @@
   ],
   "short_description": "Build amazing marble contraptions with IncrediMarble! Enjoy idle incremental tycoon sandbox simulation gameplay with the best physics Unity can offer. It's like that old toy you had as a kid!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488100/header.jpg?t=1738574784",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488100/ss_20bf5affd523557db052c3d1ded0bdd1c5cb2544.600x338.jpg?t=1738574784",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488100/ss_6a56fad571548186df85050ffb0573345749fbdd.600x338.jpg?t=1738574784",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488100/ss_0faf26ef4749ad033d33ad2b9947025cb478378e.600x338.jpg?t=1738574784",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488100/ss_83e0e23b75f8d8b132fe4edc4bdc479ca8745383.600x338.jpg?t=1738574784",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488100/ss_6c3107c4a4a8f58df37cd68cc7d3562c6aaadf5a.600x338.jpg?t=1738574784"
-  ],
-  "detailed_description": "IncrediMarble is an idle incremental construction game in which you build gigantic marble contraptions. With 30 unique pieces to choose from and more always being added, your imagination is the only limit! See what amazing marble worlds you can create and come back to earn more and more points... and build a larger and larger marble universe!<br />\r\n<br />\r\n\"This is a really good game. I’ve been wanting something like this for a long time\" - Random anonymous player<br />\r\n<br />\r\n\"This game is so relaxing!\" - Another random anonymous player<br />\r\n<br />\r\n\"It's the first time I've sold a game!\" - Dave Kap, the sole developer of IncrediMarble<br />\r\n<br />\r\n\"WTF it just worked out of the box!?\" Matias G commenting about the Linux port",
-  "about_the_game": "IncrediMarble is an idle incremental construction game in which you build gigantic marble contraptions. With 30 unique pieces to choose from and more always being added, your imagination is the only limit! See what amazing marble worlds you can create and come back to earn more and more points... and build a larger and larger marble universe!<br />\r\n<br />\r\n\"This is a really good game. I’ve been wanting something like this for a long time\" - Random anonymous player<br />\r\n<br />\r\n\"This game is so relaxing!\" - Another random anonymous player<br />\r\n<br />\r\n\"It's the first time I've sold a game!\" - Dave Kap, the sole developer of IncrediMarble<br />\r\n<br />\r\n\"WTF it just worked out of the box!?\" Matias G commenting about the Linux port",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 111,
+  "screenshots": [],
   "rising_score": 0.0001,
   "gem_score": 0.6657,
   "hype_score": 0.0,
-  "review_velocity_7d": 5.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 126,
-  "review_positive": 117,
+  "review_positive": 0,
   "review_percentage": 92.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "rising",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 121,
-      "review_percentage": 94.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 126,
       "review_percentage": 92.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Crazy Shopping",
   "slug": "crazy-shopping",
   "developer": "Qmax Inc., ROUTE3 GAMES",
-  "publisher": "Qmax Inc.",
-  "release_date": "Oct 18, 2019",
+  "publisher": "",
+  "release_date": "2019-10-18",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -19,32 +19,15 @@
   ],
   "short_description": "The time of life is limited. I just want to tell you one thing. End shopping quickly, accurately, and brilliantly.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1163980/header.jpg?t=1643465426",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1163980/ss_eed7ef5fbfd4d1ec0570c321c94c4e3b064d43ce.600x338.jpg?t=1643465426",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1163980/ss_3427c99744734ab8e614773f5873025223a6bdd5.600x338.jpg?t=1643465426",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1163980/ss_9ab565882f6ad0fc354370928831b0bb6c001465.600x338.jpg?t=1643465426",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1163980/ss_92978e439e5629631944f57a1f93a6b97223bc43.600x338.jpg?t=1643465426",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1163980/ss_a725bbb9903dae424b6411dd3cacd5a1338fd33b.600x338.jpg?t=1643465426"
-  ],
-  "detailed_description": "The time is money.<br><br>What a nice word ...<br><br>The time of life is limited.<br><br>Do you know?<br><br>I just want to tell you one thing.<br><br>End shopping quickly, accurately, and brilliantly.<br><br>──────────────────<br>[Your Objective]<br>Collect All Items in shopping list and go to cash register<br><br>[User Guide]<br>■Menu<br>WASD:Move<br>Left Mouse Button:Confirm<br>Right Mouse Button:Back<br><br>■Game<br>W.A.S.D key:Move<br>Left Mouse Button:Pick Item<br>Left Shift:Jump<br>R:Reset<br>Space key:Dash<br><br>-Compete for how fast you can run through the shopping center.",
-  "about_the_game": "The time is money.<br><br>What a nice word ...<br><br>The time of life is limited.<br><br>Do you know?<br><br>I just want to tell you one thing.<br><br>End shopping quickly, accurately, and brilliantly.<br><br>──────────────────<br>[Your Objective]<br>Collect All Items in shopping list and go to cash register<br><br>[User Guide]<br>■Menu<br>WASD:Move<br>Left Mouse Button:Confirm<br>Right Mouse Button:Back<br><br>■Game<br>W.A.S.D key:Move<br>Left Mouse Button:Pick Item<br>Left Shift:Jump<br>R:Reset<br>Space key:Dash<br><br>-Compete for how fast you can run through the shopping center.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 7,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

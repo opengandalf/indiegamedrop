@@ -3,8 +3,8 @@
   "name": "Artist Idle",
   "slug": "artist-idle",
   "developer": "YDKR",
-  "publisher": "YDKR",
-  "release_date": "Jan 18, 2019",
+  "publisher": "",
+  "release_date": "2019-01-18",
   "price_usd": 0.0,
   "genres": [
     "Indie",
@@ -19,35 +19,15 @@
   ],
   "short_description": "Draw pictures, sell them and become a famous artist.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968440/header.jpg?t=1699127416",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968440/ss_36d5e82075680dbce299b677cc5ce24dd373cad0.600x338.jpg?t=1699127416",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968440/ss_67d927ae3858c9676877a27c3ae903f6bd887aba.600x338.jpg?t=1699127416",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968440/ss_446edb9ddd2be2b3385590e462971ef338067a22.600x338.jpg?t=1699127416",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968440/ss_7fad06c0d0051134981059d541d1cb24cc94ffdd.600x338.jpg?t=1699127416",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968440/ss_0c5af96d6aaed9a38763c7bc213705a2b63c7a5f.600x338.jpg?t=1699127416",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968440/ss_c7c9fb6764e0a32222336382185d9643a81f2ab2.600x338.jpg?t=1699127416"
-  ],
-  "detailed_description": "<h1>Add DPS IDLE 2 to Wishlist!</h1><p></p><br><h1>About the Game</h1>Draw pictures, sell them and become a famous artist!<br><br>In Artist Idle, you can watch colored blocks slowly fill up the screen. At first, the blocks are chunky - showing a vague look at what you are trying to create. Through upgrades and gathering pixels, you are able to create more detailed pictures, eventually making works of art fit for a gallery!<br><br><ul class=\"bb_ul\"><li> You will be able to draw pictures, sell them, improve your techniques, increase your fame.<br></li><li> Open the gallery, and if it works, then open the museum too!<br></li><li> Visit other cities and countries, try to establish your school and train students.<br></li><li> Choose a worthy successor!</li></ul>",
-  "about_the_game": "Draw pictures, sell them and become a famous artist!<br><br>In Artist Idle, you can watch colored blocks slowly fill up the screen. At first, the blocks are chunky - showing a vague look at what you are trying to create. Through upgrades and gathering pixels, you are able to create more detailed pictures, eventually making works of art fit for a gallery!<br><br><ul class=\"bb_ul\"><li> You will be able to draw pictures, sell them, improve your techniques, increase your fame.<br></li><li> Open the gallery, and if it works, then open the museum too!<br></li><li> Visit other cities and countries, try to establish your school and train students.<br></li><li> Choose a worthy successor!</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "In-App Purchases",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 24.0,
+  "review_velocity_7d": 25.700000000000003,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 514,
-  "review_positive": 329,
+  "review_positive": 0,
   "review_percentage": 64.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 490,
-      "review_percentage": 64.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 514,
       "review_percentage": 64.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

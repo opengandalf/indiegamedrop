@@ -3,8 +3,8 @@
   "name": "G.A.C.K. - Gaming App Construction Kit",
   "slug": "gack-gaming-app-construction-kit",
   "developer": "Gernot Frisch",
-  "publisher": "Dream Design Entertainment",
-  "release_date": "Aug 29, 2019",
+  "publisher": "",
+  "release_date": "2019-08-29",
   "price_usd": 9.99,
   "genres": [
     "Action",
@@ -23,38 +23,9 @@
   ],
   "short_description": "GACK is a very easy to use game maker that features a lot of possibilities without requiring any programming.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117520/header.jpg?t=1567112794",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117520/ss_5be0c96bc6d954bd1e6857f1ffe71466ccd64367.600x338.jpg?t=1567112794",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117520/ss_d7827ecc8041276a6eb7c5c3b438e4be17ba2ffc.600x338.jpg?t=1567112794",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117520/ss_9c4da8f4e1688d6f3adfcebea76d39dca0981be2.600x338.jpg?t=1567112794",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117520/ss_0ca1f00dadc5a85cf9bde7b3c7ee1b7b9b112f46.600x338.jpg?t=1567112794",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117520/ss_bb8f0b15746a11d90684e2773914f24920cafa25.600x338.jpg?t=1567112794"
-  ],
-  "detailed_description": "G.A.C.K. started as a competition entry to build a S.E.U.C.K. remake, based on the C64 original. Since then, many changes have been added so the workflow is easier to understand and more comfortable. With the current version G.A.C.K. is a lot more than just a remake. It's a fully featured game maker with export options for many target platforms.<br>With this App you can create games that can be played by a single person or with two players simultanously on devices that allow multiple controls.<br>You should be able to distribute your game to many platforms.<br><br><strong>Features</strong><br>GACK has a GUI that is much easier to use with a mouse or touchscreen than with a joystick back then. OK, the Amiga version had that, too, but then there was a very hard limit on visible sprites. That's gone, too. You can produce the enemy occurrence you're used from games like \"WarBus\" easily on modern hardware.<br>Did I mention this baby has pixel perfect collisions for everything?<br>You can spawn attack waves at different visible trigger-positions, thus entering one wave, make ten enemies fly the same route.<br>The levels can scroll sideways, too. They start at the bottom and move upwards, but when you make them wider than the screen, the players can move sideways, causing the screen to scroll.<br>Options for horizontal scrollers and jump&run games have been added as well.<br>The image and animation editors have copy/paste support and some other useful features.<br>Saved game files are astonishingly small, too. (At least for this century).<br><br><strong>How does it work?</strong><br>Basically you just draw images as \"Sprites\", that's everything that moves, and \"Backgrounds\", that's - yes - what not moves.<br>Next, you define how the animations for each player or enemy would look like.<br>Then you use the map editor to paint the levels on 2 layers. The background is just for show. The foreground can optionally stop the players, or kill them.<br>After the scenery is set, you simply add a bunch of baddies, save the game and heat the triggers.<br><br><strong>And then?</strong><br>You can export your game as a standalone game. We also have experimental export to HTML5 and configure an Android-Studio project for you.<br>This way, you can share your games with friends or even sell them on an online store. Will we see your game on STEAM? How cool would that be.",
-  "about_the_game": "G.A.C.K. started as a competition entry to build a S.E.U.C.K. remake, based on the C64 original. Since then, many changes have been added so the workflow is easier to understand and more comfortable. With the current version G.A.C.K. is a lot more than just a remake. It's a fully featured game maker with export options for many target platforms.<br>With this App you can create games that can be played by a single person or with two players simultanously on devices that allow multiple controls.<br>You should be able to distribute your game to many platforms.<br><br><strong>Features</strong><br>GACK has a GUI that is much easier to use with a mouse or touchscreen than with a joystick back then. OK, the Amiga version had that, too, but then there was a very hard limit on visible sprites. That's gone, too. You can produce the enemy occurrence you're used from games like \"WarBus\" easily on modern hardware.<br>Did I mention this baby has pixel perfect collisions for everything?<br>You can spawn attack waves at different visible trigger-positions, thus entering one wave, make ten enemies fly the same route.<br>The levels can scroll sideways, too. They start at the bottom and move upwards, but when you make them wider than the screen, the players can move sideways, causing the screen to scroll.<br>Options for horizontal scrollers and jump&run games have been added as well.<br>The image and animation editors have copy/paste support and some other useful features.<br>Saved game files are astonishingly small, too. (At least for this century).<br><br><strong>How does it work?</strong><br>Basically you just draw images as \"Sprites\", that's everything that moves, and \"Backgrounds\", that's - yes - what not moves.<br>Next, you define how the animations for each player or enemy would look like.<br>Then you use the map editor to paint the levels on 2 layers. The background is just for show. The foreground can optionally stop the players, or kill them.<br>After the scenery is set, you simply add a bunch of baddies, save the game and heat the triggers.<br><br><strong>And then?</strong><br>You can export your game as a standalone game. We also have experimental export to HTML5 and configure an Android-Studio project for you.<br>This way, you can share your games with friends or even sell them on an online store. Will we see your game on STEAM? How cool would that be.",
-  "supported_languages": "English, German",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Includes level editor",
-    "Remote Play Together"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 6,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

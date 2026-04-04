@@ -3,8 +3,8 @@
   "name": "Cursebound",
   "slug": "cursebound",
   "developer": "Sodacan",
-  "publisher": "Sodacan",
-  "release_date": "Mar 31, 2024",
+  "publisher": "",
+  "release_date": "2024-03-31",
   "price_usd": 6.99,
   "genres": [
     "Action",
@@ -21,32 +21,15 @@
   ],
   "short_description": "Hunt treasure Encounter strange creatures and try to stay alive",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1862170/header.jpg?t=1711906858",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1862170/ss_eec38603edc8404bdf2c77200bca6e570bf6eaad.600x338.jpg?t=1711906858",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1862170/ss_bcb7515a768b3d24fbe742ed83843333947234e9.600x338.jpg?t=1711906858",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1862170/ss_bef02d0ef6e65912a894da662513c47d79efa85a.600x338.jpg?t=1711906858",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1862170/ss_7258d2cb1ee9b4bce9bcb7c6740a71a49b869cec.600x338.jpg?t=1711906858",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1862170/ss_1e28d4de221cb07ea3f999857e74e9b1ff084060.600x338.jpg?t=1711906858"
-  ],
-  "detailed_description": "<strong>An experimental and unique single player survival horror experience that doesn't hold your hand with a focus on gameplay</strong><br><br>-Use everything at your disposal to overcome obstacles in creative ways<br><br>-Manage your resources to evade or fight off a variety of threats<br><br>-Find plenty of secrets that can help your chances of survival<br><br>-Randomized gameplay elements for added replay value<br><br>-Creepy atmospheric environment",
-  "about_the_game": "<strong>An experimental and unique single player survival horror experience that doesn't hold your hand with a focus on gameplay</strong><br><br>-Use everything at your disposal to overcome obstacles in creative ways<br><br>-Manage your resources to evade or fight off a variety of threats<br><br>-Find plenty of secrets that can help your chances of survival<br><br>-Randomized gameplay elements for added replay value<br><br>-Creepy atmospheric environment",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

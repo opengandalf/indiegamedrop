@@ -3,8 +3,8 @@
   "name": "Mythlands: Flappy Dragon",
   "slug": "mythlands-flappy-dragon",
   "developer": "rainstory.games",
-  "publisher": "rainstory.games",
-  "release_date": "Nov 10, 2020",
+  "publisher": "",
+  "release_date": "2020-11-10",
   "price_usd": 3.99,
   "genres": [
     "Adventure",
@@ -23,35 +23,9 @@
   ],
   "short_description": "Flappy Dragon is an endless runner with realistic graphics. Avoid obstacles to gain points pick up lives, shields and coins.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458330/header.jpg?t=1679010046",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458330/ss_001bf6b67e67b6076def69ad955c595062c62b65.600x338.jpg?t=1679010046",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458330/ss_b99fcbefb547ff3b7d995dc663b5a2e3eda5b6ad.600x338.jpg?t=1679010046",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458330/ss_1d4f351db478cf34462fe3c5d164d1df063bd048.600x338.jpg?t=1679010046",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458330/ss_f8ad0aa3d523022c591bf97feeb2312f48719386.600x338.jpg?t=1679010046",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458330/ss_b79f57ec81e93985b05fdda2ff63d4f42e846e78.600x338.jpg?t=1679010046",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458330/ss_eb908df1aca883d07bdd3ac4ab22ebce8d54d240.600x338.jpg?t=1679010046",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458330/ss_f2be4a78a5aaf3999341159918d6ea5ade2d1611.600x338.jpg?t=1679010046",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458330/ss_eb5af4fdfbd6e14ae0ed4ec3da8095e3d10203a8.600x338.jpg?t=1679010046"
-  ],
-  "detailed_description": "<strong>First update is out! </strong><br>The update contains 2 new levels with snowy and alien environment, improved visuals for shield and death and a new type of moveable obstacles in one of the levels. <br><br>This update includes a 4th level with bonus game mode.<br><br>Flappy Runner with AAA graphics that I am making with Unreal Engine 4.<br>This project helped me learn a lot and I am looking forward to add more features. <br>The road map right now is to add new levels with different environments and obstacles, attack that can destroy obstacles, talents that you can activate with coins that increase the amount of lives you can collect and the duration of your shield. <br><br>Any suggestions are welcome in the comments.",
-  "about_the_game": "<strong>First update is out! </strong><br>The update contains 2 new levels with snowy and alien environment, improved visuals for shield and death and a new type of moveable obstacles in one of the levels. <br><br>This update includes a 4th level with bonus game mode.<br><br>Flappy Runner with AAA graphics that I am making with Unreal Engine 4.<br>This project helped me learn a lot and I am looking forward to add more features. <br>The road map right now is to add new levels with different environments and obstacles, attack that can destroy obstacles, talents that you can activate with coins that increase the amount of lives you can collect and the duration of your shield. <br><br>Any suggestions are welcome in the comments.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 3,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

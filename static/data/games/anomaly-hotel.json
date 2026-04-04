@@ -3,8 +3,8 @@
   "name": "Anomaly Hotel",
   "slug": "anomaly-hotel",
   "developer": "Pinholic Games",
-  "publisher": "Pinholic Games",
-  "release_date": "May 23, 2024",
+  "publisher": "",
+  "release_date": "2024-05-23",
   "price_usd": 0.99,
   "genres": [
     "Adventure",
@@ -21,34 +21,15 @@
   ],
   "short_description": "You start from the 10th floor in a hotel and must make your way to the exit. However, you must look for any potential anomalies on each floor to safely make it out.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2940650/header.jpg?t=1755887358",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2940650/dedf721d2027dfd6b6967ea28197ac9e27e6d2f3/ss_dedf721d2027dfd6b6967ea28197ac9e27e6d2f3.600x338.jpg?t=1755887358",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2940650/171708214ea7c981725601da3715b7b9a28cff1a/ss_171708214ea7c981725601da3715b7b9a28cff1a.600x338.jpg?t=1755887358",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2940650/f2eb68ee15c91021bac6c792633d93c1516c6af5/ss_f2eb68ee15c91021bac6c792633d93c1516c6af5.600x338.jpg?t=1755887358",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2940650/5ab8a0d8862116d72e2c30807e34e5073970742b/ss_5ab8a0d8862116d72e2c30807e34e5073970742b.600x338.jpg?t=1755887358",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2940650/ss_a857c3e1cec4332aab90c0a6442d9e05b2018abb.600x338.jpg?t=1755887358",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2940650/a3231192caed3cec90be1db0c1abd9e1c36c3c36/ss_a3231192caed3cec90be1db0c1abd9e1c36c3c36.600x338.jpg?t=1755887358"
-  ],
-  "detailed_description": "You start from the 10th floor and must make your way to the exit. You must look carefully on each floor for anomalies. If there is no anomaly you can safely proceed to the next floor. However, if there are anomalies you must immediately go to the elevator and close the doors. The Staff will take care of the anomaly and let you continue.",
-  "about_the_game": "You start from the 10th floor and must make your way to the exit. You must look carefully on each floor for anomalies. If there is no anomaly you can safely proceed to the next floor. However, if there are anomalies you must immediately go to the elevator and close the doors. The Staff will take care of the anomaly and let you continue.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
+  "review_velocity_7d": 0.7000000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 14,
-  "review_positive": 10,
+  "review_positive": 0,
   "review_percentage": 71.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 11,
-      "review_percentage": 63.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 14,
       "review_percentage": 71.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

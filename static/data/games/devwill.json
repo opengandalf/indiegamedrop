@@ -3,8 +3,8 @@
   "name": "DevWill",
   "slug": "devwill",
   "developer": "Paulo A. M. Villalva",
-  "publisher": "Amaweks Games",
-  "release_date": "Oct 11, 2017",
+  "publisher": "",
+  "release_date": "2017-10-11",
   "price_usd": 0.0,
   "genres": [
     "Action"
@@ -15,38 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Devwill is a platformer with arcade graphics and gameplay. The aesthetics are meant to resemble the old Black and White movies look. Expect a challenging game with a mysterious and reflexive, yet poetic, background story.",
+  "short_description": "Devwill is a platformer with arcade graphics and gameplay. The aesthetics are meant to resemble the old Black and White movies look. Expect a challenging game with a mysterious and reflexive, yet poet",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702270/header.jpg?t=1660179495",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702270/ss_4b1c161805cf4a7917b2f6971f0a14f368e298bd.600x338.jpg?t=1660179495",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702270/ss_80ad3cce6c61f6ac5015958c92d1c7f42bde20ac.600x338.jpg?t=1660179495",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702270/ss_db33129d5393f028439503468b02a4936d07603a.600x338.jpg?t=1660179495",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702270/ss_764ac087dd67e5711479f0cd02b7550bc5b59814.600x338.jpg?t=1660179495",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702270/ss_f9f0cb20c334e18673dc04bdead1e0c4c5196056.600x338.jpg?t=1660179495",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702270/ss_b64098d50c651bd02e78d1c62d8a0c50368109d0.600x338.jpg?t=1660179495",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702270/ss_3f6641df263c78e5b1db796aedc82968a1cc0962.600x338.jpg?t=1660179495",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702270/ss_905ccc73f41cb263feefe9d7c7bbdd8ec7be8a20.600x338.jpg?t=1660179495"
-  ],
-  "detailed_description": "Devwill is a platformer with arcade graphics and gameplay. The visuals are mostly in black and white, however some of the details show some color saturation. The aesthetics are meant to resemble the old Black and White movies look, with the use of effects such as screen scratches, old projector sounds and intertitle text for dialogs and narratives. Expect a challenging game with a mysterious and reflexive, yet poetic, background story.<br>​<br>Key Features:<br>- 16 levels<br>- 5 Bosses<br>- Password system<br>- Secrets and Easter Eggs (reach 7700 points to find them all)<br>- Original Chiptune Soundtrack<br>- About 45 min of longplay<br>- An intrinsically gameplay based narrative<br>- Tons of classic B&W horror movies references<br><br>Default Controls: <br>Left/right Arrow Keys: walk<br>S: jump<br>D: fire<br><br>Video keys:<br>F11: toggle Fullscreen<br>F10: Change resolution (try to fit your Monitor)<br>[ and ´: (next to Enter) Change Brightnes<br>]: (next to Enter): toggle scanline filters on or off (scanlines only, the \"old B&W movie effect is always on as it's part of the intended aesthetics of the game)<br>ESC: Options and Quit menu (where you can remap the keyboard and gamepad)<br><br><br>Troubleshooting<br><br>Q: I'm having problems with configurations and settings, what can I do?<br>A: Reinstall the game on Steam or delete the \"Cabinet.ini\" in the game files.<br><br>Q: Sometimes when I quit the game Steam says the game is still running, what can I do?<br>A: Just wait for a moment and it should go back to normal.<br><br>Q: The first time I run \"Devwill.exe\" on Windows 8 or 10 I get prompted to install \"Directplay\". Is it safe?<br>A: Yes, Directplay is a Windows component. Your OS will download and install it from microsoft servers. It is safe and required for running the game.<br><br>Q: The game runs in a small square, even while in full screen. How do I make it expand to the entire screen?<br>A: DevWill runs in a square screen format, up to a maximum of 1025X1025. If you monitor is in a higher resolution the fast workaround is to: 1) Right click on \"Devwill.exe\" and go to Properties. 2) In the Compatibility tab check the \"Run in 640X480 screen resolution\" option, and apply. 3) Run the game, wait for it to load and press F10 until you find the resolution that best suits your monitor. Alternatively, if your video card drivers allow for custom settings for individual games, you can use that.<br><br>Q: When I try running the game I get the error: \"Failed to load the game data. File seems corrupted\". What can I do?<br>A: This is a common incompatibility issue with a lot of indie games, especially the ones made on Game Maker, and it seems to happen only in a few computers. The solution, as strange it sounds, is to delete all printer installed on your computer (even if you do not own a printer). This fix seemed to work for everyone who ran across this issue.",
-  "about_the_game": "Devwill is a platformer with arcade graphics and gameplay. The visuals are mostly in black and white, however some of the details show some color saturation. The aesthetics are meant to resemble the old Black and White movies look, with the use of effects such as screen scratches, old projector sounds and intertitle text for dialogs and narratives. Expect a challenging game with a mysterious and reflexive, yet poetic, background story.<br>​<br>Key Features:<br>- 16 levels<br>- 5 Bosses<br>- Password system<br>- Secrets and Easter Eggs (reach 7700 points to find them all)<br>- Original Chiptune Soundtrack<br>- About 45 min of longplay<br>- An intrinsically gameplay based narrative<br>- Tons of classic B&W horror movies references<br><br>Default Controls: <br>Left/right Arrow Keys: walk<br>S: jump<br>D: fire<br><br>Video keys:<br>F11: toggle Fullscreen<br>F10: Change resolution (try to fit your Monitor)<br>[ and ´: (next to Enter) Change Brightnes<br>]: (next to Enter): toggle scanline filters on or off (scanlines only, the \"old B&W movie effect is always on as it's part of the intended aesthetics of the game)<br>ESC: Options and Quit menu (where you can remap the keyboard and gamepad)<br><br><br>Troubleshooting<br><br>Q: I'm having problems with configurations and settings, what can I do?<br>A: Reinstall the game on Steam or delete the \"Cabinet.ini\" in the game files.<br><br>Q: Sometimes when I quit the game Steam says the game is still running, what can I do?<br>A: Just wait for a moment and it should go back to normal.<br><br>Q: The first time I run \"Devwill.exe\" on Windows 8 or 10 I get prompted to install \"Directplay\". Is it safe?<br>A: Yes, Directplay is a Windows component. Your OS will download and install it from microsoft servers. It is safe and required for running the game.<br><br>Q: The game runs in a small square, even while in full screen. How do I make it expand to the entire screen?<br>A: DevWill runs in a square screen format, up to a maximum of 1025X1025. If you monitor is in a higher resolution the fast workaround is to: 1) Right click on \"Devwill.exe\" and go to Properties. 2) In the Compatibility tab check the \"Run in 640X480 screen resolution\" option, and apply. 3) Run the game, wait for it to load and press F10 until you find the resolution that best suits your monitor. Alternatively, if your video card drivers allow for custom settings for individual games, you can use that.<br><br>Q: When I try running the game I get the error: \"Failed to load the game data. File seems corrupted\". What can I do?<br>A: This is a common incompatibility issue with a lot of indie games, especially the ones made on Game Maker, and it seems to happen only in a few computers. The solution, as strange it sounds, is to delete all printer installed on your computer (even if you do not own a printer). This fix seemed to work for everyone who ran across this issue.",
-  "supported_languages": "English<strong>*</strong>, Portuguese - Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.75,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 15,
-  "review_positive": 14,
+  "review_positive": 0,
   "review_percentage": 93.3,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -54,26 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 15,
-      "review_percentage": 93.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 15,
-      "review_percentage": 93.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
+      "date": "2026-04-04",
       "review_count": 15,
       "review_percentage": 93.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

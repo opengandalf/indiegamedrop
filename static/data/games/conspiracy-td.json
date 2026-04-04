@@ -3,8 +3,8 @@
   "name": "Conspiracy TD",
   "slug": "conspiracy-td",
   "developer": "Arc51",
-  "publisher": "Arc51",
-  "release_date": "Nov 1, 2024",
+  "publisher": "",
+  "release_date": "2024-11-01",
   "price_usd": 5.61,
   "genres": [
     "Casual",
@@ -21,35 +21,15 @@
   ],
   "short_description": "Classic Tower Defense where you deploy stationary units and upgrade them to stop enemy waves.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189150/header.jpg?t=1773095443",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189150/ss_95862e19b018a9a522e71d0e9c33477f34bf7542.600x338.jpg?t=1773095443",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189150/ss_12943bccec2d62f9d11fb5aa50a01fbe2494c2e8.600x338.jpg?t=1773095443",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189150/ss_81930b2f3c943e8b5679aab61158667bf61b655a.600x338.jpg?t=1773095443",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189150/ss_61e262e6720f71df0e4af7125371b0a3815f0890.600x338.jpg?t=1773095443",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189150/ss_9b9c7a1e1514191aa53061ca5c3c2e5ffbafa58f.600x338.jpg?t=1773095443"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Conspiracy TD is a classic Tower Defense game where you build and upgrade units to stop incoming enemy waves before they reach the objective.</p><p class=\"bb_paragraph\" >Enemies come in structured waves and follow defined paths. Your job is to place towers, upgrade them, and adapt your setup as new enemy types appear. Towers attack automatically, but poor placement or upgrade choices will quickly get you overwhelmed.</p><p class=\"bb_paragraph\" >Enemies can occasionally attack your towers as well, so keeping your defenses alive matters just as much as dealing damage.</p><h2 class=\"bb_tag\" >Towers, Upgrades & Abilities</h2><p class=\"bb_paragraph\" >You start with only a few basic towers and unlock more options as you progress. There are 40+ buildable units, including specialized towers meant for specific situations.</p><p class=\"bb_paragraph\" >Towers can be upgraded multiple times to improve range, damage, and effectiveness. Some towers unlock specialization paths later on, allowing you to focus on effects like elemental damage or utility roles.</p><p class=\"bb_paragraph\" >You also have access to powerful abilities such as meteors, ice attacks, curses, poison effects, and large-scale cataclysm events. These abilities are cooldown-based and meant to be used carefully, especially during difficult waves. Building towers reduces cooldowns for specific abilities, encouraging active play instead of waiting.</p><h2 class=\"bb_tag\" >Levels, Difficulty & Progression</h2><p class=\"bb_paragraph\" >The game currently includes 32 levels, usually lasting between 10 and 20 minutes. Most levels feature 15–25 enemy waves, with a few exceptions.</p><p class=\"bb_paragraph\" >There are 5 regular difficulty modes and 1 dynamic challenge mode. Playing on higher difficulties rewards more points and pushes you to optimize your tower setups.</p><p class=\"bb_paragraph\" >You earn 1 skill point per completed level, with up to 60 skills available. Skill upgrades provide long-term progression and additional strategic choices.</p><h2 class=\"bb_tag\" >Multiplayer (Experimental)</h2><p class=\"bb_paragraph\" >Conspiracy TD includes an online multiplayer lobby that is currently in testing. Difficulty scales with the number of players. Multiplayer is playable, but still under active development and improvement.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Conspiracy TD is a classic Tower Defense game where you build and upgrade units to stop incoming enemy waves before they reach the objective.</p><p class=\"bb_paragraph\" >Enemies come in structured waves and follow defined paths. Your job is to place towers, upgrade them, and adapt your setup as new enemy types appear. Towers attack automatically, but poor placement or upgrade choices will quickly get you overwhelmed.</p><p class=\"bb_paragraph\" >Enemies can occasionally attack your towers as well, so keeping your defenses alive matters just as much as dealing damage.</p><h2 class=\"bb_tag\" >Towers, Upgrades & Abilities</h2><p class=\"bb_paragraph\" >You start with only a few basic towers and unlock more options as you progress. There are 40+ buildable units, including specialized towers meant for specific situations.</p><p class=\"bb_paragraph\" >Towers can be upgraded multiple times to improve range, damage, and effectiveness. Some towers unlock specialization paths later on, allowing you to focus on effects like elemental damage or utility roles.</p><p class=\"bb_paragraph\" >You also have access to powerful abilities such as meteors, ice attacks, curses, poison effects, and large-scale cataclysm events. These abilities are cooldown-based and meant to be used carefully, especially during difficult waves. Building towers reduces cooldowns for specific abilities, encouraging active play instead of waiting.</p><h2 class=\"bb_tag\" >Levels, Difficulty & Progression</h2><p class=\"bb_paragraph\" >The game currently includes 32 levels, usually lasting between 10 and 20 minutes. Most levels feature 15–25 enemy waves, with a few exceptions.</p><p class=\"bb_paragraph\" >There are 5 regular difficulty modes and 1 dynamic challenge mode. Playing on higher difficulties rewards more points and pushes you to optimize your tower setups.</p><p class=\"bb_paragraph\" >You earn 1 skill point per completed level, with up to 60 skills available. Skill upgrades provide long-term progression and additional strategic choices.</p><h2 class=\"bb_tag\" >Multiplayer (Experimental)</h2><p class=\"bb_paragraph\" >Conspiracy TD includes an online multiplayer lobby that is currently in testing. Difficulty scales with the number of players. Multiplayer is playable, but still under active development and improvement.</p>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Online Co-op",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

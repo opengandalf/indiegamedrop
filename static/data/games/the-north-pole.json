@@ -3,8 +3,8 @@
   "name": "The North Pole",
   "slug": "the-north-pole",
   "developer": "Hot Spaghetti",
-  "publisher": "Hot Spaghetti",
-  "release_date": "Dec 18, 2019",
+  "publisher": "",
+  "release_date": "2019-12-18",
   "price_usd": 11.99,
   "genres": [
     "Adventure",
@@ -23,36 +23,15 @@
   ],
   "short_description": "Put on your Santa suit this Christmas and get ready to play at The North Pole!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201880/header.jpg?t=1639585463",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201880/ss_306e171314b95be38a4714cd2806318279ecd4c7.600x338.jpg?t=1639585463",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201880/ss_b72b1a23f59613004220d328b528c7d4301419ba.600x338.jpg?t=1639585463",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201880/ss_09c1facdb56c416282bf0b329fc1ebfb281212f3.600x338.jpg?t=1639585463",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201880/ss_d076e7d83b1bb8c8d77b6078687f92bde47aed7a.600x338.jpg?t=1639585463",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201880/ss_13ac4e36a96e847e0b13c29a639cd3df8ff478ee.600x338.jpg?t=1639585463",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201880/ss_53922f89fee4e6a134f4b915013e4a8e27601593.600x338.jpg?t=1639585463"
-  ],
-  "detailed_description": "The North Pole is a casual sandbox.<br>Play as Santa and get ready for Christmas by helping Elves, complete challenges,<br>collect ornaments and decorate the town tree!<br><br>• Explore the North Pole<br>• Interact with Elves<br>• Find and collect ornaments to decorate the tree<br>• Spread the Christmas cheer!<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201880/extras/IMG_6060.GIF?t=1639585463\" /></span><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201880/extras/IMG_6059.GIF?t=1639585463\" /></span><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201880/extras/IMG_6057.GIF?t=1639585463\" /></span>",
-  "about_the_game": "The North Pole is a casual sandbox.<br>Play as Santa and get ready for Christmas by helping Elves, complete challenges,<br>collect ornaments and decorate the town tree!<br><br>• Explore the North Pole<br>• Interact with Elves<br>• Find and collect ornaments to decorate the tree<br>• Spread the Christmas cheer!<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201880/extras/IMG_6060.GIF?t=1639585463\" /></span><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201880/extras/IMG_6059.GIF?t=1639585463\" /></span><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201880/extras/IMG_6057.GIF?t=1639585463\" /></span>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0003,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 5.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 51,
-  "review_positive": 44,
+  "review_positive": 0,
   "review_percentage": 86.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 46,
-      "review_percentage": 87.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 51,
       "review_percentage": 86.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

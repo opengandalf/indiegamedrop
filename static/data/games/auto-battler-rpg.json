@@ -3,8 +3,8 @@
   "name": "AUTO_BATTLER_RPG",
   "slug": "auto-battler-rpg",
   "developer": "Kadragon",
-  "publisher": "Kadragon",
-  "release_date": "Oct 22, 2024",
+  "publisher": "",
+  "release_date": "2024-10-22",
   "price_usd": 1.79,
   "genres": [
     "Casual",
@@ -17,34 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "This is a game about automatical upgrades and unlocking of resources The game plays by itself while all you do is upgrade your hero... and attempt to move even further in the dungeon and by doing that growing in strength.",
+  "short_description": "This is a game about automatical upgrades and unlocking of resources The game plays by itself while all you do is upgrade your hero... and attempt to move even further in the dungeon and by doing that",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3264110/header.jpg?t=1751658468",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3264110/ss_6745afb40b6729a4e132746afc4bc9f91777f54a.600x338.jpg?t=1751658468",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3264110/ss_e71c7b2eff92a2a4ea62423da88c8d70bcf1c2b9.600x338.jpg?t=1751658468",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3264110/ss_2846d8a4cc2b5c1499485ed252c372faa77e31a2.600x338.jpg?t=1751658468",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3264110/ss_721724150dfded3da6c7a4a17ee6982bbba662bb.600x338.jpg?t=1751658468",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3264110/ss_704477cf68e2f3aec4d7c8ac986104b4d326bfff.600x338.jpg?t=1751658468"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >ABOUT THIS GAME</h2><p class=\"bb_paragraph\" >This is a game about automatical upgrades and unlocking of resources</p><p class=\"bb_paragraph\" >The game plays by itself while all you do is upgrade your hero... and attempt to move even</p><p class=\"bb_paragraph\" >further in the dungeon</p><h2 class=\"bb_tag\" >FEATURES</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >1 enemy type</p></li><li><p class=\"bb_paragraph\" >Upgradeable gear</p></li><li><p class=\"bb_paragraph\" >Challenging dungeon</p></li><li><p class=\"bb_paragraph\" >Tons of stats</p></li><li><p class=\"bb_paragraph\" >Get ready to progress endleslly...</p></li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" >ABOUT THIS GAME</h2><p class=\"bb_paragraph\" >This is a game about automatical upgrades and unlocking of resources</p><p class=\"bb_paragraph\" >The game plays by itself while all you do is upgrade your hero... and attempt to move even</p><p class=\"bb_paragraph\" >further in the dungeon</p><h2 class=\"bb_tag\" >FEATURES</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >1 enemy type</p></li><li><p class=\"bb_paragraph\" >Upgradeable gear</p></li><li><p class=\"bb_paragraph\" >Challenging dungeon</p></li><li><p class=\"bb_paragraph\" >Tons of stats</p></li><li><p class=\"bb_paragraph\" >Get ready to progress endleslly...</p></li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

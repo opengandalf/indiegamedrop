@@ -3,8 +3,8 @@
   "name": "Slither Link",
   "slug": "slither-link",
   "developer": "Vector Game",
-  "publisher": "Vector Game",
-  "release_date": "Sep 9, 2018",
+  "publisher": "",
+  "release_date": "2018-09-09",
   "price_usd": 0.74,
   "genres": [
     "Casual",
@@ -17,36 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "SlitherLink is a kind of mathematical intelligence game, which consists of a checkerboard and a number in the checkerboard. When solving the problem, you must use the clues provided by the numbers to connect an uninterrupted closed loop on the checkerboard line.",
+  "short_description": "SlitherLink is a kind of mathematical intelligence game, which consists of a checkerboard and a number in the checkerboard. When solving the problem, you must use the clues provided by the numbers to ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931090/a4bf26e685f87b12f3beaa15c468a1ce6055f489/header.jpg?t=1753430565",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931090/ss_922902873259698d69b1043916c52af3258a0a49.600x338.jpg?t=1753430565",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931090/ss_3ce9bc805c219add71b2c04cd796fafe5383f053.600x338.jpg?t=1753430565",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931090/ss_454e6ce3f2557ff3b0e152a14f0c47ce46718029.600x338.jpg?t=1753430565",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931090/ss_22a80aecbace6fd833a557f75f14b423aa4c6df5.600x338.jpg?t=1753430565",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931090/ss_683c2a77147c006b52040cd8ad92e27bc751b446.600x338.jpg?t=1753430565",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931090/ss_efe8cbce82f29dc4ee7f46d32d431bd473f983f1.600x338.jpg?t=1753430565"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >SlitherLink is a kind of mathematical intelligence game, which consists of a checkerboard and a number in the checkerboard. When solving the problem, you must use the clues provided by the numbers to connect an uninterrupted closed loop on the checkerboard line.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Game rules:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >On a board of the same dot size, connect two adjacent points with a straight line or a horizontal line. The goal is to make all the connecting lines form a closed loop.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >A number between four points indicating the number of edges on the square formed by the four points. Where there is no number, the number of surrounding edges is unknown.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >When marking, you cannot make a cross or branch on the entire line that is connected last time.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Can not appear more than two closed loops.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game contains a total of 300+<u><strong>N</strong></u> challenging levels for 6 board sizes. There are a variety of color themes to choose from.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The level generator can generate levels of 6 board sizes and 3 levels of difficulty, it can generate <u><strong>Infinite</strong></u> levels for you to play.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >If you have any suggestions to make the game better, you can tell me in the steam community.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >---------------------------------------------------------------------------------------</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Special functions of buttons</strong>:</p><p class=\"bb_paragraph\" ><u><strong>Pencil</strong></u>  :  Press and hold the <u><strong>pencil</strong></u> button for 2 seconds to convert all temporary lines into regular lines.</p><p class=\"bb_paragraph\" ><strong>Super Undo</strong>  :   Press and holding the undo button for 2 seconds. It will undo to the vicinity of the last temporary line at one time.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >---------------------------------------------------------------------------------------</p><p class=\"bb_paragraph\" ><strong>Mouse operation:</strong></p><p class=\"bb_paragraph\" ><strong>Map drag</strong>: Hold down the <strong>middle</strong> or <strong>left &right</strong> button and drag</p><p class=\"bb_paragraph\" ><strong>Zoom</strong>: Mouse Wheel</p><p class=\"bb_paragraph\" ><strong>Highlight</strong>: Keep the mouse still and on a line for 2.5 seconds to highlight the entire line</p><p class=\"bb_paragraph\" >---------------------------------------------------------------------------------------</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Key reference:</strong></p><p class=\"bb_paragraph\" ><strong>Undo</strong>             ------             <strong>[</strong></p><p class=\"bb_paragraph\" ><strong>Redo</strong>             ------             <strong>]</strong></p><p class=\"bb_paragraph\" ><strong>Pencil</strong>            ------             <strong>P</strong></p><p class=\"bb_paragraph\" ><strong>move map</strong>     -----          <strong>W,S,A,D</strong></p><p class=\"bb_paragraph\" ><strong>Zoom in out</strong>  -----          <strong>Q,E</strong></p><p class=\"bb_paragraph\" >----------------------------------------------------------------------------------------</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Automatic cross </strong></p><p class=\"bb_paragraph\" ><strong> </strong>click the computer icon to activate the automatic cross function. This function automatically adds cross in the following situations:</p><p class=\"bb_paragraph\" >(The hollow one is automatic)</p><p class=\"bb_paragraph\" >1.Complete a number:</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931090/extras/ef585073414da7704d39fa8373328a80.avif?t=1753430565\" width=152 height=120 /></span></p><p class=\"bb_paragraph\" >2.A point has placed two lines:</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931090/extras/26b5104bea69e2e0327c83b8f07b45e8.avif?t=1753430565\" width=180 height=184 /></span>                       <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931090/extras/cfea4a0aa4815f50c4d8ec755197dad0.avif?t=1753430565\" width=174 height=184 /></span></p><p class=\"bb_paragraph\" >3.If you place a line it cannot come out:</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931090/extras/82967e0f9b50866c72bd64a64aaa1e3c.avif?t=1753430565\" width=134 height=146 /></span></p><p class=\"bb_paragraph\" >The automatic cross function is just an auxiliary tool, not the final answer. It is just automatically generated by the lines that the player has placed and simple logic, so you can pass the level faster.</p><p class=\"bb_paragraph\" >Autocross is disabled on levels 1-50 of the 3x3 map.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >SlitherLink is a kind of mathematical intelligence game, which consists of a checkerboard and a number in the checkerboard. When solving the problem, you must use the clues provided by the numbers to connect an uninterrupted closed loop on the checkerboard line.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Game rules:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >On a board of the same dot size, connect two adjacent points with a straight line or a horizontal line. The goal is to make all the connecting lines form a closed loop.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >A number between four points indicating the number of edges on the square formed by the four points. Where there is no number, the number of surrounding edges is unknown.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >When marking, you cannot make a cross or branch on the entire line that is connected last time.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Can not appear more than two closed loops.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game contains a total of 300+<u><strong>N</strong></u> challenging levels for 6 board sizes. There are a variety of color themes to choose from.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The level generator can generate levels of 6 board sizes and 3 levels of difficulty, it can generate <u><strong>Infinite</strong></u> levels for you to play.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >If you have any suggestions to make the game better, you can tell me in the steam community.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >---------------------------------------------------------------------------------------</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Special functions of buttons</strong>:</p><p class=\"bb_paragraph\" ><u><strong>Pencil</strong></u>  :  Press and hold the <u><strong>pencil</strong></u> button for 2 seconds to convert all temporary lines into regular lines.</p><p class=\"bb_paragraph\" ><strong>Super Undo</strong>  :   Press and holding the undo button for 2 seconds. It will undo to the vicinity of the last temporary line at one time.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >---------------------------------------------------------------------------------------</p><p class=\"bb_paragraph\" ><strong>Mouse operation:</strong></p><p class=\"bb_paragraph\" ><strong>Map drag</strong>: Hold down the <strong>middle</strong> or <strong>left &right</strong> button and drag</p><p class=\"bb_paragraph\" ><strong>Zoom</strong>: Mouse Wheel</p><p class=\"bb_paragraph\" ><strong>Highlight</strong>: Keep the mouse still and on a line for 2.5 seconds to highlight the entire line</p><p class=\"bb_paragraph\" >---------------------------------------------------------------------------------------</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Key reference:</strong></p><p class=\"bb_paragraph\" ><strong>Undo</strong>             ------             <strong>[</strong></p><p class=\"bb_paragraph\" ><strong>Redo</strong>             ------             <strong>]</strong></p><p class=\"bb_paragraph\" ><strong>Pencil</strong>            ------             <strong>P</strong></p><p class=\"bb_paragraph\" ><strong>move map</strong>     -----          <strong>W,S,A,D</strong></p><p class=\"bb_paragraph\" ><strong>Zoom in out</strong>  -----          <strong>Q,E</strong></p><p class=\"bb_paragraph\" >----------------------------------------------------------------------------------------</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Automatic cross </strong></p><p class=\"bb_paragraph\" ><strong> </strong>click the computer icon to activate the automatic cross function. This function automatically adds cross in the following situations:</p><p class=\"bb_paragraph\" >(The hollow one is automatic)</p><p class=\"bb_paragraph\" >1.Complete a number:</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931090/extras/ef585073414da7704d39fa8373328a80.avif?t=1753430565\" width=152 height=120 /></span></p><p class=\"bb_paragraph\" >2.A point has placed two lines:</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931090/extras/26b5104bea69e2e0327c83b8f07b45e8.avif?t=1753430565\" width=180 height=184 /></span>                       <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931090/extras/cfea4a0aa4815f50c4d8ec755197dad0.avif?t=1753430565\" width=174 height=184 /></span></p><p class=\"bb_paragraph\" >3.If you place a line it cannot come out:</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/931090/extras/82967e0f9b50866c72bd64a64aaa1e3c.avif?t=1753430565\" width=134 height=146 /></span></p><p class=\"bb_paragraph\" >The automatic cross function is just an auxiliary tool, not the final answer. It is just automatically generated by the lines that the player has placed and simple logic, so you can pass the level faster.</p><p class=\"bb_paragraph\" >Autocross is disabled on levels 1-50 of the 3x3 map.</p>",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Danish, Ukrainian, Russian, Bulgarian, Hungarian, Turkish, Greek, Norwegian, Czech, Japanese, Polish, Thai, Swedish, Simplified Chinese, Traditional Chinese, Romanian, Finnish, Dutch, Portuguese - Portugal, Portuguese - Brazil, Arabic, Korean, Spanish - Latin America, Vietnamese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 4.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 46,
-  "review_positive": 41,
+  "review_positive": 0,
   "review_percentage": 89.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 42,
-      "review_percentage": 90.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 46,
       "review_percentage": 89.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

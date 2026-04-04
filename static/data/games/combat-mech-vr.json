@@ -3,8 +3,8 @@
   "name": "Combat Mech VR",
   "slug": "combat-mech-vr",
   "developer": "Chun Y.",
-  "publisher": "Chun Y.",
-  "release_date": "Aug 25, 2020",
+  "publisher": "",
+  "release_date": "2020-08-25",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -21,34 +21,15 @@
   ],
   "short_description": "Combat Mech VR is a casual VR shooter inspired by Mecha Animes. Made for fans who love playing with action figures.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1333500/header.jpg?t=1598393112",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1333500/ss_e124a662cda3720f9586d8aa4ed6bb692feae6d0.600x338.jpg?t=1598393112",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1333500/ss_4f060d4a009ea56fb1946bb5cb0b79d775a77ba9.600x338.jpg?t=1598393112",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1333500/ss_679f258bd50a660fb391f18d70ea0ca18acdd99b.600x338.jpg?t=1598393112",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1333500/ss_0fac228775c57561bda1c321394575a5de09a35c.600x338.jpg?t=1598393112",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1333500/ss_3b0017ed36edc59c0d8f83dfa16d5e4ae4fbb2fc.600x338.jpg?t=1598393112"
-  ],
-  "detailed_description": "<i>Combat Mech VR</i> is a casual VR shooter inspired by Mecha Animes. Made for fans who love playing with action figures:<br><br><ul class=\"bb_ul\"><li> piloting a robot as if you are playing with an action figure; shoot or blast your way through enemy robots and spaceships<br></li><li> all the actions takes place inside the roomscale area. No locomotion is needed<br></li><li> simple control scheme. Only requires one controller to play</li></ul>",
-  "about_the_game": "<i>Combat Mech VR</i> is a casual VR shooter inspired by Mecha Animes. Made for fans who love playing with action figures:<br><br><ul class=\"bb_ul\"><li> piloting a robot as if you are playing with an action figure; shoot or blast your way through enemy robots and spaceships<br></li><li> all the actions takes place inside the roomscale area. No locomotion is needed<br></li><li> simple control scheme. Only requires one controller to play</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

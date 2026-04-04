@@ -3,8 +3,8 @@
   "name": "BiblioMania",
   "slug": "bibliomania",
   "developer": "Red Scale Studio",
-  "publisher": "Red Scale Studio",
-  "release_date": "Jun 20, 2022",
+  "publisher": "",
+  "release_date": "2022-06-20",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -17,43 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "BiblioMania is a multiplayer 2D platformer where you are a clerk in a cursed library. Work with (or triumph over) up to 3 friends while taking in and renting out books to many clients. But beware the events that happen at the library, they can change everything.",
+  "short_description": "BiblioMania is a multiplayer 2D platformer where you are a clerk in a cursed library. Work with (or triumph over) up to 3 friends while taking in and renting out books to many clients. But beware the ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1848120/header.jpg?t=1655759521",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1848120/ss_1f1f669dc1ee6d638cc50be1b0493bd4905531d8.600x338.jpg?t=1655759521",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1848120/ss_e2cc6065d2e860068cfeafacf87bc70e60c5cc24.600x338.jpg?t=1655759521",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1848120/ss_d3fa36c5bd963f1aba8b131e613e92b52e08591b.600x338.jpg?t=1655759521",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1848120/ss_ec7961a96df45443bae9759d8a36592d2316ec32.600x338.jpg?t=1655759521",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1848120/ss_52257a94ff13389e9d7972aed2ee255b34777389.600x338.jpg?t=1655759521"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1848120/extras/46b878a25ea6f1cf09c7f2b671b0cb05.avif?t=1655759521\" width=615 height=132 /></span><h2 class=\"bb_tag\" >The Game:</h2>Bibliomania is a casual 2D platformer endless game. Manage a library doing tasks, delivering and receiving books. But beware! While doing your normal tasks, prepare to face abnormal and chaotic events thanks to your unstable curse. Get ready to do the same things with different twists, try to beat your best attempt over and over in this crazy mess!<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li> Multiplayer Online and Local!<br></li><li> Coop up to 4 Players!<br></li><li> Versus Mode with combat mechanics!<br></li><li> Couch Party experience with team modes and more!<br></li><li> Maps with different and exciting gimmicks!<br></li><li> Unique characters to play!</li></ul><br>Choose your character, select your map, join your friends and adapt to the circumstances on BiblioMania!",
-  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1848120/extras/46b878a25ea6f1cf09c7f2b671b0cb05.avif?t=1655759521\" width=615 height=132 /></span><h2 class=\"bb_tag\" >The Game:</h2>Bibliomania is a casual 2D platformer endless game. Manage a library doing tasks, delivering and receiving books. But beware! While doing your normal tasks, prepare to face abnormal and chaotic events thanks to your unstable curse. Get ready to do the same things with different twists, try to beat your best attempt over and over in this crazy mess!<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li> Multiplayer Online and Local!<br></li><li> Coop up to 4 Players!<br></li><li> Versus Mode with combat mechanics!<br></li><li> Couch Party experience with team modes and more!<br></li><li> Maps with different and exciting gimmicks!<br></li><li> Unique characters to play!</li></ul><br>Choose your character, select your map, join your friends and adapt to the circumstances on BiblioMania!",
-  "supported_languages": "English, Portuguese - Brazil",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Shared/Split Screen PvP",
-    "Co-op",
-    "Online Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Full controller support",
-    "Remote Play Together"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0002,
+  "screenshots": [],
+  "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 6.0,
+  "review_velocity_7d": 3.85,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 77,
-  "review_positive": 60,
+  "review_positive": 0,
   "review_percentage": 77.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -61,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 71,
-      "review_percentage": 81.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 77,
       "review_percentage": 77.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Corgi in the Box",
   "slug": "corgi-in-the-box",
   "developer": "motsuhouse",
-  "publisher": "motsuhouse",
-  "release_date": "Nov 16, 2023",
+  "publisher": "",
+  "release_date": "2023-11-16",
   "price_usd": 2.99,
   "genres": [
     "Adventure",
@@ -17,34 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "You are locked in an unfamiliar room with your beloved dog. Use the items in the room and cooperate with your dog to escape. There is a short story and three different endings. When you reach an ending, a hidden secret will be revealed.",
+  "short_description": "You are locked in an unfamiliar room with your beloved dog. Use the items in the room and cooperate with your dog to escape. There is a short story and three different endings. When you reach an endin",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2645000/header.jpg?t=1728290895",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2645000/ss_22ef278a2661806cb99cf64ed65e8e874fa0cbb4.600x338.jpg?t=1728290895",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2645000/ss_a1f435364bf82050598d241bde4b33d62c3bd6ff.600x338.jpg?t=1728290895",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2645000/ss_5e0b30a596ab490d4a35f4cfbb50f76da8502300.600x338.jpg?t=1728290895",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2645000/ss_84673307072d8d9253a098069b0df8305612e2a5.600x338.jpg?t=1728290895",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2645000/ss_e267ccfb54a221aff2fa6c056720332ae1f0efb4.600x338.jpg?t=1728290895"
-  ],
-  "detailed_description": "You are locked in an unfamiliar room with your beloved dog. <br />\r\nUse the items in the room and cooperate with your dog to escape. <br />\r\nThere is a short story and three different endings. <br />\r\nWhen you reach an ending, a hidden secret will be revealed.<br />\r\n<br />\r\nThis is a short escape game with a playtime of about 30 minutes.",
-  "about_the_game": "You are locked in an unfamiliar room with your beloved dog. <br />\r\nUse the items in the room and cooperate with your dog to escape. <br />\r\nThere is a short story and three different endings. <br />\r\nWhen you reach an ending, a hidden secret will be revealed.<br />\r\n<br />\r\nThis is a short escape game with a playtime of about 30 minutes.",
-  "supported_languages": "English, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 5,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

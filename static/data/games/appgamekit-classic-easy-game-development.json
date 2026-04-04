@@ -3,8 +3,8 @@
   "name": "AppGameKit Classic: Easy Game Development",
   "slug": "appgamekit-classic-easy-game-development",
   "developer": "TheGameCreators",
-  "publisher": "TheGameCreators",
-  "release_date": "Nov 21, 2014",
+  "publisher": "",
+  "release_date": "2014-11-21",
   "price_usd": 0.0,
   "genres": [
     "Animation & Modeling",
@@ -27,62 +27,29 @@
     "mac",
     "linux"
   ],
-  "short_description": "AppGameKit Classic is a powerful game development engine, ideal for Hobbyist and Indie developers. Choose to code in the easy to learn AppGameKit BASIC or use our libraries in C++ & XCode. Write your code once and deploy easily to multiple mobile & desktop platforms.",
+  "short_description": "AppGameKit Classic is a powerful game development engine, ideal for Hobbyist and Indie developers. Choose to code in the easy to learn AppGameKit BASIC or use our libraries in C++ & XCode. Write y",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325180/header.jpg?t=1717089765",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325180/ss_57208d9bbdd89eb2d70d11095ab259d515bbf2b2.600x338.jpg?t=1717089765",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325180/ss_d10b667df87eda80f2821abcfee43e1e395442ec.600x338.jpg?t=1717089765",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325180/ss_a9e6f1fb1e78b663b8fa69e14cd2e28267b91aa2.600x338.jpg?t=1717089765",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325180/ss_fa46f29fbee7b970a3c5609f756c1a6f1fa6c979.600x338.jpg?t=1717089765",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325180/ss_8c7b9b13beb90d4af3bd8bc1ad9c539d90129aea.600x338.jpg?t=1717089765",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325180/ss_9bd2ce6937c33f1dd4fa53a7d2f5b974d2a5c756.600x338.jpg?t=1717089765",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325180/ss_cc7d89d375aaa560d5d39aa36362b82518588502.600x338.jpg?t=1717089765"
-  ],
-  "detailed_description": "AppGameKit Classic is a powerful game development engine, ideal for Beginners, Hobbyists & Indie developers. Now anyone can quickly code and build apps for multiple platforms using AppGameKit's BASIC scripting system. With just a few commands you can have demos/games up and running on mobile devices. Bob Duffy, Developer Relations Intel Corporation, said <i>“AppGameKit is a great cross platform development tool. It allows developers to quickly optimize and compile apps.”</i><br><br>Games can be developed and deployed to your chosen mobile devices for rapid prototyping. AppGameKit Classic does all the heavy lifting for you - making it easy to code, compile and then export apps to each platform. All you need to focus on is your game/app idea. It's that simple!<h2 class=\"bb_tag\" >NEW!</h2>The <strong>Visual Editor </strong>is the perfect DLC to accompany AppGameKit<br><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325180/extras/fef87cf16b05b6fa80726255a517bf31.avif?t=1717089765\" width=600 height=120 /></span><br>AppGameKit Classic also caters for more seasoned developers, allowing you to use the AppGameKit C++ libraries and benefit from all the features of AppGameKit's core game engine. Two great examples of this are the games 1982 and Echoes+ developed by Binary Zoo and both are FREE to download on STEAM;<h2 class=\"bb_tag\" >Features</h2><br><strong>Platforms</strong><br>You can create games with AppGameKit Classic on Windows, Mac or Linux devices. The games you make with it can then be exported to run on;<br><ul class=\"bb_ul\"><li>Windows<br></li><li>Mac<br></li><li>Linux<br></li><li>iOS<br></li><li>Android (inc Google, Amazon & Ouya)<br></li><li>HTML5<br></li><li>Raspberry Pi (free from TGC website)</li></ul><br><strong>AppGameKit Classic IDE</strong><br><ul class=\"bb_ul\"><li>Cross platform Geany editor<br></li><li>IntelliSense<br></li><li>Code folding<br></li><li>Colour schemes<br></li><li>Edit multiple projects<br></li><li>Fast Compiler<br></li><li>Full de-bugger<br></li><li>Broadcast direct to device<br></li><li>Export to exe, app, ipa, apk</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325180/extras/a7345e4f6c994be6ce19f34194b29d3b.avif?t=1717089765\" width=600 height=120 /></span><br><br><strong>Commands</strong><br>AppGameKit Classic has commands for all the important areas of game creation. These can all be called as BASIC commands or as library calls in C++ and XCode.<br><br><i>3D Graphics</i><br><ul class=\"bb_ul\"><li>3D Primitives<br></li><li>3D Bone Animations<br></li><li>Shaders<br></li><li>Lighting<br></li><li>Ray Casting<br></li><li>Camera controls<br></li><li>Meshes<br></li><li>Formats supported: .x .fbx .dae .3ds .obj .b3d .3d</li></ul><br><i>3D Physics</i><br><ul class=\"bb_ul\"><li>Character controller<br></li><li>Ragdoll<br></li><li>Joints <br></li><li>Rigid Bodies<br></li><li>Contact reports<br></li><li>Raycasts<br></li><li>Physics world commands<br></li><li>Compound collision shapes</li></ul><br><i>2D Graphics</i><br><ul class=\"bb_ul\"><li>Sprites<br></li><li>Particles <br></li><li>Shapes <br></li><li>Text<br></li><li>Fonts<br></li><li>Tweening <br></li><li>Spine support<br></li><li>Blend modes<br></li><li>Image formats: jpeg, png</li></ul><br><i>Physics</i><br><ul class=\"bb_ul\"><li>Box 2D collision</li></ul><br><i>Rendering Control</i><br><ul class=\"bb_ul\"><li>Shaders  <br></li><li>Render to Image</li></ul><br><i>Sounds & Music</i><br><ul class=\"bb_ul\"><li>Play sound files<br></li><li>Play music files<br></li><li>Sound formats: Wav<br></li><li>Music formats: Mp3, Ogg, M4a<br></li><li>Blending Sounds<br></li><li>Change sound pitch and balance</li></ul><br><i>User Input</i><br><ul class=\"bb_ul\"><li>Mouse<br></li><li>Multi Touch<br></li><li>Controller support<br></li><li>Joystick/Virtual Joystick<br></li><li>Keyboard<br></li><li>Edit box<br></li><li>Buttons</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325180/extras/954768d09f28906a6f6769be425f0a1e.avif?t=1717089765\" width=600 height=120 /></span><br><br><i>Misc</i><br><ul class=\"bb_ul\"><li>Video playback<br></li><li>Screen Video Recording (iOS & Android)<br></li><li>Network (broadcasting, messages, shared variables)<br></li><li>File I/O<br></li><li>Shared variables<br></li><li>HTTP<br></li><li>Memblocks<br></li><li>Sensors<br></li><li>GPS<br></li><li>Social feeds - Facebook & Twitter (iOS & Android)<br></li><li>Adverts<br></li><li>Firebase support<br></li><li>JSON support<br></li><li>In-app purchase (iOS & Android)<br></li><li>Game Centre (iOS & Android)<br></li><li>Notifications (iOS)<br></li><li>Rate this app (iOS)<br></li><li>Time & Date<br></li><li>Camera access<br></li><li>QR codes<br></li><li>Zip archiving<br></li><li>Extensive Help & tutorials</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325180/extras/4c525241cffd3d64aeea733e83706947.avif?t=1717089765\" width=600 height=120 /></span>",
-  "about_the_game": "AppGameKit Classic is a powerful game development engine, ideal for Beginners, Hobbyists & Indie developers. Now anyone can quickly code and build apps for multiple platforms using AppGameKit's BASIC scripting system. With just a few commands you can have demos/games up and running on mobile devices. Bob Duffy, Developer Relations Intel Corporation, said <i>“AppGameKit is a great cross platform development tool. It allows developers to quickly optimize and compile apps.”</i><br><br>Games can be developed and deployed to your chosen mobile devices for rapid prototyping. AppGameKit Classic does all the heavy lifting for you - making it easy to code, compile and then export apps to each platform. All you need to focus on is your game/app idea. It's that simple!<h2 class=\"bb_tag\" >NEW!</h2>The <strong>Visual Editor </strong>is the perfect DLC to accompany AppGameKit<br><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325180/extras/fef87cf16b05b6fa80726255a517bf31.avif?t=1717089765\" width=600 height=120 /></span><br>AppGameKit Classic also caters for more seasoned developers, allowing you to use the AppGameKit C++ libraries and benefit from all the features of AppGameKit's core game engine. Two great examples of this are the games 1982 and Echoes+ developed by Binary Zoo and both are FREE to download on STEAM;<h2 class=\"bb_tag\" >Features</h2><br><strong>Platforms</strong><br>You can create games with AppGameKit Classic on Windows, Mac or Linux devices. The games you make with it can then be exported to run on;<br><ul class=\"bb_ul\"><li>Windows<br></li><li>Mac<br></li><li>Linux<br></li><li>iOS<br></li><li>Android (inc Google, Amazon & Ouya)<br></li><li>HTML5<br></li><li>Raspberry Pi (free from TGC website)</li></ul><br><strong>AppGameKit Classic IDE</strong><br><ul class=\"bb_ul\"><li>Cross platform Geany editor<br></li><li>IntelliSense<br></li><li>Code folding<br></li><li>Colour schemes<br></li><li>Edit multiple projects<br></li><li>Fast Compiler<br></li><li>Full de-bugger<br></li><li>Broadcast direct to device<br></li><li>Export to exe, app, ipa, apk</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325180/extras/a7345e4f6c994be6ce19f34194b29d3b.avif?t=1717089765\" width=600 height=120 /></span><br><br><strong>Commands</strong><br>AppGameKit Classic has commands for all the important areas of game creation. These can all be called as BASIC commands or as library calls in C++ and XCode.<br><br><i>3D Graphics</i><br><ul class=\"bb_ul\"><li>3D Primitives<br></li><li>3D Bone Animations<br></li><li>Shaders<br></li><li>Lighting<br></li><li>Ray Casting<br></li><li>Camera controls<br></li><li>Meshes<br></li><li>Formats supported: .x .fbx .dae .3ds .obj .b3d .3d</li></ul><br><i>3D Physics</i><br><ul class=\"bb_ul\"><li>Character controller<br></li><li>Ragdoll<br></li><li>Joints <br></li><li>Rigid Bodies<br></li><li>Contact reports<br></li><li>Raycasts<br></li><li>Physics world commands<br></li><li>Compound collision shapes</li></ul><br><i>2D Graphics</i><br><ul class=\"bb_ul\"><li>Sprites<br></li><li>Particles <br></li><li>Shapes <br></li><li>Text<br></li><li>Fonts<br></li><li>Tweening <br></li><li>Spine support<br></li><li>Blend modes<br></li><li>Image formats: jpeg, png</li></ul><br><i>Physics</i><br><ul class=\"bb_ul\"><li>Box 2D collision</li></ul><br><i>Rendering Control</i><br><ul class=\"bb_ul\"><li>Shaders  <br></li><li>Render to Image</li></ul><br><i>Sounds & Music</i><br><ul class=\"bb_ul\"><li>Play sound files<br></li><li>Play music files<br></li><li>Sound formats: Wav<br></li><li>Music formats: Mp3, Ogg, M4a<br></li><li>Blending Sounds<br></li><li>Change sound pitch and balance</li></ul><br><i>User Input</i><br><ul class=\"bb_ul\"><li>Mouse<br></li><li>Multi Touch<br></li><li>Controller support<br></li><li>Joystick/Virtual Joystick<br></li><li>Keyboard<br></li><li>Edit box<br></li><li>Buttons</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325180/extras/954768d09f28906a6f6769be425f0a1e.avif?t=1717089765\" width=600 height=120 /></span><br><br><i>Misc</i><br><ul class=\"bb_ul\"><li>Video playback<br></li><li>Screen Video Recording (iOS & Android)<br></li><li>Network (broadcasting, messages, shared variables)<br></li><li>File I/O<br></li><li>Shared variables<br></li><li>HTTP<br></li><li>Memblocks<br></li><li>Sensors<br></li><li>GPS<br></li><li>Social feeds - Facebook & Twitter (iOS & Android)<br></li><li>Adverts<br></li><li>Firebase support<br></li><li>JSON support<br></li><li>In-app purchase (iOS & Android)<br></li><li>Game Centre (iOS & Android)<br></li><li>Notifications (iOS)<br></li><li>Rate this app (iOS)<br></li><li>Time & Date<br></li><li>Camera access<br></li><li>QR codes<br></li><li>Zip archiving<br></li><li>Extensive Help & tutorials</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/325180/extras/4c525241cffd3d64aeea733e83706947.avif?t=1717089765\" width=600 height=120 /></span>",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Workshop"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 200,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 32.800000000000004,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 656,
-  "review_positive": 544,
+  "review_positive": 0,
   "review_percentage": 82.9,
   "owner_estimate": 35000,
-  "ccu_estimate": 1,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 31,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 654,
-      "review_percentage": 82.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 658,
-      "review_percentage": 82.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
+      "date": "2026-04-04",
       "review_count": 656,
       "review_percentage": 82.9,
-      "ccu_estimate": 1,
+      "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

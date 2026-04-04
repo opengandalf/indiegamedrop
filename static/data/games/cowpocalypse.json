@@ -3,8 +3,8 @@
   "name": "Cowpocalypse",
   "slug": "cowpocalypse",
   "developer": "Baobeld",
-  "publisher": "Baobeld",
-  "release_date": "Nov 25, 2023",
+  "publisher": "",
+  "release_date": "2023-11-25",
   "price_usd": 1.99,
   "genres": [
     "Casual",
@@ -19,34 +19,15 @@
   ],
   "short_description": "An arcade style game, abduct cows to increase your score!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2648600/header.jpg?t=1700967178",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2648600/ss_f443c516f8311b0c497981647d533cd7085bc7c2.600x338.jpg?t=1700967178",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2648600/ss_6745450badd37a999963ac9230542726797bf928.600x338.jpg?t=1700967178",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2648600/ss_36daca9ebd6b1b61446b24b5e731fd54a627e89a.600x338.jpg?t=1700967178",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2648600/ss_b3b58ff1f54bc69ed9f2f4652b5429e5df3da6a9.600x338.jpg?t=1700967178",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2648600/ss_de624e02b0815696faecf364b79e3217a6da9dff.600x338.jpg?t=1700967178"
-  ],
-  "detailed_description": "You have been sent to Earth to abduct cows for reasons beyond human comprehension. Abduct cows to increase your score but beware of angry farmers! They don't appreciate you taking their cattle...",
-  "about_the_game": "You have been sent to Earth to abduct cows for reasons beyond human comprehension. Abduct cows to increase your score but beware of angry farmers! They don't appreciate you taking their cattle...",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Stats",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 4,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

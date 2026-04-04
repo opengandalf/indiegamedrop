@@ -3,8 +3,8 @@
   "name": "Assassin's Belief",
   "slug": "assassins-belief",
   "developer": "Assassin's Belief",
-  "publisher": "Assassin's Belief",
-  "release_date": "Apr 22, 2024",
+  "publisher": "",
+  "release_date": "2024-04-22",
   "price_usd": 24.99,
   "genres": [
     "Racing",
@@ -21,30 +21,13 @@
   ],
   "short_description": "This is an interesting balloon game where balloons appear randomly from the edge below the stage and disappear when they rise to the edge above the stage.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918730/header.jpg?t=1713792162",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918730/ss_decd8bb9c3409c062766f6e75ca121bcaa3f679d.600x338.jpg?t=1713792162",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918730/ss_e2e60ad48f0df9af13fdc315d23d4201df129711.600x338.jpg?t=1713792162",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918730/ss_a3eb9722d5884f2315ac23740bc53be4decf1e85.600x338.jpg?t=1713792162",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918730/ss_4dbf3a2afd652ac87b88544e8c8a85bcbf41cd83.600x338.jpg?t=1713792162",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918730/ss_c48257f9cac73c685bb534239d697c208178a79f.600x338.jpg?t=1713792162"
-  ],
-  "detailed_description": "This is an interesting balloon game where balloons appear randomly from the edge below the stage and disappear when they rise to the edge above the stage. Clicking on the balloon during the ascent process will earn the corresponding score on the balloon. The gameplay is super simple, players can quickly click on the balloon with the mouse. Note that you only have 15 seconds, and this game is a great test of players' eye and hand skills. Come and try if you are the most agile player!",
-  "about_the_game": "This is an interesting balloon game where balloons appear randomly from the edge below the stage and disappear when they rise to the edge above the stage. Clicking on the balloon during the ascent process will earn the corresponding score on the balloon. The gameplay is super simple, players can quickly click on the balloon with the mouse. Note that you only have 15 seconds, and this game is a great test of players' eye and hand skills. Come and try if you are the most agile player!",
-  "supported_languages": "Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -54,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

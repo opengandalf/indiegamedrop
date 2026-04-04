@@ -3,8 +3,8 @@
   "name": "Alien Destroyer",
   "slug": "alien-destroyer",
   "developer": "RandomSpin",
-  "publisher": "RandomSpin",
-  "release_date": "Jul 30, 2021",
+  "publisher": "",
+  "release_date": "2021-07-30",
   "price_usd": 0.49,
   "genres": [
     "Action"
@@ -17,33 +17,15 @@
   ],
   "short_description": "Alien robots are attacking.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1697420/header.jpg?t=1627628730",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1697420/ss_9204252ef0f5bb4c947a263664f1b28bb688147b.600x338.jpg?t=1627628730",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1697420/ss_b7fe4db69d7eafcdee7197022fe7ea486d631fb3.600x338.jpg?t=1627628730",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1697420/ss_eb77ab9af16f7c77f48443c3e4f3a3dfef88fce0.600x338.jpg?t=1627628730",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1697420/ss_f158db802d8df5730d135cb52c1ab722e9f0f08d.600x338.jpg?t=1627628730",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1697420/ss_428a6b6765431d2c5adb9011e17f6d57ce4b61e0.600x338.jpg?t=1627628730"
-  ],
-  "detailed_description": "Alien robots are attacking. The last piece of land is rapidly collapsing. Destroy all enemies and survive.<br />\r\n-Dynamic shooter.<br />\r\n-Endless ammo.<br />\r\n-The piece of land gets smaller over time.<br />\r\n-Interesting and unique enemies.<br />\r\n-Beautiful 3d graphics.<br />\r\n-Reach the last boss, the black king, and destroy him.",
-  "about_the_game": "Alien robots are attacking. The last piece of land is rapidly collapsing. Destroy all enemies and survive.<br />\r\n-Dynamic shooter.<br />\r\n-Endless ammo.<br />\r\n-The piece of land gets smaller over time.<br />\r\n-Interesting and unique enemies.<br />\r\n-Beautiful 3d graphics.<br />\r\n-Reach the last boss, the black king, and destroy him.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.35,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 27,
-  "review_positive": 13,
+  "review_positive": 0,
   "review_percentage": 48.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 23,
-      "review_percentage": 47.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 27,
       "review_percentage": 48.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

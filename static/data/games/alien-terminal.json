@@ -3,8 +3,8 @@
   "name": "Alien Terminal",
   "slug": "alien-terminal",
   "developer": "Strawberry Game Studios, LLC",
-  "publisher": "Strawberry Game Studios, LLC",
-  "release_date": "Dec 16, 2019",
+  "publisher": "",
+  "release_date": "2019-12-16",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -23,30 +23,15 @@
   ],
   "short_description": "Switch on the alien terminal. Let your computer do the work. Simulation Active. Earn in no currency and perform no currency transactions.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1200280/header.jpg?t=1658964878",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1200280/ss_03205e7597d1f1f5c476375862b15a64232f84e2.600x338.jpg?t=1658964878",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1200280/ss_66c23766dde2f61dea9d76f5a99b694abb763f04.600x338.jpg?t=1658964878",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1200280/ss_20451db4e0f1303ccfa7e57832cb685847e3dd90.600x338.jpg?t=1658964878"
-  ],
-  "detailed_description": "Turn on this alien terminal which is connected to Cyclos by STRO. Earn in game currency accessible on your mobile while your computer does the work.<br />\r\nThis application is intended for fun. <br />\r\n<br />\r\nThis application is connected to Cyclos a core banking software provided by STRO. You require an account with a Cyclos community to use this app.",
-  "about_the_game": "Turn on this alien terminal which is connected to Cyclos by STRO. Earn in game currency accessible on your mobile while your computer does the work.<br />\r\nThis application is intended for fun. <br />\r\n<br />\r\nThis application is connected to Cyclos a core banking software provided by STRO. You require an account with a Cyclos community to use this app.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 4,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

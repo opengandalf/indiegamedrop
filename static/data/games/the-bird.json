@@ -3,8 +3,8 @@
   "name": "The Bird",
   "slug": "the-bird",
   "developer": "Nevsram",
-  "publisher": "Nevsram",
-  "release_date": "Sep 16, 2022",
+  "publisher": "",
+  "release_date": "2022-09-16",
   "price_usd": 1.99,
   "genres": [
     "Simulation"
@@ -17,33 +17,9 @@
   ],
   "short_description": "Spread the wings and fly around in a large tropical Island landscape in this bird simulator.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129600/header.jpg?t=1663314830",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129600/ss_70cf630c314daddacf8e32f0a631be927f36d51c.600x338.jpg?t=1663314830",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129600/ss_014a318e2dd2309d45fddff57b6da7383920bf25.600x338.jpg?t=1663314830",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129600/ss_0d7b67b52ca6db1c08071ff435648e49470a94b3.600x338.jpg?t=1663314830",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129600/ss_9de44b738da427e7ecfd35b06f89887a66ff8682.600x338.jpg?t=1663314830",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129600/ss_abd1c4656add534a3f7f6d93a17b26a65576700b.600x338.jpg?t=1663314830",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2129600/ss_047a6d006bb7ba0d86df8e7f7984e8c963ee6299.600x338.jpg?t=1663314830"
-  ],
-  "detailed_description": "This is a simulation where you control a Parrot with the keyboard. You can walk on the ground, fly in the air and dive into the water. Fly around with the bird and discover different Islands in a large landscape.",
-  "about_the_game": "This is a simulation where you control a Parrot with the keyboard. You can walk on the ground, fly in the air and dive into the water. Fly around with the bird and discover different Islands in a large landscape.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 3,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

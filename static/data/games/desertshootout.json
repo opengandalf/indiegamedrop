@@ -3,8 +3,8 @@
   "name": "DesertShootout",
   "slug": "desertshootout",
   "developer": "MellowStudios",
-  "publisher": "MellowStudios",
-  "release_date": "Feb 28, 2018",
+  "publisher": "",
+  "release_date": "2018-02-28",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -19,60 +19,27 @@
   ],
   "short_description": "A town in the desert filled with bad guys. Buy some guns and take them out.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/802180/header.jpg?t=1692006638",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/802180/ss_bf2a3ed9140b1f5ebc1cc72ea44ad235bbacdc57.600x338.jpg?t=1692006638",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/802180/ss_2aa0b43d38752724a314917ad8c9295eebc68064.600x338.jpg?t=1692006638",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/802180/ss_6e61ae9bb7c9952f6b49fb7efee218f02c346d02.600x338.jpg?t=1692006638",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/802180/ss_39111cfcc05b10194bd5ea3bb911dda126b42e98.600x338.jpg?t=1692006638",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/802180/ss_01ac3b598ed03d3bf3d64f7b40a3e894ab248110.600x338.jpg?t=1692006638",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/802180/ss_fc76210554dbf606457451e19aac2f7fabe6705b.600x338.jpg?t=1692006638"
-  ],
-  "detailed_description": "<h1>Checkout And Wishlist Little Kingdoms</h1><p></p><br><h1>About the Game</h1>GamePlay: A town in the desert filled with bad guys. Buy some guns and take them out.<br><br>Features:<br><br>• Town: A town in the middle of the desert.<br><br>• KillCount: Keeps track of all the enemies killed.<br><br>• Cash: Kill enemies for cash.<br><br>• Enemies: Lots of enemies in town to kill.<br><br>• Time: Keeps track of playtime.<br><br>• Guns: Use cash to buy guns, your need lots of guns!<br><br>• Hardcore: DesertShootout is a is a hardcore fps. No save/lord, no health bar.",
-  "about_the_game": "GamePlay: A town in the desert filled with bad guys. Buy some guns and take them out.<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n• Town: A town in the middle of the desert.<br />\r\n<br />\r\n• KillCount: Keeps track of all the enemies killed.<br />\r\n<br />\r\n• Cash: Kill enemies for cash.<br />\r\n<br />\r\n• Enemies: Lots of enemies in town to kill.<br />\r\n<br />\r\n• Time: Keeps track of playtime.<br />\r\n<br />\r\n• Guns: Use cash to buy guns, your need lots of guns!<br />\r\n<br />\r\n• Hardcore: DesertShootout is a is a hardcore fps. No save/lord, no health bar.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 21,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 14.3,
-  "owner_estimate": 10000,
+  "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 21,
-      "review_percentage": 14.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 21,
-      "review_percentage": 14.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
+      "date": "2026-04-04",
       "review_count": 21,
       "review_percentage": 14.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

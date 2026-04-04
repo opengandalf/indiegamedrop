@@ -3,8 +3,8 @@
   "name": "Seedlings",
   "slug": "seedlings",
   "developer": "Bardsley Creative",
-  "publisher": "Bardsley Creative",
-  "release_date": "Sep 21, 2023",
+  "publisher": "",
+  "release_date": "2023-09-21",
   "price_usd": 2.99,
   "genres": [
     "Adventure",
@@ -21,59 +21,29 @@
     "mac",
     "linux"
   ],
-  "short_description": "An atmospheric 2D puzzle platformer made using real photos and videos from New Zealand's native forest. Become a seed that can possess different plant creatures with unique abilities. Solve the obstacles in your way to discover the secrets of the Seedlings.",
+  "short_description": "An atmospheric 2D puzzle platformer made using real photos and videos from New Zealand's native forest. Become a seed that can possess different plant creatures with unique abilities. Solve the obstac",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575510/header.jpg?t=1758670490",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575510/ss_4d5c27a98d2ae0315e887cf9a283beb6bcaf9d35.600x338.jpg?t=1758670490",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575510/ss_a59f3e329a7ea6bc1bd3398024b7bb9a91c0d527.600x338.jpg?t=1758670490",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575510/ss_f305737ce5f25d4b6f4044f234a6f9e0196ad970.600x338.jpg?t=1758670490",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575510/ss_60772d2d10bc6d99089f017fcdfbde1e9852004a.600x338.jpg?t=1758670490",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575510/ss_6ffd2a3e5b23dbb9af6bedead5d8d26ac9fc0f15.600x338.jpg?t=1758670490",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575510/ss_846b4c8e42f90c21b72820a9552857c5426977e9.600x338.jpg?t=1758670490"
-  ],
-  "detailed_description": "In a New Zealand forest, sentient seeds have started to appear. Play as a seed and control different plant creatures with unique abilities. Solve puzzles to work your way through the forest while humanity tries to understand the situation.<br><br>A 2D puzzle platformer set in the tranquil backdrop of New Zealand's native forest using real photos and videos.<h2 class=\"bb_tag\" >Features</h2><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575510/extras/44219fc2f3296bbcba882abb56229551.poster.avif?t=1758670490\" width=600 height=350 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575510/extras/44219fc2f3296bbcba882abb56229551.webm?t=1758670490\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575510/extras/44219fc2f3296bbcba882abb56229551.mp4?t=1758670490\" type=\"video/mp4\"></video></span> <br><br><ul class=\"bb_ul\"><li> Take control of several unique creatures, each with their own abilities.<br></li><li> Solve intriguing puzzles through beautifully hand crafted levels.<br></li><li> Collect hidden secrets strewn across the photo-realistic environment.<br></li><li> Relax with the beautiful ambient soundtracks and nature sounds.<br></li><li> Learn more about the origins of the Seedlings through a narrative driven story.</li></ul><br>Made in Godot Game engine.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575510/extras/fde678e9db3b826460e5c31fb9186b86.avif?t=1758670490\" width=600 height=400 /></span><br><br>Are you ready to be one of the Seedlings?",
-  "about_the_game": "In a New Zealand forest, sentient seeds have started to appear. Play as a seed and control different plant creatures with unique abilities. Solve puzzles to work your way through the forest while humanity tries to understand the situation.<br><br>A 2D puzzle platformer set in the tranquil backdrop of New Zealand's native forest using real photos and videos.<h2 class=\"bb_tag\" >Features</h2><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575510/extras/44219fc2f3296bbcba882abb56229551.poster.avif?t=1758670490\" width=600 height=350 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575510/extras/44219fc2f3296bbcba882abb56229551.webm?t=1758670490\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575510/extras/44219fc2f3296bbcba882abb56229551.mp4?t=1758670490\" type=\"video/mp4\"></video></span> <br><br><ul class=\"bb_ul\"><li> Take control of several unique creatures, each with their own abilities.<br></li><li> Solve intriguing puzzles through beautifully hand crafted levels.<br></li><li> Collect hidden secrets strewn across the photo-realistic environment.<br></li><li> Relax with the beautiful ambient soundtracks and nature sounds.<br></li><li> Learn more about the origins of the Seedlings through a narrative driven story.</li></ul><br>Made in Godot Game engine.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1575510/extras/fde678e9db3b826460e5c31fb9186b86.avif?t=1758670490\" width=600 height=400 /></span><br><br>Are you ready to be one of the Seedlings?",
-  "supported_languages": "English<strong>*</strong>, Simplified Chinese, German, Spanish - Spain, Traditional Chinese, Japanese, Italian, Polish, Russian, Swedish<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0016,
   "gem_score": 0.7742,
   "hype_score": 0.0,
-  "review_velocity_7d": 23.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 81,
-  "review_positive": 80,
+  "review_positive": 0,
   "review_percentage": 98.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 58,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 81,
       "review_percentage": 98.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Box: Boxing",
   "slug": "box-boxing",
   "developer": "John's Project",
-  "publisher": "John's Project",
-  "release_date": "Apr 11, 2020",
+  "publisher": "",
+  "release_date": "2020-04-11",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -19,39 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Box:Boxing is a multiplayer virtual reality boxing game with action filled gameplay and unique graphics. Fight against the CPU or others players in the craziest scenarios you've ever seen and become the champion of the Box:Boxing world!",
+  "short_description": "Box:Boxing is a multiplayer virtual reality boxing game with action filled gameplay and unique graphics. Fight against the CPU or others players in the craziest scenarios you've ever seen and become t",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1251430/header.jpg?t=1678988123",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1251430/ss_1e0dc378e12884a3210766273b9c9ec17101df61.600x338.jpg?t=1678988123",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1251430/ss_c98b45febc63784473fb0e6bf6037b539b6a90d9.600x338.jpg?t=1678988123",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1251430/ss_2461074038c9ccd4810b64e3cbd150d326290fa0.600x338.jpg?t=1678988123",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1251430/ss_55c1f71bc7cce65cfc0fa331649b3f97bf9b8255.600x338.jpg?t=1678988123",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1251430/ss_2f96a42aa5bb3a2777f2a2613d5e998431f43843.600x338.jpg?t=1678988123"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Join the community!</h2><br><br>Box:Boxing is a multiplayer virtual reality boxing game with action filled gameplay and unique graphics.<br><br>Fight against the CPU or others players in the craziest scenarios you've ever seen and become the loser or the champion!<br><br>It has a single player and a multiplayer mode, as well as a training mode with a boxing bag where you can get stronger and become the champion of the Box:Boxing world!",
-  "about_the_game": "<h2 class=\"bb_tag\" >Join the community!</h2><br><br>Box:Boxing is a multiplayer virtual reality boxing game with action filled gameplay and unique graphics.<br><br>Fight against the CPU or others players in the craziest scenarios you've ever seen and become the loser or the champion!<br><br>It has a single player and a multiplayer mode, as well as a training mode with a boxing bag where you can get stronger and become the champion of the Box:Boxing world!",
-  "supported_languages": "English, French, German, Spanish - Spain, Japanese, Portuguese - Portugal, Russian, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.6000000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 12,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 12,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 12,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

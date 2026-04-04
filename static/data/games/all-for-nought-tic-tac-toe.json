@@ -3,8 +3,8 @@
   "name": "All For Nought - Tic Tac Toe",
   "slug": "all-for-nought-tic-tac-toe",
   "developer": "CarloCGC",
-  "publisher": "CarloCGC",
-  "release_date": "Sep 3, 2020",
+  "publisher": "",
+  "release_date": "2020-09-03",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -21,43 +21,15 @@
   ],
   "short_description": "Classic Tic Tac Toe / Noughts & Crosses game with a minimalist style.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1396490/header.jpg?t=1599137270",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1396490/ss_ed6895a5d15362a48d008d04d5e64b8acb81eda1.600x338.jpg?t=1599137270",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1396490/ss_94e22de318ee3663cd64946dd5806dad93329a6f.600x338.jpg?t=1599137270",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1396490/ss_99aedef617639e08a58adc2f28d1047246620f7b.600x338.jpg?t=1599137270",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1396490/ss_541a36c36fe7675839d9dd15aabdb805255bfa59.600x338.jpg?t=1599137270",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1396490/ss_ba1de50e863f6a2f238cccb27084dc918b5fc6c2.600x338.jpg?t=1599137270",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1396490/ss_038bad3d6fa5ff07f8d3fdadc885036dcba0995b.600x338.jpg?t=1599137270",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1396490/ss_36751162ba7b68097a03d5de65fb1e9530106bdf.600x338.jpg?t=1599137270",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1396490/ss_fcd599840072934525246b4403c7494d3a6a9888.600x338.jpg?t=1599137270",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1396490/ss_d0ecf289f98863d4c1f7a1ac6071e04561024648.600x338.jpg?t=1599137270",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1396490/ss_5ed99962343d3d5df852a209f081e6d734c06eae.600x338.jpg?t=1599137270",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1396490/ss_f340550a2e7922177212c45e86da370b82c8d5ae.600x338.jpg?t=1599137270"
-  ],
-  "detailed_description": "Classic Tic Tac Toe / Noughts & Crosses game with a minimalist style<h2 class=\"bb_tag\" >Features:</h2><br><ul class=\"bb_ul\"><li> 4 Single Player Difficulty Levels<br></li><li> 2 Player Local Versus Mode<br></li><li> 2 Player Network Versus Mode<br></li><li> CPU vs CPU Simulation Mode</li></ul>",
-  "about_the_game": "Classic Tic Tac Toe / Noughts & Crosses game with a minimalist style<h2 class=\"bb_tag\" >Features:</h2><br><ul class=\"bb_ul\"><li> 4 Single Player Difficulty Levels<br></li><li> 2 Player Local Versus Mode<br></li><li> 2 Player Network Versus Mode<br></li><li> CPU vs CPU Simulation Mode</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Shared/Split Screen PvP",
-    "Shared/Split Screen",
-    "Remote Play Together"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 3.35,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 67,
-  "review_positive": 58,
+  "review_positive": 0,
   "review_percentage": 86.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -65,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 63,
-      "review_percentage": 85.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 67,
       "review_percentage": 86.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

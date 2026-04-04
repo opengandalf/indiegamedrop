@@ -3,8 +3,8 @@
   "name": "EPIC ROGUE",
   "slug": "epic-rogue",
   "developer": "Archor Wright",
-  "publisher": "Archor Games",
-  "release_date": "Jan 23, 2024",
+  "publisher": "",
+  "release_date": "2024-01-23",
   "price_usd": 0.69,
   "genres": [
     "Casual"
@@ -17,34 +17,13 @@
   ],
   "short_description": "EPIC ROGUE - a Roguelike-ish Inspired Game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772920/header.jpg?t=1706013554",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772920/ss_8df051948c7d2cd27440a578f2a2e1b07829786d.600x338.jpg?t=1706013554",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772920/ss_4f12df34617f22547b1ff2a819d036f67ecd32d1.600x338.jpg?t=1706013554",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772920/ss_2a1eb3c19e437a610a71e671864fe7c876480702.600x338.jpg?t=1706013554",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772920/ss_128708b7e16032f0e4b66af79bc49e31feeade12.600x338.jpg?t=1706013554",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772920/ss_bc662ffd21339bcd0cee02b57d2066284f1754af.600x338.jpg?t=1706013554",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772920/ss_26f322c2d67af4965e8445f59a060dba0033d9ea.600x338.jpg?t=1706013554",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772920/ss_802ceff5bf4baf16223bfb2203902c3978b823a8.600x338.jpg?t=1706013554",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2772920/ss_f68d3778c796be3a832e0a5ff3875dd3f3ffdea4.600x338.jpg?t=1706013554"
-  ],
-  "detailed_description": "EPIC ROGUE<br />\r\n<br />\r\nThis is a Roguelike-ish Inspired Game.<br />\r\nWith a robust ability system, level up system, and spawning system.<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\nDynamic gameplay experience<br />\r\nActive and Passive abilities<br />\r\nAbility evolution system<br />\r\nSpawning System<br />\r\nLevel up system<br />\r\nChest/Stash Pick up System<br />\r\nMain Menu system<br />\r\nVast Map<br />\r\nLots and Lots of Enemy Spawns",
-  "about_the_game": "EPIC ROGUE<br />\r\n<br />\r\nThis is a Roguelike-ish Inspired Game.<br />\r\nWith a robust ability system, level up system, and spawning system.<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\nDynamic gameplay experience<br />\r\nActive and Passive abilities<br />\r\nAbility evolution system<br />\r\nSpawning System<br />\r\nLevel up system<br />\r\nChest/Stash Pick up System<br />\r\nMain Menu system<br />\r\nVast Map<br />\r\nLots and Lots of Enemy Spawns",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.30000000000000004,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 6,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -54,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

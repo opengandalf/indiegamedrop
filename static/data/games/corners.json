@@ -3,8 +3,8 @@
   "name": "Corners",
   "slug": "corners",
   "developer": "LAS Team",
-  "publisher": "LAS Team",
-  "release_date": "Nov 25, 2020",
+  "publisher": "",
+  "release_date": "2020-11-25",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -25,37 +25,15 @@
   ],
   "short_description": "A logic game for two or four players. The goal is to get all the balls home faster than other players. Play with friends or with a computer opponent.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1309280/header.jpg?t=1606373131",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1309280/ss_bc8486500784f21ca018959c6307e443470c2694.600x338.jpg?t=1606373131",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1309280/ss_da539d3411e2a0c8f743fab188f96f214247faca.600x338.jpg?t=1606373131",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1309280/ss_95fb4610d35b38caa688d01b230fb213a37cd013.600x338.jpg?t=1606373131",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1309280/ss_032873351d2e46984d7ac90063c7fecbf209a466.600x338.jpg?t=1606373131",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1309280/ss_dd505e1212ca3a70d5d093226358a74acf92eac0.600x338.jpg?t=1606373131",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1309280/ss_5915f06f3f160a36e209c0b188a5841d6da44881.600x338.jpg?t=1606373131"
-  ],
-  "detailed_description": "A logic game for two or four players. Each player has 9 balls. The goal is to get all the balls home faster than other players.<br />\r\nYou can make a move either by moving the ball to a neighboring cell in any direction, or by jumping an unlimited number of balls, both your own and others', each time jumping through one ball to an empty cell. There are two types of games: diagonal and classic. In diagonal, you can jump and move horizontally, vertically, and diagonally. In the classic version, there is no possibility of a diagonal move.<br />\r\nYou can play with friends on the same computer or against computer rivals.",
-  "about_the_game": "A logic game for two or four players. Each player has 9 balls. The goal is to get all the balls home faster than other players.<br />\r\nYou can make a move either by moving the ball to a neighboring cell in any direction, or by jumping an unlimited number of balls, both your own and others', each time jumping through one ball to an empty cell. There are two types of games: diagonal and classic. In diagonal, you can jump and move horizontally, vertically, and diagonally. In the classic version, there is no possibility of a diagonal move.<br />\r\nYou can play with friends on the same computer or against computer rivals.",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Russian, Turkish, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Shared/Split Screen",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.8,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 16,
-  "review_positive": 15,
+  "review_positive": 0,
   "review_percentage": 93.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -63,19 +41,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 16,
-      "review_percentage": 93.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 16,
       "review_percentage": 93.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

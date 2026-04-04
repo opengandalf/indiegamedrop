@@ -3,8 +3,8 @@
   "name": "Europa One",
   "slug": "europa-one",
   "developer": "Wicked Rooster",
-  "publisher": "Wicked Rooster",
-  "release_date": "Aug 15, 2023",
+  "publisher": "",
+  "release_date": "2023-08-15",
   "price_usd": 7.99,
   "genres": [
     "Adventure",
@@ -21,33 +21,15 @@
   ],
   "short_description": "Explore the ice-encrusted ocean of Jupiter's moon Europa.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436160/header.jpg?t=1692144084",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436160/ss_49d8b216b2126bd2bc0997257472cd3c6d596288.600x338.jpg?t=1692144084",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436160/ss_d8025ed291d29abe4035eadb8ad84f33bc2cb30d.600x338.jpg?t=1692144084",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436160/ss_b8ff38850cb2513eea049dd7f8c48e7ec2df6509.600x338.jpg?t=1692144084",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436160/ss_cb66ebd808e3c2cfa40601ec5f77aa44bcc3aab5.600x338.jpg?t=1692144084",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436160/ss_d9950d6f7836f6c62f3d39b792e28cd1a58fdd88.600x338.jpg?t=1692144084",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436160/ss_4271b51cc2984fbc3519e0c6cfaccf255f92315d.600x338.jpg?t=1692144084"
-  ],
-  "detailed_description": "Pilot a submarine as you search for and document various species on Europa.<br><br><strong>Gameplay:</strong><br><ul class=\"bb_ul\"><li>Collect at least 45 seconds of footage for each species as indicated by a progress bar<br></li><li>Travel towards disturbances detected by your submarine to aid in species discovery<br></li><li>Vigilance is required as the low light conditions force you to rely on your relatively narrow spot light</li></ul><br><strong>Features:</strong><br><ul class=\"bb_ul\"><li>Predator and prey relationships between certain species<br></li><li>6-axis submarine controls via keyboard input<br></li><li>20 unique species to discover<br></li><li>Onboard disturbance sensor<br></li><li>Unique sound design<br></li><li>Creatures designed with scientific accuracy in mind<br></li><li>Intuitive UI displaying all relevant progress and navigation information</li></ul>",
-  "about_the_game": "Pilot a submarine as you search for and document various species on Europa.<br><br><strong>Gameplay:</strong><br><ul class=\"bb_ul\"><li>Collect at least 45 seconds of footage for each species as indicated by a progress bar<br></li><li>Travel towards disturbances detected by your submarine to aid in species discovery<br></li><li>Vigilance is required as the low light conditions force you to rely on your relatively narrow spot light</li></ul><br><strong>Features:</strong><br><ul class=\"bb_ul\"><li>Predator and prey relationships between certain species<br></li><li>6-axis submarine controls via keyboard input<br></li><li>20 unique species to discover<br></li><li>Onboard disturbance sensor<br></li><li>Unique sound design<br></li><li>Creatures designed with scientific accuracy in mind<br></li><li>Intuitive UI displaying all relevant progress and navigation information</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 5.0,
+  "review_velocity_7d": 0.7000000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 14,
-  "review_positive": 14,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 14,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

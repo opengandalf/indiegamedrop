@@ -3,8 +3,8 @@
   "name": "Termalloc",
   "slug": "termalloc",
   "developer": "Detch",
-  "publisher": "Detch",
-  "release_date": "Aug 17, 2022",
+  "publisher": "",
+  "release_date": "2022-08-17",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -21,31 +21,9 @@
   ],
   "short_description": "Connect terminals to the server. Guards are coming. Keep yourself safe.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104450/header.jpg?t=1709840504",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104450/ss_f2062a49572a14dfcd969b2c017f14d846feabb0.600x338.jpg?t=1709840504",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104450/ss_60befc6fc73532293951585a2f10d042ccbeb8c0.600x338.jpg?t=1709840504",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104450/ss_99fd5dcc2727d7e42a24224ef181fedf3d739c08.600x338.jpg?t=1709840504",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104450/ss_0c80c448e6c8e55ff99f3274b48db1b34acb0983.600x338.jpg?t=1709840504",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2104450/ss_8bed60f0ea462c3fc86a90a00cecb6334748dc90.600x338.jpg?t=1709840504"
-  ],
-  "detailed_description": "Termalloc is a top-down 3D shooting game. You can move forward/backward and left/right, but you can not jump.<br />\r\n<br />\r\nThere are 22 pentagon-pillar-like terminals in the field, and your mission is connect all of them to the server.<br />\r\nWhile connecting, terminals turn yellow, and green if connection is complete.<br />\r\n<br />\r\nGuards are coming to stop you. Shoot them to keep yourself safe.<br />\r\nGuards get faster every time, and more and more are coming.<br />\r\nGuards sometimes drop a coin which you can pick up and buy upgrades.",
-  "about_the_game": "Termalloc is a top-down 3D shooting game. You can move forward/backward and left/right, but you can not jump.<br />\r\n<br />\r\nThere are 22 pentagon-pillar-like terminals in the field, and your mission is connect all of them to the server.<br />\r\nWhile connecting, terminals turn yellow, and green if connection is complete.<br />\r\n<br />\r\nGuards are coming to stop you. Shoot them to keep yourself safe.<br />\r\nGuards get faster every time, and more and more are coming.<br />\r\nGuards sometimes drop a coin which you can pick up and buy upgrades.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 6,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 80.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "RoboHunters",
   "slug": "robohunters",
   "developer": "HomeTeam GameDev",
-  "publisher": "Furtive Games",
-  "release_date": "Sep 15, 2023",
+  "publisher": "",
+  "release_date": "2023-09-15",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -21,31 +21,9 @@
   ],
   "short_description": "Top-down 3D action shooter. Fight against swarms of rogue AI machines and survive as long as you can!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2339970/header.jpg?t=1694832583",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2339970/ss_302e0ec0db7e9c704db509626106816270299000.600x338.jpg?t=1694832583",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2339970/ss_bf29d01a4dd02821dd68c3dca27b9fbc0e21b41b.600x338.jpg?t=1694832583",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2339970/ss_e188495d0cac1112571d4f6cf6eaa0f36c57a94e.600x338.jpg?t=1694832583",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2339970/ss_9c3a0b7ef0214fc48c8451e44f129c8978cf43bd.600x338.jpg?t=1694832583",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2339970/ss_23126146e17702cafc941e5b072f4000165af2f1.600x338.jpg?t=1694832583"
-  ],
-  "detailed_description": "RoboHunters is a fast-paced top down action shooter. Destroy swarms of rogue machines, level up, and fight the Robo Sentry boss!<br><br>As you level up, your characer will gain new abilities such as Napalm Boots, Gravity Vortex, and the Destroyer Disc! Leveling up the same ability more than once will increase its power.<h2 class=\"bb_tag\" >How to Play</h2>This game plays best with a mouse and keyboard.<br><br>Move your character with WASD, and use the mouse to aim. Abilities can be triggered with Left mouse click, Right mouse click, and 1-4 on your keyboard.<br><br>Controller support is limited to in-game play. Menus do not yet all work with the controller.<br><br>Move with the left stick, aim with the right. Left bumper, right bumper, and the 4 gamepad buttons will activate your abilities<h2 class=\"bb_tag\" >Game credits</h2>Made as a collaborate project for HomeTeam GameDev.<br><br><strong>Tyler Funk</strong><br><br>Project lead, core gameplay, enemy and boss AI, player movement, main gameplay UI elements, main menu, health system, sounds (abilities cooldown and laser), particle effect for plasma rifle, turrets, main enemy spawner, enemy damage, trash robot animations and integration, experience pickup model and emissive shader, player level and skill selection, concept art, styled menus, night map, visual effects and sound effects for abilities and environment, gameplay balancing, additional sound cues, level design (including lighting and environment decoration), assorted bug fixes<br><br><strong>Christian Gabbianelli</strong><br><br>Player level up system, timer/cooldown component, internal test map area, bomb ability, bombs explode, pooling optimization, enemy physics improvements, base projectile, disc destroyer ability, simple napalm trail ability, gravity vortex ability, ability screen appears on level up, experience bar setup, loot drop<br><br><strong>Chris Lange</strong><br><br>Napalm boots material and flame trail, napalm damages enemies, auto fire toggle for primary ability, time freezes for boss battle, boss countdown, visual effects (pickup for experience and health, firework, level up, ring around player, floating cross), health booster functionality and model, visual indicator for the enemy range, enemy red light pulse to indicate seeking or angry mode, post-match summary screen, pause menu functionality, kill counter<br><br><strong>Patrick Moffett</strong><br><br>Mail robot (sounds for voice and voice attack, projectile), view zoom control, volume settings, audio channel mixes, health pickup improvements (drop chance adjustment, bounces when spawned), player character firing aim, health drop tuning<br><br><strong>Patrick J Thompson</strong><br><br>UI icons (napalm boots, attack speed, bomb, attack damage, attack speed, tornado, crit damange and chance, weapon piercing, multi-shot, updates for vortex and plasma rifle), napalm boots duration tuning, 7 laser sound variations, ability balancing<br>Megan Frazier<br><br>Audio implementation, sound effects and related integration (player level-up, napalm boots, menu sounds, robot sounds), looping sound fix, health pickup functionality, mailbox bot movement<br><br><strong>Armando Navarrete</strong><br><br>Downtown level, drone enemy with randomized movements and tracking, fade feature, zip line feature<br>Brandon Paul<br><br>Player damage, enemy spawning improvements, sounds (health pickup, metal impact, plasma gun, build turret, robot malfunction)<br><br><strong>Christer \"McFunkypants\" Kaitila</strong><br><br>Environment models (office divider, hydrant, mailbox, picket fence), ten gradient textures<br><br><strong>Justin Chin</strong><br><br>Temporary player invulnerability after damage, recolor signal from recent damage<br><br><strong>Cassidy Noble</strong><br><br>Mailbox robot with animations, officer sentry unit",
-  "about_the_game": "RoboHunters is a fast-paced top down action shooter. Destroy swarms of rogue machines, level up, and fight the Robo Sentry boss!<br><br>As you level up, your characer will gain new abilities such as Napalm Boots, Gravity Vortex, and the Destroyer Disc! Leveling up the same ability more than once will increase its power.<h2 class=\"bb_tag\" >How to Play</h2>This game plays best with a mouse and keyboard.<br><br>Move your character with WASD, and use the mouse to aim. Abilities can be triggered with Left mouse click, Right mouse click, and 1-4 on your keyboard.<br><br>Controller support is limited to in-game play. Menus do not yet all work with the controller.<br><br>Move with the left stick, aim with the right. Left bumper, right bumper, and the 4 gamepad buttons will activate your abilities<h2 class=\"bb_tag\" >Game credits</h2>Made as a collaborate project for HomeTeam GameDev.<br><br><strong>Tyler Funk</strong><br><br>Project lead, core gameplay, enemy and boss AI, player movement, main gameplay UI elements, main menu, health system, sounds (abilities cooldown and laser), particle effect for plasma rifle, turrets, main enemy spawner, enemy damage, trash robot animations and integration, experience pickup model and emissive shader, player level and skill selection, concept art, styled menus, night map, visual effects and sound effects for abilities and environment, gameplay balancing, additional sound cues, level design (including lighting and environment decoration), assorted bug fixes<br><br><strong>Christian Gabbianelli</strong><br><br>Player level up system, timer/cooldown component, internal test map area, bomb ability, bombs explode, pooling optimization, enemy physics improvements, base projectile, disc destroyer ability, simple napalm trail ability, gravity vortex ability, ability screen appears on level up, experience bar setup, loot drop<br><br><strong>Chris Lange</strong><br><br>Napalm boots material and flame trail, napalm damages enemies, auto fire toggle for primary ability, time freezes for boss battle, boss countdown, visual effects (pickup for experience and health, firework, level up, ring around player, floating cross), health booster functionality and model, visual indicator for the enemy range, enemy red light pulse to indicate seeking or angry mode, post-match summary screen, pause menu functionality, kill counter<br><br><strong>Patrick Moffett</strong><br><br>Mail robot (sounds for voice and voice attack, projectile), view zoom control, volume settings, audio channel mixes, health pickup improvements (drop chance adjustment, bounces when spawned), player character firing aim, health drop tuning<br><br><strong>Patrick J Thompson</strong><br><br>UI icons (napalm boots, attack speed, bomb, attack damage, attack speed, tornado, crit damange and chance, weapon piercing, multi-shot, updates for vortex and plasma rifle), napalm boots duration tuning, 7 laser sound variations, ability balancing<br>Megan Frazier<br><br>Audio implementation, sound effects and related integration (player level-up, napalm boots, menu sounds, robot sounds), looping sound fix, health pickup functionality, mailbox bot movement<br><br><strong>Armando Navarrete</strong><br><br>Downtown level, drone enemy with randomized movements and tracking, fade feature, zip line feature<br>Brandon Paul<br><br>Player damage, enemy spawning improvements, sounds (health pickup, metal impact, plasma gun, build turret, robot malfunction)<br><br><strong>Christer \"McFunkypants\" Kaitila</strong><br><br>Environment models (office divider, hydrant, mailbox, picket fence), ten gradient textures<br><br><strong>Justin Chin</strong><br><br>Temporary player invulnerability after damage, recolor signal from recent damage<br><br><strong>Cassidy Noble</strong><br><br>Mailbox robot with animations, officer sentry unit",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 8,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 83.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

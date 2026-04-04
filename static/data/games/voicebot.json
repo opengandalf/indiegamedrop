@@ -3,8 +3,8 @@
   "name": "VoiceBot",
   "slug": "voicebot",
   "developer": "Binary Fortress Software",
-  "publisher": "Binary Fortress Software",
-  "release_date": "Jun 4, 2015",
+  "publisher": "",
+  "release_date": "2015-06-04",
   "price_usd": 9.99,
   "genres": [
     "Utilities"
@@ -15,61 +15,23 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Take command of your games with your voice using VoiceBot! Sending commands to your games and applications is as easy as saying the command out loud. Use your voice to run keyboard shortcuts, click and move your mouse, and even execute complicated macros and scripts.",
+  "short_description": "Take command of your games with your voice using VoiceBot! Sending commands to your games and applications is as easy as saying the command out loud. Use your voice to run keyboard shortcuts, click an",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374400/header.jpg?t=1769106770",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374400/ss_4590e19b84c4d38da254f25ddc9f53df5177a4c6.600x338.jpg?t=1769106770",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374400/ss_38863bad5811105bedd5b8ec7bc26e4712418933.600x338.jpg?t=1769106770",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374400/ss_a5b9c6fa9e2e9fde1f5ea1b89e6a0d767e9bcc55.600x338.jpg?t=1769106770",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374400/ss_ea058ecd64c9f82fe2523a167921e21071aca85b.600x338.jpg?t=1769106770",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374400/ss_099ad560ea5a962de6d585e35927d96911c1b4d2.600x338.jpg?t=1769106770",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374400/ss_5a42e431759c8246b5adcdb0d9d70e5f2616fdbd.600x338.jpg?t=1769106770",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374400/ss_4374c7d2227d9b431e71f658c8f9271c38fd9c3e.600x338.jpg?t=1769106770",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374400/ss_33e4a6a899037af1c68016d33d68745eccc5ad9c.600x338.jpg?t=1769106770"
-  ],
-  "detailed_description": "Take command of your games with your voice using VoiceBot! Sending commands to your games and applications is as easy as saying the command out loud. Use your voice to run keyboard shortcuts, click and move your mouse, and even execute complicated macros and scripts.<h2 class=\"bb_tag\" >Advanced Voice Control</h2>Take control over your favourite games with VoiceBot's advanced voice recognition. Bind voice commands to in-game actions and perform simple or complex actions with a single word.<h2 class=\"bb_tag\" >Full VR Compatibility</h2>Fully compatible with your favourite VR headsets, including the Oculus Rift. Take your VR gaming to the next level of immersion!<h2 class=\"bb_tag\" >Ready-to-Use Game Profiles</h2>Packed with hundreds of premade game profiles ready for you to use. Old games, new games, indie games and big-budget games, VoiceBot has you covered!<h2 class=\"bb_tag\" >Scriptable Game Macros</h2>Create custom game macros to bind to voice commands. Use our simple editor to create basic sequences, or code your own complex scripted macros using the built-in C# code editor. The only limit is your imagination!<h2 class=\"bb_tag\" >Sync Between Computers</h2>Sign-in to your Binary Fortress account and sync your game profiles between your computers automatically.<h2 class=\"bb_tag\" >Share with the Community</h2>Create and share your own custom game profiles with the VoiceBot community. Have a favourite game that doesn't have a profile? Set one up and we'll help you share it with the incredible VoiceBot community so everyone can enjoy it!<h2 class=\"bb_tag\" >Global Macros</h2>Global Macros provide always-on commands, even when a profile is loaded. Commands like 'close window', 'volume up', 'mute', 'lock desktop' and many more. Use the built-in Global Macros or create your own for full control.",
-  "about_the_game": "Take command of your games with your voice using VoiceBot! Sending commands to your games and applications is as easy as saying the command out loud. Use your voice to run keyboard shortcuts, click and move your mouse, and even execute complicated macros and scripts.<h2 class=\"bb_tag\" >Advanced Voice Control</h2>Take control over your favourite games with VoiceBot's advanced voice recognition. Bind voice commands to in-game actions and perform simple or complex actions with a single word.<h2 class=\"bb_tag\" >Full VR Compatibility</h2>Fully compatible with your favourite VR headsets, including the Oculus Rift. Take your VR gaming to the next level of immersion!<h2 class=\"bb_tag\" >Ready-to-Use Game Profiles</h2>Packed with hundreds of premade game profiles ready for you to use. Old games, new games, indie games and big-budget games, VoiceBot has you covered!<h2 class=\"bb_tag\" >Scriptable Game Macros</h2>Create custom game macros to bind to voice commands. Use our simple editor to create basic sequences, or code your own complex scripted macros using the built-in C# code editor. The only limit is your imagination!<h2 class=\"bb_tag\" >Sync Between Computers</h2>Sign-in to your Binary Fortress account and sync your game profiles between your computers automatically.<h2 class=\"bb_tag\" >Share with the Community</h2>Create and share your own custom game profiles with the VoiceBot community. Have a favourite game that doesn't have a profile? Set one up and we'll help you share it with the incredible VoiceBot community so everyone can enjoy it!<h2 class=\"bb_tag\" >Global Macros</h2>Global Macros provide always-on commands, even when a profile is loaded. Commands like 'close window', 'volume up', 'mute', 'lock desktop' and many more. Use the built-in Global Macros or create your own for full control.",
-  "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Danish, Dutch, Hungarian, Korean, Polish, Portuguese - Brazil, Russian, Swedish, Turkish, Japanese<strong>*</strong>, Portuguese - Portugal<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 173,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 248,
-  "review_positive": 161,
+  "review_positive": 0,
   "review_percentage": 64.9,
   "owner_estimate": 35000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 26,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 249,
-      "review_percentage": 64.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 248,
-      "review_percentage": 64.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
+      "date": "2026-04-04",
       "review_count": 248,
       "review_percentage": 64.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

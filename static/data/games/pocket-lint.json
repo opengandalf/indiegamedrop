@@ -3,8 +3,8 @@
   "name": "Pocket Lint",
   "slug": "pocket-lint",
   "developer": "Follow the fun",
-  "publisher": "Follow the fun",
-  "release_date": "Jan 21, 2025",
+  "publisher": "",
+  "release_date": "2025-01-21",
   "price_usd": 2.99,
   "genres": [
     "Casual",
@@ -17,39 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "A deceptively hard little game of deduction. I’m now thinking of a specific combination of pocket items. If I give you hints about what you’ve got wrong, can you guess it in as few guesses as possible?",
+  "short_description": "A deceptively hard little game of deduction. I’m now thinking of a specific combination of pocket items. If I give you hints about what you’ve got wrong, can you guess it in as few guesses as possible",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3433730/header.jpg?t=1769660223",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3433730/ss_2ac343e38f63b84fd03cd16f606bb6106842a2e2.600x338.jpg?t=1769660223",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3433730/ss_57fffb21d6b4df6587443d5be0a2028e9016afa9.600x338.jpg?t=1769660223",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3433730/ss_6b5df3732f40f99a915131dfd39b63715e860e39.600x338.jpg?t=1769660223",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3433730/ss_ce87a59bdd00ad4f97f7bcc5a74598e4ace475bf.600x338.jpg?t=1769660223",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3433730/ss_187127e7e51c4ad3bf2b4a42518c6c2b1779344b.600x338.jpg?t=1769660223",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3433730/ss_cef35512e175e4efc0a93ab135049bece8765eaa.600x338.jpg?t=1769660223",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3433730/ss_6e4cf88dfc921533ccd4948d7d2670b7aac1a0ec.600x338.jpg?t=1769660223",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3433730/ss_3d426dc1af6e771f1c274b31f8edfca440fc5adc.600x338.jpg?t=1769660223",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3433730/ss_cc36c03277b23e9c54c3f19fb2c26f2701d7b1a0.600x338.jpg?t=1769660223"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >A deceptively hard little game of deduction. I’ve emptied my pockets onto the table, and I’m now thinking of a specific combination of those items. Can you guess it in as few guesses as possible?</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >How it plays</h2><p class=\"bb_paragraph\" >Each guess you make, information will be revealed about what you got right. By combining divide-and-conquer, with process-of-elimination, you should be able to quickly figure out the answer. Each round, you'll get a new selection of items to play with and a new colour palette  to keep things interesting.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Your journey</h2><p class=\"bb_paragraph\" >You’ll start in the campaign mode that will introduce you to all the basics at a steady pace, starting from 2 slots all the way up to 6. Once you’ve completed that, it will transition into the endless mode, where you can test yourself forever against procedurally generated levels.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >A deceptively hard little game of deduction. I’ve emptied my pockets onto the table, and I’m now thinking of a specific combination of those items. Can you guess it in as few guesses as possible?</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >How it plays</h2><p class=\"bb_paragraph\" >Each guess you make, information will be revealed about what you got right. By combining divide-and-conquer, with process-of-elimination, you should be able to quickly figure out the answer. Each round, you'll get a new selection of items to play with and a new colour palette  to keep things interesting.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Your journey</h2><p class=\"bb_paragraph\" >You’ll start in the campaign mode that will introduce you to all the basics at a steady pace, starting from 2 slots all the way up to 6. Once you’ve completed that, it will transition into the endless mode, where you can test yourself forever against procedurally generated levels.</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 5.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 8,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

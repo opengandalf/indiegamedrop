@@ -3,8 +3,8 @@
   "name": "Red Eclipse",
   "slug": "red-eclipse",
   "developer": "Quinton Reeves, Lee Salzman, Sławomir Błauciak",
-  "publisher": "Quinton Reeves",
-  "release_date": "Dec 19, 2019",
+  "publisher": "",
+  "release_date": "2019-12-19",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -20,43 +20,17 @@
     "windows",
     "linux"
   ],
-  "short_description": "Building on over 15 years of gameplay design, Red Eclipse continues to focus on fast paced, agile, easily accessible first person shooter gameplay. For creators, the full power of the Tesseract engine is at your fingertips in the included realtime multiplayer editor.",
+  "short_description": "Building on over 15 years of gameplay design, Red Eclipse continues to focus on fast paced, agile, easily accessible first person shooter gameplay. For creators, the full power of the Tesseract engine",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/967460/header.jpg?t=1708836236",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/967460/ss_14873d8586cea19cc43e8e4a90f176929fe0b1d7.600x338.jpg?t=1708836236",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/967460/ss_2f9a84b7ca5fb467cb76fdf19707719eb2d84a4b.600x338.jpg?t=1708836236",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/967460/ss_790730ce35cdace359cb1464dcdd350c96ff8d96.600x338.jpg?t=1708836236",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/967460/ss_46db525a90229bbcf048a09512389bea5ad82804.600x338.jpg?t=1708836236",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/967460/ss_2e9171a35e307846aef3956c1e33e11144f65aec.600x338.jpg?t=1708836236"
-  ],
-  "detailed_description": "<strong>An arena shooter for the modern era; released as free and open source software.</strong><br><br><ul class=\"bb_ul\"><li>No fees, no microtransactions, no lootboxes.<br></li><li>Fast paced, modern first person shooter action with seven unique main weapons.<br></li><li>Built on the permissively licensed, open source Tesseract engine.<br></li><li>Available for Windows and GNU/Linux.<br></li><li>Parkour, impulse boosts, dashing, and other tricks.<br></li><li>A huge amount of mutators and game altering variables.<br></li><li>Create maps with other players in realtime co-op edit.<br></li><li>Over 15 years of active development, and still going!</li></ul><br>Red Eclipse builds on its own legacy of fast-paced unique, impactful gameplay and combines that with the visual capabilities of the superb and modern Tesseract engine to create a game that redefines what a first person shooter is.<br><br>There is absolutely no money whatsoever behind this project, and the entirety of the assets and source code are freely available to copy, modify, and redistribute. The entirety of the game is built on the contributions of volunteers, from the engine (which does not trace its heritage to any commercial studio) to the assets, levels, modes, user interfaces, and maps. We do not recieve lucrative income from selling skins or lootboxes or any microtransactions, and the servers and infrastructure is graciously run and maintained by volunteers.<br><br>This game is built on the Tesseract engine, written by one of our developers, Lee Salzman. Tesseract is a modern, deferred pipeline engine with realtime dynamic lighting, shadows, HDR, screenspace reflection, and dynamic organic model deformation. Tesseract and its predecessors, Cube and Cube 2, are all built from the ground up as open source engines with more permissive licensing than essentially every other 3D engine available. <br><br>In a \"by the people, for the people\" nature, we try to work closely with our community and invite everyone to have their say in order to provide a better overall experience, aiming to create a game environment that is fun and easy to play, while still having elements to master. If you think you might have something to contribute to the game or community, please feel free to talk to us. We maintain a standard of friendly behaviour in our community, so don't be afraid to speak up and have your say in building this game for us all!",
-  "about_the_game": "<strong>An arena shooter for the modern era; released as free and open source software.</strong><br><br><ul class=\"bb_ul\"><li>No fees, no microtransactions, no lootboxes.<br></li><li>Fast paced, modern first person shooter action with seven unique main weapons.<br></li><li>Built on the permissively licensed, open source Tesseract engine.<br></li><li>Available for Windows and GNU/Linux.<br></li><li>Parkour, impulse boosts, dashing, and other tricks.<br></li><li>A huge amount of mutators and game altering variables.<br></li><li>Create maps with other players in realtime co-op edit.<br></li><li>Over 15 years of active development, and still going!</li></ul><br>Red Eclipse builds on its own legacy of fast-paced unique, impactful gameplay and combines that with the visual capabilities of the superb and modern Tesseract engine to create a game that redefines what a first person shooter is.<br><br>There is absolutely no money whatsoever behind this project, and the entirety of the assets and source code are freely available to copy, modify, and redistribute. The entirety of the game is built on the contributions of volunteers, from the engine (which does not trace its heritage to any commercial studio) to the assets, levels, modes, user interfaces, and maps. We do not recieve lucrative income from selling skins or lootboxes or any microtransactions, and the servers and infrastructure is graciously run and maintained by volunteers.<br><br>This game is built on the Tesseract engine, written by one of our developers, Lee Salzman. Tesseract is a modern, deferred pipeline engine with realtime dynamic lighting, shadows, HDR, screenspace reflection, and dynamic organic model deformation. Tesseract and its predecessors, Cube and Cube 2, are all built from the ground up as open source engines with more permissive licensing than essentially every other 3D engine available. <br><br>In a \"by the people, for the people\" nature, we try to work closely with our community and invite everyone to have their say in order to provide a better overall experience, aiming to create a game environment that is fun and easy to play, while still having elements to master. If you think you might have something to contribute to the game or community, please feel free to talk to us. We maintain a standard of friendly behaviour in our community, so don't be afraid to speak up and have your say in building this game for us all!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "LAN PvP",
-    "Co-op",
-    "Online Co-op",
-    "LAN Co-op",
-    "Cross-Platform Multiplayer",
-    "Steam Cloud",
-    "Includes level editor"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 39.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 848,
-  "review_positive": 735,
+  "review_positive": 0,
   "review_percentage": 86.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -64,19 +38,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 809,
-      "review_percentage": 86.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 848,
       "review_percentage": 86.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

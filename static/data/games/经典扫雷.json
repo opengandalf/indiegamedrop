@@ -3,8 +3,8 @@
   "name": "经典扫雷",
   "slug": "经典扫雷",
   "developer": "koyomogi",
-  "publisher": "koyomogi",
-  "release_date": "Oct 17, 2023",
+  "publisher": "",
+  "release_date": "2023-10-17",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -21,32 +21,9 @@
   ],
   "short_description": "This is a classic computer single player casual game that revisits childhood memories and brings back the fun of childhood.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1185270/header.jpg?t=1697536670",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1185270/ss_7703d6641c81c0fecd1e28130335f6fc3b1810ab.600x338.jpg?t=1697536670",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1185270/ss_3d8d8270a78293f9ddfce993628e017ae3afe339.600x338.jpg?t=1697536670",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1185270/ss_84bee528a55d160f2d160f5a6d7ea4afdf18f2f7.600x338.jpg?t=1697536670",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1185270/ss_15c14722b13101edc55bbe63a5463d67bf9bc63b.600x338.jpg?t=1697536670",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1185270/ss_6286a1388985dcc07d612a3b6df1f269ce342e6b.600x338.jpg?t=1697536670"
-  ],
-  "detailed_description": "This is a classic computer single player casual game.<br />\r\n<br />\r\nThe goal of the game is to find all non thunder squares in the shortest possible time based on the numbers that appear when clicking on the squares with the mouse, and avoid stepping on thunder at the same time.<br />\r\n<br />\r\nLeft click on the grid: If it is not a mine and a number appears on the grid, it indicates the number of mines in adjacent grids around it; If the lattice is empty (equivalent to 0), it is possible to recursively open the lattice adjacent to the empty; If unfortunately lightning strikes, the game ends.<br />\r\n<br />\r\nRight click on the grid: marked as a mine (displayed as a small red flag), click again marked as suspected (displayed as??), and click again to unmark. If disable suspected tags is checked in the game menu, two operations can cancel the tags.<br />\r\n<br />\r\nLeft click on the number: The operation is effective when the number of marked mines in adjacent cells is equal to the number in that position, which is equivalent to one left click on all unopened blocks around that number. Clicking is invalid when the mine is not fully marked. If there are mislabeled landmines around the numbers, the game ends.<br />\r\n<br />\r\nOctober 17, 2023<br />\r\n<br />\r\nOfficial version<br />\r\n<br />\r\nMay 5th, 2020<br />\r\n<br />\r\nAdded a hexagonal plate on top of the original square plate<br />\r\n<br />\r\n<br />\r\nOctober 1, 2023<br />\r\n<br />\r\nOfficially launched, adding traditional modes, hexagonal variants, and octagonal plates",
-  "about_the_game": "This is a classic computer single player casual game.<br />\r\n<br />\r\nThe goal of the game is to find all non thunder squares in the shortest possible time based on the numbers that appear when clicking on the squares with the mouse, and avoid stepping on thunder at the same time.<br />\r\n<br />\r\nLeft click on the grid: If it is not a mine and a number appears on the grid, it indicates the number of mines in adjacent grids around it; If the lattice is empty (equivalent to 0), it is possible to recursively open the lattice adjacent to the empty; If unfortunately lightning strikes, the game ends.<br />\r\n<br />\r\nRight click on the grid: marked as a mine (displayed as a small red flag), click again marked as suspected (displayed as??), and click again to unmark. If disable suspected tags is checked in the game menu, two operations can cancel the tags.<br />\r\n<br />\r\nLeft click on the number: The operation is effective when the number of marked mines in adjacent cells is equal to the number in that position, which is equivalent to one left click on all unopened blocks around that number. Clicking is invalid when the mine is not fully marked. If there are mislabeled landmines around the numbers, the game ends.<br />\r\n<br />\r\nOctober 17, 2023<br />\r\n<br />\r\nOfficial version<br />\r\n<br />\r\nMay 5th, 2020<br />\r\n<br />\r\nAdded a hexagonal plate on top of the original square plate<br />\r\n<br />\r\n<br />\r\nOctober 1, 2023<br />\r\n<br />\r\nOfficially launched, adding traditional modes, hexagonal variants, and octagonal plates",
-  "supported_languages": "Simplified Chinese, English, Traditional Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 12,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 25.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 12,
-      "review_percentage": 25.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 12,
       "review_percentage": 25.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

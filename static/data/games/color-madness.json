@@ -3,8 +3,8 @@
   "name": "Color Madness",
   "slug": "color-madness",
   "developer": "Gamesforgames",
-  "publisher": "Gamesforgames",
-  "release_date": "Feb 2, 2025",
+  "publisher": "",
+  "release_date": "2025-02-02",
   "price_usd": 9.99,
   "genres": [
     "Action",
@@ -27,33 +27,15 @@
   ],
   "short_description": "Color Madness is a side-view game where the player controls a cube that loses its eyesight when moving",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3460190/header.jpg?t=1741050556",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3460190/ss_577a746db269fa33793c99a209f987f64e87848b.600x338.jpg?t=1741050556",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3460190/ss_3d482058b94d2db27208282e3e3b61822e0273b1.600x338.jpg?t=1741050556",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3460190/ss_9229759340c6ab72d688cb78e27e6d1ac7ef9900.600x338.jpg?t=1741050556",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3460190/ss_1ef1f5e385f400800b12996fa7e18b748e23389f.600x338.jpg?t=1741050556",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3460190/ss_16de4479145decc8743e002621b035550c18fb1c.600x338.jpg?t=1741050556"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >A little man suffers from a rare cubic disease that takes away his eyesight while moving, now he is trying to return home, but a terrible disaster and an aggressive environment prevent him, will he be able to return back?</p><p class=\"bb_paragraph\" ><strong>Color Madness</strong> is a side-view game where the player controls a cube that loses its eyesight when moving and moves from memory, dodging traps and overcoming various obstacles, jumping on platforms and avoiding collisions with dangerous cubes.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Control:</strong></p><p class=\"bb_paragraph\" >WASD - moving</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Game Features:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Visual style</p></li><li><p class=\"bb_paragraph\" >Multiple locations</p></li><li><p class=\"bb_paragraph\" >High Difficulty</p></li></ul>",
-  "about_the_game": "<p class=\"bb_paragraph\" >A little man suffers from a rare cubic disease that takes away his eyesight while moving, now he is trying to return home, but a terrible disaster and an aggressive environment prevent him, will he be able to return back?</p><p class=\"bb_paragraph\" ><strong>Color Madness</strong> is a side-view game where the player controls a cube that loses its eyesight when moving and moves from memory, dodging traps and overcoming various obstacles, jumping on platforms and avoiding collisions with dangerous cubes.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Control:</strong></p><p class=\"bb_paragraph\" >WASD - moving</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Game Features:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Visual style</p></li><li><p class=\"bb_paragraph\" >Multiple locations</p></li><li><p class=\"bb_paragraph\" >High Difficulty</p></li></ul>",
-  "supported_languages": "English, Russian, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.3,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 26,
-  "review_positive": 20,
+  "review_positive": 0,
   "review_percentage": 76.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -61,19 +43,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 22,
-      "review_percentage": 77.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 26,
       "review_percentage": 76.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

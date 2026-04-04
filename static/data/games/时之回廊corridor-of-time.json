@@ -3,8 +3,8 @@
   "name": "时之回廊/Corridor of time",
   "slug": "时之回廊corridor-of-time",
   "developer": "铸城工作室",
-  "publisher": "英雄互娱",
-  "release_date": "Aug 2, 2019",
+  "publisher": "",
+  "release_date": "2019-08-02",
   "price_usd": 10.99,
   "genres": [
     "Action",
@@ -23,41 +23,9 @@
   ],
   "short_description": "这是一款roguelike玩法和动作系统相结合的地牢游戏，你可以携带两把神兵，在战斗中交替使用，形成错综变化的攻击方式。大量效果各异的道具，丰富你在冒险时的决策和穿戴上的搭配。游戏自备服务器，你将可以和好友共同联机冒险。一个新颖的竞技乱斗模式，与其他玩家在地牢中进行一场生死较量。",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/header.jpg?t=1584949062",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/ss_c7dadcd8410e8d8439a0dfb7da823e1b20473276.600x338.jpg?t=1584949062",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/ss_c9d41afd7f20b06d265b05eb6a2060d6c2fa9b14.600x338.jpg?t=1584949062",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/ss_07a4db5e18ac733310246d526262c0b3c8d5e7fc.600x338.jpg?t=1584949062",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/ss_c14fb245cc0ff9ebaa3e5d1616adc3fcb83e4eb3.600x338.jpg?t=1584949062",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/ss_f4e2a6a55ac52327eddbdbab25d280243636f0ce.600x338.jpg?t=1584949062",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/ss_8a8f4269c14fd4ec69ae5b1205c97c23d0fa4b9c.600x338.jpg?t=1584949062",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/ss_d41abae98da6913ed0cde74178cd79081e557c3f.600x338.jpg?t=1584949062",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/ss_7eba28f6a2aeb78ca093e061f4f03d4e8dd9c398.600x338.jpg?t=1584949062",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/ss_48b3756e9ca85db6b7ba51dc1ccf20f557584deb.600x338.jpg?t=1584949062",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/ss_4bb014ea7176bf559e108b606e5b8a98ea008e01.600x338.jpg?t=1584949062",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/ss_4432809697fb6ea1c6f32dc9cd4f6bd14f6e1bd2.600x338.jpg?t=1584949062"
-  ],
-  "detailed_description": "其实早上去年6月份，团队已经解散了。这款游戏定位原本是手游，无版号下改pc也是无奈，其中诸多不足有开发上的原因，也有资本上的压力。我个人还是花了3个月进行余下更新，也是算给玩家一个交代，主要更新了新的武器鞭子，一些怪物，boss，和一些新的装备，以及重做的叠加式装备系统。遗憾的将游戏联机部分阉割，其实联机也并不完善，能顺利游玩的可能性较低，索性删掉，改为纯单机也有为了缓解服务器开支，至此 我只能重新回到个人开发者中<br><br><br>改动内容如下<br><br><strong>优化</strong>:优化了运行效率,减少部分情况下的卡顿 <br><br><strong>新增</strong>:一个新类型武器-鞭子 <br><strong>新增</strong>:一个小型怪物-阴影 <br><strong>新增</strong>:两个中型怪物-魔剑,恶魔盔甲 <br><strong>新增</strong>:三个BOSS <br><strong>新增</strong>:47个被动道具 <br><strong>新增</strong>:两个职业,御兔使(女性),药剂师(男性) <br><strong>新增</strong>:图标显示系统,当部分道具满足触发条件时会在头顶显示对应道具的图标 提示触发成功 <br><br><strong>改动</strong>:道具的升级增加了拾取叠加方式,拾取一个同名物品会对该物品叠加并增加对应等级. 同时道具将不再有等级上限,将无限成长 <br><strong>改动</strong>:对之前游戏中存在的60项被动道具,40把武器进行效果调整,将较弱的效果加强 <br><strong>改动</strong>:替换了部分UI界面<br><strong>改动</strong>:游戏内的地图系统改为固定迷宫式 改动:每个房间从原来刷两拨怪物调整为一波, 增强怪物的强度 <br><strong>改动</strong>:每个房间清空后会奖励一个小型宝箱,掉落随机装备 <br><strong>改动</strong>:原来的精英Boss调整为在进阶5难度下出现<br><strong>改动</strong>:所有之前需要满足条件后才能触发的道具,改为自身有较低几率满足此条件 ,涉及的道具包含虚空之触摸,狂怒之髓,疾速护手等等 改动:BOSS还原为可被完美格挡打断当前动作 <br><strong>改动</strong>:双刀的奥义命中对手时会让对手进行小幅位移,确保能够一直击中目标 <br><strong>改动</strong>:延长阴影怪物分身的频率 改动:冰霜/火焰/流血之靴产生的路径持续时间下调 <br><strong>改动</strong>:火焰/冰霜/鲜血之头冠 对特殊技也起作用 改动为 你的[奥义]和[特殊技]命中单位时,给予对手10层烧灼,且伤害提升10% <br><strong>改动</strong>:不老泉的充能所需击杀怪物降低为20 改动:贪婪代价效果改动为 被攻击时有30%几率获得3金币<br><br><strong>改动</strong>:由于游戏成绩一直不好,目前制作组已经解散,之前存在的联机问题一直无法解决,同时无法继续维持服务器的支出费用,我们将改为了纯单机游戏,再此向各位喜欢联机玩法的玩家道歉!<br>对不起! <br>老玩家在进入游戏后会得到魂值的补偿,如果无法正常领取,请进入群内联系我们<br><br><strong>修复</strong>:修复大部分导致游戏中断的BUG<h2 class=\"bb_tag\" >游戏系统简述</h2><br><br><ul class=\"bb_ul\"><li>这是一款roguelike玩法和动作系统相结合的地牢游戏</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/extras/231620072f072aaba9904d3ea38d175d.avif?t=1584949062\" width=618 height=328 /></span><br><br><ul class=\"bb_ul\"><li>你可以携带两把神兵，在战斗中交替使用，形成错综变化的攻击方式</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/extras/c7afdfb5925d6bc334d5de5d006b31b8.avif?t=1584949062\" width=618 height=200 /></span><br><br><ul class=\"bb_ul\"><li>大量效果各异的道具，丰富你在冒险时的决策和穿戴上的搭配</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/extras/4816900fac1e48be09680f2d788f0835.avif?t=1584949062\" width=618 height=112 /></span><br><br><ul class=\"bb_ul\"><li>游戏自备服务器，你将可以和好友共同联机冒险</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/extras/5279d4b0753b24f4ef74f2b235a56518.avif?t=1584949062\" width=618 height=250 /></span><br><br><ul class=\"bb_ul\"><li>一个新颖的竞技乱斗模式，与其他玩家在地牢中进行一场生死较量</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/extras/86cda9606bc11bbd33cb39b9dcbe8c68.avif?t=1584949062\" width=618 height=250 /></span><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/extras/2e17c2461f5113be9213247c1ba5d9eb.poster.avif?t=1584949062\" width=494 height=306 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/extras/2e17c2461f5113be9213247c1ba5d9eb.webm?t=1584949062\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/extras/2e17c2461f5113be9213247c1ba5d9eb.mp4?t=1584949062\" type=\"video/mp4\"></video></span><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/extras/56cfea847e3923d04e6c208747fa567a.avif?t=1584949062\" width=618 height=555 /></span>",
-  "about_the_game": "其实早上去年6月份，团队已经解散了。这款游戏定位原本是手游，无版号下改pc也是无奈，其中诸多不足有开发上的原因，也有资本上的压力。我个人还是花了3个月进行余下更新，也是算给玩家一个交代，主要更新了新的武器鞭子，一些怪物，boss，和一些新的装备，以及重做的叠加式装备系统。遗憾的将游戏联机部分阉割，其实联机也并不完善，能顺利游玩的可能性较低，索性删掉，改为纯单机也有为了缓解服务器开支，至此 我只能重新回到个人开发者中<br><br><br>改动内容如下<br><br><strong>优化</strong>:优化了运行效率,减少部分情况下的卡顿 <br><br><strong>新增</strong>:一个新类型武器-鞭子 <br><strong>新增</strong>:一个小型怪物-阴影 <br><strong>新增</strong>:两个中型怪物-魔剑,恶魔盔甲 <br><strong>新增</strong>:三个BOSS <br><strong>新增</strong>:47个被动道具 <br><strong>新增</strong>:两个职业,御兔使(女性),药剂师(男性) <br><strong>新增</strong>:图标显示系统,当部分道具满足触发条件时会在头顶显示对应道具的图标 提示触发成功 <br><br><strong>改动</strong>:道具的升级增加了拾取叠加方式,拾取一个同名物品会对该物品叠加并增加对应等级. 同时道具将不再有等级上限,将无限成长 <br><strong>改动</strong>:对之前游戏中存在的60项被动道具,40把武器进行效果调整,将较弱的效果加强 <br><strong>改动</strong>:替换了部分UI界面<br><strong>改动</strong>:游戏内的地图系统改为固定迷宫式 改动:每个房间从原来刷两拨怪物调整为一波, 增强怪物的强度 <br><strong>改动</strong>:每个房间清空后会奖励一个小型宝箱,掉落随机装备 <br><strong>改动</strong>:原来的精英Boss调整为在进阶5难度下出现<br><strong>改动</strong>:所有之前需要满足条件后才能触发的道具,改为自身有较低几率满足此条件 ,涉及的道具包含虚空之触摸,狂怒之髓,疾速护手等等 改动:BOSS还原为可被完美格挡打断当前动作 <br><strong>改动</strong>:双刀的奥义命中对手时会让对手进行小幅位移,确保能够一直击中目标 <br><strong>改动</strong>:延长阴影怪物分身的频率 改动:冰霜/火焰/流血之靴产生的路径持续时间下调 <br><strong>改动</strong>:火焰/冰霜/鲜血之头冠 对特殊技也起作用 改动为 你的[奥义]和[特殊技]命中单位时,给予对手10层烧灼,且伤害提升10% <br><strong>改动</strong>:不老泉的充能所需击杀怪物降低为20 改动:贪婪代价效果改动为 被攻击时有30%几率获得3金币<br><br><strong>改动</strong>:由于游戏成绩一直不好,目前制作组已经解散,之前存在的联机问题一直无法解决,同时无法继续维持服务器的支出费用,我们将改为了纯单机游戏,再此向各位喜欢联机玩法的玩家道歉!<br>对不起! <br>老玩家在进入游戏后会得到魂值的补偿,如果无法正常领取,请进入群内联系我们<br><br><strong>修复</strong>:修复大部分导致游戏中断的BUG<h2 class=\"bb_tag\" >游戏系统简述</h2><br><br><ul class=\"bb_ul\"><li>这是一款roguelike玩法和动作系统相结合的地牢游戏</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/extras/231620072f072aaba9904d3ea38d175d.avif?t=1584949062\" width=618 height=328 /></span><br><br><ul class=\"bb_ul\"><li>你可以携带两把神兵，在战斗中交替使用，形成错综变化的攻击方式</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/extras/c7afdfb5925d6bc334d5de5d006b31b8.avif?t=1584949062\" width=618 height=200 /></span><br><br><ul class=\"bb_ul\"><li>大量效果各异的道具，丰富你在冒险时的决策和穿戴上的搭配</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/extras/4816900fac1e48be09680f2d788f0835.avif?t=1584949062\" width=618 height=112 /></span><br><br><ul class=\"bb_ul\"><li>游戏自备服务器，你将可以和好友共同联机冒险</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/extras/5279d4b0753b24f4ef74f2b235a56518.avif?t=1584949062\" width=618 height=250 /></span><br><br><ul class=\"bb_ul\"><li>一个新颖的竞技乱斗模式，与其他玩家在地牢中进行一场生死较量</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/extras/86cda9606bc11bbd33cb39b9dcbe8c68.avif?t=1584949062\" width=618 height=250 /></span><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/extras/2e17c2461f5113be9213247c1ba5d9eb.poster.avif?t=1584949062\" width=494 height=306 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/extras/2e17c2461f5113be9213247c1ba5d9eb.webm?t=1584949062\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/extras/2e17c2461f5113be9213247c1ba5d9eb.mp4?t=1584949062\" type=\"video/mp4\"></video></span><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989450/extras/56cfea847e3923d04e6c208747fa567a.avif?t=1584949062\" width=618 height=555 /></span>",
-  "supported_languages": "Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 457,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 520,
-  "review_positive": 329,
+  "review_positive": 0,
   "review_percentage": 63.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -65,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 520,
-      "review_percentage": 63.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 520,
       "review_percentage": 63.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

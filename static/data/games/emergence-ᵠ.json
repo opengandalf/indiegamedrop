@@ -4,7 +4,7 @@
   "slug": "emergence-ᵠ",
   "developer": "17th Dimension",
   "publisher": "",
-  "release_date": "Jul 20, 2016",
+  "release_date": "2016-07-20",
   "price_usd": 9.99,
   "genres": [
     "Animation & Modeling",
@@ -21,32 +21,15 @@
   ],
   "short_description": "Fractal Explorer and editor for VR",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/500470/header.jpg?t=1592365966",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/500470/ss_ed36bb32fe07b01ad38259c12583e1c89d5c2aed.600x338.jpg?t=1592365966",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/500470/ss_79937b67ebacb09ca6d60561bc3652b7c4e882eb.600x338.jpg?t=1592365966",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/500470/ss_6b5f2a5649833a89113f727d9d79dcf176b7966a.600x338.jpg?t=1592365966",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/500470/ss_5a411289b59070b262a1d98614cb8ba72f62f585.600x338.jpg?t=1592365966",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/500470/ss_cde8e1c40e7c604d3c9b4a8c10da3bb498e89796.600x338.jpg?t=1592365966"
-  ],
-  "detailed_description": "<h1>Unreal Engine Rewrite</h1><p>Greetings!\r\nI'm pleased to announce that Emergence has been rewritten in Unreal Engine 4.25 and now supports Valve Index and Oculus. \r\n\r\nRewriting the application in Unreal engine took considerable effort, but I feel that it was well worth the performance boost. \r\nIf you're operating without a VR headset, check the community page for a guide on how to bring up the Desktop Overlay interface.\r\n\r\nKind Regards,\r\n~W</p><br><h1>About the Software</h1>Explore Fractals in Virtual Reality. Learn about Fractals and adjust parameters to see the how fractals work. Enjoy the psychedelic shapes that mathematics has to offer. Meditative soundtrack included ~\r\n\r\nUpdate: Rewritten in Unreal engine 4",
-  "about_the_game": "Explore Fractals in Virtual Reality. Learn about Fractals and adjust parameters to see the how fractals work. Enjoy the psychedelic shapes that mathematics has to offer. Meditative soundtrack included ~<br />\r\n<br />\r\nUpdate: Rewritten in Unreal engine 4",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
-  "gem_score": 0.0,
+  "gem_score": 38.2099,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 2.15,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "hidden_gem",
   "review_count": 43,
-  "review_positive": 40,
+  "review_positive": 0,
   "review_percentage": 93.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -54,26 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 42,
-      "review_percentage": 92.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 43,
-      "review_percentage": 93.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 43,
       "review_percentage": 93.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

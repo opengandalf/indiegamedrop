@@ -3,8 +3,8 @@
   "name": "Evergreen Blues",
   "slug": "evergreen-blues",
   "developer": "David Su, Dominique Star",
-  "publisher": "MIT Media Lab",
-  "release_date": "Feb 20, 2020",
+  "publisher": "",
+  "release_date": "2020-02-20",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -20,37 +20,15 @@
   ],
   "short_description": "Evergreen Blues is a suite of interactive songs by David Su and Dominique Star. All the world's a stage 🎶🎭",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1131870/header.jpg?t=1592422881",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1131870/ss_06bea0d051e78d6076f4fb99b35ac371f1de8205.600x338.jpg?t=1592422881",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1131870/ss_994b9d8ebc6437deeba55f8051f8d5d41a3c7426.600x338.jpg?t=1592422881",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1131870/ss_706d5eb53adb47cc432bf97c23aa2bbf479f1254.600x338.jpg?t=1592422881",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1131870/ss_ada64170d343da5c0efdb2fb252c3326bcf96e9d.600x338.jpg?t=1592422881",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1131870/ss_00f629c7ae99357398c0db5b5ace0b1ca503c97e.600x338.jpg?t=1592422881"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1131870/extras/78b76ada04291f08ec06599c139d7556.avif?t=1592422881\" width=616 height=353 /></span><br><br>Evergreen Blues is a suite of interactive songs by David Su and Dominique Star.<br><br>Originally developed at the MIT Media Lab, the game is a choice-based interactive song construction experience about the relationships between audiences, authors, and the characters and worlds they create. It uses a real-time lyric-choosing mechanic, and is designed for both single and multiplayer play.<br><br><ul class=\"bb_ul\"><li> Enjoy six interactive songs created specifically for the game<br></li><li> Craft your own narrative as the music and art change depending on your decisions as a player<br></li><li> Experience song construction via lyric-based performance through gameplay<br></li><li> All the world's a stage 🎶🎭</li></ul>",
-  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1131870/extras/78b76ada04291f08ec06599c139d7556.avif?t=1592422881\" width=616 height=353 /></span><br><br>Evergreen Blues is a suite of interactive songs by David Su and Dominique Star.<br><br>Originally developed at the MIT Media Lab, the game is a choice-based interactive song construction experience about the relationships between audiences, authors, and the characters and worlds they create. It uses a real-time lyric-choosing mechanic, and is designed for both single and multiplayer play.<br><br><ul class=\"bb_ul\"><li> Enjoy six interactive songs created specifically for the game<br></li><li> Craft your own narrative as the music and art change depending on your decisions as a player<br></li><li> Experience song construction via lyric-based performance through gameplay<br></li><li> All the world's a stage 🎶🎭</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Steam Achievements",
-    "Remote Play Together"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0018,
+  "screenshots": [],
+  "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 26.0,
+  "review_velocity_7d": 3.35,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 67,
-  "review_positive": 60,
+  "review_positive": 0,
   "review_percentage": 89.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +36,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 41,
-      "review_percentage": 95.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 67,
       "review_percentage": 89.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

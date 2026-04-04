@@ -3,8 +3,8 @@
   "name": "De",
   "slug": "de",
   "developer": "Ma",
-  "publisher": "M",
-  "release_date": "May 21, 2020",
+  "publisher": "",
+  "release_date": "2020-05-21",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -20,25 +20,14 @@
   "short_description": "",
   "header_image_url": null,
   "screenshots": [],
-  "detailed_description": "",
-  "about_the_game": "",
-  "supported_languages": "English, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 1.9500000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 39,
-  "review_positive": 25,
+  "review_positive": 0,
   "review_percentage": 64.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -46,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 38,
-      "review_percentage": 63.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 39,
       "review_percentage": 64.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

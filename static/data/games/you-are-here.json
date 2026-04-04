@@ -3,8 +3,8 @@
   "name": "You Are Here",
   "slug": "you-are-here",
   "developer": "Tesseract Software",
-  "publisher": "Tesseract Software",
-  "release_date": "Sep 12, 2019",
+  "publisher": "",
+  "release_date": "2019-09-12",
   "price_usd": 2.99,
   "genres": [
     "Indie",
@@ -17,39 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Have you ever wondered about your place in the cosmos? Well, now with the magic of virtual reality, you can see exactly where you are! Shrink and expand the universe to see where you fit into the big picture. Stroll through a sea of hundreds of thousands of stars and galaxies.",
+  "short_description": "Have you ever wondered about your place in the cosmos? Well, now with the magic of virtual reality, you can see exactly where you are! Shrink and expand the universe to see where you fit into the big ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/930500/header.jpg?t=1569091632",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/930500/ss_13c53876dfdb25e07224372e7195eeaa5904b052.600x338.jpg?t=1569091632",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/930500/ss_59bc78db92d7588a7987af90e1b7a996ca76d8c4.600x338.jpg?t=1569091632",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/930500/ss_4882ae36e4720fdbb653287d8c867cb0699971cb.600x338.jpg?t=1569091632",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/930500/ss_90d4bd448ab571858ed4d3410669544725754063.600x338.jpg?t=1569091632",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/930500/ss_d73cbefd516ad3f91df098f3531bac1f1782b1ff.600x338.jpg?t=1569091632",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/930500/ss_2e81582c593bc59e08584fb1cec0bf8a5724af5d.600x338.jpg?t=1569091632",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/930500/ss_543e05edf6958f3941ace5944a568a72e0ecccd9.600x338.jpg?t=1569091632",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/930500/ss_b7c5fac8b2d3284f2e288e97d7f67d252c59aaa3.600x338.jpg?t=1569091632"
-  ],
-  "detailed_description": "<i>You are Here</i> gives you the power to shrink and expand the universe. Take a journey from tiny quarks, atoms, cells, planets, stars, galaxies - all the way to the observable universe! This project has been heavily inspired by the classic 1977 Science film by Charles and Ray Eames, <i>Powers of 10</i>.<h2 class=\"bb_tag\" >Data Sources</h2><ul class=\"bb_ul\"><li> Star positions, colors, and magnitudes are from the HYG Database. The database is a subset of the data in three major catalogs: the Hipparcos Catalog, the Yale Bright Star Catalog (5th Edition), and the Gliese Catalog of Nearby Stars. There are 119,615 stars in the HYG Database.<br></li><li> The galaxies are from Data Release 14 from the Sloan Digital Sky Survey and describes the position and size of 755,649 galaxies.</li></ul><h2 class=\"bb_tag\" >Credits</h2><ul class=\"bb_ul\"><li> Thank you Dr. Miguel Angel Aragon Calvo, Assistant Professor at the National Astronomical Observatory, UNAM for generously providing his galaxy data from the Sloan Digital Sky Survey.<br></li><li> Thank you David Nash for your excellent HYG Database of stars.</li></ul>",
-  "about_the_game": "<i>You are Here</i> gives you the power to shrink and expand the universe. Take a journey from tiny quarks, atoms, cells, planets, stars, galaxies - all the way to the observable universe! This project has been heavily inspired by the classic 1977 Science film by Charles and Ray Eames, <i>Powers of 10</i>.<h2 class=\"bb_tag\" >Data Sources</h2><ul class=\"bb_ul\"><li> Star positions, colors, and magnitudes are from the HYG Database. The database is a subset of the data in three major catalogs: the Hipparcos Catalog, the Yale Bright Star Catalog (5th Edition), and the Gliese Catalog of Nearby Stars. There are 119,615 stars in the HYG Database.<br></li><li> The galaxies are from Data Release 14 from the Sloan Digital Sky Survey and describes the position and size of 755,649 galaxies.</li></ul><h2 class=\"bb_tag\" >Credits</h2><ul class=\"bb_ul\"><li> Thank you Dr. Miguel Angel Aragon Calvo, Assistant Professor at the National Astronomical Observatory, UNAM for generously providing his galaxy data from the Sloan Digital Sky Survey.<br></li><li> Thank you David Nash for your excellent HYG Database of stars.</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 8,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 87.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 8,
-      "review_percentage": 87.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 87.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

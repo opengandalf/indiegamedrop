@@ -3,8 +3,8 @@
   "name": "A wave of enemies",
   "slug": "a-wave-of-enemies",
   "developer": "Vitok",
-  "publisher": "Vitok",
-  "release_date": "Jun 29, 2021",
+  "publisher": "",
+  "release_date": "2021-06-29",
   "price_usd": 5.99,
   "genres": [
     "Action"
@@ -15,34 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "A wave of enemies is an FPS game where the goal is to defend against hordes of monsters. There are 3 types of enemies in the game. With each wave, the speed and number of enemies increases. Use a machine gun to kill enemies. Break your previous record.",
+  "short_description": "A wave of enemies is an FPS game where the goal is to defend against hordes of monsters. There are 3 types of enemies in the game. With each wave, the speed and number of enemies increases. Use a mach",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1655550/header.jpg?t=1624981291",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1655550/ss_7a88349f66ed29735907cd45abde3671320edd01.600x338.jpg?t=1624981291",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1655550/ss_8ed48e8dd4b2d31c3ec1c21c715ca16e5103a88d.600x338.jpg?t=1624981291",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1655550/ss_a7ff2095d0e502d41a1fb300f5e75396249da60a.600x338.jpg?t=1624981291",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1655550/ss_2ff6eecd5d5c6c4d51781d3f8924e135521b59bf.600x338.jpg?t=1624981291",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1655550/ss_b38700d12eae47169d8b9e858b84f2ef2690aaa8.600x338.jpg?t=1624981291"
-  ],
-  "detailed_description": "A wave of enemies is an FPS game where the goal is to defend against hordes of monsters. <br />\r\nThere are 3 types of enemies in the game. <br />\r\nWith each wave, the speed and number of enemies increases.<br />\r\nUse a machine gun to kill enemies. <br />\r\nBreak your previous record.",
-  "about_the_game": "A wave of enemies is an FPS game where the goal is to defend against hordes of monsters. <br />\r\nThere are 3 types of enemies in the game. <br />\r\nWith each wave, the speed and number of enemies increases.<br />\r\nUse a machine gun to kill enemies. <br />\r\nBreak your previous record.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.2000000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 24,
-  "review_positive": 15,
+  "review_positive": 0,
   "review_percentage": 62.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 24,
-      "review_percentage": 62.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 24,
       "review_percentage": 62.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

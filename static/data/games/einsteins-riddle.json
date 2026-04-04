@@ -3,8 +3,8 @@
   "name": "Einsteins Riddle",
   "slug": "einsteins-riddle",
   "developer": "DMU Software",
-  "publisher": "DMU Software",
-  "release_date": "Jun 1, 2020",
+  "publisher": "",
+  "release_date": "2020-06-01",
   "price_usd": 1.99,
   "genres": [
     "Casual"
@@ -17,33 +17,15 @@
   ],
   "short_description": "A pure, simple game of logic and deduction. Random generated puzzles enables unlimited replay. Custom board layouts let you adjust the difficulty and time needed to solve a puzzle.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313400/header.jpg?t=1591201480",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313400/ss_530d375ac48ad55ea2a81a4918d76527ea87038f.600x338.jpg?t=1591201480",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313400/ss_cc6770d7f960ef0e82041f2a84f863535845d44f.600x338.jpg?t=1591201480",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313400/ss_3990761be3a8d2b0a4414a1bdbfa3da76f099d88.600x338.jpg?t=1591201480",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313400/ss_8827cfadddabf46510c7d0ee819f1029a0fb0c8a.600x338.jpg?t=1591201480",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313400/ss_40a77b266ec248815963e5a9eaac05e7bf1ed1d3.600x338.jpg?t=1591201480",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313400/ss_325804958c1904267aa7534193710dece9b0bef5.600x338.jpg?t=1591201480"
-  ],
-  "detailed_description": "Einsteins Riddle is a game of logic and deduction. You are given information (clues) and your task is to determine the position of facts on the board. The puzzle is named after the famous Albert Einstein, who is said to have published the first such riddle. <br />\r\n<br />\r\nThe game is easy to learn but very addictive. The difficulty can be individually adjusted by choosing different board sizes. You can select between 4 and 9 rows and columns. Each time you play a new, random puzzle is generated. On the easiest setting, solving a board configuaration can be done in less than two minutes. On the hardest difficulty level, it can take an hour or more, though. The game comes with a tutorial to teach you how the clues work and how to use them to solve the riddle. Can you solve Einsteins Riddle?",
-  "about_the_game": "Einsteins Riddle is a game of logic and deduction. You are given information (clues) and your task is to determine the position of facts on the board. The puzzle is named after the famous Albert Einstein, who is said to have published the first such riddle. <br />\r\n<br />\r\nThe game is easy to learn but very addictive. The difficulty can be individually adjusted by choosing different board sizes. You can select between 4 and 9 rows and columns. Each time you play a new, random puzzle is generated. On the easiest setting, solving a board configuaration can be done in less than two minutes. On the hardest difficulty level, it can take an hour or more, though. The game comes with a tutorial to teach you how the clues work and how to use them to solve the riddle. Can you solve Einsteins Riddle?",
-  "supported_languages": "English, German",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.45,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 9,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 77.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 71.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 77.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

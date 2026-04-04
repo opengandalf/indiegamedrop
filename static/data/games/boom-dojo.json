@@ -3,8 +3,8 @@
   "name": "Boom Dojo",
   "slug": "boom-dojo",
   "developer": "Yolopia Ltd",
-  "publisher": "Yolopia Ltd",
-  "release_date": "Jan 29, 2021",
+  "publisher": "",
+  "release_date": "2021-01-29",
   "price_usd": 9.99,
   "genres": [
     "Action",
@@ -21,34 +21,15 @@
   ],
   "short_description": "Boom Dojo is a procedural rhythm boxing trainer",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389000/header.jpg?t=1619367726",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389000/ss_2cb3fa4eeecae24cfb3048957f331e4da112fa8d.600x338.jpg?t=1619367726",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389000/ss_0abacb663536fb067c9cb19642f19a6278320b87.600x338.jpg?t=1619367726",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389000/ss_da068c0b997f3431cb4676b809283e561477790a.600x338.jpg?t=1619367726",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389000/ss_1a598774720e084557f5361faf8305837411865f.600x338.jpg?t=1619367726",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1389000/ss_f2245f98d7f5d59059535cb0a9bcef0f4eb5380a.600x338.jpg?t=1619367726"
-  ],
-  "detailed_description": "Boom Dojo is a rhythm boxing trainer. Targets are generated from your music in realtime.<br><br>You color match targets to your hands and avoid bar contact which hurts your score.<br><br>The score is dynamically calculated as your hits / the current total of emitted targets.<br><br>Target rate is tied to your score so higher scores will yield more targets from a track.<br><br>The better you play the more detail you \"squeeze\" out of the music hardening the game.<br><br>LIV is also fully supported allowing you to capture your amazing workouts in mixed reality.",
-  "about_the_game": "Boom Dojo is a rhythm boxing trainer. Targets are generated from your music in realtime.<br><br>You color match targets to your hands and avoid bar contact which hurts your score.<br><br>The score is dynamically calculated as your hits / the current total of emitted targets.<br><br>Target rate is tied to your score so higher scores will yield more targets from a track.<br><br>The better you play the more detail you \"squeeze\" out of the music hardening the game.<br><br>LIV is also fully supported allowing you to capture your amazing workouts in mixed reality.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 4,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 25.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 25.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 25.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Champoo Club",
   "slug": "champoo-club",
   "developer": "HV",
-  "publisher": "HV",
-  "release_date": "Jan 5, 2021",
+  "publisher": "",
+  "release_date": "2021-01-05",
   "price_usd": 0.59,
   "genres": [
     "Action",
@@ -21,33 +21,15 @@
   ],
   "short_description": "a challenging action game with arena fighting, involving sword, missile and cute characters",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500780/header.jpg?t=1726255764",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500780/ss_e18d0ebf21d7df68941a515a55169054f80c8cbd.600x338.jpg?t=1726255764",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500780/ss_5d286836c813eb1cc847a5153494daa42d0d3b1b.600x338.jpg?t=1726255764",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500780/ss_ad69682772a0d097da1155ae8694a1c2245bee61.600x338.jpg?t=1726255764",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500780/ss_eb8c2c2c7fe9079139fc22794ae4e87c62147973.600x338.jpg?t=1726255764",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500780/ss_b9cd3ae399b353e636c89b50e714627afb5ef28f.600x338.jpg?t=1726255764",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500780/ss_668b1f5ca6e59025595bc520864d9c7978577fe8.600x338.jpg?t=1726255764"
-  ],
-  "detailed_description": "Champoo will have to rescue his friends from the hands of Jack Deer<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500780/extras/e10bbd3265ba53537c91220173d9a302.avif?t=1726255764\" width=616 height=352 /></span><br> fighting cute and funny enemies in different arenas<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500780/extras/9bb3c89edf04ad761ba9bb275ce1d1d4.avif?t=1726255764\" width=616 height=352 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500780/extras/d39959fc1a9309ba79a87cbcbb123d80.avif?t=1726255764\" width=616 height=352 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500780/extras/3cdfda8e55326430bc2e50a275577689.avif?t=1726255764\" width=612 height=352 /></span><br> firing missiles, hitting with a sword, and shooting the super rocket that can destroy all enemies in his path",
-  "about_the_game": "Champoo will have to rescue his friends from the hands of Jack Deer<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500780/extras/e10bbd3265ba53537c91220173d9a302.avif?t=1726255764\" width=616 height=352 /></span><br> fighting cute and funny enemies in different arenas<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500780/extras/9bb3c89edf04ad761ba9bb275ce1d1d4.avif?t=1726255764\" width=616 height=352 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500780/extras/d39959fc1a9309ba79a87cbcbb123d80.avif?t=1726255764\" width=616 height=352 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500780/extras/3cdfda8e55326430bc2e50a275577689.avif?t=1726255764\" width=612 height=352 /></span><br> firing missiles, hitting with a sword, and shooting the super rocket that can destroy all enemies in his path",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

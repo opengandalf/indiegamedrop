@@ -3,8 +3,8 @@
   "name": "Bunny Box Breakout",
   "slug": "bunny-box-breakout",
   "developer": "Brain Haze",
-  "publisher": "Brain Haze",
-  "release_date": "Oct 26, 2022",
+  "publisher": "",
+  "release_date": "2022-10-26",
   "price_usd": 3.99,
   "genres": [
     "Casual"
@@ -17,33 +17,15 @@
   ],
   "short_description": "Break blocks. Rescue bunnies. Collect bunnies. All the bunnies. ALL THE BUNNIES.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1863940/header.jpg?t=1666783632",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1863940/ss_e3dd8545ca9a4ca53d386b945fba82e9a624260a.600x338.jpg?t=1666783632",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1863940/ss_2dd5bc07b7134393ca4a2f0ba5a4bd836d3e0368.600x338.jpg?t=1666783632",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1863940/ss_49703016302b18d3bffd408e92f3e5752ab724b1.600x338.jpg?t=1666783632",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1863940/ss_9a0e152fe39e7b9135cd3b1ec16114727548d925.600x338.jpg?t=1666783632",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1863940/ss_2a6204432ef4f7584390286cc85c56be5719134a.600x338.jpg?t=1666783632"
-  ],
-  "detailed_description": "Break blocks. Rescue bunnies. Collect bunnies. All the bunnies. ALL THE BUNNIES.<br />\r\n<br />\r\nBunny Box Breakout is an action puzzle game where you line up 3 or more tiles in a row as the tile stack creeps closer to you. Pause the movement by lining up 4 or more tiles. Once the back of the field is opened up you rescue a bunny. Wonderful! Collect all the bunnies! Customize the bunnies you display!",
-  "about_the_game": "Break blocks. Rescue bunnies. Collect bunnies. All the bunnies. ALL THE BUNNIES.<br />\r\n<br />\r\nBunny Box Breakout is an action puzzle game where you line up 3 or more tiles in a row as the tile stack creeps closer to you. Pause the movement by lining up 4 or more tiles. Once the back of the field is opened up you rescue a bunny. Wonderful! Collect all the bunnies! Customize the bunnies you display!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 5,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

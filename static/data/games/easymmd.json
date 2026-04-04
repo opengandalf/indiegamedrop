@@ -3,8 +3,8 @@
   "name": "EasyMMD",
   "slug": "easymmd",
   "developer": "Megu Studio",
-  "publisher": "Megu Studio",
-  "release_date": "Mar 21, 2023",
+  "publisher": "",
+  "release_date": "2023-03-21",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -27,36 +27,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "EasyMMD is a versatile MMD player and synthesis tool that functions on both PC desktop and VR headsets. In addition to supporting VMD animation on PMX/PMD/VRM models, it also enables the playback of VMD animations on common 3D formats such as FBX/OBJ.Moreover, it directly supports Mixamo animations.",
+  "short_description": "EasyMMD is a versatile MMD player and synthesis tool that functions on both PC desktop and VR headsets. In addition to supporting VMD animation on PMX/PMD/VRM models, it also enables the playback of V",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344030/header.jpg?t=1703762453",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344030/ss_0c970c673a0b55e9b49bc0122fa9a9e01c984ebb.600x338.jpg?t=1703762453",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344030/ss_d0d21b7b5c07af3b7481dc7c4d3fb5f23636932b.600x338.jpg?t=1703762453",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344030/ss_3158f8ba90a44fc57c9cb9ee388cb39b2be32bd6.600x338.jpg?t=1703762453",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344030/ss_b846114cad5f9d8e9d2433a580221718acabc6ab.600x338.jpg?t=1703762453",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344030/ss_a14dcd0ded92e3a68fbd32a9a11ed1f44f03efcb.600x338.jpg?t=1703762453",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344030/ss_ce898bab395d5f8a63c1cc33923a3486bd484ddf.600x338.jpg?t=1703762453"
-  ],
-  "detailed_description": "<strong> The new version has added the function of importing Mixamo animations </strong><h2 class=\"bb_tag\" > <h2 class=\"bb_tag\" > <strong> What can EasyMMD do? </strong></h2></h2><ul class=\"bb_ul\"><li> <strong> A Easy and fast MMD player </strong></li></ul>EasyMMD provides two render styles: cartoon and realism. After importing the model, it automatically adapts the materials, The rest only needs to add actions to play MMD animation.<br><br><ul class=\"bb_ul\"> <li> <strong> A Convenient MMD creator </strong> </li></ul>EasyMMD provides practical tools such as material modifiers and lighting editing. The rendering system supports light and shadow effects. Scene rendering can also be easily done. And Supports high-definition video output。<br><br><ul class=\"bb_ul\"><li> <strong> Watch MMD dance on  VR headset. </strong></li></ul>All you need to do is import the model and motion data, turn on VR mode, and you can gain a new MMD viewing experience on the headset. In addition to the traditional VR control mode (camera view zoom in, rotation), you can also grasp the model onto the base in your hand, just like a figure dancing in front of your eyes. <br><br><ul class=\"bb_ul\"><li> <strong>Play MMD dance on the desktop. </strong></li></ul>Includes desktop mode that allows your character to dance on the desktop.<h2 class=\"bb_tag\" ><h2 class=\"bb_tag\" ><strong>Featured</strong></h2></h2><ul class=\"bb_ul\"><li>Support direct import of models (PMX/PMD/VRM/FBX/OBJ/GLB/GLTF) and actions (VMD) without conversion</li></ul><ul class=\"bb_ul\"><li>Two styles of rendering presets (anime/semi-realistic)</li></ul><ul class=\"bb_ul\"><li>Can be saved as a scene card for easy switching in VR mode</li></ul><ul class=\"bb_ul\"><li>Provide simple position/light editing tools for simple creation</li></ul><ul class=\"bb_ul\"><li>Support Steam Workshop</li></ul><ul class=\"bb_ul\"><li>Support material modification</li></ul><h2 class=\"bb_tag\" ><strong>More information:</strong></h2>",
-  "about_the_game": "<strong> The new version has added the function of importing Mixamo animations </strong><h2 class=\"bb_tag\" > <h2 class=\"bb_tag\" > <strong> What can EasyMMD do? </strong></h2></h2><ul class=\"bb_ul\"><li> <strong> A Easy and fast MMD player </strong></li></ul>EasyMMD provides two render styles: cartoon and realism. After importing the model, it automatically adapts the materials, The rest only needs to add actions to play MMD animation.<br><br><ul class=\"bb_ul\"> <li> <strong> A Convenient MMD creator </strong> </li></ul>EasyMMD provides practical tools such as material modifiers and lighting editing. The rendering system supports light and shadow effects. Scene rendering can also be easily done. And Supports high-definition video output。<br><br><ul class=\"bb_ul\"><li> <strong> Watch MMD dance on  VR headset. </strong></li></ul>All you need to do is import the model and motion data, turn on VR mode, and you can gain a new MMD viewing experience on the headset. In addition to the traditional VR control mode (camera view zoom in, rotation), you can also grasp the model onto the base in your hand, just like a figure dancing in front of your eyes. <br><br><ul class=\"bb_ul\"><li> <strong>Play MMD dance on the desktop. </strong></li></ul>Includes desktop mode that allows your character to dance on the desktop.<h2 class=\"bb_tag\" ><h2 class=\"bb_tag\" ><strong>Featured</strong></h2></h2><ul class=\"bb_ul\"><li>Support direct import of models (PMX/PMD/VRM/FBX/OBJ/GLB/GLTF) and actions (VMD) without conversion</li></ul><ul class=\"bb_ul\"><li>Two styles of rendering presets (anime/semi-realistic)</li></ul><ul class=\"bb_ul\"><li>Can be saved as a scene card for easy switching in VR mode</li></ul><ul class=\"bb_ul\"><li>Provide simple position/light editing tools for simple creation</li></ul><ul class=\"bb_ul\"><li>Support Steam Workshop</li></ul><ul class=\"bb_ul\"><li>Support material modification</li></ul><h2 class=\"bb_tag\" ><strong>More information:</strong></h2>",
-  "supported_languages": "English, Simplified Chinese, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "VR Supported",
-    "Steam Workshop",
-    "Partial Controller Support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.4000000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 28,
-  "review_positive": 20,
+  "review_positive": 0,
   "review_percentage": 71.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -64,19 +45,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 28,
-      "review_percentage": 71.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 28,
       "review_percentage": 71.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Raccoon The Miner",
   "slug": "raccoon-the-miner",
   "developer": "Andrii Lazariev, Eugene Nesterovych",
-  "publisher": "Andrii Lazariev",
-  "release_date": "Feb 24, 2020",
+  "publisher": "",
+  "release_date": "2020-02-24",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -21,37 +21,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Story of one hard-working Raccoon who is searching for gold. Your goal is to help Raccoon find all gold and not get into trouble.You will be involved in a long Raccoon story during which you will gain experience and become able to solve huge complex and interesting puzzles.",
+  "short_description": "Story of one hard-working Raccoon who is searching for gold. Your goal is to help Raccoon find all gold and not get into trouble.You will be involved in a long Raccoon story during which you will gain",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1221600/header.jpg?t=1585504876",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1221600/ss_03b7f0fe9e077455c54418a9c5fb7589838ed56f.600x338.jpg?t=1585504876",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1221600/ss_fbecb0dc313aca87671f8d0663f99670e0da838a.600x338.jpg?t=1585504876",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1221600/ss_9c3782d92f8719c2ae6f6c1e79bf0fe12b9fb9d9.600x338.jpg?t=1585504876",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1221600/ss_bfebc8a12449719bf40f1bacff39076e7177b3c7.600x338.jpg?t=1585504876",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1221600/ss_43c744a3ef21cb2279f9dd75f55161f1e8e6754b.600x338.jpg?t=1585504876",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1221600/ss_9032e956e23f6252a5dc4e0f52d68948c78a81e9.600x338.jpg?t=1585504876"
-  ],
-  "detailed_description": "Story of one hard-working <strong>Raccoon </strong> who is searching for gold. Your goal is to help Raccoon find all gold and not get into trouble.<br><br>Gameplay base on nonograms logic.<br>Nonograms, also known as Picross or Griddlers, are picture logic puzzles in which cells in a grid must be coloured or left blank according to numbers at the side of the grid to reveal a hidden picture. In this puzzle type, the numbers are a form of discrete tomography that measures how many unbroken lines of filled-in squares there are in any given row or column. For example, a clue of \"4 8 3\" would mean there are sets of four, eight, and three filled squares, in that order, with at least one blank square between successive sets.<br><br>You will be involved in a long <strong>Raccoon</strong> story during which you will gain experience and become able to solve huge complex and interesting puzzles.<br>In case you will be stuck on some point, you will have 3 types of different bonuses:<br>- Magic Stick for Poking<br>- Shield of Invulnerability <br>- Farsighted Companion<br><br>With these magic tools, you will reach success and become real master of nonogram mining!<br>Good luck, The Brave Savior of Raccoons!<br><br>Update 1.0.1<br>- Fix - steam leaderboard now updated on the level end<br>- Reduced energy consumption per 1 round<br>- Fix - level selection menu now shows the correct section <br>- Reduced bonus prices<br>- Added sounds to buttons",
-  "about_the_game": "Story of one hard-working <strong>Raccoon </strong> who is searching for gold. Your goal is to help Raccoon find all gold and not get into trouble.<br><br>Gameplay base on nonograms logic.<br>Nonograms, also known as Picross or Griddlers, are picture logic puzzles in which cells in a grid must be coloured or left blank according to numbers at the side of the grid to reveal a hidden picture. In this puzzle type, the numbers are a form of discrete tomography that measures how many unbroken lines of filled-in squares there are in any given row or column. For example, a clue of \"4 8 3\" would mean there are sets of four, eight, and three filled squares, in that order, with at least one blank square between successive sets.<br><br>You will be involved in a long <strong>Raccoon</strong> story during which you will gain experience and become able to solve huge complex and interesting puzzles.<br>In case you will be stuck on some point, you will have 3 types of different bonuses:<br>- Magic Stick for Poking<br>- Shield of Invulnerability <br>- Farsighted Companion<br><br>With these magic tools, you will reach success and become real master of nonogram mining!<br>Good luck, The Brave Savior of Raccoons!<br><br>Update 1.0.1<br>- Fix - steam leaderboard now updated on the level end<br>- Reduced energy consumption per 1 round<br>- Fix - level selection menu now shows the correct section <br>- Reduced bonus prices<br>- Added sounds to buttons",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Steam Leaderboards"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 36,
-  "review_positive": 21,
+  "review_positive": 0,
   "review_percentage": 58.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 35,
-      "review_percentage": 57.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 36,
       "review_percentage": 58.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "868-HACK",
   "slug": "868-hack",
   "developer": "Michael Brough",
-  "publisher": "Michael Brough",
-  "release_date": "Jan 26, 2015",
+  "publisher": "",
+  "release_date": "2015-01-26",
   "price_usd": 5.65,
   "genres": [
     "Indie",
@@ -20,63 +20,27 @@
   ],
   "short_description": "You are a computer hacker. You steal precious data while the world sleeps.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274700/header.jpg?t=1734560711",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274700/ss_583c2030df7d52f6ab89e1a06f8fe37911110e23.600x338.jpg?t=1734560711",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274700/ss_5126e53393a1ea08f1847a940dea41ead942b6cc.600x338.jpg?t=1734560711",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274700/ss_b67683b1e7badedaf0aa674b094619094bf27336.600x338.jpg?t=1734560711",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274700/ss_00a9345d351214a25f468234d4c7fa13e67c7713.600x338.jpg?t=1734560711",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/274700/ss_ffc28dc9a8bf2d01734f92bcdc5d6f1ab728857d.600x338.jpg?t=1734560711"
-  ],
-  "detailed_description": "<h1>868-BACK crowdfunding!</h1><p><p class=\"bb_paragraph\" >868-HACK is 868-BACK! I'm developing a sequel, back it on backerkit today (they won't let me put a link here but just search 868-BACK and you'll find it).</p><br><h1>PLAN.B</h1><p><p class=\"bb_paragraph\" >PLAN.B expansion available!</p></p><br><h1>About the Game</h1>You are a computer hacker. You steal precious data while the world sleeps. Siphons are your lockpicks. Progs are your guns.<br>Connect to the sectors.<br>Download the data.<br>Escape, or be deleted alive.</p>",
-  "about_the_game": "You are a computer hacker. You steal precious data while the world sleeps. Siphons are your lockpicks. Progs are your guns.<br />\r\nConnect to the sectors.<br />\r\nDownload the data.<br />\r\nEscape, or be deleted alive.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 117,
-  "rising_score": 0.0003,
-  "gem_score": 0.6546,
+  "screenshots": [],
+  "rising_score": 0.0,
+  "gem_score": 47.8879,
   "hype_score": 0.0,
-  "review_velocity_7d": 11.0,
+  "review_velocity_7d": 6.25,
   "follower_velocity_7d": 0.0,
   "classification": "hidden_gem",
   "review_count": 125,
-  "review_positive": 114,
+  "review_positive": 0,
   "review_percentage": 91.2,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 48,
-  "gem_tier": "rising",
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 114,
-      "review_percentage": 89.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 125,
-      "review_percentage": 91.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 125,
       "review_percentage": 91.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

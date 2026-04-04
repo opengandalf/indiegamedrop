@@ -3,8 +3,8 @@
   "name": "Equinox",
   "slug": "equinox",
   "developer": "Steven Silverstein",
-  "publisher": "Steven Silverstein",
-  "release_date": "Nov 11, 2022",
+  "publisher": "",
+  "release_date": "2022-11-11",
   "price_usd": 0.55,
   "genres": [
     "Action",
@@ -19,42 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "This game serves as a demonstration of a new approach to 2D fighting game development. All distracting elements were stripped away, creating a single dimension of play that forces players to rely on their fight mechanics and read the opponents' movements rather than mash buttons.",
+  "short_description": "This game serves as a demonstration of a new approach to 2D fighting game development. All distracting elements were stripped away, creating a single dimension of play that forces players to rely on t",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2188430/header.jpg?t=1668218237",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2188430/ss_fc980b0f008cfb7a93437821656e28b2adbb0624.600x338.jpg?t=1668218237",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2188430/ss_a431e3ecdac001627c3c72f0e4d9f169cc12fdfa.600x338.jpg?t=1668218237",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2188430/ss_20c0508e14b2e1ac5a6e1012a54bdad1f75cc56b.600x338.jpg?t=1668218237",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2188430/ss_9c7b2c5e3446d613dbdd073e831741572b920a7c.600x338.jpg?t=1668218237",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2188430/ss_49882dddfcc7308bb6e20690d2699c0e1f22bbe0.600x338.jpg?t=1668218237",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2188430/ss_5df926c267127c923eb0d01ca6fd44c14b5c2cf9.600x338.jpg?t=1668218237",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2188430/ss_4a4234c8dd9cd9ce3eda5b92776fd67084266ea0.600x338.jpg?t=1668218237",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2188430/ss_8bfb17bf44c55d12b673c7466def86149ad689d9.600x338.jpg?t=1668218237",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2188430/ss_d56b1db6413b3dde9bbcf745b73c956c517ad0fe.600x338.jpg?t=1668218237"
-  ],
-  "detailed_description": "The four seasons converge, threatening the very fabric of reality! Will you help the world start anew or save the world by stopping the Grand Equinox?<br />\r\n<br />\r\nThe project seeks to highlight under-represented martial arts through the featuring of capoeira, pak mei, and tai chi motion capture, alongside a diverse cast of characters. <br />\r\n<br />\r\nThis game serves as a demonstration of a new approach to 2D fighting game development. One of the best parts of fighting game are the mindgames that go into out-predicting your opponent. Unfortunately, fighting games are so complex and require such a high barrier or entry in their execution that most players never get to engage with this element of fighting games! In order to incentivize players to engage with the \"footsie\" dynamics of 2D fighting games, all distracting elements were stripped away, creating a single dimension of play that forces players to rely on their fight mechanics and read the opponets' movements rather than mash buttons. Think of this game as a playable proof of concept of a new method of motion capture and gameplay mechanics. <br />\r\n<br />\r\nI hope you enjoy!",
-  "about_the_game": "The four seasons converge, threatening the very fabric of reality! Will you help the world start anew or save the world by stopping the Grand Equinox?<br />\r\n<br />\r\nThe project seeks to highlight under-represented martial arts through the featuring of capoeira, pak mei, and tai chi motion capture, alongside a diverse cast of characters. <br />\r\n<br />\r\nThis game serves as a demonstration of a new approach to 2D fighting game development. One of the best parts of fighting game are the mindgames that go into out-predicting your opponent. Unfortunately, fighting games are so complex and require such a high barrier or entry in their execution that most players never get to engage with this element of fighting games! In order to incentivize players to engage with the \"footsie\" dynamics of 2D fighting games, all distracting elements were stripped away, creating a single dimension of play that forces players to rely on their fight mechanics and read the opponets' movements rather than mash buttons. Think of this game as a playable proof of concept of a new method of motion capture and gameplay mechanics. <br />\r\n<br />\r\nI hope you enjoy!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Shared/Split Screen",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 25,
-  "review_positive": 16,
+  "review_positive": 0,
   "review_percentage": 64.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 23,
-      "review_percentage": 60.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 25,
       "review_percentage": 64.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

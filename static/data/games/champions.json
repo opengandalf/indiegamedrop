@@ -3,8 +3,8 @@
   "name": "Champions",
   "slug": "champions",
   "developer": "Jonathan Lynch",
-  "publisher": "Self",
-  "release_date": "Dec 12, 2023",
+  "publisher": "",
+  "release_date": "2023-12-12",
   "price_usd": 3.99,
   "genres": [
     "Strategy"
@@ -17,32 +17,15 @@
   ],
   "short_description": "Dark Fantasy RTS with a tech tree determined by choices in the campaign. Learn the counter play and manage army compositions to challenge the campaign.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2691430/header.jpg?t=1702395955",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2691430/ss_3462d07fa24183638a96db6a186ccdcfb10af704.600x338.jpg?t=1702395955",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2691430/ss_f55c9c3969a5805290d7652a73e82eba68ed813c.600x338.jpg?t=1702395955",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2691430/ss_97e9699739df211dcb49e69a8b65ec72f573a2bc.600x338.jpg?t=1702395955",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2691430/ss_62d852413c27aa69a2593fdd30c6e03fb3fe23cd.600x338.jpg?t=1702395955",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2691430/ss_78caeec93950547264064a07ade244c06cac306f.600x338.jpg?t=1702395955"
-  ],
-  "detailed_description": "A continent once thought remote has been landed by strange monsters, throwing the entire country into chaos!<br />\r\n<br />\r\nPlay a non-linear campaign fighting against monsters and selfish men in an attempt to resist this invasion. Your personal campaign path determines your available units, buildings and technologies creating your \"Tech Tree\" as the game progresses.  Ensure you have what you need when the weeks run out...",
-  "about_the_game": "A continent once thought remote has been landed by strange monsters, throwing the entire country into chaos!<br />\r\n<br />\r\nPlay a non-linear campaign fighting against monsters and selfish men in an attempt to resist this invasion. Your personal campaign path determines your available units, buildings and technologies creating your \"Tech Tree\" as the game progresses.  Ensure you have what you need when the weeks run out...",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Blueprints",
   "slug": "blueprints",
   "developer": "Conabe Games",
-  "publisher": "Conabe LLC",
-  "release_date": "Oct 4, 2022",
+  "publisher": "",
+  "release_date": "2022-10-04",
   "price_usd": 0.89,
   "genres": [
     "Action",
@@ -21,44 +21,15 @@
   ],
   "short_description": "A parkour platformer where the more levels you beat, the better they get. Run, walk, jump, and fall through this mediocre and rather forgettable game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144910/header.jpg?t=1766505000",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144910/ss_f0945db8785001c6ca4c3d560c19806f9607c0f0.600x338.jpg?t=1766505000",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144910/ss_c611b04b13c3fbc30be9178a95b47b8baf0ed46c.600x338.jpg?t=1766505000",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144910/ss_042381a96da39e75578dd48e3451490f7fbaa0ce.600x338.jpg?t=1766505000",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144910/ss_957062854aa762e0bf1b4c09ad9b6edcd247ef7f.600x338.jpg?t=1766505000",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144910/ss_d07b312f34ef4ef09e8bf4e2c6bb4c10ea8d8907.600x338.jpg?t=1766505000",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144910/ss_cb76b1770fc2a52f62b71ac755c73ef532f94bed.600x338.jpg?t=1766505000",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144910/ss_c82cf3b95aae3199b60f9309d2fb310f4df95a0e.600x338.jpg?t=1766505000",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144910/ss_7ef4debf3058d2f515244eb202a9ffbf329a9cda.600x338.jpg?t=1766505000",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144910/ss_45fafb774fadd696122af7345d5f1f6c749fdbd0.600x338.jpg?t=1766505000"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Blueprints is a 3D third-person parkour platformer game where the more levels you beat, the more complex they get.</p><p class=\"bb_paragraph\" > Experience beautiful grid-textured landscapes in this short casual adventure you are very likely to forget. </p><p class=\"bb_paragraph\" >Play all sorts of parkour challenges (and 2 minutes of holding the W key) in this adventure of a lifetime.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><i>Not to be confused with the 2025 puzzle game Blue Prince <span class=\"bb_strike\">(but please do confuse them it gives me more money)</span></i></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Blueprints is a 3D third-person parkour platformer game where the more levels you beat, the more complex they get.</p><p class=\"bb_paragraph\" > Experience beautiful grid-textured landscapes in this short casual adventure you are very likely to forget. </p><p class=\"bb_paragraph\" >Play all sorts of parkour challenges (and 2 minutes of holding the W key) in this adventure of a lifetime.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><i>Not to be confused with the 2025 puzzle game Blue Prince <span class=\"bb_strike\">(but please do confuse them it gives me more money)</span></i></p>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Camera Comfort",
-    "Keyboard Only Option",
-    "Playable without Timed Input",
-    "Stereo Sound",
-    "Steam Cloud",
-    "Remote Play on TV",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0028,
+  "screenshots": [],
+  "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 10.0,
+  "review_velocity_7d": 1.0,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 20,
-  "review_positive": 16,
+  "review_positive": 0,
   "review_percentage": 80.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -66,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 10,
-      "review_percentage": 90.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 20,
       "review_percentage": 80.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

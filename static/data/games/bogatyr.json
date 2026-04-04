@@ -3,8 +3,8 @@
   "name": "Bogatyr",
   "slug": "bogatyr",
   "developer": "the Bratans",
-  "publisher": "the Bratans",
-  "release_date": "Jan 27, 2020",
+  "publisher": "",
+  "release_date": "2020-01-27",
   "price_usd": 0.49,
   "genres": [
     "Adventure",
@@ -19,53 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Bogatyr is a third-person action RPG set in a fantasy setting of Ancient Russia. The main character-a great warrior who returned from a ten-year war on the Southern Borders finds his native land in desolation. The hero will have to deal with what happened in the district, participate in the Civil War and defeat the Ancient evil.",
+  "short_description": "Bogatyr is a third-person action RPG set in a fantasy setting of Ancient Russia. The main character-a great warrior who returned from a ten-year war on the Southern Borders finds his native land in de",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/header.jpg?t=1722856782",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_d12d4353e6623109fa0ee770665bd9b30e69d892.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_67c08c5312849d702247145ebea6d0a3f3224f17.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_33a292c2c450bd6bade1ddce1437db5978be947c.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_2e93f96922ed2279984ec4e54e9d7f2b1621a742.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_6e48fb80705e7d24b73b8def7d5891b1798a76e8.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_2a69d587a8ed2fc09f8dc165416f1c88493e7193.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_0f7dfb80d4bf0f5aeeef1b542b2af20a915d8934.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_688229d4a9729751e70b6f587a6a6c47d0d2bf57.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_5bbae4ad96ccea45b816322669323d3812ff139a.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_d74c1c8a6aa12d247180f9c4fe8dfadf5e83dd89.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_c5fb1198bc579bd00a4633c5f28ef44b4d8ac662.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_9996a85ceb7da3acccae0162b8dc9b77a6cf97db.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_72c08d483a55927000b3daa1ae4f34ff4c478f98.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_0797bf84b549c7dc69f25b831da856916d01bf4a.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_c5920c50a7e93e64062be5fa7863201dfe88a394.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_07fc1863a64184e971f98c18d98f0ae1af2383b8.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_fe7583216ed277917a234c5c49314cc6c4ae51b2.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_34548b0247bf734f50ea0018a23e6b74f01d2b23.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_21e8896cfa564a5aa8ea1b20611b8fed68ebe9a9.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_d03d3c3a9f1f58778c845b2c02bcc793f1c5f7c2.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_1b470d0ef29cfdda53282c5d1a484ea10e56bd32.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_3b266820b60bf1c12c7ce61b90584c2b45c1e1aa.600x338.jpg?t=1722856782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170190/ss_856ed068acc0b7a45ba436d930ee03510392333d.600x338.jpg?t=1722856782"
-  ],
-  "detailed_description": "<strong>Bogatyr</strong> is a third-person action RPG set in a pseudo-historical fantasy world of Ancient Rus.<br>The main character is a harsh warrior who returned from a ten-year war with the basurmans on the Southern Borders. He finds his native land in desolation. He is taciturn, he does not tell his name to anyone, he has one goal - to save his native land.<br>The hero will have to understand what happened to his native village, clean the neighborhood from pagan contamination and defeat the Ancient Evil lurking in the swamps.<br><br><strong>What Bogatyr game may offer you:</strong><br><br><u>plot: </u><br>- A small, but rich and branching story of a warrior who even at home can not find peace and is forced to fight evil.<br>- A lot of branched dialogues with NPCs with the ability to choose, often affecting the process of passing the game.<br>- Full story branch and more than 15 side quests, allowing a deeper dive into the world of the game.<br>- The ability to use hallucinogenic mushrooms and communicate: with cats, dogs, wells and trees.<br><br><u>gameplay: </u><br>- Dynamic battles with a huge number of opponents.<br>- 5 types of super attacks, opening as the character level up's.<br>- You may attack enemies with inciting pigs on them/<br>- Inventory system (available).<br><br><u>Game universe: </u><br>- Travel through two detailed locations, gradually imbued with the old Russian spirit.<br>- Explore the abandoned fortresses, a lively Slavic villages and the pagan altars, forgotten by God.<br>- Travel through open locations: fields, swamps, rocky plains without any",
-  "about_the_game": "<strong>Bogatyr</strong> is a third-person action RPG set in a pseudo-historical fantasy world of Ancient Rus.<br>The main character is a harsh warrior who returned from a ten-year war with the basurmans on the Southern Borders. He finds his native land in desolation. He is taciturn, he does not tell his name to anyone, he has one goal - to save his native land.<br>The hero will have to understand what happened to his native village, clean the neighborhood from pagan contamination and defeat the Ancient Evil lurking in the swamps.<br><br><strong>What Bogatyr game may offer you:</strong><br><br><u>plot: </u><br>- A small, but rich and branching story of a warrior who even at home can not find peace and is forced to fight evil.<br>- A lot of branched dialogues with NPCs with the ability to choose, often affecting the process of passing the game.<br>- Full story branch and more than 15 side quests, allowing a deeper dive into the world of the game.<br>- The ability to use hallucinogenic mushrooms and communicate: with cats, dogs, wells and trees.<br><br><u>gameplay: </u><br>- Dynamic battles with a huge number of opponents.<br>- 5 types of super attacks, opening as the character level up's.<br>- You may attack enemies with inciting pigs on them/<br>- Inventory system (available).<br><br><u>Game universe: </u><br>- Travel through two detailed locations, gradually imbued with the old Russian spirit.<br>- Explore the abandoned fortresses, a lively Slavic villages and the pagan altars, forgotten by God.<br>- Travel through open locations: fields, swamps, rocky plains without any",
-  "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
+  "review_velocity_7d": 4.3,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 86,
-  "review_positive": 48,
+  "review_positive": 0,
   "review_percentage": 55.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -73,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 83,
-      "review_percentage": 59.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 86,
       "review_percentage": 55.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

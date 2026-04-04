@@ -3,8 +3,8 @@
   "name": "MyDream",
   "slug": "mydream",
   "developer": "MyDream Interactive, Inc",
-  "publisher": "MyDream Interactive, Inc",
-  "release_date": "Feb 20, 2015",
+  "publisher": "",
+  "release_date": "2015-02-20",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -28,67 +28,21 @@
   ],
   "short_description": "Build, terraform, quest, and explore your way across beautiful voxel-based worlds in MyDream!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/348860/header.jpg?t=1522858975",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/348860/ss_86684c3c2a05059144ac7021892a3575dbcc28d5.600x338.jpg?t=1522858975",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/348860/ss_4242a1da959859ae580f9647b26bd274692bbd94.600x338.jpg?t=1522858975",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/348860/ss_cc4dd8cc8abd80798fdd269b2339aa67317826c7.600x338.jpg?t=1522858975",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/348860/ss_5f76c3a89050c539676e80147e07248a0552596d.600x338.jpg?t=1522858975",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/348860/ss_73bf39a971b3f0611bae377a7875ee06ab4fe00f.600x338.jpg?t=1522858975",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/348860/ss_6ff1094c43cc506809bca96a22135d4f3e665091.600x338.jpg?t=1522858975",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/348860/ss_57e873d5a41e0d2f620dcd6770369f479958a6e4.600x338.jpg?t=1522858975",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/348860/ss_bc3e0ce6e4a55687de3abbe87a931044dd037b5b.600x338.jpg?t=1522858975",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/348860/ss_4088430146afd7f4c929b40b839227ac2b3958ea.600x338.jpg?t=1522858975",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/348860/ss_e300c82e7ccbedc7749df35e71c3910721065232.600x338.jpg?t=1522858975",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/348860/ss_595b8538523862549e44d052ce71087105ac3ca5.600x338.jpg?t=1522858975",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/348860/ss_a6a6cda943bcd63c432f50904324275c26b5740e.600x338.jpg?t=1522858975"
-  ],
-  "detailed_description": "MyDream is a sandbox game that combines grid-based building with organic and fully-deformable voxel terrain. Build, terraform, quest, and explore your way across various environments in beautiful and expansive worlds!<br />\r\n<br />\r\nMyDream Interactive Inc. set out on a bold journey to build a new voxel sandbox game to encourage creativity, courage, and collaboration among players. MyDream was built in Unity using the in-house VoxelForm engine, which allowed for high performance and exceptional deformation quality when altering the world.<br />\r\n<br />\r\nOver time, many features became deprecated, and rebuilding them became increasingly difficult. When the team started moving forward into the space of VR, a premium on performance and stability began to take precedence over open-world interaction and deformation, which caused the team to shift away from the voxel tech and ultimately MyDream itself in 2016.<br />\r\n<br />\r\nInstead of taking down the game from the store, the team decided to release it as-is so users can still check out and enjoy what was developed. Online mode is no longer possible, so offline play is all that is available. Some of what would later become Siege Hammer is available in the vr_towerdefense branch, however lack of VR SDK updates has left it inoperable for VR and unplayable without VR due to locked pitch. <br />\r\n<br />\r\nThank you to all of our fans, supporters, and backers, for giving us the opportunity to work on MyDream!",
-  "about_the_game": "MyDream is a sandbox game that combines grid-based building with organic and fully-deformable voxel terrain. Build, terraform, quest, and explore your way across various environments in beautiful and expansive worlds!<br />\r\n<br />\r\nMyDream Interactive Inc. set out on a bold journey to build a new voxel sandbox game to encourage creativity, courage, and collaboration among players. MyDream was built in Unity using the in-house VoxelForm engine, which allowed for high performance and exceptional deformation quality when altering the world.<br />\r\n<br />\r\nOver time, many features became deprecated, and rebuilding them became increasingly difficult. When the team started moving forward into the space of VR, a premium on performance and stability began to take precedence over open-world interaction and deformation, which caused the team to shift away from the voxel tech and ultimately MyDream itself in 2016.<br />\r\n<br />\r\nInstead of taking down the game from the store, the team decided to release it as-is so users can still check out and enjoy what was developed. Online mode is no longer possible, so offline play is all that is available. Some of what would later become Siege Hammer is available in the vr_towerdefense branch, however lack of VR SDK updates has left it inoperable for VR and unplayable without VR due to locked pitch. <br />\r\n<br />\r\nThank you to all of our fans, supporters, and backers, for giving us the opportunity to work on MyDream!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "VR Supported",
-    "Partial Controller Support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 99,
-  "review_positive": 64,
+  "review_positive": 0,
   "review_percentage": 64.6,
   "owner_estimate": 35000,
-  "ccu_estimate": 1,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 7357,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 97,
-      "review_percentage": 63.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
+      "date": "2026-04-04",
       "review_count": 99,
       "review_percentage": 64.6,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
-      "review_count": 99,
-      "review_percentage": 64.6,
-      "ccu_estimate": 1,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

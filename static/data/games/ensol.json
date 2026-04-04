@@ -3,8 +3,8 @@
   "name": "Ensol",
   "slug": "ensol",
   "developer": "Dragon Studios",
-  "publisher": "Dragon Studios",
-  "release_date": "Jun 30, 2023",
+  "publisher": "",
+  "release_date": "2023-06-30",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -19,34 +19,15 @@
   ],
   "short_description": "Explore and fight your way through an unknown solarpunk environment in this 3D isometric RPG. Uncover secrets as you go, encounter new enemies, and acquire upgrades from fallen foes.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437800/header.jpg?t=1688170757",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437800/ss_c9919046c6284f846a13609c09d9bf435f8731d9.600x338.jpg?t=1688170757",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437800/ss_1ace4826253964f0b336cad89dbb912d2e6c0dbf.600x338.jpg?t=1688170757",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437800/ss_042c2fbf3c85dd392be1ca1782cd2331dd874e36.600x338.jpg?t=1688170757",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437800/ss_db46934c28d935fb7f5074f028d985b3c31a5fb8.600x338.jpg?t=1688170757",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437800/ss_887cf8aa1c89ee8c3da0c0386bc998486d742620.600x338.jpg?t=1688170757"
-  ],
-  "detailed_description": "Wake up in an unknown cabin with no memories of who you are and what this place is. With the only companion in the room being … <br><br> a robot cat? <br><br>Who are you? What is going on? Why are you being warned to not go outside? Uncover all of these secrets and more.<br><br>Ensol is a 3D isometric narrative RPG set in a solarpunk world where the real enemies are the ones that want the best for you. Encounter enemies, upgrade your weapons, and ask your robot cat what is going on?!<br><br><u>Features:</u><br><ul class=\"bb_ul\"><li>Engaging story where every enemy has its own purpose.<br></li><li>A beautiful forest environment, all natural... or is it?<br></li><li>Unlock weapon upgrades as you progress.<br></li><li>A pettable robot Cat.<br></li><li>Smooth yet challenging combat.</li></ul>",
-  "about_the_game": "Wake up in an unknown cabin with no memories of who you are and what this place is. With the only companion in the room being … <br><br> a robot cat? <br><br>Who are you? What is going on? Why are you being warned to not go outside? Uncover all of these secrets and more.<br><br>Ensol is a 3D isometric narrative RPG set in a solarpunk world where the real enemies are the ones that want the best for you. Encounter enemies, upgrade your weapons, and ask your robot cat what is going on?!<br><br><u>Features:</u><br><ul class=\"bb_ul\"><li>Engaging story where every enemy has its own purpose.<br></li><li>A beautiful forest environment, all natural... or is it?<br></li><li>Unlock weapon upgrades as you progress.<br></li><li>A pettable robot Cat.<br></li><li>Smooth yet challenging combat.</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 5,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

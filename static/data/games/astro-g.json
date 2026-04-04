@@ -3,8 +3,8 @@
   "name": "Astro-g",
   "slug": "astro-g",
   "developer": "Sleep Dep Games",
-  "publisher": "Sleep Dep Games",
-  "release_date": "Jun 4, 2020",
+  "publisher": "",
+  "release_date": "2020-06-04",
   "price_usd": 1.99,
   "genres": [
     "Casual",
@@ -20,40 +20,17 @@
     "windows",
     "mac"
   ],
-  "short_description": "Astro-g is a gravity-based space puzzler, challenging players with over 40 unique levels and environments to conquer! You’ve only got one shot to make it to the portal, and it’ll take all you’ve got to weave together a safe path to victory!",
+  "short_description": "Astro-g is a gravity-based space puzzler, challenging players with over 40 unique levels and environments to conquer! You’ve only got one shot to make it to the portal, and it’ll take all you’ve got t",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260490/header.jpg?t=1591285605",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260490/ss_627b18ad7c8ac12e357a65581bb07a0b35918079.600x338.jpg?t=1591285605",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260490/ss_9f31e553e661946618f87c2f50065e351769e66f.600x338.jpg?t=1591285605",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260490/ss_0d0ac87c554e9c6b773bbae71f5617887c70ea28.600x338.jpg?t=1591285605",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260490/ss_935a99b865e0d7491e98ebcb0444dcc53775875f.600x338.jpg?t=1591285605",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260490/ss_a384dd9d40281df6a58b9cb777369b17cadfe9de.600x338.jpg?t=1591285605",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260490/ss_9611b37466161577ff9acb198ddcf92fba3b4402.600x338.jpg?t=1591285605",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260490/ss_a29cf536e2b182fe3bffde97c0460ec8787ab17e.600x338.jpg?t=1591285605",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260490/ss_c1902f4137c7a3e7fbfc756c41feb2a760aeda7a.600x338.jpg?t=1591285605",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260490/ss_9f2bab5e4bb9736eb62efc70be239ffe4e881627.600x338.jpg?t=1591285605"
-  ],
-  "detailed_description": "Astro-g is a gravity-based space puzzler, challenging players with over 40 unique levels and environments to conquer! You’ve only got one shot to make it to the portal, and it’ll take all you’ve got to weave together a safe path to victory. With four galaxies to explore and a number of environmental surprises, there’s a lot to discover on your way back home. Challenge yourself to achieve perfection by seeking out better times and inventive paths through the levels.",
-  "about_the_game": "Astro-g is a gravity-based space puzzler, challenging players with over 40 unique levels and environments to conquer! You’ve only got one shot to make it to the portal, and it’ll take all you’ve got to weave together a safe path to victory. With four galaxies to explore and a number of environmental surprises, there’s a lot to discover on your way back home. Challenge yourself to achieve perfection by seeking out better times and inventive paths through the levels.",
-  "supported_languages": "English, German, Russian, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.45,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 9,
-  "review_positive": 9,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -61,19 +38,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

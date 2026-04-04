@@ -3,8 +3,8 @@
   "name": "Auto Rogue",
   "slug": "auto-rogue",
   "developer": "定期的な宝物",
-  "publisher": "定期的な宝物",
-  "release_date": "May 23, 2025",
+  "publisher": "",
+  "release_date": "2025-05-23",
   "price_usd": 6.99,
   "genres": [
     "Indie",
@@ -21,77 +21,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "A roguelike where you automate combat. Combine skills and conditions to find your own optimal solution! No complicated controls at all!! Sit back with a coffee and watch the beautiful battles you've crafted unfold! Utilize a variety of skills, conditions, and relics to craft the ultimate build!",
+  "short_description": "A roguelike where you automate combat. Combine skills and conditions to find your own optimal solution! No complicated controls at all!! Sit back with a coffee and watch the beautiful battles you've c",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/110782b30af43c4a40e036fcbd00fcaab6a87bb4/header.jpg?t=1748424098",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/1ebe13fba8f04d82f0cb24fbbea9f772fed5fbf9/ss_1ebe13fba8f04d82f0cb24fbbea9f772fed5fbf9.600x338.jpg?t=1748424098",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/58f97f457c4cd0c89c082651ed0c1df9e60d56ca/ss_58f97f457c4cd0c89c082651ed0c1df9e60d56ca.600x338.jpg?t=1748424098",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/b9b31efe82ad184297482d918505f2ba027a6db7/ss_b9b31efe82ad184297482d918505f2ba027a6db7.600x338.jpg?t=1748424098",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/3b4b815dce6dd92da6f71c8755ce47d15bb94ad7/ss_3b4b815dce6dd92da6f71c8755ce47d15bb94ad7.600x338.jpg?t=1748424098",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/337559b0b8d2ca49eb0a4c0c7859daa61283f8e2/ss_337559b0b8d2ca49eb0a4c0c7859daa61283f8e2.600x338.jpg?t=1748424098",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/ca9480f03311f7fd79da2754774142d428e76bc6/ss_ca9480f03311f7fd79da2754774142d428e76bc6.600x338.jpg?t=1748424098"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/988cc31253b3ae6360400ae72f1bac18.poster.avif?t=1748424098\" width=800 height=282 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/988cc31253b3ae6360400ae72f1bac18.webm?t=1748424098\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/988cc31253b3ae6360400ae72f1bac18.mp4?t=1748424098\" type=\"video/mp4\"></video></span>Combat Programming Roguelike</h2><p class=\"bb_paragraph\" >AutoRogue<i> </i>is a roguelike where you combine skills with conditions to automate battles. you can sit back, enjoy your coffee, and watch your carefully crafted automated battles unfold.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/11aaf752715ed0d6814d4d2f2a9c2dcf.poster.avif?t=1748424098\" width=800 height=282 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/11aaf752715ed0d6814d4d2f2a9c2dcf.webm?t=1748424098\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/11aaf752715ed0d6814d4d2f2a9c2dcf.mp4?t=1748424098\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>Condensing the Best of Auto-Battles</strong></h2><p class=\"bb_paragraph\" >In this game, everything is decided before the battle begins. Your available items, build direction, and the unique traits of enemies change every time, making it fun to devise the optimal strategy. Careful planning will always give you an advantage.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/e6e94bd7032405640f9107cdda557528.poster.avif?t=1748424098\" width=800 height=282 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/e6e94bd7032405640f9107cdda557528.webm?t=1748424098\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/e6e94bd7032405640f9107cdda557528.mp4?t=1748424098\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>Explore Your Own Unique Build</strong></h2><p class=\"bb_paragraph\" >In <i>『</i>AutoRogue<i>』</i>, you can enhance basic skills by combining them with special conditions to create new effects. For example:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >A skill may reduce HP upon use but lower its cost.</p></li><li><p class=\"bb_paragraph\" >A skill could increase your max HP permanently if it lands the finishing blow.</p></li><li><p class=\"bb_paragraph\" >A skill’s cost may double, but it activates twice in succession.</p></li></ul><p class=\"bb_paragraph\" >With a wide variety of combinations, you can create your own unique and exciting build.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/d20cd8a85daf658337ee34794a416791.poster.avif?t=1748424098\" width=800 height=282 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/d20cd8a85daf658337ee34794a416791.webm?t=1748424098\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/d20cd8a85daf658337ee34794a416791.mp4?t=1748424098\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>The More You Play, the More Fun It Gets</strong></h2><p class=\"bb_paragraph\" >In this game, it’s not the character that gets stronger, but the player. As you gain experience, you'll sharpen your knowledge and strategy. With different enemies, skills, and events appearing in every run, you can enjoy the game over and over again.</p>",
-  "about_the_game": "<h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/988cc31253b3ae6360400ae72f1bac18.poster.avif?t=1748424098\" width=800 height=282 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/988cc31253b3ae6360400ae72f1bac18.webm?t=1748424098\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/988cc31253b3ae6360400ae72f1bac18.mp4?t=1748424098\" type=\"video/mp4\"></video></span>Combat Programming Roguelike</h2><p class=\"bb_paragraph\" >AutoRogue<i> </i>is a roguelike where you combine skills with conditions to automate battles. you can sit back, enjoy your coffee, and watch your carefully crafted automated battles unfold.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/11aaf752715ed0d6814d4d2f2a9c2dcf.poster.avif?t=1748424098\" width=800 height=282 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/11aaf752715ed0d6814d4d2f2a9c2dcf.webm?t=1748424098\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/11aaf752715ed0d6814d4d2f2a9c2dcf.mp4?t=1748424098\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>Condensing the Best of Auto-Battles</strong></h2><p class=\"bb_paragraph\" >In this game, everything is decided before the battle begins. Your available items, build direction, and the unique traits of enemies change every time, making it fun to devise the optimal strategy. Careful planning will always give you an advantage.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/e6e94bd7032405640f9107cdda557528.poster.avif?t=1748424098\" width=800 height=282 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/e6e94bd7032405640f9107cdda557528.webm?t=1748424098\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/e6e94bd7032405640f9107cdda557528.mp4?t=1748424098\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>Explore Your Own Unique Build</strong></h2><p class=\"bb_paragraph\" >In <i>『</i>AutoRogue<i>』</i>, you can enhance basic skills by combining them with special conditions to create new effects. For example:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >A skill may reduce HP upon use but lower its cost.</p></li><li><p class=\"bb_paragraph\" >A skill could increase your max HP permanently if it lands the finishing blow.</p></li><li><p class=\"bb_paragraph\" >A skill’s cost may double, but it activates twice in succession.</p></li></ul><p class=\"bb_paragraph\" >With a wide variety of combinations, you can create your own unique and exciting build.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/d20cd8a85daf658337ee34794a416791.poster.avif?t=1748424098\" width=800 height=282 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/d20cd8a85daf658337ee34794a416791.webm?t=1748424098\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3553210/extras/d20cd8a85daf658337ee34794a416791.mp4?t=1748424098\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>The More You Play, the More Fun It Gets</strong></h2><p class=\"bb_paragraph\" >In this game, it’s not the character that gets stronger, but the player. As you gain experience, you'll sharpen your knowledge and strategy. With different enemies, skills, and events appearing in every run, you can enjoy the game over and over again.</p>",
-  "supported_languages": "English, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 693,
-  "rising_score": 0.0041,
-  "gem_score": 0.4177,
+  "screenshots": [],
+  "rising_score": 0.0002,
+  "gem_score": 57.6523,
   "hype_score": 0.0,
-  "review_velocity_7d": 364.0,
+  "review_velocity_7d": 35.15,
   "follower_velocity_7d": 0.0,
   "classification": "hidden_gem",
   "review_count": 703,
-  "review_positive": 647,
+  "review_positive": 0,
   "review_percentage": 92.0,
   "owner_estimate": 35000,
-  "ccu_estimate": 247,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 834,
-  "gem_tier": "proven",
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 339,
-      "review_percentage": 93.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
-      "review_count": 702,
+      "date": "2026-04-04",
+      "review_count": 703,
       "review_percentage": 92.0,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
-      "review_count": 703,
-      "review_percentage": 92.0,
-      "ccu_estimate": 247,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
-      "review_count": 703,
-      "review_percentage": 92.0,
-      "ccu_estimate": 247,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
-      "review_count": 703,
-      "review_percentage": 92.0,
-      "ccu_estimate": 247,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

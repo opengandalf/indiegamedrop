@@ -3,8 +3,8 @@
   "name": "FLIKK",
   "slug": "flikk",
   "developer": "zzzurb, undefined0",
-  "publisher": "zzzurb",
-  "release_date": "Jul 4, 2024",
+  "publisher": "",
+  "release_date": "2024-07-04",
   "price_usd": 3.99,
   "genres": [
     "Action",
@@ -21,40 +21,15 @@
   ],
   "short_description": "A fast-paced precision platformer where your aim is to reach the goal by toggling objects on and off, perchance.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2834470/header.jpg?t=1771710987",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2834470/ss_1f3afeb63e217cd2e6acb4ae2425235b3f0f4c1b.600x338.jpg?t=1771710987",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2834470/ss_a64912fb9ee60a3a0c7301c8a000931683b08aec.600x338.jpg?t=1771710987",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2834470/ss_dd9817f2c8abbc816d36a6fd4b069a8eb6a94aed.600x338.jpg?t=1771710987",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2834470/ss_4c16aa5ec14bdda0a8a4ebe1edfb7a750011f16e.600x338.jpg?t=1771710987",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2834470/ss_3af5656837cddb00a1e1a2d32858cd8bdb223ad9.600x338.jpg?t=1771710987",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2834470/ss_b1f0ddbc6be55a34dc16d79de8ce739a8e260a80.600x338.jpg?t=1771710987",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2834470/ss_b25da87c753082d51cb76cb21a388b564734580a.600x338.jpg?t=1771710987",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2834470/195fc991c48670c37f5de72cfb59e58ea74080f8/ss_195fc991c48670c37f5de72cfb59e58ea74080f8.600x338.jpg?t=1771710987",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2834470/d5c2e951dbddf1bede780ad801fedc95dead5072/ss_d5c2e951dbddf1bede780ad801fedc95dead5072.600x338.jpg?t=1771710987"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >FLIKK is a fast-paced precision platformer where your aim is to reach the goal by toggling objects on and off, perchance! Avoid obstacles and use platforms to your advantage in order to complete endless user-created levels and earn rewards perchance. You can create your own levels with the built-in level editor perchance, where you can share your levels for others to play perchance. If that doesn't take your fancy, you can challenge yourself to beat more difficult levels that give better rewards perchance, or even join the speedrunning community to see how fast you can beat levels perchance! </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><i>PS: There is a button just to the right of this text where you can join the Discord server perchance. There you can suggest features, chat with the community and get involved with special events perchance!</i></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >FLIKK is a fast-paced precision platformer where your aim is to reach the goal by toggling objects on and off, perchance! Avoid obstacles and use platforms to your advantage in order to complete endless user-created levels and earn rewards perchance. You can create your own levels with the built-in level editor perchance, where you can share your levels for others to play perchance. If that doesn't take your fancy, you can challenge yourself to beat more difficult levels that give better rewards perchance, or even join the speedrunning community to see how fast you can beat levels perchance! </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><i>PS: There is a button just to the right of this text where you can join the Discord server perchance. There you can suggest features, chat with the community and get involved with special events perchance!</i></p>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Stats",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 7,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 57.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 57.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

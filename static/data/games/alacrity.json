@@ -3,8 +3,8 @@
   "name": "Alacrity",
   "slug": "alacrity",
   "developer": "Zhang Huiqin",
-  "publisher": "Zhang Huiqin",
-  "release_date": "Jan 25, 2025",
+  "publisher": "",
+  "release_date": "2025-01-25",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -19,32 +19,15 @@
   ],
   "short_description": "This game plunges players into a challenging desert adventure",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3447340/header.jpg?t=1737803823",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3447340/ss_9a107b0dfce817d3924ce7573ec3020da6f0e145.600x338.jpg?t=1737803823",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3447340/ss_6adaf3ced228b0e9917c831e76db6404248525d3.600x338.jpg?t=1737803823",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3447340/ss_9949c514da0a31f6e97e4d871c76b07c1be313c0.600x338.jpg?t=1737803823",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3447340/ss_d6bbf264ad42e68746b43a532c5bc7f4485738ce.600x338.jpg?t=1737803823",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3447340/ss_c9a62da42f4ea319b39ed7c08a8e6053b0c4d61e.600x338.jpg?t=1737803823"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >This game plunges players into a challenging desert adventure, where they play as the brave Piggy Hero, navigating through the desert using the ASDW keys.</p><p class=\"bb_paragraph\" > The game's visuals are vivid and realistic, depicting the vastness and desolation of the desert. Players must help Piggy Hero avoid obstacles such as flames and monsters while collecting a variety of rewards along the way. These rewards not only provide Piggy Hero with additional power or health but also trigger special sound effects when obtained, adding to the game's entertainment value. The game is set at a high difficulty level, with obstacles becoming progressively more complex as players advance through the levels. When players fail, specific sound effects are played to keep the gameplay tight and exciting. This game is perfect for those who love challenges and adventures.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >This game plunges players into a challenging desert adventure, where they play as the brave Piggy Hero, navigating through the desert using the ASDW keys.</p><p class=\"bb_paragraph\" > The game's visuals are vivid and realistic, depicting the vastness and desolation of the desert. Players must help Piggy Hero avoid obstacles such as flames and monsters while collecting a variety of rewards along the way. These rewards not only provide Piggy Hero with additional power or health but also trigger special sound effects when obtained, adding to the game's entertainment value. The game is set at a high difficulty level, with obstacles becoming progressively more complex as players advance through the levels. When players fail, specific sound effects are played to keep the gameplay tight and exciting. This game is perfect for those who love challenges and adventures.</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 4,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

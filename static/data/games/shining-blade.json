@@ -3,8 +3,8 @@
   "name": "Shining Blade",
   "slug": "shining-blade",
   "developer": "hellorabbitstudio",
-  "publisher": "hellorabbitstudio",
-  "release_date": "Jan 5, 2022",
+  "publisher": "",
+  "release_date": "2022-01-05",
   "price_usd": 5.0,
   "genres": [
     "Adventure",
@@ -23,32 +23,9 @@
   ],
   "short_description": "2D platformer",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636970/header.jpg?t=1746937713",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636970/c442db763a29cc70df9c5745015698a874608286/ss_c442db763a29cc70df9c5745015698a874608286.600x338.jpg?t=1746937713",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636970/828c8131f55d68fc176824a1f2c36b5e1f6d0895/ss_828c8131f55d68fc176824a1f2c36b5e1f6d0895.600x338.jpg?t=1746937713",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636970/381f1b3b88e9e3367f249b3e68052f6ceb8ab69a/ss_381f1b3b88e9e3367f249b3e68052f6ceb8ab69a.600x338.jpg?t=1746937713",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636970/eae3fa40632dbc7c6b2860f9993300794fdd3ca1/ss_eae3fa40632dbc7c6b2860f9993300794fdd3ca1.600x338.jpg?t=1746937713",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636970/29575ad0ed8a0cb44ab7bec085b99d98a282d63d/ss_29575ad0ed8a0cb44ab7bec085b99d98a282d63d.600x338.jpg?t=1746937713"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >2D platformer</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >2D platformer</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

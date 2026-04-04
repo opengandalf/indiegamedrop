@@ -3,8 +3,8 @@
   "name": "Chroma Key",
   "slug": "chroma-key",
   "developer": "Max Wilde",
-  "publisher": "Max Wilde",
-  "release_date": "Sep 5, 2022",
+  "publisher": "",
+  "release_date": "2022-09-05",
   "price_usd": 1.99,
   "genres": [
     "Indie"
@@ -17,32 +17,15 @@
   ],
   "short_description": "Chroma key is a puzzle platformer about swapping a colored lens to activate/deactivate objects in the world!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2115300/header.jpg?t=1662383655",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2115300/ss_9651c739b50d66aa630a8cd30a0a7a831922428a.600x338.jpg?t=1662383655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2115300/ss_9042a2eec2d9a90c8cba38d3914a5f918ef90c91.600x338.jpg?t=1662383655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2115300/ss_76ab6089d838fe2372e58af408fb2744b6e0edec.600x338.jpg?t=1662383655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2115300/ss_7284b00bafc38e9568dfa940a5234b8aa76ee80a.600x338.jpg?t=1662383655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2115300/ss_11e8827319695095f6086af2509d881aec7dc7d0.600x338.jpg?t=1662383655"
-  ],
-  "detailed_description": "Chroma key is a puzzle platformer about swapping a colored lens to activate/deactivate objects in the world!<br />\r\n<br />\r\nOnly platforms and objects whose color matches your lens will be active. Think and maneuver through 14 levels with lacks, keys, buttons & receivers, bouncing balls, portal & more!<br />\r\n<br />\r\nAccessibility is at the center of Chroma Key. Toggleable slow motion to help with difficult platforming, mouse controls as well as keyboard for most actions, fully rebindable keyboard controls, ambient hints and customizable colorblind options ensure that Chroma Key is for everyone!",
-  "about_the_game": "Chroma key is a puzzle platformer about swapping a colored lens to activate/deactivate objects in the world!<br />\r\n<br />\r\nOnly platforms and objects whose color matches your lens will be active. Think and maneuver through 14 levels with lacks, keys, buttons & receivers, bouncing balls, portal & more!<br />\r\n<br />\r\nAccessibility is at the center of Chroma Key. Toggleable slow motion to help with difficult platforming, mouse controls as well as keyboard for most actions, fully rebindable keyboard controls, ambient hints and customizable colorblind options ensure that Chroma Key is for everyone!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

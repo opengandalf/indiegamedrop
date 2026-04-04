@@ -3,8 +3,8 @@
   "name": "Cubeverse",
   "slug": "cubeverse",
   "developer": "Alfa-Omega",
-  "publisher": "Alfa-Omega",
-  "release_date": "Oct 9, 2018",
+  "publisher": "",
+  "release_date": "2018-10-09",
   "price_usd": 0.0,
   "genres": [
     "Indie",
@@ -22,35 +22,15 @@
   ],
   "short_description": "Cubeverse is a 3D puzzle game, where you can play with your favorite cube puzzles in one place",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936560/header.jpg?t=1659617086",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936560/ss_87a20abfee8eef941f29022214ed4fe83e993cda.600x338.jpg?t=1659617086",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936560/ss_c943282fe77b05649169b3541742a5abd2f07293.600x338.jpg?t=1659617086",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936560/ss_26ab87081cec6af61b867668d1cf066224a6ddfa.600x338.jpg?t=1659617086",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936560/ss_02b116162a58e1c8611e44887d01435560327a18.600x338.jpg?t=1659617086",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936560/ss_3343e5b07880f0e935696ddeda14e68c32e2f6f0.600x338.jpg?t=1659617086",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936560/ss_dc94ba6e8e3ce2febb506eb40be6cd4af0dc963d.600x338.jpg?t=1659617086",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936560/ss_d4c78eae7873076b336045e2f2051b90c7639421.600x338.jpg?t=1659617086",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936560/ss_1329be967893a17a5497568c705d6895ca6405cf.600x338.jpg?t=1659617086"
-  ],
-  "detailed_description": "Cubeverse is a 3d puzzle game, the goal is to reach the solve state of each cube puzzle, several cube puzzles are available and each puzzle has millions of unsolved states, so every solve will be different, you can solve the same cube puzzle over and over again with different solutions.<br><br>Every time you solve a cube you earn money which can be spent to buy new cube puzzles (different and more difficult puzzles).<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li>Several cube puzzles to be solved over and over again<br></li><li>Regular mode (solve the whole cube)<br></li><li>Face mode (solve the target face)<br></li><li>Earn money and spend it in new cubes<br><br></li><li>More content is coming...</li></ul><h2 class=\"bb_tag\" >Early access development</h2>The game is currently in development (Early access state), and you can participate in the development of the game, don't hesitate in post your ideas in the steam forum",
-  "about_the_game": "Cubeverse is a 3d puzzle game, the goal is to reach the solve state of each cube puzzle, several cube puzzles are available and each puzzle has millions of unsolved states, so every solve will be different, you can solve the same cube puzzle over and over again with different solutions.<br><br>Every time you solve a cube you earn money which can be spent to buy new cube puzzles (different and more difficult puzzles).<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li>Several cube puzzles to be solved over and over again<br></li><li>Regular mode (solve the whole cube)<br></li><li>Face mode (solve the target face)<br></li><li>Earn money and spend it in new cubes<br><br></li><li>More content is coming...</li></ul><h2 class=\"bb_tag\" >Early access development</h2>The game is currently in development (Early access state), and you can participate in the development of the game, don't hesitate in post your ideas in the steam forum",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +38,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

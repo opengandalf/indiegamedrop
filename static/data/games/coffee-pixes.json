@@ -3,8 +3,8 @@
   "name": "Coffee Pixes",
   "slug": "coffee-pixes",
   "developer": "Fuyu Games AB",
-  "publisher": "Fuyu Games AB",
-  "release_date": "Nov 7, 2017",
+  "publisher": "",
+  "release_date": "2017-11-07",
   "price_usd": 0.74,
   "genres": [
     "Indie"
@@ -17,35 +17,15 @@
   ],
   "short_description": "Coffee Pixes is a relaxing puzzle game in which you place 'Pixes' on to the board in a row to clear them.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/695460/header.jpg?t=1666984147",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/695460/ss_5cbb8ffa654d0b50a25354150b5bd08826b85a87.600x338.jpg?t=1666984147",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/695460/ss_ddd629d39fa7fbd494778b7ff89a71e222dc1a09.600x338.jpg?t=1666984147",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/695460/ss_14a081ec59fa96a4990da26485443bd135cbfaad.600x338.jpg?t=1666984147",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/695460/ss_52c46a53697bf2182d77a0c22628285a772a78df.600x338.jpg?t=1666984147",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/695460/ss_2c9b16bacfc762cb995bd056be58de29eca63c34.600x338.jpg?t=1666984147"
-  ],
-  "detailed_description": "Coffee Pixes is a relaxing puzzle game in which you place 'Pixes' on to the board in a row to clear them.<br><br>The goal is to fill the lines from one side to the other. If you don't have anywhere to put, the game is over. Remove combinations of rows to get bonus points. Extra points are also given if black Pixes are removed. <br><br>Features<br><br><ul class=\"bb_ul\"><li> 15 Achievements<br></li><li> 5 Unique Themes<br></li><li> Leaderboards<br></li><li> Simple Game Mechanics<br></li><li> Windowed Mode</li></ul>",
-  "about_the_game": "Coffee Pixes is a relaxing puzzle game in which you place 'Pixes' on to the board in a row to clear them.<br><br>The goal is to fill the lines from one side to the other. If you don't have anywhere to put, the game is over. Remove combinations of rows to get bonus points. Extra points are also given if black Pixes are removed. <br><br>Features<br><br><ul class=\"bb_ul\"><li> 15 Achievements<br></li><li> 5 Unique Themes<br></li><li> Leaderboards<br></li><li> Simple Game Mechanics<br></li><li> Windowed Mode</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Stats",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 5,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 60.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 60.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 60.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

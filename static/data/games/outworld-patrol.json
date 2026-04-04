@@ -3,8 +3,8 @@
   "name": "Outworld Patrol",
   "slug": "outworld-patrol",
   "developer": "rainstory.games",
-  "publisher": "rainstory.games",
-  "release_date": "Jul 26, 2023",
+  "publisher": "",
+  "release_date": "2023-07-26",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -17,39 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Control a space rover as you jump to avoid obstacles on a horizontally scrolling landscape while shooting down alien ships that shoot missiles from above or charge you head on. A love letter to the first game I ever played on PC.",
+  "short_description": "Control a space rover as you jump to avoid obstacles on a horizontally scrolling landscape while shooting down alien ships that shoot missiles from above or charge you head on. A love letter to the fi",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2196050/header.jpg?t=1690358135",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2196050/ss_1b2163336f173cb02d75647b6431b73ed41a86b9.600x338.jpg?t=1690358135",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2196050/ss_65883225e0ab62963c6c9f1e8731342f57ff90d7.600x338.jpg?t=1690358135",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2196050/ss_b94cdbfb81f3e8b48a9f925390dd34bd9c5dc77e.600x338.jpg?t=1690358135",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2196050/ss_a766c3ab6bafa3573df55762891c1bc7b0725a0a.600x338.jpg?t=1690358135",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2196050/ss_e3312c07a13ad411297db4288d48a8c17d2a1b91.600x338.jpg?t=1690358135",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2196050/ss_7c3ea1ab9e77923f45b70518dcf87353b23eb133.600x338.jpg?t=1690358135",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2196050/ss_289cc3bf436dd2d91dd24260defc52f8e39cc775.600x338.jpg?t=1690358135",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2196050/ss_b0a999addf13c1ccb377d9a28f5e970cad329790.600x338.jpg?t=1690358135"
-  ],
-  "detailed_description": "Outworld Patrol is a side-scrolling action-shooting game inspired by one of the first games I ever played on PC. <br />\r\n<br />\r\nControl a space rover as you jump to avoid obstacles on a horizontally scrolling landscape while shooting down alien ships that shoot missiles from above or charge at you head on.<br />\r\n<br />\r\nThe goal is to reach the planetary station in the shortest amount of time while taking minimal damage.<br />\r\n<br />\r\nBuilt in Unreal Engine, the initial goal of the project was for me to expand my knowledge in the engine and to recreate a beloved game motivated by my own nostalgia.",
-  "about_the_game": "Outworld Patrol is a side-scrolling action-shooting game inspired by one of the first games I ever played on PC. <br />\r\n<br />\r\nControl a space rover as you jump to avoid obstacles on a horizontally scrolling landscape while shooting down alien ships that shoot missiles from above or charge at you head on.<br />\r\n<br />\r\nThe goal is to reach the planetary station in the shortest amount of time while taking minimal damage.<br />\r\n<br />\r\nBuilt in Unreal Engine, the initial goal of the project was for me to expand my knowledge in the engine and to recreate a beloved game motivated by my own nostalgia.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 5,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

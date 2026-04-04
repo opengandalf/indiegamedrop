@@ -3,8 +3,8 @@
   "name": "Letter Bender",
   "slug": "letter-bender",
   "developer": "cosmic_dust",
-  "publisher": "cosmic_dust",
-  "release_date": "Apr 5, 2022",
+  "publisher": "",
+  "release_date": "2022-04-05",
   "price_usd": 0.67,
   "genres": [
     "Strategy"
@@ -17,33 +17,9 @@
   ],
   "short_description": "A spelling-based puzzle game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1939690/header.jpg?t=1649158796",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1939690/ss_11c60b3dcf088677b4bbcad0994837a2ea5dc03d.600x338.jpg?t=1649158796",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1939690/ss_550291445090c17db943fd2c022c04ecbe0e5bd9.600x338.jpg?t=1649158796",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1939690/ss_de8504c2ca98eb050e6c8e0a2b52ca7300f9d83d.600x338.jpg?t=1649158796",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1939690/ss_fad68b68f0f7af43e7166cef8f768740ab3577d6.600x338.jpg?t=1649158796",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1939690/ss_0e287f413805347c67146f62da80c54c2b0cbc1d.600x338.jpg?t=1649158796"
-  ],
-  "detailed_description": "Letter Bender is a puzzle game that makes use of spelling and some basic algebra. The player is given a set of letters and asked to spell a certain word. The given letters can be transmuted using the given effects. You can turn your letters into vowels, reverse their orders in the alphabet, duplicate them and move them around. <br />\r\n<br />\r\nThe initial 10 levels of the game display these transmutations rather clearly and then leaves the player to solve 80 more levels, for a total of 90 levels! <br />\r\nControls<br />\r\nMouse to select, move letters. <br />\r\nR to reset the level.",
-  "about_the_game": "Letter Bender is a puzzle game that makes use of spelling and some basic algebra. The player is given a set of letters and asked to spell a certain word. The given letters can be transmuted using the given effects. You can turn your letters into vowels, reverse their orders in the alphabet, duplicate them and move them around. <br />\r\n<br />\r\nThe initial 10 levels of the game display these transmutations rather clearly and then leaves the player to solve 80 more levels, for a total of 90 levels! <br />\r\nControls<br />\r\nMouse to select, move letters. <br />\r\nR to reset the level.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "BEATris",
   "slug": "beatris",
   "developer": "Rhythmical Badass",
-  "publisher": "Rhythmical Badass",
-  "release_date": "Sep 30, 2021",
+  "publisher": "",
+  "release_date": "2021-09-30",
   "price_usd": 2.99,
   "genres": [
     "Action",
@@ -21,36 +21,15 @@
   ],
   "short_description": "BEATris is a puzzle-based rhythm game. Feel the rhythm as you bash the blocks with the power of music! Enjoy various levels with unique soundtracks. Make and share your own level on Steam Workshop.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/708890/header.jpg?t=1759793769",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/708890/ss_c7d93808f7b220de9e704497ac6f66fb60a795bd.600x338.jpg?t=1759793769",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/708890/ss_eba4dd3fca658a2b841d8ea1e935a97e9d5b2322.600x338.jpg?t=1759793769",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/708890/ss_1df736a1197f8ff086cf7860257c34864580c2bb.600x338.jpg?t=1759793769",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/708890/ss_9e1de9a444df8e326ef4b2825cba6b6f7c46ee3b.600x338.jpg?t=1759793769",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/708890/ss_dcfdd4305ba5c7dd74990cf53e462c7bb5c82630.600x338.jpg?t=1759793769"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >BEATris : Rhythm! Puzzle! Action!  </h2><br>Survive the block-hell situation until the end of the music. Control the blocks falling with the beats and fill the lines to destroy them. Enjoy the music while the level shifts with the rhythm.<br><br>BEATris presents a new wave in rhythm game genre. Inspired by the classic puzzle game Tetris, the game gives you a strategic gameplay with the rhythmical flow from the music.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Various EDM Soundtracks to enjoy<br></li><li> Unique levels that are brutally fun<br></li><li> Make creative levels with your favorite music on Level Editor<br></li><li> Share your levels on Steam Workshop<br></li><li> With Steam Cloud integration, create your level anywhere everwhere</li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" >BEATris : Rhythm! Puzzle! Action!  </h2><br>Survive the block-hell situation until the end of the music. Control the blocks falling with the beats and fill the lines to destroy them. Enjoy the music while the level shifts with the rhythm.<br><br>BEATris presents a new wave in rhythm game genre. Inspired by the classic puzzle game Tetris, the game gives you a strategic gameplay with the rhythmical flow from the music.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Various EDM Soundtracks to enjoy<br></li><li> Unique levels that are brutally fun<br></li><li> Make creative levels with your favorite music on Level Editor<br></li><li> Share your levels on Steam Workshop<br></li><li> With Steam Cloud integration, create your level anywhere everwhere</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Workshop",
-    "Steam Cloud",
-    "Steam Leaderboards",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 2.3000000000000003,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 46,
-  "review_positive": 35,
+  "review_positive": 0,
   "review_percentage": 76.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 46,
-      "review_percentage": 76.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 46,
       "review_percentage": 76.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

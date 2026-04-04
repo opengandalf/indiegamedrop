@@ -3,8 +3,8 @@
   "name": "8th Avenue",
   "slug": "8th-avenue",
   "developer": "No Mad Studio",
-  "publisher": "No Mad Studio",
-  "release_date": "Mar 21, 2025",
+  "publisher": "",
+  "release_date": "2025-03-21",
   "price_usd": 4.99,
   "genres": [
     "Adventure",
@@ -21,36 +21,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Endless looping streets, elusive anomalies, psychological and courage-testing pressure, the deeper you go, the clearer it becomes, integrate details to trigger multiple endings, success or failure hangs by a thread.",
+  "short_description": "Endless looping streets, elusive anomalies, psychological and courage-testing pressure, the deeper you go, the clearer it becomes, integrate details to trigger multiple endings, success or failure han",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573180/d6a479b505107f82596eb422e31070a5a6ccf306/header.jpg?t=1743187695",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573180/e92c2d99be71232418690a18b8f5da90d3bcfdf9/ss_e92c2d99be71232418690a18b8f5da90d3bcfdf9.600x338.jpg?t=1743187695",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573180/1d7802d73d46730244dd338e86b4bf5ae7611d3e/ss_1d7802d73d46730244dd338e86b4bf5ae7611d3e.600x338.jpg?t=1743187695",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573180/0515dd8aa42a0dec452c4cd5dd3ed2c1070de6c5/ss_0515dd8aa42a0dec452c4cd5dd3ed2c1070de6c5.600x338.jpg?t=1743187695",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573180/83b6667dc976173404de6642a827d79c65f8a5a3/ss_83b6667dc976173404de6642a827d79c65f8a5a3.600x338.jpg?t=1743187695",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3573180/22b34d18cbede1a1602b6c033e263b2a03b97a80/ss_22b34d18cbede1a1602b6c033e263b2a03b97a80.600x338.jpg?t=1743187695"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >\"8th Avenue\" is a single-player exploration adventure game that combines anomalies, thrillers, and horror.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Players drive cars on the road, and there is a certain probability of encountering anomalies each time. If the player determines that there is an anomaly on the current street, he can choose to turn around. If there is no anomaly, he will continue to drive forward. If the judgment is correct, he will enter the next street. If the judgment fails, he will return to the initial street and fall into an infinite loop. Players need to leave this place from Eighth Avenue through their own efforts.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Game Features:</p><p class=\"bb_paragraph\" >• Experience a variety of anomalies (obvious, hidden, interactive, thrilling, etc.);</p><p class=\"bb_paragraph\" >• Simple driving operation, tricky first-person perspective, exciting game experience;</p><p class=\"bb_paragraph\" >• Seemingly irrelevant anomalies, but actually hidden mysteries;</p><p class=\"bb_paragraph\" >• The more anomalies you explore, the clearer the ending;</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >\"8th Avenue\" is a single-player exploration adventure game that combines anomalies, thrillers, and horror.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Players drive cars on the road, and there is a certain probability of encountering anomalies each time. If the player determines that there is an anomaly on the current street, he can choose to turn around. If there is no anomaly, he will continue to drive forward. If the judgment is correct, he will enter the next street. If the judgment fails, he will return to the initial street and fall into an infinite loop. Players need to leave this place from Eighth Avenue through their own efforts.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Game Features:</p><p class=\"bb_paragraph\" >• Experience a variety of anomalies (obvious, hidden, interactive, thrilling, etc.);</p><p class=\"bb_paragraph\" >• Simple driving operation, tricky first-person perspective, exciting game experience;</p><p class=\"bb_paragraph\" >• Seemingly irrelevant anomalies, but actually hidden mysteries;</p><p class=\"bb_paragraph\" >• The more anomalies you explore, the clearer the ending;</p>",
-  "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Japanese, Simplified Chinese<strong>*</strong>, Korean<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.30000000000000004,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 6,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

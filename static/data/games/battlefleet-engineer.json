@@ -3,8 +3,8 @@
   "name": "Battlefleet Engineer",
   "slug": "battlefleet-engineer",
   "developer": "Tomi Syväjärvi",
-  "publisher": "Tomi Syväjärvi",
-  "release_date": "Aug 18, 2017",
+  "publisher": "",
+  "release_date": "2017-08-18",
   "price_usd": 1.99,
   "genres": [
     "Indie",
@@ -21,40 +21,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Engineer spaceships, compose fleets and command them in in real-time battles. All ships are completely defined by their module composition. Achieve victory with brilliant command on the battlefield and by engineering it into your fleet.",
+  "short_description": "Engineer spaceships, compose fleets and command them in in real-time battles. All ships are completely defined by their module composition. Achieve victory with brilliant command on the battlefield an",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/685910/header.jpg?t=1765129918",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/685910/ss_4f247088a7e0ea947788577271bdb66db4e175ed.600x338.jpg?t=1765129918",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/685910/ss_1755223b31c5277d7693b000402ebc3104849267.600x338.jpg?t=1765129918",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/685910/ss_2f8e146f789bd8d59ea813cb56a5e224778beb43.600x338.jpg?t=1765129918",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/685910/ss_9eec9aa61b8fbd74219b900e1852343227a07b44.600x338.jpg?t=1765129918",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/685910/ss_44953d7dde19b7b870780c704085c5d5c51f8916.600x338.jpg?t=1765129918",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/685910/ss_ebeaddaf8db5793fc9fac7d521c59b19be0af955.600x338.jpg?t=1765129918",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/685910/ss_bf6384f633a59388a8f36ef295690c8c148f4469.600x338.jpg?t=1765129918",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/685910/ss_8f6cb3bddb5f079e9e142ac13d5d16ac95d5654d.600x338.jpg?t=1765129918",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/685910/ss_1fb88154add34d0de7c68748c996098f03d871c6.600x338.jpg?t=1765129918"
-  ],
-  "detailed_description": "<h1>Workshop support</h1><p>Features Workshop integration for sharing player-made ship designs and battle challenges.</p><br><h1>About the Game</h1><h2 class=\"bb_tag\" ><strong>Development Status (December 2025)</strong></h2><p class=\"bb_paragraph\" >Active development ended in 2022. The game remains available at a reduced price.</p><p class=\"bb_paragraph\" ><strong>What works:</strong> Ship editor with module-based design, physics-driven combat, 40+ ship designs, 14 challenge levels, Steam Workshop support.</p><p class=\"bb_paragraph\" ><strong>What was not completed:</strong> Planned campaign mode, online leaderboards, additional content expansions.</p><p class=\"bb_paragraph\" >The core mechanics are functional and stable for those interested in this type of game.<br><br>---<br><br>Battlefleet Engineer is a game about smart ship design, fleet composition and tactical control in real-time battles. Fully physics-based movement, detailed damage model, and ship resource system make designing ships an engineering puzzle where you need to compromize between maneuverability, defence and firepower. This leads to interesting emergent behaviors and specialized ship designs that counter others, providing endless combinations and possibilities. In the battles you need to choose and time your engagements carefully, exploiting your fleet's advantages against the enemy and countering theirs.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >If you are more casually inclined, the game comes with a library of ready-made ship designs to use in randomized and custom battles. You can be watching ships tear each other apart or flying around shooting at enemies yourself with just a few clicks.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Features</h2><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >RTS-style battles with up to dozens of ships per side. Doesn't include building of units or resource management mechanics.</p></li><li><p class=\"bb_paragraph\" >Ships are made of and entirely defined by their modules. The modules such as generators, thrusters, weapons, armor etc. form the structure and define the behavior of the ship. Ships can have anywhere between 5 to over 1000 modules.</p></li><li><p class=\"bb_paragraph\" >Detailed damage model that simulates armor plates and tracks damage to armor segments and each module individually. Ships can get partially disabled and split in two. Projectiles can penetrate or ricochet from armor then pass through multiple modules or whole ship, shields are volumetric instead of simple barriers etc.</p></li><li><p class=\"bb_paragraph\" >Ship and level editors. Create new ship designs and levels from scratch or by editing any that come with the game using in-game editors.</p></li><li><p class=\"bb_paragraph\" >No-cheating Newtonian physics. All movement is driven by forces from thrusters and other actuators, and there is no friction or dampening. Ships and other objects are simulated as rigid bodies with accurate collision geometries and inertia.</p></li><li><p class=\"bb_paragraph\" >Ship resource system. Most modules have a single function such as power generation or heat dissipation. The resource system gathers, stores and distributes resources such as electricity, heat and fuel between modules on every frame. This makes the ships' fire rate, shields and maneuverability dynamic.</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Gameplay</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Designing efficient (or wacky) ships is an important part of the game, but it is not required. Setting up random and custom battles is made easy, and your ships have basic combat AI so the game can also be played very casually. During battle you can also take full or partial control over any one of your ships to fly them manually, fire weapons etc.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >You can design and test ships, then use them in premade challenge levels that give a score when completed, or in custom battles where you define the fleets and level parameters. The game is single player only against a combat AI in independent battles. Progression mechanics from battle to battle are not yet implemented.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >To defeat your enemy, you will need to keep on top of the rapidly evolving combat situation and select targets for your ships based on weapon ranges, maneuverability and defences of both your own and the enemy ships. Positioning and timing of engagements is important because different weapons have very different effective ranges and ships usually only have heavy armor at the front. Keeping your fleet close together maximizes your concentrated damage output, but risks getting surrounded by the enemy.  Using specialized ships such as \"tanks\" and \"snipers\" effectively can often decide the outcome of the battle.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Current content</h2><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Over 35 premade ship designs.</p></li><li><p class=\"bb_paragraph\" >12 handmade challenge levels. These include fleet design challenges for different kinds of battles, tactical fighting using a single ship, and flying with manual control through obstacle courses.</p></li><li><p class=\"bb_paragraph\" >13 distinct module types (+variants), each with specific purpose.</p></li><li><p class=\"bb_paragraph\" >5 distinct weapon types.</p></li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" ><strong>Development Status (December 2025)</strong></h2><p class=\"bb_paragraph\" >Active development ended in 2022. The game remains available at a reduced price.</p><p class=\"bb_paragraph\" ><strong>What works:</strong> Ship editor with module-based design, physics-driven combat, 40+ ship designs, 14 challenge levels, Steam Workshop support.</p><p class=\"bb_paragraph\" ><strong>What was not completed:</strong> Planned campaign mode, online leaderboards, additional content expansions.</p><p class=\"bb_paragraph\" >The core mechanics are functional and stable for those interested in this type of game.<br><br>---<br><br>Battlefleet Engineer is a game about smart ship design, fleet composition and tactical control in real-time battles. Fully physics-based movement, detailed damage model, and ship resource system make designing ships an engineering puzzle where you need to compromize between maneuverability, defence and firepower. This leads to interesting emergent behaviors and specialized ship designs that counter others, providing endless combinations and possibilities. In the battles you need to choose and time your engagements carefully, exploiting your fleet's advantages against the enemy and countering theirs.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >If you are more casually inclined, the game comes with a library of ready-made ship designs to use in randomized and custom battles. You can be watching ships tear each other apart or flying around shooting at enemies yourself with just a few clicks.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Features</h2><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >RTS-style battles with up to dozens of ships per side. Doesn't include building of units or resource management mechanics.</p></li><li><p class=\"bb_paragraph\" >Ships are made of and entirely defined by their modules. The modules such as generators, thrusters, weapons, armor etc. form the structure and define the behavior of the ship. Ships can have anywhere between 5 to over 1000 modules.</p></li><li><p class=\"bb_paragraph\" >Detailed damage model that simulates armor plates and tracks damage to armor segments and each module individually. Ships can get partially disabled and split in two. Projectiles can penetrate or ricochet from armor then pass through multiple modules or whole ship, shields are volumetric instead of simple barriers etc.</p></li><li><p class=\"bb_paragraph\" >Ship and level editors. Create new ship designs and levels from scratch or by editing any that come with the game using in-game editors.</p></li><li><p class=\"bb_paragraph\" >No-cheating Newtonian physics. All movement is driven by forces from thrusters and other actuators, and there is no friction or dampening. Ships and other objects are simulated as rigid bodies with accurate collision geometries and inertia.</p></li><li><p class=\"bb_paragraph\" >Ship resource system. Most modules have a single function such as power generation or heat dissipation. The resource system gathers, stores and distributes resources such as electricity, heat and fuel between modules on every frame. This makes the ships' fire rate, shields and maneuverability dynamic.</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Gameplay</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Designing efficient (or wacky) ships is an important part of the game, but it is not required. Setting up random and custom battles is made easy, and your ships have basic combat AI so the game can also be played very casually. During battle you can also take full or partial control over any one of your ships to fly them manually, fire weapons etc.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >You can design and test ships, then use them in premade challenge levels that give a score when completed, or in custom battles where you define the fleets and level parameters. The game is single player only against a combat AI in independent battles. Progression mechanics from battle to battle are not yet implemented.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >To defeat your enemy, you will need to keep on top of the rapidly evolving combat situation and select targets for your ships based on weapon ranges, maneuverability and defences of both your own and the enemy ships. Positioning and timing of engagements is important because different weapons have very different effective ranges and ships usually only have heavy armor at the front. Keeping your fleet close together maximizes your concentrated damage output, but risks getting surrounded by the enemy.  Using specialized ships such as \"tanks\" and \"snipers\" effectively can often decide the outcome of the battle.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Current content</h2><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Over 35 premade ship designs.</p></li><li><p class=\"bb_paragraph\" >12 handmade challenge levels. These include fleet design challenges for different kinds of battles, tactical fighting using a single ship, and flying with manual control through obstacle courses.</p></li><li><p class=\"bb_paragraph\" >13 distinct module types (+variants), each with specific purpose.</p></li><li><p class=\"bb_paragraph\" >5 distinct weapon types.</p></li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Workshop",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.7000000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 14,
-  "review_positive": 12,
+  "review_positive": 0,
   "review_percentage": 85.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 14,
-      "review_percentage": 85.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 14,
       "review_percentage": 85.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

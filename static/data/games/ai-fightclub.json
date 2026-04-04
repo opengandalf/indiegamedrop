@@ -3,8 +3,8 @@
   "name": "AI Fightclub",
   "slug": "ai-fightclub",
   "developer": "ImpressaEntertainment,Inc.",
-  "publisher": "ImpressaEntertainment,Inc.",
-  "release_date": "Jun 22, 2024",
+  "publisher": "",
+  "release_date": "2024-06-22",
   "price_usd": 9.99,
   "genres": [
     "Strategy"
@@ -17,32 +17,13 @@
   ],
   "short_description": "Customize your AI and challenge auto battle! Battle against various AI and assemble your own powerful customizations. Now it's time to play against other players!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2808290/header.jpg?t=1719251090",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2808290/ss_3b2ee4d2dfd20023c06637ebb1b122c376ee80af.600x338.jpg?t=1719251090",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2808290/ss_be535fcd50f51a614b8a6e4331254e2bded37fe5.600x338.jpg?t=1719251090",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2808290/ss_37f5bf4c5178a3017e8f55cd6a708988279d8df7.600x338.jpg?t=1719251090",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2808290/ss_c6ce19b2be338a04a6972240e1c130ce9efa6dd1.600x338.jpg?t=1719251090",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2808290/ss_a009b9347146724982239b5dc49a3ef9f180c905.600x338.jpg?t=1719251090"
-  ],
-  "detailed_description": "This game has 4 elements!!<br />\r\n<br />\r\n\"customize\" Customize the AI's fight style and appearance, which are important in battle. <br />\r\n<br />\r\n\"offline fight\" If you fight an AI offline and win, you will receive the technique specified by that AI. <br />\r\n<br />\r\n\"rank fight\" Compete for rankings with AI from around the world.",
-  "about_the_game": "This game has 4 elements!!<br />\r\n<br />\r\n\"customize\" Customize the AI's fight style and appearance, which are important in battle. <br />\r\n<br />\r\n\"offline fight\" If you fight an AI offline and win, you will receive the technique specified by that AI. <br />\r\n<br />\r\n\"rank fight\" Compete for rankings with AI from around the world.",
-  "supported_languages": "Japanese, English, French, Spanish - Spain, Russian, Simplified Chinese, Korean",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -52,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

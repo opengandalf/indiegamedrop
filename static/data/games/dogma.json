@@ -3,8 +3,8 @@
   "name": "Dogma",
   "slug": "dogma",
   "developer": "Indispensable Studios",
-  "publisher": "Indispensable Studios",
-  "release_date": "Nov 3, 2017",
+  "publisher": "",
+  "release_date": "2017-11-03",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -20,35 +20,15 @@
   ],
   "short_description": "2d puzzle platformer with a unique grab and pivot mechanic.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729970/header.jpg?t=1519239538",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729970/ss_cc57db43bd16c4154097882d2f9d1456d217cf0c.600x338.jpg?t=1519239538",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729970/ss_2d2744b6ef196b5848e7f3a242be54090682af47.600x338.jpg?t=1519239538",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729970/ss_ce9a0111ec99ab79ac3793b33d976b61394919bf.600x338.jpg?t=1519239538",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729970/ss_6d7895affa497d2aa27eb26fed04f35253994ac7.600x338.jpg?t=1519239538",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729970/ss_096ecff7ba525f90b3c780034e6269dc2aa5f70f.600x338.jpg?t=1519239538",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729970/ss_a8637ba95fc9f1fdc9c7e40e9b1f2c843cecc0f5.600x338.jpg?t=1519239538",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729970/ss_6293568271041031c75a93f363025d6e1a144f73.600x338.jpg?t=1519239538"
-  ],
-  "detailed_description": "Dogma is a 2d puzzle platformer with a unique grab and pivot mechanic. Take control of Jacko the dog as he travels through 6 different worlds to save his human friend. You'll need to be quick on your feet to get through the 60 levels full of puzzles and challenges to win!",
-  "about_the_game": "Dogma is a 2d puzzle platformer with a unique grab and pivot mechanic. Take control of Jacko the dog as he travels through 6 different worlds to save his human friend. You'll need to be quick on your feet to get through the 60 levels full of puzzles and challenges to win!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 7,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +36,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

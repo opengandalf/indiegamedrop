@@ -3,8 +3,8 @@
   "name": "Börnies Journey",
   "slug": "börnies-journey",
   "developer": "ÖBB, TopGames",
-  "publisher": "ÖBB/TopGames",
-  "release_date": "Sep 16, 2020",
+  "publisher": "",
+  "release_date": "2020-09-16",
   "price_usd": 0.0,
   "genres": [
     "Free To Play"
@@ -17,31 +17,15 @@
   ],
   "short_description": "Reise per Zug durch verschiedene Städte, löse knifflige Aufgaben und sei vor deinem autofahrenden Kontrahenten am Ziel.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1077080/header.jpg?t=1600277342",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1077080/ss_9afc175dc9c57c5df97f4a94dc49126897faf97f.600x338.jpg?t=1600277342",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1077080/ss_c35521b7aed4dac34c4f5caed2a781a9adcf1ead.600x338.jpg?t=1600277342",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1077080/ss_550564d9d1c0eeb8dd2ab6264d1bf996a55c293e.600x338.jpg?t=1600277342",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1077080/ss_e516e003ef14613b3083541100b8f21fad1d51a7.600x338.jpg?t=1600277342",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1077080/ss_9402ccd05ed7cf03ba69c6e380210f2663950e9c.600x338.jpg?t=1600277342"
-  ],
-  "detailed_description": "In diesem klassischen Point&Click-Werbeadventure wirst du vor folgende Aufgabe gestellt:<br><br>Reise per Zug durch verschiedene Städte, löse knifflige Aufgaben und sei vor deinem autofahrenden Kontrahenten am Ziel.<h2 class=\"bb_tag\" >Details</h2><br><ul class=\"bb_ul\"><li>Hintergrundmusik vorhanden<br></li><li>Deutsche Untertitel<br></li><li>Keine Hotspotanzeige<br></li><li>Keine Sprachausgabe</li></ul><br>Dieses Spiel wurde als 2-Diskettenversion ausgegeben und wird per DosBox emuliert.<h2 class=\"bb_tag\" >Tastaturbefehle</h2><br><ul class=\"bb_ul\"><li>ALT + ENTER - Vollbild.<br></li><li>ALT + PAUSE - Spiel unterbricht.<br></li><li>STRG + F7 - Frames verringern.<br></li><li>STRG + F8 - Frames erhöhen.<br></li><li>STRG + F11 - CPU Geschwindigkeit verringern.<br></li><li>STRG + F12 - CPU Geschwindigkeit erhöhen.</li></ul>",
-  "about_the_game": "In diesem klassischen Point&Click-Werbeadventure wirst du vor folgende Aufgabe gestellt:<br><br>Reise per Zug durch verschiedene Städte, löse knifflige Aufgaben und sei vor deinem autofahrenden Kontrahenten am Ziel.<h2 class=\"bb_tag\" >Details</h2><br><ul class=\"bb_ul\"><li>Hintergrundmusik vorhanden<br></li><li>Deutsche Untertitel<br></li><li>Keine Hotspotanzeige<br></li><li>Keine Sprachausgabe</li></ul><br>Dieses Spiel wurde als 2-Diskettenversion ausgegeben und wird per DosBox emuliert.<h2 class=\"bb_tag\" >Tastaturbefehle</h2><br><ul class=\"bb_ul\"><li>ALT + ENTER - Vollbild.<br></li><li>ALT + PAUSE - Spiel unterbricht.<br></li><li>STRG + F7 - Frames verringern.<br></li><li>STRG + F8 - Frames erhöhen.<br></li><li>STRG + F11 - CPU Geschwindigkeit verringern.<br></li><li>STRG + F12 - CPU Geschwindigkeit erhöhen.</li></ul>",
-  "supported_languages": "German<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.55,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 11,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 72.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -49,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 10,
-      "review_percentage": 70.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 11,
       "review_percentage": 72.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

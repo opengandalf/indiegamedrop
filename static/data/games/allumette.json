@@ -3,8 +3,8 @@
   "name": "Allumette",
   "slug": "allumette",
   "developer": "Penrose Studios",
-  "publisher": "Penrose Studios",
-  "release_date": "Oct 13, 2016",
+  "publisher": "",
+  "release_date": "2016-10-13",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -19,61 +19,27 @@
   ],
   "short_description": "Allumette tells a story about love, sacrifice and a deep bond between a young girl and her mother.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460850/header.jpg?t=1476389190",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460850/ss_ac94548c1ccb9920873d2161b9df58065d323ec4.600x338.jpg?t=1476389190",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460850/ss_ba309c21b1b771ad6c8fe16cbcf057e09c490c5b.600x338.jpg?t=1476389190",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460850/ss_15cf2a99ae49c042e9d269e711d13b2354bde470.600x338.jpg?t=1476389190",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460850/ss_6d537157910a551923426e51bc238d46319a11c9.600x338.jpg?t=1476389190",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460850/ss_7129c2e322050ed36328c376cf16805f8e9cac67.600x338.jpg?t=1476389190"
-  ],
-  "detailed_description": "* free for a limited time *<br />\r\n<br />\r\nAllumette tells the story of a young orphan girl who lives in a fantastical city in the clouds. After enduring tragedy, she grasps at hope for her future. Loosely inspired by \"The Little Match Girl\" by Hans Christian Andersen, Allumette is an account of the love a mother and daughter have for one another, and the sacrifices they make for the greater good.",
-  "about_the_game": "* free for a limited time *<br />\r\n<br />\r\nAllumette tells the story of a young orphan girl who lives in a fantastical city in the clouds. After enduring tragedy, she grasps at hope for her future. Loosely inspired by \"The Little Match Girl\" by Hans Christian Andersen, Allumette is an account of the love a mother and daughter have for one another, and the sacrifices they make for the greater good.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "VR Only",
-    "Partial Controller Support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.4443,
+  "screenshots": [],
+  "rising_score": 0.0002,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 7.0,
+  "review_velocity_7d": 30.700000000000003,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 614,
-  "review_positive": 575,
+  "review_positive": 0,
   "review_percentage": 93.6,
   "owner_estimate": 75000,
-  "ccu_estimate": 2,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 34,
-  "gem_tier": "proven",
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 607,
-      "review_percentage": 93.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 614,
       "review_percentage": 93.6,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
-      "review_count": 614,
-      "review_percentage": 93.6,
-      "ccu_estimate": 2,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

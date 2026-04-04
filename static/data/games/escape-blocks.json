@@ -3,8 +3,8 @@
   "name": "Escape Blocks",
   "slug": "escape-blocks",
   "developer": "Wojciech Malinowski",
-  "publisher": "Wojciech Malinowski",
-  "release_date": "Apr 3, 2024",
+  "publisher": "",
+  "release_date": "2024-04-03",
   "price_usd": 0.99,
   "genres": [
     "Casual"
@@ -18,33 +18,15 @@
   ],
   "short_description": "A space themed puzzle game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860390/header.jpg?t=1712128878",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860390/ss_629e9f6d639303e61735526295456ab2199e5b3f.600x338.jpg?t=1712128878",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860390/ss_3a4d6fd5707b98e2218d513d2968e350f2d8cb2a.600x338.jpg?t=1712128878",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860390/ss_8838577336d69be42c52dbb85c2207e670e3d2a8.600x338.jpg?t=1712128878",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860390/ss_0b6a56dc6083fbea90bf8e0bca4667e2896ba5b0.600x338.jpg?t=1712128878",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860390/ss_c5e77fae844bff0bdd083dc2c27c1c120bcb44a8.600x338.jpg?t=1712128878"
-  ],
-  "detailed_description": "Solve puzzles by rotating the board and jumping to the finish!<br />\r\nIn each level there is a rotating rectangular board with square blocks that fall down. The player has to escape the board. The board can be rotated 90 degrees to the left or to the right or upside down. Upon rotation, all falling blocks fall down according to the new direction of gravity. The player can then jump up the blocks and escape the room, or he might have to rotate the board again. Also there are blocks that don't fall and doors to make the levels harder.",
-  "about_the_game": "Solve puzzles by rotating the board and jumping to the finish!<br />\r\nIn each level there is a rotating rectangular board with square blocks that fall down. The player has to escape the board. The board can be rotated 90 degrees to the left or to the right or upside down. Upon rotation, all falling blocks fall down according to the new direction of gravity. The player can then jump up the blocks and escape the room, or he might have to rotate the board again. Also there are blocks that don't fall and doors to make the levels harder.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +34,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Boo! Are you scared? The Chests Game",
   "slug": "boo-are-you-scared-the-chests-game",
   "developer": "Inanity Catchers Team",
-  "publisher": "Inanity Catchers Team",
-  "release_date": "Jan 9, 2025",
+  "publisher": "",
+  "release_date": "2025-01-09",
   "price_usd": 2.99,
   "genres": [
     "Casual",
@@ -21,56 +21,27 @@
   ],
   "short_description": "Boo! Are you scared? Don't be afraid, I'm a friend. Play the «Chests» card game for souvenirs with your new friend.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3380740/header.jpg?t=1738089981",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3380740/ss_fe0b67acafcabb0524d0a09a2d2bf1de5bcfee48.600x338.jpg?t=1738089981",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3380740/ss_3634c543c6b708e8dea0c6a2de70fd33aac764c9.600x338.jpg?t=1738089981",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3380740/ss_0b9c8c547637f4ec23f1c3ee37f22ed876d62fd3.600x338.jpg?t=1738089981",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3380740/ss_a5f09b202ba919de965046b33b7ce69052401261.600x338.jpg?t=1738089981",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3380740/ss_2c0517013687018bc4fd48dc6feba77168fa2aba.600x338.jpg?t=1738089981"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" ><strong>Boo! Are you scared? Don't be afraid, I'm a friend.</strong> </h2><p class=\"bb_paragraph\" >Play the «Chests» card game for souvenirs with your new friend.</p><h2 class=\"bb_tag\" ><strong>Game Rules:</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Each player is dealt 6 cards from the deck.</p></li><li><p class=\"bb_paragraph\" >Players take turns asking their opponents if they have cards of a specific rank (e.g., aces, tens, queens, etc.).</p></li><li><p class=\"bb_paragraph\" >If the opponent confirms having the requested cards, they must hand them over to the player asking. The player who receives the cards continues asking questions.</p></li><li><p class=\"bb_paragraph\" >If the answer is negative, the player must draw one card from the deck, and their turn ends, passing to their opponent.</p></li><li><p class=\"bb_paragraph\" >When a player collects all 4 cards of the same rank (a «chest»), they lay them down, removing them from their hand.</p></li></ul><p class=\"bb_paragraph\" >The game continues until someone collects 5 «chests».</p>",
-  "about_the_game": "<h2 class=\"bb_tag\" ><strong>Boo! Are you scared? Don't be afraid, I'm a friend.</strong> </h2><p class=\"bb_paragraph\" >Play the «Chests» card game for souvenirs with your new friend.</p><h2 class=\"bb_tag\" ><strong>Game Rules:</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Each player is dealt 6 cards from the deck.</p></li><li><p class=\"bb_paragraph\" >Players take turns asking their opponents if they have cards of a specific rank (e.g., aces, tens, queens, etc.).</p></li><li><p class=\"bb_paragraph\" >If the opponent confirms having the requested cards, they must hand them over to the player asking. The player who receives the cards continues asking questions.</p></li><li><p class=\"bb_paragraph\" >If the answer is negative, the player must draw one card from the deck, and their turn ends, passing to their opponent.</p></li><li><p class=\"bb_paragraph\" >When a player collects all 4 cards of the same rank (a «chest»), they lay them down, removing them from their hand.</p></li></ul><p class=\"bb_paragraph\" >The game continues until someone collects 5 «chests».</p>",
-  "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Workshop",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 218,
-  "rising_score": 0.0011,
-  "gem_score": 0.5799,
+  "screenshots": [],
+  "rising_score": 0.0001,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 53.0,
+  "review_velocity_7d": 11.700000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 234,
-  "review_positive": 218,
+  "review_positive": 0,
   "review_percentage": 93.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "rising",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 181,
-      "review_percentage": 93.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 234,
       "review_percentage": 93.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

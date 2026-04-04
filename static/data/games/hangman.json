@@ -3,8 +3,8 @@
   "name": "HANGMAN",
   "slug": "hangman",
   "developer": "Gamesforfarm",
-  "publisher": "Gamesforfarm",
-  "release_date": "Jul 24, 2019",
+  "publisher": "",
+  "release_date": "2019-07-24",
   "price_usd": 0.71,
   "genres": [
     "Casual",
@@ -19,33 +19,15 @@
   ],
   "short_description": "The purpose of the puzzle is to guess the unknown word by adding the correct letters. For every unsuccessful attempt, a part of the human body will appear on the gallows.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105730/header.jpg?t=1743237491",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105730/ss_12a6ba4e732be22f0f44042c6edfcfaea4f11407.600x338.jpg?t=1743237491",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105730/ss_0322964a1c38950390b8b60609b7a4208d3390b3.600x338.jpg?t=1743237491",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105730/ss_32e5ef4cfa7ef289957d684da1df7abc6d939ced.600x338.jpg?t=1743237491",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105730/ss_f60c0bec5975e378e26426e9fad42f94aa1e9d0f.600x338.jpg?t=1743237491",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105730/ss_0cc09f95c992abcfe360545bde9be6f30546f4ea.600x338.jpg?t=1743237491"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105730/extras/4a7d86d4870e4ddf4e30891b8c03d984.avif?t=1743237491\" width=630 height=315 /></span><br><br>The purpose of the puzzle is to guess the unknown word by adding the correct letters. For every unsuccessful attempt, a part of the human body will appear on the gallows.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105730/extras/548dd135bc19c3598608aee2a41b9d36.avif?t=1743237491\" width=597 height=170 /></span>",
-  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105730/extras/4a7d86d4870e4ddf4e30891b8c03d984.avif?t=1743237491\" width=630 height=315 /></span><br><br>The purpose of the puzzle is to guess the unknown word by adding the correct letters. For every unsuccessful attempt, a part of the human body will appear on the gallows.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105730/extras/548dd135bc19c3598608aee2a41b9d36.avif?t=1743237491\" width=597 height=170 /></span>",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Portuguese - Brazil, Hungarian, Vietnamese, Greek, Danish, Indonesian, Spanish - Latin America, Traditional Chinese, Simplified Chinese, Korean, Dutch, Norwegian, Polish, Portuguese - Portugal, Romanian, Russian, Thai, Turkish, Ukrainian, Finnish, Czech, Swedish, Japanese, Azerbaijani, Albanian, Amharic, Armenian, Assamese, Afrikaans, Basque, Belarusian, Bangla, Bosnian, Valencian, Welsh, Wolof, Galician, Georgian, Gujarati, Dari, Zulu, Hebrew, Igbo, Irish, Icelandic, Yoruba, Kazakh, Kannada, Catalan, Quechua, Kinyarwanda, K'iche', Konkani, Xhosa, Khmer, Kyrgyz, Latvian, Lithuanian, Luxembourgish, Macedonian, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Odia, Punjabi (Gurmukhi), Punjabi (Shahmukhi), Persian, Serbian, Sotho, Sinhala, Sindhi, Slovak, Slovenian, Sorani, Swahili, Tajik, Tamil, Tatar, Telugu, Tigrinya, Tswana, Turkmen, Uzbek, Uyghur, Urdu, Filipino, Hausa, Hindi, Croatian, Cherokee, Scots, Estonian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0011,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 15.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 54,
-  "review_positive": 40,
+  "review_positive": 0,
   "review_percentage": 74.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 39,
-      "review_percentage": 71.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 54,
       "review_percentage": 74.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Timeline",
   "slug": "timeline",
   "developer": "Taueon",
-  "publisher": "Taueon",
-  "release_date": "Apr 22, 2022",
+  "publisher": "",
+  "release_date": "2022-04-22",
   "price_usd": 2.99,
   "genres": [
     "Indie",
@@ -19,61 +19,29 @@
     "mac",
     "linux"
   ],
-  "short_description": "Timeline is a turn-based strategy game where you can play through the human history from stone age to modern times. In the game you command wide range of units, make them collect resources and build buildings, towns and cities, explore the map and meet other players controlled by AI.",
+  "short_description": "Timeline is a turn-based strategy game where you can play through the human history from stone age to modern times. In the game you command wide range of units, make them collect resources and build b",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889320/header.jpg?t=1650630511",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889320/ss_be11937e87a3583dbef8fd1dec8ad90c09a0f71f.600x338.jpg?t=1650630511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889320/ss_d92e22f5ad7f1f2b55908b4ceed0b5ecf1b7ee78.600x338.jpg?t=1650630511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889320/ss_ed6fa3ef410ad87382d80061688efc5ee2a58864.600x338.jpg?t=1650630511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889320/ss_53ee0f269ed2c25ecba04bb43142fc759a9e520b.600x338.jpg?t=1650630511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889320/ss_7e390d92587fb41ecc482e97ef1166f304da5579.600x338.jpg?t=1650630511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889320/ss_248c2c093e823ebb4a2f6d8289d7bf5eabb01bb0.600x338.jpg?t=1650630511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889320/ss_be6a5cd5c4ddb71fad6f4921640bb5f60390bc8b.600x338.jpg?t=1650630511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889320/ss_ee1161e3b1f13379672b76972ae3b72a5d1b3625.600x338.jpg?t=1650630511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889320/ss_dca21ae765b70b7983e3d6c53588a998b7a65d50.600x338.jpg?t=1650630511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889320/ss_88447b3825d0def26e11f2a674e8cead7d059d2b.600x338.jpg?t=1650630511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889320/ss_e60dd5747a602b49494246a5494979141cf12c72.600x338.jpg?t=1650630511"
-  ],
-  "detailed_description": "Timeline is a turn-based strategy game where you can play through the human history from stone age to modern times. In the game you command wide range of units, make them collect resources and build buildings, towns and cities, explore the map and meet other players controlled by AI.<br><br><strong>Features</strong><br><br><ul class=\"bb_ul\"><li>Real Earth map or a map that is generated randomly.<br></li><li>Technology tree with over hundred technologies.<br></li><li>Resource system. You can collect resources from the terrain or produce them in your buildings. You need resources to learn new technologies but also to build and upkeep new units and buildings.<br></li><li>Global market that lets you sell resources you don't need and buy what you are missing.<br></li><li>Diplomacy with AI-controlled civilizations.<br></li><li>Combat system that is affected by terrain, generals, unit type and other variables.<br></li><li>Customizable interface, key shortcuts, map zoom level, etc.</li></ul><br><strong>Customization</strong><br><br>Timeline is designed to be modded without programming knowledge or special tools. It comes with a map editor that is capable to generate random maps or can be used to create a new map manually. Most of the settings in the game are saved to files that are human readable and can be edited by any text editor. Some examples of things that can be changed include:<br><br><ul class=\"bb_ul\"><li>Unit and building statistics, images and sounds.<br></li><li>Resource colors and names.<br></li><li>Civilization starting positions, units, resources and relations to other civilizations.<br></li><li>Technology names, images and bonuses, what can be built with what technology etc.<br></li><li>Terrain images and statistics.</li></ul><br>It's possible to change just some small things and balance the game to your needs or change everything and make a total conversion mod or a campaign.",
-  "about_the_game": "Timeline is a turn-based strategy game where you can play through the human history from stone age to modern times. In the game you command wide range of units, make them collect resources and build buildings, towns and cities, explore the map and meet other players controlled by AI.<br><br><strong>Features</strong><br><br><ul class=\"bb_ul\"><li>Real Earth map or a map that is generated randomly.<br></li><li>Technology tree with over hundred technologies.<br></li><li>Resource system. You can collect resources from the terrain or produce them in your buildings. You need resources to learn new technologies but also to build and upkeep new units and buildings.<br></li><li>Global market that lets you sell resources you don't need and buy what you are missing.<br></li><li>Diplomacy with AI-controlled civilizations.<br></li><li>Combat system that is affected by terrain, generals, unit type and other variables.<br></li><li>Customizable interface, key shortcuts, map zoom level, etc.</li></ul><br><strong>Customization</strong><br><br>Timeline is designed to be modded without programming knowledge or special tools. It comes with a map editor that is capable to generate random maps or can be used to create a new map manually. Most of the settings in the game are saved to files that are human readable and can be edited by any text editor. Some examples of things that can be changed include:<br><br><ul class=\"bb_ul\"><li>Unit and building statistics, images and sounds.<br></li><li>Resource colors and names.<br></li><li>Civilization starting positions, units, resources and relations to other civilizations.<br></li><li>Technology names, images and bonuses, what can be built with what technology etc.<br></li><li>Terrain images and statistics.</li></ul><br>It's possible to change just some small things and balance the game to your needs or change everything and make a total conversion mod or a campaign.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.9177,
   "hype_score": 0.0,
   "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 26,
-  "review_positive": 25,
+  "review_positive": 0,
   "review_percentage": 96.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 26,
-      "review_percentage": 96.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 26,
       "review_percentage": 96.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

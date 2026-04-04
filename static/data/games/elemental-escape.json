@@ -3,8 +3,8 @@
   "name": "Elemental Escape",
   "slug": "elemental-escape",
   "developer": "MiaoPass",
-  "publisher": "MiaoPass",
-  "release_date": "Aug 31, 2023",
+  "publisher": "",
+  "release_date": "2023-08-31",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -23,33 +23,15 @@
   ],
   "short_description": "Bullet hell, but kill the bullets instead of dodging them ;)",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530860/header.jpg?t=1693539135",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530860/ss_37837ded06169d0249448dd680b1a7cbd0218aa0.600x338.jpg?t=1693539135",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530860/ss_85088b5e418fde15d68226a0940af60a7a96b569.600x338.jpg?t=1693539135",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530860/ss_cab033c1dae1e1e062f4e954102e8351b114bb1c.600x338.jpg?t=1693539135",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530860/ss_a9a59bcc072ca3275f27e59876c3a3481888d7ab.600x338.jpg?t=1693539135",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2530860/ss_dae10204e0fdcc2d6287ce880f9c378ecea2f25b.600x338.jpg?t=1693539135"
-  ],
-  "detailed_description": "This is a bullet hell game, with the ability to kill enemy bullets. Move yourself to dodge bullets and collect element on the map. Each element piece will transform you into different color, and you can kill enemy bullets with the same color as yours!<br />\r\n<br />\r\nHint: Mega element bomb will spawn on every 10 score points. They can clear bullets massively and save you from danger.",
-  "about_the_game": "This is a bullet hell game, with the ability to kill enemy bullets. Move yourself to dodge bullets and collect element on the map. Each element piece will transform you into different color, and you can kill enemy bullets with the same color as yours!<br />\r\n<br />\r\nHint: Mega element bomb will spawn on every 10 score points. They can clear bullets massively and save you from danger.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

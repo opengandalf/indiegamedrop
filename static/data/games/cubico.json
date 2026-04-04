@@ -3,8 +3,8 @@
   "name": "Cubico",
   "slug": "cubico",
   "developer": "Simon Hischier, Michael Schürmann",
-  "publisher": "Ideation Games",
-  "release_date": "Aug 14, 2019",
+  "publisher": "",
+  "release_date": "2019-08-14",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -23,36 +23,15 @@
   ],
   "short_description": "A unique and experimental game mechanic. An open world awaits the player and offers challanges and pushing rythms.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113730/header.jpg?t=1636301944",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113730/ss_418ecf2007f3d047947a083b1dc0cee1ca2c479a.600x338.jpg?t=1636301944",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113730/ss_c768812bc488132ea0c9cd0b332035151d1f0a56.600x338.jpg?t=1636301944",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113730/ss_aa13daeeecb0ebe94f8755cf437c00ffa89d972c.600x338.jpg?t=1636301944",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113730/ss_588a89778476c7627dd7b5b5163c599ed2b19d30.600x338.jpg?t=1636301944",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113730/ss_51239b8912fce0adba581e7ff877316030c24943.600x338.jpg?t=1636301944",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113730/ss_f9f20d796296748d3b39f462c2d5dc1ac0fccdb5.600x338.jpg?t=1636301944",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113730/ss_44803fd4d78d19621a460d5e04be5772d99dc285.600x338.jpg?t=1636301944"
-  ],
-  "detailed_description": "<h1>Leaderboard Update</h1><p>We want to thank you all for playing and being a lot more active than we anticipated. To honor the players who are into speedrunning, we added the Steam global leaderboard. Starting with this update, all new speedrun times are uploaded. It tracks only the fastest completion from each user. You will see no difference while playing, there is no visual hint of the upload. We refer to the Steam leaderboard system for your highscores (see Community hub > stats).</p><br><h1>Community Map</h1><p>The Community map tab is live and to celebrate this, we pushed a community map ready to be played. In addition to the community map, we've added an automatic saving and loading of settings. When you change settings in the options tab, the options will be saved from now on and the game will remember your custom settings the next time you start the game up.</p><br><h1>About the Game</h1>Cubico is a jump’n’roll computer game which takes the player on a journey through a playful world filled with geometrical objects. However, not everything seems to belong into this world. The player can reshape and extrude some of the objects and put them to good use. You’ll experience a journey with various challenges. The game demands skill and logical reasoning in a place with brash colors and shapes straight out of the 80s. The game is accompanied by electronic synth notes, which carry you down memory lane. Suddenly you’ll find yourself in the world of colorful walkmans and friendly macintoshes.",
-  "about_the_game": "Cubico is a jump’n’roll computer game which takes the player on a journey through a playful world filled with geometrical objects. However, not everything seems to belong into this world. The player can reshape and extrude some of the objects and put them to good use. You’ll experience a journey with various challenges. The game demands skill and logical reasoning in a place with brash colors and shapes straight out of the 80s. The game is accompanied by electronic synth notes, which carry you down memory lane. Suddenly you’ll find yourself in the world of colorful walkmans and friendly macintoshes.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Steam Leaderboards"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
+  "review_velocity_7d": 8.4,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 168,
-  "review_positive": 133,
+  "review_positive": 0,
   "review_percentage": 79.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 165,
-      "review_percentage": 80.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 168,
       "review_percentage": 79.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

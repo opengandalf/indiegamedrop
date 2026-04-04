@@ -3,8 +3,8 @@
   "name": "Adventure of a Digger",
   "slug": "adventure-of-a-digger",
   "developer": "D1ONE",
-  "publisher": "D1ONE",
-  "release_date": "Jun 16, 2018",
+  "publisher": "",
+  "release_date": "2018-06-16",
   "price_usd": 9.99,
   "genres": [
     "Casual"
@@ -17,34 +17,15 @@
   ],
   "short_description": "The player must collect all the gold in a level while avoiding guards who try to catch the player. After collecting all the gold, the player must touch the top of the screen to reach the next level.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868460/header.jpg?t=1529171060",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868460/ss_9c54b531dd1ff69583f64730a2b89b183111d09f.600x338.jpg?t=1529171060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868460/ss_64b92b49d246bd478156c07009db88e6cd5e11f4.600x338.jpg?t=1529171060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868460/ss_621f675a42668054951acc272615a2398102927a.600x338.jpg?t=1529171060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868460/ss_5c8c52345b6e1c6fc07a64c20dd331c3366bbbd2.600x338.jpg?t=1529171060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868460/ss_3322e5352484d9ff383d26194c9d7b169a967f96.600x338.jpg?t=1529171060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868460/ss_ef99fad820bc3dc58b899b3cf32473e0d7289def.600x338.jpg?t=1529171060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868460/ss_42fb9afdea855f508327dd0b31f54fe84ed4f4bc.600x338.jpg?t=1529171060"
-  ],
-  "detailed_description": "The player must collect all the gold in a level while avoiding guards who try to catch the player. After collecting all the gold, the player must touch the top of the screen to reach the next level.<br />\r\n<br />\r\nLevels feature a multi-story, brick platform motif, with ladders and suspended hand-to-hand bars that offer multiple ways to travel throughout. The player can dig holes into floors to temporarily trap guards and may safely walk atop trapped guards. Should a guard be carrying a bar of gold when he falls into a hole it will be left behind, and can be retrieved by the player. Over time, floors dug into will regenerate, filling in these holes. A trapped guard who cannot escape a hole before it fills is consumed, immediately respawning in a random location at the top of the level. Unlike guards, the player's character may not climb up out of a hole, and will be killed if it fills before he can escape by other means. Floors may also contain trapdoors, through which the player and guards will fall, and bedrock, through which the player cannot dig.<br />\r\n<br />\r\nThe player can only dig a hole to the sides, and not directly underneath himself. This introduces an important strategy for when digging a hole x blocks deep, the player must first dig a gap at least x wide to be able to dig through it, as the number of spaces will shrink with each layer, and the player needs at least one free adjacent space to be able to dig. However, exceptions to this rule arise when the player digs from the position of standing on a ladder, or hanging from a hand-to-hand bar, which allows the player to repeatedly dig and descend one row. This kind of digging is involved in solving many of the levels.<br />\r\n<br />\r\nThe player starts with five lives; each level completion awards an extra life. Should a guard catch the player, one life is subtracted, and the current level restarts. The player's character can fall from arbitrary heights without any injury but cannot jump, and players can trap themselves in pits from which the only escape is to abort the level, costing a life, and begin again.<br />\r\n<br />\r\nThe player may come into contact with a guard directly from above, with the stick figure's feet touching the guard's head. This is what enables the player to walk over guards who are temporarily stuck in a hole that has been dug. It is also possible to make this contact while both the guard and the player are in free fall, since the player not only runs faster than the guards, but also falls faster; moreover, it is possible to survive the feet-to-head contact while a guard is standing on a platform and begins to move. Both forms of contact are necessary to solve some levels. Sometimes it is necessary to liberate a trapped guard by digging while standing on his head, but then moving rapidly in the opposite direction when the guard begins marching to freedom. In a few levels, it is necessary to use a falling guard as a bridge to reach an otherwise unreachable area. One subtlety is that if a down movement is initiated while standing on a guard's head, or briefly touching the guard's head during free fall, the consequences are fatal.<br />\r\n<br />\r\nIn some levels, guards can be deliberately trapped in various ways. They can be lured into entering a part of the level from which there is no escape. In some situations, the player can liberate trapped guards by digging them out. In some levels, to collect some gold pieces, the player must exploit the guards into collecting gold pieces.",
-  "about_the_game": "The player must collect all the gold in a level while avoiding guards who try to catch the player. After collecting all the gold, the player must touch the top of the screen to reach the next level.<br />\r\n<br />\r\nLevels feature a multi-story, brick platform motif, with ladders and suspended hand-to-hand bars that offer multiple ways to travel throughout. The player can dig holes into floors to temporarily trap guards and may safely walk atop trapped guards. Should a guard be carrying a bar of gold when he falls into a hole it will be left behind, and can be retrieved by the player. Over time, floors dug into will regenerate, filling in these holes. A trapped guard who cannot escape a hole before it fills is consumed, immediately respawning in a random location at the top of the level. Unlike guards, the player's character may not climb up out of a hole, and will be killed if it fills before he can escape by other means. Floors may also contain trapdoors, through which the player and guards will fall, and bedrock, through which the player cannot dig.<br />\r\n<br />\r\nThe player can only dig a hole to the sides, and not directly underneath himself. This introduces an important strategy for when digging a hole x blocks deep, the player must first dig a gap at least x wide to be able to dig through it, as the number of spaces will shrink with each layer, and the player needs at least one free adjacent space to be able to dig. However, exceptions to this rule arise when the player digs from the position of standing on a ladder, or hanging from a hand-to-hand bar, which allows the player to repeatedly dig and descend one row. This kind of digging is involved in solving many of the levels.<br />\r\n<br />\r\nThe player starts with five lives; each level completion awards an extra life. Should a guard catch the player, one life is subtracted, and the current level restarts. The player's character can fall from arbitrary heights without any injury but cannot jump, and players can trap themselves in pits from which the only escape is to abort the level, costing a life, and begin again.<br />\r\n<br />\r\nThe player may come into contact with a guard directly from above, with the stick figure's feet touching the guard's head. This is what enables the player to walk over guards who are temporarily stuck in a hole that has been dug. It is also possible to make this contact while both the guard and the player are in free fall, since the player not only runs faster than the guards, but also falls faster; moreover, it is possible to survive the feet-to-head contact while a guard is standing on a platform and begins to move. Both forms of contact are necessary to solve some levels. Sometimes it is necessary to liberate a trapped guard by digging while standing on his head, but then moving rapidly in the opposite direction when the guard begins marching to freedom. In a few levels, it is necessary to use a falling guard as a bridge to reach an otherwise unreachable area. One subtlety is that if a down movement is initiated while standing on a guard's head, or briefly touching the guard's head during free fall, the consequences are fatal.<br />\r\n<br />\r\nIn some levels, guards can be deliberately trapped in various ways. They can be lured into entering a part of the level from which there is no escape. In some situations, the player can liberate trapped guards by digging them out. In some levels, to collect some gold pieces, the player must exploit the guards into collecting gold pieces.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.9500000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 19,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 5.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 20,
-      "review_percentage": 5.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 19,
       "review_percentage": 5.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

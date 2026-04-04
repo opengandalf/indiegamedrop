@@ -3,8 +3,8 @@
   "name": "Logitech VR Ink Driver",
   "slug": "logitech-vr-ink-driver",
   "developer": "Logitech Inc.",
-  "publisher": "Logitech Inc.",
-  "release_date": "Jan 27, 2020",
+  "publisher": "",
+  "release_date": "2020-01-27",
   "price_usd": 0.0,
   "genres": [
     "Free To Play",
@@ -17,34 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "This driver enables customization of certain features of your VR Ink, such as changing parameters for the analog inputs (tip and primary), changing the activation threshold of the grip buttons and reviewing the status of the stylus.",
+  "short_description": "This driver enables customization of certain features of your VR Ink, such as changing parameters for the analog inputs (tip and primary), changing the activation threshold of the grip buttons and rev",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1068300/header.jpg?t=1592322822",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1068300/ss_064302921d1a84b12a858e992b20d66f9862de40.600x338.jpg?t=1592322822",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1068300/ss_1e47147863ab7e390f8c9cb3683589f72ac724ed.600x338.jpg?t=1592322822",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1068300/ss_724ea453f0ac8bf752d03ab57b2565a9aa985a93.600x338.jpg?t=1592322822",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1068300/ss_7f92d3b7f9ceb7f9f6d1f3ec297bd1d1842ac0e2.600x338.jpg?t=1592322822",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1068300/ss_7ba569f22973284d5dc0972559efbb7353d8a179.600x338.jpg?t=1592322822"
-  ],
-  "detailed_description": "This driver enables customization of certain features of your VR Ink, such as changing parameters for the analog inputs (tip and primary), changing the activation threshold of the grip buttons and reviewing the status of the stylus. Ultimately it will allow you to <strong>tailor the behaviour of VR Ink</strong> to your specific needs.<br><br>The main UI allows you control over:<br><ul class=\"bb_ul\"><li> <strong>Pressure response</strong> for the <strong>Analog Tip</strong> (Drawing on a surface)<br></li><li><strong> Pressure response</strong> for the <strong>Primary Button</strong> (Drawing in Air)<br></li><li><strong> Adjusting the threshold</strong> for the <strong>Grip Buttons</strong> (Grip action)<br></li><li> Settings for the <strong>Touchstrip</strong></li></ul><br>The UI is accessible from the Desktop (Windows system tray). Your device specific settings are stored on your PC. The VR Ink Driver creates a “virtual device” (identified with a different icon in the SteamVR status window). This is essentially a software duplicate of a physical device, via which the driver applies specific smart processing on the raw inputs of the device such as pressure curves, touchstrip rejection handling, etc.",
-  "about_the_game": "This driver enables customization of certain features of your VR Ink, such as changing parameters for the analog inputs (tip and primary), changing the activation threshold of the grip buttons and reviewing the status of the stylus. Ultimately it will allow you to <strong>tailor the behaviour of VR Ink</strong> to your specific needs.<br><br>The main UI allows you control over:<br><ul class=\"bb_ul\"><li> <strong>Pressure response</strong> for the <strong>Analog Tip</strong> (Drawing on a surface)<br></li><li><strong> Pressure response</strong> for the <strong>Primary Button</strong> (Drawing in Air)<br></li><li><strong> Adjusting the threshold</strong> for the <strong>Grip Buttons</strong> (Grip action)<br></li><li> Settings for the <strong>Touchstrip</strong></li></ul><br>The UI is accessible from the Desktop (Windows system tray). Your device specific settings are stored on your PC. The VR Ink Driver creates a “virtual device” (identified with a different icon in the SteamVR status window). This is essentially a software duplicate of a physical device, via which the driver applies specific smart processing on the raw inputs of the device such as pressure curves, touchstrip rejection handling, etc.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 12,
-  "review_positive": 10,
+  "review_positive": 0,
   "review_percentage": 83.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 88.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 12,
       "review_percentage": 83.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

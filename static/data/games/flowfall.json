@@ -3,8 +3,8 @@
   "name": "FLOWFALL",
   "slug": "flowfall",
   "developer": "XYX Games",
-  "publisher": "Valkeala Software",
-  "release_date": "Jul 18, 2023",
+  "publisher": "",
+  "release_date": "2023-07-18",
   "price_usd": 0.69,
   "genres": [
     "Adventure",
@@ -21,33 +21,15 @@
   ],
   "short_description": "Unique puzzle/arcade game where you must fit the correct shapes into the correct gates as you fall.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2495700/header.jpg?t=1764929468",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2495700/ss_5bdc2d46be7dda1a775401a26e70eaaedee4d423.600x338.jpg?t=1764929468",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2495700/ss_c85fa2b0a1a2e808b410dc1ea5e272ebe7ab2bf7.600x338.jpg?t=1764929468",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2495700/ss_1c503d615731c7af5ba0b2f6c0b2bcfe13c49035.600x338.jpg?t=1764929468",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2495700/ss_41b1a0cc6b43a160f39c75a3e4e2adebac09c42d.600x338.jpg?t=1764929468",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2495700/ss_0699e0e0a4075307fedf8f715fa92f81cc1fc311.600x338.jpg?t=1764929468"
-  ],
-  "detailed_description": "<h1>FIND HMUR!</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2495700/extras/b009372be95605a3fb4580f8fe3b1d8f.poster.avif?t=1764929468\" width=1170 height=426 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2495700/extras/b009372be95605a3fb4580f8fe3b1d8f.webm?t=1764929468\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2495700/extras/b009372be95605a3fb4580f8fe3b1d8f.mp4?t=1764929468\" type=\"video/mp4\"></video></span></p></p><br><h1>About the Game</h1>FLOWFALL is a challenging depth perception-based arcade game where you must fit the correct shapes into the correct gates as you fall. On a whim you can swap between 4 different shapes that each have a specific gate. Touch anything and the game is over, how long can you last? Set a high score using the in game timer!<br><br>Experience an amazing 15 song synthwave soundtrack! <br><br>A unique concept for the puzzle arcade genre,  fall through 8 different stages and prove you can FLOW!",
-  "about_the_game": "FLOWFALL is a challenging depth perception-based arcade game where you must fit the correct shapes into the correct gates as you fall. On a whim you can swap between 4 different shapes that each have a specific gate. Touch anything and the game is over, how long can you last? Set a high score using the in game timer!<br />\r\n<br />\r\nExperience an amazing 15 song synthwave soundtrack! <br />\r\n<br />\r\nA unique concept for the puzzle arcade genre,  fall through 8 different stages and prove you can FLOW!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 5,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 60.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 60.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 60.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

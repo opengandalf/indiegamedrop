@@ -3,8 +3,8 @@
   "name": "Cranes",
   "slug": "cranes",
   "developer": "Tibromatic Games",
-  "publisher": "Tibromatic Games",
-  "release_date": "May 4, 2018",
+  "publisher": "",
+  "release_date": "2018-05-04",
   "price_usd": 5.99,
   "genres": [
     "Casual",
@@ -23,35 +23,15 @@
   ],
   "short_description": "Cranes is a 3D physics-puzzle game where you need to use cranes to move boxes to specific locations.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/842470/header.jpg?t=1525460435",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/842470/ss_cc31f367088717c610d8059ef461aebf747623a5.600x338.jpg?t=1525460435",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/842470/ss_c8d3d8dd882df1d535cb1cf19d90c8877253d622.600x338.jpg?t=1525460435",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/842470/ss_813d84110d45be9c5a1b1d7d2b4dbf1558095e4a.600x338.jpg?t=1525460435",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/842470/ss_0af8d866c296a114e2c5ad006aed8c019c1d7463.600x338.jpg?t=1525460435",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/842470/ss_f0b60831225d2023484e7e6c3ec55fdc5fc579df.600x338.jpg?t=1525460435"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Cranes!</h2>Cranes is a 3D <i>physics</i> <i>puzzle</i> game where you need to use cranes to move boxes to specific locations.<br>The game features 8 sections of levels, containing 8 levels each. Unlock features like <strong>conveyor belts</strong>, <strong>walls</strong>, and <strong>pistons</strong>!<br>A good mixture of easy and hard levels. You need to think outside the box!",
-  "about_the_game": "<h2 class=\"bb_tag\" >Cranes!</h2>Cranes is a 3D <i>physics</i> <i>puzzle</i> game where you need to use cranes to move boxes to specific locations.<br>The game features 8 sections of levels, containing 8 levels each. Unlock features like <strong>conveyor belts</strong>, <strong>walls</strong>, and <strong>pistons</strong>!<br>A good mixture of easy and hard levels. You need to think outside the box!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 7,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

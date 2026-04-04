@@ -3,8 +3,8 @@
   "name": "Hello World",
   "slug": "hello-world",
   "developer": "咖啡园种植研究基地",
-  "publisher": "咖啡园种植研究基地",
-  "release_date": "Nov 8, 2021",
+  "publisher": "",
+  "release_date": "2021-11-08",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -19,57 +19,27 @@
   ],
   "short_description": "Hello World 是一款以复制道具和推动NPC来与场景交互为核心的横版解谜游戏，背景设定在有中传校园和动画学院元素的幻想咖啡园中，你将扮演一位某天发现咖啡树枯萎的小机器人，于是带着NPC小伙伴们踏上了一路解谜拯救咖啡树的旅程。",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1780300/header.jpg?t=1653674783",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1780300/ss_77e906a0dbfc2d9e3da764e0f651a376afc498a3.600x338.jpg?t=1653674783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1780300/ss_71f61cf8960cb0220e3226eec79729eb51abedb8.600x338.jpg?t=1653674783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1780300/ss_f84031f5b13c6239ac5ddbb2f64a069c983627d8.600x338.jpg?t=1653674783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1780300/ss_76f9ba0bb05b8d423743b195f0d03983bbbafe08.600x338.jpg?t=1653674783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1780300/ss_fd1ef7a3d5e25779cce38d8db4322b89354327f5.600x338.jpg?t=1653674783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1780300/ss_565462faea5ec34c2af538fad44d359595854f9f.600x338.jpg?t=1653674783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1780300/ss_50bc27c709f21d9c8300d6e5f54774d4ec8354c5.600x338.jpg?t=1653674783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1780300/ss_79e490913489027c91e25a2338e8d9e6bca73c46.600x338.jpg?t=1653674783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1780300/ss_0b43bd504e79c4b9b853d0193a14a03fee48eaa0.600x338.jpg?t=1653674783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1780300/ss_7828fcade1aa0c72caf4733c99c7aaa53724bd7c.600x338.jpg?t=1653674783"
-  ],
-  "detailed_description": "Hello World 是一款以复制道具和推动NPC来与场景交互为核心的横版解谜游戏，背景设定在有中传校园和动画学院元素的幻想咖啡园中，你将扮演一位某天发现咖啡树枯萎的小机器人，于是带着NPC小伙伴们踏上了一路解谜拯救咖啡树的旅程。<br />\r\n你将在一路上遇到了各种奇妙的小物件：<br />\r\n·Shop Photo<br />\r\n·不断弹跳的Sbeam<br />\r\n·滚烫的热狗<br />\r\n·可以带飞的Origin气球<br />\r\n·厚重的牛京词典<br />\r\n你可以掏出键盘复制这些小物件并在NPC的帮助下来解开场景中的谜题。<br />\r\n游戏画面：清新可爱的幻想咖啡园与呆萌的小机器人，丰富的动作和有趣的过场动画。<br />\r\n游戏音效：专业音导学生制作，精致可爱的音效反馈。<br />\r\n游戏谜题：利用不同特性的小方块和会复活的NPC伙伴们来解谜吧！<br />\r\n游戏对话：全是梗的有趣对话（？）。<br />\r\n其他特色：为什么不来试试欺负小机器人呢？<br />\r\n开发者说：<br />\r\n主策：陆睢( ﾟ∀。)<br />\r\n主程：BOT(oﾟωﾟo)<br />\r\n( ﾟ∀。)陆：<br />\r\n我们的开发过程总的来说是一次很坎坷但是很快乐的旅程，从一开始选定想尝试做Metroidvania到DEMO版本只有平台跳跃没有战斗的0.1版本( ﾟ∀。)。<br />\r\n(oﾟωﾟo)B：<br />\r\n再到五一假期紧急调整，整个五月加班加点制作出来的当前版本：一款以复制道具和迫害（( ﾟ∀ﾟ)）NPC来与场景交互为核心的横版解谜游戏。<br />\r\n( ﾟ∀。)陆：<br />\r\n我们认真学习了很多解谜游戏设计的知识，了解到要创造玩家一定会尝试的迷惑点和对应的错误假设，在设计玩家动线的同时设计出玩家大概率会尝试的错误动线。<br />\r\n(oﾟωﾟo)B：<br />\r\n以及不能浅显地从表面上的玩家动线设计谜题，而是要深入挖掘机制，找出机制中玩家想到会有“灵光乍现”感的点来设计谜题。<br />\r\n( ﾟ∀。)陆：<br />\r\n但是因为实践不够、Q&A也不够、DDL也在追着赶着，有些关卡还没打磨到我们预期的水平( ﾟ∀。)7（小心DDL！）<br />\r\n(oﾟωﾟo)B：<br />\r\n不过最终的成品还是差强人意，完整度还挺不错的ᕕ(〃ᐛ〃)ᕗ，但是因为联创还没做完就被要求准备毕设开题，我们的咖啡园应该也没有机会再装修优化了(›´ω`‹)。<br />\r\n( ﾟ∀。)陆&(oﾟωﾟo)B：<br />\r\n( ｣ﾟДﾟ)｣＜最后请大家继续期待中国传媒大学动画学院游戏系的作品！",
-  "about_the_game": "Hello World 是一款以复制道具和推动NPC来与场景交互为核心的横版解谜游戏，背景设定在有中传校园和动画学院元素的幻想咖啡园中，你将扮演一位某天发现咖啡树枯萎的小机器人，于是带着NPC小伙伴们踏上了一路解谜拯救咖啡树的旅程。<br />\r\n你将在一路上遇到了各种奇妙的小物件：<br />\r\n·Shop Photo<br />\r\n·不断弹跳的Sbeam<br />\r\n·滚烫的热狗<br />\r\n·可以带飞的Origin气球<br />\r\n·厚重的牛京词典<br />\r\n你可以掏出键盘复制这些小物件并在NPC的帮助下来解开场景中的谜题。<br />\r\n游戏画面：清新可爱的幻想咖啡园与呆萌的小机器人，丰富的动作和有趣的过场动画。<br />\r\n游戏音效：专业音导学生制作，精致可爱的音效反馈。<br />\r\n游戏谜题：利用不同特性的小方块和会复活的NPC伙伴们来解谜吧！<br />\r\n游戏对话：全是梗的有趣对话（？）。<br />\r\n其他特色：为什么不来试试欺负小机器人呢？<br />\r\n开发者说：<br />\r\n主策：陆睢( ﾟ∀。)<br />\r\n主程：BOT(oﾟωﾟo)<br />\r\n( ﾟ∀。)陆：<br />\r\n我们的开发过程总的来说是一次很坎坷但是很快乐的旅程，从一开始选定想尝试做Metroidvania到DEMO版本只有平台跳跃没有战斗的0.1版本( ﾟ∀。)。<br />\r\n(oﾟωﾟo)B：<br />\r\n再到五一假期紧急调整，整个五月加班加点制作出来的当前版本：一款以复制道具和迫害（( ﾟ∀ﾟ)）NPC来与场景交互为核心的横版解谜游戏。<br />\r\n( ﾟ∀。)陆：<br />\r\n我们认真学习了很多解谜游戏设计的知识，了解到要创造玩家一定会尝试的迷惑点和对应的错误假设，在设计玩家动线的同时设计出玩家大概率会尝试的错误动线。<br />\r\n(oﾟωﾟo)B：<br />\r\n以及不能浅显地从表面上的玩家动线设计谜题，而是要深入挖掘机制，找出机制中玩家想到会有“灵光乍现”感的点来设计谜题。<br />\r\n( ﾟ∀。)陆：<br />\r\n但是因为实践不够、Q&A也不够、DDL也在追着赶着，有些关卡还没打磨到我们预期的水平( ﾟ∀。)7（小心DDL！）<br />\r\n(oﾟωﾟo)B：<br />\r\n不过最终的成品还是差强人意，完整度还挺不错的ᕕ(〃ᐛ〃)ᕗ，但是因为联创还没做完就被要求准备毕设开题，我们的咖啡园应该也没有机会再装修优化了(›´ω`‹)。<br />\r\n( ﾟ∀。)陆&(oﾟωﾟo)B：<br />\r\n( ｣ﾟДﾟ)｣＜最后请大家继续期待中国传媒大学动画学院游戏系的作品！",
-  "supported_languages": "Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.9302,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 23,
-  "review_positive": 22,
+  "review_positive": 0,
   "review_percentage": 95.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 22,
-      "review_percentage": 95.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 23,
       "review_percentage": 95.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

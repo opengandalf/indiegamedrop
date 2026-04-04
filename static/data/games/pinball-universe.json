@@ -3,8 +3,8 @@
   "name": "Pinball universe",
   "slug": "pinball-universe",
   "developer": "Kedexa",
-  "publisher": "Kedexa",
-  "release_date": "Jan 13, 2020",
+  "publisher": "",
+  "release_date": "2020-01-13",
   "price_usd": 5.99,
   "genres": [
     "Action",
@@ -21,35 +21,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Pinball universe is an arcade game in which the player collects game points by manipulating the ball on the playing field. The goal of the game is to score as many game points as possible. Two playing fields are available.",
+  "short_description": "Pinball universe is an arcade game in which the player collects game points by manipulating the ball on the playing field. The goal of the game is to score as many game points as possible. Two playing",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206870/header.jpg?t=1578946458",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206870/ss_00afb66fb33202ecfdd729a3950544e305a4cec9.600x338.jpg?t=1578946458",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206870/ss_f79ed774764a552541823ba963d8eef1c2e51fb0.600x338.jpg?t=1578946458",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206870/ss_93615b121e9fa14cb330fab50bd2a9f65fa29b5d.600x338.jpg?t=1578946458",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206870/ss_733c81474bb24a4d9e15aec04cf38f421db7c67d.600x338.jpg?t=1578946458",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206870/ss_2bf9ac470b8abc8741a1b30e146c70e5387780e6.600x338.jpg?t=1578946458",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206870/ss_935b3a105bcd5bf5bb922d2cf8dba486ad02b6a4.600x338.jpg?t=1578946458"
-  ],
-  "detailed_description": "Pinball universe is an arcade game in which the player collects game points by manipulating the ball on the playing field.<br />\r\nThe goal of the game is to score as many game points as possible.<br />\r\nTwo playing fields are available.",
-  "about_the_game": "Pinball universe is an arcade game in which the player collects game points by manipulating the ball on the playing field.<br />\r\nThe goal of the game is to score as many game points as possible.<br />\r\nTwo playing fields are available.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 10,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 30.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 22.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 30.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

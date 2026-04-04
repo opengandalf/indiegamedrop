@@ -3,8 +3,8 @@
   "name": "vHand",
   "slug": "vhand",
   "developer": "2w Computer Systems",
-  "publisher": "2w Computer Systems",
-  "release_date": "Oct 18, 2024",
+  "publisher": "",
+  "release_date": "2024-10-18",
   "price_usd": 9.87,
   "genres": [
     "Indie",
@@ -24,53 +24,29 @@
     "windows",
     "mac"
   ],
-  "short_description": "vHand is an app that realistically simulates your hand drawing motion, as well as, provides dynamic sketching sounds for ASMR lovers. vHand allows you to customize multiple hand presets which include pen, effects and colors. Use with your favorite streaming/capturing tool.",
+  "short_description": "vHand is an app that realistically simulates your hand drawing motion, as well as, provides dynamic sketching sounds for ASMR lovers. vHand allows you to customize multiple hand presets which include ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3192760/header.jpg?t=1769318493",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3192760/ss_2475673f773b94b5b29053ff11c1c691dcada4f0.600x338.jpg?t=1769318493",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3192760/ss_0a721e87a5e23bfd9e2ce5634bcc048c373dd248.600x338.jpg?t=1769318493",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3192760/ss_3047b43c91914906d4880570d371d7ee112fa15a.600x338.jpg?t=1769318493",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3192760/ss_f4ada7d713a5abae9e5872918f6f3445c66ce79e.600x338.jpg?t=1769318493",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3192760/ss_1921af79d068a866e7202998a00b90166ed8971f.600x338.jpg?t=1769318493",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3192760/ss_5084284693924c36e0b8de41603e0124b40c4fdf.600x338.jpg?t=1769318493"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3192760/extras/ba6983bb91718cb83872ffc010149b45.avif?t=1769318493\" width=800 height=350 /></span></p><p class=\"bb_paragraph\" >Enhance your drawing experience with vHand! </p><p class=\"bb_paragraph\" >Made and designed by artists for artists, in collaboration with @ColdiArt! </p><p class=\"bb_paragraph\" >Whether you’re a streamer or content creator, vHand offers an experience that combines realistic hand drawing motion simulations with dynamic sketching sounds.</p><p class=\"bb_paragraph\" >  </p><p class=\"bb_paragraph\" ><strong>Key Features:</strong> </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Realistic Hand Drawing Simulation </p></li><li><p class=\"bb_paragraph\" >Mods support! You can  access all the textures, edit any of the pens, accessories, hands, sleeves, etc... with your own custom design and your edits will show up on the app once restarted. </p></li><li><p class=\"bb_paragraph\" >Dynamic Sketching Sounds </p></li><li><p class=\"bb_paragraph\" >Customizable Hand Presets </p></li><li><p class=\"bb_paragraph\" >Seamless overlay capture with transparent background support </p></li><li><p class=\"bb_paragraph\" >Runs and captures mouse and pen presses in the background </p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" ><strong>Development:</strong> </p><p class=\"bb_paragraph\" >Our main goal is to continue adding updates and features based on the community feedback. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Please Join our growing community of artists and creators and  let us know what would you like to see implemented in future updates!</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>FAQ:</strong> </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><i>Q: I'm having trouble using the app in the background on Mac</i> </p><p class=\"bb_paragraph\" >A: Make sure to give proper permissions on your Mac right after installation when prompted. Go to Privacy & Security > Accessibility > Add VHand and enable it. </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><i>Q: How do I add the vHand app in OBS?</i> </p><p class=\"bb_paragraph\" >A: For Windows users : Add Game Capture Source > Under Mode : Select Capture Specific Window, Under Window: Select vHand, Under Window Match Priority: Select Window title must match > Enable Allow Transparency. For Mac users : Add MacOS Screen Capture > Under Method: Select Window Capture, Under Window: Select vHand > Add Chroma Key Filter to your Capture and set the key colour Type to Green. </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><strong>Tip :</strong> In order to make the pen tip match with your PC cursor : First create a Group in OBS, then add your vHand source + your drawing program source inside the same group. Finally, change the size of the group or move it around to keep both cursors aligned in your streams.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><i>Q: How do I customize my hand?</i> </p><p class=\"bb_paragraph\" >A: After hitting Start and selecting your Preset, hit ESC on your keyboard to make the customization overlay appear, hit ESC again to hide it.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><i>Q: Where can I add my own art into the app?</i> </p><p class=\"bb_paragraph\" >A: In future updates, we will add mod support to the app and we will share more information on how to do that.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3192760/extras/ba6983bb91718cb83872ffc010149b45.avif?t=1769318493\" width=800 height=350 /></span></p><p class=\"bb_paragraph\" >Enhance your drawing experience with vHand! </p><p class=\"bb_paragraph\" >Made and designed by artists for artists, in collaboration with @ColdiArt! </p><p class=\"bb_paragraph\" >Whether you’re a streamer or content creator, vHand offers an experience that combines realistic hand drawing motion simulations with dynamic sketching sounds.</p><p class=\"bb_paragraph\" >  </p><p class=\"bb_paragraph\" ><strong>Key Features:</strong> </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Realistic Hand Drawing Simulation </p></li><li><p class=\"bb_paragraph\" >Mods support! You can  access all the textures, edit any of the pens, accessories, hands, sleeves, etc... with your own custom design and your edits will show up on the app once restarted. </p></li><li><p class=\"bb_paragraph\" >Dynamic Sketching Sounds </p></li><li><p class=\"bb_paragraph\" >Customizable Hand Presets </p></li><li><p class=\"bb_paragraph\" >Seamless overlay capture with transparent background support </p></li><li><p class=\"bb_paragraph\" >Runs and captures mouse and pen presses in the background </p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" ><strong>Development:</strong> </p><p class=\"bb_paragraph\" >Our main goal is to continue adding updates and features based on the community feedback. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Please Join our growing community of artists and creators and  let us know what would you like to see implemented in future updates!</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>FAQ:</strong> </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><i>Q: I'm having trouble using the app in the background on Mac</i> </p><p class=\"bb_paragraph\" >A: Make sure to give proper permissions on your Mac right after installation when prompted. Go to Privacy & Security > Accessibility > Add VHand and enable it. </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><i>Q: How do I add the vHand app in OBS?</i> </p><p class=\"bb_paragraph\" >A: For Windows users : Add Game Capture Source > Under Mode : Select Capture Specific Window, Under Window: Select vHand, Under Window Match Priority: Select Window title must match > Enable Allow Transparency. For Mac users : Add MacOS Screen Capture > Under Method: Select Window Capture, Under Window: Select vHand > Add Chroma Key Filter to your Capture and set the key colour Type to Green. </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><strong>Tip :</strong> In order to make the pen tip match with your PC cursor : First create a Group in OBS, then add your vHand source + your drawing program source inside the same group. Finally, change the size of the group or move it around to keep both cursors aligned in your streams.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><i>Q: How do I customize my hand?</i> </p><p class=\"bb_paragraph\" >A: After hitting Start and selecting your Preset, hit ESC on your keyboard to make the customization overlay appear, hit ESC again to hide it.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><i>Q: Where can I add my own art into the app?</i> </p><p class=\"bb_paragraph\" >A: In future updates, we will add mod support to the app and we will share more information on how to do that.</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0021,
   "gem_score": 0.7869,
   "hype_score": 0.0,
-  "review_velocity_7d": 19.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 51,
-  "review_positive": 47,
+  "review_positive": 0,
   "review_percentage": 92.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 32,
-      "review_percentage": 93.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 51,
       "review_percentage": 92.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

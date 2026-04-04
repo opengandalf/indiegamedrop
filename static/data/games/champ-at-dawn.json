@@ -3,8 +3,8 @@
   "name": "Champ at Dawn",
   "slug": "champ-at-dawn",
   "developer": "Grey Sekiya",
-  "publisher": "Grey Sekiya",
-  "release_date": "Jan 23, 2023",
+  "publisher": "",
+  "release_date": "2023-01-23",
   "price_usd": 3.99,
   "genres": [
     "Sports"
@@ -17,34 +17,15 @@
   ],
   "short_description": "A game that will take care of your 2 minutes",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245450/header.jpg?t=1681283492",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245450/ss_bc45ec7848a1611d0512732cfffd222e18b44c7d.600x338.jpg?t=1681283492",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245450/ss_fcd1e89069cff16e1a72064ae8995820fba85ce5.600x338.jpg?t=1681283492",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245450/ss_ede96a59014f1c6bd18ddeda24a41d9a2f63ce7a.600x338.jpg?t=1681283492",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245450/ss_7e38876d034dec87a277c10773362b826341c1d1.600x338.jpg?t=1681283492",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245450/ss_399058dba4cfab0f064d7235ec72e0b4df6ea11d.600x338.jpg?t=1681283492",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245450/ss_49a9366af60c925b564b9a15b9e90cceb9fd4756.600x338.jpg?t=1681283492"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245450/extras/1f07570b8feaca5644138aed2c2435f7.avif?t=1681283492\" width=615 height=199 /></span><br><br><strong>Basketball Game</strong><br><br>You can throw a shot in a basketball game for 120 seconds.<br>A special round is created with a low probability.<br>In the special round, you can throw 2 more shots.<br><br>Your score pops up to all players along with your avatar (national flag) in the background of the game.",
-  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2245450/extras/1f07570b8feaca5644138aed2c2435f7.avif?t=1681283492\" width=615 height=199 /></span><br><br><strong>Basketball Game</strong><br><br>You can throw a shot in a basketball game for 120 seconds.<br>A special round is created with a low probability.<br>In the special round, you can throw 2 more shots.<br><br>Your score pops up to all players along with your avatar (national flag) in the background of the game.",
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Greek<strong>*</strong>, Dutch<strong>*</strong>, Norwegian<strong>*</strong>, Danish<strong>*</strong>, Russian<strong>*</strong>, Romanian<strong>*</strong>, Vietnamese<strong>*</strong>, Bulgarian<strong>*</strong>, Swedish<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Arabic<strong>*</strong>, Ukrainian<strong>*</strong>, Japanese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Czech<strong>*</strong>, Thai<strong>*</strong>, Turkish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Polish<strong>*</strong>, Finnish<strong>*</strong>, Korean<strong>*</strong>, Hungarian<strong>*</strong>, Malay<strong>*</strong>, Mongolian<strong>*</strong>, Bangla<strong>*</strong>, Indonesian<strong>*</strong>, Khmer<strong>*</strong>, Tamil<strong>*</strong>, Filipino<strong>*</strong>, Traditional Chinese<strong>*</strong>, Hindi<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

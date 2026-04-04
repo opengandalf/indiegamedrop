@@ -3,8 +3,8 @@
   "name": "Demon Town Maker",
   "slug": "demon-town-maker",
   "developer": "Zemon",
-  "publisher": "Zemon",
-  "release_date": "Jan 22, 2025",
+  "publisher": "",
+  "release_date": "2025-01-22",
   "price_usd": 2.99,
   "genres": [
     "Strategy"
@@ -15,35 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "A roguelike game blending city-building and resource management! Plan your constructions to generate military and fortify your defenses. Protect your city from waves of invading enemies, adapt your strategies, and overcome every challenge",
+  "short_description": "A roguelike game blending city-building and resource management! Plan your constructions to generate military and fortify your defenses. Protect your city from waves of invading enemies, adapt your st",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425850/header.jpg?t=1739344224",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425850/ss_8e9083f353edbb38d61ec88df67d0dd2e478ea36.600x338.jpg?t=1739344224",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425850/ss_41c8dec49c108164ad47d23b044fd313b6f45fba.600x338.jpg?t=1739344224",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425850/ss_cc4433be4dd88e05e0ce21f6dedb8067d32c0e99.600x338.jpg?t=1739344224",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425850/ss_35e05a4694fe40ef69127198554719f4f1389c33.600x338.jpg?t=1739344224",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425850/ss_fc2bc37b11ea3a1ca104ba2d6f6dadf761be7c7d.600x338.jpg?t=1739344224",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3425850/ss_3f7900bc0416b9f7ad974d467cfb1fdb39de8ca8.600x338.jpg?t=1739344224"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >A roguelike game blending city-building and resource management, featuring a dynamic system that generates new buildings daily! Strategize and construct from over 50 unique buildings to create powerful combos, generate military points, and defend your city against increasingly challenging enemy waves. Survive for 100 days to achieve victory. Adapt, optimize, and fortify your city to overcome every obstacle!</p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Randomized building system:</strong> Gain a new building every day, each capable of forming unique combos to enhance your city's strength</p></li><li><p class=\"bb_paragraph\" ><strong>Upgrade system:</strong> Unlock new buildings to expand your options and refine your strategies</p></li><li><p class=\"bb_paragraph\" ><strong>Dynamic challenges:</strong> Defend your city from increasingly difficult enemy waves</p></li><li><p class=\"bb_paragraph\" ><strong>Ultimate goal:</strong> Survive 100 days </p><p class=\"bb_paragraph\" >Plan wisely, adapt to the situation, and build your city your way to conquer every challenge!</p></li></ul>",
-  "about_the_game": "<p class=\"bb_paragraph\" >A roguelike game blending city-building and resource management, featuring a dynamic system that generates new buildings daily! Strategize and construct from over 50 unique buildings to create powerful combos, generate military points, and defend your city against increasingly challenging enemy waves. Survive for 100 days to achieve victory. Adapt, optimize, and fortify your city to overcome every obstacle!</p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Randomized building system:</strong> Gain a new building every day, each capable of forming unique combos to enhance your city's strength</p></li><li><p class=\"bb_paragraph\" ><strong>Upgrade system:</strong> Unlock new buildings to expand your options and refine your strategies</p></li><li><p class=\"bb_paragraph\" ><strong>Dynamic challenges:</strong> Defend your city from increasingly difficult enemy waves</p></li><li><p class=\"bb_paragraph\" ><strong>Ultimate goal:</strong> Survive 100 days </p><p class=\"bb_paragraph\" >Plan wisely, adapt to the situation, and build your city your way to conquer every challenge!</p></li></ul>",
-  "supported_languages": "English, Simplified Chinese, Japanese, Korean, Thai",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.4,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 8,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 8,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Gundy",
   "slug": "gundy",
   "developer": "d4rkd0s",
-  "publisher": "d4rkd0s",
-  "release_date": "Mar 10, 2020",
+  "publisher": "",
+  "release_date": "2020-03-10",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -24,54 +24,29 @@
     "windows",
     "linux"
   ],
-  "short_description": "Welcome to Gundy, a short and sweet 2D platformer made by d4rkd0s. Your mission as Gundy is to find a weapon, eliminate the enemy snakes along your path. Try to find access to the boss room. Once you enter the room prepare for a difficult fight, only those with true skill will win!",
+  "short_description": "Welcome to Gundy, a short and sweet 2D platformer made by d4rkd0s. Your mission as Gundy is to find a weapon, eliminate the enemy snakes along your path. Try to find access to the boss room. Once you ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/941640/header.jpg?t=1732944004",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/941640/ss_360c91174602ccd3f85544cc68d3d89377a4629b.600x338.jpg?t=1732944004",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/941640/ss_aa4aadbdf6211b0cf3c70555f5b12b173f4be793.600x338.jpg?t=1732944004",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/941640/ss_ced8136b83c959ff18d681f5e35b629caba4cb01.600x338.jpg?t=1732944004",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/941640/ss_52d898eff1d79bba5358d189ab29e0c93359c554.600x338.jpg?t=1732944004",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/941640/ss_4ff7399643113573885e52f26e632d77276700a7.600x338.jpg?t=1732944004"
-  ],
-  "detailed_description": "Welcome to Gundy, a short and sweet 2D platformer made by d4rkd0s. <br />\r\nYour mission as Gundy is to find a weapon, eliminate the enemy snakes along your path. <br />\r\nTry to find access to the boss room. Once you enter the room prepare for a difficult fight, only those with true skill will win!<br />\r\n<br />\r\nWritten in 2019, supported today, if you have any ideas/feedback please share on the Steam Community.",
-  "about_the_game": "Welcome to Gundy, a short and sweet 2D platformer made by d4rkd0s. <br />\r\nYour mission as Gundy is to find a weapon, eliminate the enemy snakes along your path. <br />\r\nTry to find access to the boss room. Once you enter the room prepare for a difficult fight, only those with true skill will win!<br />\r\n<br />\r\nWritten in 2019, supported today, if you have any ideas/feedback please share on the Steam Community.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.8395,
   "hype_score": 0.0,
   "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 30,
-  "review_positive": 27,
+  "review_positive": 0,
   "review_percentage": 90.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 30,
-      "review_percentage": 90.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 30,
       "review_percentage": 90.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

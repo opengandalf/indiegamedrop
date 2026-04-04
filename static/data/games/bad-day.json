@@ -3,8 +3,8 @@
   "name": "Bad Day",
   "slug": "bad-day",
   "developer": "Black Lime Studio",
-  "publisher": "Black Lime Studio",
-  "release_date": "Mar 2, 2018",
+  "publisher": "",
+  "release_date": "2018-03-02",
   "price_usd": 0.49,
   "genres": [
     "Action",
@@ -17,65 +17,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Bad Day - an endless runner with unique combination of 2D graphics and 3D environment. Compete with players from all around the world. But do not forget that the difficulty increases as you progress through.",
+  "short_description": "Bad Day - an endless runner with unique combination of 2D graphics and 3D environment. Compete with players from all around the world. But do not forget that the difficulty increases as you progress t",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803080/header.jpg?t=1573963205",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803080/ss_5b592c3d4725e5637aaa3fcdecccdb9259e76924.600x338.jpg?t=1573963205",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803080/ss_0ef64fd7f31335e29bf53ed7ea62eb2f5a8ebeeb.600x338.jpg?t=1573963205",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803080/ss_2a56f839eecca1fb3cb36e961b40ac8f7a01f239.600x338.jpg?t=1573963205",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803080/ss_231b4fccffb1dd3904ac2af05a75b8fa0b01f9bb.600x338.jpg?t=1573963205",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803080/ss_d315864a357bd1c7ee2818633252c31848b1f8bb.600x338.jpg?t=1573963205",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803080/ss_bba849c401f59c6f64526d6b8933731db3ec26b8.600x338.jpg?t=1573963205"
-  ],
-  "detailed_description": "<i>*WARNING: BAD LANGUAGE*</i><br><br><strong>Bad Day</strong> - an endless runner with unique combination of 2D graphics and 3D environment. Compete with players from all around the world. But do not forget that the difficulty increases as you progress through.<br><br>- <strong>Endless gameplay</strong>. Run and try to survive as long as you can.<br>- <strong>Obstacles</strong>. The environment will distract you, and various obstacles will not let you get bored.<br>- <strong>Simple controls</strong>. All you have to do is to run and jump. That simple.<br>- <strong>Leaderboard</strong>. You can compete against players all over the world. The leaderboard will be updated in real time.",
-  "about_the_game": "<i>*WARNING: BAD LANGUAGE*</i><br><br><strong>Bad Day</strong> - an endless runner with unique combination of 2D graphics and 3D environment. Compete with players from all around the world. But do not forget that the difficulty increases as you progress through.<br><br>- <strong>Endless gameplay</strong>. Run and try to survive as long as you can.<br>- <strong>Obstacles</strong>. The environment will distract you, and various obstacles will not let you get bored.<br>- <strong>Simple controls</strong>. All you have to do is to run and jump. That simple.<br>- <strong>Leaderboard</strong>. You can compete against players all over the world. The leaderboard will be updated in real time.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 14.3,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
-  "review_count": 285,
-  "review_positive": 186,
-  "review_percentage": 65.3,
-  "owner_estimate": 150000,
+  "classification": "tracked",
+  "review_count": 286,
+  "review_positive": 0,
+  "review_percentage": 65.4,
+  "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 23,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 276,
-      "review_percentage": 65.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 286,
       "review_percentage": 65.4,
       "ccu_estimate": 0,
       "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
-      "review_count": 285,
-      "review_percentage": 65.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

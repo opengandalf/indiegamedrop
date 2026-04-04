@@ -3,8 +3,8 @@
   "name": "Photo Playhouse",
   "slug": "photo-playhouse",
   "developer": "Gesilolo",
-  "publisher": "Gesilolo",
-  "release_date": "Aug 7, 2024",
+  "publisher": "",
+  "release_date": "2024-08-07",
   "price_usd": 1.99,
   "genres": [
     "Action",
@@ -17,35 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "This is a 2D pixel action game where the protagonists defeat bosses. Players can switch between four different characters, each with multiple skills, to experience the thrill of combo attacks and the excitement of combat.",
+  "short_description": "This is a 2D pixel action game where the protagonists defeat bosses. Players can switch between four different characters, each with multiple skills, to experience the thrill of combo attacks and the ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124050/header.jpg?t=1723014884",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124050/ss_bd8da6370147a54394ff799be963f31e48a6bf8a.600x338.jpg?t=1723014884",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124050/ss_0399f3da6c979dea7dac1f6e6656d80b65b82580.600x338.jpg?t=1723014884",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124050/ss_79a75326ac76cfd6a2419fd8b3e0a7918b28c961.600x338.jpg?t=1723014884",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124050/ss_8cae818ac5186586c8ebcc2d4c1161eaade1077d.600x338.jpg?t=1723014884",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124050/ss_e4d0b938487114ec4ff33d6d79f901f2bd7d222b.600x338.jpg?t=1723014884",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124050/ss_591405244fc9b71bf375d1903d0623862045b96c.600x338.jpg?t=1723014884"
-  ],
-  "detailed_description": "This is a 2D pixel action game where the protagonists defeat bosses. Players can switch between four different characters, each with multiple skills, to experience the thrill of combo attacks and the excitement of combat. Each character has a unique skill release mechanism and skill tree. Players can trigger different combos by using various combinations of attack buttons on the keyboard, including single tap, long press, and interval press. They can also use combinations of directional and attack keys to release skills and utilize a grappling hook function to attack enemies from all directions.Each character can switch between different states, with each state having its own skill tree and unique special skills (such as blocking, dodging, dashing, etc.) and ultimate skills. The game encourages players to use a variety of skills to attack enemies, rewarding them with higher ratings for more diverse skill usage.",
-  "about_the_game": "This is a 2D pixel action game where the protagonists defeat bosses. Players can switch between four different characters, each with multiple skills, to experience the thrill of combo attacks and the excitement of combat. Each character has a unique skill release mechanism and skill tree. Players can trigger different combos by using various combinations of attack buttons on the keyboard, including single tap, long press, and interval press. They can also use combinations of directional and attack keys to release skills and utilize a grappling hook function to attack enemies from all directions.Each character can switch between different states, with each state having its own skill tree and unique special skills (such as blocking, dodging, dashing, etc.) and ultimate skills. The game encourages players to use a variety of skills to attack enemies, rewarding them with higher ratings for more diverse skill usage.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 6,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

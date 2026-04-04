@@ -3,8 +3,8 @@
   "name": "Glyph Guesser",
   "slug": "glyph-guesser",
   "developer": "Paul Spooner",
-  "publisher": "Tryop",
-  "release_date": "Jan 11, 2023",
+  "publisher": "",
+  "release_date": "2023-01-11",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -19,32 +19,9 @@
   ],
   "short_description": "Guess the random sequence of glyphs with optional hints and alternate symbol sets.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247080/header.jpg?t=1673474150",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247080/ss_30acf4c9e5f0f815133f353fa0c123e65b34cdc8.600x338.jpg?t=1673474150",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247080/ss_5fe63822225eacb246589a918ecfe5d8042e86a3.600x338.jpg?t=1673474150",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247080/ss_51e2c2cdc80577590e7819615d8a208a9ccd5527.600x338.jpg?t=1673474150",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247080/ss_d01bd3b3dd86de56a217c7c230be7159fb019ba6.600x338.jpg?t=1673474150",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247080/ss_9d0ca1c344957c7311cc56f23362bb93f09c0623.600x338.jpg?t=1673474150"
-  ],
-  "detailed_description": "One evening, my 5 year old son asked me to \"guess my letters\". It turns out he was thinking of three letters that didn't make a word. Just three random letters. It was kind of fun!<br />\r\nGlyph Guesser is a little program I made that builds on this idea. You can adjust the difficulty by setting the size of the pool of characters, the length of the random sequence, and the kind of hints you get about how close your guesses are. The hints are all togglable independently, so you can choose to see:<br />\r\n* No hints at all, just guess randomly.<br />\r\n* How many of the glyphs are somewhere in the sequence.<br />\r\n* Which of the glyphs are in the sequence<br />\r\n* Which of the glyphs are in the correct locations.<br />\r\nBecause glyph guesser supports 860 glyphs from the UTF-8 character set, you can generate an arcane set of glyphs to guess from, and if you choose a glyph set of 10 or less, you can reference them with the numerals 0-9. Otherwise, you'll need to copy-paste the glyphs from the library printout.<br />\r\n<br />\r\nEnjoy guessing!",
-  "about_the_game": "One evening, my 5 year old son asked me to \"guess my letters\". It turns out he was thinking of three letters that didn't make a word. Just three random letters. It was kind of fun!<br />\r\nGlyph Guesser is a little program I made that builds on this idea. You can adjust the difficulty by setting the size of the pool of characters, the length of the random sequence, and the kind of hints you get about how close your guesses are. The hints are all togglable independently, so you can choose to see:<br />\r\n* No hints at all, just guess randomly.<br />\r\n* How many of the glyphs are somewhere in the sequence.<br />\r\n* Which of the glyphs are in the sequence<br />\r\n* Which of the glyphs are in the correct locations.<br />\r\nBecause glyph guesser supports 860 glyphs from the UTF-8 character set, you can generate an arcane set of glyphs to guess from, and if you choose a glyph set of 10 or less, you can reference them with the numerals 0-9. Otherwise, you'll need to copy-paste the glyphs from the library printout.<br />\r\n<br />\r\nEnjoy guessing!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 5,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

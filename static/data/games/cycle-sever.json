@@ -3,8 +3,8 @@
   "name": "Cycle Sever",
   "slug": "cycle-sever",
   "developer": "LastAttack",
-  "publisher": "LastAttack",
-  "release_date": "Jan 27, 2025",
+  "publisher": "",
+  "release_date": "2025-01-27",
   "price_usd": 4.99,
   "genres": [
     "Indie"
@@ -15,30 +15,13 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "CycleSever is a game where you progress through stages by selecting the right commands to defeat enemies. The game offers a tense and thrilling experience as you read your opponent’s actions, deflect their attacks, and seize opportunities to strike back.",
+  "short_description": "CycleSever is a game where you progress through stages by selecting the right commands to defeat enemies. The game offers a tense and thrilling experience as you read your opponent’s actions, deflect ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3420940/header.jpg?t=1738110695",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3420940/ss_b7093ba207362d6737208df019d1b39650b7abda.600x338.jpg?t=1738110695",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3420940/ss_3ee39a21f6354f360ed6dc92ba7a4b3748d76174.600x338.jpg?t=1738110695",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3420940/ss_3f850e2cce85f579a975b12053a360f630637ffb.600x338.jpg?t=1738110695",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3420940/ss_0cff14b81d5a1e95635b9cec08768259e015073d.600x338.jpg?t=1738110695",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3420940/ss_694c8b18705420745677ad3aa4e73655ff593d9e.600x338.jpg?t=1738110695"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Introduction</h2><p class=\"bb_paragraph\" ><strong>CycleSever</strong> is a game where you progress through stages by selecting the right commands to defeat enemies.<br>The story begins with an amnesiac protagonist waking up in a forest, embarking on a journey to recover their memories alongside a cat named \"Asphal,\" whom they meet by chance.<br>In battle, players choose commands to attack enemies during their openings. However, since enemies also attack, players must use movement commands and other strategies to skillfully evade enemy attacks.<br>Each stage has unique missions, allowing players to enjoy the satisfaction of defeating enemies by strategizing their actions.</p><h2 class=\"bb_tag\" >The Tension of a \"Single Strike\"</h2><p class=\"bb_paragraph\" >In this game, the protagonist has no HP; instead, they have only one life.<br>Taking even a single hit from an enemy will reduce their life to zero, resulting in an immediate game over. However, the same applies to enemies—one strike is enough to defeat them.<br>The game offers a thrilling experience where players read enemy actions, deflect attacks, and exploit openings to land their own decisive strikes.</p><h2 class=\"bb_tag\" >Over 10 Motion Commands and Diverse Enemy Movements</h2><p class=\"bb_paragraph\" >Enemies in <strong>CycleSever</strong> each showcase unique movements and abilities to challenge the protagonist.<br>To counter these threats, players can combine over 10 types of commands to find their own strategies and paths to victory.<br>As players clear missions, new motion commands are unlocked, enabling them to discover various tactics and strategies unique to their playstyle.</p><h2 class=\"bb_tag\" >Game Rules</h2><p class=\"bb_paragraph\" >Each stage features enemies, each with their own health and unique attack animations.<br>At the beginning of each wave, players select a specified number of commands, which are then combined into a sequence that plays out as the protagonist's animation for that wave.<br>The protagonist has only one life, and taking any hit from an enemy results in a game over.<br>Enemy attack patterns are fixed, so players must learn these animations through repeated attempts and choose the right commands to counter and defeat their foes.</p>",
-  "about_the_game": "<h2 class=\"bb_tag\" >Introduction</h2><p class=\"bb_paragraph\" ><strong>CycleSever</strong> is a game where you progress through stages by selecting the right commands to defeat enemies.<br>The story begins with an amnesiac protagonist waking up in a forest, embarking on a journey to recover their memories alongside a cat named \"Asphal,\" whom they meet by chance.<br>In battle, players choose commands to attack enemies during their openings. However, since enemies also attack, players must use movement commands and other strategies to skillfully evade enemy attacks.<br>Each stage has unique missions, allowing players to enjoy the satisfaction of defeating enemies by strategizing their actions.</p><h2 class=\"bb_tag\" >The Tension of a \"Single Strike\"</h2><p class=\"bb_paragraph\" >In this game, the protagonist has no HP; instead, they have only one life.<br>Taking even a single hit from an enemy will reduce their life to zero, resulting in an immediate game over. However, the same applies to enemies—one strike is enough to defeat them.<br>The game offers a thrilling experience where players read enemy actions, deflect attacks, and exploit openings to land their own decisive strikes.</p><h2 class=\"bb_tag\" >Over 10 Motion Commands and Diverse Enemy Movements</h2><p class=\"bb_paragraph\" >Enemies in <strong>CycleSever</strong> each showcase unique movements and abilities to challenge the protagonist.<br>To counter these threats, players can combine over 10 types of commands to find their own strategies and paths to victory.<br>As players clear missions, new motion commands are unlocked, enabling them to discover various tactics and strategies unique to their playstyle.</p><h2 class=\"bb_tag\" >Game Rules</h2><p class=\"bb_paragraph\" >Each stage features enemies, each with their own health and unique attack animations.<br>At the beginning of each wave, players select a specified number of commands, which are then combined into a sequence that plays out as the protagonist's animation for that wave.<br>The protagonist has only one life, and taking any hit from an enemy results in a game over.<br>Enemy attack patterns are fixed, so players must learn these animations through repeated attempts and choose the right commands to counter and defeat their foes.</p>",
-  "supported_languages": "Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

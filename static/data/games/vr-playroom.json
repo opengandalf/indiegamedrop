@@ -3,8 +3,8 @@
   "name": "VR_PlayRoom",
   "slug": "vr-playroom",
   "developer": "WeVery",
-  "publisher": "WeVery",
-  "release_date": "Jan 11, 2018",
+  "publisher": "",
+  "release_date": "2018-01-11",
   "price_usd": 2.99,
   "genres": [
     "Action",
@@ -23,61 +23,21 @@
   ],
   "short_description": "Play a game with your friends to reach the highest score.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/771670/header.jpg?t=1516003914",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/771670/ss_637766768e1db24b5e5dd860971e186cdfb999c1.600x338.jpg?t=1516003914",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/771670/ss_0874808ff5491f3639c87bbb81b99b740f660256.600x338.jpg?t=1516003914",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/771670/ss_e01e6baefe9ccd2f6c0dc9fbf0be41c767562c42.600x338.jpg?t=1516003914",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/771670/ss_e487d5cbfd160c137832f5e99bfc201282d205a1.600x338.jpg?t=1516003914",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/771670/ss_ecfe3f02b524362958ec28ce87f128dad3774d3f.600x338.jpg?t=1516003914"
-  ],
-  "detailed_description": "VR_PlayRoom is a virtual reality arcade basketball and Gun shooting game.<br />\r\nlet's try betting the game with your friends and challenge more the best high score.<br />\r\nhow many points you can get<br />\r\nor how many times you can match the answer on limited time.<br />\r\nchallenge the limitations of yourself.<br />\r\ngood luck to you.",
-  "about_the_game": "VR_PlayRoom is a virtual reality arcade basketball and Gun shooting game.<br />\r\nlet's try betting the game with your friends and challenge more the best high score.<br />\r\nhow many points you can get<br />\r\nor how many times you can match the answer on limited time.<br />\r\nchallenge the limitations of yourself.<br />\r\ngood luck to you.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 7,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 57.1,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 29,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 57.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 7,
-      "review_percentage": 57.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 57.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

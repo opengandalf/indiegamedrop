@@ -3,8 +3,8 @@
   "name": "Buns: Bunny Survivor",
   "slug": "buns-bunny-survivor",
   "developer": "unikotoast",
-  "publisher": "unikotoast",
-  "release_date": "Dec 23, 2023",
+  "publisher": "",
+  "release_date": "2023-12-23",
   "price_usd": 2.99,
   "genres": [
     "Action"
@@ -17,32 +17,15 @@
   ],
   "short_description": "Survive for 10 minutes in this bullet heaven with a bunny girl",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684450/header.jpg?t=1703370152",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684450/ss_d10789b05f1889a81ec2555fe16943984cbababe.600x338.jpg?t=1703370152",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684450/ss_4f7351af507c260e1606b6b2edefdfa1278dffd9.600x338.jpg?t=1703370152",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684450/ss_a5ea821f16f3456177649a7d4853c2393b5cd2b9.600x338.jpg?t=1703370152",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684450/ss_01cea3c24a63135ba071713dbdef80a7fcfd7345.600x338.jpg?t=1703370152",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2684450/ss_962234fa0f54a977905cc0bc9d9f326059215b01.600x338.jpg?t=1703370152"
-  ],
-  "detailed_description": "Help the magical bunny girl to survive for 10 minutes against hordes of evil. Collect gems to get new skills, find bunnies to heal, carrots to recharge. <br />\r\n<br />\r\nThis is tiny roguelike bullet heaven with a bunny girl made for Pico-8 fantasy console.<br />\r\n<br />\r\nFeatures:<br />\r\n- incredibly crisp 128x128 resoltuion<br />\r\n- an explosion of color with a massive palette of 16 whole colors!<br />\r\n- super hard game, can be beaten in 10 minutes but it will be impossible, some players played it for 100+ hours!<br />\r\n- don't need mouse to play<br />\r\n- cute bunny<br />\r\n- CARROTS",
-  "about_the_game": "Help the magical bunny girl to survive for 10 minutes against hordes of evil. Collect gems to get new skills, find bunnies to heal, carrots to recharge. <br />\r\n<br />\r\nThis is tiny roguelike bullet heaven with a bunny girl made for Pico-8 fantasy console.<br />\r\n<br />\r\nFeatures:<br />\r\n- incredibly crisp 128x128 resoltuion<br />\r\n- an explosion of color with a massive palette of 16 whole colors!<br />\r\n- super hard game, can be beaten in 10 minutes but it will be impossible, some players played it for 100+ hours!<br />\r\n- don't need mouse to play<br />\r\n- cute bunny<br />\r\n- CARROTS",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 5,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

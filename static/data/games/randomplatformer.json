@@ -3,8 +3,8 @@
   "name": "Random(platformer)",
   "slug": "randomplatformer",
   "developer": "remete",
-  "publisher": "remete",
-  "release_date": "Oct 13, 2020",
+  "publisher": "",
+  "release_date": "2020-10-13",
   "price_usd": 9.99,
   "genres": [
     "Action",
@@ -21,35 +21,9 @@
   ],
   "short_description": "a minimalistic 2D platformer game with randomly generated levels. a level can't be exactly the same twice!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424960/header.jpg?t=1604471924",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424960/ss_2d31c8da5446bb645355943a42d0a757b519f37b.600x338.jpg?t=1604471924",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424960/ss_e2d38e1183b8c0a9c919f3750bce77b626e0fb68.600x338.jpg?t=1604471924",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424960/ss_47691a428a63370b73b6b8bc770ba98014c1b5f5.600x338.jpg?t=1604471924",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424960/ss_60414e25be11c6e46619aa2acc3e787a6f40c0ed.600x338.jpg?t=1604471924",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424960/ss_cdd04461a36a76aeaa01d11249fb887922b56646.600x338.jpg?t=1604471924",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424960/ss_f5d0e2f879dbe5d061161f8a55cd346e29cbb625.600x338.jpg?t=1604471924",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1424960/ss_1b3ffc8031755e15b419f760fd409b727199359b.600x338.jpg?t=1604471924"
-  ],
-  "detailed_description": "This game is minimalist in every aspect. No enemies, no points, no time limit, no collectibles, only jumping! But that doesn’t mean you’ll have an easy time!<br />\r\nAll levels filled up with platforms randomly, and those platforms are tricky. one can change its length, the other its visibility but there is also one that changes its position. <br />\r\n<br />\r\nWhen you choose a difficulty level you decide how many lives you start the game with. But beware, because one mistake is one life, and there is 40+ levels in the main game! Your progress will be saved automatically, but just locally. Steam Cloud isn't available.<br />\r\n<br />\r\nThis game is developed by one person. Except for music. All music track is created by Eric Matyas. I would like to thank him again!",
-  "about_the_game": "This game is minimalist in every aspect. No enemies, no points, no time limit, no collectibles, only jumping! But that doesn’t mean you’ll have an easy time!<br />\r\nAll levels filled up with platforms randomly, and those platforms are tricky. one can change its length, the other its visibility but there is also one that changes its position. <br />\r\n<br />\r\nWhen you choose a difficulty level you decide how many lives you start the game with. But beware, because one mistake is one life, and there is 40+ levels in the main game! Your progress will be saved automatically, but just locally. Steam Cloud isn't available.<br />\r\n<br />\r\nThis game is developed by one person. Except for music. All music track is created by Eric Matyas. I would like to thank him again!",
-  "supported_languages": "English, Hungarian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "After Dreams",
   "slug": "after-dreams",
   "developer": "Matt Boyer",
-  "publisher": "None",
-  "release_date": "May 6, 2018",
+  "publisher": "",
+  "release_date": "2018-05-06",
   "price_usd": 0.0,
   "genres": [
     "Violent",
@@ -25,34 +25,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "After Dreams is a story-rich exploration game based on real life experiences and events. The main focus of the story is to answer the basic human question that has pervaded our collective consciousness since sentience: What happens when we die?",
+  "short_description": "After Dreams is a story-rich exploration game based on real life experiences and events. The main focus of the story is to answer the basic human question that has pervaded our collective consciousnes",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/498710/header.jpg?t=1671824021",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/498710/ss_b6ebef464cab44ef38720aa2765e4bdf96949211.600x338.jpg?t=1671824021",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/498710/ss_32d09150f2a491fcc470136fd29795d6abb3b40d.600x338.jpg?t=1671824021",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/498710/ss_121e6953171bc4d74949d0b741414bcfbd28bc4c.600x338.jpg?t=1671824021",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/498710/ss_7d07e6fe748f8c2d7c889fe82890d4c2ccee1394.600x338.jpg?t=1671824021",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/498710/ss_e431adc85644e5b37a801bc65df97312a10715ae.600x338.jpg?t=1671824021"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >What is this?</h2><strong>After Dreams</strong> is a story-rich exploration game based on real life experiences and events. The main focus of the story is to answer the basic human question that has pervaded our collective consciousness since sentience: What happens when we die? Experience death like never before.<h2 class=\"bb_tag\" >Why is it free?</h2>This project was something that was lost to the nether in due to a malicious Windows update. All of my files were gone, and I was stupid enough to not leave a backup. All I have left is this about 90% complete experience that was in my Dropbox. Instead of just letting this project die, however, I've decided to put it up on Steam as a work that I'm proud of. Expect bugs, and expect glitches, expect general weirdness.<h2 class=\"bb_tag\" >So it'll never be finished?</h2>Don't count on it. But never say never! I may someday come back and remake this game using techniques and skills I've acquired over the last few years.",
-  "about_the_game": "<h2 class=\"bb_tag\" >What is this?</h2><strong>After Dreams</strong> is a story-rich exploration game based on real life experiences and events. The main focus of the story is to answer the basic human question that has pervaded our collective consciousness since sentience: What happens when we die? Experience death like never before.<h2 class=\"bb_tag\" >Why is it free?</h2>This project was something that was lost to the nether in due to a malicious Windows update. All of my files were gone, and I was stupid enough to not leave a backup. All I have left is this about 90% complete experience that was in my Dropbox. Instead of just letting this project die, however, I've decided to put it up on Steam as a work that I'm proud of. Expect bugs, and expect glitches, expect general weirdness.<h2 class=\"bb_tag\" >So it'll never be finished?</h2>Don't count on it. But never say never! I may someday come back and remake this game using techniques and skills I've acquired over the last few years.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 10.15,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 203,
-  "review_positive": 151,
+  "review_positive": 0,
   "review_percentage": 74.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +43,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 204,
-      "review_percentage": 74.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 203,
       "review_percentage": 74.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

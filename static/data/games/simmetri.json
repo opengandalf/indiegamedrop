@@ -3,8 +3,8 @@
   "name": "Simmetri",
   "slug": "simmetri",
   "developer": "Simmetri, Inc.",
-  "publisher": "Simmetri, Inc.",
-  "release_date": "May 21, 2018",
+  "publisher": "",
+  "release_date": "2018-05-21",
   "price_usd": 0.0,
   "genres": [
     "Animation & Modeling",
@@ -21,38 +21,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Create your first 3D or VR experience! Simmetri is a game engine and playground designed to teach you how to build interactive 3D experiences. Let Simmetri's interactive tutorials teach you the features and techniques you'll need to build the experience of your dreams.",
+  "short_description": "Create your first 3D or VR experience! Simmetri is a game engine and playground designed to teach you how to build interactive 3D experiences. Let Simmetri's interactive tutorials teach you the featur",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547120/header.jpg?t=1647441888",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547120/ss_ab9f37c1ebcc1e7640474f08705bba2a49d04f00.600x338.jpg?t=1647441888",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547120/ss_6cc396cfce29f07d7186ab1de83191a3dc5a7584.600x338.jpg?t=1647441888",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547120/ss_6ed717f52c591de89466fecf45a80ae7550bd80f.600x338.jpg?t=1647441888",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547120/ss_ac9993badfeb6807c2731e5faeacdc767fe8b5cb.600x338.jpg?t=1647441888",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547120/ss_36996386e28e20e9c9ff4c978906ae3b245c714d.600x338.jpg?t=1647441888",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547120/ss_106e33ace14794f747cb61d62bf7a52d3fceb374.600x338.jpg?t=1647441888"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Level-up your creativity!</h2><br>Simmetri is a fully featured creative playground with an interactive in-app learning system that teaches you how to build 3D and VR experiences. Its powerful custom-built 3D engine was designed to let you learn, play and create.<br><br><ul class=\"bb_ul\"><li>Learn to create immersive music videos, interactive VR experiences, music visualizations, games and more.  <br></li><li>Go deep with hundreds of tweak-able properties and elements that can be animated with timelines, signals, pulses and more.<br></li><li>Play and experiment using physics and in-built toys without coding. <br></li><li>Lua Scripting: For coders or those learning to code, a built-in code editor enables endless interactive possibilities.<br></li><li>Export your creations directly as your own application (.exe), through the Steam Workshop, or performed live as interactive projections (full version only)</li></ul><h2 class=\"bb_tag\" >Creativity Features:</h2><ul class=\"bb_ul\"><li>  Model with numerous geometries, mesh modifiers. Fusing and mesh-editing options.<br></li><li>  Import 3D models (including Google Blocks, Tiltbrush and Quill, Paint 3D, Tinker CAD)<br></li><li>  Real-time physics with soft bodies and ropes.  Control gravity, slow down or speed up time, or add constant forces to individual objects.<br></li><li>  Physics tools like impulse emitters, hinges and other constraints.<br></li><li>  Spatial audio system, in-world sounds and soundtracks. <br></li><li>  Large-scale terrain modeling<br></li><li>  Realistic sky and oceans, distant horizon spaces and skybox support<br></li><li>  Control looks with materials, lights, particle emitters and environmental effects like fog and haze.<br></li><li>  A full camera system w/ lens models and image filters. Quickly create multiple camera setups.<br></li><li>  Flexible, extendable UI.</li></ul><h2 class=\"bb_tag\" >Animation Features: </h2><ul class=\"bb_ul\"><li>  Timelines allow you to keytrack hundreds of object properties.  <br></li><li>  Live-record object movements for replay. <br></li><li>  Package up animations with \"Unit+Timeline\": allows you to trigger them when you want, or clone them hundreds of times over.<br></li><li>  Signals: sine-waves signals, easing signals control properties<br></li><li>  Audio-reactive signals connect music to properties or actions you want. <br></li><li>  Script-tracks: allow timelines to control exactly when scripts fire and events happen. </li></ul><h2 class=\"bb_tag\" >Interactivity Features:</h2><ul class=\"bb_ul\"><li>  Tools to quickly make objects interactive, so you can interact with them in VR, for instance<br></li><li>  Simple LUA scripting for adding complex interactivity with drag-and-drop support for accessing objects in script quickly<br></li><li>  Pre-built interactive actors for quickly creating cars, helicopters, rolling objects and characters.<br></li><li>  Game/VR controller, mouse and keyboard-driven player controls.</li></ul><h2 class=\"bb_tag\" >Import:</h2><ul class=\"bb_ul\"><li>  Import your 3D objects: OBJ, DAE, FBX, and dozens of other supported file formats. (*Note: not all features of every file format are supported. The early release mainly supports static scene data import).<br></li><li>  Import and work instantly with your creations from Google Blocks and Tiltbrush <br></li><li>  2D images / textures: (JPG, GIF, PNG, TIFF) <br></li><li>  Sounds/soundtracks: (WAV, MP3, OGG) </li></ul><h2 class=\"bb_tag\" >Export:</h2><ul class=\"bb_ul\"><li>  \"Export as Application\": packages your Simmetri show (aka: \"universe\") as a standalone folder containing your show as an executable file.<br></li><li>  Share to Steam Users via the Simmetri Steam Workshop</li></ul><h2 class=\"bb_tag\" >Live Features:</h2><ul class=\"bb_ul\"><li>  Visualize line-in and microphones<br></li><li>  MIDI input support<br></li><li>  OSC input/output support<br></li><li>  Spout/NDI: Works with your favorite VJ or broadcast tool (input + output)<br></li><li>  Works for both VR and non-VR (screen/projector) setups<br></li><li>  Set arbitrary video output formats / resolutions beyond 4K. <br></li><li>  DomeMaster format<br></li><li>  Red/blue 3D glasses output<br></li><li>  360 video output (dev mode)</li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" >Level-up your creativity!</h2><br>Simmetri is a fully featured creative playground with an interactive in-app learning system that teaches you how to build 3D and VR experiences. Its powerful custom-built 3D engine was designed to let you learn, play and create.<br><br><ul class=\"bb_ul\"><li>Learn to create immersive music videos, interactive VR experiences, music visualizations, games and more.  <br></li><li>Go deep with hundreds of tweak-able properties and elements that can be animated with timelines, signals, pulses and more.<br></li><li>Play and experiment using physics and in-built toys without coding. <br></li><li>Lua Scripting: For coders or those learning to code, a built-in code editor enables endless interactive possibilities.<br></li><li>Export your creations directly as your own application (.exe), through the Steam Workshop, or performed live as interactive projections (full version only)</li></ul><h2 class=\"bb_tag\" >Creativity Features:</h2><ul class=\"bb_ul\"><li>  Model with numerous geometries, mesh modifiers. Fusing and mesh-editing options.<br></li><li>  Import 3D models (including Google Blocks, Tiltbrush and Quill, Paint 3D, Tinker CAD)<br></li><li>  Real-time physics with soft bodies and ropes.  Control gravity, slow down or speed up time, or add constant forces to individual objects.<br></li><li>  Physics tools like impulse emitters, hinges and other constraints.<br></li><li>  Spatial audio system, in-world sounds and soundtracks. <br></li><li>  Large-scale terrain modeling<br></li><li>  Realistic sky and oceans, distant horizon spaces and skybox support<br></li><li>  Control looks with materials, lights, particle emitters and environmental effects like fog and haze.<br></li><li>  A full camera system w/ lens models and image filters. Quickly create multiple camera setups.<br></li><li>  Flexible, extendable UI.</li></ul><h2 class=\"bb_tag\" >Animation Features: </h2><ul class=\"bb_ul\"><li>  Timelines allow you to keytrack hundreds of object properties.  <br></li><li>  Live-record object movements for replay. <br></li><li>  Package up animations with \"Unit+Timeline\": allows you to trigger them when you want, or clone them hundreds of times over.<br></li><li>  Signals: sine-waves signals, easing signals control properties<br></li><li>  Audio-reactive signals connect music to properties or actions you want. <br></li><li>  Script-tracks: allow timelines to control exactly when scripts fire and events happen. </li></ul><h2 class=\"bb_tag\" >Interactivity Features:</h2><ul class=\"bb_ul\"><li>  Tools to quickly make objects interactive, so you can interact with them in VR, for instance<br></li><li>  Simple LUA scripting for adding complex interactivity with drag-and-drop support for accessing objects in script quickly<br></li><li>  Pre-built interactive actors for quickly creating cars, helicopters, rolling objects and characters.<br></li><li>  Game/VR controller, mouse and keyboard-driven player controls.</li></ul><h2 class=\"bb_tag\" >Import:</h2><ul class=\"bb_ul\"><li>  Import your 3D objects: OBJ, DAE, FBX, and dozens of other supported file formats. (*Note: not all features of every file format are supported. The early release mainly supports static scene data import).<br></li><li>  Import and work instantly with your creations from Google Blocks and Tiltbrush <br></li><li>  2D images / textures: (JPG, GIF, PNG, TIFF) <br></li><li>  Sounds/soundtracks: (WAV, MP3, OGG) </li></ul><h2 class=\"bb_tag\" >Export:</h2><ul class=\"bb_ul\"><li>  \"Export as Application\": packages your Simmetri show (aka: \"universe\") as a standalone folder containing your show as an executable file.<br></li><li>  Share to Steam Users via the Simmetri Steam Workshop</li></ul><h2 class=\"bb_tag\" >Live Features:</h2><ul class=\"bb_ul\"><li>  Visualize line-in and microphones<br></li><li>  MIDI input support<br></li><li>  OSC input/output support<br></li><li>  Spout/NDI: Works with your favorite VJ or broadcast tool (input + output)<br></li><li>  Works for both VR and non-VR (screen/projector) setups<br></li><li>  Set arbitrary video output formats / resolutions beyond 4K. <br></li><li>  DomeMaster format<br></li><li>  Red/blue 3D glasses output<br></li><li>  360 video output (dev mode)</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "VR Supported",
-    "Steam Workshop",
-    "Partial Controller Support",
-    "Steam Cloud",
-    "Includes level editor"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 19,
-  "review_positive": 18,
+  "review_positive": 0,
   "review_percentage": 94.7,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -60,26 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 19,
-      "review_percentage": 94.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 19,
-      "review_percentage": 94.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 19,
       "review_percentage": 94.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

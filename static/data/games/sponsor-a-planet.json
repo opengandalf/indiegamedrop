@@ -3,8 +3,8 @@
   "name": "Sponsor-A-Planet",
   "slug": "sponsor-a-planet",
   "developer": "TheTallJS",
-  "publisher": "TheTallJS",
-  "release_date": "Oct 12, 2020",
+  "publisher": "",
+  "release_date": "2020-10-12",
   "price_usd": 1.99,
   "genres": [
     "Adventure",
@@ -25,34 +25,9 @@
   ],
   "short_description": "First-Person world-creation-simulator game!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404970/header.jpg?t=1714291614",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404970/ss_c990d7284a8e9defb7fe6b0950aa03904c17dad9.600x338.jpg?t=1714291614",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404970/ss_3674056ee7b5d337b165f9bf1e743c2d9ea829f4.600x338.jpg?t=1714291614",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404970/ss_430d9ddebb9500d47b39707159c62a2036475894.600x338.jpg?t=1714291614",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404970/ss_b04299127439e8e7d2848a251a0a839d8776475b.600x338.jpg?t=1714291614",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404970/ss_66288101a964bcd9255b09c5e5bec4067ee32a0f.600x338.jpg?t=1714291614",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404970/ss_e9b8a6af94ce1aaebb4d57dc6c8300e7b241c0c5.600x338.jpg?t=1714291614",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404970/ss_73a0d4744d16a9f10f3914ad4fc2d31f6915998b.600x338.jpg?t=1714291614"
-  ],
-  "detailed_description": "Thank you for your interest in Sponsor-A-Planet!<br />\r\n<br />\r\nSponsor-A-Planet provides you a planet with life. It will try to survive, build and thrive, whether or not you decide to intervene.<br />\r\n<br />\r\nGameplay:<br />\r\nThe core gameplay involves observing the AI characters as they go about their day doing what they do, and watching as they turn the somewhat sparse and barren landscape into a more lively and developed environment. The player has the option to spawn more AI (gold dependent) to increase development speed. There is only one way to spawn gold resources, a gold platform underneath the gazebo. <br />\r\n<br />\r\nFeatures: <br />\r\nCurrently implemented features include first-person movement using the WASD keys, Spacebar for jump, F key to fly, LeftShift to sprint, LeftCtrl to crouch, and E key to spawn AI characters. The AI characters will walk around and look for gold resources to purchases houses. AI characters have different modes and glowing eyes corresponding to the mode they are in. For instance, yellow eyes represents random wander mode, bright blue for gold pickup mode, dark blue for resting mode.",
-  "about_the_game": "Thank you for your interest in Sponsor-A-Planet!<br />\r\n<br />\r\nSponsor-A-Planet provides you a planet with life. It will try to survive, build and thrive, whether or not you decide to intervene.<br />\r\n<br />\r\nGameplay:<br />\r\nThe core gameplay involves observing the AI characters as they go about their day doing what they do, and watching as they turn the somewhat sparse and barren landscape into a more lively and developed environment. The player has the option to spawn more AI (gold dependent) to increase development speed. There is only one way to spawn gold resources, a gold platform underneath the gazebo. <br />\r\n<br />\r\nFeatures: <br />\r\nCurrently implemented features include first-person movement using the WASD keys, Spacebar for jump, F key to fly, LeftShift to sprint, LeftCtrl to crouch, and E key to spawn AI characters. The AI characters will walk around and look for gold resources to purchases houses. AI characters have different modes and glowing eyes corresponding to the mode they are in. For instance, yellow eyes represents random wander mode, bright blue for gold pickup mode, dark blue for resting mode.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 6,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 83.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 83.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 83.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

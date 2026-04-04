@@ -3,8 +3,8 @@
   "name": "Atlas Tile Editor (ATE)",
   "slug": "atlas-tile-editor-ate",
   "developer": "Lost Astronaut Studios",
-  "publisher": "Lost Astronaut Studios",
-  "release_date": "Nov 8, 2017",
+  "publisher": "",
+  "release_date": "2017-11-08",
   "price_usd": 3.34,
   "genres": [
     "Design & Illustration",
@@ -19,32 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "2D TILE CREATOR! Create reusable sprite atlases and tile sets that reuse the same texture atlas in creative ways. Create advanced geometric tilesets for OpenGL (and DirectX) games in a way never before offered, pair customized tilesets with heightmap and normalmap data using a simple cyborg algorithmic and artistic way of building height...",
+  "short_description": "2D TILE CREATOR! Create reusable sprite atlases and tile sets that reuse the same texture atlas in creative ways. Create advanced geometric tilesets for OpenGL (and DirectX) games in a way never befor",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738830/header.jpg?t=1727213525",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738830/ss_d58170f44f10b274a0711069898cb6849e656b66.600x338.jpg?t=1727213525",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738830/ss_b988ddeb37a5f507e8c98ea71c6cd7ae6aa5b9f2.600x338.jpg?t=1727213525",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738830/ss_7abd7c77f6594432aebe5089492ba9f6ca06630c.600x338.jpg?t=1727213525",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738830/ss_513710c09c6c9dce979bfee351e289b925491ed9.600x338.jpg?t=1727213525",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738830/ss_c08d913e9f8760012a7a13f47de443a74ae3aea6.600x338.jpg?t=1727213525",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738830/ss_386b27302c191a3ad350489dd383cdcd75eff689.600x338.jpg?t=1727213525"
-  ],
-  "detailed_description": "<strong>Atlas Tile Editor</strong> (ATE)<br><br>2D TILE CREATOR!<br><br><strong><i>What's an Atlas Tile?</i></strong><br><br>In games of yore, atlases (also known as sprite sheets) combined to form the entire world of a game.  You could build the world by using a single texture, which helps decrease \"texture swaps\" in GPU hardware, and speeds up the game's rendering, while also helping the world get made by reusing art stored on these atlases. <br><br><strong><i>Yes, you can save to PNGs and use the output from this program in RPG Maker or GameMaker or Construct or AppGameKit or .. many more game engines!</i></strong><br><br><strong>Atlas Tile Editor (ATE) is an up-and-coming tile editor that will allow pixel artists:</strong><br><br><ul class=\"bb_ul\"><li>Create reusable sprite atlases similar to the functionality of GlueIT and TexturePacker.<br></li><li>Create advanced geometric tilesets for OpenGL (and DirectX) games in a way not currently available.<br></li><li>Pair customized tilesets with heightmap and normalmap data using a simple cyborg algorithmic and artistic way of building heightmaps as you customize tiles, using a provided height atlas.<br></li><li>Use the native ATE format, or a JSON exporter for tile overlay geometry features<br></li><li>Export \"baked\" tiles (available, but not recommended) as PNG, for legacy engines or engines that cannot use Atlas Tiles(tm).</li></ul><br><strong>Whoa whoa whoa, wait, you mean you can put actual geometry on these tiles?</strong><br><br>Yes, the entire premise of the Atlas Tile Editor is to provide a way to draw tiles on the fly from a single texture, but using 2D geometry to allow multiple samples from this texture to create essentially new artwork as a collage.  The 2D geometry is then assembled into a VBO and displayed in your favorite engine using a shader.<br><br>Just to recap, here's what you'll do in Atlas Tile Editor (ATE):<br><br>1) Create customized tiles from texture atlases.<br>2) Save \"baked\" tiles as PNGs<br>3) Save \"unbaked\" tiles as ATE packages.<br>4) Save \"unbaked\" tiles as CSS/JSON packages.<br>5) Save your workspace to recall your work whenever you'd like.<br>6) Create and associate customized height maps, which are converted automatically to normal maps.<br>7) Export tile packs with height maps, normal maps and color maps.<br>8) Import and pack tiles using BestRectPack algorithm.<br>9) Import and pack tiles using \"row and column\" packing (to create Sprite Sheets)<br>10) Add, rotate and stretch tile geometry with granular control.<br><br>Future features may include:<br>- Create short replayable presentations in HTML/CSS or <br>- Create 2d particle FX systems and \"bake\" films of their animations<br>- Create 2.5D isometric tiles and export them with normal mapping.<br>- Create a \"3D\" atlas tile, similar to a Minecraft block",
-  "about_the_game": "<strong>Atlas Tile Editor</strong> (ATE)<br><br>2D TILE CREATOR!<br><br><strong><i>What's an Atlas Tile?</i></strong><br><br>In games of yore, atlases (also known as sprite sheets) combined to form the entire world of a game.  You could build the world by using a single texture, which helps decrease \"texture swaps\" in GPU hardware, and speeds up the game's rendering, while also helping the world get made by reusing art stored on these atlases. <br><br><strong><i>Yes, you can save to PNGs and use the output from this program in RPG Maker or GameMaker or Construct or AppGameKit or .. many more game engines!</i></strong><br><br><strong>Atlas Tile Editor (ATE) is an up-and-coming tile editor that will allow pixel artists:</strong><br><br><ul class=\"bb_ul\"><li>Create reusable sprite atlases similar to the functionality of GlueIT and TexturePacker.<br></li><li>Create advanced geometric tilesets for OpenGL (and DirectX) games in a way not currently available.<br></li><li>Pair customized tilesets with heightmap and normalmap data using a simple cyborg algorithmic and artistic way of building heightmaps as you customize tiles, using a provided height atlas.<br></li><li>Use the native ATE format, or a JSON exporter for tile overlay geometry features<br></li><li>Export \"baked\" tiles (available, but not recommended) as PNG, for legacy engines or engines that cannot use Atlas Tiles(tm).</li></ul><br><strong>Whoa whoa whoa, wait, you mean you can put actual geometry on these tiles?</strong><br><br>Yes, the entire premise of the Atlas Tile Editor is to provide a way to draw tiles on the fly from a single texture, but using 2D geometry to allow multiple samples from this texture to create essentially new artwork as a collage.  The 2D geometry is then assembled into a VBO and displayed in your favorite engine using a shader.<br><br>Just to recap, here's what you'll do in Atlas Tile Editor (ATE):<br><br>1) Create customized tiles from texture atlases.<br>2) Save \"baked\" tiles as PNGs<br>3) Save \"unbaked\" tiles as ATE packages.<br>4) Save \"unbaked\" tiles as CSS/JSON packages.<br>5) Save your workspace to recall your work whenever you'd like.<br>6) Create and associate customized height maps, which are converted automatically to normal maps.<br>7) Export tile packs with height maps, normal maps and color maps.<br>8) Import and pack tiles using BestRectPack algorithm.<br>9) Import and pack tiles using \"row and column\" packing (to create Sprite Sheets)<br>10) Add, rotate and stretch tile geometry with granular control.<br><br>Future features may include:<br>- Create short replayable presentations in HTML/CSS or <br>- Create 2d particle FX systems and \"bake\" films of their animations<br>- Create 2.5D isometric tiles and export them with normal mapping.<br>- Create a \"3D\" atlas tile, similar to a Minecraft block",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 4,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -52,26 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 4,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

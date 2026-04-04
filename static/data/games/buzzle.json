@@ -3,8 +3,8 @@
   "name": "Buzzle",
   "slug": "buzzle",
   "developer": "rai",
-  "publisher": "rai",
-  "release_date": "Oct 1, 2020",
+  "publisher": "",
+  "release_date": "2020-10-01",
   "price_usd": 0.0,
   "genres": [
     "Strategy"
@@ -17,35 +17,15 @@
   ],
   "short_description": "Buzzle is a simple, small, 3D Puzzle game where you move the cubes up, down, left and right. The goal is to get the marked cube to the opening. There are also 40 levels to complete.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414600/header.jpg?t=1666723826",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414600/ss_6cd4b831afb8b935c3698b92de2cb7680c0c5b07.600x338.jpg?t=1666723826",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414600/ss_0d298c846d1caf3ab95f33efa114628128b01e27.600x338.jpg?t=1666723826",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414600/ss_fb576cbcd1de6dbd6ac71e6c2cb52391987a97b9.600x338.jpg?t=1666723826",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414600/ss_21a9b4ca71fa15a784e8e592ded174ec54a9278f.600x338.jpg?t=1666723826",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414600/ss_29270f5d91300070e4c6708524bf3913b2b61873.600x338.jpg?t=1666723826",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414600/ss_ff22256cabf9c73012f51f434f22e44a811ace22.600x338.jpg?t=1666723826",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414600/ss_e4a5064736d25733e56ca7c47a0a3e8f6d8ed981.600x338.jpg?t=1666723826",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414600/ss_989488f3bc9144dd34a0f979780808e42c066956.600x338.jpg?t=1666723826"
-  ],
-  "detailed_description": "Buzzle is a simple, small, 3D Puzzle game where you move the cubes up, down, left and right. The goal is to get the marked cube to the opening. There are also 40 levels to complete.<h2 class=\"bb_tag\" >A small Note for the players:</h2><strong>The levels aren't sorted in difficulty, meaning a level that is before one other level could be harder than the next one.</strong><h2 class=\"bb_tag\" >Controls:</h2><br><strong>Move orange with:<br>W - Up<br>S - Down<br><br>Move pink with:<br>A - Left<br>D - Right</strong><br><br><strong>R - Restart<br>ESC - Pause</strong><h2 class=\"bb_tag\" >Updates:</h2><br><strong>More Updates are coming in the future!</strong>",
-  "about_the_game": "Buzzle is a simple, small, 3D Puzzle game where you move the cubes up, down, left and right. The goal is to get the marked cube to the opening. There are also 40 levels to complete.<h2 class=\"bb_tag\" >A small Note for the players:</h2><strong>The levels aren't sorted in difficulty, meaning a level that is before one other level could be harder than the next one.</strong><h2 class=\"bb_tag\" >Controls:</h2><br><strong>Move orange with:<br>W - Up<br>S - Down<br><br>Move pink with:<br>A - Left<br>D - Right</strong><br><br><strong>R - Restart<br>ESC - Pause</strong><h2 class=\"bb_tag\" >Updates:</h2><br><strong>More Updates are coming in the future!</strong>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

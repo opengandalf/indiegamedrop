@@ -3,8 +3,8 @@
   "name": "Hokkaido Game",
   "slug": "hokkaido-game",
   "developer": "Marudice",
-  "publisher": "Marudice",
-  "release_date": "Oct 31, 2023",
+  "publisher": "",
+  "release_date": "2023-10-31",
   "price_usd": 2.39,
   "genres": [
     "Casual",
@@ -17,65 +17,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "This is a physics puzzle game in which you build Hokkaido by piling up prefectures of Japan. You become a \"big person\" and drop prefectures into a box. Connected same prefectures will evolve into a larger prefecture! Create the largest prefecture in Japan, Hokkaido, before the box overflows!",
+  "short_description": "This is a physics puzzle game in which you build Hokkaido by piling up prefectures of Japan. You become a \"big person\" and drop prefectures into a box. Connected same prefectures will evolve",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638180/header.jpg?t=1728459512",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638180/ss_2d5c9579bb348019b73350d645f2a6bcaf00b92c.600x338.jpg?t=1728459512",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638180/ss_a2f0971d324e6823105939ae5f29afaf4e4f269a.600x338.jpg?t=1728459512",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638180/ss_7baa83bcd6f985469f3efea84f7dedbd1793e5b1.600x338.jpg?t=1728459512",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638180/ss_17c03e226ab065d5ff503203b3ce1de9ae1159b8.600x338.jpg?t=1728459512",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638180/ss_77662efb006d72bb8bb05bf311abb49fda9c19c7.600x338.jpg?t=1728459512",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638180/ss_72c43aa404d7a9a9b15d4449b9c80dbe4012d489.600x338.jpg?t=1728459512",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638180/ss_60b1fec6f80b13d1707154f9a8236f47acb46987.600x338.jpg?t=1728459512",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638180/ss_464708cb06e12f703b9031e69dfcbf31d206aef6.600x338.jpg?t=1728459512",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638180/ss_a4b89ba5d177725878b7e093291603a02ed0d94a.600x338.jpg?t=1728459512",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638180/ss_e9c947d19fe7b782ede0d0fde2b13f27c45f6103.600x338.jpg?t=1728459512",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638180/ss_9f7c09e241dd59fd0c5ff2514e0ba49657d61da6.600x338.jpg?t=1728459512"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>Let's stack up the prefectures of Japan to create Hokkaido! </strong></p><p class=\"bb_paragraph\" >This is a physics-based falling block puzzle game.<br>You are a \"big person\" and drop prefectures into a box. <br>If the same prefectures are attached to each other, they will evolve into bigger prefectures! <br>The game is completed when you create the largest prefecture, Hokkaido, before the box overflows! </p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Survivor Mode</h2><p class=\"bb_paragraph\" >In ver. 2.0, we have added a completely new game called “Survivor Mode,” which is a combination of the that game and Rogue Lite.</p><p class=\"bb_paragraph\" >In this mode, you select a prefecture for evolution.</p><p class=\"bb_paragraph\" >The selected prefectures have different effects, such as a narrower field, different bouncing strength, spinning while falling, and UFOs appearing... it makes a different gameplay each time.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Revive the Japanese Islands!</h2><p class=\"bb_paragraph\" >Prefectures created in Survivor mode will be added to the map.</p><p class=\"bb_paragraph\" >Create all prefectures and revive the Japanese Islands!</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >About Secondary Use</h2><p class=\"bb_paragraph\" >To post or stream images and videos using the play screen and audio are fully allowed.</p><p class=\"bb_paragraph\" >Please feel free to use them.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>Let's stack up the prefectures of Japan to create Hokkaido! </strong></p><p class=\"bb_paragraph\" >This is a physics-based falling block puzzle game.<br>You are a \"big person\" and drop prefectures into a box. <br>If the same prefectures are attached to each other, they will evolve into bigger prefectures! <br>The game is completed when you create the largest prefecture, Hokkaido, before the box overflows! </p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Survivor Mode</h2><p class=\"bb_paragraph\" >In ver. 2.0, we have added a completely new game called “Survivor Mode,” which is a combination of the that game and Rogue Lite.</p><p class=\"bb_paragraph\" >In this mode, you select a prefecture for evolution.</p><p class=\"bb_paragraph\" >The selected prefectures have different effects, such as a narrower field, different bouncing strength, spinning while falling, and UFOs appearing... it makes a different gameplay each time.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Revive the Japanese Islands!</h2><p class=\"bb_paragraph\" >Prefectures created in Survivor mode will be added to the map.</p><p class=\"bb_paragraph\" >Create all prefectures and revive the Japanese Islands!</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >About Secondary Use</h2><p class=\"bb_paragraph\" >To post or stream images and videos using the play screen and audio are fully allowed.</p><p class=\"bb_paragraph\" >Please feel free to use them.</p>",
-  "supported_languages": "English, Simplified Chinese, Traditional Chinese, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Steam Cloud",
-    "Stats",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 156,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.6477,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 169,
-  "review_positive": 163,
+  "review_positive": 0,
   "review_percentage": 96.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "rising",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 167,
-      "review_percentage": 96.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 169,
       "review_percentage": 96.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

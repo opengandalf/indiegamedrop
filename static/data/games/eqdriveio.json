@@ -3,8 +3,8 @@
   "name": "EQDRIVE.IO",
   "slug": "eqdriveio",
   "developer": "Realityocean Games",
-  "publisher": "Realityocean Games",
-  "release_date": "Jul 7, 2022",
+  "publisher": "",
+  "release_date": "2022-07-07",
   "price_usd": 7.49,
   "genres": [
     "Indie",
@@ -19,34 +19,15 @@
   ],
   "short_description": "High precision soft body physics for cars, trucks, airplanes, drones, ships and theme park rides. Supports SteamDeck",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658480/header.jpg?t=1723659134",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658480/ss_8ecb5484b84b6137b9a5b438113cef9ebfdd30e9.600x338.jpg?t=1723659134",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658480/ss_7f5de5743a2c14cf947c27d54382ea5e675d6a62.600x338.jpg?t=1723659134",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658480/ss_6a628605170f51fcf809e8a5e6aaf385a1d438e5.600x338.jpg?t=1723659134",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658480/ss_5cede255075e584136c60017fb4abad8adba5809.600x338.jpg?t=1723659134",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658480/ss_cf1b371156b45383451e733aa82c2152c0ef10e2.600x338.jpg?t=1723659134"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658480/extras/9e272d65470d3a969f87fa2dbb21ba69.avif?t=1723659134\" width=600 height=430 /></span><br>24 vehicles are currently available in game.<br>Additionally one airplane, four drones and three boats are available.<br>You can drive, sail and fly in this game.<br>We also included a theme park where you can ride and control 6 thrill rides.<br>All these vehicles and rides use soft body physics.<h2 class=\"bb_tag\" >Simulation</h2>Double Precision Soft Body Physics running 1000 times a second. <br>Ability to drive softbody vehicles in very large open world environments.<br><br>Physics model is suitable for both light vehicles at very high speeds and very heavy vehicles at slower speeds.<br>Vehicles are mostly flexible. In heavy vehicles you can continuously observe their flexing according to the forces they encounter while driving.<br>Depending on the severity of the accident vehicle body could deform or the whole vehicle can disintegrate completely.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658480/extras/2f2f8b64272682f5c5a92ba47bfdf917.poster.avif?t=1723659134\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658480/extras/2f2f8b64272682f5c5a92ba47bfdf917.webm?t=1723659134\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658480/extras/2f2f8b64272682f5c5a92ba47bfdf917.mp4?t=1723659134\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Driving</h2>Physical shape of the softbody wheels were choosen by thousands hours of research and eliminating more than 6 possible wheel designs.<br><br>Wheels can endure to extremely high amounts of centrifugal and lateral force.<br><br>Vehicles can have front wheel drive, rear wheel drive or all wheel drive. Axles and torque distributions are simulated. It's possible to have 6x6, 8x8 etc.<br>A 6x6 Off-Road Truck with lockers is already available in the game.<br><br>Automated Manual, Torque Converter and CVT transmissions are available. Drive modes and sequential shifting are available. Heavy commercial vehicles like trucks and buses have an other special type of automated split shift transmission with 8 to 12 gears, which is more suitable for the type of driving heavy vehicles offer.<br><br>All vehicles have interior with animated steering wheel and gauges.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658480/extras/6786470c6097ef23dfcf770ef1ddac24.poster.avif?t=1723659134\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658480/extras/6786470c6097ef23dfcf770ef1ddac24.webm?t=1723659134\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658480/extras/6786470c6097ef23dfcf770ef1ddac24.mp4?t=1723659134\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Environment</h2>7 different terrains with islands or deserts. 1 bonus track featuring a real world location with a racetrack.<br><br>Katahdin Island - A fictional tropical island with curvy roads convenient for very high speed driving.<br>Maderia Island - Includes a very long main road at sea level around the island and a few challenging roads going across to the top of the island.<br>Desert Dunes - An area with sandy terrain with mountains surrounding it.<br>Middle East - Mountainous desert area with various buildings and vegetation.<br>Grid Map - Very large flat terrain with various obstables to test vehicles.<br>The Ring - Nurburgring racetrack<br>Milos Melos<br>Tracksland<br><br>Driving at any time day&night possible. All vehicles have working lights and signals.<br>You can change the day time in the game. It's possible to drive under different weather conditions.<br>You can choose to drive in rain or snow but they don't affect the gameplay physically.<h2 class=\"bb_tag\" >Sounds</h2>All vehicles have unique engine sounds from our own FM+Granular synthesizer specially developed for generating engine sounds.<br>It has so many parameters to generate unique and realistic engine sounds.<h2 class=\"bb_tag\" >Controller Support</h2>We setup profiles for most of the popular steering wheels and controllers on the market.<br>Even if it's not known by our system you can still map axes and buttons with the control mapper and use it in the game.<br>DirectInput Force Feedback support was added in the last update. It can run force feedback effects<br>on all Logitech, Thrustmaster and Fanatec steering wheels with force feedback capability.",
-  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658480/extras/9e272d65470d3a969f87fa2dbb21ba69.avif?t=1723659134\" width=600 height=430 /></span><br>24 vehicles are currently available in game.<br>Additionally one airplane, four drones and three boats are available.<br>You can drive, sail and fly in this game.<br>We also included a theme park where you can ride and control 6 thrill rides.<br>All these vehicles and rides use soft body physics.<h2 class=\"bb_tag\" >Simulation</h2>Double Precision Soft Body Physics running 1000 times a second. <br>Ability to drive softbody vehicles in very large open world environments.<br><br>Physics model is suitable for both light vehicles at very high speeds and very heavy vehicles at slower speeds.<br>Vehicles are mostly flexible. In heavy vehicles you can continuously observe their flexing according to the forces they encounter while driving.<br>Depending on the severity of the accident vehicle body could deform or the whole vehicle can disintegrate completely.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658480/extras/2f2f8b64272682f5c5a92ba47bfdf917.poster.avif?t=1723659134\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658480/extras/2f2f8b64272682f5c5a92ba47bfdf917.webm?t=1723659134\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658480/extras/2f2f8b64272682f5c5a92ba47bfdf917.mp4?t=1723659134\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Driving</h2>Physical shape of the softbody wheels were choosen by thousands hours of research and eliminating more than 6 possible wheel designs.<br><br>Wheels can endure to extremely high amounts of centrifugal and lateral force.<br><br>Vehicles can have front wheel drive, rear wheel drive or all wheel drive. Axles and torque distributions are simulated. It's possible to have 6x6, 8x8 etc.<br>A 6x6 Off-Road Truck with lockers is already available in the game.<br><br>Automated Manual, Torque Converter and CVT transmissions are available. Drive modes and sequential shifting are available. Heavy commercial vehicles like trucks and buses have an other special type of automated split shift transmission with 8 to 12 gears, which is more suitable for the type of driving heavy vehicles offer.<br><br>All vehicles have interior with animated steering wheel and gauges.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658480/extras/6786470c6097ef23dfcf770ef1ddac24.poster.avif?t=1723659134\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658480/extras/6786470c6097ef23dfcf770ef1ddac24.webm?t=1723659134\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658480/extras/6786470c6097ef23dfcf770ef1ddac24.mp4?t=1723659134\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >Environment</h2>7 different terrains with islands or deserts. 1 bonus track featuring a real world location with a racetrack.<br><br>Katahdin Island - A fictional tropical island with curvy roads convenient for very high speed driving.<br>Maderia Island - Includes a very long main road at sea level around the island and a few challenging roads going across to the top of the island.<br>Desert Dunes - An area with sandy terrain with mountains surrounding it.<br>Middle East - Mountainous desert area with various buildings and vegetation.<br>Grid Map - Very large flat terrain with various obstables to test vehicles.<br>The Ring - Nurburgring racetrack<br>Milos Melos<br>Tracksland<br><br>Driving at any time day&night possible. All vehicles have working lights and signals.<br>You can change the day time in the game. It's possible to drive under different weather conditions.<br>You can choose to drive in rain or snow but they don't affect the gameplay physically.<h2 class=\"bb_tag\" >Sounds</h2>All vehicles have unique engine sounds from our own FM+Granular synthesizer specially developed for generating engine sounds.<br>It has so many parameters to generate unique and realistic engine sounds.<h2 class=\"bb_tag\" >Controller Support</h2>We setup profiles for most of the popular steering wheels and controllers on the market.<br>Even if it's not known by our system you can still map axes and buttons with the control mapper and use it in the game.<br>DirectInput Force Feedback support was added in the last update. It can run force feedback effects<br>on all Logitech, Thrustmaster and Fanatec steering wheels with force feedback capability.",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Vietnamese, Filipino, Indonesian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 1.35,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 27,
-  "review_positive": 19,
+  "review_positive": 0,
   "review_percentage": 70.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 26,
-      "review_percentage": 65.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 27,
       "review_percentage": 70.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Hashi Infinite",
   "slug": "hashi-infinite",
   "developer": "Vector Game",
-  "publisher": "Vector Game",
-  "release_date": "Nov 4, 2024",
+  "publisher": "",
+  "release_date": "2024-11-04",
   "price_usd": 0.99,
   "genres": [
     "Casual"
@@ -17,36 +17,9 @@
   ],
   "short_description": "Hashi is a game that connects all islands with a network of bridges.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280750/header.jpg?t=1730744924",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280750/ss_afacda8429454b2efdfd77c57245eb396353a324.600x338.jpg?t=1730744924",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280750/ss_bc753279c354d4f267af9df5397c8b7039de8ef0.600x338.jpg?t=1730744924",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280750/ss_720a2984ba6bbdd3770e91a3315a51c6f155cdfe.600x338.jpg?t=1730744924",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280750/ss_88b9b8ce0b8a18355b3a036580bb8e146c57d2ae.600x338.jpg?t=1730744924",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280750/ss_6dd25da4862191af767b4803a2e9e4248e2250d4.600x338.jpg?t=1730744924",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280750/ss_af27df9f4a6c648c2da7601bc1c8f95d4e1ccf5c.600x338.jpg?t=1730744924"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><i><strong>Hashiwokakero</strong></i> (Hashi) is a type of logic puzzle published by Nikoli.This is a Hashi implementation.</p><p class=\"bb_paragraph\" ><i>Hashiwokakero</i> is played on a rectangular grid with no standard size, although the grid itself is not usually drawn. Some cells start out with (usually encircled) numbers from 1 to 8 inclusive; these are the \"islands\". The rest of the cells are empty.</p><p class=\"bb_paragraph\" >The goal is to connect all of the islands by drawing a series of bridges between the islands. The bridges must follow certain criteria:[2]</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >They must begin and end at distinct islands, travelling a straight line in between.</p></li><li><p class=\"bb_paragraph\" >They must not cross any other bridges or islands.</p></li><li><p class=\"bb_paragraph\" >They may only run orthogonally (i.e. they may not run diagonally).</p></li><li><p class=\"bb_paragraph\" >At most two bridges connect a pair of islands.</p></li><li><p class=\"bb_paragraph\" >The number of bridges connected to each island must match the number on that island.</p></li><li><p class=\"bb_paragraph\" >The bridges must connect the islands into a single connected group.</p></li></ul><p class=\"bb_paragraph\" >--------------------------------------------------------------------------------------------------</p><p class=\"bb_paragraph\" ><strong>Basic Operations:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Moving the mouse between two islands will show a bridge preview. Left-clicking will change the bridge state, cycling between 0, 1, and 2.</p></li><li><p class=\"bb_paragraph\" >Moving the mouse over an island will display the possible bridges associated with that island.</p></li><li><p class=\"bb_paragraph\" >If a place has two potential bridges, first move the mouse over the island, then move it to the conflicting bridge location. This will show the bridges associated with that island.</p></li><li><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280750/extras/78c532a4f9301b3b5955445d8be12ec2.poster.avif?t=1730744924\" width=386 height=372 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280750/extras/78c532a4f9301b3b5955445d8be12ec2.webm?t=1730744924\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280750/extras/78c532a4f9301b3b5955445d8be12ec2.mp4?t=1730744924\" type=\"video/mp4\"></video></span></p></li></ul><p class=\"bb_paragraph\" ><strong>Auto-Completion:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Move the mouse over an island and <strong>hold</strong> the left mouse button for <strong>2</strong> seconds to instantly complete the bridges related to that island. This action consumes a score multiplier. If the score multiplier is insufficient, this command cannot be executed.</p></li><li><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280750/extras/4e4485cddec031469036458f59ca1128.poster.avif?t=1730744924\" width=200 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280750/extras/4e4485cddec031469036458f59ca1128.webm?t=1730744924\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280750/extras/4e4485cddec031469036458f59ca1128.mp4?t=1730744924\" type=\"video/mp4\"></video></span></p></li><li><p class=\"bb_paragraph\" >This feature is just a hint for beginners, and as players' skills improve, all puzzles can be solved through logical reasoning.</p></li></ul><p class=\"bb_paragraph\" ><strong>Locking an Island:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >If the number of bridges around an island matches the island’s number, you can attempt to lock the island. If locking fails, it indicates an incorrect solution, and a score multiplier will be deducted. If locking is successful, you will gain points. Once locked, the island and its related bridges can no longer be modified.</p></li><li><p class=\"bb_paragraph\" >This puzzle has a unique solution. Therefore, if you cannot lock an island, it implies that the solution is incorrect.</p></li></ul><p class=\"bb_paragraph\" >--------------------------------------------------------------------------------------------------</p><p class=\"bb_paragraph\" >The game contains a total of 300+<u><strong>N</strong></u> challenging levels for 6 board sizes. There are a variety of color themes to choose from.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game also includes a scoring system and leaderboard feature, allowing players to compete against players from around the world. </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >If you have any suggestions to make the game better, you can tell me in the steam community.</p><p class=\"bb_paragraph\" ></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><i><strong>Hashiwokakero</strong></i> (Hashi) is a type of logic puzzle published by Nikoli.This is a Hashi implementation.</p><p class=\"bb_paragraph\" ><i>Hashiwokakero</i> is played on a rectangular grid with no standard size, although the grid itself is not usually drawn. Some cells start out with (usually encircled) numbers from 1 to 8 inclusive; these are the \"islands\". The rest of the cells are empty.</p><p class=\"bb_paragraph\" >The goal is to connect all of the islands by drawing a series of bridges between the islands. The bridges must follow certain criteria:[2]</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >They must begin and end at distinct islands, travelling a straight line in between.</p></li><li><p class=\"bb_paragraph\" >They must not cross any other bridges or islands.</p></li><li><p class=\"bb_paragraph\" >They may only run orthogonally (i.e. they may not run diagonally).</p></li><li><p class=\"bb_paragraph\" >At most two bridges connect a pair of islands.</p></li><li><p class=\"bb_paragraph\" >The number of bridges connected to each island must match the number on that island.</p></li><li><p class=\"bb_paragraph\" >The bridges must connect the islands into a single connected group.</p></li></ul><p class=\"bb_paragraph\" >--------------------------------------------------------------------------------------------------</p><p class=\"bb_paragraph\" ><strong>Basic Operations:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Moving the mouse between two islands will show a bridge preview. Left-clicking will change the bridge state, cycling between 0, 1, and 2.</p></li><li><p class=\"bb_paragraph\" >Moving the mouse over an island will display the possible bridges associated with that island.</p></li><li><p class=\"bb_paragraph\" >If a place has two potential bridges, first move the mouse over the island, then move it to the conflicting bridge location. This will show the bridges associated with that island.</p></li><li><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280750/extras/78c532a4f9301b3b5955445d8be12ec2.poster.avif?t=1730744924\" width=386 height=372 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280750/extras/78c532a4f9301b3b5955445d8be12ec2.webm?t=1730744924\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280750/extras/78c532a4f9301b3b5955445d8be12ec2.mp4?t=1730744924\" type=\"video/mp4\"></video></span></p></li></ul><p class=\"bb_paragraph\" ><strong>Auto-Completion:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Move the mouse over an island and <strong>hold</strong> the left mouse button for <strong>2</strong> seconds to instantly complete the bridges related to that island. This action consumes a score multiplier. If the score multiplier is insufficient, this command cannot be executed.</p></li><li><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280750/extras/4e4485cddec031469036458f59ca1128.poster.avif?t=1730744924\" width=200 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280750/extras/4e4485cddec031469036458f59ca1128.webm?t=1730744924\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280750/extras/4e4485cddec031469036458f59ca1128.mp4?t=1730744924\" type=\"video/mp4\"></video></span></p></li><li><p class=\"bb_paragraph\" >This feature is just a hint for beginners, and as players' skills improve, all puzzles can be solved through logical reasoning.</p></li></ul><p class=\"bb_paragraph\" ><strong>Locking an Island:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >If the number of bridges around an island matches the island’s number, you can attempt to lock the island. If locking fails, it indicates an incorrect solution, and a score multiplier will be deducted. If locking is successful, you will gain points. Once locked, the island and its related bridges can no longer be modified.</p></li><li><p class=\"bb_paragraph\" >This puzzle has a unique solution. Therefore, if you cannot lock an island, it implies that the solution is incorrect.</p></li></ul><p class=\"bb_paragraph\" >--------------------------------------------------------------------------------------------------</p><p class=\"bb_paragraph\" >The game contains a total of 300+<u><strong>N</strong></u> challenging levels for 6 board sizes. There are a variety of color themes to choose from.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game also includes a scoring system and leaderboard feature, allowing players to compete against players from around the world. </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >If you have any suggestions to make the game better, you can tell me in the steam community.</p><p class=\"bb_paragraph\" ></p>",
-  "supported_languages": "Japanese, Simplified Chinese, Traditional Chinese, English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 6,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 83.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 80.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 83.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

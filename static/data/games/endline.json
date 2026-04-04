@@ -3,8 +3,8 @@
   "name": "Endline",
   "slug": "endline",
   "developer": "Miniced",
-  "publisher": "Miniced",
-  "release_date": "Mar 29, 2021",
+  "publisher": "",
+  "release_date": "2021-03-29",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -20,35 +20,15 @@
   ],
   "short_description": "Endline is a 2.5D psychedelic bullet hell experience, combining rhythm and bright colours.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1467330/header.jpg?t=1617033910",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1467330/ss_172a850ea7a8468dfc8ac3e20c856946f720c173.600x338.jpg?t=1617033910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1467330/ss_5997a962c70281eac896447dd5d9412cfa309ef9.600x338.jpg?t=1617033910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1467330/ss_4e42fd1e141e31db7b00c7e983550a3c8d7c2a38.600x338.jpg?t=1617033910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1467330/ss_2ebe434bf17066f43ebfdf379d761ad471a8b0b3.600x338.jpg?t=1617033910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1467330/ss_13e39860eaa5c781db211a01105eba2d59423ea8.600x338.jpg?t=1617033910"
-  ],
-  "detailed_description": "<strong>Warning : Contains bright flashing visual effects. This game may not be suitable for people subject to photosensitive epilepsy.</strong><br><br>Engage in eye-catchy neon visuals as you dive your way into waves of foes and countless bullets. Select the ship that suits your play style, let the rhythm guide your weapon and survive.<br><br><ul class=\"bb_ul\"><li>6 playable ships, each with its unique play style.<br></li><li>14 stages of dedicated encounters, visuals and music.<br></li><li>3D animated backgrounds.<br></li><li>Gain experience to upgrade your ship with better weapons and abilities.<br></li><li>Fully-customizable controls for both keyboard and controller.   </li></ul><br><br><br>Default Controls:<br><br><ul class=\"bb_ul\"><li>Movement : Arrows | WASD<br></li><li>Accept : Enter | Space | E<br></li><li>Cancel : Backspace | Q<br></li><li>Pause : Esc | Tab<br></li><li>Reset Stage : R (Hold)<br></li><li>Fire : Space (Hold)<br></li><li>Slow Down : Shift (Hold)<br></li><li>Ability : Ctrl<br></li><li>Toggle Auto-Fire : Alt </li></ul>",
-  "about_the_game": "<strong>Warning : Contains bright flashing visual effects. This game may not be suitable for people subject to photosensitive epilepsy.</strong><br><br>Engage in eye-catchy neon visuals as you dive your way into waves of foes and countless bullets. Select the ship that suits your play style, let the rhythm guide your weapon and survive.<br><br><ul class=\"bb_ul\"><li>6 playable ships, each with its unique play style.<br></li><li>14 stages of dedicated encounters, visuals and music.<br></li><li>3D animated backgrounds.<br></li><li>Gain experience to upgrade your ship with better weapons and abilities.<br></li><li>Fully-customizable controls for both keyboard and controller.   </li></ul><br><br><br>Default Controls:<br><br><ul class=\"bb_ul\"><li>Movement : Arrows | WASD<br></li><li>Accept : Enter | Space | E<br></li><li>Cancel : Backspace | Q<br></li><li>Pause : Esc | Tab<br></li><li>Reset Stage : R (Hold)<br></li><li>Fire : Space (Hold)<br></li><li>Slow Down : Shift (Hold)<br></li><li>Ability : Ctrl<br></li><li>Toggle Auto-Fire : Alt </li></ul>",
-  "supported_languages": "English, French",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +36,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

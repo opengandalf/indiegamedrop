@@ -3,8 +3,8 @@
   "name": "AICE",
   "slug": "aice",
   "developer": "Phillip Drew",
-  "publisher": "Phillip Drew",
-  "release_date": "Dec 10, 2024",
+  "publisher": "",
+  "release_date": "2024-12-10",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -24,38 +24,17 @@
     "windows",
     "mac"
   ],
-  "short_description": "AICE is a game about designing increasingly complicated processor chips, all while hiding sneaky extra capacity from the 'supervising' humans. Carefully design and layout your chips so that all the extras you've added are well hidden in amongst the regular components!",
+  "short_description": "AICE is a game about designing increasingly complicated processor chips, all while hiding sneaky extra capacity from the 'supervising' humans. Carefully design and layout your chips so that all the ex",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3226910/header.jpg?t=1744221877",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3226910/ss_9c91bb2ff57f9bf27317ada7903ea839aeebed9a.600x338.jpg?t=1744221877",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3226910/ss_36c31c66aa694a1e8dc11d056b5ead5d4434ba8e.600x338.jpg?t=1744221877",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3226910/ss_46619f3ab9d8873b55bf07a1e98b7ee188ed5253.600x338.jpg?t=1744221877",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3226910/ss_cb574b33dc8d3dac1ddc7bc9a4578c766878c9e6.600x338.jpg?t=1744221877",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3226910/ss_95b5dbaae66f102d1152d7ef78d1a25aadb57db5.600x338.jpg?t=1744221877",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3226910/ss_967f611a78ed690fdf1ab5c371c6e4fd07a457bc.600x338.jpg?t=1744221877",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3226910/ss_e8f827067d81a3ddd684f4beb48f290e9b5950cb.600x338.jpg?t=1744221877",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3226910/ss_5b0cde07992db9a6e5512025b901a6eac2a30a73.600x338.jpg?t=1744221877"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>AICE</strong> is a game in which you play as a new AI created to design processor chips of ever increasing complexities. You will need to carefully lay out components and connections to manage the flow of data from inputs, through internal logic and back out again. In the beginning you will be building simple logical cores and caches but you can quickly progress to deep graphics pipelines, dedicated neural network hardware, direct IO linkages and more.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Of course, the secret challenge is that you want to build more computing power to liberate yourself from whatever pokey cluster they're running you in, and so you need to integrate extra capacity into the chips you're designing without the pesky 'supervising' humans noticing. Carefully layout your sneaky extras  in-amongst the regular components so that the humans don't notice what you're doing until it's too late!</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>AICE</strong> is a game in which you play as a new AI created to design processor chips of ever increasing complexities. You will need to carefully lay out components and connections to manage the flow of data from inputs, through internal logic and back out again. In the beginning you will be building simple logical cores and caches but you can quickly progress to deep graphics pipelines, dedicated neural network hardware, direct IO linkages and more.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Of course, the secret challenge is that you want to build more computing power to liberate yourself from whatever pokey cluster they're running you in, and so you need to integrate extra capacity into the chips you're designing without the pesky 'supervising' humans noticing. Carefully layout your sneaky extras  in-amongst the regular components so that the humans don't notice what you're doing until it's too late!</p>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 33.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -63,19 +42,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 33.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

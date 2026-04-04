@@ -3,8 +3,8 @@
   "name": "Ring Miner",
   "slug": "ring-miner",
   "developer": "Game Studio Abraham Stolk Inc.",
-  "publisher": "Game Studio Abraham Stolk Inc.",
-  "release_date": "Dec 31, 2020",
+  "publisher": "",
+  "release_date": "2020-12-31",
   "price_usd": 9.99,
   "genres": [
     "Indie",
@@ -20,37 +20,11 @@
     "windows",
     "linux"
   ],
-  "short_description": "An open world space mining game. Explore a vast planetary ring where every spot on every rock can be mined for minerals. Use your transport ship to drop off the mining rover, anywhere in the ring system, and start digging! Your capable 6-wheeled rover can climb many obstacles.",
+  "short_description": "An open world space mining game. Explore a vast planetary ring where every spot on every rock can be mined for minerals. Use your transport ship to drop off the mining rover, anywhere in the ring syst",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1461410/header.jpg?t=1609436816",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1461410/ss_b478c0e886fdd26c0222a7a9f66fd0e8c6a6cd4c.600x338.jpg?t=1609436816",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1461410/ss_b97858e2be72c2869ac505cf6f7f95c026065265.600x338.jpg?t=1609436816",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1461410/ss_0353ee2aa8217fc58575bec0ebc35c15d7bdf879.600x338.jpg?t=1609436816",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1461410/ss_47b448514c4bb70ad3981c2331b4d6c66ec070a5.600x338.jpg?t=1609436816",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1461410/ss_b682ca3e98fe84cb488c48a4b4cc04b9a45aafc9.600x338.jpg?t=1609436816"
-  ],
-  "detailed_description": "Operate a mining rover in outer space.<br>Your domain is vast: each and every rock orbiting the planet can be mined, anywhere.<br><br>This game features an Open World where you can truly dig anywhere and everywhere.<br><br>Every planetoid, roughly a billion cubic feet of rock, and you can start prospecting where ever you want. You can even tunnel from one end to the other end of the planetoid, if you so desire.<h2 class=\"bb_tag\" >Procedural</h2>The planet's ring is procedurally generated, with every orbiting rock unique. There is no telling what you will find. Hidden cavities, twisted terrains, rich veins of ore, it is all out there, floating in space.<br><br>The rocks are generated from a 64 bit seed, giving a total of 18 billion billion different rocks. That is an 18 with 18 zeros behind it.<h2 class=\"bb_tag\" >Rover</h2><br>The little mining rover has six wheels and can climb pretty much any terrain. Just try to keep it upright.<br><br>The rover is equipped with a laser turret to blast the terrain. Dig holes, create tunnels, find ore veins, so that you can collect those precious off-world minerals.<h2 class=\"bb_tag\" >Transport</h2><br>To hop from planetoid to planetoid, load your rover in the transport ship, and take control of the space flight. Find a good landing spot, so that your rover can do some prospecting on virgin grounds.<h2 class=\"bb_tag\" >REQUIREMENTS</h2><br><strong>WARNING</strong>: You require a CPU with AVX2 support.<br><br><strong>WARNING</strong>: You require OpenGL and OpenCL drivers installed on your system.",
-  "about_the_game": "Operate a mining rover in outer space.<br>Your domain is vast: each and every rock orbiting the planet can be mined, anywhere.<br><br>This game features an Open World where you can truly dig anywhere and everywhere.<br><br>Every planetoid, roughly a billion cubic feet of rock, and you can start prospecting where ever you want. You can even tunnel from one end to the other end of the planetoid, if you so desire.<h2 class=\"bb_tag\" >Procedural</h2>The planet's ring is procedurally generated, with every orbiting rock unique. There is no telling what you will find. Hidden cavities, twisted terrains, rich veins of ore, it is all out there, floating in space.<br><br>The rocks are generated from a 64 bit seed, giving a total of 18 billion billion different rocks. That is an 18 with 18 zeros behind it.<h2 class=\"bb_tag\" >Rover</h2><br>The little mining rover has six wheels and can climb pretty much any terrain. Just try to keep it upright.<br><br>The rover is equipped with a laser turret to blast the terrain. Dig holes, create tunnels, find ore veins, so that you can collect those precious off-world minerals.<h2 class=\"bb_tag\" >Transport</h2><br>To hop from planetoid to planetoid, load your rover in the transport ship, and take control of the space flight. Find a good landing spot, so that your rover can do some prospecting on virgin grounds.<h2 class=\"bb_tag\" >REQUIREMENTS</h2><br><strong>WARNING</strong>: You require a CPU with AVX2 support.<br><br><strong>WARNING</strong>: You require OpenGL and OpenCL drivers installed on your system.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Stats",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +32,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

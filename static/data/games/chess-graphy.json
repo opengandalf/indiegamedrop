@@ -3,8 +3,8 @@
   "name": "Chess Graphy",
   "slug": "chess-graphy",
   "developer": "Richard Tivolt",
-  "publisher": "Richard Tivolt",
-  "release_date": "May 9, 2023",
+  "publisher": "",
+  "release_date": "2023-05-09",
   "price_usd": 19.99,
   "genres": [
     "Education",
@@ -19,36 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Aren't you tired of looking at only one board, while reviewing your opening lines? Chess Graphy will graph out your openings and allow you to easily glider over the endless possibilities of a chess game.",
+  "short_description": "Aren't you tired of looking at only one board, while reviewing your opening lines? Chess Graphy will graph out your openings and allow you to easily glider over the endless possibilities of a chess ga",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402590/header.jpg?t=1684151059",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402590/ss_03b341537dbca303bd141e2fdf1a67a5f2d3b2f9.600x338.jpg?t=1684151059",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402590/ss_812e022e8979021521e70f8536bd4f7ac1b67402.600x338.jpg?t=1684151059",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402590/ss_77a1b9413dc3d532d1df4f92ccdc610078075001.600x338.jpg?t=1684151059",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402590/ss_948d12e4e66265db5f53d00eabf8256a8354b522.600x338.jpg?t=1684151059",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402590/ss_3b435b859bdcbef77aafa6d300ee92bb11ca3692.600x338.jpg?t=1684151059",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402590/ss_2ee9b96db5e4071a83c1761489d24f8ca0686640.600x338.jpg?t=1684151059",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402590/ss_55d7aa70b90bb6f153c749b0c9c3526cbf4e6e73.600x338.jpg?t=1684151059",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402590/ss_f92ffa48ee5b3f1ca176e9cb0757d4d6120003bc.600x338.jpg?t=1684151059",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402590/ss_80d60e8937dba4dce5b48d5adf056f4926a0f0a6.600x338.jpg?t=1684151059",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402590/ss_6aefe884f57946d6d692d6b83414566999a72f16.600x338.jpg?t=1684151059"
-  ],
-  "detailed_description": "<strong>What is Chess Graphy?</strong> <br>Learning chess openings can give you a hard time if you don't have to right tools for it. Chess Graphy was made to help you look through the lines of different openings and see visually every move on a board. You don't have to navigate through a long and complex text of moves anymore. Just open up Chess Graphy, load your favorite opening and we will do the rest for you.<br><br><strong>How does Chess Graphy work?</strong> <br>For smooth user experience Chess Graphy provides a clear and simple interface. After opening the program, you will be given an empty board. By entering Edit Mode and selecting the main board, further moves and positions can be added to the graph. The boards can be flipped and named before or after you've created them. Upon finishing your work you can save the current state of your graph into a (.cgraph) file. If you want to load and revise your openings, you can hit the load button and select the file you want to learn.<br><br><strong>Why is it beneficial for you?</strong> <br>Chess Graphy is the one of the most user-friendly program on the market. Instead of learning your openings from a PGN file, which is hard to navigate, you can easily load your openings into Chess Graphy and see all the moves in a flow chart. By being able to see every position, it is much easier to learn the moves from photographic memory. Playing everything out on one chessboard is simply not best way anymore.<br><br><strong>How to work with the program?</strong> <br>Moving around the grid is by using the right click on the mouse and dragging your cursor around. This is because left clicking on the boards is used to open them. After entering Edit Mode left clicking on them will load the position into the Editor, where you can perform the moves. There are no limits in the Editor, you can move or take any piece anywhere you want. Clicking on a loaded board will open/close its subpositions, so it's also possible to navigate through the graph in the Editor. Now that you know, how to use Chess Graphy all you have to do is start creating your own learning material.<br><br><strong>What extra does the Pro version have?</strong> <br>With the Free version of Chess Graphy, you can only make temporary graphs or load others files. There is no option for saving, you can only use those files, that others have created. That's where the Pro version comes in. Using the Pro version, you can save your work after you are done creating the graph. This feature is necessary for long-term usage of the software and it allows you to create your own learning material. Using the Pro version you can import and graph out PGN files, which really speeds up your work.",
-  "about_the_game": "<strong>What is Chess Graphy?</strong> <br>Learning chess openings can give you a hard time if you don't have to right tools for it. Chess Graphy was made to help you look through the lines of different openings and see visually every move on a board. You don't have to navigate through a long and complex text of moves anymore. Just open up Chess Graphy, load your favorite opening and we will do the rest for you.<br><br><strong>How does Chess Graphy work?</strong> <br>For smooth user experience Chess Graphy provides a clear and simple interface. After opening the program, you will be given an empty board. By entering Edit Mode and selecting the main board, further moves and positions can be added to the graph. The boards can be flipped and named before or after you've created them. Upon finishing your work you can save the current state of your graph into a (.cgraph) file. If you want to load and revise your openings, you can hit the load button and select the file you want to learn.<br><br><strong>Why is it beneficial for you?</strong> <br>Chess Graphy is the one of the most user-friendly program on the market. Instead of learning your openings from a PGN file, which is hard to navigate, you can easily load your openings into Chess Graphy and see all the moves in a flow chart. By being able to see every position, it is much easier to learn the moves from photographic memory. Playing everything out on one chessboard is simply not best way anymore.<br><br><strong>How to work with the program?</strong> <br>Moving around the grid is by using the right click on the mouse and dragging your cursor around. This is because left clicking on the boards is used to open them. After entering Edit Mode left clicking on them will load the position into the Editor, where you can perform the moves. There are no limits in the Editor, you can move or take any piece anywhere you want. Clicking on a loaded board will open/close its subpositions, so it's also possible to navigate through the graph in the Editor. Now that you know, how to use Chess Graphy all you have to do is start creating your own learning material.<br><br><strong>What extra does the Pro version have?</strong> <br>With the Free version of Chess Graphy, you can only make temporary graphs or load others files. There is no option for saving, you can only use those files, that others have created. That's where the Pro version comes in. Using the Pro version, you can save your work after you are done creating the graph. This feature is necessary for long-term usage of the software and it allows you to create your own learning material. Using the Pro version you can import and graph out PGN files, which really speeds up your work.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

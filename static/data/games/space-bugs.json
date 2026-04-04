@@ -3,8 +3,8 @@
   "name": "Space Bugs",
   "slug": "space-bugs",
   "developer": "Graf von Wenzel",
-  "publisher": "Graf von Wenzel",
-  "release_date": "Oct 11, 2018",
+  "publisher": "",
+  "release_date": "2018-10-11",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -21,35 +21,9 @@
   ],
   "short_description": "Retro Indie Space Shooter",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/950910/header.jpg?t=1677507957",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/950910/ss_b8d8c0462c1f583be02f2317c8aaa15ee5ccce7e.600x338.jpg?t=1677507957",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/950910/ss_1e3221afbc5a5ff4da1e46b48d01a9fd95205712.600x338.jpg?t=1677507957",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/950910/ss_9f58d348ffa7a3794bc7a31e8c963533512688b1.600x338.jpg?t=1677507957",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/950910/ss_6e797acda8b06d6d4d0c363ccd7b435890661020.600x338.jpg?t=1677507957",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/950910/ss_a6143c23cf35dc7e5dcfa6f91eb7e16fe7d0fafa.600x338.jpg?t=1677507957",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/950910/ss_d0dcc08b1d7ed29bda2b2cc6157f6b888eee9096.600x338.jpg?t=1677507957",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/950910/ss_968b01828fe8b8e056ca7be7f84255e69958e377.600x338.jpg?t=1677507957"
-  ],
-  "detailed_description": "<h1>Update Notes</h1><p>New/Changed Features with Update 1.1:<br><br><ul class=\"bb_ul\"><li>Point counter at game screen<br></li><li>More shield charges after bosses<br></li><li>Bug-Symbol in \"level selection screen\" to find new ships<br></li><li>Less load time for weapons<br></li><li>Start the game with +5 extra shield</li></ul></p><br><h1>About the Game</h1>Space Bugs is a Retro Space Shooter with:<br><br><ul class=\"bb_ul\"><li>30 levels<br><br></li><li>10 different ships<br><br></li><li>each with special skill<br><br></li><li>40 trophies<br><br></li><li>simple control, only by mouse or keyboard</li></ul><br>Take control of the ships and shoot your way through level by level to the final end boss!",
-  "about_the_game": "Space Bugs is a Retro Space Shooter with:<br><br><ul class=\"bb_ul\"><li>30 levels<br><br></li><li>10 different ships<br><br></li><li>each with special skill<br><br></li><li>40 trophies<br><br></li><li>simple control, only by mouse or keyboard</li></ul><br>Take control of the ships and shoot your way through level by level to the final end boss!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 3,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 33.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 33.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 33.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "WalkinVR",
   "slug": "walkinvr",
   "developer": "Frankly Dog",
-  "publisher": "Frankly Dog",
-  "release_date": "Jun 29, 2020",
+  "publisher": "",
+  "release_date": "2020-06-29",
   "price_usd": 0.0,
   "genres": [
     "Utilities"
@@ -17,31 +17,9 @@
   ],
   "short_description": "WalkinVR Driver is a software program for people with physical disabilities which aims to make Virtual Reality Games and Applications more accessible.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248360/header.jpg?t=1675157150",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248360/ss_655a833f5c21160de8a58831f293fb7c307a2721.600x338.jpg?t=1675157150",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248360/ss_124e8406be384174da6742ba288a35d9d3e14397.600x338.jpg?t=1675157150",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248360/ss_67a9b94a2a1e980b6101979029a134c4ed747918.600x338.jpg?t=1675157150",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248360/ss_763a0dc5609b95ba041f7cbd72f783bf640c529e.600x338.jpg?t=1675157150",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248360/ss_0bda126bf429d5dda759af1dfa3d27f3d416b78f.600x338.jpg?t=1675157150"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Important:</h2>When using the WalkinVR for the first time, it MUST be started from the \"Launch\" button, to ensure any additional services and drivers it requires get installed.<br><br>Premium DLC is intended only for personal use. <br>For Business, Research, Clinic, University, Foundation, and Therapy Center please contact us at<h2 class=\"bb_tag\" >Requirements</h2>WalkinVR is utility application that will add extra features to your existing VR Setup: Oculus, WMR or Index and it does not have extra requirements about spec of the PC.<h2 class=\"bb_tag\" >Movement and Rotation</h2>Players are now able to move and rotate in virtual reality without having to perform the movement in the real world. This feature is most utilized when players need to move, reach, stand and turn around 360 degrees.<h2 class=\"bb_tag\" >Gameplay with Personal Assistant</h2>A third part Xbox Controller can be used to assist the player with movement and button pressing.<h2 class=\"bb_tag\" >Adjustment of Controller Position</h2>Players can adjust the controllers’ position and range of motion. This feature helps players who are not able to move their controllers to the height or depth required by the video game. Players can also adjust the movement sensitivity of their virtual reality controller that is translated from their physical controller. A 3- inch controller movement can translate to a 6-inch controller movement in virtual reality. Players can change the orientation of their controller in virtual reality. This helps players who have a limited range of motion in their wrists.<h2 class=\"bb_tag\" >Hand tracking with external sensor (in development).</h2>This feature is dedicated for players that have problems with holding of controllers. This can be mostly caused either by spastics or spinal injury. In such configuration external sensor is tracking player's pose and transfers that position into Virtual Reality.",
-  "about_the_game": "<h2 class=\"bb_tag\" >Important:</h2>When using the WalkinVR for the first time, it MUST be started from the \"Launch\" button, to ensure any additional services and drivers it requires get installed.<br><br>Premium DLC is intended only for personal use. <br>For Business, Research, Clinic, University, Foundation, and Therapy Center please contact us at<h2 class=\"bb_tag\" >Requirements</h2>WalkinVR is utility application that will add extra features to your existing VR Setup: Oculus, WMR or Index and it does not have extra requirements about spec of the PC.<h2 class=\"bb_tag\" >Movement and Rotation</h2>Players are now able to move and rotate in virtual reality without having to perform the movement in the real world. This feature is most utilized when players need to move, reach, stand and turn around 360 degrees.<h2 class=\"bb_tag\" >Gameplay with Personal Assistant</h2>A third part Xbox Controller can be used to assist the player with movement and button pressing.<h2 class=\"bb_tag\" >Adjustment of Controller Position</h2>Players can adjust the controllers’ position and range of motion. This feature helps players who are not able to move their controllers to the height or depth required by the video game. Players can also adjust the movement sensitivity of their virtual reality controller that is translated from their physical controller. A 3- inch controller movement can translate to a 6-inch controller movement in virtual reality. Players can change the orientation of their controller in virtual reality. This helps players who have a limited range of motion in their wrists.<h2 class=\"bb_tag\" >Hand tracking with external sensor (in development).</h2>This feature is dedicated for players that have problems with holding of controllers. This can be mostly caused either by spastics or spinal injury. In such configuration external sensor is tracking player's pose and transfers that position into Virtual Reality.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 62,
-  "review_positive": 53,
+  "review_positive": 0,
   "review_percentage": 85.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -49,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 50,
-      "review_percentage": 92.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 62,
       "review_percentage": 85.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

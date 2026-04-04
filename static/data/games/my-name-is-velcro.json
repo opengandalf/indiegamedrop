@@ -3,8 +3,8 @@
   "name": "My name is Velcro",
   "slug": "my-name-is-velcro",
   "developer": "Vitok",
-  "publisher": "Vitok",
-  "release_date": "Oct 13, 2021",
+  "publisher": "",
+  "release_date": "2021-10-13",
   "price_usd": 5.99,
   "genres": [
     "Casual",
@@ -17,36 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "My name is Velcro is a hardcore platformer. You play as a piece of dirt named Velcro. The goal of the game is to grab the ceiling with the web and move on. There are several types of traps. You are also forbidden to touch any edges.",
+  "short_description": "My name is Velcro is a hardcore platformer. You play as a piece of dirt named Velcro. The goal of the game is to grab the ceiling with the web and move on. There are several types of traps. You are al",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1770540/header.jpg?t=1634122145",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1770540/ss_fc3f2460e6d19e33951af7ebe7b355483adca412.600x338.jpg?t=1634122145",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1770540/ss_90bc561a8ebedafcd05071a453bc3043290f2ee5.600x338.jpg?t=1634122145",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1770540/ss_35d7f11f25bbf27ad3251cd24ab10ffb7d135399.600x338.jpg?t=1634122145",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1770540/ss_e6153cb85a3c6228222d068ffca6286f8602aebd.600x338.jpg?t=1634122145",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1770540/ss_02443bc3a20743ed6642df8f0ab7b54f87593516.600x338.jpg?t=1634122145",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1770540/ss_0a317fba7ddafecbd5a9e7fd5d93a00d1ccf9c2c.600x338.jpg?t=1634122145",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1770540/ss_e4d71856475d995a560f8ca255efac53b9693e8e.600x338.jpg?t=1634122145"
-  ],
-  "detailed_description": "My name is Velcro is a hardcore platformer.<br />\r\nYou play as a piece of dirt named Velcro.<br />\r\nThe goal of the game is to grab the ceiling with the web and move on.<br />\r\nThere are several types of traps.<br />\r\nYou are also forbidden to touch any edges.",
-  "about_the_game": "My name is Velcro is a hardcore platformer.<br />\r\nYou play as a piece of dirt named Velcro.<br />\r\nThe goal of the game is to grab the ceiling with the web and move on.<br />\r\nThere are several types of traps.<br />\r\nYou are also forbidden to touch any edges.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 11,
-  "review_positive": 10,
+  "review_positive": 0,
   "review_percentage": 90.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 11,
-      "review_percentage": 90.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 11,
       "review_percentage": 90.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Multris",
   "slug": "multris",
   "developer": "Russell Reich",
-  "publisher": "Russell Reich",
-  "release_date": "Dec 21, 2021",
+  "publisher": "",
+  "release_date": "2021-12-21",
   "price_usd": 0.99,
   "genres": [
     "Casual"
@@ -16,34 +16,11 @@
     "windows",
     "linux"
   ],
-  "short_description": "The classic puzzle game that everyone knows but with a new twist. Watch as randomly generated polyominoes fall from the sky and attempt to organize them as best you can. Construct lines to score points and survive longer. Let the blocks reach the top of the screen and its GAME OVER!",
+  "short_description": "The classic puzzle game that everyone knows but with a new twist. Watch as randomly generated polyominoes fall from the sky and attempt to organize them as best you can. Construct lines to score point",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1768350/header.jpg?t=1724116202",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1768350/ss_4f1f812ea7ad8dc34e54e7f1aaaa5bb045a1a952.600x338.jpg?t=1724116202",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1768350/ss_b4f5c60e783cbbcf2f3e8054f96d5297becf9e3f.600x338.jpg?t=1724116202",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1768350/ss_6e50dbdf337ad34072172e3b5013b8d91c81e38f.600x338.jpg?t=1724116202",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1768350/ss_d8e7b5d6f8968de9378d0144286aa0bd568ab76d.600x338.jpg?t=1724116202",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1768350/ss_eb99c89853194b606be3f1a8794cb60dd2a6303c.600x338.jpg?t=1724116202"
-  ],
-  "detailed_description": "A modified version of the classic puzzle game, but with a twist. Randomly generated polyominoes of varying shapes and sizes fall from the top of the screen. It is YOUR job to put them together.",
-  "about_the_game": "A modified version of the classic puzzle game, but with a twist. Randomly generated polyominoes of varying shapes and sizes fall from the top of the screen. It is YOUR job to put them together.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 10,
-  "review_positive": 9,
+  "review_positive": 0,
   "review_percentage": 90.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +28,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 10,
-      "review_percentage": 90.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 90.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

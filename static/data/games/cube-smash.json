@@ -3,8 +3,8 @@
   "name": "Cube Smash",
   "slug": "cube-smash",
   "developer": "Vojtech Ondracek",
-  "publisher": "Artin studios",
-  "release_date": "Jan 28, 2020",
+  "publisher": "",
+  "release_date": "2020-01-28",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -21,33 +21,15 @@
   ],
   "short_description": "Now with Spring and easter eggs! Stop the cube aliens flying out of the portal and trying to escape to the universe.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199650/header.jpg?t=1589215411",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199650/ss_ec7e56a5f3ee95c115d2acf29846dde28a3411f4.600x338.jpg?t=1589215411",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199650/ss_303fc4020889ccb386970d2410aa355405fdf0c3.600x338.jpg?t=1589215411",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199650/ss_bc68e4e5649f892c29555b81ecf0f2837485cb41.600x338.jpg?t=1589215411",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199650/ss_98c3031a3b1818ecbbd71d0ce6fbb300fece3c53.600x338.jpg?t=1589215411",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1199650/ss_0b7628e3ff5459d0c782804509a7cb6a20db42e8.600x338.jpg?t=1589215411"
-  ],
-  "detailed_description": "Now with Spring and easter eggs!<br />\r\n<br />\r\nStop the cube aliens flying out of the portal and trying to escape to the universe.<br />\r\n<br />\r\nShoot as many blue and red cubes as possible in the time limit given by a playing song. But be careful! You have to shoot red or blue cubes by the right gun of the corresponding color.<br />\r\n<br />\r\nCheck your perception, improve your agility and reaction speed.",
-  "about_the_game": "Now with Spring and easter eggs!<br />\r\n<br />\r\nStop the cube aliens flying out of the portal and trying to escape to the universe.<br />\r\n<br />\r\nShoot as many blue and red cubes as possible in the time limit given by a playing song. But be careful! You have to shoot red or blue cubes by the right gun of the corresponding color.<br />\r\n<br />\r\nCheck your perception, improve your agility and reaction speed.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "BLOCK-CRACKER",
   "slug": "block-cracker",
   "developer": "DaveDaDev",
-  "publisher": "Garrison Bros.",
-  "release_date": "Nov 26, 2024",
+  "publisher": "",
+  "release_date": "2024-11-26",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -21,32 +21,15 @@
   ],
   "short_description": "A Simple Game That Does What It Does.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3334260/header.jpg?t=1732630322",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3334260/ss_7d20b5e050de8393360af183780a2337a61327d5.600x338.jpg?t=1732630322",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3334260/ss_0e5535a803dd1ece96a620caa8daf18f9b49e898.600x338.jpg?t=1732630322",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3334260/ss_a6ecd5b69742058ef32f52f7c761970d2a6b7da2.600x338.jpg?t=1732630322",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3334260/ss_a20ea2b7fa641866a2eebe6f88f41f832cc682af.600x338.jpg?t=1732630322",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3334260/ss_7f13fa94a21b8825c52226ac1094eba632d3e767.600x338.jpg?t=1732630322"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Get ready for an 8 Level Block Breaking Pong-like Game with NO-STORY, and NO ENDING!</p><p class=\"bb_paragraph\" >After you beat the 8 Levels you start back at the beginning. Endless!</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Get ready for an 8 Level Block Breaking Pong-like Game with NO-STORY, and NO ENDING!</p><p class=\"bb_paragraph\" >After you beat the 8 Levels you start back at the beginning. Endless!</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Nonlinear System Tools",
   "slug": "nonlinear-system-tools",
   "developer": "Martin Petkovski",
-  "publisher": "Return Zero",
-  "release_date": "Dec 3, 2021",
+  "publisher": "",
+  "release_date": "2021-12-03",
   "price_usd": 19.99,
   "genres": [
     "Utilities",
@@ -21,31 +21,9 @@
   ],
   "short_description": "Writing branching stories made easy! NST is a full suite of tools for creating, analyzing and rendering branching and nonlinear texts and media.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1772160/header.jpg?t=1639338854",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1772160/ss_6e06f5c3ad1ed12999f03396dbec311720ecb2d6.600x338.jpg?t=1639338854",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1772160/ss_04c05e9f9c9706bbd8d99e29069026176331a4d5.600x338.jpg?t=1639338854",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1772160/ss_072ef839845d8b2fa51732303edfaae2531008d1.600x338.jpg?t=1639338854",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1772160/ss_36037d573ed000b62233b51a53a65ce4a0d9ca57.600x338.jpg?t=1639338854",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1772160/ss_fc12b2a5810215a6334f0eefea8584e9056fa9bd.600x338.jpg?t=1639338854"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >NST: Nonlinear System Tools</h2>NST is a tool for writing novels, short stories, poems, and other forms of text in a way that makes the reader's decisions count.<br><br><br>Everything that happens can have inter-dependencies such as:<br><br>A can only happen if B has already happened.<br>A can only happen if B can happen.<br>A can only happen if B could ever have happened.<br>A can only happen if B is happening at the moment.<br>A can only happen if X is more than 1<br>And much much more! <br><br>NST has an Editor and a Reader. The NST Editor is a standalone program that enables you to write branching stories from scratch. The NST Reader is a tool that visually renders these stories using HTML/JavaScript/CSS with all their power. The Reader is available for free and also comes bundled with the editor.<h2 class=\"bb_tag\" >How it works</h2>It's really simple! All stories have only <strong><i>two</i></strong> main components: <strong>states</strong> and <strong>properties</strong>. <br><br>A <strong>state</strong> is a moment in time, a description of a situation. It contains a logical link with everything that might lead to that situation. <br><br>A <strong>property</strong> is essentially a numeric value, which can hold information on the amount of health you have, or your armor strength, or your relationship with other characters in the story, or anything else you might imagine. <br><br>The states and properties are interconnected to form a <strong>story</strong>, which one can read in a branching fashion based on own's decisions.<h2 class=\"bb_tag\" >Who's behind it</h2>NST is a single-person operation, the brainchild of Martin Petkovski. Development started in early 2021 and will continue into the foreseeable future. All inquiries and requests are encouraged, I'm trying to respond to all messages as soon as possible.<h2 class=\"bb_tag\" >What can be achieved with it</h2>NST is tailored towards creating hypertext fiction that follows a branching or nonlinear narrative. <br><br><br>Examples of literature that can be written and played in their entirety in NST include: James Joyce's Ulysses, Enrique Jardiel Poncela's La Tournée de Dios, Jorge Luis Borges' The Garden of Forking Paths, Italo Calvino's The Castle of Crossed Destinies, various Choose Your Adventure magazines, and so on. <br><br>The NST Reader is capable of everything that Chromium is able to do, including playing video and audio, so in theory, it is even able to run movies and TV shows such as Black Mirror: Bandersnatch, if they are to be written in the NST format.",
-  "about_the_game": "<h2 class=\"bb_tag\" >NST: Nonlinear System Tools</h2>NST is a tool for writing novels, short stories, poems, and other forms of text in a way that makes the reader's decisions count.<br><br><br>Everything that happens can have inter-dependencies such as:<br><br>A can only happen if B has already happened.<br>A can only happen if B can happen.<br>A can only happen if B could ever have happened.<br>A can only happen if B is happening at the moment.<br>A can only happen if X is more than 1<br>And much much more! <br><br>NST has an Editor and a Reader. The NST Editor is a standalone program that enables you to write branching stories from scratch. The NST Reader is a tool that visually renders these stories using HTML/JavaScript/CSS with all their power. The Reader is available for free and also comes bundled with the editor.<h2 class=\"bb_tag\" >How it works</h2>It's really simple! All stories have only <strong><i>two</i></strong> main components: <strong>states</strong> and <strong>properties</strong>. <br><br>A <strong>state</strong> is a moment in time, a description of a situation. It contains a logical link with everything that might lead to that situation. <br><br>A <strong>property</strong> is essentially a numeric value, which can hold information on the amount of health you have, or your armor strength, or your relationship with other characters in the story, or anything else you might imagine. <br><br>The states and properties are interconnected to form a <strong>story</strong>, which one can read in a branching fashion based on own's decisions.<h2 class=\"bb_tag\" >Who's behind it</h2>NST is a single-person operation, the brainchild of Martin Petkovski. Development started in early 2021 and will continue into the foreseeable future. All inquiries and requests are encouraged, I'm trying to respond to all messages as soon as possible.<h2 class=\"bb_tag\" >What can be achieved with it</h2>NST is tailored towards creating hypertext fiction that follows a branching or nonlinear narrative. <br><br><br>Examples of literature that can be written and played in their entirety in NST include: James Joyce's Ulysses, Enrique Jardiel Poncela's La Tournée de Dios, Jorge Luis Borges' The Garden of Forking Paths, Italo Calvino's The Castle of Crossed Destinies, various Choose Your Adventure magazines, and so on. <br><br>The NST Reader is capable of everything that Chromium is able to do, including playing video and audio, so in theory, it is even able to run movies and TV shows such as Black Mirror: Bandersnatch, if they are to be written in the NST format.",
-  "supported_languages": "English, Russian, Ukrainian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Workshop"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 3,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

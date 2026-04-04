@@ -3,8 +3,8 @@
   "name": "Mimic Logic",
   "slug": "mimic-logic",
   "developer": "Nihohe Soft",
-  "publisher": "Nihohe Soft",
-  "release_date": "Feb 22, 2024",
+  "publisher": "",
+  "release_date": "2024-02-22",
   "price_usd": 3.59,
   "genres": [
     "Indie"
@@ -15,58 +15,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "\"Mimic Logic\" is an automatically generated logic puzzle roguelike. Listen to the statements of the treasure chests, find the lying mimics, and open the rest of the treasure chests! Opening a mimic results in a game over.",
+  "short_description": "\"Mimic Logic\" is an automatically generated logic puzzle roguelike. Listen to the statements of the treasure chests, find the lying mimics, and open the rest of the treasure chests! Opening ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/header.jpg?t=1766096052",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_71684ccd9802830b614d1ce395d31ba459502101.600x338.jpg?t=1766096052",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_a55d65fff0658d5db0d128088143438cce8f2371.600x338.jpg?t=1766096052",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_f69bf52f1ec43303ea41c6be48e259218778a144.600x338.jpg?t=1766096052",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_288226c5f42a1b91ceb9d826dfc874f26cc78c21.600x338.jpg?t=1766096052",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_16c47069c168ec797d15b5ce1b80dd6d3fd246bf.600x338.jpg?t=1766096052",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_6a57ee01b477637169654c55938da6c74cccdd3c.600x338.jpg?t=1766096052",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455920/ss_dbccd53bd4f794214503588a4bc0573be1d2cd0e.600x338.jpg?t=1766096052"
-  ],
-  "detailed_description": "What is Mimic Logic?<br />\r\nA procedurally generated roguelike logic puzzle game where you can speak to treasure boxes.<br />\r\nListen to what the boxes have to say, find the lying Mimics, and open up the remaining boxes to collect treasure!<br />\r\nIf you accidentally open up a Mimic, it's game over!<br />\r\nUse the gear and items you've collected from treasure boxes to beat enemies and conquer the dungeon.<br />\r\nThe puzzles are procedurally generated, so you can solve them to your heart's content!",
-  "about_the_game": "What is Mimic Logic?<br />\r\nA procedurally generated roguelike logic puzzle game where you can speak to treasure boxes.<br />\r\nListen to what the boxes have to say, find the lying Mimics, and open up the remaining boxes to collect treasure!<br />\r\nIf you accidentally open up a Mimic, it's game over!<br />\r\nUse the gear and items you've collected from treasure boxes to beat enemies and conquer the dungeon.<br />\r\nThe puzzles are procedurally generated, so you can solve them to your heart's content!",
-  "supported_languages": "English, Japanese, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 518,
+  "screenshots": [],
   "rising_score": 0.0006,
   "gem_score": 0.4895,
   "hype_score": 0.0,
-  "review_velocity_7d": 84.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 531,
-  "review_positive": 523,
+  "review_positive": 0,
   "review_percentage": 98.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "proven",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 447,
-      "review_percentage": 98.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 531,
       "review_percentage": 98.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

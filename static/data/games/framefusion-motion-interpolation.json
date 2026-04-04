@@ -3,8 +3,8 @@
   "name": "FrameFusion Motion Interpolation",
   "slug": "framefusion-motion-interpolation",
   "developer": "GRisk",
-  "publisher": "GRisk",
-  "release_date": "Oct 8, 2024",
+  "publisher": "",
+  "release_date": "2024-10-08",
   "price_usd": 3.49,
   "genres": [
     "Casual",
@@ -23,29 +23,15 @@
   ],
   "short_description": "Improve the framerate of any video, gif or group of images by 2X/4X/8X/16X using neural networks generating videos with a high FPS.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833100/header.jpg?t=1738022120",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833100/ss_fc1301b32a30bba952f5a73d186d1fb8515c6a4e.600x338.jpg?t=1738022120",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833100/ss_311686a20ba5f9efa82c67cc43289a3cb4506b79.600x338.jpg?t=1738022120",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833100/ss_6e22fc0919939992b3e2ac0157f438e32a217a44.600x338.jpg?t=1738022120",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833100/ss_df045a317ab2fcbf807916cfcb0f6e2644271800.600x338.jpg?t=1738022120",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833100/ss_6131edaafbf0e340a79ab80b13455a7036038796.600x338.jpg?t=1738022120"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" ><strong>FrameFusion Motion Interpolation</strong> improve the framerate of any video, gif or group of images by 2X/4X/8X/16X</h2><br>This application that uses neural networks to generate optical flows between two frames of a video. By using these flows, the application merges the frames into a new one, effectively increasing the number of frames in the video output.<br><br>The application allows you to select multiple videos, GIFs, or images in formats like PNG/JPG/BMP for interpolation, producing a new video with a higher FPS than the original.<br><br><strong>Key Features:</strong><br><ul class=\"bb_ul\"><li> Choose from four different models for interpolation: options for live-action or animation, with the ability to render in high quality or with faster speeds.<br></li><li> Optimized for Nvidia GPUs with CUDA support but also compatible with AMD GPUs and CPUs.<br></li><li> Manage a queue of files for batch processing, with a progress bar to track how long each file will take.<br></li><li> For static images like PNG, you can select a folder of files and manually choose an FPS to use.</li></ul><br><strong>Export Options:</strong><br><ul class=\"bb_ul\"><li> <strong>Export Frames:</strong> Generates a .PNG file for each processed frame, including the newly interpolated ones.<br></li><li> <strong>Export Motion Flow:</strong> Exports a PNG visualization of the optical flow.<br></li><li> <strong>Export Video Side-By-Side:</strong> Exports the original video alongside the interpolated video for comparison.<br></li><li> <strong>Export Video Cut in Half:</strong> Exports the left side of the video as the original and the right side as the interpolation, split down the middle for comparison.</li></ul><br><strong>Video Modifications:</strong><br><ul class=\"bb_ul\"><li> <strong>Perfect Loop Video:</strong> Creates new frames between the last frame and the first frame of a video to create a perfect loop.<br></li><li> <strong>Remove Static Frames:</strong> Especially useful for animations, this option removes static frames to enhance the fluidity of the final video.<br></li><li> <strong>Skip Scene Changes:</strong> Detects scene changes and avoids interpolation to reduce artifacts in these transitions.</li></ul><br><strong>Supports frame multipliers, allowing you to output videos with higher FPS. For example, a video with 24fps can be interpolated to: </strong><br><ul class=\"bb_ul\"><li> 2X: 48fps<br></li><li> 4X: 96fps<br></li><li> 8X: 192fps<br></li><li> 16X: 384fps</li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" ><strong>FrameFusion Motion Interpolation</strong> improve the framerate of any video, gif or group of images by 2X/4X/8X/16X</h2><br>This application that uses neural networks to generate optical flows between two frames of a video. By using these flows, the application merges the frames into a new one, effectively increasing the number of frames in the video output.<br><br>The application allows you to select multiple videos, GIFs, or images in formats like PNG/JPG/BMP for interpolation, producing a new video with a higher FPS than the original.<br><br><strong>Key Features:</strong><br><ul class=\"bb_ul\"><li> Choose from four different models for interpolation: options for live-action or animation, with the ability to render in high quality or with faster speeds.<br></li><li> Optimized for Nvidia GPUs with CUDA support but also compatible with AMD GPUs and CPUs.<br></li><li> Manage a queue of files for batch processing, with a progress bar to track how long each file will take.<br></li><li> For static images like PNG, you can select a folder of files and manually choose an FPS to use.</li></ul><br><strong>Export Options:</strong><br><ul class=\"bb_ul\"><li> <strong>Export Frames:</strong> Generates a .PNG file for each processed frame, including the newly interpolated ones.<br></li><li> <strong>Export Motion Flow:</strong> Exports a PNG visualization of the optical flow.<br></li><li> <strong>Export Video Side-By-Side:</strong> Exports the original video alongside the interpolated video for comparison.<br></li><li> <strong>Export Video Cut in Half:</strong> Exports the left side of the video as the original and the right side as the interpolation, split down the middle for comparison.</li></ul><br><strong>Video Modifications:</strong><br><ul class=\"bb_ul\"><li> <strong>Perfect Loop Video:</strong> Creates new frames between the last frame and the first frame of a video to create a perfect loop.<br></li><li> <strong>Remove Static Frames:</strong> Especially useful for animations, this option removes static frames to enhance the fluidity of the final video.<br></li><li> <strong>Skip Scene Changes:</strong> Detects scene changes and avoids interpolation to reduce artifacts in these transitions.</li></ul><br><strong>Supports frame multipliers, allowing you to output videos with higher FPS. For example, a video with 24fps can be interpolated to: </strong><br><ul class=\"bb_ul\"><li> 2X: 48fps<br></li><li> 4X: 96fps<br></li><li> 8X: 192fps<br></li><li> 16X: 384fps</li></ul>",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Traditional Chinese, Korean, Spanish - Latin America, Japanese, Portuguese - Brazil, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0009,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 8.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 34,
-  "review_positive": 25,
+  "review_positive": 0,
   "review_percentage": 73.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 26,
-      "review_percentage": 84.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 34,
       "review_percentage": 73.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

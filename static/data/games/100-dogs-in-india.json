@@ -3,8 +3,8 @@
   "name": "100 Dogs in India",
   "slug": "100-dogs-in-india",
   "developer": "Powerset Games",
-  "publisher": "Powerset Games",
-  "release_date": "Mar 9, 2025",
+  "publisher": "",
+  "release_date": "2025-03-09",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -21,33 +21,15 @@
   ],
   "short_description": "Find 100 dogs in India! A simple hidden object game made with Kivy. Do you recognize the real-life buildings in the background?",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252600/header.jpg?t=1750176105",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252600/ss_596eaba5a16f7eed0bbf760de301d7c9a19a40cb.600x338.jpg?t=1750176105",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252600/ss_e50075339398c37f39d5a0f5c0260b3e3d0a4ada.600x338.jpg?t=1750176105",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252600/ss_4854582a4328575e9d7b78a951d5c2aee1cf90bf.600x338.jpg?t=1750176105",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252600/ss_89b94b66378d20bf97ecdf837f0e27a71ae069c2.600x338.jpg?t=1750176105",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3252600/ss_c7bf90d2db6c8d751dde0cc41e0c934c2b23a0a6.600x338.jpg?t=1750176105"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Find 100 dogs in India! A simple hidden object game made with Kivy. Do you recognize the real-life buildings in the background?</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Features:</p><p class=\"bb_paragraph\" >1 Level</p><p class=\"bb_paragraph\" >100 dogs (and one cat).</p><p class=\"bb_paragraph\" >Lost dog finder (hint system if you're stuck)</p><p class=\"bb_paragraph\" >In-game Settings (Gamma slider, bgm volume and dog volume)</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Works on Windows, Mac, and Steamdeck!</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Find 100 dogs in India! A simple hidden object game made with Kivy. Do you recognize the real-life buildings in the background?</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Features:</p><p class=\"bb_paragraph\" >1 Level</p><p class=\"bb_paragraph\" >100 dogs (and one cat).</p><p class=\"bb_paragraph\" >Lost dog finder (hint system if you're stuck)</p><p class=\"bb_paragraph\" >In-game Settings (Gamma slider, bgm volume and dog volume)</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Works on Windows, Mac, and Steamdeck!</p>",
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Indonesian, Japanese, Korean, Polish, Portuguese - Portugal, Russian, Simplified Chinese, Thai, Turkish, Ukrainian, Hindi<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 6.0,
+  "review_velocity_7d": 0.5,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 10,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 80.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,26 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 10,
-      "review_percentage": 80.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 80.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

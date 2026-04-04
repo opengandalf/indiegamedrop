@@ -3,8 +3,8 @@
   "name": "4Line",
   "slug": "4line",
   "developer": "y₀ studios",
-  "publisher": "y₀ studios",
-  "release_date": "Dec 30, 2020",
+  "publisher": "",
+  "release_date": "2020-12-30",
   "price_usd": 2.99,
   "genres": [
     "Action",
@@ -18,37 +18,17 @@
     "windows",
     "mac"
   ],
-  "short_description": "4Line is a real-time take on the classic 4 in a Row board game. Play in fast-paced ~1-minute matches, trying to get 4 in a row before your opponent does. Collect gems on the board to speed up your gameplay and gain an edge on your opponent.",
+  "short_description": "4Line is a real-time take on the classic 4 in a Row board game. Play in fast-paced ~1-minute matches, trying to get 4 in a row before your opponent does. Collect gems on the board to speed up your gam",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432880/header.jpg?t=1609442700",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432880/ss_b0d68b41e472ecc817fb565314260aad56266619.600x338.jpg?t=1609442700",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432880/ss_4f219a0ba02b5b6f5f1f35908374fb8ac38989f1.600x338.jpg?t=1609442700",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432880/ss_2ac0abbc7d7266e6d11df8f7888e09cc9d04738c.600x338.jpg?t=1609442700",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432880/ss_7e6b4df2bad8102ef8d77835f0dc6d8cdb6e6a6b.600x338.jpg?t=1609442700",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432880/ss_41bca2000e18e66b9762b5f615a7fe653ebf061c.600x338.jpg?t=1609442700"
-  ],
-  "detailed_description": "4Line is a real-time take on the classic 4 in a Row board game. Play in fast-paced ~30 second matches, trying to get 4 in a row before your opponent does.<br />\r\n<br />\r\nYou gain pieces over time, slowing down the more pieces you have stored. Use stored pieces to make large plays, or play aggressive and fast.<br />\r\nCollect gems placed randomly on the board to gain an edge. Each gem gives you pieces faster, allowing you to speed up your gameplay. The gems are randomly placed, making every match play out differently.<br />\r\n<br />\r\nTrain against the AI with 3 difficulties, and when you feel ready, play against your friends, or against random opponents all across the world.<br />\r\nGood Luck!",
-  "about_the_game": "4Line is a real-time take on the classic 4 in a Row board game. Play in fast-paced ~30 second matches, trying to get 4 in a row before your opponent does.<br />\r\n<br />\r\nYou gain pieces over time, slowing down the more pieces you have stored. Use stored pieces to make large plays, or play aggressive and fast.<br />\r\nCollect gems placed randomly on the board to gain an edge. Each gem gives you pieces faster, allowing you to speed up your gameplay. The gems are randomly placed, making every match play out differently.<br />\r\n<br />\r\nTrain against the AI with 3 difficulties, and when you feel ready, play against your friends, or against random opponents all across the world.<br />\r\nGood Luck!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 4,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,26 +36,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 4,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

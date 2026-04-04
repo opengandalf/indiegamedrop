@@ -3,8 +3,8 @@
   "name": "Trolley Delayma",
   "slug": "trolley-delayma",
   "developer": "albertnez",
-  "publisher": "albertnez",
-  "release_date": "Oct 3, 2023",
+  "publisher": "",
+  "release_date": "2023-10-03",
   "price_usd": 0.0,
   "genres": [
     "Indie"
@@ -19,54 +19,27 @@
   ],
   "short_description": "Top down puzzle game about manipulating the tracks to redirect the trolley to save the victims. Solve the trolley problem in various forms of tiny puzzles.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2372500/header.jpg?t=1696353745",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2372500/ss_6c3f164564c39e194d218216385502e3c8d620f6.600x338.jpg?t=1696353745",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2372500/ss_31253d543e035a1450e760401efd3c7aec1c357b.600x338.jpg?t=1696353745",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2372500/ss_ba2cddf5f29b3d14106343a6966115aa1cf91b08.600x338.jpg?t=1696353745",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2372500/ss_f2e329e919cd592d3a3697a61ad5f890fcf13043.600x338.jpg?t=1696353745",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2372500/ss_5b03a7299329115e9fa1a300b3024958f88a9aaf.600x338.jpg?t=1696353745"
-  ],
-  "detailed_description": "Trolley Delayma is a tiny puzzle game where you move around manipulating the tracks to save the victims and delay the inevitable fate forever. A combination of puzzle solving and fast reaction to save everyone, including you!<br />\r\n<br />\r\nFeatures 20 different levels for about 30 minutes of Gameplay.<br />\r\n<br />\r\nThis game was originally created for the Ludum Dare 50, with the theme \"delay the inevitable\".",
-  "about_the_game": "Trolley Delayma is a tiny puzzle game where you move around manipulating the tracks to save the victims and delay the inevitable fate forever. A combination of puzzle solving and fast reaction to save everyone, including you!<br />\r\n<br />\r\nFeatures 20 different levels for about 30 minutes of Gameplay.<br />\r\n<br />\r\nThis game was originally created for the Ludum Dare 50, with the theme \"delay the inevitable\".",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0004,
   "gem_score": 0.6492,
   "hype_score": 0.0,
-  "review_velocity_7d": 17.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 183,
-  "review_positive": 180,
+  "review_positive": 0,
   "review_percentage": 98.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "rising",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 166,
-      "review_percentage": 98.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 183,
       "review_percentage": 98.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

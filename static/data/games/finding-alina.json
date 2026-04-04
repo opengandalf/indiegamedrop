@@ -3,8 +3,8 @@
   "name": "Finding Alina",
   "slug": "finding-alina",
   "developer": "Ricardo",
-  "publisher": "Ricardo",
-  "release_date": "Dec 15, 2020",
+  "publisher": "",
+  "release_date": "2020-12-15",
   "price_usd": 0.99,
   "genres": [
     "Adventure",
@@ -19,34 +19,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Alina was kidnapped! You must find her through this indie point-and-click game! Your best intel indicates that Alina is likely to be in this abandoned building. Navigate along the scenes to find clues and items that will let you overcome your obstacles.",
+  "short_description": "Alina was kidnapped! You must find her through this indie point-and-click game! Your best intel indicates that Alina is likely to be in this abandoned building. Navigate along the scenes to find clues",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1480570/header.jpg?t=1609169261",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1480570/ss_854e6354320fc362e46d45cf5a276b84eeadd7ab.600x338.jpg?t=1609169261",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1480570/ss_fa9ff2ffd2dddefbbfeb1dafbb43d64785c0f1e1.600x338.jpg?t=1609169261",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1480570/ss_89790043071aafa7e2fc4cc4cedd5478ee4ad5eb.600x338.jpg?t=1609169261",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1480570/ss_13b39b42937fc73885966b090e7c2a5290dc26c9.600x338.jpg?t=1609169261",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1480570/ss_ba152296407c04aaa3771cf2f7ec47d0345ed070.600x338.jpg?t=1609169261"
-  ],
-  "detailed_description": "Point-and-click in first person view built with static images.<br />\r\n<br />\r\nClick on the screen to change scenes/rooms. Click on items on a scene to put them on your inventory. Click on items on inventory to use them on a scene. Click \"Drop\" area to return an item to your inventory. Use keybord and mouse to input passwords. You can not combine items in your inventory or outside.",
-  "about_the_game": "Point-and-click in first person view built with static images.<br />\r\n<br />\r\nClick on the screen to change scenes/rooms. Click on items on a scene to put them on your inventory. Click on items on inventory to use them on a scene. Click \"Drop\" area to return an item to your inventory. Use keybord and mouse to input passwords. You can not combine items in your inventory or outside.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 7,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 71.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 71.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 71.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

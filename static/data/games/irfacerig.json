@@ -3,8 +3,8 @@
   "name": "IRFaceRig",
   "slug": "irfacerig",
   "developer": "Holotech Studios",
-  "publisher": "Holotech Studios",
-  "release_date": "Feb 24, 2016",
+  "publisher": "",
+  "release_date": "2016-02-24",
   "price_usd": 0.0,
   "genres": [
     "Animation & Modeling",
@@ -19,56 +19,21 @@
   ],
   "short_description": "IRFaceRig enables you to embody awesome digital avatars in real time. IRFaceRig expression tracking is powered by Intel® RealSense™.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377590/header.jpg?t=1641406679",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377590/ss_3c32c468889717c859e12be24557cb2c27b50027.600x338.jpg?t=1641406679",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377590/ss_b20471ac38a3bd43880e4a67fc34b6d6ffada7be.600x338.jpg?t=1641406679",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377590/ss_71b5c0fbb8ba89b44489acf70b57cacafc1ed7cb.600x338.jpg?t=1641406679",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377590/ss_0a6bf052a895c670bd5ca182116c2ea330bcb19f.600x338.jpg?t=1641406679",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377590/ss_f0aa78936afb25ce34a498bb2c135c7f6639205b.600x338.jpg?t=1641406679"
-  ],
-  "detailed_description": "IRFaceRig is a program allowing you to embody digital avatars by just acting in front of your computer. You can save funny pictures or movies and post them on social channels to entertain your friends. <br />\r\nIRFaceRig is a free-to-play, specialized version of FaceRig. It works only with specific hardware and software: you need the Intel® RealSense™ SDK and the Intel® RealSense™ Camera on system with Intel® CPU's.<br />\r\nPlease note that once you will install this Steam version of IRFaceRig, the standalone version will be automatically uninstalled.(if previously installed)<br />\r\n<br />\r\nKey Features: <br />\r\n-Real-time tracking  powered by Intel® RealSense™.<br />\r\n-On-the-fly animation re-targeting for the tracked data and applying the animation on a user selected 3d model<br />\r\n-Rendering and lighting the animated model in real time, in a user selected background. <br />\r\n-Provide the interface for tuning the parameters of all operations above. <br />\r\n-Optional : Encoding the rendered video and sending it further as output from a virtual webcam to be used in any video chat app.",
-  "about_the_game": "IRFaceRig is a program allowing you to embody digital avatars by just acting in front of your computer. You can save funny pictures or movies and post them on social channels to entertain your friends. <br />\r\nIRFaceRig is a free-to-play, specialized version of FaceRig. It works only with specific hardware and software: you need the Intel® RealSense™ SDK and the Intel® RealSense™ Camera on system with Intel® CPU's.<br />\r\nPlease note that once you will install this Steam version of IRFaceRig, the standalone version will be automatically uninstalled.(if previously installed)<br />\r\n<br />\r\nKey Features: <br />\r\n-Real-time tracking  powered by Intel® RealSense™.<br />\r\n-On-the-fly animation re-targeting for the tracked data and applying the animation on a user selected 3d model<br />\r\n-Rendering and lighting the animated model in real time, in a user selected background. <br />\r\n-Provide the interface for tuning the parameters of all operations above. <br />\r\n-Optional : Encoding the rendered video and sending it further as output from a virtual webcam to be used in any video chat app.",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Portugal, Simplified Chinese, Portuguese - Brazil, Korean",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 44,
-  "review_positive": 22,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 35000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 28,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 44,
-      "review_percentage": 47.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 44,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
+      "date": "2026-04-04",
       "review_count": 44,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

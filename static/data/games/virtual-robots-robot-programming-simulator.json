@@ -3,8 +3,8 @@
   "name": "Virtual Robots - Robot programming simulator",
   "slug": "virtual-robots-robot-programming-simulator",
   "developer": "Cold-Dark Software™",
-  "publisher": "Cold-Dark Software™",
-  "release_date": "Nov 1, 2017",
+  "publisher": "",
+  "release_date": "2017-11-01",
   "price_usd": 1.99,
   "genres": [
     "Indie",
@@ -21,34 +21,7 @@
   ],
   "short_description": "Virtual Robots is a robot programming simulator. The objective of this game is to write code for your robots. Yes, WRITE.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692170/header.jpg?t=1728496215",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692170/ss_d810cdd9c4d6eb8471f1386f222403d13bf040c3.600x338.jpg?t=1728496215",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692170/ss_892bb30bf4f59eeb6d4ec8e9f5e64f7a6500a161.600x338.jpg?t=1728496215",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692170/ss_4e4f9ea99a9d6803142db19cd0b4b868c2be437d.600x338.jpg?t=1728496215",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692170/ss_ee829d822dc61849485cd637276397f18e473568.600x338.jpg?t=1728496215",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692170/ss_341c970d0427f97242ba1843943c1ef9588a3b92.600x338.jpg?t=1728496215",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692170/ss_17345edd1474cdb70ea8a15f0a047e0e701e2484.600x338.jpg?t=1728496215",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692170/ss_13ccab99ce52b335fe82ebf8d6478e1c4bc66af8.600x338.jpg?t=1728496215",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692170/ss_1427365a2d5e4df660e6a7f5b2612c59fa7d8174.600x338.jpg?t=1728496215"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Virtual Robots is a robot programming simulator. The objective of this game is to write code for your robots. Yes, <strong>WRITE</strong>.</p><p class=\"bb_paragraph\" >Ironically, this game does not have a code editor. The best code editor you can get for Virtual Robots is probably Notepad++. If you decide to use Notepad++ you can find syntax highlighter in \"scripts/notepad++pyrois\".</p><p class=\"bb_paragraph\" >After you write code, you can assign it to your robots and watch them do, what you told them to do. If there are any compilation errors in your code, game will tell you by pointing at the line, where the first compilation error occurred.</p><p class=\"bb_paragraph\" >Robots can carry boxes, use guns and swords, navigate through a maze and open doors with sensors.</p><p class=\"bb_paragraph\" >Robots use Pyrois scripting language for their code. Pyrois is an interpreted language with syntax similar to C++ and Java.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Game features 11 tutorial levels that can help you understand how robots work. Tutorial 0 should also teach you how to use Pyrois scripting language.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >This game was first intended to be used in schools and collages where students show interest in robot programming but don't have access to real robots or don't have sufficient amount of them. Easier levels are simple \"go to\" levels. Harder levels require robots to observe the environment for objects and other robots. There are 18 levels that require you to write code for your robots. Game has also few custom levels that were used for development and can now be used to test different scripts.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >About game interface languages: Game interface language can be set to English, German or Slovak but comments in script examples are always written in English.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Virtual Robots is a robot programming simulator. The objective of this game is to write code for your robots. Yes, <strong>WRITE</strong>.</p><p class=\"bb_paragraph\" >Ironically, this game does not have a code editor. The best code editor you can get for Virtual Robots is probably Notepad++. If you decide to use Notepad++ you can find syntax highlighter in \"scripts/notepad++pyrois\".</p><p class=\"bb_paragraph\" >After you write code, you can assign it to your robots and watch them do, what you told them to do. If there are any compilation errors in your code, game will tell you by pointing at the line, where the first compilation error occurred.</p><p class=\"bb_paragraph\" >Robots can carry boxes, use guns and swords, navigate through a maze and open doors with sensors.</p><p class=\"bb_paragraph\" >Robots use Pyrois scripting language for their code. Pyrois is an interpreted language with syntax similar to C++ and Java.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Game features 11 tutorial levels that can help you understand how robots work. Tutorial 0 should also teach you how to use Pyrois scripting language.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >This game was first intended to be used in schools and collages where students show interest in robot programming but don't have access to real robots or don't have sufficient amount of them. Easier levels are simple \"go to\" levels. Harder levels require robots to observe the environment for objects and other robots. There are 18 levels that require you to write code for your robots. Game has also few custom levels that were used for development and can now be used to test different scripts.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >About game interface languages: Game interface language can be set to English, German or Slovak but comments in script examples are always written in English.</p>",
-  "supported_languages": "English, German",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 6,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -58,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Twitch Place",
   "slug": "twitch-place",
   "developer": "canyonboss",
-  "publisher": "canyonboss",
-  "release_date": "Jan 7, 2023",
+  "publisher": "",
+  "release_date": "2023-01-07",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -19,32 +19,9 @@
   ],
   "short_description": "/r place but with twitch integration",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128670/header.jpg?t=1699125809",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128670/ss_272cc830a6c22e203d085350127f7bacfd665188.600x338.jpg?t=1699125809",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128670/ss_1e6aca8fe6bb953fe7a93757d45a2128c72eb3e0.600x338.jpg?t=1699125809",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128670/ss_4e1688f539df84a621d5125631b431df39018604.600x338.jpg?t=1699125809",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128670/ss_27b97e22ea238be683485e45b79a1be5d2410ba1.600x338.jpg?t=1699125809",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2128670/ss_39c86d25935e1aa8adf845984d37f178f0b5a046.600x338.jpg?t=1699125809"
-  ],
-  "detailed_description": "\"Game\" like /r place where people place pixels but with twitch integration - you can connect to any twitch chat which the game will listen to, drawing based on users typing commands in chat. Twitch chatters can then create images together. Game is intended for twitch streamers. You can choose from different sizes of canvas based on number of people watching your stream. The game has no end or progression on its own it's up to you what you want to draw with your chat.",
-  "about_the_game": "\"Game\" like /r place where people place pixels but with twitch integration - you can connect to any twitch chat which the game will listen to, drawing based on users typing commands in chat. Twitch chatters can then create images together. Game is intended for twitch streamers. You can choose from different sizes of canvas based on number of people watching your stream. The game has no end or progression on its own it's up to you what you want to draw with your chat.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

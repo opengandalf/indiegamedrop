@@ -3,8 +3,8 @@
   "name": "Battle Street",
   "slug": "battle-street",
   "developer": "X Game Studio",
-  "publisher": "X Game Studio",
-  "release_date": "Dec 26, 2024",
+  "publisher": "",
+  "release_date": "2024-12-26",
   "price_usd": 3.99,
   "genres": [
     "Action",
@@ -27,41 +27,15 @@
   ],
   "short_description": "To fight alone or side by side with your friend,one-on-one for fun. Defend yourself Tuesday with special powers and attack.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807860/header.jpg?t=1735228370",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807860/ss_09e799c2f2f1ee25c0411515fd1e6a22ac901330.600x338.jpg?t=1735228370",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807860/ss_11c5ee9daa1f6cccef5123909b544460097b128f.600x338.jpg?t=1735228370",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807860/ss_4965c200122bfff1a69eab0f98161dba3456b2b4.600x338.jpg?t=1735228370",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807860/ss_8caffe6ace7b89a2bae3ebf2296b5cf0ba922951.600x338.jpg?t=1735228370",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807860/ss_52c033e054f78358e1741a1006084f9661ff25fe.600x338.jpg?t=1735228370",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807860/ss_47e1d695b4afbb9427a5ca865e767a806115c8c4.600x338.jpg?t=1735228370",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807860/ss_d4e26a8da19f5e9da92132d929cf0be92dfcaac1.600x338.jpg?t=1735228370",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807860/ss_506f09b58ff76e6126caceb8f8e657406ae19e34.600x338.jpg?t=1735228370"
-  ],
-  "detailed_description": "<h1>Early Beta Access</h1><p>The game is in the beta stage. There will be mistakes. It will be corrected with updates and with your comments.</p><br><h1>About the Game</h1>In an arcade fighting game, you can play the most fun with special powers and agility, the character you choose will become stronger as you play. It seems that it will not be very easy to play against artificial intelligence.",
-  "about_the_game": "In an arcade fighting game, you can play the most fun with special powers and agility, the character you choose will become stronger as you play. It seems that it will not be very easy to play against artificial intelligence.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Co-op",
-    "Shared/Split Screen",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -69,19 +43,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

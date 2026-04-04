@@ -3,8 +3,8 @@
   "name": "Elevator",
   "slug": "elevator",
   "developer": "RABBIT",
-  "publisher": "RABBIT",
-  "release_date": "Apr 25, 2023",
+  "publisher": "",
+  "release_date": "2023-04-25",
   "price_usd": 1.99,
   "genres": [
     "Adventure",
@@ -21,33 +21,15 @@
   ],
   "short_description": "Find a way to escape by combining items in a closed apartment. However, beware of the ghost that lurks...",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2382870/header.jpg?t=1682424260",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2382870/ss_0487e50f78d1756de6d5dabfefb6522657848163.600x338.jpg?t=1682424260",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2382870/ss_33914a9e6986bb2eea01988b6a6ab71fb77104cd.600x338.jpg?t=1682424260",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2382870/ss_5e7aaa5cb7a0fa0d54c1cd5000d41407bd999fd4.600x338.jpg?t=1682424260",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2382870/ss_65f56fae5735118fd075cc397cb6d69f86084b3f.600x338.jpg?t=1682424260",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2382870/ss_0cbfce6cd18c499a09d8e917e11c9ba801676f94.600x338.jpg?t=1682424260",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2382870/ss_a4f8fc6f96b427f440878cac34ba2ce49c159744.600x338.jpg?t=1682424260"
-  ],
-  "detailed_description": "You have accidentally been trapped inside an apartment. Within the apartment, you can explore various rooms and furniture by left-clicking on them (furniture that can be explored will emit a green light). Through exploration, you can discover what items are inside each furniture. You can collect these items in your inventory and use them by right-clicking on them, or try combining them in the crafting tab located in the bottom right corner of the screen to create higher-tier items. To craft, left-click on the items in your inventory, set the desired quantity, and press the craft button.<br />\r\n<br />\r\nHigher-tier items will be more useful in helping you survive and may even become key items in your escape from the apartment.<br />\r\n<br />\r\nHowever, please note that there is a ghost lurking within the apartment. The ghost roams around the apartment and occasionally attacks the player. Since the ghost is invisible, the player must rely on sound to locate its position.<br />\r\n<br />\r\nThere is one working elevator within the apartment that is always functional and has no fuse or mechanical issues. The player can use the elevator to travel to various floors, but the ghost can also use it. If the ghost is in the elevator, the elevator will turn red, so be aware of this.<br />\r\n<br />\r\nLastly, there is not only one way to escape, so try various methods and experiment to successfully escape.",
-  "about_the_game": "You have accidentally been trapped inside an apartment. Within the apartment, you can explore various rooms and furniture by left-clicking on them (furniture that can be explored will emit a green light). Through exploration, you can discover what items are inside each furniture. You can collect these items in your inventory and use them by right-clicking on them, or try combining them in the crafting tab located in the bottom right corner of the screen to create higher-tier items. To craft, left-click on the items in your inventory, set the desired quantity, and press the craft button.<br />\r\n<br />\r\nHigher-tier items will be more useful in helping you survive and may even become key items in your escape from the apartment.<br />\r\n<br />\r\nHowever, please note that there is a ghost lurking within the apartment. The ghost roams around the apartment and occasionally attacks the player. Since the ghost is invisible, the player must rely on sound to locate its position.<br />\r\n<br />\r\nThere is one working elevator within the apartment that is always functional and has no fuse or mechanical issues. The player can use the elevator to travel to various floors, but the ghost can also use it. If the ghost is in the elevator, the elevator will turn red, so be aware of this.<br />\r\n<br />\r\nLastly, there is not only one way to escape, so try various methods and experiment to successfully escape.",
-  "supported_languages": "English, Japanese, Korean",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 33.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 25.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 33.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

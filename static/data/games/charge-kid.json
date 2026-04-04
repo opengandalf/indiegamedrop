@@ -3,8 +3,8 @@
   "name": "Charge Kid",
   "slug": "charge-kid",
   "developer": "Ayrton, Rafael and Vicente",
-  "publisher": "Ayrton, Rafael and Vicente",
-  "release_date": "Jun 29, 2020",
+  "publisher": "",
+  "release_date": "2020-06-29",
   "price_usd": 1.99,
   "genres": [
     "Adventure",
@@ -21,56 +21,27 @@
   ],
   "short_description": "A challenging puzzle-platformer where each jump is a puzzle!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1334300/header.jpg?t=1624745112",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1334300/ss_0b36addb67120c1397f754207f106450d1df8560.600x338.jpg?t=1624745112",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1334300/ss_ac6ffff79f45e0279e3be5e75e3f5263963280a7.600x338.jpg?t=1624745112",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1334300/ss_e2da919babc75634825b41d5c0fd8920bcfd8e6c.600x338.jpg?t=1624745112",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1334300/ss_79c38ccd21d3786185514af2c7d61373498958f3.600x338.jpg?t=1624745112",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1334300/ss_7c9209ae3d29969d05215fc818643dd0af8da9c3.600x338.jpg?t=1624745112",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1334300/ss_ee462ce2bbd8b7329808445c140d8155b54be090.600x338.jpg?t=1624745112"
-  ],
-  "detailed_description": "Charge Kid is a game where each jump is a puzzle. You can compare it to Portal, where you have to find clever uses of the mechanics and physics to \"solve\" each location by reaching the desired location. You have limited resources to make each jump, comparable to Celeste. But instead of focusing on precision-platforming, the game focuses on the puzzle aspect. Unlike Celeste, the hard part is figuring out how to use your resources to make each jump instead of the execution. But don't get fooled; the execution is also hard, which means finding each solution is even harder!<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li> Tight controls and fluid movement.<br></li><li> Challenging gameplay.<br></li><li> Puzzles with multiple solutions.<br></li><li> Cute and minimalistic pixel art.<br></li><li> Slick sound effects and music.</li></ul><h2 class=\"bb_tag\" >Charge Kid is open source (and free!)</h2>You can see the source code by clicking at the website link at the right of the page. It was made with the Godot Engine, and you will need to download it in order to access the code or to make a playable build, in case you want to play it before paying anything. While the game is free, you can still buy it here to show us your appreciation ;)",
-  "about_the_game": "Charge Kid is a game where each jump is a puzzle. You can compare it to Portal, where you have to find clever uses of the mechanics and physics to \"solve\" each location by reaching the desired location. You have limited resources to make each jump, comparable to Celeste. But instead of focusing on precision-platforming, the game focuses on the puzzle aspect. Unlike Celeste, the hard part is figuring out how to use your resources to make each jump instead of the execution. But don't get fooled; the execution is also hard, which means finding each solution is even harder!<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li> Tight controls and fluid movement.<br></li><li> Challenging gameplay.<br></li><li> Puzzles with multiple solutions.<br></li><li> Cute and minimalistic pixel art.<br></li><li> Slick sound effects and music.</li></ul><h2 class=\"bb_tag\" >Charge Kid is open source (and free!)</h2>You can see the source code by clicking at the website link at the right of the page. It was made with the Godot Engine, and you will need to download it in order to access the code or to make a playable build, in case you want to play it before paying anything. While the game is free, you can still buy it here to show us your appreciation ;)",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
-  "gem_score": 0.9598,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.25,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 25,
-  "review_positive": 25,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 25,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 25,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

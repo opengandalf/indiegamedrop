@@ -3,8 +3,8 @@
   "name": "Actua Tennis",
   "slug": "actua-tennis",
   "developer": "Gremlin Interactive",
-  "publisher": "Pixel Games UK",
-  "release_date": "Oct 12, 2022",
+  "publisher": "",
+  "release_date": "2022-10-12",
   "price_usd": 3.99,
   "genres": [
     "Sports"
@@ -15,41 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "In this classic tennis simulation game from 2000, experience fast-paced, motion-captured tennis action in singles, doubles, and tournament play. Choose from a roster of existing players or create your own player and take on the world!",
+  "short_description": "In this classic tennis simulation game from 2000, experience fast-paced, motion-captured tennis action in singles, doubles, and tournament play. Choose from a roster of existing players or create your",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2152730/header.jpg?t=1666600834",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2152730/ss_1c7b36a220d77928183b666e35a2ca11686e993f.600x338.jpg?t=1666600834",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2152730/ss_bfea728a1579426c8cef74c727b7cff28fe59073.600x338.jpg?t=1666600834",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2152730/ss_d759ecabf1bf5fa6700dbe0c6952842ada2cb3d3.600x338.jpg?t=1666600834",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2152730/ss_73ef4e73be2e0649dea86f3af0711f15e963357d.600x338.jpg?t=1666600834",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2152730/ss_3704912800126c6a187381a8769e0c7ce3359cde.600x338.jpg?t=1666600834"
-  ],
-  "detailed_description": "Originally released in 2000 (for the PlayStation version), <i>Actua Tennis</i> brought the Actua Sports series staples of fully 3d environments, multiple cameras, motion captured player movements, and world-class commentary to the tennis court. Now, relive those days in this remastered emulated version.<br><br>Play single matches, tournaments, or a world tour, choosing from singles or doubles (including mixed doubles) play.<br><br>Includes a wide roster of world-class players, or create your own custom players.<br><br>Play with up to 4 players in local multiplayer (separate game controller required for each player).<br><br><br>This enhanced version introduces a number of modern features to this retro classic, including:<br><br><ul class=\"bb_ul\"><li> Saving/loading the game at any point<br></li><li> Support for most modern game controllers<br></li><li> Full control remapping<br></li><li> Image scaling and smoothing options</li></ul>",
-  "about_the_game": "Originally released in 2000 (for the PlayStation version), <i>Actua Tennis</i> brought the Actua Sports series staples of fully 3d environments, multiple cameras, motion captured player movements, and world-class commentary to the tennis court. Now, relive those days in this remastered emulated version.<br><br>Play single matches, tournaments, or a world tour, choosing from singles or doubles (including mixed doubles) play.<br><br>Includes a wide roster of world-class players, or create your own custom players.<br><br>Play with up to 4 players in local multiplayer (separate game controller required for each player).<br><br><br>This enhanced version introduces a number of modern features to this retro classic, including:<br><br><ul class=\"bb_ul\"><li> Saving/loading the game at any point<br></li><li> Support for most modern game controllers<br></li><li> Full control remapping<br></li><li> Image scaling and smoothing options</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Shared/Split Screen",
-    "Partial Controller Support",
-    "Steam Cloud",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 7,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 71.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 83.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 71.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

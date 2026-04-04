@@ -3,8 +3,8 @@
   "name": "疑義照会ウォーズ",
   "slug": "疑義照会ウォーズ",
   "developer": "薬学ゲーム開発プロジェクト",
-  "publisher": "薬学ゲーム開発プロジェクト",
-  "release_date": "Dec 3, 2021",
+  "publisher": "",
+  "release_date": "2021-12-03",
   "price_usd": 9.99,
   "genres": [
     "Indie",
@@ -17,35 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "This is a full-fledged adventure game (selectable type) based on the theme of the pharmacist's job, \"checking prescription. Determine if the prescription is correct, and if it is, make a \"Questionable Inquiry\" to the doctor!",
+  "short_description": "This is a full-fledged adventure game (selectable type) based on the theme of the pharmacist's job, \"checking prescription. Determine if the prescription is correct, and if it is, make a \"Qu",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799080/header.jpg?t=1638530225",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799080/ss_8f1ba7387871f74372207aecbdc8e7b78396f9d3.600x338.jpg?t=1638530225",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799080/ss_a395a1e2c667103b6a78c4aa6eebb4ec89938aaa.600x338.jpg?t=1638530225",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799080/ss_e5345ad0cdac877b051f340e797a9e4d84006190.600x338.jpg?t=1638530225",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799080/ss_41cc0aa4054f2cfe09fcc1fa6946726213d42313.600x338.jpg?t=1638530225",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799080/ss_14cc9294abfb4668da3091158968dd03f74f0540.600x338.jpg?t=1638530225",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799080/ss_cac5ae2ae53cf43de5360c44429d9e0122a6d233.600x338.jpg?t=1638530225"
-  ],
-  "detailed_description": "Prescription Wars is a full-fledged adventure game with a pharmacist as the main character, focusing on the pharmacist's job \"checking prescription\".<br>The game pursues the realism of \"checking prescription\"<br>If you are a pharmacist, you can hone your skills through this game, and if you are not, you can simulate some of the real work of a pharmacist through the game.<h2 class=\"bb_tag\" >Story</h2>I'm a second-year pharmacist who accidentally wandered into a strange world where AI has developed, and I end up at a large pharmacy that handles a large number of prescriptions in that city.<br>I was forced to start working there in order to survive, but then I realized that the pharmacy was full of \"bag fillers\" who could only \"dispense as prescribed by the doctor\" without questioning the prescriptions brought in by the patients.<br>As the only pharmacist in the country, I become a prescription inspector at a pharmacy and confront the darkness that has infiltrated the country with the weapon of \"checking prescription\".<h2 class=\"bb_tag\" >Game System</h2>The setting is a dispensing pharmacy.<br>When you receive a prescription from a patient, you check to see if the contents of the prescription are correct by looking at references and the medication notebook.<br>If it is correct, you can dispense the prescription as it is, but if it is not, you need to make an inquiry (choose one of the four options to find out what is wrong).<br>If you get the answer right, you get credit points, but if you get it wrong, you lose points.<br>If you get it wrong, you lose points. The game is over when your trust points drop to zero, so audit your prescriptions carefully and quickly!",
-  "about_the_game": "Prescription Wars is a full-fledged adventure game with a pharmacist as the main character, focusing on the pharmacist's job \"checking prescription\".<br>The game pursues the realism of \"checking prescription\"<br>If you are a pharmacist, you can hone your skills through this game, and if you are not, you can simulate some of the real work of a pharmacist through the game.<h2 class=\"bb_tag\" >Story</h2>I'm a second-year pharmacist who accidentally wandered into a strange world where AI has developed, and I end up at a large pharmacy that handles a large number of prescriptions in that city.<br>I was forced to start working there in order to survive, but then I realized that the pharmacy was full of \"bag fillers\" who could only \"dispense as prescribed by the doctor\" without questioning the prescriptions brought in by the patients.<br>As the only pharmacist in the country, I become a prescription inspector at a pharmacy and confront the darkness that has infiltrated the country with the weapon of \"checking prescription\".<h2 class=\"bb_tag\" >Game System</h2>The setting is a dispensing pharmacy.<br>When you receive a prescription from a patient, you check to see if the contents of the prescription are correct by looking at references and the medication notebook.<br>If it is correct, you can dispense the prescription as it is, but if it is not, you need to make an inquiry (choose one of the four options to find out what is wrong).<br>If you get the answer right, you get credit points, but if you get it wrong, you lose points.<br>If you get it wrong, you lose points. The game is over when your trust points drop to zero, so audit your prescriptions carefully and quickly!",
-  "supported_languages": "Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 20,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 30.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 20,
-      "review_percentage": 30.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 20,
       "review_percentage": 30.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

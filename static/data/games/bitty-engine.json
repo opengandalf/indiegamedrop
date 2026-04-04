@@ -3,8 +3,8 @@
   "name": "Bitty Engine",
   "slug": "bitty-engine",
   "developer": "Tony Wang",
-  "publisher": "Tony Wang",
-  "release_date": "Mar 17, 2021",
+  "publisher": "",
+  "release_date": "2021-03-17",
   "price_usd": 7.49,
   "genres": [
     "Animation & Modeling",
@@ -27,42 +27,15 @@
   ],
   "short_description": "Bitty Engine is an itty bitty 2D game engine, with built-in editors, programmable in Lua.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386180/ce68b96e5d8246504110f957b07185898f96e950/header.jpg?t=1773214683",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386180/ss_7a2ded5f798aabac8f4ffd32dececee53a643e6a.600x338.jpg?t=1773214683",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386180/ss_3ecf1df82379c07f0ca8619e75c7271c02dc8d93.600x338.jpg?t=1773214683",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386180/ss_5d5636913f5d17ff1060c15527fac9a78ae2eb56.600x338.jpg?t=1773214683",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386180/ss_17b192f5f686d03ef42a4fbf40bbcbc9b1b84830.600x338.jpg?t=1773214683",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386180/ss_547de0ce07675e9f458a32b3b73ecd8bc70d7a1f.600x338.jpg?t=1773214683",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386180/ss_1e80a96a703c4b070674e83a0b81ce8fe8f0a038.600x338.jpg?t=1773214683",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386180/ss_070730afc6b2775ad75a24f79bc6bd9e99513db7.600x338.jpg?t=1773214683",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386180/ss_775ef601bfbd48f22570e9d5532563c2d640be08.600x338.jpg?t=1773214683",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386180/ss_595a87988e5e167d30082ce225b9745475abb84d.600x338.jpg?t=1773214683",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386180/ss_1ce6bcedf66b07977e11a224704fc4ad41a67e65.600x338.jpg?t=1773214683",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386180/ss_027e87ed4f03b18dddad243fe559d35310b6f05d.600x338.jpg?t=1773214683",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386180/ss_822b55218e7a998d712abb5d312ee84baa005cc5.600x338.jpg?t=1773214683",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386180/ss_03618b31fc9b9d8ede990b8c0717ffcf6f4d043b.600x338.jpg?t=1773214683",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386180/ss_837c942f07bde2a38fb1485f880dfd5aa23ab3d3.600x338.jpg?t=1773214683",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386180/ss_1a797e6990adacfa4c0cb8bc0822be75b7f911ec.600x338.jpg?t=1773214683",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386180/ss_b5ca27ee796fb84e4cd52e9fe7575b60039254d4.600x338.jpg?t=1773214683"
-  ],
-  "detailed_description": "<h1>Redistribute</h1><p>Bitty Engine helps you to make standalone binaries for Windows, MacOS, Linux and HTML (WebAssembly). It is redistributable for both non-commercial and commercial use without extra fee, your project is totally yours.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386180/extras/3b9e9eea6650bd8fbd374a9752ee20b4.avif?t=1773214683\" width=1224 height=406 /></span></p><br><h1>About the Software</h1><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386180/extras/459e5adf68ec7d5b17a584fe66888d18.avif?t=1773214683\" width=1224 height=406 /></span><br>Bitty Engine is a cross-platform itty bitty <strong>2D Game Engine</strong>. The full featured engine is programmable in Lua and integrated with built-in editors. It keeps the nature of both engine's productivity, and fantasy computer/console's ease to iterate. It boosts your commercial/non-commercial projects, prototypes, game jams, or just thought experiments.<h2 class=\"bb_tag\" >Why Bitty Engine?</h2><br>Bitty Engine has everything built-in for coding, graphics composing, etc; it has a full featured debugger for breakpoint, variable inspecting, stepping, and call-stack traversing; it offers a set of well-designed API with full documentation; it builds fast binaries with code and asset obfuscating, moreover its package size is small (around 10MB with empty project, other engine outputs more than 10 times bigger).<br><br>It is supposed to be your ultimate 2D game creating software.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Programmable in Lua, an easy to learn and widely used programming language<br></li><li>Debugger with scope inspector, breakpoint support and stepping<br></li><li>Easy to use API for resources, graphics, input, audio, and more other facilities<br></li><li>Built-in libraries for File, File System, Archive, JSON, Network, Physics, etc.<br></li><li>Dozens of various example projects<br></li><li>Handy tools for editing sprite, map, image, text, JSON, etc.<br></li><li>Project can be exported into standalone binary</li></ul><h2 class=\"bb_tag\" >Specs</h2><ul class=\"bb_ul\"><li>Display: configurable resolution<br></li><li>Code: Lua, supports multiple source files<br></li><li>Image: either true-color (PNG, JPG, BMP, TGA) or paletted, up to 1024x1024 pixels per file<br></li><li>Palette: 256 colors with transparency support<br></li><li>Sprite: up to 1024x1024 pixels per frame, up to 1024 frames per sprite<br></li><li>Map: up to 4096x4096 tiles per page<br></li><li>Font: supports Bitmap and TrueType<br></li><li>Audio: 1 BGM channel, 4 SFX channels; supports MP3, OGG, WAV, etc.<br></li><li>Gamepad: 6 buttons for each pad (D-Pad + A/B), up to 2 players<br></li><li>Keyboard and mouse: supported</li></ul>",
-  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386180/extras/459e5adf68ec7d5b17a584fe66888d18.avif?t=1773214683\" width=1224 height=406 /></span><br>Bitty Engine is a cross-platform itty bitty <strong>2D Game Engine</strong>. The full featured engine is programmable in Lua and integrated with built-in editors. It keeps the nature of both engine's productivity, and fantasy computer/console's ease to iterate. It boosts your commercial/non-commercial projects, prototypes, game jams, or just thought experiments.<h2 class=\"bb_tag\" >Why Bitty Engine?</h2><br>Bitty Engine has everything built-in for coding, graphics composing, etc; it has a full featured debugger for breakpoint, variable inspecting, stepping, and call-stack traversing; it offers a set of well-designed API with full documentation; it builds fast binaries with code and asset obfuscating, moreover its package size is small (around 10MB with empty project, other engine outputs more than 10 times bigger).<br><br>It is supposed to be your ultimate 2D game creating software.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Programmable in Lua, an easy to learn and widely used programming language<br></li><li>Debugger with scope inspector, breakpoint support and stepping<br></li><li>Easy to use API for resources, graphics, input, audio, and more other facilities<br></li><li>Built-in libraries for File, File System, Archive, JSON, Network, Physics, etc.<br></li><li>Dozens of various example projects<br></li><li>Handy tools for editing sprite, map, image, text, JSON, etc.<br></li><li>Project can be exported into standalone binary</li></ul><h2 class=\"bb_tag\" >Specs</h2><ul class=\"bb_ul\"><li>Display: configurable resolution<br></li><li>Code: Lua, supports multiple source files<br></li><li>Image: either true-color (PNG, JPG, BMP, TGA) or paletted, up to 1024x1024 pixels per file<br></li><li>Palette: 256 colors with transparency support<br></li><li>Sprite: up to 1024x1024 pixels per frame, up to 1024 frames per sprite<br></li><li>Map: up to 4096x4096 tiles per page<br></li><li>Font: supports Bitmap and TrueType<br></li><li>Audio: 1 BGM channel, 4 SFX channels; supports MP3, OGG, WAV, etc.<br></li><li>Gamepad: 6 buttons for each pad (D-Pad + A/B), up to 2 players<br></li><li>Keyboard and mouse: supported</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Includes level editor"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.4500000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 29,
-  "review_positive": 26,
+  "review_positive": 0,
   "review_percentage": 89.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -70,19 +43,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 30,
-      "review_percentage": 86.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 29,
       "review_percentage": 89.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Dummy Falls",
   "slug": "dummy-falls",
   "developer": "Waltteri",
-  "publisher": "Waltteri",
-  "release_date": "Aug 17, 2023",
+  "publisher": "",
+  "release_date": "2023-08-17",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -21,37 +21,15 @@
   ],
   "short_description": "Dummy Falls is a co-op game where you and your teammate tries to overcome various obstacles until the end.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1840330/header.jpg?t=1703715116",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1840330/ss_0924df1c6d5a6dd32c998eb1e2764740944e764e.600x338.jpg?t=1703715116",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1840330/ss_388922ec5728fd7a3d8108972f3192108fcdd806.600x338.jpg?t=1703715116",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1840330/ss_2e5152f807c01661a592a7ee2cbea4db71936e52.600x338.jpg?t=1703715116",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1840330/ss_c718f84365c2de167452bd87fa7cb66ebbd7b6f5.600x338.jpg?t=1703715116",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1840330/ss_5c90c0e1d4d43c779aa1220bdfe64fe6b832b7ba.600x338.jpg?t=1703715116"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1840330/extras/ee54e16d14834067036d5863d28ac001.avif?t=1703715116\" width=616 height=100 /></span><br>Dummy Falls is a co-op game where you and your teammate tries to overcome various obstacles until the end.<br><br>- If one player fails, every player fails<br>- There are no checkpoints between start and end<h2 class=\"bb_tag\" >Runs & Climb</h2>Try to overcome every obstacle without failing. If one player's fail to dodge obstacles, all players are going to be teleported back to starting line. Every fail is counted and time is not going to be stopped.<br><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1840330/extras/ae0f34d6d7bb914088e8a81359d8ce66.avif?t=1703715116\" width=616 height=100 /></span><h2 class=\"bb_tag\" >Hats & Colors</h2>Customize your character with default colors or hats. More hats and colors can be unlocked via different challenges.",
-  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1840330/extras/ee54e16d14834067036d5863d28ac001.avif?t=1703715116\" width=616 height=100 /></span><br>Dummy Falls is a co-op game where you and your teammate tries to overcome various obstacles until the end.<br><br>- If one player fails, every player fails<br>- There are no checkpoints between start and end<h2 class=\"bb_tag\" >Runs & Climb</h2>Try to overcome every obstacle without failing. If one player's fail to dodge obstacles, all players are going to be teleported back to starting line. Every fail is counted and time is not going to be stopped.<br><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1840330/extras/ae0f34d6d7bb914088e8a81359d8ce66.avif?t=1703715116\" width=616 height=100 /></span><h2 class=\"bb_tag\" >Hats & Colors</h2>Customize your character with default colors or hats. More hats and colors can be unlocked via different challenges.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Online Co-op",
-    "Steam Achievements",
-    "Stats",
-    "Steam Leaderboards"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0004,
+  "screenshots": [],
+  "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 7.0,
+  "review_velocity_7d": 2.6,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 52,
-  "review_positive": 42,
+  "review_positive": 0,
   "review_percentage": 80.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 45,
-      "review_percentage": 82.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 52,
       "review_percentage": 80.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

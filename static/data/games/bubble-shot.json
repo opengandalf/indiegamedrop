@@ -3,8 +3,8 @@
   "name": "Bubble Shot",
   "slug": "bubble-shot",
   "developer": "RetroBug",
-  "publisher": "RetroBug",
-  "release_date": "Jun 20, 2022",
+  "publisher": "",
+  "release_date": "2022-06-20",
   "price_usd": 1.19,
   "genres": [
     "Casual"
@@ -17,34 +17,15 @@
   ],
   "short_description": "It's a classic bubble shooter! Enjoy multiple game modes and a retro style.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1955820/header.jpg?t=1655744836",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1955820/ss_c18e75521926d92a9ab48b7e0b96b04360ec6b95.600x338.jpg?t=1655744836",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1955820/ss_00e646c84219910cfbaeb0d9640c283b305794bc.600x338.jpg?t=1655744836",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1955820/ss_77c2d7ac32c12195fca459b23592c51df8a35722.600x338.jpg?t=1655744836",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1955820/ss_8a5334b9113b5dbb581e683425bffde2ad81b4ef.600x338.jpg?t=1655744836",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1955820/ss_4b40d0716655ccd7735eb949182c5459986117e1.600x338.jpg?t=1655744836"
-  ],
-  "detailed_description": "<i>Bubble Shot</i> revisits the cheerful pixelated quirkiness of the original Puzzle Bobble (Bust-A-Move).<br><br>Play casual mode and lose yourself in 50 levels of bubble-bursting excitement.<br>Take on challenge mode to push your bubble-shooting skills to the limit.<br>Face all levels back-to-back in arcade mode. Think you can make it all the way?<br><br>Earn achievements by completing difficult levels.<br>Compete against the best players by setting high scores on worldwide leaderboards.<br><br>Are you ready? Let's shoot some bubbles!",
-  "about_the_game": "<i>Bubble Shot</i> revisits the cheerful pixelated quirkiness of the original Puzzle Bobble (Bust-A-Move).<br><br>Play casual mode and lose yourself in 50 levels of bubble-bursting excitement.<br>Take on challenge mode to push your bubble-shooting skills to the limit.<br>Face all levels back-to-back in arcade mode. Think you can make it all the way?<br><br>Earn achievements by completing difficult levels.<br>Compete against the best players by setting high scores on worldwide leaderboards.<br><br>Are you ready? Let's shoot some bubbles!",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Turkish, Spanish - Latin America",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.8,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 16,
-  "review_positive": 14,
+  "review_positive": 0,
   "review_percentage": 87.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 12,
-      "review_percentage": 83.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 16,
       "review_percentage": 87.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

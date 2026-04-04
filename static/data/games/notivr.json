@@ -3,8 +3,8 @@
   "name": "NotiVR",
   "slug": "notivr",
   "developer": "Matterworks Interactive",
-  "publisher": "Matterworks Interactive",
-  "release_date": "Nov 22, 2021",
+  "publisher": "",
+  "release_date": "2021-11-22",
   "price_usd": 5.94,
   "genres": [
     "Utilities",
@@ -19,32 +19,9 @@
   ],
   "short_description": "NotiVR allows you to wirelessly sync your Android phone's notifications to your SteamVR compatible headset. Please check system requirements before purchasing",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1781430/a386437da25fff316e30c8908bc97438c5fc1635/header.jpg?t=1769825530",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1781430/cac1a6f177f1f73ec90716c81b770d12cfee1742/ss_cac1a6f177f1f73ec90716c81b770d12cfee1742.600x338.jpg?t=1769825530",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1781430/3fd536d5b6d1e1cc0404fb748c886298b3597d73/ss_3fd536d5b6d1e1cc0404fb748c886298b3597d73.600x338.jpg?t=1769825530",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1781430/8140344d5ca90c60c6ff68da09386b0a792b8c19/ss_8140344d5ca90c60c6ff68da09386b0a792b8c19.600x338.jpg?t=1769825530",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1781430/f9d1a03006a9990ff90ad8a02376962393633f25/ss_f9d1a03006a9990ff90ad8a02376962393633f25.600x338.jpg?t=1769825530",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1781430/916dde9a848f64d7f0ddc11da3540af1d8942445/ss_916dde9a848f64d7f0ddc11da3540af1d8942445.600x338.jpg?t=1769825530"
-  ],
-  "detailed_description": "<h1>READ BEFORE PURCHASING</h1><p><strong>***IMPORTANT PLEASE READ***</strong><br><br>NotiVR only works with Android phones. iOS support is not available yet, do not purchase if you have an iPhone. See system requirements for more information.</p><br><h1>About the Software</h1><p class=\"bb_paragraph\" >NotiVR allows you to wirelessly sync your Android phone's notifications to your SteamVR compatible headset.</p><p class=\"bb_paragraph\" >Using NotiVR you can see a live feed of notifications from your Android and reply to messages without removing your headset <i>(support may vary per app)</i></p><p class=\"bb_paragraph\" >Setup is simple, just download the NotiVR Android app and scan the pairing code. Your phone will automatically send any notifications to SteamVR. You can view, reply to notifications and configure the app at any time via the SteamVR dashboard. </p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Seamless notification mirroring from your Android device </p></li><li><p class=\"bb_paragraph\" >Reply to texts from most messaging apps entirely in headset (Android 7.0+ required, support may vary per app)</p></li><li><p class=\"bb_paragraph\" >Fully customisable notification overlay</p></li><li><p class=\"bb_paragraph\" >Option to use XSOverlay notifications (Requires purchase of XSOverlay) </p></li><li><p class=\"bb_paragraph\" >Desktop control panel with notification history and pairing controls </p></li></ul>",
-  "about_the_game": "<p class=\"bb_paragraph\" >NotiVR allows you to wirelessly sync your Android phone's notifications to your SteamVR compatible headset.</p><p class=\"bb_paragraph\" >Using NotiVR you can see a live feed of notifications from your Android and reply to messages without removing your headset <i>(support may vary per app)</i></p><p class=\"bb_paragraph\" >Setup is simple, just download the NotiVR Android app and scan the pairing code. Your phone will automatically send any notifications to SteamVR. You can view, reply to notifications and configure the app at any time via the SteamVR dashboard. </p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Seamless notification mirroring from your Android device </p></li><li><p class=\"bb_paragraph\" >Reply to texts from most messaging apps entirely in headset (Android 7.0+ required, support may vary per app)</p></li><li><p class=\"bb_paragraph\" >Fully customisable notification overlay</p></li><li><p class=\"bb_paragraph\" >Option to use XSOverlay notifications (Requires purchase of XSOverlay) </p></li><li><p class=\"bb_paragraph\" >Desktop control panel with notification history and pairing controls </p></li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 10,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 80.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 88.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 80.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

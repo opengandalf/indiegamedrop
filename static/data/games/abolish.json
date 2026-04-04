@@ -3,8 +3,8 @@
   "name": "Abolish",
   "slug": "abolish",
   "developer": "Abolish",
-  "publisher": "Abolish",
-  "release_date": "Oct 22, 2024",
+  "publisher": "",
+  "release_date": "2024-10-22",
   "price_usd": 39.99,
   "genres": [
     "Adventure",
@@ -19,30 +19,13 @@
   ],
   "short_description": "This is a delightful pixel-style adventure game set in a world of yellow land and blue sky, where you embark on an adventure as a Corgi puppy.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3270210/header.jpg?t=1729643466",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3270210/ss_abf68de583969573b02ea339f0595153bc76864e.600x338.jpg?t=1729643466",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3270210/ss_d58fd0dfb1dbdd45b46e2826c8103dd4a1d0eaa8.600x338.jpg?t=1729643466",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3270210/ss_dbd65242adb38de2cebfd2679b012a29fa857d80.600x338.jpg?t=1729643466",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3270210/ss_a4fb29def4c14046d810ba9b932f605467cbbbcb.600x338.jpg?t=1729643466",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3270210/ss_509afa9f5afb543442904658f9aa517cb4bc47e5.600x338.jpg?t=1729643466"
-  ],
-  "detailed_description": "This is a delightful pixel-style adventure game set in a world of yellow land and blue sky, where you embark on an adventure as a Corgi puppy. Use the WASD keys for movement, the space bar to jump, and a left click to attack. The background music is lively, with unique sound effects accompanying every leap. In this game, you must battle various monsters and collect sun-shaped gold coins to increase your score. Ladders are scattered throughout the level, allowing you to climb up or down with the WS keys, utilizing terrain for jumps. Your health bar is displayed in the upper left corner, and you can pick up items to restore health or add extra time to the game.",
-  "about_the_game": "This is a delightful pixel-style adventure game set in a world of yellow land and blue sky, where you embark on an adventure as a Corgi puppy. Use the WASD keys for movement, the space bar to jump, and a left click to attack. The background music is lively, with unique sound effects accompanying every leap. In this game, you must battle various monsters and collect sun-shaped gold coins to increase your score. Ladders are scattered throughout the level, allowing you to climb up or down with the WS keys, utilizing terrain for jumps. Your health bar is displayed in the upper left corner, and you can pick up items to restore health or add extra time to the game.",
-  "supported_languages": "Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

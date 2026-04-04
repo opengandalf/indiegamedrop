@@ -3,8 +3,8 @@
   "name": "Mugen Sweeper",
   "slug": "mugen-sweeper",
   "developer": "YUSEI NAKAMURA",
-  "publisher": "YUSEI NAKAMURA",
-  "release_date": "Jul 16, 2023",
+  "publisher": "",
+  "release_date": "2023-07-16",
   "price_usd": 5.99,
   "genres": [
     "Casual",
@@ -19,32 +19,9 @@
   ],
   "short_description": "Evolved minesweeper. Infinitely zoomable board. Portal gimmick.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2490420/header.jpg?t=1692943089",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2490420/ss_fadc9158b6f83a6b55326df96aa834ac2e7d9357.600x338.jpg?t=1692943089",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2490420/ss_d46acaa07f01812f83197e054749b440ff424477.600x338.jpg?t=1692943089",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2490420/ss_0c562877c475c010f748fc7126f61d3118fd97bb.600x338.jpg?t=1692943089",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2490420/ss_0041863b61144c880776ffe2d82ea099f4f985ca.600x338.jpg?t=1692943089",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2490420/ss_4fdab1bd692424dbcba7f6b6c52811bbbef7a4f0.600x338.jpg?t=1692943089"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >This Game Is An Evolution Of Minesweeper.</h2>The Minesweeper board is further spread inside and outside the Minesweeper.<br>No matter how much you zoom in on the inner board, the board will appear further inside.<br>Also, the presence of portals will further confuse your brain.<br>If you like Minesweeper, you should definitely play this game!<br><br><br>【About the Portal】<br><br>The game features a portal-based gimmick.<br>There are red and blue portals, with one or more blue portals connected to one red portal.<br>Zooming inside a blue portal will bring you out of the red portal.<br>However, you will not come out of the red portal into the blue portal. If you zoom in inside a red portal, you will emerge from the red portal.<br><br><br>【About Chording】<br><br>A system that opens all other safety squares at once when flags are placed in all surrounding mine squares.<br>We decided not to implement Chording in this game because it would have significantly reduced the difficulty level of the game.<br><br><br>【First click】<br><br>The first square clicked is always a safe square and no mines will be stepped on. However, since there are many adjacent squares in this game, making even adjacent squares safe may result in extremely biased mine locations, so only the first square clicked is guaranteed safe.<br><br><br>【Hint type】<br><br>You can choose two types of numbers to indicate the number of mines.<br><br>Normal type: indicates the number of mines in the surrounding area.<br>Subtraction type: indicates the number of surrounding mines minus the number of surrounding flags.<br><br><strong>The subtraction type is recommended for beginners because it simplifies the game, but it should only be used for levels that cannot be cleared by any means because it drastically reduces the difficulty level.</strong>",
-  "about_the_game": "<h2 class=\"bb_tag\" >This Game Is An Evolution Of Minesweeper.</h2>The Minesweeper board is further spread inside and outside the Minesweeper.<br>No matter how much you zoom in on the inner board, the board will appear further inside.<br>Also, the presence of portals will further confuse your brain.<br>If you like Minesweeper, you should definitely play this game!<br><br><br>【About the Portal】<br><br>The game features a portal-based gimmick.<br>There are red and blue portals, with one or more blue portals connected to one red portal.<br>Zooming inside a blue portal will bring you out of the red portal.<br>However, you will not come out of the red portal into the blue portal. If you zoom in inside a red portal, you will emerge from the red portal.<br><br><br>【About Chording】<br><br>A system that opens all other safety squares at once when flags are placed in all surrounding mine squares.<br>We decided not to implement Chording in this game because it would have significantly reduced the difficulty level of the game.<br><br><br>【First click】<br><br>The first square clicked is always a safe square and no mines will be stepped on. However, since there are many adjacent squares in this game, making even adjacent squares safe may result in extremely biased mine locations, so only the first square clicked is guaranteed safe.<br><br><br>【Hint type】<br><br>You can choose two types of numbers to indicate the number of mines.<br><br>Normal type: indicates the number of mines in the surrounding area.<br>Subtraction type: indicates the number of surrounding mines minus the number of surrounding flags.<br><br><strong>The subtraction type is recommended for beginners because it simplifies the game, but it should only be used for levels that cannot be cleared by any means because it drastically reduces the difficulty level.</strong>",
-  "supported_languages": "English, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 15,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 53.3,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -52,89 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 15,
-      "review_percentage": 53.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 15,
-      "review_percentage": 53.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
-      "review_count": 15,
-      "review_percentage": 53.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
-      "review_count": 15,
-      "review_percentage": 53.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
-      "review_count": 15,
-      "review_percentage": 53.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
-      "review_count": 15,
-      "review_percentage": 53.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
-      "review_count": 15,
-      "review_percentage": 53.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-29",
-      "review_count": 15,
-      "review_percentage": 53.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
-      "review_count": 15,
-      "review_percentage": 53.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
-      "review_count": 15,
-      "review_percentage": 53.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-01",
-      "review_count": 15,
-      "review_percentage": 53.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 15,
       "review_percentage": 53.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

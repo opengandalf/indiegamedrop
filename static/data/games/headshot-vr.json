@@ -3,8 +3,8 @@
   "name": "Headshot VR",
   "slug": "headshot-vr",
   "developer": "VR Studio",
-  "publisher": "VR Studio",
-  "release_date": "Jul 12, 2020",
+  "publisher": "",
+  "release_date": "2020-07-12",
   "price_usd": 29.99,
   "genres": [
     "Action",
@@ -19,46 +19,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Remember the days of online shooters, remember sleepless nights in computer clubs, emotions, adrenaline, rapture and rage. The multiplayer shooter HeadShotVR will immerse you in a dynamic atmosphere of virtual reality using the HTC Vive.",
+  "short_description": "Remember the days of online shooters, remember sleepless nights in computer clubs, emotions, adrenaline, rapture and rage. The multiplayer shooter HeadShotVR will immerse you in a dynamic atmosphere o",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/903710/header.jpg?t=1656678269",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/903710/ss_293b939d34c435b01622134eb54e4da3bfd5867b.600x338.jpg?t=1656678269",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/903710/ss_95c1c285f3b55f161405bb4d043c270448bd5016.600x338.jpg?t=1656678269",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/903710/ss_afa5ec26893448fbf1136c4f1c55a8345fe61f10.600x338.jpg?t=1656678269",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/903710/ss_78c653076fab09183cdb8259bd2e65b8d54b2377.600x338.jpg?t=1656678269",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/903710/ss_1e6e3504a5401784608e0609469baf60685e80e3.600x338.jpg?t=1656678269",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/903710/ss_3abfea9c6cf00eb27325bf6e5378197b293366d2.600x338.jpg?t=1656678269",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/903710/ss_070f503495013e34b0ecf8e3e608fc70f1e33074.600x338.jpg?t=1656678269",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/903710/ss_ac2ae3ae84d28b4a143d680944a8354447002818.600x338.jpg?t=1656678269",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/903710/ss_fabba99856a0315021e5d15c3190e0607d2c57a4.600x338.jpg?t=1656678269"
-  ],
-  "detailed_description": "<h1>Update Notes</h1><p><h2 class=\"bb_tag\" >03/19/2019 1.0 RC1 UPDATE</h2><strong>Added:</strong><br><ul class=\"bb_ul\"><li>Localization (English, Russian, Chinese, German, Spanish)<br></li><li>New 3D-design of the main menu<br></li><li>New design of other menus<br></li><li>Music on the menu<br></li><li>Transitions between screens in the form of white balls<br></li><li>The sound of a passing bullet<br></li><li>Particles at steps<br></li><li>Effect - Particles on character respawn<br></li><li>Displays the last shots that caused the player to die<br></li><li>Death Camera<br></li><li>Spectator camera - after death, you can fly over the stage and watch it<br></li><li></li></ul><strong>Improved:</strong><br><ul class=\"bb_ul\"><li>New sounds<br></li><li>Plume from the shot<br></li><li>The head is now fixed in size, without affecting the character’s scale.<br></li><li>Green marks on gun sights to facilitate aiming<br></li><li>Shotgun and sniper reload with one hand<br></li><li>Reduced damage when shooting bots<br></li><li>Changing the aiming logic<br></li><li>2 times faster reload<br></li><li>Smooth sniper rifle rendering<br></li><li>Sniper rifle now works on both eyes</li></ul><br><strong>Fixed:</strong><br><ul class=\"bb_ul\"><li>Game freezes when exiting<br></li><li>Random reloads at the end of the sprint<br></li><li>Many minor fixes</li></ul><br><br>01/25/2019 <strong>First (almost first) 2019 v0.7 (and v0.8) update<br>v0.8<br>Added:<br><ul class=\"bb_ul\"><li>A prematch and a mini game for shooting targets while waiting for players<br></li><li>The count of players running the game<br></li><li>Notification when someone joined the battle</li></ul>Fixed:<br><ul class=\"bb_ul\"><li>Minor bug fixes</li></ul><br>v0.7 <br>Added:<br>- Turn methods in the settings<br>Fixed:<br>- Some spawn issues<br><br>12/29/2018 <strong>Last 2018 v0.5.3 Update</strong><br><br>Our latest in 2018 minor update. <br><br>Fixed:<br><ul class=\"bb_ul\"><li>Big shots particles <br></li><li>Rendering sniper scope<br></li><li>Recharge and shooting when you hover the second hand on the menu</li></ul>Improved:<br><ul class=\"bb_ul\"><li>Partial optimization</li></ul><br>Stay with us in the new 2019!<br>Write about all the flaws and bugs in the Discord or discussion.<br><br>12/25/2018 <strong>Fast v0.5.2 Update</strong><h2 class=\"bb_tag\" >In this update:</h2><br>Fixed:<br><ul class=\"bb_ul\"><li>Fixed bot trajectories<br></li><li>Fixed a case of a hand in two holsters simultaneously<br></li><li>Excluded random jumps<br></li><li>Fixed interfering helmet during the sprint</li></ul>Improved:<br><ul class=\"bb_ul\"><li>Added spawn zones for game mode with bots</li></ul>Added:<br><ul class=\"bb_ul\"><li>Added models of controllers in the menu</li></ul><br><br>12/22/2018 <strong>Oops v0.5.1 update</strong><br>hot fix bug update<br><br>12/22/2018 <strong>v0.5 New game modes, new map ... </strong><h2 class=\"bb_tag\" >The current update brought the following changes to our game:</h2>Added:<br><ul class=\"bb_ul\"><li>New game modes Bomb, TeamBattle<br></li><li>Added match mode selection (first select the mode, then the map)<br></li><li>New \"Town\" map<br></li><li>New “Tutorial” map</li></ul>Improved:<br><ul class=\"bb_ul\"><li>Changed the Team Deathmatch game mode <br></li><li>Match duration in all multiplayer mode games - 5 minutes<br></li><li>Changed \"Tutorial\" location<br></li><li>Changed Tutorial mode (changed learning logic)<br></li><li>Changed the Shooting range mode, only one mode, but you can already shoot at targets and choose a weapon</li></ul><br>12/08/2018 <strong>Our new small, but important update!</strong><br><br>v0.4<br><ul class=\"bb_ul\"><li>  Improved connection stability, the game does not fall when a player leaves the game.<br></li><li> About 10 fixed minor bugs</li></ul><br>In the new release there will be new modes and long-awaited support for Oculus!<br><br>11/30/2018 Today we published the next update! We continue to work on improving the game!<h2 class=\"bb_tag\" ><strong>Attention</strong> to changes in control mode!</h2><ul class=\"bb_ul\"><li> For the sprint, now you need to lower the weapon while moving.<br></li><li> To take a weapon with two hands you need to press the grip<br></li><li> Rotate 90 degrees by swipe</li></ul><br><strong>v0.3</strong><br><br><u>Fixed:</u><br><ul class=\"bb_ul\"><li> Wrong calculation of turning a two-handed weapon<br></li><li> Movement limits set for Heist map<br></li><li> The focus-beam for taking weapons is now shown in the right direction when using two-handed weapons<br></li><li> In tutorial mode, it is shown that the hand in the trigger (in a holster)<br></li><li> Checked and corrected sounds when recharging<br></li><li> Fixed work with grenades<br></li><li> Fixed the direction of a grenade when moving a character<br></li><li> Fixed mark of a bullet on the shield<br></li><li> Fixed the drop-down menu (increased letters)<br></li><li> Fixed wirst band menu work when reloading<br></li><li> Fixed work with the trigger of grenades and pistols in the gun-stock input mode</li></ul><br><u>Added:</u><br><ul class=\"bb_ul\"><li> Added player names (from Steam) over characters head<br></li><li> The icon is shown that the hand is in an empty trigger (in a holster)<br></li><li> Height calibration button appeared in the character settings menu<br></li><li> Added control type selection to settings (Gun-stock/Controllers input)</li></ul><br><u>Improved:</u><br><ul class=\"bb_ul\"><li> Changed shield hold<br></li><li> Accelerated lifting weapons after the sprint<br></li><li> Rotate 90 degrees by swipe<br></li><li> The menu indicator on the wirst band is made opaque<br></li><li> Improved work with the wirst band menu<br></li><li> Now grip is used to hold two-handed weapons<br></li><li> Changed the settings of the Shooting range. Removed unnecessary labels and settings. Added wirst band menu<br></li><li> Names of weapons changed to icons</li></ul><br><strong>Update 1. 11.15.2018<br><br>bugfixes</strong><br>- Slots setting: added default settings<br>- You can choose a random map when creating offline games<br>- Changed control for jumps and sprints<br>- Small settings window in the menu<br>- Removed the window for selecting the resolution of the game when the application starts<br>- Grenades now damage players<br>- Removed non-moved models remaining on the map<br>- Fixed reload triggers when running and climbing<br>- Now the server name corresponds to the user who created the game<br>- The game score is now always near the timer.<br><br>Trailer>>> in the next update:<br>- new game modes (with bomb, teammatch without respouns)<br>- bugfixes</p><br><h1>About the Game</h1>Remember the days of online shooters, remember sleepless nights in computer clubs, emotions, adrenaline, rapture and rage.<br>The multiplayer shooter Headshot VR will immerse you in a dynamic atmosphere of virtual reality using the HTC Vive.<br>Features:<br>- multiplayer game mode 5x5<br>- communication with players (you can talk with players)<br>- choice of 3 (currently) maps<br>- a choice of 7 weapons<br>- control with weapons when using layouts<br>- shooting mode<br><br><strong>Gamers, this is a beta test, an early access game! Please understand the bugs and write to us when you find them.</strong><br>Many issues have already been resolved, changes will be published in the next build. Build is being tested in Steam.<br>Write here:<br><br><br>Our new game is coming out soon.<br></strong>",
-  "about_the_game": "Remember the days of online shooters, remember sleepless nights in computer clubs, emotions, adrenaline, rapture and rage.<br>The multiplayer shooter Headshot VR will immerse you in a dynamic atmosphere of virtual reality using the HTC Vive.<br>Features:<br>- multiplayer game mode 5x5<br>- communication with players (you can talk with players)<br>- choice of 3 (currently) maps<br>- a choice of 7 weapons<br>- control with weapons when using layouts<br>- shooting mode<br><br><strong>Gamers, this is a beta test, an early access game! Please understand the bugs and write to us when you find them.</strong><br>Many issues have already been resolved, changes will be published in the next build. Build is being tested in Steam.<br>Write here:<br><br><br>Our new game is coming out soon.<br>",
-  "supported_languages": "English, German, Spanish - Spain, Simplified Chinese, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Co-op",
-    "Online Co-op",
-    "Steam Achievements",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 84,
-  "review_positive": 58,
+  "review_positive": 0,
   "review_percentage": 69.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -66,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 84,
-      "review_percentage": 69.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 84,
       "review_percentage": 69.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

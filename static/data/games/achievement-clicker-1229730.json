@@ -3,8 +3,8 @@
   "name": "Achievement Clicker",
   "slug": "achievement-clicker-1229730",
   "developer": "Barlow Studio",
-  "publisher": "Barlow Studio",
-  "release_date": "Feb 11, 2020",
+  "publisher": "",
+  "release_date": "2020-02-11",
   "price_usd": 0.99,
   "genres": [
     "Casual"
@@ -19,36 +19,15 @@
   ],
   "short_description": "Achievement Clicker is a simple clicker game. All you need to do is click the trophy to get points and earn amazing achievements",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229730/header.jpg?t=1589937716",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229730/ss_33c629c2c30a021892b5f28422063bf6cdd41f8a.600x338.jpg?t=1589937716",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229730/ss_58182fa9c4c735c4200f684a36b66fd3f8d5bbc1.600x338.jpg?t=1589937716",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229730/ss_507b816a2c46914c315cda53aa52bdd9a4579a33.600x338.jpg?t=1589937716",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229730/ss_dd9a32da587d598de85d0b14bbec97a205950d5f.600x338.jpg?t=1589937716",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229730/ss_0e319449d67500bb17dbbe63a288e0b650e1e941.600x338.jpg?t=1589937716",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229730/ss_c5fe13f81d6940998198f5402c81763fa12bc721.600x338.jpg?t=1589937716",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229730/ss_836ca4d88d43350f8ce455a1b857d500dc6bd8b1.600x338.jpg?t=1589937716"
-  ],
-  "detailed_description": "Achievement Clicker is a simple clicker game. All you need to do is click the trophy to get points and earn amazing achievements<br />\r\n<br />\r\nFeatures:<br />\r\n- Nice Achievements<br />\r\n- Cool OST<br />\r\n- Simple Gameplay<br />\r\n- Discord Rich Presence",
-  "about_the_game": "Achievement Clicker is a simple clicker game. All you need to do is click the trophy to get points and earn amazing achievements<br />\r\n<br />\r\nFeatures:<br />\r\n- Nice Achievements<br />\r\n- Cool OST<br />\r\n- Simple Gameplay<br />\r\n- Discord Rich Presence",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Stats",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 3.7,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 74,
-  "review_positive": 42,
+  "review_positive": 0,
   "review_percentage": 56.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 70,
-      "review_percentage": 55.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 74,
       "review_percentage": 56.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

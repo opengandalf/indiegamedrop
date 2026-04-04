@@ -3,8 +3,8 @@
   "name": "Bubbbles",
   "slug": "bubbbles",
   "developer": "Ben Olding Games",
-  "publisher": "Indie Clique, Clique Games",
-  "release_date": "Dec 5, 2022",
+  "publisher": "",
+  "release_date": "2022-12-05",
   "price_usd": 2.49,
   "genres": [
     "Casual",
@@ -17,38 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Bubbbles is a casual VR puzzle game where you'll need to get to the core of a pile of bubb(b)les! Match the correct color / texture bubbles to remove all similar touching bubbles while more fly in from the sky to throw you off.",
+  "short_description": "Bubbbles is a casual VR puzzle game where you'll need to get to the core of a pile of bubb(b)les! Match the correct color / texture bubbles to remove all similar touching bubbles while more fly in fro",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130170/header.jpg?t=1670264829",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130170/ss_c135d3e032ff73eda1b9ab3803ed60aa185748f2.600x338.jpg?t=1670264829",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130170/ss_724f9ce6ea61c8b28b61befd394d6110bb651f36.600x338.jpg?t=1670264829",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130170/ss_b34ba5294aa735de6d3aa9b887ecaa2c53fbe862.600x338.jpg?t=1670264829",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130170/ss_2d100574c52d49b2e72c828d09800637c94aae2a.600x338.jpg?t=1670264829",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130170/ss_0a990479ecc8b5e036532f96586e2c25e36bb99a.600x338.jpg?t=1670264829",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130170/ss_7f3316eee78dc2cc9df372b20fcc171b85762c09.600x338.jpg?t=1670264829",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130170/ss_ccbb30426f02dc5f3c11c0bc1d638a1407bd96ea.600x338.jpg?t=1670264829"
-  ],
-  "detailed_description": "Bubbbles is a casual VR puzzle game where you'll need to get to the core of a pile of bubb(b)les! Match the correct color / texture bubbles to remove all similar touching bubbles while more fly in from the sky to throw you off. <br><br><strong>Features:</strong><br>-Bubble Popping in VR<br>-20 Different Levels<br>-Powerups<br>-Realistic Physics<br>-Scaling Difficulty",
-  "about_the_game": "Bubbbles is a casual VR puzzle game where you'll need to get to the core of a pile of bubb(b)les! Match the correct color / texture bubbles to remove all similar touching bubbles while more fly in from the sky to throw you off. <br><br><strong>Features:</strong><br>-Bubble Popping in VR<br>-20 Different Levels<br>-Powerups<br>-Realistic Physics<br>-Scaling Difficulty",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 5,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

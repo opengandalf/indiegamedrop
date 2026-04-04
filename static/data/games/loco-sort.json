@@ -3,8 +3,8 @@
   "name": "Loco-Sort",
   "slug": "loco-sort",
   "developer": "Fernando Martins",
-  "publisher": "Fernando Martins",
-  "release_date": "Nov 14, 2023",
+  "publisher": "",
+  "release_date": "2023-11-14",
   "price_usd": 5.99,
   "genres": [
     "Indie"
@@ -15,59 +15,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Loco-Sort is a puzzle-solving indie game, set in the railroads of the 1880s America. You control a small locomotive with the goal of assembling a train by sorting several numbered railroad cars across a maze of rail tracks and switches. 30 challenging levels, 9 playable locomotives and much more!",
+  "short_description": "Loco-Sort is a puzzle-solving indie game, set in the railroads of the 1880s America. You control a small locomotive with the goal of assembling a train by sorting several numbered railroad cars across",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/097f349542f2227940ffbfa74f893ed6055b460a/header.jpg?t=1772790015",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/6678dd8c56a57810818c1a0cd5e7521a6682b53a/ss_6678dd8c56a57810818c1a0cd5e7521a6682b53a.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/311dc02fab7043c26eb4113a51593aae8e9567da/ss_311dc02fab7043c26eb4113a51593aae8e9567da.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/49d5924bce9cee53c549ddf77bc43621c52a7b95/ss_49d5924bce9cee53c549ddf77bc43621c52a7b95.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/3c1e0f1c713c781fd535acfa02cc32a2b848ea65/ss_3c1e0f1c713c781fd535acfa02cc32a2b848ea65.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/62fc19d2296bcd3c71f0581567a480dcbcd5689f/ss_62fc19d2296bcd3c71f0581567a480dcbcd5689f.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/ba5398f50abc62c1ee1219a79b5dcbe9b92014e8/ss_ba5398f50abc62c1ee1219a79b5dcbe9b92014e8.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/7dd1e200fe776cd61f07802d75737e74003ae99e/ss_7dd1e200fe776cd61f07802d75737e74003ae99e.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/e6c6059de75aac7087289a9be4913d8d4c0e0636/ss_e6c6059de75aac7087289a9be4913d8d4c0e0636.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/79acfabddafeceff3155760bd76dfc0f9c4ab86d/ss_79acfabddafeceff3155760bd76dfc0f9c4ab86d.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/2fb1301e6f3c950a2d6def2790051bdabbc68a1b/ss_2fb1301e6f3c950a2d6def2790051bdabbc68a1b.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/900c7f17fe8c14a29878004e1b305f0d1dcf05db/ss_900c7f17fe8c14a29878004e1b305f0d1dcf05db.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/c8ca79bb2b08bc1dec4fd91bd565298876958a9f/ss_c8ca79bb2b08bc1dec4fd91bd565298876958a9f.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/68e3dd08b42d934e020ca2ae1045269aa7d751e6/ss_68e3dd08b42d934e020ca2ae1045269aa7d751e6.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/99979c0f68e5a03952cfe60015859ddb2a06c7fa/ss_99979c0f68e5a03952cfe60015859ddb2a06c7fa.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/4fcb8297d2cd1d12b18af886a77ba5b2b192acf4/ss_4fcb8297d2cd1d12b18af886a77ba5b2b192acf4.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/b0f9428c58f8908143262d08a5ed44bec242ea53/ss_b0f9428c58f8908143262d08a5ed44bec242ea53.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/87e730f0ed18001db10b78479844242a2bf62473/ss_87e730f0ed18001db10b78479844242a2bf62473.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/59af73f950431aa87f742c1192c2ef26c2d25266/ss_59af73f950431aa87f742c1192c2ef26c2d25266.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/46164a42e4d1fd97dff7b38dc7a461864576bbdc/ss_46164a42e4d1fd97dff7b38dc7a461864576bbdc.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/ffb123c2f65e090173e0b0bdd0df0dc0db5506b7/ss_ffb123c2f65e090173e0b0bdd0df0dc0db5506b7.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/e3b8cdf04dc35ec445dbe0ccee6f17475ee0cfdb/ss_e3b8cdf04dc35ec445dbe0ccee6f17475ee0cfdb.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/1f8d07ee0bdd1bd11ff885a6d6a2fe3dec643ad5/ss_1f8d07ee0bdd1bd11ff885a6d6a2fe3dec643ad5.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/768c9d058590b5e844a5b0c05548e5ddcae60952/ss_768c9d058590b5e844a5b0c05548e5ddcae60952.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/36992465a073d4051fa7891a44e8649f79c1227c/ss_36992465a073d4051fa7891a44e8649f79c1227c.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/3b8abf00abad685d0561ef458de58908f7f5ba06/ss_3b8abf00abad685d0561ef458de58908f7f5ba06.600x338.jpg?t=1772790015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/494dc92412aee70e0ceadc15df99b10fff7ec356/ss_494dc92412aee70e0ceadc15df99b10fff7ec356.600x338.jpg?t=1772790015"
-  ],
-  "detailed_description": "Loco-Sort is a puzzle-solving indie game, set in the railroads of the 1880s America. You are the unsung hero of the railroads, the yard engineer, that has the important goal of assembling trains.<br><br>Across 30 challenging levels spanning the wide variety of America's greatest landscapes: from the Grand Canyon to the Rocky Mountains, from Monument Valley to the Florida Keys. Play, during the railroads golden age, through forests, deserts, lakes, swamps, frontier towns and much more!<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/extras/f2f9b0a90b85c2414a3812951a7d2a65.avif?t=1772790015\" width=616 height=82 /></span><br><br>You control a small locomotive with the goal of coupling several railroad cars to a big locomotive across a maze of rail tracks and switches. Each car is numbered, and you have to couple them in ascending order: 1, 2, 3, 4, 5, etc. There are also secondary goals, like parking cars in a workshop or loading/unloading them in a factory or mine.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/extras/6ef1a7c6fd5ab4416f4d29e4272d4a8c.avif?t=1772790015\" width=616 height=112 /></span><br><br>The challenge is to accomplish all your goals under a certain amount of time. It may vary from a few minutes to 15 minutes. In the very last minute, you have a chance to get some extra time.<br><br>But there is a lot more: get new locomotives, unlock paint jobs for them, upgrade their power and speed. While playing, use goodies that give special powers, turn the turntable around, light the locomotive's lantern to see into the darkness and even blow her steam whistle until your heart's content.<br><br>Are you ready to be the hero?<br><br><strong>Main Features:</strong><br><ul class=\"bb_ul\"><li>30 challenging levels + 3 tutorial levels<br></li><li>9 playable locomotives<br></li><li>7 paint jobs per locomotive<br></li><li>10 types of interactive structures connected to the railroad<br></li><li>21 types of railroad cars with several cargoes/liveries<br></li><li>Functional lantern in 5 of the playable locomotives (useful for night/dusk levels)<br></li><li>Functional whistle for all 9 playable locomotives (each one has her distinct whistle)<br></li><li>Functional turntable<br></li><li>Western/Country professional composed soundtrack with 163 songs<br></li><li>31 achievements + 2 hidden achievements<br></li><li>Leaderboard<br></li><li>Quick Reference Guide in PDF</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/extras/2bbb711db03105148e34ef0c1927f42c.avif?t=1772790015\" width=616 height=164 /></span><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/extras/e17ae64076dc9c491592569b7703758e.avif?t=1772790015\" width=616 height=180 /></span>",
-  "about_the_game": "Loco-Sort is a puzzle-solving indie game, set in the railroads of the 1880s America. You are the unsung hero of the railroads, the yard engineer, that has the important goal of assembling trains.<br><br>Across 30 challenging levels spanning the wide variety of America's greatest landscapes: from the Grand Canyon to the Rocky Mountains, from Monument Valley to the Florida Keys. Play, during the railroads golden age, through forests, deserts, lakes, swamps, frontier towns and much more!<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/extras/f2f9b0a90b85c2414a3812951a7d2a65.avif?t=1772790015\" width=616 height=82 /></span><br><br>You control a small locomotive with the goal of coupling several railroad cars to a big locomotive across a maze of rail tracks and switches. Each car is numbered, and you have to couple them in ascending order: 1, 2, 3, 4, 5, etc. There are also secondary goals, like parking cars in a workshop or loading/unloading them in a factory or mine.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/extras/6ef1a7c6fd5ab4416f4d29e4272d4a8c.avif?t=1772790015\" width=616 height=112 /></span><br><br>The challenge is to accomplish all your goals under a certain amount of time. It may vary from a few minutes to 15 minutes. In the very last minute, you have a chance to get some extra time.<br><br>But there is a lot more: get new locomotives, unlock paint jobs for them, upgrade their power and speed. While playing, use goodies that give special powers, turn the turntable around, light the locomotive's lantern to see into the darkness and even blow her steam whistle until your heart's content.<br><br>Are you ready to be the hero?<br><br><strong>Main Features:</strong><br><ul class=\"bb_ul\"><li>30 challenging levels + 3 tutorial levels<br></li><li>9 playable locomotives<br></li><li>7 paint jobs per locomotive<br></li><li>10 types of interactive structures connected to the railroad<br></li><li>21 types of railroad cars with several cargoes/liveries<br></li><li>Functional lantern in 5 of the playable locomotives (useful for night/dusk levels)<br></li><li>Functional whistle for all 9 playable locomotives (each one has her distinct whistle)<br></li><li>Functional turntable<br></li><li>Western/Country professional composed soundtrack with 163 songs<br></li><li>31 achievements + 2 hidden achievements<br></li><li>Leaderboard<br></li><li>Quick Reference Guide in PDF</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/extras/2bbb711db03105148e34ef0c1927f42c.avif?t=1772790015\" width=616 height=164 /></span><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1740130/extras/e17ae64076dc9c491592569b7703758e.avif?t=1772790015\" width=616 height=180 /></span>",
-  "supported_languages": "English, Portuguese - Portugal, Portuguese - Brazil",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Stats",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 14,
-  "review_positive": 14,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -75,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 12,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 14,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

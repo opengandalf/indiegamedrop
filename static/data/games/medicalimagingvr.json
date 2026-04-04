@@ -3,8 +3,8 @@
   "name": "MedicalImagingVR",
   "slug": "medicalimagingvr",
   "developer": "hublab",
-  "publisher": "hublab",
-  "release_date": "Dec 18, 2020",
+  "publisher": "",
+  "release_date": "2020-12-18",
   "price_usd": 0.0,
   "genres": [
     "Indie",
@@ -21,32 +21,9 @@
   ],
   "short_description": "This educational game allows to learn about medical imaging, how to localize different regions in the human head.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1471980/header.jpg?t=1670186864",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1471980/ss_dfcf70be6ab707789acfbc4477651fc02ebbfb42.600x338.jpg?t=1670186864",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1471980/ss_7a3b71fa6bd748a2c2f28e1f122119b4aa068446.600x338.jpg?t=1670186864",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1471980/ss_f0a1f813ca520e1d27da43dcfaba473fc9d15e3e.600x338.jpg?t=1670186864",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1471980/ss_54643f0792073989e561912ceb73f73018f2651d.600x338.jpg?t=1670186864",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1471980/ss_3661ae9fbedd573081e04c5bb4130e0c1ff5d28a.600x338.jpg?t=1670186864"
-  ],
-  "detailed_description": "This application allows to display different medical imaging scans and to browse into the different slices within a virtual reality environment. CT (Computed Tomography) scans and MRI (magnetic resonance imaging) scans are both used to capture images within your body. The biggest difference is that MRIs use radio waves and CT scans use X-rays.<h2 class=\"bb_tag\" >Educational game</h2><ul class=\"bb_ul\"><li> Learn about the different regions of the head and their functions.<br></li><li> Learn how to navigate through medical imaging to localize different regions.</li></ul><h2 class=\"bb_tag\" >Use your own 3D data</h2><br>If you have your own 3D data, (images from DICOM files corresponding to MRI or CT scans), you can easily import your own files into the application to visualize them in VR.",
-  "about_the_game": "This application allows to display different medical imaging scans and to browse into the different slices within a virtual reality environment. CT (Computed Tomography) scans and MRI (magnetic resonance imaging) scans are both used to capture images within your body. The biggest difference is that MRIs use radio waves and CT scans use X-rays.<h2 class=\"bb_tag\" >Educational game</h2><ul class=\"bb_ul\"><li> Learn about the different regions of the head and their functions.<br></li><li> Learn how to navigate through medical imaging to localize different regions.</li></ul><h2 class=\"bb_tag\" >Use your own 3D data</h2><br>If you have your own 3D data, (images from DICOM files corresponding to MRI or CT scans), you can easily import your own files into the application to visualize them in VR.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 14,
-  "review_positive": 10,
+  "review_positive": 0,
   "review_percentage": 71.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 12,
-      "review_percentage": 83.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 14,
       "review_percentage": 71.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

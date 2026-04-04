@@ -3,8 +3,8 @@
   "name": "Conquest Reforged",
   "slug": "conquest-reforged",
   "developer": "Seraphall",
-  "publisher": "Seraphall",
-  "release_date": "Jul 1, 2024",
+  "publisher": "",
+  "release_date": "2024-07-01",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -19,41 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "A Casual Board-style Strategy game with a colorful pixel art Fantasy theme! Deploy units using your available energy, march them across the board and attempt to deal enough damage to your opponent's base to win!",
+  "short_description": "A Casual Board-style Strategy game with a colorful pixel art Fantasy theme! Deploy units using your available energy, march them across the board and attempt to deal enough damage to your opponent's b",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3030930/header.jpg?t=1722042350",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3030930/ss_466982e2e98cddeaf9d8f16930bf524b3f902477.600x338.jpg?t=1722042350",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3030930/ss_2ffcdc9c827ef9d00c7de138cb355807098954c2.600x338.jpg?t=1722042350",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3030930/ss_6efe05d7364ac9a8fbd0a696dc20b239c4b8c75d.600x338.jpg?t=1722042350",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3030930/ss_3988ce27141f8be2eaf9052c91639f7711b0437d.600x338.jpg?t=1722042350",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3030930/ss_b13fb32cc1709c0a9ee1f5d7544e1b3ba1f96fac.600x338.jpg?t=1722042350"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" ><u>Welcome to <strong>Conquest Reforged</strong>!</u></h2>What is <strong>Conquest Reforged</strong> you ask? It's a Casual Board-style Strategy game with a colorful pixel art Fantasy theme!<br><br>The objective is simple: Deploy units using your available energy, march them across the board and attempt to deal enough damage to your opponent's base to win!<br><br>Take advantage of the various unit traits and terrain types in order to execute a winning strategy!<br><br><strong>Features:</strong><br><ul class=\"bb_ul\"><li> 8 factions to choose from<br></li><li> Customizable Rules of Engagement<br></li><li> 6 preset maps, each with a handful of customizable tiles<br></li><li> A \"Completely Custom\" map where every tile can be customized, enabling you to create maps of your very own!<br></li><li> An in-game Guide which provides an overview of how to play, as well as references for Traits and Tile Types<br></li><li> Coming Soon: Single Player Campaign</li></ul><br><strong>**Please Note**</strong><br>The Multiplayer in this game is Local Multiplayer, which can be played \"Hot-Seat\" style on the same device, or by using Steam Remote Play Together to share your game instance. Only the Host needs to own a copy to invite others to play with them!",
-  "about_the_game": "<h2 class=\"bb_tag\" ><u>Welcome to <strong>Conquest Reforged</strong>!</u></h2>What is <strong>Conquest Reforged</strong> you ask? It's a Casual Board-style Strategy game with a colorful pixel art Fantasy theme!<br><br>The objective is simple: Deploy units using your available energy, march them across the board and attempt to deal enough damage to your opponent's base to win!<br><br>Take advantage of the various unit traits and terrain types in order to execute a winning strategy!<br><br><strong>Features:</strong><br><ul class=\"bb_ul\"><li> 8 factions to choose from<br></li><li> Customizable Rules of Engagement<br></li><li> 6 preset maps, each with a handful of customizable tiles<br></li><li> A \"Completely Custom\" map where every tile can be customized, enabling you to create maps of your very own!<br></li><li> An in-game Guide which provides an overview of how to play, as well as references for Traits and Tile Types<br></li><li> Coming Soon: Single Player Campaign</li></ul><br><strong>**Please Note**</strong><br>The Multiplayer in this game is Local Multiplayer, which can be played \"Hot-Seat\" style on the same device, or by using Steam Remote Play Together to share your game instance. Only the Host needs to own a copy to invite others to play with them!",
-  "supported_languages": "English, Portuguese - Brazil",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Shared/Split Screen",
-    "Steam Achievements",
-    "Includes level editor",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -61,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

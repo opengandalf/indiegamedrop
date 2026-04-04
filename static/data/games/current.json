@@ -3,8 +3,8 @@
   "name": "Current",
   "slug": "current",
   "developer": "LuteGames",
-  "publisher": "LuteGames",
-  "release_date": "Mar 15, 2019",
+  "publisher": "",
+  "release_date": "2019-03-15",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -19,33 +19,15 @@
   ],
   "short_description": "Current is a puzzle game for a couple of hours, where you have to bring all the platforms one level.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/827530/header.jpg?t=1621216753",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/827530/ss_a7cf2e32719ae677fe3e380c17b913ac1f7727de.600x338.jpg?t=1621216753",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/827530/ss_c9bf2ad934fd0dd3b9cb9b7024b31cc8aa8e3c63.600x338.jpg?t=1621216753",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/827530/ss_03c46bc109e13d154a7db8815460584857b8e83f.600x338.jpg?t=1621216753",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/827530/ss_4eab3d653782429e3942df7ada0ff714c9be92a4.600x338.jpg?t=1621216753",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/827530/ss_590bce7314f156f3f4245b228bcba089697b1bbb.600x338.jpg?t=1621216753"
-  ],
-  "detailed_description": "Current is a puzzle game for a couple of hours, where you have to bring all the platforms one level. Calm music, minimalistic graphics, clear riddles. Pure gameplay and problem solving, nothing more. Thanks for attention.",
-  "about_the_game": "Current is a puzzle game for a couple of hours, where you have to bring all the platforms one level. Calm music, minimalistic graphics, clear riddles. Pure gameplay and problem solving, nothing more. Thanks for attention.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.30000000000000004,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 6,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

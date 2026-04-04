@@ -3,8 +3,8 @@
   "name": "Sound Shift",
   "slug": "sound-shift",
   "developer": "Matthew Brown",
-  "publisher": "Matthew Brown",
-  "release_date": "Aug 26, 2015",
+  "publisher": "",
+  "release_date": "2015-08-26",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -21,67 +21,27 @@
   ],
   "short_description": "Sound Shift is a VJ style music visualiser mixed with a simple arcade shooter.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394140/header.jpg?t=1473099385",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394140/ss_f1f2797455d53f2b0a25f8a14fb6f46cecb688f2.600x338.jpg?t=1473099385",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394140/ss_17d4569b3f42dd5a37b51a4f0dde04b389726930.600x338.jpg?t=1473099385",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394140/ss_bdb61ad3d74155ff1c546dff93b20f7d7ff9e5df.600x338.jpg?t=1473099385",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394140/ss_2651102432e4cae086c5f4d249bd68cab3969062.600x338.jpg?t=1473099385",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394140/ss_d98f37819a8f4b92d8cc5d960a471b579a5ba1a2.600x338.jpg?t=1473099385",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394140/ss_63b27116f6205769231e9260ed0a0fa23dfffe47.600x338.jpg?t=1473099385",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394140/ss_160a24e5d7cef35dfd39b5314c4d9fb349a5245d.600x338.jpg?t=1473099385",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394140/ss_c03d98733801d394937fb71e09aef525c7e84da6.600x338.jpg?t=1473099385",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394140/ss_087893f0fe8232bf0b46e2e1980328a8d4a06a17.600x338.jpg?t=1473099385",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394140/ss_f54824fba25015a697dfbccacf4b8bc7d9c71372.600x338.jpg?t=1473099385",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394140/ss_ae482bd355b4bb4646eb2d0692d27574c07df260.600x338.jpg?t=1473099385"
-  ],
-  "detailed_description": "Sound Shift is a VJ style music visualiser mixed with a simple arcade shooter.<br />\r\n<br />\r\nShoot targets to earn credits which can be spent to unlock new videos and FX.<br />\r\n<br />\r\nMusic is streamed directly from your computer's audio output, so you can use sound from any source including on-line streaming services.",
-  "about_the_game": "Sound Shift is a VJ style music visualiser mixed with a simple arcade shooter.<br />\r\n<br />\r\nShoot targets to earn credits which can be spent to unlock new videos and FX.<br />\r\n<br />\r\nMusic is streamed directly from your computer's audio output, so you can use sound from any source including on-line streaming services.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 7.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 178,
-  "review_positive": 150,
+  "review_positive": 0,
   "review_percentage": 84.3,
   "owner_estimate": 35000,
-  "ccu_estimate": 1,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 71,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 171,
-      "review_percentage": 85.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
+      "date": "2026-04-04",
       "review_count": 178,
       "review_percentage": 84.3,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
-      "review_count": 178,
-      "review_percentage": 84.3,
-      "ccu_estimate": 1,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

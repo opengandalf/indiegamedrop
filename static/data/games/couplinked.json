@@ -3,8 +3,8 @@
   "name": "Couplinked",
   "slug": "couplinked",
   "developer": "VOX Studios",
-  "publisher": "VOX Studios",
-  "release_date": "Aug 17, 2021",
+  "publisher": "",
+  "release_date": "2021-08-17",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -20,64 +20,29 @@
     "windows",
     "linux"
   ],
-  "short_description": "Couplinked is an unforgiving, open source, action-arcade game with a unique control system. Steer two balls through treacherous obstacles while trying to collect rings for points. Play with up to three of your closest friends in local co-op for some ball-busting fun!",
+  "short_description": "Couplinked is an unforgiving, open source, action-arcade game with a unique control system. Steer two balls through treacherous obstacles while trying to collect rings for points. Play with up to thre",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404870/header.jpg?t=1698951442",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404870/ss_eb5c118fff1fc4b0e263e8a143da7a08f23857f0.600x338.jpg?t=1698951442",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404870/ss_fc58207bc20a113c2ddb744b5402dbffa7771513.600x338.jpg?t=1698951442",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404870/ss_5374d50b6bb8f48c44e0c2aabfe32838c1c6aa93.600x338.jpg?t=1698951442",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404870/ss_2c2c48e636ae1d5f3a421e9561c3f516c43fede6.600x338.jpg?t=1698951442",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404870/ss_b8af459da7f4d445076fca3d477b589c9aa909c9.600x338.jpg?t=1698951442"
-  ],
-  "detailed_description": "<h1>Couplinked is Open Source!</h1><p>Couplinked is now open source!  Click the \"Open Source\" button under the game's \"Socials\" menu to see the code!</p><br><h1>About the Game</h1>Couplinked is an unforgiving, open source, action-arcade game with a unique control system.  Steer two balls through treacherous obstacles while trying to collect rings for points.  Play with up to three of your closest friends in local co-op for some ball-busting fun!\r\n\r\nDid we mention that Couplinked is difficult?  Couplinked is DIFFICULT.  Your balls are connected by LASERS...at least in the game.  But don't worry!  With multiple gameplay modes, a custom level editor, and over fifty handcrafted campaign levels, your tears of frustration will soon be washed away by the pure joy of knowing that everyone else sucks too.  That's right.  You're not alone, champ.  We're here for you and we've got balls.  Through the good and the bad, the thick and the thin, rest assured, you'll probably only be crying for the first day or so.  It'll get better.  You know Couplinked will treat you right.  Awwww yeahhhhh.",
-  "about_the_game": "Couplinked is an unforgiving, open source, action-arcade game with a unique control system.  Steer two balls through treacherous obstacles while trying to collect rings for points.  Play with up to three of your closest friends in local co-op for some ball-busting fun!<br />\r\n<br />\r\nDid we mention that Couplinked is difficult?  Couplinked is DIFFICULT.  Your balls are connected by LASERS...at least in the game.  But don't worry!  With multiple gameplay modes, a custom level editor, and over fifty handcrafted campaign levels, your tears of frustration will soon be washed away by the pure joy of knowing that everyone else sucks too.  That's right.  You're not alone, champ.  We're here for you and we've got balls.  Through the good and the bad, the thick and the thin, rest assured, you'll probably only be crying for the first day or so.  It'll get better.  You know Couplinked will treat you right.  Awwww yeahhhhh.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Steam Achievements",
-    "Full controller support",
-    "Stats",
-    "Includes level editor",
-    "Remote Play on TV",
-    "Remote Play Together"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
-  "gem_score": 0.9302,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.1500000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 23,
-  "review_positive": 22,
+  "review_positive": 0,
   "review_percentage": 95.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 23,
-      "review_percentage": 95.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 23,
       "review_percentage": 95.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

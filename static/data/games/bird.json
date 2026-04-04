@@ -3,8 +3,8 @@
   "name": "Bird",
   "slug": "bird",
   "developer": "Meng Games",
-  "publisher": "Meng Games",
-  "release_date": "Feb 17, 2021",
+  "publisher": "",
+  "release_date": "2021-02-17",
   "price_usd": 0.49,
   "genres": [
     "Action",
@@ -25,36 +25,15 @@
   ],
   "short_description": "You are a bird, you are free in this small place, but you can't get out, all you can do is fly around.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1539580/header.jpg?t=1613604398",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1539580/ss_ba62b79652e5bc0caa8d78aaa6807741968b3c61.600x338.jpg?t=1613604398",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1539580/ss_c081894907af3566e9957854a2c9d73b79f38450.600x338.jpg?t=1613604398",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1539580/ss_ce3f172b2dcf1d4ed59affb60961faeddd1d31ef.600x338.jpg?t=1613604398",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1539580/ss_e7f8498a189a9a3b6f828b7dfcd6c1cb2517657f.600x338.jpg?t=1613604398",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1539580/ss_d41a765170ff34ed96c7cff0944905f7786f041c.600x338.jpg?t=1613604398"
-  ],
-  "detailed_description": "This is a relaxing game where you can experience flying as a bird in a small natural environment.<h2 class=\"bb_tag\" >Gameplay</h2><ul class=\"bb_ul\"><li>Control the bird to fly around.<br></li><li>Enjoy nature.<br></li><li>Select manual flight mode or automatic flight mode.</li></ul>",
-  "about_the_game": "This is a relaxing game where you can experience flying as a bird in a small natural environment.<h2 class=\"bb_tag\" >Gameplay</h2><ul class=\"bb_ul\"><li>Control the bird to fly around.<br></li><li>Enjoy nature.<br></li><li>Select manual flight mode or automatic flight mode.</li></ul>",
-  "supported_languages": "English, French, German, Spanish - Spain, Russian, Polish, Simplified Chinese, Portuguese - Brazil",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Cloud",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 826,
+  "screenshots": [],
   "rising_score": 0.0002,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 80.0,
+  "review_velocity_7d": 48.050000000000004,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 961,
-  "review_positive": 786,
+  "review_positive": 0,
   "review_percentage": 81.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +41,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 881,
-      "review_percentage": 82.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 961,
       "review_percentage": 81.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

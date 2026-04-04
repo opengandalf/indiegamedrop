@@ -3,8 +3,8 @@
   "name": "Spriter Pro",
   "slug": "spriter-pro",
   "developer": "BrashMonkey",
-  "publisher": "BrashMonkey",
-  "release_date": "Nov 14, 2014",
+  "publisher": "",
+  "release_date": "2014-11-14",
   "price_usd": 47.99,
   "genres": [
     "Animation & Modeling",
@@ -20,61 +20,23 @@
     "windows",
     "linux"
   ],
-  "short_description": "Spriter makes it easy for anyone, regardless of experience, to create 2D game animations using a technique called Modular Animation. Individual sprite pieces can be attached to bones and then easily animated with the powerful, yet easy to use toolset.",
+  "short_description": "Spriter makes it easy for anyone, regardless of experience, to create 2D game animations using a technique called Modular Animation. Individual sprite pieces can be attached to bones and then easily a",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332360/header.jpg?t=1667385572",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332360/ss_f2a58a24faad80d90b78e5e25f19d00492e32aae.600x338.jpg?t=1667385572",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332360/ss_d603e14d5bd3b49ecf74f84e5e21950f679f985c.600x338.jpg?t=1667385572",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332360/ss_211adea396adccac5fa582eddf436df642617758.600x338.jpg?t=1667385572",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332360/ss_3c16dc6dca5ce60e315de45b1bc119f0d9192805.600x338.jpg?t=1667385572",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332360/ss_241cae210c617c037f7312769291b1de0c92774a.600x338.jpg?t=1667385572",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332360/ss_692fcbbdfd751196e908384d60a7ed5c53543346.600x338.jpg?t=1667385572"
-  ],
-  "detailed_description": "<i>Spriter</i> makes it easy for anyone, <i>regardless of experience</i>, to create 2D game animations using a technique called <i>Modular Animation</i>.<br><br>Unlike traditional animation which requires each frame to be hand-drawn, <i>Spriter</i> animations are made of <i>individual sprite pieces</i>; these pieces can be rotated, transformed, and tweened along an animation timeline. This allows you to quickly create great looking animations in a fraction of the time while requiring significantly less art.<br><br><i>Spriter</i> also takes advantage of <i>skeletal animation</i>. Create a skeleton using the bone tool, attach images to each bone, and finally animate the bones with <i>Spriter's</i> vast array of user-friendly animation tools. The result: a fully animated sprite using your own graphics.<br><br>Spriter is great for animating characters, user interfaces, power-ups, combat animations and more! Even if you've never animated before, <i>Spriter</i> provides you with an easy to understand, yet powerful toolset allowing you to jump right in!<br><br>Spriter Pro includes the Essentials versions of all of our Animated Art Packs, free to use in any of your game projects. Once you install Spriter Pro It they will be located in the following location: <br><strong><i>/SteamApps/common/Spriter/Art Packs/Essentials</i></strong><h2 class=\"bb_tag\" ><strong>Key Features:</strong></h2><br><ul class=\"bb_ul\"><li>Using keyframes you can quickly lay out major frame changes. Frames in-between the keyframes are then automatically created. You can then edit individual frames as desired to make your animations really shine.<br></li><li>Animations can be exported as spritesheets, animated GIF files, sequential images and more.<br></li><li>Reuse your previous animations by incorporating them in new ones. Create perfect, smooth transitions and varieties that save time by working with animations you've already created.<br></li><li>Adjust animation easing with several curve settings to help make your animations more lifelike.<br></li><li>Create pixel perfect retro style animations with Pixel Art Mode.<br></li><li>Spawn bullets, particle effects, or anything that requires precise locations and angles.<br></li><li>Set up guide lines and load in background images to work on top of. <br></li><li>Seperate characters into important collision areas.<br></li><li>Inverse Kinematics.<br></li><li>Change a bone's parent, add or remove bones, or even change sprite pieces mid-animation.<br></li><li>Import sound effects and even use lip-syncing with built-in Papagayo support.</li></ul><h2 class=\"bb_tag\" ><strong>Use Animation Data Directly In Your Game:</strong></h2><br><ul class=\"bb_ul\"><li>Animations are recreated in real-time using the sprite piece images just like in Spriter. <br></li><li>Animations are much smoother and require drastically less memory as compared to sprite-sheets.<br></li><li>Manipulate animations via game events.<br></li><li>Reuse your animation data for completely new characters or character customizations. Perfect for characters who gain new clothing, equipment etc.<br><br>Spriter animations can be imported with full feature support in Unity and Construct 2.  There are also free, open source, fully featured reference implementations for using Spriter files in C#, C++, JavaScript, and MonoGame.  Spriter support on many more programming languages, frameworks, and game authoring tools coming soon!</li></ul>",
-  "about_the_game": "<i>Spriter</i> makes it easy for anyone, <i>regardless of experience</i>, to create 2D game animations using a technique called <i>Modular Animation</i>.<br><br>Unlike traditional animation which requires each frame to be hand-drawn, <i>Spriter</i> animations are made of <i>individual sprite pieces</i>; these pieces can be rotated, transformed, and tweened along an animation timeline. This allows you to quickly create great looking animations in a fraction of the time while requiring significantly less art.<br><br><i>Spriter</i> also takes advantage of <i>skeletal animation</i>. Create a skeleton using the bone tool, attach images to each bone, and finally animate the bones with <i>Spriter's</i> vast array of user-friendly animation tools. The result: a fully animated sprite using your own graphics.<br><br>Spriter is great for animating characters, user interfaces, power-ups, combat animations and more! Even if you've never animated before, <i>Spriter</i> provides you with an easy to understand, yet powerful toolset allowing you to jump right in!<br><br>Spriter Pro includes the Essentials versions of all of our Animated Art Packs, free to use in any of your game projects. Once you install Spriter Pro It they will be located in the following location: <br><strong><i>/SteamApps/common/Spriter/Art Packs/Essentials</i></strong><h2 class=\"bb_tag\" ><strong>Key Features:</strong></h2><br><ul class=\"bb_ul\"><li>Using keyframes you can quickly lay out major frame changes. Frames in-between the keyframes are then automatically created. You can then edit individual frames as desired to make your animations really shine.<br></li><li>Animations can be exported as spritesheets, animated GIF files, sequential images and more.<br></li><li>Reuse your previous animations by incorporating them in new ones. Create perfect, smooth transitions and varieties that save time by working with animations you've already created.<br></li><li>Adjust animation easing with several curve settings to help make your animations more lifelike.<br></li><li>Create pixel perfect retro style animations with Pixel Art Mode.<br></li><li>Spawn bullets, particle effects, or anything that requires precise locations and angles.<br></li><li>Set up guide lines and load in background images to work on top of. <br></li><li>Seperate characters into important collision areas.<br></li><li>Inverse Kinematics.<br></li><li>Change a bone's parent, add or remove bones, or even change sprite pieces mid-animation.<br></li><li>Import sound effects and even use lip-syncing with built-in Papagayo support.</li></ul><h2 class=\"bb_tag\" ><strong>Use Animation Data Directly In Your Game:</strong></h2><br><ul class=\"bb_ul\"><li>Animations are recreated in real-time using the sprite piece images just like in Spriter. <br></li><li>Animations are much smoother and require drastically less memory as compared to sprite-sheets.<br></li><li>Manipulate animations via game events.<br></li><li>Reuse your animation data for completely new characters or character customizations. Perfect for characters who gain new clothing, equipment etc.<br><br>Spriter animations can be imported with full feature support in Unity and Construct 2.  There are also free, open source, fully featured reference implementations for using Spriter files in C#, C++, JavaScript, and MonoGame.  Spriter support on many more programming languages, frameworks, and game authoring tools coming soon!</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Trading Cards"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 200,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 397,
-  "review_positive": 293,
+  "review_positive": 0,
   "review_percentage": 73.8,
   "owner_estimate": 10000,
-  "ccu_estimate": 3,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 196,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 387,
-      "review_percentage": 75.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
+      "date": "2026-04-04",
       "review_count": 397,
       "review_percentage": 73.8,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
-      "review_count": 397,
-      "review_percentage": 73.8,
-      "ccu_estimate": 3,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

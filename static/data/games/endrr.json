@@ -3,8 +3,8 @@
   "name": "ENDRR",
   "slug": "endrr",
   "developer": "Waïju",
-  "publisher": "Waïju",
-  "release_date": "May 17, 2022",
+  "publisher": "",
+  "release_date": "2022-05-17",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -19,37 +19,15 @@
   ],
   "short_description": "Survive the hordes of monsters as long as you can. Fight, upgrade your skills, loot equipments, die, rince and repeat.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926080/header.jpg?t=1700941155",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926080/ss_9a322aa89e63f31d34f768c88e4dac775616b37a.600x338.jpg?t=1700941155",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926080/ss_2e4faae3a567991c6f20aebfd02d5b777a5d3464.600x338.jpg?t=1700941155",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926080/ss_ad458ed3bee4fb78308e0d544d7725a4effc84e9.600x338.jpg?t=1700941155",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926080/ss_c28c0c7244e69715925e8599ef08c9f9edbd652a.600x338.jpg?t=1700941155",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926080/ss_c2fa259385b62593ef9ca5cda011e0d660a4f059.600x338.jpg?t=1700941155",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926080/ss_da520b892228d62460a8836f6266ee9c3381c45d.600x338.jpg?t=1700941155",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926080/ss_83e461d2e2e88d50949a4131e4124808dd22f711.600x338.jpg?t=1700941155",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926080/ss_acff374ae22bc0ada9e02d2d388d54e8da369ee3.600x338.jpg?t=1700941155",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926080/ss_6704aedd8c811c0357f6157095cfaf2375bbf9e2.600x338.jpg?t=1700941155",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926080/ss_81f2485bfb0d02a2090ba00f8000b4148c0dcb1a.600x338.jpg?t=1700941155"
-  ],
-  "detailed_description": "ENDRR is an action survival with some rogue like features.<br />\r\n<br />\r\nKill countless ennemies with various abilities, level up to upgrade them and maybe get some luck to unlock new skills.<br />\r\nFrom time to time monsters will drop equipments that you will be able to equip on your next playthrough because yes... you will die.<br />\r\n<br />\r\nSurvive as many enemy waves as you can before you meet your dark fate.",
-  "about_the_game": "ENDRR is an action survival with some rogue like features.<br />\r\n<br />\r\nKill countless ennemies with various abilities, level up to upgrade them and maybe get some luck to unlock new skills.<br />\r\nFrom time to time monsters will drop equipments that you will be able to equip on your next playthrough because yes... you will die.<br />\r\n<br />\r\nSurvive as many enemy waves as you can before you meet your dark fate.",
-  "supported_languages": "English, French",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.65,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 13,
-  "review_positive": 10,
+  "review_positive": 0,
   "review_percentage": 76.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 13,
-      "review_percentage": 76.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 13,
       "review_percentage": 76.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

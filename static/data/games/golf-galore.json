@@ -3,8 +3,8 @@
   "name": "Golf Galore",
   "slug": "golf-galore",
   "developer": "Hough Studio",
-  "publisher": "Hough Studio",
-  "release_date": "Jul 12, 2018",
+  "publisher": "",
+  "release_date": "2018-07-12",
   "price_usd": 0.75,
   "genres": [
     "Casual",
@@ -24,37 +24,9 @@
   ],
   "short_description": "Golf Galore is an online multiplayer Mini Golf game with crazy mechanics. You can teleport with portals, dodge saw blades, shoot out of cannons, and much more.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868080/header.jpg?t=1729799598",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868080/ss_1bb3232e2af9a4aff91442a26846ff70ce8f3aaa.600x338.jpg?t=1729799598",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868080/ss_5827ca078153d23dc0ae56b7a305ad025184da50.600x338.jpg?t=1729799598",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868080/ss_70c16cff8b53ad87ef6c6eb147d68bd4da9ad327.600x338.jpg?t=1729799598",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868080/ss_ebf2260f7ce57796e6bfc53fe6d15b166e1ff391.600x338.jpg?t=1729799598",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868080/ss_b980f13ee99ab9cb1f5352499263c7e74b90fb9b.600x338.jpg?t=1729799598"
-  ],
-  "detailed_description": "Golf Galore is an online multiplayer Mini Golf game with crazy mechanics. You can teleport with portals, dodge saw blades, shoot out of cannons, and much more.<br><br>Currently, Golf Galore features:<br><ul class=\"bb_ul\"><li>Online multiplayer<br></li><li>4 maps with 18 holes each: Valley, Haven, Castle, and Lab<br></li><li>Golf mode and Race mode<br></li><li>Many game options like ball collision, jumping, \"hardcore\", random spawns and more<br></li><li>Ball customization with Steam items</li></ul>",
-  "about_the_game": "Golf Galore is an online multiplayer Mini Golf game with crazy mechanics. You can teleport with portals, dodge saw blades, shoot out of cannons, and much more.<br><br>Currently, Golf Galore features:<br><ul class=\"bb_ul\"><li>Online multiplayer<br></li><li>4 maps with 18 holes each: Valley, Haven, Castle, and Lab<br></li><li>Golf mode and Race mode<br></li><li>Many game options like ball collision, jumping, \"hardcore\", random spawns and more<br></li><li>Ball customization with Steam items</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Cross-Platform Multiplayer",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 129,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 340,
-  "review_positive": 277,
+  "review_positive": 0,
   "review_percentage": 81.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +34,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 337,
-      "review_percentage": 81.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 340,
       "review_percentage": 81.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

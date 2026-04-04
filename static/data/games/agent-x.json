@@ -3,8 +3,8 @@
   "name": "Agent X",
   "slug": "agent-x",
   "developer": "Seito Games",
-  "publisher": "Seito Games",
-  "release_date": "Aug 20, 2022",
+  "publisher": "",
+  "release_date": "2022-08-20",
   "price_usd": 0.89,
   "genres": [
     "Action"
@@ -17,34 +17,15 @@
   ],
   "short_description": "Agent X is a short FPS game. The police officers named Turk give 5 task to complete! Let's see if Agent X can withstand against bad girls!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1506420/header.jpg?t=1661010288",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1506420/ss_d0c8d9c9e57cd556ed225139368f52e0d3399426.600x338.jpg?t=1661010288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1506420/ss_d27d22dbad403e795039511a3ca4bfbf09dc5348.600x338.jpg?t=1661010288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1506420/ss_59183375210ee7fbf74a88a05d60cd574309cd1c.600x338.jpg?t=1661010288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1506420/ss_03cfd1caac3c7aa94b9218c839d0c73c36d693a7.600x338.jpg?t=1661010288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1506420/ss_938511187a5acaa708182bcdae2b07ecddfe736e.600x338.jpg?t=1661010288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1506420/ss_29ed4c1167d555a5386dc81bd0d9061324bf3b79.600x338.jpg?t=1661010288",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1506420/ss_9aad68f68e37c9008db817052b3b16d01fe98c40.600x338.jpg?t=1661010288"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1506420/extras/262760503dfa674a2395833b6c7612c5.avif?t=1661010288\" width=600 height=200 /></span><br><br><br>Agent X is new in the Police Department. He has to prove himself by complete all the task that Turk give.<h2 class=\"bb_tag\" >About</h2><ul class=\"bb_ul\"><li>5 Level to complete</li><li>10-15 minute to play</li><li>Sexy anime girls</li><li>100 Achievement</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1506420/extras/24abbd5bd8cbc95a6cbad837506f83dd.avif?t=1661010288\" width=600 height=341 /></span>",
-  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1506420/extras/262760503dfa674a2395833b6c7612c5.avif?t=1661010288\" width=600 height=200 /></span><br><br><br>Agent X is new in the Police Department. He has to prove himself by complete all the task that Turk give.<h2 class=\"bb_tag\" >About</h2><ul class=\"bb_ul\"><li>5 Level to complete</li><li>10-15 minute to play</li><li>Sexy anime girls</li><li>100 Achievement</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1506420/extras/24abbd5bd8cbc95a6cbad837506f83dd.avif?t=1661010288\" width=600 height=341 /></span>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.9500000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 19,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 36.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 19,
-      "review_percentage": 36.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 19,
       "review_percentage": 36.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

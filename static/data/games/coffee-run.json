@@ -3,8 +3,8 @@
   "name": "Coffee Run",
   "slug": "coffee-run",
   "developer": "Andrew Rodenhiser",
-  "publisher": "Andrew Rodenhiser",
-  "release_date": "Oct 30, 2017",
+  "publisher": "",
+  "release_date": "2017-10-30",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -21,33 +21,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Coffee Run is a 3D endless runner game in which you run through the city and collect coffee, coffee, and more coffee. The more you drink, the faster you run. Don't let your caffeine meter drop too low or you'll slow to a grinding halt! Also, watch out for the oncoming traffic!",
+  "short_description": "Coffee Run is a 3D endless runner game in which you run through the city and collect coffee, coffee, and more coffee. The more you drink, the faster you run. Don't let your caffeine meter drop too low",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731180/header.jpg?t=1557771759",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731180/ss_c127fe91411330c9d098f2b2894db60deb3c1d5e.600x338.jpg?t=1557771759",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731180/ss_abc5cc4420f9fd56709961dbc80a573ffccc4ab6.600x338.jpg?t=1557771759",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731180/ss_d02719f6ac2c5cb5dd0d5fbf831d207b0a688536.600x338.jpg?t=1557771759",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731180/ss_3460ae58bd3b0ba2d53eb4d76354fafbcd776aa0.600x338.jpg?t=1557771759",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731180/ss_b9d05b056170d92459cd8bdc7f9292a2ec2f3b7b.600x338.jpg?t=1557771759"
-  ],
-  "detailed_description": "The long-awaited upgrade to COFFEE RUN!! Improved graphics/UI, gameplay, content, and most of all...performance! Coffee Run is a 3D endless runner game in which you play as a man named (pun definitely intended) Joe Cappuccino. Run through the city and collect coffee, coffee, and more coffee. The more you drink, the faster you run. Don't let your caffeine meter drop too low or you'll slow to a grinding halt! Also, watch out for the oncoming traffic! <br />\r\nThis game was made with Unity Personal Edition.",
-  "about_the_game": "The long-awaited upgrade to COFFEE RUN!! Improved graphics/UI, gameplay, content, and most of all...performance! Coffee Run is a 3D endless runner game in which you play as a man named (pun definitely intended) Joe Cappuccino. Run through the city and collect coffee, coffee, and more coffee. The more you drink, the faster you run. Don't let your caffeine meter drop too low or you'll slow to a grinding halt! Also, watch out for the oncoming traffic! <br />\r\nThis game was made with Unity Personal Edition.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
+  "review_velocity_7d": 5.95,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 119,
-  "review_positive": 95,
+  "review_positive": 0,
   "review_percentage": 79.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 116,
-      "review_percentage": 77.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 119,
       "review_percentage": 79.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

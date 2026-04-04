@@ -3,8 +3,8 @@
   "name": "MyStar",
   "slug": "mystar",
   "developer": "MyStar Studio",
-  "publisher": "MyStar Studio",
-  "release_date": "Nov 12, 2019",
+  "publisher": "",
+  "release_date": "2019-11-12",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -19,36 +19,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Please use Xbox controller to play this game. This is an action game of collecting stars developed by HAL students which contains 20 levels in 4 different worlds. we are sorry to announce that the game won't support update as it is a finished student project.",
+  "short_description": "Please use Xbox controller to play this game. This is an action game of collecting stars developed by HAL students which contains 20 levels in 4 different worlds. we are sorry to announce that the gam",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1175690/header.jpg?t=1573547240",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1175690/ss_b4a9850c8d1eaed9a2bf39414e1bea5efd8abe79.600x338.jpg?t=1573547240",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1175690/ss_aac0c600978f807d1adb2c2ceb9ae0882d70db44.600x338.jpg?t=1573547240",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1175690/ss_7a6331a6b53036048560821737554f8cc418a415.600x338.jpg?t=1573547240",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1175690/ss_fb189cf1253427a158588e29d1ec5a82b0b7fba0.600x338.jpg?t=1573547240",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1175690/ss_c9af988264a895883495e2838c179be39728d7e6.600x338.jpg?t=1573547240",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1175690/ss_af1c04ffa21598e4f03429d1486d7c7a2771be88.600x338.jpg?t=1573547240",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1175690/ss_e3726d78fd471cde53606e485b54e3fa6407eaef.600x338.jpg?t=1573547240"
-  ],
-  "detailed_description": "Please use Xbox controller to play this game.<br />\r\nThis is an action game of collecting stars developed by HAL students which contains 20 levels in 4 different worlds.<br />\r\nThis game will no follow-up update as it is a student project.",
-  "about_the_game": "Please use Xbox controller to play this game.<br />\r\nThis is an action game of collecting stars developed by HAL students which contains 20 levels in 4 different worlds.<br />\r\nThis game will no follow-up update as it is a student project.",
-  "supported_languages": "Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 9,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 88.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 8,
-      "review_percentage": 87.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 88.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Cross Set",
   "slug": "cross-set",
   "developer": "Cuveet Story",
-  "publisher": "Cuveet Story",
-  "release_date": "Nov 17, 2015",
+  "publisher": "",
+  "release_date": "2015-11-17",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -21,40 +21,15 @@
   ],
   "short_description": "Cross Set is a simple and brain-teasing new number puzzle game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415400/header.jpg?t=1507013841",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415400/ss_3fe382a34c86bfc5c1c2780e8017498d755a4e17.600x338.jpg?t=1507013841",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415400/ss_dc92fb2cbbe29749fb697bfff1d0721e3977b302.600x338.jpg?t=1507013841",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415400/ss_6ef13f53ab03fc2fa1c23f108897b824121dd4bb.600x338.jpg?t=1507013841",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415400/ss_95a29f0c8ecb0126710655e5dbf87898f4148272.600x338.jpg?t=1507013841",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415400/ss_a61f82d0441aade4c3d94ae0b1f776ec87752b2e.600x338.jpg?t=1507013841",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415400/ss_df6ca8aeb2aff5daf09a7ad2dae17a14dc948045.600x338.jpg?t=1507013841",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415400/ss_4ffede150797661c8c974956e7f32a28775eed5b.600x338.jpg?t=1507013841",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415400/ss_ee1b2f1c9652b8bc9c5896b4e37f330d065e84e1.600x338.jpg?t=1507013841",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415400/ss_b2c22a75d7ff14a8d1e4a2a048132c2679108e5c.600x338.jpg?t=1507013841",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415400/ss_9e6ba5cec529f7bf089c0c3d655a3b004a5b74cc.600x338.jpg?t=1507013841",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/415400/ss_a6d3314ae5ab5733df94eeab605a309f5b48b2df.600x338.jpg?t=1507013841"
-  ],
-  "detailed_description": "Cross Set is a brain-teasing new number puzzle game.<br />\r\n<br />\r\nThe rule of the game is quite simple:<br />\r\n - There is an NxN square grid (up to 9x9)<br />\r\n - The solution is to have every row and column containing every number 1 through N<br />\r\n - The grid is already constrained by sets of candidates<br />\r\n<br />\r\nBut the gameplay is deep, when you actually play it.<br />\r\nThe feelings you will have when playing this game will be somewhat like playing Sudoku, but it's more enjoyable.<br />\r\n<br />\r\n<br />\r\nKey Features:<br />\r\n - 50+ Unique Levels<br />\r\n - 17 Steam Achievements<br />\r\n - Calm and Ambient BGM<br />\r\n<br />\r\n* All puzzle sets are different from the pre-distributed version.",
-  "about_the_game": "Cross Set is a brain-teasing new number puzzle game.<br />\r\n<br />\r\nThe rule of the game is quite simple:<br />\r\n - There is an NxN square grid (up to 9x9)<br />\r\n - The solution is to have every row and column containing every number 1 through N<br />\r\n - The grid is already constrained by sets of candidates<br />\r\n<br />\r\nBut the gameplay is deep, when you actually play it.<br />\r\nThe feelings you will have when playing this game will be somewhat like playing Sudoku, but it's more enjoyable.<br />\r\n<br />\r\n<br />\r\nKey Features:<br />\r\n - 50+ Unique Levels<br />\r\n - 17 Steam Achievements<br />\r\n - Calm and Ambient BGM<br />\r\n<br />\r\n* All puzzle sets are different from the pre-distributed version.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Trading Cards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 133,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 4.0,
+  "review_velocity_7d": 10.5,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 210,
-  "review_positive": 171,
+  "review_positive": 0,
   "review_percentage": 81.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 206,
-      "review_percentage": 82.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
+      "date": "2026-04-04",
       "review_count": 210,
       "review_percentage": 81.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

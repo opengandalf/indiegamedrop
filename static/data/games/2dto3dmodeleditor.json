@@ -3,8 +3,8 @@
   "name": "2DTo3DModelEditor",
   "slug": "2dto3dmodeleditor",
   "developer": "Aurora",
-  "publisher": "Aurora",
-  "release_date": "Dec 17, 2019",
+  "publisher": "",
+  "release_date": "2019-12-17",
   "price_usd": 5.99,
   "genres": [
     "Animation & Modeling",
@@ -19,44 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "This is a tool to convert multi-layer pixel images into 3D models. You can build your favorite 3D models in the way of pictures without modeling skills. It is a simple and easy-to-use tool to generate models from pixel images",
+  "short_description": "This is a tool to convert multi-layer pixel images into 3D models. You can build your favorite 3D models in the way of pictures without modeling skills. It is a simple and easy-to-use tool to generate",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/header.jpg?t=1680958239",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/ss_d0528faf1752c2d98d9c36405b10fc9712ad46d6.600x338.jpg?t=1680958239",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/ss_3fb1a3728f0afe7ef7082eb85de1d72fda8cf6e9.600x338.jpg?t=1680958239",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/ss_74eeba6ff467679b239fe5c1db55de55162b6da2.600x338.jpg?t=1680958239",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/ss_1f8d91119dbe4b1f3726a45e399f56210a6ad7f7.600x338.jpg?t=1680958239",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/ss_f841ab23fda58bb17f15f1d6ee85cc46f323771d.600x338.jpg?t=1680958239",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/ss_02bb8584f23946b846533f4cd3e980e1ffd01742.600x338.jpg?t=1680958239",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/ss_9d6fb0c373bba978022685735ece33ea40e74b36.600x338.jpg?t=1680958239",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/ss_e623db854c2a46e1a111f58c6804709c5b8d9433.600x338.jpg?t=1680958239",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/ss_8dcb1b0a4ce84e01f0fd70a926b5df8aa76160cc.600x338.jpg?t=1680958239",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/ss_ba6aaf6b09a1624cadbb07e4fae54ec628949644.600x338.jpg?t=1680958239",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/ss_658700584ebdea9e64189f96a15c92cf701d295e.600x338.jpg?t=1680958239",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/ss_312eaea3de44f66c29c65d572e10fef5bed9a4f9.600x338.jpg?t=1680958239",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/ss_fb36552a739ce07fe1414e6cb9ae0874d435421c.600x338.jpg?t=1680958239",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/ss_db0dccfa1f9fb41c0ce49d52be7a3db77d912810.600x338.jpg?t=1680958239",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/ss_93fdb7839ffc5e3ce882848ace61ebef6df5f50c.600x338.jpg?t=1680958239",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/ss_5f7f79e4aa8f87dcdcb413f450d3c0dfed225f0d.600x338.jpg?t=1680958239",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/ss_480f71816da41db9f9167ae0c576829032a44b8c.600x338.jpg?t=1680958239",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/ss_18860d517054f90bc666b44bb6680f14764148ee.600x338.jpg?t=1680958239"
-  ],
-  "detailed_description": "This is a tool to convert multi-layer pixel images into 3D models. You can build your favorite 3D models in the way of pictures without modeling skills. It is a simple and easy-to-use tool to generate models from pixel images<br><br>Just draw a few 32 * 32 or 64 * 64 pixels to generate a pixel model<br><br>One click random generation of house model and tree model<br><br>One click random generation of bus model and car model<br><br>One key random generation of wall model and column model, etc<br><br>A quick tool for non art professional developers to make 3D models<br><br>It can export the built model to obj file and import obj into 3dsmax or Maya tools<br><br>In 3dsmax, use prooptimizer to optimize and set the joint parameters. For example, the model of 1000 faces can be transformed into the model of 200 faces. In the export, the problem of high number of faces can be perfectly solved<br><br>Note: the obj model is imported into 3dsmax. To achieve the effect of 2dtodtodtod in 3dsmax, the corresponding materials need to be written. Please refer to the relevant physical materials<br><br>The online project end War RTS 2, the model is made with this tool<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/extras/c0f289e7ca1c40c5f8ae27cdee46af3e.avif?t=1680958239\" width=800 height=584 /></span>",
-  "about_the_game": "This is a tool to convert multi-layer pixel images into 3D models. You can build your favorite 3D models in the way of pictures without modeling skills. It is a simple and easy-to-use tool to generate models from pixel images<br><br>Just draw a few 32 * 32 or 64 * 64 pixels to generate a pixel model<br><br>One click random generation of house model and tree model<br><br>One click random generation of bus model and car model<br><br>One key random generation of wall model and column model, etc<br><br>A quick tool for non art professional developers to make 3D models<br><br>It can export the built model to obj file and import obj into 3dsmax or Maya tools<br><br>In 3dsmax, use prooptimizer to optimize and set the joint parameters. For example, the model of 1000 faces can be transformed into the model of 200 faces. In the export, the problem of high number of faces can be perfectly solved<br><br>Note: the obj model is imported into 3dsmax. To achieve the effect of 2dtodtodtod in 3dsmax, the corresponding materials need to be written. Please refer to the relevant physical materials<br><br>The online project end War RTS 2, the model is made with this tool<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201140/extras/c0f289e7ca1c40c5f8ae27cdee46af3e.avif?t=1680958239\" width=800 height=584 /></span>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -64,26 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

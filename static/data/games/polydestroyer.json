@@ -3,8 +3,8 @@
   "name": "PolyDestroyer",
   "slug": "polydestroyer",
   "developer": "CrunchyCode Games",
-  "publisher": "CrunchyCode Games",
-  "release_date": "Mar 1, 2026",
+  "publisher": "",
+  "release_date": "2026-03-01",
   "price_usd": 1.19,
   "genres": [
     "Casual"
@@ -17,36 +17,11 @@
     "mac",
     "linux"
   ],
-  "short_description": "Wave-based top-down shooter with between-wave (per-run) upgrades and meta progression. After each wave, pick one of three tiered upgrades that stack into a build. Use Turbo to reposition, Shield to survive, and spend coins on permanent ship upgrades.",
+  "short_description": "Wave-based top-down shooter with between-wave (per-run) upgrades and meta progression. After each wave, pick one of three tiered upgrades that stack into a build. Use Turbo to reposition, Shield to su",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680040/5a7abfa9d684cdf8bfbf05d3f1aa4e589ea414dd/header.jpg?t=1772407581",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680040/fc1ebc5b978f7988b696da147593394cf3f90f3d/ss_fc1ebc5b978f7988b696da147593394cf3f90f3d.600x338.jpg?t=1772407581",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680040/755323b98e2f9b8e9d699636bdbd75cd7f1b4ed4/ss_755323b98e2f9b8e9d699636bdbd75cd7f1b4ed4.600x338.jpg?t=1772407581",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680040/07eabdcaa7e6a2ccd2c322e9e7d296b14d6bbbdb/ss_07eabdcaa7e6a2ccd2c322e9e7d296b14d6bbbdb.600x338.jpg?t=1772407581",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680040/0091b5c763fefb4389fd226771f443299a7c2d29/ss_0091b5c763fefb4389fd226771f443299a7c2d29.600x338.jpg?t=1772407581",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680040/6671de9c8e3c5bbfe6f50d56237ca99bb340d75c/ss_6671de9c8e3c5bbfe6f50d56237ca99bb340d75c.600x338.jpg?t=1772407581"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >PolyDestroyer is a wave-based top-down space shooter about smart picks and staying alive as the arena gets busier. After each wave you choose one of three random, tiered upgrades. These upgrades stack during the run and shape your build.</p><p class=\"bb_paragraph\" >Between runs you spend coins on permanent upgrades that raise your baseline power and open new options. In combat, Turbo helps you reposition or escape danger, and Shield gives brief safety for clutch moments.</p><p class=\"bb_paragraph\" >Runs are short and readable. The core decisions are which upgrade to take and when to use a Turbo/Shield.</p><h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Between-wave upgrades (per-run):</strong> three random choices after each wave; tiered and stackable.</p></li><li><p class=\"bb_paragraph\" ><strong>Permanent upgrades:</strong> invest coins between runs for lasting power.</p></li><li><p class=\"bb_paragraph\" ><strong>Turbo & Shield:</strong> quick repositioning and short invulnerability windows.</p></li><li><p class=\"bb_paragraph\" ><strong>Weapons to discover:</strong> find weapons during a run, equip them for your next run to shape your build.</p></li><li><p class=\"bb_paragraph\" ><strong>Ships:</strong> spend coins on different styles of ship.</p></li><li><p class=\"bb_paragraph\" ><strong>Wave-based runs:</strong> survive a wave, pick an upgrade, go again.</p></li><li><p class=\"bb_paragraph\" ><strong>Localized:</strong> English + 7 additional languages.</p></li><li><p class=\"bb_paragraph\" ><strong>Steam Achievements.</strong></p></li><li><p class=\"bb_paragraph\" ><strong>Full controller support.</strong></p></li></ul>",
-  "about_the_game": "<p class=\"bb_paragraph\" >PolyDestroyer is a wave-based top-down space shooter about smart picks and staying alive as the arena gets busier. After each wave you choose one of three random, tiered upgrades. These upgrades stack during the run and shape your build.</p><p class=\"bb_paragraph\" >Between runs you spend coins on permanent upgrades that raise your baseline power and open new options. In combat, Turbo helps you reposition or escape danger, and Shield gives brief safety for clutch moments.</p><p class=\"bb_paragraph\" >Runs are short and readable. The core decisions are which upgrade to take and when to use a Turbo/Shield.</p><h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Between-wave upgrades (per-run):</strong> three random choices after each wave; tiered and stackable.</p></li><li><p class=\"bb_paragraph\" ><strong>Permanent upgrades:</strong> invest coins between runs for lasting power.</p></li><li><p class=\"bb_paragraph\" ><strong>Turbo & Shield:</strong> quick repositioning and short invulnerability windows.</p></li><li><p class=\"bb_paragraph\" ><strong>Weapons to discover:</strong> find weapons during a run, equip them for your next run to shape your build.</p></li><li><p class=\"bb_paragraph\" ><strong>Ships:</strong> spend coins on different styles of ship.</p></li><li><p class=\"bb_paragraph\" ><strong>Wave-based runs:</strong> survive a wave, pick an upgrade, go again.</p></li><li><p class=\"bb_paragraph\" ><strong>Localized:</strong> English + 7 additional languages.</p></li><li><p class=\"bb_paragraph\" ><strong>Steam Achievements.</strong></p></li><li><p class=\"bb_paragraph\" ><strong>Full controller support.</strong></p></li></ul>",
-  "supported_languages": "English, French, German, Spanish - Spain, Japanese, Norwegian, Irish, Welsh",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 6,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

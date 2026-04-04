@@ -3,8 +3,8 @@
   "name": "Bear Warrior",
   "slug": "bear-warrior",
   "developer": "Tero Lunkka, Valkeala software",
-  "publisher": "Valkeala Software",
-  "release_date": "May 2, 2024",
+  "publisher": "",
+  "release_date": "2024-05-02",
   "price_usd": 0.69,
   "genres": [
     "Action",
@@ -19,35 +19,15 @@
   ],
   "short_description": "be a hero Bear with sword and bow and kill fat sumo and find hidden golden skulls",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2941260/header.jpg?t=1764413820",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2941260/ss_7289d7cf884c0961468220de996ad7e2f58b3013.600x338.jpg?t=1764413820",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2941260/ss_eb071b1f964ceb1e911284afa11c462c61c9d48e.600x338.jpg?t=1764413820",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2941260/ss_b5432c5c8f38c4f84b8e4f7ba56816f8743c9816.600x338.jpg?t=1764413820",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2941260/ss_ee65ae5fcfdf7289a5fbbcb5deec86a82b7920c1.600x338.jpg?t=1764413820",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2941260/ss_a4f505719d774e1655b6393f39984f32b57f7ff0.600x338.jpg?t=1764413820",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2941260/ss_9e889c032c3f57a6007bb1f09a313d85ba3721d1.600x338.jpg?t=1764413820",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2941260/ss_3b5e4c16583bde018c33a97a1ace93442bfa0028.600x338.jpg?t=1764413820"
-  ],
-  "detailed_description": "<h1>FIND HMUR!</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2941260/extras/b009372be95605a3fb4580f8fe3b1d8f.poster.avif?t=1764413820\" width=1170 height=426 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2941260/extras/b009372be95605a3fb4580f8fe3b1d8f.webm?t=1764413820\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2941260/extras/b009372be95605a3fb4580f8fe3b1d8f.mp4?t=1764413820\" type=\"video/mp4\"></video></span></p></p><br><h1>About the Game</h1><h2 class=\"bb_tag\" >Story:</h2>Bear Warrior is RPG game with 5 different maps. Player character is hero Bear with sword, shield and 2 types arrows. Player mission is to hunt down Fat sumo, defeat him and collect Golden skull. Golden skull can only collected if Fat Sumo boss is defeated in different levels. Fat Sumo have big army with different enemies like enemy with sword, magic enemy with different magic skills and mini dinosaurus. Levels contain also different Red and Orange crystals which gives player Steam achievements. So be a true bear hero and kill Fat sumo<h2 class=\"bb_tag\" >Features:</h2>- 5 different themed maps<br>- Weapons like sword, shield and 2 type arrows<br>- 20 health potions to increase health<br>- Different enemies with sword, magic skills, mini dinosaurus and evil boss Fat sumo<br>- Steam achievements by collecting Golden skull and different crystals at levels",
-  "about_the_game": "<h2 class=\"bb_tag\" >Story:</h2>Bear Warrior is RPG game with 5 different maps. Player character is hero Bear with sword, shield and 2 types arrows. Player mission is to hunt down Fat sumo, defeat him and collect Golden skull. Golden skull can only collected if Fat Sumo boss is defeated in different levels. Fat Sumo have big army with different enemies like enemy with sword, magic enemy with different magic skills and mini dinosaurus. Levels contain also different Red and Orange crystals which gives player Steam achievements. So be a true bear hero and kill Fat sumo<h2 class=\"bb_tag\" >Features:</h2>- 5 different themed maps<br>- Weapons like sword, shield and 2 type arrows<br>- 20 health potions to increase health<br>- Different enemies with sword, magic skills, mini dinosaurus and evil boss Fat sumo<br>- Steam achievements by collecting Golden skull and different crystals at levels",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 25,
-  "review_positive": 19,
+  "review_positive": 0,
   "review_percentage": 76.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 24,
-      "review_percentage": 79.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 25,
       "review_percentage": 76.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

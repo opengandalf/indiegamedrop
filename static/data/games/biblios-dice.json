@@ -3,8 +3,8 @@
   "name": "Biblios Dice",
   "slug": "biblios-dice",
   "developer": "Offbit Studios LLC, Dr. Finn's Games",
-  "publisher": "Offbit Studios LLC",
-  "release_date": "Sep 27, 2023",
+  "publisher": "",
+  "release_date": "2023-09-27",
   "price_usd": 5.99,
   "genres": [
     "Casual",
@@ -17,47 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Biblios Dice is a digital adaptation of the dice game by Dr. Finn. In it you are working as medieval monks to produce illustrations and improve the prestige of your abbey. Manipulate the value of the five different resources, buy and sell at the market, and gain the bishop's favor.",
+  "short_description": "Biblios Dice is a digital adaptation of the dice game by Dr. Finn. In it you are working as medieval monks to produce illustrations and improve the prestige of your abbey. Manipulate the value of the ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837550/header.jpg?t=1695875248",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837550/ss_81a7ae1495db12f6db0533719efd9d7deffe777d.600x338.jpg?t=1695875248",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837550/ss_0b444d1edf93ec14ceded3187d5760edb56ca392.600x338.jpg?t=1695875248",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837550/ss_b74f696d4d33fdea68d7dbb3d395b6653fa44bfb.600x338.jpg?t=1695875248",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837550/ss_5e911dcff6d8cb01b74089ec3042688105897b9a.600x338.jpg?t=1695875248",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837550/ss_e49a8a79b2f20a22b35d5cc99f7181928e554239.600x338.jpg?t=1695875248",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837550/ss_0e1e1f9a9b15400375ca36f452060c756792139f.600x338.jpg?t=1695875248",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837550/ss_f3c79b0abb5bf8a4507d8a7bdbf3499341417f01.600x338.jpg?t=1695875248",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837550/ss_a1aefd83af2cecb16425815e333fa55d6ce1003c.600x338.jpg?t=1695875248"
-  ],
-  "detailed_description": "Biblios Dice is a digital adaptation of the dice game by Dr. Finn. In it you are working as medieval monks to produce illustrations and improve the prestige of your abbey.<br />\r\n<br />\r\nIn Biblios Dice players compete by rolling dice and making tactical decisions on which of several resource tracks to pursue. Each of the five different resource tracks change value based on player decisions, altering the total value they are worth. This means players will want to both improve on the different tracks while simultaneously increasing the value of the tracks they're pursuing and devaluing those of others. When the time comes for the mule to make it to market, which happens every few rounds, dice are auctioned off to the highest bidders providing a rich set of resources so long as money isn't over-spent. Favor with the Bishop, its own track, will also significantly affect total prestige based on how much money the player earns.",
-  "about_the_game": "Biblios Dice is a digital adaptation of the dice game by Dr. Finn. In it you are working as medieval monks to produce illustrations and improve the prestige of your abbey.<br />\r\n<br />\r\nIn Biblios Dice players compete by rolling dice and making tactical decisions on which of several resource tracks to pursue. Each of the five different resource tracks change value based on player decisions, altering the total value they are worth. This means players will want to both improve on the different tracks while simultaneously increasing the value of the tracks they're pursuing and devaluing those of others. When the time comes for the mule to make it to market, which happens every few rounds, dice are auctioned off to the highest bidders providing a rich set of resources so long as money isn't over-spent. Favor with the Bishop, its own track, will also significantly affect total prestige based on how much money the player earns.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Shared/Split Screen PvP",
-    "Shared/Split Screen",
-    "Cross-Platform Multiplayer",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Cloud",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 5,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 80.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -65,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 80.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

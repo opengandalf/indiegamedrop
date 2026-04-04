@@ -3,8 +3,8 @@
   "name": "Belote - Learn & Play",
   "slug": "belote-learn-play",
   "developer": "Spiro Spero Games",
-  "publisher": "Spiro Spero Games",
-  "release_date": "Mar 8, 2020",
+  "publisher": "",
+  "release_date": "2020-03-08",
   "price_usd": 3.99,
   "genres": [
     "Casual"
@@ -19,32 +19,15 @@
   ],
   "short_description": "Suitable for beginners and veteran players alike, Belote is a classical 32-card, trick-taking, Ace-Ten game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1254610/header.jpg?t=1584013649",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1254610/ss_77c301dd8eebdad6df9849e917e4f2bb42628174.600x338.jpg?t=1584013649",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1254610/ss_f46a2e8ff013d706e880bad59518952d4af0674c.600x338.jpg?t=1584013649",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1254610/ss_52bcc5dd7e76c4fc81419dfd9cdebf86dc0c5dca.600x338.jpg?t=1584013649",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1254610/ss_8920a273109a7d916db9ef9996001de257309371.600x338.jpg?t=1584013649",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1254610/ss_ac5df072b9952524f2b2ff1ea4dbb7e85000038c.600x338.jpg?t=1584013649"
-  ],
-  "detailed_description": "Suitable for beginners and veteran players alike, Belote is a classical 32-card, trick-taking, Ace-Ten game. <br><br>Belote - Play & Learn has three different modes (two, three and four players) and let you save your game to finish them later. <br><br><strong>Take risks, forecast ahead to progress and win more games!</strong>",
-  "about_the_game": "Suitable for beginners and veteran players alike, Belote is a classical 32-card, trick-taking, Ace-Ten game. <br><br>Belote - Play & Learn has three different modes (two, three and four players) and let you save your game to finish them later. <br><br><strong>Take risks, forecast ahead to progress and win more games!</strong>",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Norwegian, Swedish",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 4,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 25.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 25.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 25.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

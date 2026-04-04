@@ -3,8 +3,8 @@
   "name": "Pigmenta",
   "slug": "pigmenta",
   "developer": "Bouke Stam",
-  "publisher": "Bouke Stam",
-  "release_date": "Feb 18, 2024",
+  "publisher": "",
+  "release_date": "2024-02-18",
   "price_usd": 4.99,
   "genres": [
     "Casual",
@@ -22,32 +22,9 @@
   ],
   "short_description": "Pigmenta is an ambient logic puzzle game where you mix colors",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812720/header.jpg?t=1708456785",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812720/ss_82214f0199dd65793ed048947c2a1053e9fa5a6e.600x338.jpg?t=1708456785",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812720/ss_c2040b56a061025c529a5225a6d7f86280c9baab.600x338.jpg?t=1708456785",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812720/ss_867c6b953e39735a763032f7706ac8be764cdb52.600x338.jpg?t=1708456785",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812720/ss_992c6dab6a1ca3d4cf03f86c2b101b62b76fa4d8.600x338.jpg?t=1708456785",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2812720/ss_975a0c1cde42bea5edf862bd439321727fd0be9f.600x338.jpg?t=1708456785"
-  ],
-  "detailed_description": "Pigmenta is an ambient logic puzzle game, where you mix different colored lines to solve puzzles.<br><br>The game includes:<br><br><ul class=\"bb_ul\"><li> 48 handcrafted campaign puzzles<br></li><li> Time trial mode for those seeking extra challenges<br></li><li> Infinite puzzle generator to keep on playing</li></ul>",
-  "about_the_game": "Pigmenta is an ambient logic puzzle game, where you mix different colored lines to solve puzzles.<br><br>The game includes:<br><br><ul class=\"bb_ul\"><li> 48 handcrafted campaign puzzles<br></li><li> Time trial mode for those seeking extra challenges<br></li><li> Infinite puzzle generator to keep on playing</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 6,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +32,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

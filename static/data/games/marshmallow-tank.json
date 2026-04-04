@@ -3,8 +3,8 @@
   "name": "Marshmallow Tank",
   "slug": "marshmallow-tank",
   "developer": "Monkat Studio",
-  "publisher": "Monkat Studio",
-  "release_date": "Apr 16, 2020",
+  "publisher": "",
+  "release_date": "2020-04-16",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -21,34 +21,9 @@
   ],
   "short_description": "A tank simulation game，with cartoon style，battle royale，destory everything you can see!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256550/header.jpg?t=1593500744",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256550/ss_1ae97482767c82d4d9243c8ec30cf32bbfef46f3.600x338.jpg?t=1593500744",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256550/ss_402a0908cb6dcbbfbd39c350ea6f3d5a651babd8.600x338.jpg?t=1593500744",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256550/ss_8a3d4c0a3ef58d29b2ee0aaa37f76781a7b92195.600x338.jpg?t=1593500744",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256550/ss_d8222be46243fc63677915a38b162f5f10f1d5c8.600x338.jpg?t=1593500744",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1256550/ss_825b867aa95a5e3ff0ce0e77dc642b847adbdca0.600x338.jpg?t=1593500744"
-  ],
-  "detailed_description": "<h1>Update Notes</h1><p><h2 class=\"bb_tag\" >06/30/2020 UPDATE</h2><ul class=\"bb_ul\"><li>Optimize tank art effect.</li></ul><ul class=\"bb_ul\"><li>Tank shooting and movement is smoother.</li></ul><h2 class=\"bb_tag\" >04/23/2020 UPDATE</h2><ul class=\"bb_ul\"><li>Add simplified Chinese support.</li></ul><ul class=\"bb_ul\"><li>Optimize the animation effect of the accumulator bar.</li></ul></p><br><h1>About the Game</h1>A tank simulation game，with cartoon style，battle royale，destory everything you can see!<h2 class=\"bb_tag\" >QUICK MATCH AND BATTLE</h2>Choise your tank，entry the battle in designed battlefield，shoot your enemy or sneak，for last alive!<h2 class=\"bb_tag\" >TEAM MODE</h2>Battle with your best friend，and smash them!<br><br>More mode coming soon.",
-  "about_the_game": "A tank simulation game，with cartoon style，battle royale，destory everything you can see!<h2 class=\"bb_tag\" >QUICK MATCH AND BATTLE</h2>Choise your tank，entry the battle in designed battlefield，shoot your enemy or sneak，for last alive!<h2 class=\"bb_tag\" >TEAM MODE</h2>Battle with your best friend，and smash them!<br><br>More mode coming soon.",
-  "supported_languages": "English, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

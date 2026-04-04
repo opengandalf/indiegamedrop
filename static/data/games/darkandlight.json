@@ -3,8 +3,8 @@
   "name": "DarkAndLight",
   "slug": "darkandlight",
   "developer": "CJBNY",
-  "publisher": "CJBNY",
-  "release_date": "Dec 26, 2023",
+  "publisher": "",
+  "release_date": "2023-12-26",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -21,34 +21,15 @@
   ],
   "short_description": "Use clues to power up generators, find weapons to kill zombies, and utilize items to escape the bunker maze!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2700060/header.jpg?t=1746037899",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2700060/ss_f93c06b31340770230b13df0285b2a6c8cb4fdde.600x338.jpg?t=1746037899",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2700060/ss_14eece03e033a739623a33e1e16330a9f62a3ac9.600x338.jpg?t=1746037899",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2700060/ss_73ba6a6c3b867b2123a4debc27d5c63e2bbb6414.600x338.jpg?t=1746037899",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2700060/ss_424aab654579945c8831e930e4cc60ddad43d274.600x338.jpg?t=1746037899",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2700060/ss_14b747aaba4916d1d220d597ff0a6d3eb2b7248f.600x338.jpg?t=1746037899",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2700060/ss_bcca779827a35bd9a0d7a2a8778e204537f05c9a.600x338.jpg?t=1746037899",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2700060/ss_70a06fada5e438eb1311cc4c2bda821bc163889b.600x338.jpg?t=1746037899",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2700060/ss_9289c13f869b7f762e30441de167f0031d99fd8f.600x338.jpg?t=1746037899"
-  ],
-  "detailed_description": "The game is about being trapped in a bunker with a zombie virus and trying to find a way out. You must find a generator to open the door, a flashlight to illuminate the dark bunker, and weapons to kill the zombies in order to make it to the exit.<br />\r\nThe generators must be put in order and often require a password to be entered as well. The clues to this are left to the player to find on their own. <br />\r\nGuns and bullets are very important, so you'll also need to find items to kill the zombies along the way.",
-  "about_the_game": "The game is about being trapped in a bunker with a zombie virus and trying to find a way out. You must find a generator to open the door, a flashlight to illuminate the dark bunker, and weapons to kill the zombies in order to make it to the exit.<br />\r\nThe generators must be put in order and often require a password to be entered as well. The clues to this are left to the player to find on their own. <br />\r\nGuns and bullets are very important, so you'll also need to find items to kill the zombies along the way.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 5.0,
+  "review_velocity_7d": 0.55,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 11,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 36.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 33.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 11,
       "review_percentage": 36.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

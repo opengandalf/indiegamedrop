@@ -3,8 +3,8 @@
   "name": "Don't Kill the Cow",
   "slug": "dont-kill-the-cow",
   "developer": "James Earl Cox III",
-  "publisher": "James Earl Cox III",
-  "release_date": "Nov 7, 2019",
+  "publisher": "",
+  "release_date": "2019-11-07",
   "price_usd": 0.0,
   "genres": [
     "Indie"
@@ -17,32 +17,15 @@
   ],
   "short_description": "Please don't kill the cow.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180800/header.jpg?t=1573524663",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180800/ss_8d517f108e08bcde1e812d24405d14f7a25fb561.600x338.jpg?t=1573524663",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180800/ss_4a1ec8c21a43173c42ed8a4f02d54dd787cc349d.600x338.jpg?t=1573524663",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180800/ss_7acf4228879e6ba43f402f0f8abfa74a516e0cae.600x338.jpg?t=1573524663",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180800/ss_d6d66f86afc87b2b945c2a02c4f65feb82a36a33.600x338.jpg?t=1573524663",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180800/ss_d3caf1c4f7c50a0b957d89077173c3e2adb81faa.600x338.jpg?t=1573524663",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180800/ss_a7dbb92acae7352da639eeae857006cb981cb2b4.600x338.jpg?t=1573524663"
-  ],
-  "detailed_description": "A simple short 5 minute game that questions the importance of goals. There is only one way to win the game: <strong>don’t kill the cow</strong>, but is winning the game worth it? How much do the phrases<i> you win</i> and <i>you lose</i> mean to you?<br><br>Includes 3 endings.<br><br>Playable with arrow keys, WASD, or mouse.<br><br>This is a windowed game.",
-  "about_the_game": "A simple short 5 minute game that questions the importance of goals. There is only one way to win the game: <strong>don’t kill the cow</strong>, but is winning the game worth it? How much do the phrases<i> you win</i> and <i>you lose</i> mean to you?<br><br>Includes 3 endings.<br><br>Playable with arrow keys, WASD, or mouse.<br><br>This is a windowed game.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0002,
+  "screenshots": [],
+  "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 7.0,
+  "review_velocity_7d": 5.6000000000000005,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 112,
-  "review_positive": 94,
+  "review_positive": 0,
   "review_percentage": 83.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 105,
-      "review_percentage": 83.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 112,
       "review_percentage": 83.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Achievement Simulator",
   "slug": "achievement-simulator",
   "developer": "Leeson",
-  "publisher": "Leeson",
-  "release_date": "Aug 21, 2019",
+  "publisher": "",
+  "release_date": "2019-08-21",
   "price_usd": 0.79,
   "genres": [
     "Casual",
@@ -19,35 +19,15 @@
   ],
   "short_description": "Ever wanted to know what achievement hunting is like? Earn money, buy games, and idle for achievements with the goal of reaching 100,000 achievements.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128190/header.jpg?t=1740424823",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128190/ss_ff96c34b2449b7b271a42d12b0ce63fdbec1dbfb.600x338.jpg?t=1740424823",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128190/ss_674f45b3a6e64b5ed870aa0bc8f06bed33e9f0d3.600x338.jpg?t=1740424823",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128190/ss_49390538ed625635f7e6914a90d29cc74b561785.600x338.jpg?t=1740424823",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128190/ss_5d49fb88e2be03b554f31f150bd3fb19dddfb013.600x338.jpg?t=1740424823",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128190/ss_ca855a819481148a50f60903c981c33608def401.600x338.jpg?t=1740424823"
-  ],
-  "detailed_description": "<strong>Achievement Simulator</strong> is a time killer clicker and idle game.<br>You have the goal of earning money, buying games, and reaching the end goal of 100,000 achievements. This game will give you the first-hand experience in a gamified environment at how those users with high achievement counts on the platform got to those high values.<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li>Mouse only gameplay - Doesn't require a keyboard to play<br></li><li>Achievements - That actually work<br></li><li>Cloud save support - Don't ever lose your progress again<br></li><li><i>Hardcore</i> gameplay - Clicking can be hard<br></li><li>Options for fullscreen and windowed - Who likes being forced to play in fullscreen</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128190/extras/5ce2d63e7a9c6f89383e0a26bba321e1.avif?t=1740424823\" width=256 height=256 /></span>",
-  "about_the_game": "<strong>Achievement Simulator</strong> is a time killer clicker and idle game.<br>You have the goal of earning money, buying games, and reaching the end goal of 100,000 achievements. This game will give you the first-hand experience in a gamified environment at how those users with high achievement counts on the platform got to those high values.<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li>Mouse only gameplay - Doesn't require a keyboard to play<br></li><li>Achievements - That actually work<br></li><li>Cloud save support - Don't ever lose your progress again<br></li><li><i>Hardcore</i> gameplay - Clicking can be hard<br></li><li>Options for fullscreen and windowed - Who likes being forced to play in fullscreen</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1128190/extras/5ce2d63e7a9c6f89383e0a26bba321e1.avif?t=1740424823\" width=256 height=256 /></span>",
-  "supported_languages": "English<strong>*</strong>, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Stats",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 5.0,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 100,
-  "review_positive": 82,
+  "review_positive": 0,
   "review_percentage": 82.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 97,
-      "review_percentage": 82.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 100,
       "review_percentage": 82.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

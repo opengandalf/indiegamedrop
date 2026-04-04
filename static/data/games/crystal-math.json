@@ -3,8 +3,8 @@
   "name": "Crystal Math",
   "slug": "crystal-math",
   "developer": "DeckTronic",
-  "publisher": "DeckTronic",
-  "release_date": "Jul 20, 2023",
+  "publisher": "",
+  "release_date": "2023-07-20",
   "price_usd": 1.99,
   "genres": [
     "Action",
@@ -21,32 +21,15 @@
   ],
   "short_description": "An infinite math runner with varying speeds and difficulty to test your skills.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479530/header.jpg?t=1689861753",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479530/ss_740bf73410b818cbd0cb0c0b29e8052f45b5f0b4.600x338.jpg?t=1689861753",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479530/ss_dd8208ff1954a6082bc9bb749533c2bbd0350e47.600x338.jpg?t=1689861753",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479530/ss_5bdd8e053e13de0dc5e7fdde7a4dbf890360036b.600x338.jpg?t=1689861753",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479530/ss_d9b8838f102b2ab5ba4c1a5456308d65cbd788e5.600x338.jpg?t=1689861753",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479530/ss_81e13ebef9ce0c4682228dd60e96a1b22927b935.600x338.jpg?t=1689861753"
-  ],
-  "detailed_description": "Have you ever seen those annoying Facebook ads where a player is running along a path and has a choice between +1000 and -4 million and they stutter step into the -4 million with grace and dignity then fail at the final boss, and you think to yourself, \"This game looks kind of fun and I could do better than that\"? <br />\r\n<br />\r\nThen you download the game and it's completely different and the game you want is some minigame 150 levels in.  I decided to make the mini game for fun so people can try it.  I see many comments on those Facebook ads about how they would play the game if it was like the ad so now here's your chance.  Spoiler alert, it gets really boring after about 20 minutes, but at least now you know.<br />\r\n<br />\r\nBest of luck adventurers!",
-  "about_the_game": "Have you ever seen those annoying Facebook ads where a player is running along a path and has a choice between +1000 and -4 million and they stutter step into the -4 million with grace and dignity then fail at the final boss, and you think to yourself, \"This game looks kind of fun and I could do better than that\"? <br />\r\n<br />\r\nThen you download the game and it's completely different and the game you want is some minigame 150 levels in.  I decided to make the mini game for fun so people can try it.  I see many comments on those Facebook ads about how they would play the game if it was like the ad so now here's your chance.  Spoiler alert, it gets really boring after about 20 minutes, but at least now you know.<br />\r\n<br />\r\nBest of luck adventurers!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

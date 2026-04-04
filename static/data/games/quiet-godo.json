@@ -3,8 +3,8 @@
   "name": "Quiet Godo",
   "slug": "quiet-godo",
   "developer": "Quite Good",
-  "publisher": "Quite Good",
-  "release_date": "Nov 13, 2020",
+  "publisher": "",
+  "release_date": "2020-11-13",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -21,31 +21,9 @@
   ],
   "short_description": "You're home alone. Explore the rooms, find the keys, and, most of all, watch your tongue!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455380/header.jpg?t=1638465931",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455380/ss_e95b31ee6c5ec39fe74194e16ff3bed73570c4e5.600x338.jpg?t=1638465931",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455380/ss_2437310670212e704ccec01d554b11f772009e7f.600x338.jpg?t=1638465931",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455380/ss_eebead3e1176cbdaf3f8c6ab2406756a39670925.600x338.jpg?t=1638465931",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455380/ss_127453ed0da9bbbc14c0b05a50bbc311c5f3ea56.600x338.jpg?t=1638465931",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455380/ss_55e223d64e0f4db12f3248e59d8d9f65fac02070.600x338.jpg?t=1638465931"
-  ],
-  "detailed_description": "Noise is your greatest weakness in this physics and sound-based horror game. With the house all to yourself it might sound like fun and games, but if you don't find the special keys and defeat Godo then he just might catch you first. And above all, don't forget to watch your tongue!",
-  "about_the_game": "Noise is your greatest weakness in this physics and sound-based horror game. With the house all to yourself it might sound like fun and games, but if you don't find the special keys and defeat Godo then he just might catch you first. And above all, don't forget to watch your tongue!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 76,
-  "review_positive": 55,
+  "review_positive": 0,
   "review_percentage": 72.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 74,
-      "review_percentage": 73.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 76,
       "review_percentage": 72.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

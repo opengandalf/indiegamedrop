@@ -3,8 +3,8 @@
   "name": "Touhou Fantasia / 东方梦想曲",
   "slug": "touhou-fantasia-东方梦想曲",
   "developer": "SlimeSmile",
-  "publisher": "SlimeSmile",
-  "release_date": "Jul 19, 2019",
+  "publisher": "",
+  "release_date": "2019-07-19",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -19,37 +19,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "This is a fan-made Touhou shmup with one single stage, similar to the extra stage of official Touhou games. This game has an auto dodging system, which gives you a choice to ignore all the danmaku and only focus on the story.",
+  "short_description": "This is a fan-made Touhou shmup with one single stage, similar to the extra stage of official Touhou games. This game has an auto dodging system, which gives you a choice to ignore all the danmaku and",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1010890/header.jpg?t=1736515843",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1010890/ss_31bceae9d8c0a91f67f58dd5d23700623e23eb10.600x338.jpg?t=1736515843",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1010890/ss_e380978e9cd7a7620f59a11c8adee4bb8536fd92.600x338.jpg?t=1736515843",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1010890/ss_1588b83875f30fdb323dad57105778dfd8a541d4.600x338.jpg?t=1736515843",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1010890/ss_37f5df56c04a8ec780ad7917d06b4f090397ea7e.600x338.jpg?t=1736515843",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1010890/ss_fc3b84390b1253aeaf709f6b7a1c45710e6ecc98.600x338.jpg?t=1736515843",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1010890/ss_e354ee66d9fca1a86abf04d545bda0e3a3b21d7f.600x338.jpg?t=1736515843"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1010890/extras/1351e567a21143eddad1c9f3fe261110.avif?t=1736515843\" width=400 height=136 /></span><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1010890/extras/9149362378d3bec76893eed56840e56f.webp?t=1736515843\" width=215 height=48 /></span><br>This game has only 1 stage and 1 player character. The length and difficulty of the game are similar to the extra stage of official Touhou games.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1010890/extras/94ebb4617a53775d2823cc607625f842.webp?t=1736515843\" width=215 height=48 /></span><br>One day a mysterious cat challenged Reimu in her dream.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1010890/extras/a12c7ab408b5be24f690b809e16d294a.webp?t=1736515843\" width=215 height=48 /></span><br>Despite the fact that the game style is highly similar to the official Touhou games, this is the first time that we try to switch to full HD resolution. To seek new possibilities for shmups, we also used Unity Engine with several popular technologies, such as 2D bones and dynamic materials.<br><br>Due to the lack of difficulty options, this game can be difficult for beginners. Therefore, in this game, you can hold down Special button (C by default) to enable Auto Dodging without any limitation. However, Auto Dodging cannot solve all the problems, you have to use it wisely in order to beat this game.",
-  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1010890/extras/1351e567a21143eddad1c9f3fe261110.avif?t=1736515843\" width=400 height=136 /></span><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1010890/extras/9149362378d3bec76893eed56840e56f.webp?t=1736515843\" width=215 height=48 /></span><br>This game has only 1 stage and 1 player character. The length and difficulty of the game are similar to the extra stage of official Touhou games.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1010890/extras/94ebb4617a53775d2823cc607625f842.webp?t=1736515843\" width=215 height=48 /></span><br>One day a mysterious cat challenged Reimu in her dream.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1010890/extras/a12c7ab408b5be24f690b809e16d294a.webp?t=1736515843\" width=215 height=48 /></span><br>Despite the fact that the game style is highly similar to the official Touhou games, this is the first time that we try to switch to full HD resolution. To seek new possibilities for shmups, we also used Unity Engine with several popular technologies, such as 2D bones and dynamic materials.<br><br>Due to the lack of difficulty options, this game can be difficult for beginners. Therefore, in this game, you can hold down Special button (C by default) to enable Auto Dodging without any limitation. However, Auto Dodging cannot solve all the problems, you have to use it wisely in order to beat this game.",
-  "supported_languages": "Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 1486,
-  "review_positive": 1425,
+  "review_positive": 0,
   "review_percentage": 95.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1495,
-      "review_percentage": 96.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 1486,
       "review_percentage": 95.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

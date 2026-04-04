@@ -3,8 +3,8 @@
   "name": "Android Helipad",
   "slug": "android-helipad",
   "developer": "Mibongo Software",
-  "publisher": "Mibongo Software",
-  "release_date": "Sep 27, 2019",
+  "publisher": "",
+  "release_date": "2019-09-27",
   "price_usd": 3.99,
   "genres": [
     "Action",
@@ -23,36 +23,17 @@
     "mac",
     "linux"
   ],
-  "short_description": "Android Helipad is an arcade style flight game inspired by the classic 1992 game, \"UGH!\" In Android Helipad you play as android pilot Ellie in the future of 20XX. Your mission is to safely deliver passengers to their destinations while avoiding dangerous hazards. Will you be successful in this low poly adventure?",
+  "short_description": "Android Helipad is an arcade style flight game inspired by the classic 1992 game, \"UGH!\" In Android Helipad you play as android pilot Ellie in the future of 20XX. Your mission is to safely d",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124310/header.jpg?t=1569621357",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124310/ss_491b143fbe75a3c8fa3682e18fccc5026923caa0.600x338.jpg?t=1569621357",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124310/ss_5b07972f1360018b6e9fd184bb3a2163f68b2158.600x338.jpg?t=1569621357",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124310/ss_4ad212de22e76241f14065d1f06d8fbcbf99f760.600x338.jpg?t=1569621357",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124310/ss_ff27881d116659b1af9b99ec12918a67811b7a71.600x338.jpg?t=1569621357",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124310/ss_eb9b6cdc9725d90a2730e17b03002af42fe820c8.600x338.jpg?t=1569621357"
-  ],
-  "detailed_description": "Android Helipad is an arcade style flight game inspired by the classic 1992 game,  \"UGH!\" In Android Helipad you play as android pilot Ellie in the future of 20XX. Your mission is to safely deliver passengers to their destinations while avoiding dangerous hazards. Will you be successful in this low poly adventure? <br />\r\n<br />\r\nThe full game features the following:<br />\r\n<br />\r\n- 50 levels<br />\r\n- 5 different sectors<br />\r\n- 6 musical tracks<br />\r\n- Available on PC, Mac, and Linux<br />\r\n- Gamepad support<br />\r\n<br />\r\nMibongo Software is a solo independent video game studio. Android Helipad is my first game and it was a great project to do while learning all the different tools and methods of game development. Development on Android Helipad began November 2018 and I made an effort to use the most inexpensive tools while still being time efficient.",
-  "about_the_game": "Android Helipad is an arcade style flight game inspired by the classic 1992 game,  \"UGH!\" In Android Helipad you play as android pilot Ellie in the future of 20XX. Your mission is to safely deliver passengers to their destinations while avoiding dangerous hazards. Will you be successful in this low poly adventure? <br />\r\n<br />\r\nThe full game features the following:<br />\r\n<br />\r\n- 50 levels<br />\r\n- 5 different sectors<br />\r\n- 6 musical tracks<br />\r\n- Available on PC, Mac, and Linux<br />\r\n- Gamepad support<br />\r\n<br />\r\nMibongo Software is a solo independent video game studio. Android Helipad is my first game and it was a great project to do while learning all the different tools and methods of game development. Development on Android Helipad began November 2018 and I made an effort to use the most inexpensive tools while still being time efficient.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +41,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

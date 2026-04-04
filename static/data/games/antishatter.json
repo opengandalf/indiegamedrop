@@ -3,8 +3,8 @@
   "name": "AntiShatter",
   "slug": "antishatter",
   "developer": "EsperVisions",
-  "publisher": "EsperVisions",
-  "release_date": "Nov 11, 2022",
+  "publisher": "",
+  "release_date": "2022-11-11",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -19,38 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Pilot your own Spaceship in this Sci-fi Space Shooter game! Shoot Asteroids to collect Antimatter, Metals, and Pickups! Use the Metals and Antimatter you collect to upgrade your Spaceship! Level up to unlock stronger Metal tiers to collect, craft or buy Parts from the Store! Survive endless Space!",
+  "short_description": "Pilot your own Spaceship in this Sci-fi Space Shooter game! Shoot Asteroids to collect Antimatter, Metals, and Pickups! Use the Metals and Antimatter you collect to upgrade your Spaceship! Level up to",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097200/header.jpg?t=1668344563",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097200/ss_765dafa03d19414cad31cdbbc7614b4278fcb0fd.600x338.jpg?t=1668344563",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097200/ss_ec768821847cee137eb79826212f8d68b7e2b04b.600x338.jpg?t=1668344563",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097200/ss_f729e08f69f084e0a4d168dcfea5fdb34a8efe64.600x338.jpg?t=1668344563",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097200/ss_52d1b19257f8aa957faa41a0351e3f0cd7fdd3f2.600x338.jpg?t=1668344563",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097200/ss_cbf4522bb09140ea1141b13ff834b56eee908b73.600x338.jpg?t=1668344563",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097200/ss_7fbbaceff5d32ed3c5bfb1e1f6ace0f668d531cb.600x338.jpg?t=1668344563"
-  ],
-  "detailed_description": "Welcome Agent,<br />\r\nTo the future of humanity, where mining asteroids for Antimatter and precious metals in order to upgrade your spaceship is your calling. Be warned that space is full of many dangers, other than the asteroids flying at breakneck speeds towards your ship. We also have reports of multiple unidentified lifeforms that have claimed the lives of many agents in the past. Headquarters cannot guarantee your survival... But we will provide you with our best technologies that you may harness and reinforce your power. The rest, including the fate of what's left of mankind, is up to you, Agent. Will you prove to be the hero we have been waiting for?",
-  "about_the_game": "Welcome Agent,<br />\r\nTo the future of humanity, where mining asteroids for Antimatter and precious metals in order to upgrade your spaceship is your calling. Be warned that space is full of many dangers, other than the asteroids flying at breakneck speeds towards your ship. We also have reports of multiple unidentified lifeforms that have claimed the lives of many agents in the past. Headquarters cannot guarantee your survival... But we will provide you with our best technologies that you may harness and reinforce your power. The rest, including the fate of what's left of mankind, is up to you, Agent. Will you prove to be the hero we have been waiting for?",
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Czech, Dutch, Greek, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Turkish, Ukrainian, Afrikaans, Bangla, Indonesian, Persian, Urdu<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Stats",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

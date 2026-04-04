@@ -3,8 +3,8 @@
   "name": "Paint It Black",
   "slug": "paint-it-black",
   "developer": "Decabry",
-  "publisher": "Decabry",
-  "release_date": "Mar 20, 2018",
+  "publisher": "",
+  "release_date": "2018-03-20",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -23,63 +23,27 @@
   ],
   "short_description": "2D puzzle-action game in black and white",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/810630/header.jpg?t=1560336797",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/810630/ss_789ff11742c6b22abf8d830da82abfeabc46c208.600x338.jpg?t=1560336797",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/810630/ss_245bbe3e43046e6c7479a74c8b004ce0480b9854.600x338.jpg?t=1560336797",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/810630/ss_bda2232834d33562c4a28034c9b18145a24564ed.600x338.jpg?t=1560336797",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/810630/ss_dcab82869cbd3a5f59255455d5362042a1e45e0a.600x338.jpg?t=1560336797",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/810630/ss_abc3d01db5276f39ca8c38311b416aa2c0b6d77e.600x338.jpg?t=1560336797",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/810630/ss_2e5a74ab2ed945944d79c41fa0cf8597e2212b5e.600x338.jpg?t=1560336797",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/810630/ss_3816193ea24e8c537a84f535e1fee6add950a0c8.600x338.jpg?t=1560336797",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/810630/ss_3ae60ea6f1328cb19332afed9133cf960fed0d7e.600x338.jpg?t=1560336797"
-  ],
-  "detailed_description": "2D puzzle-action game in black and white. Main goal is to make everything as black as possible, try all you can to achieve that using your imagination.<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li>minimalism<br></li><li>25 unique levels<br></li><li>ambient sound</li></ul><br><i><br>In case you have troubles passing any level, you can start it again (press <strong>Esc</strong> for menu). You can also press <strong>R</strong> for quick restart.</i>",
-  "about_the_game": "2D puzzle-action game in black and white. Main goal is to make everything as black as possible, try all you can to achieve that using your imagination.<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li>minimalism<br></li><li>25 unique levels<br></li><li>ambient sound</li></ul><br><i><br>In case you have troubles passing any level, you can start it again (press <strong>Esc</strong> for menu). You can also press <strong>R</strong> for quick restart.</i>",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0003,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 7.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
-  "review_count": 65,
-  "review_positive": 53,
-  "review_percentage": 81.5,
-  "owner_estimate": 35000,
+  "classification": "new_release",
+  "review_count": 64,
+  "review_positive": 0,
+  "review_percentage": 79.7,
+  "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 96,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 57,
-      "review_percentage": 82.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 64,
       "review_percentage": 79.7,
       "ccu_estimate": 0,
       "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
-      "review_count": 65,
-      "review_percentage": 81.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Candy land",
   "slug": "candy-land",
   "developer": "Phoenixxx Games",
-  "publisher": "Phoenixxx Games",
-  "release_date": "Jun 28, 2021",
+  "publisher": "",
+  "release_date": "2021-06-28",
   "price_usd": 9.99,
   "genres": [
     "Casual"
@@ -15,36 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "In front of you are cards with different \"delicious\" images. The images are hidden from you. You need to find all pairs of identical images. You can open two cards at the same time. Remember the pictures, look for their pairs, and try to use as few attempts as possible.",
+  "short_description": "In front of you are cards with different \"delicious\" images. The images are hidden from you. You need to find all pairs of identical images. You can open two cards at the same time. Remember",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666430/header.jpg?t=1624868200",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666430/ss_6e81bd1013d544bfaaf1f9a0c89a4b58f953b67b.600x338.jpg?t=1624868200",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666430/ss_75b2a38bf340750677b42e10b929e92c0628ebec.600x338.jpg?t=1624868200",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666430/ss_f6adc808368cc63bdfc882be0c20cc13aeff69a8.600x338.jpg?t=1624868200",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666430/ss_5e97fe6d5385cf771e970fb32e2c6dba9e50843b.600x338.jpg?t=1624868200",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666430/ss_63cba81426fe9e23d83b8b99c8d1f079d72817ea.600x338.jpg?t=1624868200",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666430/ss_917077e09d6e2aabf0fbbc706f69e8f590de550e.600x338.jpg?t=1624868200",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666430/ss_06da0553a733067bc9e7ca499f79f9f0547535cd.600x338.jpg?t=1624868200"
-  ],
-  "detailed_description": "Welcome to the game \"Candy land\"!<br />\r\n<br />\r\nA game for puzzle lovers and for real sweet tooths ! After all, it is filled with a lot of goodies-ice cream, cake, cakes , marshmallows and many more sweets !<br />\r\n<br />\r\nIn addition , the game \"Candy land\" will help to develop memory, attentiveness and ingenuity.<br />\r\n<br />\r\nIn front of you are cards with different \"delicious\" images. The images are hidden from you. You need to find all pairs of identical images. You can open two cards at the same time. Remember the pictures, look for their pairs, and try to use as few attempts as possible , because in this game you can set your own records, which makes it possible to play together with your friends!<br />\r\n<br />\r\nThe game has 20 levels. After each completed level, you will open a new level, with a new difficulty.<br />\r\n<br />\r\nWell, rather turn on the game and join us ! Have a nice game !",
-  "about_the_game": "Welcome to the game \"Candy land\"!<br />\r\n<br />\r\nA game for puzzle lovers and for real sweet tooths ! After all, it is filled with a lot of goodies-ice cream, cake, cakes , marshmallows and many more sweets !<br />\r\n<br />\r\nIn addition , the game \"Candy land\" will help to develop memory, attentiveness and ingenuity.<br />\r\n<br />\r\nIn front of you are cards with different \"delicious\" images. The images are hidden from you. You need to find all pairs of identical images. You can open two cards at the same time. Remember the pictures, look for their pairs, and try to use as few attempts as possible , because in this game you can set your own records, which makes it possible to play together with your friends!<br />\r\n<br />\r\nThe game has 20 levels. After each completed level, you will open a new level, with a new difficulty.<br />\r\n<br />\r\nWell, rather turn on the game and join us ! Have a nice game !",
-  "supported_languages": "English, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.65,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 13,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 15.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 12,
-      "review_percentage": 8.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 13,
       "review_percentage": 15.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

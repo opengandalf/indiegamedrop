@@ -3,8 +3,8 @@
   "name": "IdleOn",
   "slug": "idleon",
   "developer": "Lavaflame2",
-  "publisher": "Lavaflame2",
-  "release_date": "Nov 6, 2025",
+  "publisher": "",
+  "release_date": "2025-11-06",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -25,122 +25,23 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "The management RPG where your heroes keep fighting even when you're gone! Spend their loot on upgrades, unlock classes from Elemental Wizard to Cannon Pirate, and level up 19 unique skills like Farming, Sailing, and even Construction!",
+  "short_description": "The management RPG where your heroes keep fighting even when you're gone! Spend their loot on upgrades, unlock classes from Elemental Wizard to Cannon Pirate, and level up 19 unique skills like Farmin",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/header.jpg?t=1773558948",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/ss_13e2408eff515d17532699ea083344e5b219b310.600x338.jpg?t=1773558948",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/39db380406a2ba8b2f9706fd9e47e6f690904d06/ss_39db380406a2ba8b2f9706fd9e47e6f690904d06.600x338.jpg?t=1773558948",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/4faa83b7b6a9d6cf5fc4d5518d90e116774bfe32/ss_4faa83b7b6a9d6cf5fc4d5518d90e116774bfe32.600x338.jpg?t=1773558948",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/ss_0906b77dcd358ad13436cd7eba0db3c394fd773a.600x338.jpg?t=1773558948",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/ss_26fd05f94c58d1d7b1f902cd81f27e1d168aca34.600x338.jpg?t=1773558948",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/ss_a90e9e5c68bae23ddaf34b662eeb9b047e2eeb4a.600x338.jpg?t=1773558948",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/ss_d2d01c80d118cae7c7f65198de077a470542f929.600x338.jpg?t=1773558948",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/ss_772aa9f2e178f4504269935dc4ae16b88ed6968c.600x338.jpg?t=1773558948",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/ss_bc8b4fe960c535fdfcfbdc3f4f14ab5f3b70ad3d.600x338.jpg?t=1773558948",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/ss_ca6c44c6f145f061b05aed6879e4e7c6d93a3f0a.600x338.jpg?t=1773558948",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/db2b2bec53e32ab98cbb36b99c19a8c9e849f76a/ss_db2b2bec53e32ab98cbb36b99c19a8c9e849f76a.600x338.jpg?t=1773558948",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/ss_284fcb87b0092a8eb5088484cca1143eba900d5b.600x338.jpg?t=1773558948",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/ss_ff0c670a816a5629e096750f7793bcbc6bcffe97.600x338.jpg?t=1773558948",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/ss_0ae9eed45099a7c88c06098619c5cf7a1b17fdba.600x338.jpg?t=1773558948",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/ss_c7408e4f12823aaae98a6838818a8926adcda700.600x338.jpg?t=1773558948",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/ss_cda2bfd9565f125eff88034aef9886f6b7b5e1ad.600x338.jpg?t=1773558948",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/ss_a135b967cc15563e6e41a7de5d4cb3ab7f888cb3.600x338.jpg?t=1773558948",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/ss_c488b9339a4ba5643da9f7846822317dd82fc96a.600x338.jpg?t=1773558948",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/ss_6b4eedb5f4d02d1f215062fb0027a06f1af7367e.600x338.jpg?t=1773558948",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/ss_d468680b18e3002dc6e304eb5905503bf37b7977.600x338.jpg?t=1773558948",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/ss_0180a9a7bcc7a96e7b74aea36fca1a459cd4004c.600x338.jpg?t=1773558948"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/31600282221af3fb58f34d0323e8bbd5.poster.avif?t=1773558948\" width=600 height=231 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/31600282221af3fb58f34d0323e8bbd5.webm?t=1773558948\" type=\"video/webm; codecs=vp9\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/c40dc38e20e9520a1e08f2aa93d46328.poster.avif?t=1773558948\" width=598 height=336 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/c40dc38e20e9520a1e08f2aa93d46328.webm?t=1773558948\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/c40dc38e20e9520a1e08f2aa93d46328.mp4?t=1773558948\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/115e535b9acfe36c537d017effe1109e.poster.avif?t=1773558948\" width=598 height=113 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/115e535b9acfe36c537d017effe1109e.webm?t=1773558948\" type=\"video/webm; codecs=vp9\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/758e1f7b33f5eb8dd0bf409c9a85a0a4.poster.avif?t=1773558948\" width=598 height=294 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/758e1f7b33f5eb8dd0bf409c9a85a0a4.webm?t=1773558948\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/758e1f7b33f5eb8dd0bf409c9a85a0a4.mp4?t=1773558948\" type=\"video/mp4\"></video></span> </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/6033a6436ca0f8c5140bbbf9d90d312a.poster.avif?t=1773558948\" width=106 height=148 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/6033a6436ca0f8c5140bbbf9d90d312a.webm?t=1773558948\" type=\"video/webm; codecs=vp9\"></video></span><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/bc3d22894ef6fd3b7147500af21a2f16.apng?t=1773558948\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/bc3d22894ef6fd3b7147500af21a2f16.poster.avif?t=1773558948\" class=\"bb_img\" width=100 height=116 /></picture></span> <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/e974a0dd269ffc8e35b62d06058d0c7d.poster.avif?t=1773558948\" width=152 height=120 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/e974a0dd269ffc8e35b62d06058d0c7d.webm?t=1773558948\" type=\"video/webm; codecs=vp9\"></video></span> <span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/43b5836e32f1828dd2cbe6075bc3b89f.apng?t=1773558948\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/43b5836e32f1828dd2cbe6075bc3b89f.poster.avif?t=1773558948\" class=\"bb_img\" width=138 height=104 /></picture></span> <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/d52605cd841307d02d35c3465d6500f6.poster.avif?t=1773558948\" width=72 height=88 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/d52605cd841307d02d35c3465d6500f6.webm?t=1773558948\" type=\"video/webm; codecs=vp9\"></video></span><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/077ff129a100debb95d8c18045a8f5d3.apng?t=1773558948\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/077ff129a100debb95d8c18045a8f5d3.poster.avif?t=1773558948\" class=\"bb_img\" width=609 height=295 /></picture></span></p><p class=\"bb_paragraph\" ><strong>I'm LavaFlame2, the developer of IdleOn!<br>Come join me over at  I host Free Gem Contests, post about Future Content, and we have 100,000+ members who love chatting and helping others through the game!</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/811aae38bde629112e26e81bd78a5981.avif?t=1773558948\" width=598 height=70 /></span></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/31600282221af3fb58f34d0323e8bbd5.poster.avif?t=1773558948\" width=600 height=231 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/31600282221af3fb58f34d0323e8bbd5.webm?t=1773558948\" type=\"video/webm; codecs=vp9\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/c40dc38e20e9520a1e08f2aa93d46328.poster.avif?t=1773558948\" width=598 height=336 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/c40dc38e20e9520a1e08f2aa93d46328.webm?t=1773558948\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/c40dc38e20e9520a1e08f2aa93d46328.mp4?t=1773558948\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/115e535b9acfe36c537d017effe1109e.poster.avif?t=1773558948\" width=598 height=113 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/115e535b9acfe36c537d017effe1109e.webm?t=1773558948\" type=\"video/webm; codecs=vp9\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/758e1f7b33f5eb8dd0bf409c9a85a0a4.poster.avif?t=1773558948\" width=598 height=294 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/758e1f7b33f5eb8dd0bf409c9a85a0a4.webm?t=1773558948\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/758e1f7b33f5eb8dd0bf409c9a85a0a4.mp4?t=1773558948\" type=\"video/mp4\"></video></span> </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/6033a6436ca0f8c5140bbbf9d90d312a.poster.avif?t=1773558948\" width=106 height=148 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/6033a6436ca0f8c5140bbbf9d90d312a.webm?t=1773558948\" type=\"video/webm; codecs=vp9\"></video></span><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/bc3d22894ef6fd3b7147500af21a2f16.apng?t=1773558948\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/bc3d22894ef6fd3b7147500af21a2f16.poster.avif?t=1773558948\" class=\"bb_img\" width=100 height=116 /></picture></span> <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/e974a0dd269ffc8e35b62d06058d0c7d.poster.avif?t=1773558948\" width=152 height=120 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/e974a0dd269ffc8e35b62d06058d0c7d.webm?t=1773558948\" type=\"video/webm; codecs=vp9\"></video></span> <span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/43b5836e32f1828dd2cbe6075bc3b89f.apng?t=1773558948\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/43b5836e32f1828dd2cbe6075bc3b89f.poster.avif?t=1773558948\" class=\"bb_img\" width=138 height=104 /></picture></span> <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/d52605cd841307d02d35c3465d6500f6.poster.avif?t=1773558948\" width=72 height=88 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/d52605cd841307d02d35c3465d6500f6.webm?t=1773558948\" type=\"video/webm; codecs=vp9\"></video></span><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/077ff129a100debb95d8c18045a8f5d3.apng?t=1773558948\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/077ff129a100debb95d8c18045a8f5d3.poster.avif?t=1773558948\" class=\"bb_img\" width=609 height=295 /></picture></span></p><p class=\"bb_paragraph\" ><strong>I'm LavaFlame2, the developer of IdleOn!<br>Come join me over at  I host Free Gem Contests, post about Future Content, and we have 100,000+ members who love chatting and helping others through the game!</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1476970/extras/811aae38bde629112e26e81bd78a5981.avif?t=1773558948\" width=598 height=70 /></span></p>",
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "MMO",
-    "Co-op",
-    "Online Co-op",
-    "Cross-Platform Multiplayer",
-    "Steam Achievements",
-    "In-App Purchases"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 4.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 28027,
-  "review_positive": 22090,
+  "review_positive": 0,
   "review_percentage": 78.8,
   "owner_estimate": 1500000,
-  "ccu_estimate": 11081,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 180,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 28023,
-      "review_percentage": 78.8,
-      "ccu_estimate": 11081,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
+      "date": "2026-04-04",
       "review_count": 28027,
       "review_percentage": 78.8,
-      "ccu_estimate": 11081,
+      "ccu_estimate": 0,
       "follower_count": 0
-    }
-  ],
-  "reviews": [
-    {
-      "review_id": "215431079",
-      "author_steamid": "76561198077273259",
-      "voted_up": false,
-      "votes_up": 10,
-      "playtime_at_review": 49908,
-      "review_text": "[b]Edit 21 March 2026[/b] The monetization has only become more egregious and pay to win. Banner ads will block gameplay, New features are balanced around buying all of the packs. The weird part is a lot of new content is requiring constant [b]active[/b] gameplay, to the point where it is not really even an enjoyable [b]idle[/b] game.\n\n[h1]Feels cobbled together[/h1]\nThere are some key pain points I've noticed which make it harder to recommend this game, despite my love for idlers. Two of the major ones tend to come from the monetization system, and the UI.\n\n[h2]Feels Pay to Progress[/h2]\nFrom a very early point, it feels like the game pushes you toward paying for convenience, and for access to more meaningful progression. Best stats? Purchased. Extra Teleports? Purchased. [i]Playing more skilling minigames?[/i] [b]Purchased.[/b]\n\nThe game also has occasional banner ads in game for different content packs that you can't close out, you have to slowly wait for it to fade away. It just feels like it has TOO many monetization \n\n[h2]GUI is a mess[/h2]\nI may be a bit picky here, but it feels like there is [b]zero[/b] consistency across any of the interfaces, menus, activities, etc. Even something as simple as the button to close out of a menu is vastly different or even nonexistent in some cases. I want to run through and just update them all to match!\n\n[h2]Required Multiplayer[/h2]\nFor an idle game, I was surprised by the amount of quests / content where it is [i]required[/i] to play with others. This may be more of a personal thing, but I don't generally want to trek to third party sites to get random people to help me out in an [b]idle[/b] game. Optional activities like the dungeons, sure it is fine. Quests where you quite literally just drag another person to a random spot on the map to type something in chat? Poor design.\n\n[hr][/hr]\n\nI am going to continue playing and hope it grows on me more, but I don't know if I could recommend for someone to pick it up fresh. IdleOn doesn’t feel poorly made—it feels under-curated, like a dozen good ideas were never unified into a cohesive experience.",
-      "timestamp_created": 1767819206
-    },
-    {
-      "review_id": "148906879",
-      "author_steamid": "76561198273133694",
-      "voted_up": true,
-      "votes_up": 0,
-      "playtime_at_review": 483030,
-      "review_text": "very good very confusing not enough play time\n\nlot of afk lot of money and somewhat decent needs more multyplayer thou\n\nStill no multiplayer just pet battles, still going good",
-      "timestamp_created": 1698322828
-    },
-    {
-      "review_id": "155902456",
-      "author_steamid": "76561199248219783",
-      "voted_up": false,
-      "votes_up": 0,
-      "playtime_at_review": 5600,
-      "review_text": "P2W game.",
-      "timestamp_created": 1705166783
-    },
-    {
-      "review_id": "221300118",
-      "author_steamid": "76561198045977333",
-      "voted_up": true,
-      "votes_up": 0,
-      "playtime_at_review": 2135,
-      "review_text": "it's very fun, just a lot of waiting sometimes",
-      "timestamp_created": 1774117216
-    },
-    {
-      "review_id": "221315686",
-      "author_steamid": "76561198129950497",
-      "voted_up": true,
-      "votes_up": 0,
-      "playtime_at_review": 354,
-      "review_text": "xa",
-      "timestamp_created": 1774127305
     }
   ]
 }

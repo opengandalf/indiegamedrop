@@ -3,8 +3,8 @@
   "name": "Chroma Blast",
   "slug": "chroma-blast",
   "developer": "William Cheek",
-  "publisher": "William Cheek",
-  "release_date": "Jul 7, 2017",
+  "publisher": "",
+  "release_date": "2017-07-07",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -23,36 +23,17 @@
     "mac",
     "linux"
   ],
-  "short_description": "Chroma Blast is a fast paced twin stick shooter with many different styles of play where you fight through waves of enemies while constantly leveling up your ships colorful arsenal. Beat your friends and challenge yourself in the leaderboards, or seek out a true test of skill for those good enough to find it.",
+  "short_description": "Chroma Blast is a fast paced twin stick shooter with many different styles of play where you fight through waves of enemies while constantly leveling up your ships colorful arsenal. Beat your friends ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653220/header.jpg?t=1634169265",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653220/ss_216a0b591abbf9b7426761c5770ffa836cf6239a.600x338.jpg?t=1634169265",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653220/ss_7e2493bbfc8fba0ef6a54c98f09e4ad8e8cd8dcd.600x338.jpg?t=1634169265",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653220/ss_300933643f719509d29569bf053440c8fb405ab2.600x338.jpg?t=1634169265",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653220/ss_6c443470e2def9d6b01037e147cbc167de1dfdda.600x338.jpg?t=1634169265",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/653220/ss_854a2eec97cea86e520175ad416ddc0730db0a0e.600x338.jpg?t=1634169265"
-  ],
-  "detailed_description": "Chroma Blast is a fast paced twin stick shooter with many different styles of play where you fight through waves of enemies while constantly leveling up your ships colorful arsenal. Beat your friends and challenge yourself in the leaderboards, or seek out a true test of skill for those good enough to find it.<br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li>6 challenging enemies<br></li><li>A deadly boss<br></li><li>31 unique weapons<br></li><li>Online leaderboards</li></ul>",
-  "about_the_game": "Chroma Blast is a fast paced twin stick shooter with many different styles of play where you fight through waves of enemies while constantly leveling up your ships colorful arsenal. Beat your friends and challenge yourself in the leaderboards, or seek out a true test of skill for those good enough to find it.<br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li>6 challenging enemies<br></li><li>A deadly boss<br></li><li>31 unique weapons<br></li><li>Online leaderboards</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Leaderboards"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 12.5,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 250,
-  "review_positive": 206,
+  "review_positive": 0,
   "review_percentage": 82.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +41,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 254,
-      "review_percentage": 81.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 250,
       "review_percentage": 82.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

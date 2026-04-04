@@ -3,8 +3,8 @@
   "name": "U桌球U",
   "slug": "u桌球u",
   "developer": "aboy",
-  "publisher": "aboy",
-  "release_date": "Apr 4, 2025",
+  "publisher": "",
+  "release_date": "2025-04-04",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -21,33 +21,9 @@
   ],
   "short_description": "\"U桌球U\" is a casual billiards game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595960/9f4967f6c220c3e3e79e18f4fe2556f67a685e96/header.jpg?t=1743760543",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595960/c64f69aacfebcb4ab1d82665f7ce7864e7a8fd70/ss_c64f69aacfebcb4ab1d82665f7ce7864e7a8fd70.600x338.jpg?t=1743760543",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595960/bbd2ca4900372117623f78da705c1d3e9b944fd1/ss_bbd2ca4900372117623f78da705c1d3e9b944fd1.600x338.jpg?t=1743760543",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595960/abba2e430ee04d99d59869cf13dbf42b00ff531b/ss_abba2e430ee04d99d59869cf13dbf42b00ff531b.600x338.jpg?t=1743760543",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595960/cafbea485ac7c12834ef9c897ea5bee75d5cd980/ss_cafbea485ac7c12834ef9c897ea5bee75d5cd980.600x338.jpg?t=1743760543",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595960/e89a3f79a1b6b26e2c405245a14cdeac9f10fada/ss_e89a3f79a1b6b26e2c405245a14cdeac9f10fada.600x338.jpg?t=1743760543",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595960/64356fa459e4be3e618661d473b31aa688cb1355/ss_64356fa459e4be3e618661d473b31aa688cb1355.600x338.jpg?t=1743760543"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Use the cue stick to pot all the balls to clear the level. However, be careful—if the cue ball falls into a pocket three times in a row, the game will end.</p><p class=\"bb_paragraph\" ><strong>Controls:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Shooting:</strong> Hold the left mouse button and use the \"Q\" and \"E\" keys to adjust the cue stick's direction. Release the left mouse button to strike the ball with the selected power.</p></li><li><p class=\"bb_paragraph\" ><strong>Camera View:</strong> Right-click to switch the camera view.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game offers two modes: <strong>Normal Mode</strong> and <strong>Crazy Mode</strong>.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Normal Mode:</strong> The ball's movement follows real-world physics, such as bouncing off walls as expected.</p></li><li><p class=\"bb_paragraph\" ><strong>Crazy Mode:</strong> The ball's movement is unpredictable and may not behave as expected, creating unexpected challenges.</p></li></ul>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Use the cue stick to pot all the balls to clear the level. However, be careful—if the cue ball falls into a pocket three times in a row, the game will end.</p><p class=\"bb_paragraph\" ><strong>Controls:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Shooting:</strong> Hold the left mouse button and use the \"Q\" and \"E\" keys to adjust the cue stick's direction. Release the left mouse button to strike the ball with the selected power.</p></li><li><p class=\"bb_paragraph\" ><strong>Camera View:</strong> Right-click to switch the camera view.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The game offers two modes: <strong>Normal Mode</strong> and <strong>Crazy Mode</strong>.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Normal Mode:</strong> The ball's movement follows real-world physics, such as bouncing off walls as expected.</p></li><li><p class=\"bb_paragraph\" ><strong>Crazy Mode:</strong> The ball's movement is unpredictable and may not behave as expected, creating unexpected challenges.</p></li></ul>",
-  "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

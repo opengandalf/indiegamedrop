@@ -3,8 +3,8 @@
   "name": "4096",
   "slug": "4096",
   "developer": "JinCycle",
-  "publisher": "JinCycle",
-  "release_date": "Jan 20, 2021",
+  "publisher": "",
+  "release_date": "2021-01-20",
   "price_usd": 4.99,
   "genres": [
     "Casual",
@@ -19,35 +19,15 @@
   ],
   "short_description": "It's a nice puzzle to move the same numbers next to each other.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512520/header.jpg?t=1611145988",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512520/ss_8e8f36b4d8113281134dbf7f35ec4a99dd52306e.600x338.jpg?t=1611145988",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512520/ss_65a17a5cdc3a3df1a66f7c8f7d5036e966fdb9c2.600x338.jpg?t=1611145988",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512520/ss_5d58be224a0126f8812e8eea3c8af69df3dbb463.600x338.jpg?t=1611145988",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512520/ss_c7ad079ce60e1badd6f4ef69e10113ce27ec26a4.600x338.jpg?t=1611145988",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512520/ss_0ce8f41a7ccae8f44d89654e5f6727112d8b7d48.600x338.jpg?t=1611145988"
-  ],
-  "detailed_description": "Move the number panels that appear every turn up, down, left and right.<br />\r\nCombine the same number to get 4096!<br />\r\nIf you can't move the panel, the game is over!<br />\r\nCompete on the leaderboard for high scores!",
-  "about_the_game": "Move the number panels that appear every turn up, down, left and right.<br />\r\nCombine the same number to get 4096!<br />\r\nIf you can't move the panel, the game is over!<br />\r\nCompete on the leaderboard for high scores!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 5,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 60.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,26 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 60.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 5,
-      "review_percentage": 60.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 60.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

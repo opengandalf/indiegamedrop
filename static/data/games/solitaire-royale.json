@@ -3,8 +3,8 @@
   "name": "Solitaire Royale",
   "slug": "solitaire-royale",
   "developer": "EnsenaSoft",
-  "publisher": "EnsenaSoft",
-  "release_date": "Sep 15, 2016",
+  "publisher": "",
+  "release_date": "2016-09-15",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -19,61 +19,21 @@
   ],
   "short_description": "Solitaire Royale is the classic 52-card deck Solitaire game also known as Klondike Solitaire.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/530720/header.jpg?t=1668820867",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/530720/ss_26aeb7d3f7602c70a89c4efce0918734109cd3c4.600x338.jpg?t=1668820867",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/530720/ss_9a08f6c0a0d625e7916ce711083b417795a900bc.600x338.jpg?t=1668820867",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/530720/ss_3ee144bfe97d64c1b649ccc3e264cc66a0651407.600x338.jpg?t=1668820867",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/530720/ss_6c6c6b3b1021a7c27a5505f6d4f066bfff2ddbdc.600x338.jpg?t=1668820867",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/530720/ss_3b9a9df511cf78839af2d8fcb96ccebfb76a956c.600x338.jpg?t=1668820867",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/530720/ss_82408a3faa00efff7d73439aaa9a4ddfd2d978ad.600x338.jpg?t=1668820867",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/530720/ss_e062785c6cdce138485554053f44560aab8dc84a.600x338.jpg?t=1668820867",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/530720/ss_3050f4f245427f9198381af93eef375f44a26d18.600x338.jpg?t=1668820867"
-  ],
-  "detailed_description": "<strong>Solitaire Royale</strong> is the classic 52-card deck Solitaire game also known as <i>Klondike Solitaire</i>. This version of Solitaire features a 3-card waste when flipping through the deck and is both easy to learn and still challenging for expert players. Your goal is to get all 52 cards into the four foundations at the top in order from Ace through King. Cycle through the deck, three cards at a time, and remove cards to build stacks of cards in the tableau.",
-  "about_the_game": "<strong>Solitaire Royale</strong> is the classic 52-card deck Solitaire game also known as <i>Klondike Solitaire</i>. This version of Solitaire features a 3-card waste when flipping through the deck and is both easy to learn and still challenging for expert players. Your goal is to get all 52 cards into the four foundations at the top in order from Ace through King. Cycle through the deck, three cards at a time, and remove cards to build stacks of cards in the tableau.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 5.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 57,
-  "review_positive": 32,
+  "review_positive": 0,
   "review_percentage": 56.1,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 6811,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 52,
-      "review_percentage": 55.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 57,
-      "review_percentage": 56.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 57,
       "review_percentage": 56.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Move My Moc",
   "slug": "move-my-moc",
   "developer": "Gabor Farkas",
-  "publisher": "Gabor Farkas",
-  "release_date": "Jun 3, 2024",
+  "publisher": "",
+  "release_date": "2024-06-03",
   "price_usd": 6.99,
   "genres": [
     "Indie",
@@ -24,40 +24,9 @@
   ],
   "short_description": "Import and play your LDraw models in an open-world, car-focused sandbox environment.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190980/header.jpg?t=1721669681",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190980/ss_1f422aff182715333e70f9fe9832d05e41516099.600x338.jpg?t=1721669681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190980/ss_4c76024500aa12c59ea060a65d90a806d3436502.600x338.jpg?t=1721669681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190980/ss_e0cff16fd847ee8202947bedc7de55ce1bb92777.600x338.jpg?t=1721669681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190980/ss_6d601ddc22f542c881944696ecd75ec94ad14736.600x338.jpg?t=1721669681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190980/ss_e25988a5819f71ed43d3d5d0bdcc61074eea2bd7.600x338.jpg?t=1721669681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190980/ss_1cf5cea1660f12d5363825e38d350ee45105a54b.600x338.jpg?t=1721669681",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2190980/ss_bd9c671fdca2e6df315b9e77ca3110713b6f5e62.600x338.jpg?t=1721669681"
-  ],
-  "detailed_description": "MoveMyMoc can import LDraw models into an open-world, physical simulation sandbox game. You can design your car models and environment objects in Bricklink Studio or any other tool that supports LDraw. MoveMyMoc will try to identify common car parts of your model and make it instantly playable within the game.<br />\r\n<br />\r\nYou can configure various interactive behavior on the models imported, see the images and videos above, and check out the Youtube channel linked. Detailed tutorials are available that describe game features.<br />\r\n<br />\r\nThe game also comes with an environment designer that lets you create your own game maps, including terrain elevation design, road design and placement of interactive items.<br />\r\n<br />\r\nThe game currently is a pure sandbox game, there are no predefined levels to complete, no built-in gameplay or story. There's a smaller selection of vehicles and two example maps that come with the game.<br />\r\n<br />\r\nSteam workshop integration is on the roadmap to let you share your imported creations and created environments with others.",
-  "about_the_game": "MoveMyMoc can import LDraw models into an open-world, physical simulation sandbox game. You can design your car models and environment objects in Bricklink Studio or any other tool that supports LDraw. MoveMyMoc will try to identify common car parts of your model and make it instantly playable within the game.<br />\r\n<br />\r\nYou can configure various interactive behavior on the models imported, see the images and videos above, and check out the Youtube channel linked. Detailed tutorials are available that describe game features.<br />\r\n<br />\r\nThe game also comes with an environment designer that lets you create your own game maps, including terrain elevation design, road design and placement of interactive items.<br />\r\n<br />\r\nThe game currently is a pure sandbox game, there are no predefined levels to complete, no built-in gameplay or story. There's a smaller selection of vehicles and two example maps that come with the game.<br />\r\n<br />\r\nSteam workshop integration is on the roadmap to let you share your imported creations and created environments with others.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Partial Controller Support",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 7,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 85.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -65,19 +34,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 85.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

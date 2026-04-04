@@ -3,8 +3,8 @@
   "name": "Colorpick - PRO",
   "slug": "colorpick-pro",
   "developer": "Dustin Hendriks",
-  "publisher": "Dustin Hendriks",
-  "release_date": "Nov 4, 2020",
+  "publisher": "",
+  "release_date": "2020-11-04",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -27,31 +27,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Colorpick - PRO is a professional color tool that allows you to easily select, view, and copy colors in HEX, RGB, CMYK, HSV, and HSL formats. Perfect for designers and developers, it simplifies color management and integration with an intuitive interface.",
+  "short_description": "Colorpick - PRO is a professional color tool that allows you to easily select, view, and copy colors in HEX, RGB, CMYK, HSV, and HSL formats. Perfect for designers and developers, it simplifies color ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388790/header.jpg?t=1758030526",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388790/ss_ba3e126c1c21a0a9c2096a7bff14d58ddf4599c0.600x338.jpg?t=1758030526",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388790/ss_e013d6c3cf71de2fbdcb32d9e2aee2ae05c238ee.600x338.jpg?t=1758030526",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388790/ss_ef3f7ab12584e84bc93d5eb0d0d32e30858e2f37.600x338.jpg?t=1758030526",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388790/ss_b7ad7d6a8c3f7879e96e144fafbcae7eac28bf47.600x338.jpg?t=1758030526",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388790/ss_8b93ac7b31a00bb170d2da372aabf76d1c84b513.600x338.jpg?t=1758030526"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Colorpick - PRO</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Effortlessly select and manage colors with Colorpick - PRO, the ultimate color utility for designers, developers, and creatives. Quickly pick any color from your screen or palette, view its details, and copy its value in multiple color models for seamless integration into your projects.</p><p class=\"bb_paragraph\" ><strong>Features:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Precise color selection from anywhere on your screen</p></li><li><p class=\"bb_paragraph\" >Support for a wide range of color models:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >HEX</p></li><li><p class=\"bb_paragraph\" >RGB</p></li><li><p class=\"bb_paragraph\" >CMYK</p></li><li><p class=\"bb_paragraph\" >HSV</p></li><li><p class=\"bb_paragraph\" >HSL</p></li></ul></li><li><p class=\"bb_paragraph\" >Easy-to-use interface with real-time color visualization</p></li><li><p class=\"bb_paragraph\" >One-click copy functionality for quick workflow</p></li><li><p class=\"bb_paragraph\" >Intuitive color palette and picker tools</p></li></ul><p class=\"bb_paragraph\" >Streamline your color workflow with Colorpick - PRO — the professional tool for accurate color management.</p>",
-  "about_the_game": "<h2 class=\"bb_tag\" >Colorpick - PRO</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Effortlessly select and manage colors with Colorpick - PRO, the ultimate color utility for designers, developers, and creatives. Quickly pick any color from your screen or palette, view its details, and copy its value in multiple color models for seamless integration into your projects.</p><p class=\"bb_paragraph\" ><strong>Features:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Precise color selection from anywhere on your screen</p></li><li><p class=\"bb_paragraph\" >Support for a wide range of color models:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >HEX</p></li><li><p class=\"bb_paragraph\" >RGB</p></li><li><p class=\"bb_paragraph\" >CMYK</p></li><li><p class=\"bb_paragraph\" >HSV</p></li><li><p class=\"bb_paragraph\" >HSL</p></li></ul></li><li><p class=\"bb_paragraph\" >Easy-to-use interface with real-time color visualization</p></li><li><p class=\"bb_paragraph\" >One-click copy functionality for quick workflow</p></li><li><p class=\"bb_paragraph\" >Intuitive color palette and picker tools</p></li></ul><p class=\"bb_paragraph\" >Streamline your color workflow with Colorpick - PRO — the professional tool for accurate color management.</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.4,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 8,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 62.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +45,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 8,
-      "review_percentage": 62.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 62.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

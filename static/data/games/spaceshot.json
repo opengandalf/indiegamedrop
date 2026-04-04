@@ -3,8 +3,8 @@
   "name": "SpaceShot",
   "slug": "spaceshot",
   "developer": "Shevchenko Technology",
-  "publisher": "Shevchenko Technology",
-  "release_date": "Sep 20, 2017",
+  "publisher": "",
+  "release_date": "2017-09-20",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -21,61 +21,27 @@
   ],
   "short_description": "SpaceShot - a complex arcade game in which you must destroy the alien invaders and collect bonuses. Three game modes, fast gameplay and a lot of achievements are waiting for you.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675940/header.jpg?t=1506015388",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675940/ss_28287afb4be82f953fcbfad6094ceaca09b2340f.600x338.jpg?t=1506015388",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675940/ss_895006c647f7639537906c4b573e5a9cc49abd04.600x338.jpg?t=1506015388",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675940/ss_17f35c5cd6d93622501b4c8f0d88b2f9ed3c247c.600x338.jpg?t=1506015388",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675940/ss_afb3d5e73a55629265195893dea0b217a8eb1b9b.600x338.jpg?t=1506015388",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675940/ss_1c4af1a154a72dea6d20a243d4696246a5fe352a.600x338.jpg?t=1506015388"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675940/extras/b21c4c0ae9302d77973ec493011976ab.avif?t=1506015388\" width=400 height=100 /></span><h2 class=\"bb_tag\" >About:</h2>SpaceShot - a complex arcade game in which you must destroy the alien invaders and collect bonuses. Three exciting game modes that do not let you get bored. This is an ideal game for killing time.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675940/extras/e281f47c276b381fb70a956e907458e5.avif?t=1506015388\" width=400 height=100 /></span><h2 class=\"bb_tag\" >Game Features:</h2>• Three exciting game modes <br>• Items and bonuses<br>• Perfect game for killing time<br>• Pleasant graphics <br>• More than 4500 achievements <br>• Gamepad support<br>• Low price",
-  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675940/extras/b21c4c0ae9302d77973ec493011976ab.avif?t=1506015388\" width=400 height=100 /></span><h2 class=\"bb_tag\" >About:</h2>SpaceShot - a complex arcade game in which you must destroy the alien invaders and collect bonuses. Three exciting game modes that do not let you get bored. This is an ideal game for killing time.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675940/extras/e281f47c276b381fb70a956e907458e5.avif?t=1506015388\" width=400 height=100 /></span><h2 class=\"bb_tag\" >Game Features:</h2>• Three exciting game modes <br>• Items and bonuses<br>• Perfect game for killing time<br>• Pleasant graphics <br>• More than 4500 achievements <br>• Gamepad support<br>• Low price",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 207,
+  "screenshots": [],
   "rising_score": 0.0002,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 20.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 289,
-  "review_positive": 234,
+  "review_positive": 0,
   "review_percentage": 81.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 18,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 269,
-      "review_percentage": 79.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 288,
-      "review_percentage": 80.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 289,
       "review_percentage": 81.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Cluck",
   "slug": "cluck",
   "developer": "Redgate Entertainment",
-  "publisher": "Redgate Entertainment",
-  "release_date": "May 12, 2023",
+  "publisher": "",
+  "release_date": "2023-05-12",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -19,58 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Cluck is an extremely fast-paced fps arena shooter. Spawn with only a pistol and find weapons, armor, health and powerups such as the Quack and Speed along the map. Jump pads and portals are also around the map, enabling you to get to your destination. And customize your own chicken!",
+  "short_description": "Cluck is an extremely fast-paced fps arena shooter. Spawn with only a pistol and find weapons, armor, health and powerups such as the Quack and Speed along the map. Jump pads and portals are also arou",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/header.jpg?t=1685983595",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_6ebfbeb77e0ac5ae9893208a89fd8e07f9b4ceba.600x338.jpg?t=1685983595",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_55ae18202b83eaf003d8d923e8374e8ce13b272e.600x338.jpg?t=1685983595",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_3c65f564a85a3b03c51ee7c44fb18f7e74b1ed4e.600x338.jpg?t=1685983595",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_d666e758992df3bb98ef9b2e6bfcdd7f17b1e1e3.600x338.jpg?t=1685983595",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_1f34844e3307161b21c519032dfc2f8d181a86b1.600x338.jpg?t=1685983595",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_51d8cedb1c63d949ce07ae60aa439e0501b66949.600x338.jpg?t=1685983595",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_edc6bf48dd88c29bbe0931412e8f3383d999623d.600x338.jpg?t=1685983595",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_f86d095a9732dd4d1396fad4d9d659763ca2750b.600x338.jpg?t=1685983595",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_d2c13576e2b2d4a36a266d8055d8dc96c77f00d2.600x338.jpg?t=1685983595",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_beb5da1510002a87c90c1598bb07ac9d7395d98f.600x338.jpg?t=1685983595",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_13f4f221f11d7d09b17d4b282b62ef3bb115ed53.600x338.jpg?t=1685983595",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_fb2c98c4387d282c95aeb7b480ae560e2ad5f8f1.600x338.jpg?t=1685983595",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_80b70ea681355c8b2bab59b24af28c3c4a328d3b.600x338.jpg?t=1685983595",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_a32fb31c599fb79991a06ade30f5ef9f8f3af747.600x338.jpg?t=1685983595",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_b5394f696cb83eec9c0dd036e2040d747b6aa4f0.600x338.jpg?t=1685983595",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_207a999ed5a1e09076436db3d87f718051e413a7.600x338.jpg?t=1685983595",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_00289250262826cfb591af3ea0dfd58c1711d898.600x338.jpg?t=1685983595",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_64caa70a5284d153f93ec1e7a21a7a94e8abb39c.600x338.jpg?t=1685983595",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_3626963886a03511d63809f7a04005ba00371af5.600x338.jpg?t=1685983595",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_6886a4de007608178ade0dcf27e94141647a6e20.600x338.jpg?t=1685983595",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_706970fa859c28fa503bf02ce7a80ede875d0324.600x338.jpg?t=1685983595",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/ss_52f43990a573099604e33fc90fe94a9e1b42b1a2.600x338.jpg?t=1685983595"
-  ],
-  "detailed_description": "Do you miss the old simple fps games? Well we got you! Cluck is all about extremely fast phase shooting. So expect to die a lot! Unless you're a god of course. Spawn with only a pistol and get those pickups. These pickups are all around the map waiting to get picked up. Pickup armor, health, weapons ammo and get some kills. We can't forget the ultimate pickups though, the quack. Giving you 4x the damage, wrecking your opponents. Or pickup the Speed, making you faster at everything, including fire rate to shred your enemies. There's also jump pads you can use to get to your destination, the same goes for the portals. Be careful to not be on the other side of that portal for too long, as you can shoot grenades through the portals! Master the bunnyhopping and fly through your enemies with high speed, making you speeding around the map! If you're close enough to an enemy, punch them with your weapon for a quick kill and call out their humiliation. Remember to punch with your rocket launcher if you're too close to an opponent, as you don't want to kill yourself at the same time.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/extras/fce8a25d2ff8389e22e349214575e8f6.poster.avif?t=1685983595\" width=538 height=304 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/extras/fce8a25d2ff8389e22e349214575e8f6.webm?t=1685983595\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/extras/fce8a25d2ff8389e22e349214575e8f6.mp4?t=1685983595\" type=\"video/mp4\"></video></span><br><br><strong>Customization</strong><br><br>Customize your character with the in-game currency you get by playing the game itself. Get new colors, patches, face expressions, hats, and more! New updates will also come with even more customization options for you!<br><br><strong>Weapons</strong><br><br>10 weapons are in this game. No need to stop and interact with the weapons and items you want to pick up though, just run over everything you see. Lets keep this simple, fun and fast-paced!<br><br><br><br><br>Join our Discord!<br>",
-  "about_the_game": "Do you miss the old simple fps games? Well we got you! Cluck is all about extremely fast phase shooting. So expect to die a lot! Unless you're a god of course. Spawn with only a pistol and get those pickups. These pickups are all around the map waiting to get picked up. Pickup armor, health, weapons ammo and get some kills. We can't forget the ultimate pickups though, the quack. Giving you 4x the damage, wrecking your opponents. Or pickup the Speed, making you faster at everything, including fire rate to shred your enemies. There's also jump pads you can use to get to your destination, the same goes for the portals. Be careful to not be on the other side of that portal for too long, as you can shoot grenades through the portals! Master the bunnyhopping and fly through your enemies with high speed, making you speeding around the map! If you're close enough to an enemy, punch them with your weapon for a quick kill and call out their humiliation. Remember to punch with your rocket launcher if you're too close to an opponent, as you don't want to kill yourself at the same time.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/extras/fce8a25d2ff8389e22e349214575e8f6.poster.avif?t=1685983595\" width=538 height=304 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/extras/fce8a25d2ff8389e22e349214575e8f6.webm?t=1685983595\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882750/extras/fce8a25d2ff8389e22e349214575e8f6.mp4?t=1685983595\" type=\"video/mp4\"></video></span><br><br><strong>Customization</strong><br><br>Customize your character with the in-game currency you get by playing the game itself. Get new colors, patches, face expressions, hats, and more! New updates will also come with even more customization options for you!<br><br><strong>Weapons</strong><br><br>10 weapons are in this game. No need to stop and interact with the weapons and items you want to pick up though, just run over everything you see. Lets keep this simple, fun and fast-paced!<br><br><br><br><br>Join our Discord!<br>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Steam Achievements",
-    "In-App Purchases",
-    "Partial Controller Support",
-    "Steam Cloud",
-    "Stats",
-    "Steam Leaderboards"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 1.75,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 35,
-  "review_positive": 18,
+  "review_positive": 0,
   "review_percentage": 51.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -78,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 33,
-      "review_percentage": 45.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 35,
       "review_percentage": 51.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

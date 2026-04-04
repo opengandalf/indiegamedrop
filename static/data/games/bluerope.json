@@ -3,8 +3,8 @@
   "name": "BlueRope",
   "slug": "bluerope",
   "developer": "エル",
-  "publisher": "OneLittleWorld",
-  "release_date": "Feb 10, 2024",
+  "publisher": "",
+  "release_date": "2024-02-10",
   "price_usd": 0.0,
   "genres": [
     "RPG"
@@ -17,32 +17,15 @@
   ],
   "short_description": "BlueRopeはオーソドックスなターン制JRPGです。 戦闘やダンジョンでの駆け引き、装備をそろえて新東京に存在する能力者を”処理”しましょう。",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800030/header.jpg?t=1717412736",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800030/ss_829935ab4f35296fb1d00e6ba39ee6d81e84604b.600x338.jpg?t=1717412736",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800030/ss_abc4d0e431f61b694da107c39bdda6696a70faec.600x338.jpg?t=1717412736",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800030/ss_dc5a65458c15fee189630886275ad63053e99bde.600x338.jpg?t=1717412736",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800030/ss_aab6399c14b8b193ab1b43a7be474c7ff03f1fd0.600x338.jpg?t=1717412736",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2800030/ss_1ff1e42d4e86edb76bc3bdda4a7c9d7311369877.600x338.jpg?t=1717412736"
-  ],
-  "detailed_description": "BlueRopeはオーソドックスなターン制JRPGです。<br>戦闘やダンジョンでの駆け引き、装備をそろえて新東京に存在する能力者を”処理”しましょう。<br>この作品は15~30分程度でのゲームクリアを想定しています。<br><br><br><ul class=\"bb_ul\"><li>ストーリー</li></ul>中国とロシアが日本に宣戦布告し、北海道と東北は中国の手に落ちた……。<br>東北戦線はいまだ硬直していた。<br>この戦争で活躍した”能力者”は人間が持ちえない能力を持った人々であり<br>DNA改変によって能力を得た。<br>日本の特殊能力部隊”ヤタガラス”として能力者の使命を果たせ。",
-  "about_the_game": "BlueRopeはオーソドックスなターン制JRPGです。<br>戦闘やダンジョンでの駆け引き、装備をそろえて新東京に存在する能力者を”処理”しましょう。<br>この作品は15~30分程度でのゲームクリアを想定しています。<br><br><br><ul class=\"bb_ul\"><li>ストーリー</li></ul>中国とロシアが日本に宣戦布告し、北海道と東北は中国の手に落ちた……。<br>東北戦線はいまだ硬直していた。<br>この戦争で活躍した”能力者”は人間が持ちえない能力を持った人々であり<br>DNA改変によって能力を得た。<br>日本の特殊能力部隊”ヤタガラス”として能力者の使命を果たせ。",
-  "supported_languages": "Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

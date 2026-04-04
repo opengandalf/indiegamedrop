@@ -3,8 +3,8 @@
   "name": "Two Digits",
   "slug": "two-digits",
   "developer": "Cleverweek",
-  "publisher": "Cleverweek",
-  "release_date": "May 22, 2015",
+  "publisher": "",
+  "release_date": "2015-05-22",
   "price_usd": 1.99,
   "genres": [
     "Casual",
@@ -19,65 +19,23 @@
     "mac",
     "linux"
   ],
-  "short_description": "Simple, minimalist and difficult. Two Digits is a perfect blend between insanity and happiness. You are given 9 numbers less than 100, and all you have to do is to choose two subsets with the same sum.",
+  "short_description": "Simple, minimalist and difficult. Two Digits is a perfect blend between insanity and happiness. You are given 9 numbers less than 100, and all you have to do is to choose two subsets with the same sum",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371330/header.jpg?t=1478260539",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371330/ss_3337c4ade1dd8aa307893c75c00020d6eaccb074.600x338.jpg?t=1478260539",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371330/ss_a7bd8f3e1c6855037b3adfa4d18980e5f5ed30cb.600x338.jpg?t=1478260539",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371330/ss_f58e3f2f746c4687346ee6557f96fed5f1befa62.600x338.jpg?t=1478260539",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371330/ss_98d30eb6be92537732dd2cf51149f4e7262a5d39.600x338.jpg?t=1478260539",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371330/ss_978c6569cecc0c50c9d92e130a153d280a31874f.600x338.jpg?t=1478260539",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/371330/ss_62934ab27c585ed6f8ed10a1ed3f2610aca94c2e.600x338.jpg?t=1478260539"
-  ],
-  "detailed_description": "Simple, minimalist and difficult. Two Digits is a perfect blend between insanity and happiness.<br><br>The objective is simple. You are given 9 numbers less than 100, and all you have to do is to choose two subsets with the same sum.<br><br>Just try it. See how difficult it is!<br><br>Features<br><br><ul class=\"bb_ul\"><li>250 puzzles, 11 level sets<br></li><li>Random mode, generate your own levels<br></li><li>Beautiful, calm UI<br></li><li>Steam Achievements</li></ul>",
-  "about_the_game": "Simple, minimalist and difficult. Two Digits is a perfect blend between insanity and happiness.<br><br>The objective is simple. You are given 9 numbers less than 100, and all you have to do is to choose two subsets with the same sum.<br><br>Just try it. See how difficult it is!<br><br>Features<br><br><ul class=\"bb_ul\"><li>250 puzzles, 11 level sets<br></li><li>Random mode, generate your own levels<br></li><li>Beautiful, calm UI<br></li><li>Steam Achievements</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Trading Cards",
-    "Stats",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 162,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 7.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 412,
-  "review_positive": 295,
+  "review_positive": 0,
   "review_percentage": 71.6,
   "owner_estimate": 350000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 273,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 405,
-      "review_percentage": 71.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 412,
-      "review_percentage": 71.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 412,
       "review_percentage": 71.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

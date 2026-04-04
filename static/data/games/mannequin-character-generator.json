@@ -3,8 +3,8 @@
   "name": "Mannequin Character Generator",
   "slug": "mannequin-character-generator",
   "developer": "AR14.works",
-  "publisher": "AR14.works",
-  "release_date": "Jul 31, 2020",
+  "publisher": "",
+  "release_date": "2020-07-31",
   "price_usd": 22.49,
   "genres": [
     "Design & Illustration",
@@ -23,33 +23,9 @@
   ],
   "short_description": "2D character portrait generator for visual novels, JRPGs, and VTubers!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280420/header.jpg?t=1745874661",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280420/ss_424872c4eeaad766c23e64a71ce34a4eb21f61f5.600x338.jpg?t=1745874661",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280420/ss_eefa7a6de561d2da7ab11a5d4edf59072a892fb0.600x338.jpg?t=1745874661",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280420/ss_307b932268f42e9c4eec27032415adb48bfa2a92.600x338.jpg?t=1745874661",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280420/ss_7ff03e75bdf2d5e01d892ac0cd846933f896c9a0.600x338.jpg?t=1745874661",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280420/ss_8a0e2d52f8eaa89ddd8b8a84606471c315f55773.600x338.jpg?t=1745874661",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280420/ss_e10aa471c1f5e389d9207220dafeaacf448bb428.600x338.jpg?t=1745874661",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1280420/ss_d4ce3f7502242bd2947f9bf7df5f85819e51ffde.600x338.jpg?t=1745874661"
-  ],
-  "detailed_description": "Mannequin is a 2D character portrait generator which is designed for video game developers (especially visual novels and JRPGs) and VTubers! Using this app, you can create full-body character portraits with various poses, clothing styles, hairstyles and expressions. VTuber models with face tracking are also available as an export option via Inochi2D, an open source standard developed as an alternative to Live2D.<br><br>Mannequin is fine-tuned with ease of use as its focus. If you're an artist or have an artist in your team, you will find Mannequin's simple interface useful for quick prototyping. If you're not an artist, then you'll find that its high-quality output can match a lot of other games' art, so you can confidently use it for production.<br><br><strong>You are free to use any of your exported character files in your personal and commercial projects.</strong>",
-  "about_the_game": "Mannequin is a 2D character portrait generator which is designed for video game developers (especially visual novels and JRPGs) and VTubers! Using this app, you can create full-body character portraits with various poses, clothing styles, hairstyles and expressions. VTuber models with face tracking are also available as an export option via Inochi2D, an open source standard developed as an alternative to Live2D.<br><br>Mannequin is fine-tuned with ease of use as its focus. If you're an artist or have an artist in your team, you will find Mannequin's simple interface useful for quick prototyping. If you're not an artist, then you'll find that its high-quality output can match a lot of other games' art, so you can confidently use it for production.<br><br><strong>You are free to use any of your exported character files in your personal and commercial projects.</strong>",
-  "supported_languages": "English, French, Indonesian, Hungarian, German, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Workshop"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 92,
-  "review_positive": 80,
+  "review_positive": 0,
   "review_percentage": 87.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 88,
-      "review_percentage": 88.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 92,
       "review_percentage": 87.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

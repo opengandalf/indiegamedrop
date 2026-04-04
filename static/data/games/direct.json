@@ -3,8 +3,8 @@
   "name": "Direct",
   "slug": "direct",
   "developer": "ToastieLabs",
-  "publisher": "ToastieLabs",
-  "release_date": "Aug 17, 2017",
+  "publisher": "",
+  "release_date": "2017-08-17",
   "price_usd": 0.49,
   "genres": [
     "Action",
@@ -19,35 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Direct is a fast paced score-attack game. Play to unlock cosmetic ship upgrades and increasingly more difficult game modes. Approximately a 2 hour experience to complete, but still fun and easy to jump back into during a coffee break to beat your high scores. Addictive, infuriating fun!",
+  "short_description": "Direct is a fast paced score-attack game. Play to unlock cosmetic ship upgrades and increasingly more difficult game modes. Approximately a 2 hour experience to complete, but still fun and easy to jum",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675720/header.jpg?t=1650471754",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675720/ss_1f2cd5ba79bbb96931ba6bb1449db482c9e8974c.600x338.jpg?t=1650471754",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675720/ss_45e49323359ceb708e01b44e61d58f27541857d6.600x338.jpg?t=1650471754",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675720/ss_5ada76e7b9da62563b01b111db2c4c51d8060fd9.600x338.jpg?t=1650471754",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675720/ss_8b2050761d4837bdfbaf7bfaf1bf5e51b795350b.600x338.jpg?t=1650471754",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675720/ss_1bb988c76566dd7253cc66dd88034e9c0dfcf046.600x338.jpg?t=1650471754"
-  ],
-  "detailed_description": "<strong>Overview</strong><br>This is a color and sound based rhythm game. Go fast, avoid obstacles, and score big. <br><br><strong>How it works</strong><br>Score points for each set you successfully avoid. <br>Spend points to unlock cosmetic enhancements.<br>Score big to unlock harder difficulty levels.<br><br>Unlock Slow-Mode using points for an easier ride. Although this is not needed to complete Direct, the gradual increasing speed allows for a higher skill ceiling for higher scores.<br><br><strong>What to expect</strong><br><ul class=\"bb_ul\"><li> 5 difficulty modes<br></li><li> 10 unlockable cosmetic ship variations<br></li><li> 520 Steam achievements<br></li><li> 0-100% in 2 hours<br></li><li> Unlockable slow mode so that all players can experience the full game</li></ul>",
-  "about_the_game": "<strong>Overview</strong><br>This is a color and sound based rhythm game. Go fast, avoid obstacles, and score big. <br><br><strong>How it works</strong><br>Score points for each set you successfully avoid. <br>Spend points to unlock cosmetic enhancements.<br>Score big to unlock harder difficulty levels.<br><br>Unlock Slow-Mode using points for an easier ride. Although this is not needed to complete Direct, the gradual increasing speed allows for a higher skill ceiling for higher scores.<br><br><strong>What to expect</strong><br><ul class=\"bb_ul\"><li> 5 difficulty modes<br></li><li> 10 unlockable cosmetic ship variations<br></li><li> 520 Steam achievements<br></li><li> 0-100% in 2 hours<br></li><li> Unlockable slow mode so that all players can experience the full game</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 3.95,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 79,
-  "review_positive": 47,
+  "review_positive": 0,
   "review_percentage": 59.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 78,
-      "review_percentage": 60.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 79,
       "review_percentage": 59.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

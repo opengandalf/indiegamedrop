@@ -3,8 +3,8 @@
   "name": "Aura Wallpaper",
   "slug": "aura-wallpaper",
   "developer": "momo5502",
-  "publisher": "momo5502",
-  "release_date": "Feb 28, 2024",
+  "publisher": "",
+  "release_date": "2024-02-28",
   "price_usd": 2.79,
   "genres": [
     "Utilities"
@@ -17,29 +17,15 @@
   ],
   "short_description": "Aura Wallpaper - Animated Desktop & Lockscreen Wallpapers",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726120/header.jpg?t=1734611566",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726120/ss_0c8e2ae0286cca57d55685829ff0492e253685db.600x338.jpg?t=1734611566",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726120/ss_199beab1276813befc348ee92f0806fc0e1a1e73.600x338.jpg?t=1734611566",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726120/ss_05051d8df1b19df88a4437373b8815081cff130a.600x338.jpg?t=1734611566",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726120/ss_12020562f6ffa3e48cbc350e00edeea717f750db.600x338.jpg?t=1734611566",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726120/ss_742f46d9a71f2ef0ad12d74c6f5c7aa363bbd094.600x338.jpg?t=1734611566"
-  ],
-  "detailed_description": "Aura Wallpaper enables animated desktop && lockscreen wallpapers on Windows 10 and 11.<br>It enables the display of any HTML page, for example Websites or YouTube videos on your Windows desktop or lockscreen.<br><br><strong><u>How to use Aura:</u></strong><br><br><ul class=\"bb_ul\"><li> Start Aura and right click the Aura logo in your task bar<br></li><li> Click on <strong>Select Wallpaper</strong><br></li><li> Browse for your favorite video<br></li><li> Fast forward to the point you want your wallpaper to start<br></li><li> Click <strong>Set LockScreen Wallpaper</strong><br></li><li> The video is now your lockscreen wallpaper starting at the same timepoint</li></ul><br>Performance and resource usage is optimized: For lockscreen wallpapers Aura Wallpaper will not consume any resources unless your PC is locked.",
-  "about_the_game": "Aura Wallpaper enables animated desktop && lockscreen wallpapers on Windows 10 and 11.<br>It enables the display of any HTML page, for example Websites or YouTube videos on your Windows desktop or lockscreen.<br><br><strong><u>How to use Aura:</u></strong><br><br><ul class=\"bb_ul\"><li> Start Aura and right click the Aura logo in your task bar<br></li><li> Click on <strong>Select Wallpaper</strong><br></li><li> Browse for your favorite video<br></li><li> Fast forward to the point you want your wallpaper to start<br></li><li> Click <strong>Set LockScreen Wallpaper</strong><br></li><li> The video is now your lockscreen wallpaper starting at the same timepoint</li></ul><br>Performance and resource usage is optimized: For lockscreen wallpapers Aura Wallpaper will not consume any resources unless your PC is locked.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 3.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 65,
-  "review_positive": 45,
+  "review_positive": 0,
   "review_percentage": 69.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -47,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 32,
-      "review_percentage": 78.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 65,
       "review_percentage": 69.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

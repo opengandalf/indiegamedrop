@@ -3,8 +3,8 @@
   "name": "Escape Fantasy",
   "slug": "escape-fantasy",
   "developer": "Marcelo Villarreal",
-  "publisher": "pulsartronic",
-  "release_date": "Sep 22, 2017",
+  "publisher": "",
+  "release_date": "2017-09-22",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -25,34 +25,15 @@
   ],
   "short_description": "Escape from a rare Fantasy world. Beautiful puzzle based game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/697730/header.jpg?t=1506139643",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/697730/ss_985d3808db7c95c12cfd57cded3bcbf147843520.600x338.jpg?t=1506139643",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/697730/ss_c1c89ae7f155ea57a0c89391a0bae91a19fb47fc.600x338.jpg?t=1506139643",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/697730/ss_6bbfd31176d1d9b791575a385925ae9ecbd58ddf.600x338.jpg?t=1506139643",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/697730/ss_37fdc630da8449bf7c1c6013381c1d9fa55c6eb1.600x338.jpg?t=1506139643",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/697730/ss_5f39ff4a01264262dbb2f6d72e83d400a5de114e.600x338.jpg?t=1506139643",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/697730/ss_18cace5685ec6830fc117aa5cb4fa8c8d7577e94.600x338.jpg?t=1506139643"
-  ],
-  "detailed_description": "In a purely one-developer indie game, you are a little guy trying to <strong>Escape</strong> from a rare <strong>Fantasy</strong> world. Level by level you have to solve a nice puzzle by pushing buttons, unlocking doors, changing gravity on things, jumping, double jumping, sliding on walls, moving objects and, often, by doing some of those things at the right time",
-  "about_the_game": "In a purely one-developer indie game, you are a little guy trying to <strong>Escape</strong> from a rare <strong>Fantasy</strong> world. Level by level you have to solve a nice puzzle by pushing buttons, unlocking doors, changing gravity on things, jumping, double jumping, sliding on walls, moving objects and, often, by doing some of those things at the right time",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +41,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

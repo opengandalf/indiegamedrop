@@ -3,8 +3,8 @@
   "name": "Axiel",
   "slug": "axiel",
   "developer": "RawEgg",
-  "publisher": "RawEgg",
-  "release_date": "Dec 27, 2019",
+  "publisher": "",
+  "release_date": "2019-12-27",
   "price_usd": 1.99,
   "genres": [
     "Casual",
@@ -19,33 +19,15 @@
   ],
   "short_description": "Axiel is a casual puzzle game. No timers, no scoreboards, no rush. Take your time.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1208040/header.jpg?t=1577445792",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1208040/ss_aecb868c79d40d6119493af5528b7c4600a080f3.600x338.jpg?t=1577445792",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1208040/ss_cce1445423e8988ff14fdb07ddaf8b2f4731b36e.600x338.jpg?t=1577445792",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1208040/ss_120b288096b2c3a919df078d47152bc232f7e785.600x338.jpg?t=1577445792",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1208040/ss_3bdea267951d3c2f887727a066fa009e51a78b00.600x338.jpg?t=1577445792",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1208040/ss_df7409a10d45ecaacb6214be7e6267d9047a6a3d.600x338.jpg?t=1577445792"
-  ],
-  "detailed_description": "Axiel is a puzzle game where you control two characters, each moving along one axis - vertical or horizontal. <br />\r\n<br />\r\nControl the characters' movement and interact with objects to complete each level.<br />\r\n<br />\r\nThere are no scoreboards or timers.",
-  "about_the_game": "Axiel is a puzzle game where you control two characters, each moving along one axis - vertical or horizontal. <br />\r\n<br />\r\nControl the characters' movement and interact with objects to complete each level.<br />\r\n<br />\r\nThere are no scoreboards or timers.",
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Portuguese - Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

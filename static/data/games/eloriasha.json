@@ -3,8 +3,8 @@
   "name": "Eloriasha",
   "slug": "eloriasha",
   "developer": "Ashdev",
-  "publisher": "Ashdev",
-  "release_date": "Mar 25, 2023",
+  "publisher": "",
+  "release_date": "2023-03-25",
   "price_usd": 2.99,
   "genres": [
     "Action",
@@ -21,33 +21,15 @@
   ],
   "short_description": "A simple but challenging old-school action-platformer with a surprisingly emotional story.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347950/header.jpg?t=1748408137",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347950/ss_1800990953e31b39f442a324057185cd824e63cf.600x338.jpg?t=1748408137",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347950/ss_2d584f13b657ee5f7ce27477220596d7e4be8f14.600x338.jpg?t=1748408137",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347950/ss_5494d6e4b668eecbc8b78aa0012eb6ac963dedbb.600x338.jpg?t=1748408137",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347950/ss_68c036868394001612585e51a6cd407d4c349cf7.600x338.jpg?t=1748408137",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2347950/ss_397d50687ccd3e8c3fb1dea5ba0a24a3149003b4.600x338.jpg?t=1748408137"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Inspired by the 8/16-bit classics; Eloriasha is a harccore old school action-platformer about a man's strange journey to save the world. Run, jump, attack, slide and shoot your way through 6 action-packed levels! </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Also included is...</p><p class=\"bb_paragraph\" ><strong>- That Retro Feeling!</strong></p><p class=\"bb_paragraph\" ><strong>- Cool and Creative Stages!</strong></p><p class=\"bb_paragraph\" ><strong>- Scary Bosses!</strong></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Inspired by the 8/16-bit classics; Eloriasha is a harccore old school action-platformer about a man's strange journey to save the world. Run, jump, attack, slide and shoot your way through 6 action-packed levels! </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Also included is...</p><p class=\"bb_paragraph\" ><strong>- That Retro Feeling!</strong></p><p class=\"bb_paragraph\" ><strong>- Cool and Creative Stages!</strong></p><p class=\"bb_paragraph\" ><strong>- Scary Bosses!</strong></p>",
-  "supported_languages": "English, Portuguese - Brazil",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.5,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 10,
-  "review_positive": 9,
+  "review_positive": 0,
   "review_percentage": 90.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 88.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 90.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

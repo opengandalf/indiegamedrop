@@ -3,8 +3,8 @@
   "name": "3072",
   "slug": "3072",
   "developer": "gamescdk",
-  "publisher": "gamescdk",
-  "release_date": "Dec 12, 2024",
+  "publisher": "",
+  "release_date": "2024-12-12",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -19,33 +19,15 @@
   ],
   "short_description": "3072 is a classic puzzle game that combines two identical color block numbers into a new number by moving them up and down, left and right. Your goal is very simple, to reach 3072, come and challenge.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3367360/header.jpg?t=1734054868",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3367360/ss_65818766fe57e4856da94b6a48e8bc9b5972679d.600x338.jpg?t=1734054868",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3367360/ss_72ac10ee3fa45143c6662d842097d567bc70f93b.600x338.jpg?t=1734054868",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3367360/ss_8c65529a7af9c8e7f37c83e5d5ee13614af23643.600x338.jpg?t=1734054868",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3367360/ss_799b57a627442d637005a6e5889949f004a96706.600x338.jpg?t=1734054868",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3367360/ss_7411cc13d7493e15a4514c4275b75eed958bdf3c.600x338.jpg?t=1734054868",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3367360/ss_5fa062e5cea5b3ec1b3e4018162fb4a2770030cc.600x338.jpg?t=1734054868"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >\"3072\" is a puzzle class single-player game, this game is simple and challenging, through a 4x4 square operation number blocks, so that the same number blocks merge, and finally reach 3072 this number is a victory.</p><p class=\"bb_paragraph\" >### Rules of the game</p><p class=\"bb_paragraph\" >1. ** Initial state ** : When the game starts, a random number block with the value of 3 will appear on the screen. By sliding the screen up, down, left, and right four directions, the player makes all the number blocks move one space in the specified direction.</p><p class=\"bb_paragraph\" >2. ** Merge Rule ** : Whenever blocks of the same value collide, they merge into a new block with twice the value. For example, two blocks with a value of 3 collide to become a block with a value of 6.</p><p class=\"bb_paragraph\" >3. ** Number generation ** : After each slide, the system will randomly generate a new number block in the blank position, the value is also 3.</p><p class=\"bb_paragraph\" >4. ** Game over ** : When there is no blank space to move on the screen, and the values of adjacent numeric blocks are not the same, the game is over.</p><p class=\"bb_paragraph\" >### Features and enhancements</p><p class=\"bb_paragraph\" >1. ** Simple and clear interface design ** : The interface design of \"3072\" is simple and generous, and the number blocks are distinguished by bright colors, so that players can intuitively understand the game state.</p><p class=\"bb_paragraph\" >2. ** Smooth operation experience ** : The game adopts touch screen sliding operation, players can easily play the game on the mobile phone or tablet, and observe the movement and merging effect of digital blocks in real time.</p><p class=\"bb_paragraph\" >3. ** Strategic and challenging ** : Although 3072 seems simple, achieving the goal of high score and 3072 requires players to strategetic and arrange each move properly.</p><p class=\"bb_paragraph\" >### Conclusion</p><p class=\"bb_paragraph\" >3072 is a popular puzzle game that not only tests the player's reflexes, but also requires the player to use strategies to reach higher number blocks. Enhancements such as level mode, multiplayer mode, limited time mode and game achievement system have been added to further enhance the fun and playability of the game. Whether it's for leisure or to compete with friends, 3072 offers endless fun.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >\"3072\" is a puzzle class single-player game, this game is simple and challenging, through a 4x4 square operation number blocks, so that the same number blocks merge, and finally reach 3072 this number is a victory.</p><p class=\"bb_paragraph\" >### Rules of the game</p><p class=\"bb_paragraph\" >1. ** Initial state ** : When the game starts, a random number block with the value of 3 will appear on the screen. By sliding the screen up, down, left, and right four directions, the player makes all the number blocks move one space in the specified direction.</p><p class=\"bb_paragraph\" >2. ** Merge Rule ** : Whenever blocks of the same value collide, they merge into a new block with twice the value. For example, two blocks with a value of 3 collide to become a block with a value of 6.</p><p class=\"bb_paragraph\" >3. ** Number generation ** : After each slide, the system will randomly generate a new number block in the blank position, the value is also 3.</p><p class=\"bb_paragraph\" >4. ** Game over ** : When there is no blank space to move on the screen, and the values of adjacent numeric blocks are not the same, the game is over.</p><p class=\"bb_paragraph\" >### Features and enhancements</p><p class=\"bb_paragraph\" >1. ** Simple and clear interface design ** : The interface design of \"3072\" is simple and generous, and the number blocks are distinguished by bright colors, so that players can intuitively understand the game state.</p><p class=\"bb_paragraph\" >2. ** Smooth operation experience ** : The game adopts touch screen sliding operation, players can easily play the game on the mobile phone or tablet, and observe the movement and merging effect of digital blocks in real time.</p><p class=\"bb_paragraph\" >3. ** Strategic and challenging ** : Although 3072 seems simple, achieving the goal of high score and 3072 requires players to strategetic and arrange each move properly.</p><p class=\"bb_paragraph\" >### Conclusion</p><p class=\"bb_paragraph\" >3072 is a popular puzzle game that not only tests the player's reflexes, but also requires the player to use strategies to reach higher number blocks. Enhancements such as level mode, multiplayer mode, limited time mode and game achievement system have been added to further enhance the fun and playability of the game. Whether it's for leisure or to compete with friends, 3072 offers endless fun.</p>",
-  "supported_languages": "English, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.30000000000000004,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 6,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

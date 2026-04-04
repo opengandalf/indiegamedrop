@@ -3,8 +3,8 @@
   "name": "100 nya",
   "slug": "100-nya",
   "developer": ".M.Y.W.",
-  "publisher": ".M.Y.W.",
-  "release_date": "Nov 12, 2016",
+  "publisher": "",
+  "release_date": "2016-11-12",
   "price_usd": 9.99,
   "genres": [
     "Indie",
@@ -19,35 +19,15 @@
   ],
   "short_description": "The game develops logical thinking. Taught to think through the moves in advance.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553830/header.jpg?t=1605745400",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553830/ss_b55c540344ee9e0bb9005fcf0c5b9aa7f2b8d83e.600x338.jpg?t=1605745400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553830/ss_03855a3a09e861486ee810c103af226b4454cef3.600x338.jpg?t=1605745400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553830/ss_2abe7c15cbcfc0c39fd7b9131511b1247c5a0710.600x338.jpg?t=1605745400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553830/ss_a3fa1c8ab4540027f3f6cb65f5167d0130504161.600x338.jpg?t=1605745400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553830/ss_6413a7fe13a79b4faeedd8e85af71ea3c3b04aad.600x338.jpg?t=1605745400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553830/ss_d2d906a35c2690757062d63e69f40ebb65f1f9be.600x338.jpg?t=1605745400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553830/ss_8a1e177e50da856940eaa586520662db679662f8.600x338.jpg?t=1605745400"
-  ],
-  "detailed_description": "It is a logic game, which aims to set 100 points. Transition between cells is carried out \"horse course\", as in chess. In the game there are a lot of combinations. You can take this game again and again, using a different approach.",
-  "about_the_game": "It is a logic game, which aims to set 100 points. Transition between cells is carried out \"horse course\", as in chess. In the game there are a lot of combinations. You can take this game again and again, using a different approach.",
-  "supported_languages": "English, Russian, French, Italian, German, Spanish - Spain, Bulgarian, Hungarian, Danish, Spanish - Latin America, Dutch, Norwegian, Polish, Portuguese - Portugal, Romanian, Ukrainian, Finnish, Czech, Swedish",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Trading Cards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.3,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 26,
-  "review_positive": 23,
+  "review_positive": 0,
   "review_percentage": 88.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,26 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 26,
-      "review_percentage": 88.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 26,
-      "review_percentage": 88.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 26,
       "review_percentage": 88.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

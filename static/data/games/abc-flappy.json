@@ -3,8 +3,8 @@
   "name": "ABC Flappy",
   "slug": "abc-flappy",
   "developer": "ddGames",
-  "publisher": "ddGames",
-  "release_date": "Nov 1, 2021",
+  "publisher": "",
+  "release_date": "2021-11-01",
   "price_usd": 1.99,
   "genres": [
     "Action",
@@ -27,38 +27,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Learn how to spell and assemble words to unlock prizes. You can trace and colour the letters of the alphabet too. Swoop deeply into this amazing adventure alongside Albert, the eager for knowledge albatross, flying through the many levels to save his silly friends while learning the alphabet.",
+  "short_description": "Learn how to spell and assemble words to unlock prizes. You can trace and colour the letters of the alphabet too. Swoop deeply into this amazing adventure alongside Albert, the eager for knowledge alb",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775840/header.jpg?t=1635769910",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775840/ss_c935161cfe06ec5315c9da5ba672bb9e5b301c9d.600x338.jpg?t=1635769910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775840/ss_b916c3dd81b67428d190884b56df000bd04ea2eb.600x338.jpg?t=1635769910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775840/ss_7496b7e45dd7069abf2bb8cb2d8c6788eb4442d0.600x338.jpg?t=1635769910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775840/ss_0fdb7ad3af33ac3330bacf471f1f39207f9a8c8f.600x338.jpg?t=1635769910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775840/ss_43ae0004565b6c05d7eb0a77e850f47ebe46c408.600x338.jpg?t=1635769910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775840/ss_2add2f58198f91cffe576aa6f0021360f60d7f4c.600x338.jpg?t=1635769910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775840/ss_992e1af090ec2611fb724bda6995fa1b657aa7aa.600x338.jpg?t=1635769910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775840/ss_fe9ee33a0e63b66d1e53a7509aa06189147a04c3.600x338.jpg?t=1635769910",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1775840/ss_5b8185ca3ee64546faac69e127add073b277989f.600x338.jpg?t=1635769910"
-  ],
-  "detailed_description": "This is an educational game. It was designed to literate children in a fun and interesting way. Learn how to spell and assemble words to unlock prizes. You can trace   and colour the letters of the alphabet too. Swoop deeply into this amazing adventure alongside Albert, the eager for knowledge bird, flying through the many levels to save his silly friends while learning the alphabet and the very first rules of grammar. <br />\r\nOne thing is for granted : You will not get to the end of this journey without learning how to write and read !",
-  "about_the_game": "This is an educational game. It was designed to literate children in a fun and interesting way. Learn how to spell and assemble words to unlock prizes. You can trace   and colour the letters of the alphabet too. Swoop deeply into this amazing adventure alongside Albert, the eager for knowledge bird, flying through the many levels to save his silly friends while learning the alphabet and the very first rules of grammar. <br />\r\nOne thing is for granted : You will not get to the end of this journey without learning how to write and read !",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -66,19 +45,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

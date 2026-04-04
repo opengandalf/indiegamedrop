@@ -3,8 +3,8 @@
   "name": "ACCEL-X",
   "slug": "accel-x",
   "developer": "T.AdVance",
-  "publisher": "T.AdVance",
-  "release_date": "Jan 11, 2020",
+  "publisher": "",
+  "release_date": "2020-01-11",
   "price_usd": 1.99,
   "genres": [
     "Action"
@@ -17,33 +17,15 @@
   ],
   "short_description": "Super fast time attack action game!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1214150/header.jpg?t=1667360441",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1214150/ss_593b71370b3bb90258691eafdc5d5dc27cdccf6a.600x338.jpg?t=1667360441",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1214150/ss_0c479caf4c65af316203c1a55c531dae457d40f0.600x338.jpg?t=1667360441",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1214150/ss_6ba4f9de253e207bdf502cc3439b16317dc907c2.600x338.jpg?t=1667360441",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1214150/ss_0187130c7ea3f7cfe39d62d52f38eaeaa8068ddc.600x338.jpg?t=1667360441",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1214150/ss_ce84342488cc949862136639b327ab253067b626.600x338.jpg?t=1667360441",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1214150/ss_c5f1ec30e9bd6f2e15264783157959fe1c4cd2b7.600x338.jpg?t=1667360441"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Super Fast Time Attack Action Game!</h2><h2 class=\"bb_tag\" >Super Fast Time Attack Action Game! Accel-x!</h2>Run through each stage using your skills while avoiding various obstacles!<br>Is it luck or technology required to clear this super difficult game!<br>If you can clear this, it is over AQ180!<br><br>※ Live streaming is all OK!",
-  "about_the_game": "<h2 class=\"bb_tag\" >Super Fast Time Attack Action Game!</h2><h2 class=\"bb_tag\" >Super Fast Time Attack Action Game! Accel-x!</h2>Run through each stage using your skills while avoiding various obstacles!<br>Is it luck or technology required to clear this super difficult game!<br>If you can clear this, it is over AQ180!<br><br>※ Live streaming is all OK!",
-  "supported_languages": "English, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

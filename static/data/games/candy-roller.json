@@ -3,8 +3,8 @@
   "name": "Candy Roller",
   "slug": "candy-roller",
   "developer": "Bonittor Games",
-  "publisher": "Bonittor Games",
-  "release_date": "May 30, 2024",
+  "publisher": "",
+  "release_date": "2024-05-30",
   "price_usd": 0.49,
   "genres": [
     "Adventure",
@@ -21,33 +21,15 @@
   ],
   "short_description": "Control ball in this 3d ball game. Try to collect all keys to unlock finish before time ends and also collect cakes in every level. Be a master ball controller",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2993070/header.jpg?t=1748033109",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2993070/ss_9bf5d29cff94efe3801bcc737c59826621815cf5.600x338.jpg?t=1748033109",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2993070/ss_91ba9bbf91944b63aa0e5c423e72401d87f9a95f.600x338.jpg?t=1748033109",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2993070/ss_66e177ccbe3289e8486113afe76d1844fd53e019.600x338.jpg?t=1748033109",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2993070/ss_ab4e34bc7eb10a3c01396e82f2d6a66d58b5a0c9.600x338.jpg?t=1748033109",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2993070/ss_b766612103dfe18b869560746943a0b81e37f0fd.600x338.jpg?t=1748033109"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Gameplay:</h2>Player controls ball in this 3rd person ball roller game. Mission is to collect all keys at every level. After all keys collected level exit object is activated and player can finish level by finding exit object. Player has limited time at every level and some levels include hourglass object which increase level playing time. Also several killing objects like spikes and moving enemy is at levels. Hitting those will spawn player to start place. Also falling from map will kill player. Game contains some strange physics. End of every level there are cakes which gives player steam achievements. For now 12 tricky levels.<br> So be the ball master and finish all levels<h2 class=\"bb_tag\" >Features:</h2>-  Controllable ball<br>-  Dangerous obstacles: spikes and moving spikes<br>- Dynamic obstacles<br>- Alternative physics<br>- Time based on an hourglass<br>- Collect keys to unlock level finish<br>- Tricky surfaces<br>- Collect cakes to get steam achievements<br>- 12 levels",
-  "about_the_game": "<h2 class=\"bb_tag\" >Gameplay:</h2>Player controls ball in this 3rd person ball roller game. Mission is to collect all keys at every level. After all keys collected level exit object is activated and player can finish level by finding exit object. Player has limited time at every level and some levels include hourglass object which increase level playing time. Also several killing objects like spikes and moving enemy is at levels. Hitting those will spawn player to start place. Also falling from map will kill player. Game contains some strange physics. End of every level there are cakes which gives player steam achievements. For now 12 tricky levels.<br> So be the ball master and finish all levels<h2 class=\"bb_tag\" >Features:</h2>-  Controllable ball<br>-  Dangerous obstacles: spikes and moving spikes<br>- Dynamic obstacles<br>- Alternative physics<br>- Time based on an hourglass<br>- Collect keys to unlock level finish<br>- Tricky surfaces<br>- Collect cakes to get steam achievements<br>- 12 levels",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
+  "review_velocity_7d": 1.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 25,
-  "review_positive": 15,
+  "review_positive": 0,
   "review_percentage": 60.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 22,
-      "review_percentage": 59.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 25,
       "review_percentage": 60.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

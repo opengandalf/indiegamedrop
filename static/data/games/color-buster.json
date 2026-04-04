@@ -3,8 +3,8 @@
   "name": "Color Buster!",
   "slug": "color-buster",
   "developer": "Micah DeBruno",
-  "publisher": "Tricky Pickle Games",
-  "release_date": "Jul 17, 2020",
+  "publisher": "",
+  "release_date": "2020-07-17",
   "price_usd": 0.99,
   "genres": [
     "Casual"
@@ -15,32 +15,15 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Welcome to Color Buster! Try to eliminate all of the bouncing balls by matching the color of your block to the color of the ball. Your block and the bouncing balls will change color every time a match isn't made! Be sure to keep an eye on the clock!",
+  "short_description": "Welcome to Color Buster! Try to eliminate all of the bouncing balls by matching the color of your block to the color of the ball. Your block and the bouncing balls will change color every time a match",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1357230/header.jpg?t=1594996016",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1357230/ss_e9a827816523db276c4604ca4dc5d114456f705e.600x338.jpg?t=1594996016",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1357230/ss_4231971f647e4632ec85f409128ec84375429839.600x338.jpg?t=1594996016",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1357230/ss_904c6ddadee81d336a34d694ad5c98c46a2314ab.600x338.jpg?t=1594996016",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1357230/ss_51519523f3e2b696f7c505be79216373511173e1.600x338.jpg?t=1594996016",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1357230/ss_d2c1870f2cf617e0a98986633fa1269e3a97e7d5.600x338.jpg?t=1594996016"
-  ],
-  "detailed_description": "Welcome to Color Buster! Try to eliminate all of the bouncing balls by matching the color of your block to the color of the ball. Your block and the bouncing balls will change color every time contact is made! Be sure to keep an eye on the clock! Included with purchase is the full game with four different levels. The player moves left and right to get under the falling balls in attempt to eliminate all balls before the time runs out.",
-  "about_the_game": "Welcome to Color Buster! Try to eliminate all of the bouncing balls by matching the color of your block to the color of the ball. Your block and the bouncing balls will change color every time contact is made! Be sure to keep an eye on the clock! Included with purchase is the full game with four different levels. The player moves left and right to get under the falling balls in attempt to eliminate all balls before the time runs out.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

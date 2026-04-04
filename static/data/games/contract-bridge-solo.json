@@ -3,8 +3,8 @@
   "name": "Contract Bridge Solo",
   "slug": "contract-bridge-solo",
   "developer": "Feiyun Wang",
-  "publisher": "Feiyun Wang",
-  "release_date": "Dec 22, 2022",
+  "publisher": "",
+  "release_date": "2022-12-22",
   "price_usd": 2.99,
   "genres": [
     "Casual"
@@ -15,37 +15,15 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "This game is a single-player game based on the contract bridge rules. Without auction/bidding, it automatically determines how many tricks the declarer should win. You can enjoy playing cards with an extremely intelligent AI partner, against the other two.",
+  "short_description": "This game is a single-player game based on the contract bridge rules. Without auction/bidding, it automatically determines how many tricks the declarer should win. You can enjoy playing cards with an ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2225500/header.jpg?t=1733417414",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2225500/ss_fc5d38c35d69da794ac3282f111bd96c4d2a911c.600x338.jpg?t=1733417414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2225500/ss_bc5f998736dea8c8dfa03e485ac6bd67f7289428.600x338.jpg?t=1733417414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2225500/ss_82de02e082ee371834d512b4b42a5641f6bf0171.600x338.jpg?t=1733417414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2225500/ss_a8b82e88de3c2b59a632a6869f787718cba776aa.600x338.jpg?t=1733417414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2225500/ss_8889d1438f56d837901e599f4489b84d309ed8bd.600x338.jpg?t=1733417414",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2225500/ss_9103c6da59b992f21c4659ba5ab7027be64e9a2e.600x338.jpg?t=1733417414"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >This game is a single-player game based on the contract bridge rules. Without auction/bidding, it automatically determines how many tricks the declarer should win. How many tricks you and your AI partner win together is the key to winning the game. You should have tricks no less than the standard (as the par for the declarer) to get the points. Although you have a very powerful AI partner, it's not easy to play against the other two. If failed, you can try the \"play again\" feature at the end of the deck to improve your skill.</p><p class=\"bb_paragraph\" >Ironman mode is auto effective when your score is no less than 500.</p><h2 class=\"bb_tag\" >Keyboard and Controller Support</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Previous card: Left, A, D-Pad Left, Left Stick Left</p></li><li><p class=\"bb_paragraph\" > Next card: Right, D, D-Pad Right, Left Stick Right</p></li><li><p class=\"bb_paragraph\" > First card: Home, Q, Right Stick Left</p></li><li><p class=\"bb_paragraph\" > Last card: End, Z, Right Stick Right</p></li><li><p class=\"bb_paragraph\" > Previous suit: PgUp, E, Controller L/L1</p></li><li><p class=\"bb_paragraph\" > Next suit: PgDn, C, Controller R/R1</p></li><li><p class=\"bb_paragraph\" > Accept: Space, Enter, PlayStation Cross, XBox A, Nintendo B</p></li><li><p class=\"bb_paragraph\" > Light switch: P, 0, PlayStation Triangle, XBox Y, Nintendo X</p></li></ul><h2 class=\"bb_tag\" >Multi-Language Support</h2><p class=\"bb_paragraph\" >To change the game language:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Open your Steam Library</p></li><li><p class=\"bb_paragraph\" >Right click the game title and select <strong>Properties...</strong></p></li><li><p class=\"bb_paragraph\" >Go to the <strong>General </strong>tab</p></li><li><p class=\"bb_paragraph\" >Select the <strong>Language</strong> you wish to use from the drop-down menu </p></li></ul><h2 class=\"bb_tag\" >Game Logs</h2><p class=\"bb_paragraph\" >%appdata%\\Godot\\app_userdata\\Contract Bridge Solo</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >This game is a single-player game based on the contract bridge rules. Without auction/bidding, it automatically determines how many tricks the declarer should win. How many tricks you and your AI partner win together is the key to winning the game. You should have tricks no less than the standard (as the par for the declarer) to get the points. Although you have a very powerful AI partner, it's not easy to play against the other two. If failed, you can try the \"play again\" feature at the end of the deck to improve your skill.</p><p class=\"bb_paragraph\" >Ironman mode is auto effective when your score is no less than 500.</p><h2 class=\"bb_tag\" >Keyboard and Controller Support</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Previous card: Left, A, D-Pad Left, Left Stick Left</p></li><li><p class=\"bb_paragraph\" > Next card: Right, D, D-Pad Right, Left Stick Right</p></li><li><p class=\"bb_paragraph\" > First card: Home, Q, Right Stick Left</p></li><li><p class=\"bb_paragraph\" > Last card: End, Z, Right Stick Right</p></li><li><p class=\"bb_paragraph\" > Previous suit: PgUp, E, Controller L/L1</p></li><li><p class=\"bb_paragraph\" > Next suit: PgDn, C, Controller R/R1</p></li><li><p class=\"bb_paragraph\" > Accept: Space, Enter, PlayStation Cross, XBox A, Nintendo B</p></li><li><p class=\"bb_paragraph\" > Light switch: P, 0, PlayStation Triangle, XBox Y, Nintendo X</p></li></ul><h2 class=\"bb_tag\" >Multi-Language Support</h2><p class=\"bb_paragraph\" >To change the game language:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Open your Steam Library</p></li><li><p class=\"bb_paragraph\" >Right click the game title and select <strong>Properties...</strong></p></li><li><p class=\"bb_paragraph\" >Go to the <strong>General </strong>tab</p></li><li><p class=\"bb_paragraph\" >Select the <strong>Language</strong> you wish to use from the drop-down menu </p></li></ul><h2 class=\"bb_tag\" >Game Logs</h2><p class=\"bb_paragraph\" >%appdata%\\Godot\\app_userdata\\Contract Bridge Solo</p>",
-  "supported_languages": "English, Simplified Chinese, Traditional Chinese, Japanese, Korean, Danish, Polish, Spanish - Spain, Spanish - Latin America",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Stats",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 4,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -55,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

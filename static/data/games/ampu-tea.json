@@ -3,8 +3,8 @@
   "name": "Ampu-Tea",
   "slug": "ampu-tea",
   "developer": "ProjectorGames",
-  "publisher": "KISS ltd",
-  "release_date": "May 30, 2014",
+  "publisher": "",
+  "release_date": "2014-05-30",
   "price_usd": 4.99,
   "genres": [
     "Adventure",
@@ -25,35 +25,15 @@
   ],
   "short_description": "The surgeon-simulator inspired Tea-making game is now available on Steam! Using the latest KS-001 Robo-Arm, you must practise making various types of tea.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289090/header.jpg?t=1447360970",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289090/ss_2f5fd70206681829a718b7f3a5de07b4b96fe075.600x338.jpg?t=1447360970",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289090/ss_52a164d4d6bdd1a46fd820f1ab93c964a1c1e1b5.600x338.jpg?t=1447360970",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289090/ss_768016ec741c74c65e6023902d59ceb2c92bea0b.600x338.jpg?t=1447360970",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289090/ss_88f76d054247bb1109909647684526c42772f57b.600x338.jpg?t=1447360970",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289090/ss_7dbd23fa37f9961b36161f7527c26115ad9510a1.600x338.jpg?t=1447360970"
-  ],
-  "detailed_description": "It’s time for rehabilitation! You’re a recovering amputee, fitted with the latest modern technology. The KS-001 Robo-arm is capable of delicate tasks – if used efficiently. <br />\n<br />\nWhat better challenge for the son of an Earl than to make tea for his father? <br />\n<br />\nGood luck son. <br />\n<br />\nYou'll need it.",
-  "about_the_game": "It’s time for rehabilitation! You’re a recovering amputee, fitted with the latest modern technology. The KS-001 Robo-arm is capable of delicate tasks – if used efficiently. <br />\n<br />\nWhat better challenge for the son of an Earl than to make tea for his father? <br />\n<br />\nGood luck son. <br />\n<br />\nYou'll need it.",
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Trading Cards",
-    "Stats",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 810,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0003,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 100.80000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2016,
-  "review_positive": 1244,
+  "review_positive": 0,
   "review_percentage": 61.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -61,19 +41,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2032,
-      "review_percentage": 62.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
+      "date": "2026-04-04",
       "review_count": 2016,
       "review_percentage": 61.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

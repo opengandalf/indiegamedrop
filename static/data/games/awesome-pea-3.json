@@ -3,8 +3,8 @@
   "name": "Awesome Pea 3",
   "slug": "awesome-pea-3",
   "developer": "PigeonDev",
-  "publisher": "PigeonDev",
-  "release_date": "Dec 6, 2023",
+  "publisher": "",
+  "release_date": "2023-12-06",
   "price_usd": 0.74,
   "genres": [
     "Casual"
@@ -17,38 +17,15 @@
   ],
   "short_description": "Awesome Pea is a fast precision platformer where you must run&jump through a series of challenging stages",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247630/header.jpg?t=1702573983",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247630/ss_0fbdf3ef0fb94e19a63ad3d4b3807237b0e58a98.600x338.jpg?t=1702573983",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247630/ss_d787dbbdfd6f72ee2e637c1224e3fe49ded1de17.600x338.jpg?t=1702573983",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247630/ss_55a32bd8efc750abde354b018ddc3f034145cb53.600x338.jpg?t=1702573983",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247630/ss_a9f36645d9e579d641a63129c253fda1ddb05347.600x338.jpg?t=1702573983",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247630/ss_3a1250b3cf58fc4f477614603c31289058384b45.600x338.jpg?t=1702573983",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247630/ss_018b2679a217706306a8fd906bb6993e9b741d5b.600x338.jpg?t=1702573983",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247630/ss_92dad407ac24daf1de13789aa754b9c5f40e998a.600x338.jpg?t=1702573983",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247630/ss_7ed87d13da6aa8a799da8695adf1824d3de3451c.600x338.jpg?t=1702573983"
-  ],
-  "detailed_description": "Awesome Pea 3 - final chapter now in shape of fast precision platformer where you must run&jump through a series of challenging stages.<br><br>What you will definitely find in this game (again):<br><ul class=\"bb_ul\"><li> 69 (^_^) different stages to show your skill<br></li><li> Stylish pixel graphics<br></li><li> Chiptune soundtrack<br></li><li> Steam achievements for everyone who loves achievements</li></ul>",
-  "about_the_game": "Awesome Pea 3 - final chapter now in shape of fast precision platformer where you must run&jump through a series of challenging stages.<br><br>What you will definitely find in this game (again):<br><ul class=\"bb_ul\"><li> 69 (^_^) different stages to show your skill<br></li><li> Stylish pixel graphics<br></li><li> Chiptune soundtrack<br></li><li> Steam achievements for everyone who loves achievements</li></ul>",
-  "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.75,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 15,
-  "review_positive": 11,
+  "review_positive": 0,
   "review_percentage": 73.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 77.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 15,
       "review_percentage": 73.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "AudioSpace",
   "slug": "audiospace",
   "developer": "Ferrit",
-  "publisher": "Ferrit",
-  "release_date": "Jun 30, 2021",
+  "publisher": "",
+  "release_date": "2021-06-30",
   "price_usd": 17.99,
   "genres": [
     "Audio Production",
@@ -19,35 +19,15 @@
   ],
   "short_description": "The best audio visualizer this side of the galaxy. Experience your favorite music like never before!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1654330/header.jpg?t=1766182922",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1654330/ss_df6cb7815f9d206384a9f717bc2f9cef79dc89d0.600x338.jpg?t=1766182922",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1654330/ss_b874270f25b1f37fc3c71ee65e094ae35a19888c.600x338.jpg?t=1766182922",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1654330/ss_37cb35dcdb35dc473e65d652a97d5dad38135e41.600x338.jpg?t=1766182922",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1654330/ss_e663488c53d4d9ba63f4f9e49c486e7bcd089e46.600x338.jpg?t=1766182922",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1654330/ss_85e20bb28555d2c9ee7c866a7542c40dbfcebe05.600x338.jpg?t=1766182922",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1654330/ss_dfe8de435d8d6b5598504c7ef68f27ce172b05d2.600x338.jpg?t=1766182922",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1654330/ss_5611576725d89fdaad3a8ac002fb0741ee45c0f4.600x338.jpg?t=1766182922"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >This music visualization experience was awarded at the Aalto Creatives Art & Tech Open Call ’25 with the following citation:</p><p class=\"bb_paragraph\" ><i>\"AudioSpace harnesses modern computing power to deliver exceptional music visualisation experiences. AudioSpace utilises Unreal Engine and offers high quality visuals to various settings from home PCs to live stages, and VR environments.</i>\"</p><p class=\"bb_paragraph\" >Visualization works with any audio received (such as microphone input) or played back (like media players) on your PC. There’s also a powerful built-in synthesizer that responds to MIDI input, allowing you to play music yourself and see it visualized in real time.</p><p class=\"bb_paragraph\" >Your virtual audiovisual room orbits a planet/star of your choice. On the walls of this room you may choose to display things like vectorscopes, spectrograms, waveforms, or just a cat nodding its head to the music if that's your thing. There are many visualization shaders readily available, and you are free to modify them or create new ones!</p><p class=\"bb_paragraph\" >Each wall also has a media player, supporting a wide range of audio and video formats as well as playlists. Inside the room and in the surrounding space you have a selection of unique 3D visualization elements that you may combine and configure to your liking. Sound moves and shapes the elements, particles dance to the rhythm. Chill out watching the auroras, fly over rolling wavescapes, or engage full speed into a warp tunnel. Freely configurable scene presets can be instantly selected with keyboard or set to change at random (or in order) when silence is detected between tracks. Randomization can also be activated for visualization parameters and color palettes.</p><p class=\"bb_paragraph\" >Virtual Reality is supported through OpenXR; reference hardware is Pimax 5K Plus with Valve Index controllers (finger tracking included), but any OpenXR compatible VR headset should work. Controller support is readily available for HTC Vive, Oculus Touch and Windows Mixed Reality, but can be customized and expanded via SteamVR Input. In VR, music and visualization can come together in a wonderful way. Nowhere else does one have the freedom to see absolutely anything, only limit is the imagination. AudioSpace puts this freedom into good use and creates an unprecedented way of experiencing music. Enjoy!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Tutorials<strong> </strong>are available both for the basics and for advanced use in the Community Hub Guides. Some Questions and Answers are found there as well.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Performance and compatibility:</strong></p><p class=\"bb_paragraph\" >AudioSpace is best experienced with powerful hardware, both CPU and GPU should be relatively recent, mid-to high-end devices. Audio card/interface with low latency is recommended when visualizing audio input instead of output. For professional use, ASIO capturing can be enabled with the \"useASIO\" option in Documents/AudioSpace/config.ini.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >This music visualization experience was awarded at the Aalto Creatives Art & Tech Open Call ’25 with the following citation:</p><p class=\"bb_paragraph\" ><i>\"AudioSpace harnesses modern computing power to deliver exceptional music visualisation experiences. AudioSpace utilises Unreal Engine and offers high quality visuals to various settings from home PCs to live stages, and VR environments.</i>\"</p><p class=\"bb_paragraph\" >Visualization works with any audio received (such as microphone input) or played back (like media players) on your PC. There’s also a powerful built-in synthesizer that responds to MIDI input, allowing you to play music yourself and see it visualized in real time.</p><p class=\"bb_paragraph\" >Your virtual audiovisual room orbits a planet/star of your choice. On the walls of this room you may choose to display things like vectorscopes, spectrograms, waveforms, or just a cat nodding its head to the music if that's your thing. There are many visualization shaders readily available, and you are free to modify them or create new ones!</p><p class=\"bb_paragraph\" >Each wall also has a media player, supporting a wide range of audio and video formats as well as playlists. Inside the room and in the surrounding space you have a selection of unique 3D visualization elements that you may combine and configure to your liking. Sound moves and shapes the elements, particles dance to the rhythm. Chill out watching the auroras, fly over rolling wavescapes, or engage full speed into a warp tunnel. Freely configurable scene presets can be instantly selected with keyboard or set to change at random (or in order) when silence is detected between tracks. Randomization can also be activated for visualization parameters and color palettes.</p><p class=\"bb_paragraph\" >Virtual Reality is supported through OpenXR; reference hardware is Pimax 5K Plus with Valve Index controllers (finger tracking included), but any OpenXR compatible VR headset should work. Controller support is readily available for HTC Vive, Oculus Touch and Windows Mixed Reality, but can be customized and expanded via SteamVR Input. In VR, music and visualization can come together in a wonderful way. Nowhere else does one have the freedom to see absolutely anything, only limit is the imagination. AudioSpace puts this freedom into good use and creates an unprecedented way of experiencing music. Enjoy!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Tutorials<strong> </strong>are available both for the basics and for advanced use in the Community Hub Guides. Some Questions and Answers are found there as well.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Performance and compatibility:</strong></p><p class=\"bb_paragraph\" >AudioSpace is best experienced with powerful hardware, both CPU and GPU should be relatively recent, mid-to high-end devices. Audio card/interface with low latency is recommended when visualizing audio input instead of output. For professional use, ASIO capturing can be enabled with the \"useASIO\" option in Documents/AudioSpace/config.ini.</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Tracked Controller Support",
-    "VR Supported",
-    "Partial Controller Support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.55,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 11,
-  "review_positive": 9,
+  "review_positive": 0,
   "review_percentage": 81.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 11,
-      "review_percentage": 81.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 11,
       "review_percentage": 81.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

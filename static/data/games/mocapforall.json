@@ -3,8 +3,8 @@
   "name": "MocapForAll",
   "slug": "mocapforall",
   "developer": "Akiya Research Institute",
-  "publisher": "Akiya Research Institute",
-  "release_date": "Dec 30, 2021",
+  "publisher": "",
+  "release_date": "2021-12-30",
   "price_usd": 119.99,
   "genres": [
     "Animation & Modeling",
@@ -17,31 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "A Windows application that uses multiple webcams to capture human motion using AI. Captured motion can be exported via OSC (VMT, VMC) protocol or shared memory in real time, or saved as BVH files or FBX files. Hand tracking and face tracking supported.",
+  "short_description": "A Windows application that uses multiple webcams to capture human motion using AI. Captured motion can be exported via OSC (VMT, VMC) protocol or shared memory in real time, or saved as BVH files or F",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1759710/header.jpg?t=1647507896",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1759710/ss_1290f0b46371575b4bbd445a7f6b3020e1f09161.600x338.jpg?t=1647507896",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1759710/ss_cd414f55672eec9720f10bc80fda78f4121d380c.600x338.jpg?t=1647507896",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1759710/ss_f8f0ef7f72a82a0ad49aa23b1a30329b7fc29530.600x338.jpg?t=1647507896",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1759710/ss_b81ec94b6a7685b557ee8fd321814c16b49d664e.600x338.jpg?t=1647507896",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1759710/ss_7864a37be976c41622d5545f440e0e81d1d6758d.600x338.jpg?t=1647507896"
-  ],
-  "detailed_description": "--------<br>PLEASE TRY DEMO VERSION FIRST<br>Make sure the app works in your environment before purchase. The demo version has limited functionality only for data export.<br>--------<br><br>This is a Windows application that uses multiple webcams to capture human motion using AI.<h2 class=\"bb_tag\" >No special equipment required</h2>You can capture human motion if you have the followings:<br><ul class=\"bb_ul\"><li>a middle range PC<br></li><li>2 or more webcams<br></li><li>a room of about 2.5m x 2.5m</li></ul>You can use regular webcams like the ones used in video conferences. You can also use apps that turns your smartphones or tablets into webcams.<h2 class=\"bb_tag\" >Realtime with a middle range PC</h2>For examples, it runs at<br><ul class=\"bb_ul\"><li>around 17 fps on Surface Pro 7 which does not have a dedicated GPU<br></li><li>30 to 60 fps on GTX 1080 Ti</li></ul><h2 class=\"bb_tag\" >What you can do with MocapForAll</h2><ul class=\"bb_ul\"><li>You can output captured motion to the network(*1) via VMT protocol(*2) and VMC protocol(*3) in real time.<br></li><li>You can save the captured motion to files in BVH format and FBX format.<br></li><li>You can output captured motion to the shared memory in real time.</li></ul><br>(*1) Both VMT protocol and VMC protocol use UDP/OpenSound Control.<br>(*2) \"VMT protocol\" here refers to the message format used in the communication of Virtual Motion Tracker. The official HP of Virtual Motion Tracker does not use the word \"VMT protocol\", but MocapForAll uses the word \"VMT protocol\" for convenience.<br>(*3) \"VMC protocol\" is a message format used for communication between applications such as VirtualMotionCapture. Note that VirtualMotionCapture itself is not required for other compatible apps to communicate with each other using VMC protocol.<br><br>These allow you to do the followings:<br><br><strong>Use in SteamVR via Virtual Motion Tracker</strong><br>Through Virtual Motion Tracker, the capture motion can be used as virtual trackers in applications running on SteamVR.<br><br><strong>Use in Unreal Engine4, Unreal Engine5, Unity</strong><br>You can send the captured motion to Unreal Engine4, Unreal Engine5, or Unity for game development or video production.<br><ul class=\"bb_ul\"><li>Plugins for linking data directly to UE4, UE5, or Unity are available from the online manual.<br></li><li>As described in Use in other apps via VMC protocol, it is also possible to link by EVMC4U and VMC4UE using VMC Protocol.<br></li><li>A Unity sample to read data from the shared memory written by MocapForAll is available from the online manual.</li></ul><br><strong>Use in other apps via VMC protocol</strong><br>You can send the captured motion to various applications via the VMC protocol. The following are confirmed to work:<br><ul class=\"bb_ul\"><li>Sending bones and facial expression morphs to Unity using EVMC4U<br></li><li>Sending bones and facial expression morphs to Unreal Engine using VMC4UE<br></li><li>Sending bones to Blender using VMC4B<br></li><li>Sending bones to VSeeFace, and receiving facial expression morphs from VSeeFace<br></li><li>Sending tracker to VirtualMotionCapture</li></ul><br><strong>Save animations to files</strong><br>You can save the captured motion as BVH files and FBX files. It can be used with Blender etc.<br><br><strong>Create programs to receive data</strong><br>As the output specifications are open to public (except for FBX), you can even create your own programs to receive data from MocapForAll.",
-  "about_the_game": "--------<br>PLEASE TRY DEMO VERSION FIRST<br>Make sure the app works in your environment before purchase. The demo version has limited functionality only for data export.<br>--------<br><br>This is a Windows application that uses multiple webcams to capture human motion using AI.<h2 class=\"bb_tag\" >No special equipment required</h2>You can capture human motion if you have the followings:<br><ul class=\"bb_ul\"><li>a middle range PC<br></li><li>2 or more webcams<br></li><li>a room of about 2.5m x 2.5m</li></ul>You can use regular webcams like the ones used in video conferences. You can also use apps that turns your smartphones or tablets into webcams.<h2 class=\"bb_tag\" >Realtime with a middle range PC</h2>For examples, it runs at<br><ul class=\"bb_ul\"><li>around 17 fps on Surface Pro 7 which does not have a dedicated GPU<br></li><li>30 to 60 fps on GTX 1080 Ti</li></ul><h2 class=\"bb_tag\" >What you can do with MocapForAll</h2><ul class=\"bb_ul\"><li>You can output captured motion to the network(*1) via VMT protocol(*2) and VMC protocol(*3) in real time.<br></li><li>You can save the captured motion to files in BVH format and FBX format.<br></li><li>You can output captured motion to the shared memory in real time.</li></ul><br>(*1) Both VMT protocol and VMC protocol use UDP/OpenSound Control.<br>(*2) \"VMT protocol\" here refers to the message format used in the communication of Virtual Motion Tracker. The official HP of Virtual Motion Tracker does not use the word \"VMT protocol\", but MocapForAll uses the word \"VMT protocol\" for convenience.<br>(*3) \"VMC protocol\" is a message format used for communication between applications such as VirtualMotionCapture. Note that VirtualMotionCapture itself is not required for other compatible apps to communicate with each other using VMC protocol.<br><br>These allow you to do the followings:<br><br><strong>Use in SteamVR via Virtual Motion Tracker</strong><br>Through Virtual Motion Tracker, the capture motion can be used as virtual trackers in applications running on SteamVR.<br><br><strong>Use in Unreal Engine4, Unreal Engine5, Unity</strong><br>You can send the captured motion to Unreal Engine4, Unreal Engine5, or Unity for game development or video production.<br><ul class=\"bb_ul\"><li>Plugins for linking data directly to UE4, UE5, or Unity are available from the online manual.<br></li><li>As described in Use in other apps via VMC protocol, it is also possible to link by EVMC4U and VMC4UE using VMC Protocol.<br></li><li>A Unity sample to read data from the shared memory written by MocapForAll is available from the online manual.</li></ul><br><strong>Use in other apps via VMC protocol</strong><br>You can send the captured motion to various applications via the VMC protocol. The following are confirmed to work:<br><ul class=\"bb_ul\"><li>Sending bones and facial expression morphs to Unity using EVMC4U<br></li><li>Sending bones and facial expression morphs to Unreal Engine using VMC4UE<br></li><li>Sending bones to Blender using VMC4B<br></li><li>Sending bones to VSeeFace, and receiving facial expression morphs from VSeeFace<br></li><li>Sending tracker to VirtualMotionCapture</li></ul><br><strong>Save animations to files</strong><br>You can save the captured motion as BVH files and FBX files. It can be used with Blender etc.<br><br><strong>Create programs to receive data</strong><br>As the output specifications are open to public (except for FBX), you can even create your own programs to receive data from MocapForAll.",
-  "supported_languages": "English, Japanese, French",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 8,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 62.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -49,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 8,
-      "review_percentage": 62.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 62.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

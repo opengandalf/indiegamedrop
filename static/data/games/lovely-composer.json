@@ -3,8 +3,8 @@
   "name": "Lovely Composer",
   "slug": "lovely-composer",
   "developer": "1oo Games",
-  "publisher": "1oo Games",
-  "release_date": "Dec 23, 2024",
+  "publisher": "",
+  "release_date": "2024-12-23",
   "price_usd": 7.49,
   "genres": [
     "Audio Production"
@@ -18,37 +18,9 @@
   ],
   "short_description": "This is a music creation tool that inherits the spirit of a game console music editor! You can enjoy create 8bit chiptune like music on a cute screen.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1667250/header.jpg?t=1735973957",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1667250/ss_fcefc7fd4eecd86bbb9a6a1279aa169051ef25d9.600x338.jpg?t=1735973957",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1667250/ss_498f18aca3b345b7501d99831ca2e39243bcf475.600x338.jpg?t=1735973957",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1667250/ss_0c091a11fbb186c53d0fc04ed89ed696367ae142.600x338.jpg?t=1735973957",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1667250/ss_868b0b6722bf337826062c83547a7bc37a9f1870.600x338.jpg?t=1735973957",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1667250/ss_d856823a4b11fad54b3b400ae67afdc11edea1be.600x338.jpg?t=1735973957",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1667250/ss_62af146f7b4f22f24c25f2ac5646d4bc8fd2e014.600x338.jpg?t=1735973957",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1667250/ss_b5871b87123ac6e4216b42542c0e9023c8f0caaa.600x338.jpg?t=1735973957",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1667250/ss_a8a64469e62bda51305075d8527385d510c8a2b4.600x338.jpg?t=1735973957",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1667250/ss_1d8a266998adc3e7c130d51207f58db54dd4df08.600x338.jpg?t=1735973957",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1667250/ss_06cd850397b424a3a6b4ddc81d904824c634b91e.600x338.jpg?t=1735973957",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1667250/ss_fc7ed1a1d549160b858973eede4f8ecd6604f5a1.600x338.jpg?t=1735973957"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >This is a music creation tool that inherits the spirit of a game console music editor!  <br>You can enjoy and easily create 8bit chiptune like music and sound effects like retro games on a cute screen.</p><p class=\"bb_paragraph\" > <br>The created song can be quickly output to files such as Wave or a MIDI file, and is suitable for game production and as a sketch before full-scale composition on other DAW.</p><p class=\"bb_paragraph\" >The operation is simple, and there are a chord input function, a function to select the rhythm from the pattern, and a composition support function such as checking the tone with a MIDI keyboard.</p><p class=\"bb_paragraph\" >It also supports Steam Deck, so you can enjoy it while lying down.</p><p class=\"bb_paragraph\" >In addition, there are more than 50 sample songs, so it is recommended for beginners who have no experience in composition!</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >This is a music creation tool that inherits the spirit of a game console music editor!  <br>You can enjoy and easily create 8bit chiptune like music and sound effects like retro games on a cute screen.</p><p class=\"bb_paragraph\" > <br>The created song can be quickly output to files such as Wave or a MIDI file, and is suitable for game production and as a sketch before full-scale composition on other DAW.</p><p class=\"bb_paragraph\" >The operation is simple, and there are a chord input function, a function to select the rhythm from the pattern, and a composition support function such as checking the tone with a MIDI keyboard.</p><p class=\"bb_paragraph\" >It also supports Steam Deck, so you can enjoy it while lying down.</p><p class=\"bb_paragraph\" >In addition, there are more than 50 sample songs, so it is recommended for beginners who have no experience in composition!</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Partial Controller Support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 110,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 116,
-  "review_positive": 111,
+  "review_positive": 0,
   "review_percentage": 95.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +28,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 72,
-      "review_percentage": 94.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 116,
       "review_percentage": 95.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

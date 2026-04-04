@@ -3,8 +3,8 @@
   "name": "Endless Night - Alpha",
   "slug": "endless-night-alpha",
   "developer": "Yerawizard LLC",
-  "publisher": "Yerawizard LLC",
-  "release_date": "Dec 5, 2016",
+  "publisher": "",
+  "release_date": "2016-12-05",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -23,34 +23,15 @@
   ],
   "short_description": "Endless Night is a room-scale VR experience that will get your heart pumping and your adrenaline roaring.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547750/header.jpg?t=1481388321",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547750/ss_424740a1d1c7cf5d5f544f7aae33656e79cad597.600x338.jpg?t=1481388321",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547750/ss_eba1bf1864378dbb83c7d21c9a3edb6ce0a0b4fb.600x338.jpg?t=1481388321",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547750/ss_ebe48033c2e86236227fd53f8437944d934ce355.600x338.jpg?t=1481388321",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547750/ss_632139bfbe2779200f2ed7151f0352336e6c116c.600x338.jpg?t=1481388321",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547750/ss_209010ce9ba87726345bf7787e646bbd570a8cf5.600x338.jpg?t=1481388321",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547750/ss_04aaece45932ee7669f0d8c71d0abdfb97e65b8f.600x338.jpg?t=1481388321"
-  ],
-  "detailed_description": "Endless Night is a room-scale virtual reality experience built for the HTC Vive. <br />\r\n<br />\r\nThis game is in early alpha, and is currently a wave-based shooter that will get your heart pumping and your adrenaline roaring.  Exploration and puzzle-solving elements are in development, and will be made available once they are ready.  Until then, enjoy the free alpha and let us know what you think!  Update are released every two weeks, so tell us what you'd like to see.",
-  "about_the_game": "Endless Night is a room-scale virtual reality experience built for the HTC Vive. <br />\r\n<br />\r\nThis game is in early alpha, and is currently a wave-based shooter that will get your heart pumping and your adrenaline roaring.  Exploration and puzzle-solving elements are in development, and will be made available once they are ready.  Until then, enjoy the free alpha and let us know what you think!  Update are released every two weeks, so tell us what you'd like to see.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
+  "review_velocity_7d": 3.0500000000000003,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 61,
-  "review_positive": 54,
+  "review_positive": 0,
   "review_percentage": 88.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 58,
-      "review_percentage": 89.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 61,
       "review_percentage": 88.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

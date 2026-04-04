@@ -3,8 +3,8 @@
   "name": "Boulder Island",
   "slug": "boulder-island",
   "developer": "mango tea",
-  "publisher": "mango tea",
-  "release_date": "Jun 28, 2022",
+  "publisher": "",
+  "release_date": "2022-06-28",
   "price_usd": 9.99,
   "genres": [
     "Action",
@@ -25,30 +25,11 @@
   ],
   "short_description": "The game is a first-person survival battle game, which requires players to defeat the enemy in the game through operation and collection.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026790/header.jpg?t=1669473859",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026790/ss_b44d5211cb2a11a1b719d5ed95bded284c9ee45f.600x338.jpg?t=1669473859",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026790/ss_93a969d3584ca4310f390a254cf27a5ed8a26a02.600x338.jpg?t=1669473859",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026790/ss_7caa6742a219ef7179e6aae779d7ff33824e86a1.600x338.jpg?t=1669473859",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026790/ss_5b4080204ca1b89245a0bf74e0a8ac3fcaecfbb5.600x338.jpg?t=1669473859",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026790/ss_e606e42cf344020d51771efc189df911a8230f7e.600x338.jpg?t=1669473859",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026790/ss_5a26cf3b67696bf07f51ff7671631d97284b37a2.600x338.jpg?t=1669473859",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026790/ss_ff22b1ed893faa63a0f8751c110419673db6c818.600x338.jpg?t=1669473859"
-  ],
-  "detailed_description": "The Knights and the Northern Pirates were cursed to become undead when they competed for the holy weapon. The hero who encountered the shipwreck will fight for survival. You can only survive by using the resources on the island. Do your best to solve the curse puzzle. This is a first-person action game. Players can obtain materials and equip weapons by collecting and defeating enemies to complete the tasks of survival and exploration in the island.",
-  "about_the_game": "The Knights and the Northern Pirates were cursed to become undead when they competed for the holy weapon. The hero who encountered the shipwreck will fight for survival. You can only survive by using the resources on the island. Do your best to solve the curse puzzle. This is a first-person action game. Players can obtain materials and equip weapons by collecting and defeating enemies to complete the tasks of survival and exploration in the island.",
-  "supported_languages": "English<strong>*</strong>, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
@@ -60,19 +41,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

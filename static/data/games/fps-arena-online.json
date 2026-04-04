@@ -3,8 +3,8 @@
   "name": "FPS Arena Online",
   "slug": "fps-arena-online",
   "developer": "Ira Williams",
-  "publisher": "Ira Williams",
-  "release_date": "Mar 27, 2022",
+  "publisher": "",
+  "release_date": "2022-03-27",
   "price_usd": 7.99,
   "genres": [
     "Action",
@@ -21,32 +21,13 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Compete Against Friends and Foes in F.P.S.A.O. FPS Arena Online F.P.S.A.O is a novelty network multiplayer first-person shooter game. Battle with your friends or host sessions for other players to join.",
+  "short_description": "Compete Against Friends and Foes in F.P.S.A.O. FPS Arena Online F.P.S.A.O is a novelty network multiplayer first-person shooter game. Battle with your friends or host sessions for other players to joi",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1797450/6eee7dc86d4c67c19dbedcb23b3ec1148c61b2dd/header.jpg?t=1749191238",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1797450/ss_9de429a3ea96416dcaa1d1f437db093ceb37dae4.600x338.jpg?t=1749191238",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1797450/ss_29c3d05557cc2e9c2ecc806f952d44ffbb4f101f.600x338.jpg?t=1749191238",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1797450/ss_b0ba236525d2a2733c07bf50876c8ce903a51dfb.600x338.jpg?t=1749191238",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1797450/ss_e6cd4a482d4467ea6edbf50b9a62ce522545bcab.600x338.jpg?t=1749191238",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1797450/ss_384e7fb3674bf4e530fc46c5e3f0c5d582690bd6.600x338.jpg?t=1749191238"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >F.P.S.A.O currently operates on a listen-server functionality basis, allowing players to create game sessions via the main menu's server creation window. Once created, these sessions become browsable by other players through a scroll browser or discoverable randomly. For added security and control, Host players possess the ability to password protect their sessions at either creation time or even mid-session, ensuring invited guests only. </p><p class=\"bb_paragraph\" >Unlike typical first person shooter games, F.P.S.A.O introduces a dynamic twist: players do not pre-select their loadouts before entering sessions. Instead, they initiate gameplay with a basic weapon upon joining another player's world. This design enables spontaneity, as players can swap their loadouts at any time using a conveniently placed quick selection menu. Weapon acquisition relies on Score currency, accumulated through successful PvP combat kills. When players succumb to death, their weapons drop, allowing others to retrieve them before they disappear. Additionally, players retain the freedom to drop their active weapon voluntarily, swapping it with another of equivalent class. </p><p class=\"bb_paragraph\" >Player inventories are intentionally limited to three weapons: one primary, one secondary, and one shield weapon. Certain weapons boast unique combat effects and states, enriching gameplay strategy. Visually stunning maps play a vital role in gameplay immersion. Moreover, a fully playable 3D lobby precedes matches, inviting players to explore and socialize before intense competitions begin.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >F.P.S.A.O currently operates on a listen-server functionality basis, allowing players to create game sessions via the main menu's server creation window. Once created, these sessions become browsable by other players through a scroll browser or discoverable randomly. For added security and control, Host players possess the ability to password protect their sessions at either creation time or even mid-session, ensuring invited guests only. </p><p class=\"bb_paragraph\" >Unlike typical first person shooter games, F.P.S.A.O introduces a dynamic twist: players do not pre-select their loadouts before entering sessions. Instead, they initiate gameplay with a basic weapon upon joining another player's world. This design enables spontaneity, as players can swap their loadouts at any time using a conveniently placed quick selection menu. Weapon acquisition relies on Score currency, accumulated through successful PvP combat kills. When players succumb to death, their weapons drop, allowing others to retrieve them before they disappear. Additionally, players retain the freedom to drop their active weapon voluntarily, swapping it with another of equivalent class. </p><p class=\"bb_paragraph\" >Player inventories are intentionally limited to three weapons: one primary, one secondary, and one shield weapon. Certain weapons boast unique combat effects and states, enriching gameplay strategy. Visually stunning maps play a vital role in gameplay immersion. Moreover, a fully playable 3D lobby precedes matches, inviting players to explore and socialize before intense competitions begin.</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
@@ -58,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

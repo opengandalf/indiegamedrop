@@ -3,8 +3,8 @@
   "name": "Happy Engine",
   "slug": "happy-engine",
   "developer": "ToolGame",
-  "publisher": "ToolGame",
-  "release_date": "Jan 10, 2020",
+  "publisher": "",
+  "release_date": "2020-01-10",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -19,36 +19,9 @@
   ],
   "short_description": "This is a puzzle game that supports extended content !",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201260/header.jpg?t=1766504880",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201260/ss_330c00091f317ed04c384d00e6ec0ab48980450a.600x338.jpg?t=1766504880",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201260/ss_57c2407e2f3776568b5a0011a8f9b0b0769ef9fa.600x338.jpg?t=1766504880",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201260/ss_71235c01e5f3aea0a313c505b555e71a90bb832e.600x338.jpg?t=1766504880",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201260/ss_cac80b4461fda0852901a0e8ef1bcfc0884a77d6.600x338.jpg?t=1766504880",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201260/ss_fa7b528acb62aae63bf236238b8326f8542d4543.600x338.jpg?t=1766504880",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201260/ss_ee5aa44ad2c735bfc985ab6e004af11c15686dd6.600x338.jpg?t=1766504880",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201260/ss_0621125d66899e61cd1011609ade792011fcd3ee.600x338.jpg?t=1766504880"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Game introduction</h2>This is a puzzle game that supports extended content !<h2 class=\"bb_tag\" >Extended picture</h2>You can import any picture you like into the game, support jpg, png format<h2 class=\"bb_tag\" >Workshop</h2>The game supports creative workshops, you can upload and download artwork<h2 class=\"bb_tag\" >Graffiti function</h2>The game has a built-in doodle tool that can add content to the picture !",
-  "about_the_game": "<h2 class=\"bb_tag\" >Game introduction</h2>This is a puzzle game that supports extended content !<h2 class=\"bb_tag\" >Extended picture</h2>You can import any picture you like into the game, support jpg, png format<h2 class=\"bb_tag\" >Workshop</h2>The game supports creative workshops, you can upload and download artwork<h2 class=\"bb_tag\" >Graffiti function</h2>The game has a built-in doodle tool that can add content to the picture !",
-  "supported_languages": "English, German, Russian, Japanese, Simplified Chinese, Traditional Chinese, Korean",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Workshop",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 30.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 63,
-  "review_positive": 44,
+  "review_positive": 0,
   "review_percentage": 69.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 33,
-      "review_percentage": 54.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 63,
       "review_percentage": 69.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

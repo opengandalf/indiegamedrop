@@ -3,8 +3,8 @@
   "name": "Crea Run!",
   "slug": "crea-run",
   "developer": "CREA CLAN, カミエナ / KamiEna",
-  "publisher": "CREA CLAN, カミエナ / KamiEna",
-  "release_date": "Aug 22, 2023",
+  "publisher": "",
+  "release_date": "2023-08-22",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -23,54 +23,27 @@
   ],
   "short_description": "Run, jump, and gather building blocks...Craft vehicles using the collected blocks and recipes!An action game of running, jumping, and crafting.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2547610/header.jpg?t=1771667740",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2547610/ss_0b35006d5cc8c2b6614929c066740f146c29df53.600x338.jpg?t=1771667740",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2547610/ss_b38472dbaeb99221505fccda405f9a60faf2bb2a.600x338.jpg?t=1771667740",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2547610/ss_a119f052878b8f24a5afa25901459e4cc65d4b98.600x338.jpg?t=1771667740",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2547610/ss_1b62a58e19f0fc5754d79c6ab7c1adbbd11919e7.600x338.jpg?t=1771667740",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2547610/ss_8f85feca7c53a0c7335cfa6e42a4a3cdae03fba9.600x338.jpg?t=1771667740",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2547610/ss_826d1300f1b98f8f2c49e22602166394953b94ac.600x338.jpg?t=1771667740"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>===Game Description===</strong></p><p class=\"bb_paragraph\" >Run, jump, and gather building blocks...</p><p class=\"bb_paragraph\" >Use the collected blocks and recipes to craft vehicles!</p><p class=\"bb_paragraph\" >An action game of running, jumping, and crafting.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >While riding a vehicle, you'll earn increased scores and be able to defeat enemies and obstacles!</p><p class=\"bb_paragraph\" >Craft a variety of vehicles, dash through stages, and earn high scores in one go.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>===Controls===</strong> </p><p class=\"bb_paragraph\" >・Jump: Left-click<br>              SPACE on the keyboard<br>              XInput Controller: A</p><p class=\"bb_paragraph\" >・Double Jump: Left-click while jumping <br>                           SPACE on the keyboard<br>                           XInput Controller: A</p><p class=\"bb_paragraph\" >・Craft: Right-click<br>              SHIFT on the keyboard<br>              XInput Controller: RB</p><p class=\"bb_paragraph\" >※The \"CRAFT!\" button at the bottom left also acts as a gauge.</p><p class=\"bb_paragraph\" >　Crafting is possible when it glows yellow!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>===Game Tips===</strong></p><p class=\"bb_paragraph\" >・Stars give 10 points, while building blocks and recipes provide 50 points each.</p><p class=\"bb_paragraph\" >・Riding a vehicle allows you to defeat enemies and obstacles while earning scores!</p><p class=\"bb_paragraph\" >・Be careful not to fall through cracked floors during jumps.</p><p class=\"bb_paragraph\" >・Each vehicle has its own unique features!</p><p class=\"bb_paragraph\" >・Cars increase the score gained from collecting blocks, and more.</p><p class=\"bb_paragraph\" >・Trains increase the score obtained from defeating enemies.</p><p class=\"bb_paragraph\" >・Rockets enhance the score earned and the number of jumps available.</p><p class=\"bb_paragraph\" >・??? has its own set of features...</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >※I apologize if there are any mistakes as I am using a translation tool.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>===Game Description===</strong></p><p class=\"bb_paragraph\" >Run, jump, and gather building blocks...</p><p class=\"bb_paragraph\" >Use the collected blocks and recipes to craft vehicles!</p><p class=\"bb_paragraph\" >An action game of running, jumping, and crafting.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >While riding a vehicle, you'll earn increased scores and be able to defeat enemies and obstacles!</p><p class=\"bb_paragraph\" >Craft a variety of vehicles, dash through stages, and earn high scores in one go.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>===Controls===</strong> </p><p class=\"bb_paragraph\" >・Jump: Left-click<br>              SPACE on the keyboard<br>              XInput Controller: A</p><p class=\"bb_paragraph\" >・Double Jump: Left-click while jumping <br>                           SPACE on the keyboard<br>                           XInput Controller: A</p><p class=\"bb_paragraph\" >・Craft: Right-click<br>              SHIFT on the keyboard<br>              XInput Controller: RB</p><p class=\"bb_paragraph\" >※The \"CRAFT!\" button at the bottom left also acts as a gauge.</p><p class=\"bb_paragraph\" >　Crafting is possible when it glows yellow!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>===Game Tips===</strong></p><p class=\"bb_paragraph\" >・Stars give 10 points, while building blocks and recipes provide 50 points each.</p><p class=\"bb_paragraph\" >・Riding a vehicle allows you to defeat enemies and obstacles while earning scores!</p><p class=\"bb_paragraph\" >・Be careful not to fall through cracked floors during jumps.</p><p class=\"bb_paragraph\" >・Each vehicle has its own unique features!</p><p class=\"bb_paragraph\" >・Cars increase the score gained from collecting blocks, and more.</p><p class=\"bb_paragraph\" >・Trains increase the score obtained from defeating enemies.</p><p class=\"bb_paragraph\" >・Rockets enhance the score earned and the number of jumps available.</p><p class=\"bb_paragraph\" >・??? has its own set of features...</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >※I apologize if there are any mistakes as I am using a translation tool.</p>",
-  "supported_languages": "Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
-  "gem_score": 0.9252,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
+  "review_velocity_7d": 1.2000000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 24,
-  "review_positive": 23,
+  "review_positive": 0,
   "review_percentage": 95.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 21,
-      "review_percentage": 95.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 24,
       "review_percentage": 95.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

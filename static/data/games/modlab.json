@@ -3,8 +3,8 @@
   "name": "ModLab",
   "slug": "modlab",
   "developer": "Reason Generator Inc.",
-  "publisher": "Reason Generator Inc. ",
-  "release_date": "Feb 15, 2018",
+  "publisher": "",
+  "release_date": "2018-02-15",
   "price_usd": 0.0,
   "genres": [
     "Utilities"
@@ -17,57 +17,21 @@
   ],
   "short_description": "ModLab is a free tool that can generate and fine tune normal maps in a realtime rendering environment.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768970/header.jpg?t=1574192689",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768970/ss_cef083cd7e1d121c27d68703c42a8279ad7c65ab.600x338.jpg?t=1574192689",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768970/ss_8e619162f1f1d129303fb32a4913c51da0dd3a24.600x338.jpg?t=1574192689",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768970/ss_d6f61b8f3694393cc5b118227ffb50ec7767965c.600x338.jpg?t=1574192689",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768970/ss_2f98cd66eaf99b794d9ac7037dc5dbb8bc2289f1.600x338.jpg?t=1574192689",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768970/ss_a49c028bfac4166175b45132f5a6538854ac6f1c.600x338.jpg?t=1574192689",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768970/ss_d8eba54f6cc5936676624e9393cd30065d3a060e.600x338.jpg?t=1574192689"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768970/extras/0798875c987636157ca61153da7f93fe.avif?t=1574192689\" width=620 height=133 /></span><br>Modlab is not an image editor. ModLab is a free tool that can generate normal maps in a realtime deferred rendering environment. It was initially created as an asset previewing and mastering tool for the game Wayward Terran Frontier which means it stands out among other content creation utility programs by featuring a full hardware rendering pipeline for previewing results in realtime.<br><br>Modlab can generate high quality normal maps without 3d geometry.<br><br><strong>ModLab</strong> is completely free but you can support development at .<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768970/extras/5a63c30a10947a382baf0d440c29ca61.avif?t=1574192689\" width=620 height=133 /></span><h2 class=\"bb_tag\" >The Modlab project has 3 core goals.</h2><ul class=\"bb_ul\"><li>To provide entry level graphic designers an alternative way to create difficult assets such as normal maps and specular/roughness maps.<br></li><li>To provide professional graphic designers an ideal environment for fine tuning their art and exporting ready-to-ship assets.<br></li><li>To serve as a test bed for new experimental content generation techniques and algorithms. i.e. cool stuff we want to play around with.</li></ul> <br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768970/extras/a0a99ccc770ac6e8b51d7410fbee7275.avif?t=1574192689\" width=620 height=133 /></span><br>Depending on reception and feedback Modlab may grow to become much much more. We would like to continue developing Modlab in coordination with the community. Our goal is to have the product remain free and supported by donations, and we will be hosting community polls to decide the direction of future development. Features such as procedural backdrop generation, support for other rendering and post-processing pipes such as Unity or Unreal, and 3d model previews of assets are all on the table.<h2 class=\"bb_tag\" >Key features:</h2><ul class=\"bb_ul\"><li>Generate a normal map from a diffuse map using advanced image processing and analytic techniques<br></li><li>Generate detailed normal maps from height maps<br></li><li>Combine normal maps with custom blending parameters<br></li><li>Create a horizontal profile for a normal map using the curve editor<br></li><li>Clean up and sharpen existing normal maps with Bilateral filtering<br></li><li>Generate roughness/specularity maps<br></li><li>Fine tune the intensity of emission maps<br></li><li>Realtime preview with settings for dominant, ambient, and point light sources</li></ul>",
-  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768970/extras/0798875c987636157ca61153da7f93fe.avif?t=1574192689\" width=620 height=133 /></span><br>Modlab is not an image editor. ModLab is a free tool that can generate normal maps in a realtime deferred rendering environment. It was initially created as an asset previewing and mastering tool for the game Wayward Terran Frontier which means it stands out among other content creation utility programs by featuring a full hardware rendering pipeline for previewing results in realtime.<br><br>Modlab can generate high quality normal maps without 3d geometry.<br><br><strong>ModLab</strong> is completely free but you can support development at .<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768970/extras/5a63c30a10947a382baf0d440c29ca61.avif?t=1574192689\" width=620 height=133 /></span><h2 class=\"bb_tag\" >The Modlab project has 3 core goals.</h2><ul class=\"bb_ul\"><li>To provide entry level graphic designers an alternative way to create difficult assets such as normal maps and specular/roughness maps.<br></li><li>To provide professional graphic designers an ideal environment for fine tuning their art and exporting ready-to-ship assets.<br></li><li>To serve as a test bed for new experimental content generation techniques and algorithms. i.e. cool stuff we want to play around with.</li></ul> <br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768970/extras/a0a99ccc770ac6e8b51d7410fbee7275.avif?t=1574192689\" width=620 height=133 /></span><br>Depending on reception and feedback Modlab may grow to become much much more. We would like to continue developing Modlab in coordination with the community. Our goal is to have the product remain free and supported by donations, and we will be hosting community polls to decide the direction of future development. Features such as procedural backdrop generation, support for other rendering and post-processing pipes such as Unity or Unreal, and 3d model previews of assets are all on the table.<h2 class=\"bb_tag\" >Key features:</h2><ul class=\"bb_ul\"><li>Generate a normal map from a diffuse map using advanced image processing and analytic techniques<br></li><li>Generate detailed normal maps from height maps<br></li><li>Combine normal maps with custom blending parameters<br></li><li>Create a horizontal profile for a normal map using the curve editor<br></li><li>Clean up and sharpen existing normal maps with Bilateral filtering<br></li><li>Generate roughness/specularity maps<br></li><li>Fine tune the intensity of emission maps<br></li><li>Realtime preview with settings for dominant, ambient, and point light sources</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 63,
-  "review_positive": 57,
+  "review_positive": 0,
   "review_percentage": 90.5,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 293,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 58,
-      "review_percentage": 89.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 63,
-      "review_percentage": 90.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 63,
       "review_percentage": 90.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

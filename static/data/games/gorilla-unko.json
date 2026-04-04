@@ -3,8 +3,8 @@
   "name": "Gorilla Unko",
   "slug": "gorilla-unko",
   "developer": "Gorilla Cafe",
-  "publisher": "Gorilla Cafe",
-  "release_date": "Apr 8, 2019",
+  "publisher": "",
+  "release_date": "2019-04-08",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -19,53 +19,27 @@
   ],
   "short_description": "A game, keep avoiding the gorilla's UNKO. Avoid as much UNKO as you can. Compete your high score in online rankings.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1047120/header.jpg?t=1554775247",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1047120/ss_991f1e27d0da8fcbd161e8e2330da5f799c99c9b.600x338.jpg?t=1554775247",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1047120/ss_153d510a70dc89a2576ddcc2fba5007830a66460.600x338.jpg?t=1554775247",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1047120/ss_e7869602a4fd03dfdbdab9331435d820340d190c.600x338.jpg?t=1554775247",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1047120/ss_60f3c2fb4951dd5f9d9f4ca151d495910facf754.600x338.jpg?t=1554775247",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1047120/ss_43eb0e54730029e220ac0d96ae2041fd8c317b55.600x338.jpg?t=1554775247"
-  ],
-  "detailed_description": "You are the cleaning staff of the zoo.<br />\r\n<br />\r\nThere is only one goal in \"Gorilla Unko\".<br />\r\nKeep avoiding the gorilla's UNKO as much as you can.<br />\r\n<br />\r\nThe more you avoid, the higher the score will become.<br />\r\nCompete high scores with world through online rankings.",
-  "about_the_game": "You are the cleaning staff of the zoo.<br />\r\n<br />\r\nThere is only one goal in \"Gorilla Unko\".<br />\r\nKeep avoiding the gorilla's UNKO as much as you can.<br />\r\n<br />\r\nThe more you avoid, the higher the score will become.<br />\r\nCompete high scores with world through online rankings.",
-  "supported_languages": "English, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0014,
   "gem_score": 0.8589,
   "hype_score": 0.0,
-  "review_velocity_7d": 11.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 43,
-  "review_positive": 42,
+  "review_positive": 0,
   "review_percentage": 97.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 32,
-      "review_percentage": 96.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 43,
       "review_percentage": 97.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

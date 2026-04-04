@@ -3,8 +3,8 @@
   "name": "Did You Hear That?",
   "slug": "did-you-hear-that",
   "developer": "Vimes Entertainment",
-  "publisher": "Vimes Entertainment",
-  "release_date": "Nov 20, 2020",
+  "publisher": "",
+  "release_date": "2020-11-20",
   "price_usd": 1.49,
   "genres": [
     "Action",
@@ -21,33 +21,15 @@
   ],
   "short_description": "An adventure game where you can only use your hearing sense because the other senses are neutralized. Visually impaired can play this game",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466550/header.jpg?t=1688400266",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466550/ss_f4fdf50444cbc5b3c2d371123606f92ead342338.600x338.jpg?t=1688400266",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466550/ss_9f4d0d17b9b8a64cf16d23a57537e57187d7df3e.600x338.jpg?t=1688400266",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466550/ss_99a5276e0a067f47b754917b544fb746818ec5ab.600x338.jpg?t=1688400266",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466550/ss_357240a0a5a5bceaac28e9681c70fae302a9b0f7.600x338.jpg?t=1688400266",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466550/ss_7406e121eae70b60a5cef01a68ab2b9584f58e9d.600x338.jpg?t=1688400266"
-  ],
-  "detailed_description": "<strong>Visually impaired can play this game</strong><br><br>In this game you are a scientist who was fiddling with a quantum device that exploded and tore down the universe.<br><br>Some dimensions were merged into one and you must try to repair it... but the most important thing is that all the senses except the hearing sense are neutralized.<br><br><strong>So you can only trust in what you hear.</strong><br><br>Using your ear you'll have to:<br><br><ul class=\"bb_ul\"><li> Dodge traps<br></li><li> Hear footsteps of enemies and shoot them <br></li><li> Survive enemy waves<br></li><li> And other things...</li></ul>",
-  "about_the_game": "<strong>Visually impaired can play this game</strong><br><br>In this game you are a scientist who was fiddling with a quantum device that exploded and tore down the universe.<br><br>Some dimensions were merged into one and you must try to repair it... but the most important thing is that all the senses except the hearing sense are neutralized.<br><br><strong>So you can only trust in what you hear.</strong><br><br>Using your ear you'll have to:<br><br><ul class=\"bb_ul\"><li> Dodge traps<br></li><li> Hear footsteps of enemies and shoot them <br></li><li> Survive enemy waves<br></li><li> And other things...</li></ul>",
-  "supported_languages": "English<strong>*</strong>, Spanish - Spain<strong>*</strong>, Catalan<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

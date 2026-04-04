@@ -3,8 +3,8 @@
   "name": "Asunder",
   "slug": "asunder",
   "developer": "Zed Zeek",
-  "publisher": "Zed Zeek",
-  "release_date": "Jan 5, 2023",
+  "publisher": "",
+  "release_date": "2023-01-05",
   "price_usd": 19.99,
   "genres": [
     "Action",
@@ -21,32 +21,15 @@
   ],
   "short_description": "A RTS fantasy game (with pause). It didn't turn out to be as fun as I hoped but at least I used it as a testing ground for Asunder II.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213290/header.jpg?t=1724845209",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213290/ss_58e74e06c8665ee71802b2fbefd78f0b861e4869.600x338.jpg?t=1724845209",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213290/ss_0dbec7be54235efb382a4bd514887f4fc11a3bc4.600x338.jpg?t=1724845209",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213290/ss_82a4ef1640ae2b35199675287a40bde48b285fcf.600x338.jpg?t=1724845209",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213290/ss_ada9f13b7816d27ac769cf770e3c9e6b01ae63ec.600x338.jpg?t=1724845209",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2213290/ss_5f552663ed4f6b0e8c192c0ecc49443736a5b039.600x338.jpg?t=1724845209"
-  ],
-  "detailed_description": "Basically I wanted to make something like Warlords Battlecry III but without the basebuilding, as I never found that particularly exciting. i.e. you<br><br>Choose on the map where you want to go, and once you're there<br>You hire troops with your gold or select those you already have in your retinue, I believe those that don't enter the map become fully rested.<br>OK then with the troops you enter a map, fulfil the maps objective and then claim the reward and gear and gold.<br>Once a troop member has enough XP they will increase a level, where they become fully healed and stronger, you can equip a member with some gear eg better weapon/armour or charm<br><br>Controlled with the mouse<br>and WASD (QE)<br><br>Each map has an objective, the objective is one of the following<br><ul class=\"bb_ul\"><li>Kill everyone<br></li><li>Peregrination<br></li><li>Fetch<br></li><li>Assassinate<br></li><li>Survive<br></li><li>Collect Stuff<br></li><li>Protection<br></li><li>Destroy<br></li><li>Guide</li></ul>",
-  "about_the_game": "Basically I wanted to make something like Warlords Battlecry III but without the basebuilding, as I never found that particularly exciting. i.e. you<br><br>Choose on the map where you want to go, and once you're there<br>You hire troops with your gold or select those you already have in your retinue, I believe those that don't enter the map become fully rested.<br>OK then with the troops you enter a map, fulfil the maps objective and then claim the reward and gear and gold.<br>Once a troop member has enough XP they will increase a level, where they become fully healed and stronger, you can equip a member with some gear eg better weapon/armour or charm<br><br>Controlled with the mouse<br>and WASD (QE)<br><br>Each map has an objective, the objective is one of the following<br><ul class=\"bb_ul\"><li>Kill everyone<br></li><li>Peregrination<br></li><li>Fetch<br></li><li>Assassinate<br></li><li>Survive<br></li><li>Collect Stuff<br></li><li>Protection<br></li><li>Destroy<br></li><li>Guide</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.0,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 20,
-  "review_positive": 15,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 20,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 20,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

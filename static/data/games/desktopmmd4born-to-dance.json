@@ -3,8 +3,8 @@
   "name": "DesktopMMD4:Born to Dance",
   "slug": "desktopmmd4born-to-dance",
   "developer": "XDesktopSoft",
-  "publisher": "XDesktopSoft",
-  "release_date": "May 4, 2022",
+  "publisher": "",
+  "release_date": "2022-05-04",
   "price_usd": 2.27,
   "genres": [
     "Casual",
@@ -21,33 +21,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "The fourth generation of DesktopMMD born to dance,Brand new Theater-Mode, Fully supports using of MMD's VMD format dance motion file and PMX/PMD models directly , It's never been easier for MMD models to dance on your desktop. Support MMD's physics engine, Support STEAM workshop.",
+  "short_description": "The fourth generation of DesktopMMD born to dance,Brand new Theater-Mode, Fully supports using of MMD's VMD format dance motion file and PMX/PMD models directly , It's never been easier for MMD models",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1968650/header.jpg?t=1772945095",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1968650/ss_f4c950bbe3900eca08dd647395737daa127a1966.600x338.jpg?t=1772945095",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1968650/ss_60bcf579b8b2f7a8613949c61b400fa0f95b1079.600x338.jpg?t=1772945095",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1968650/ss_0d55d86b87158f61ccffe825c7e555bb853f4aef.600x338.jpg?t=1772945095",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1968650/ss_66104b8847b6c63b89dd6f624c3297023fb1cd13.600x338.jpg?t=1772945095",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1968650/ss_0f50581e8aaf97e8a1f1f1a5017f86ca83e3461d.600x338.jpg?t=1772945095"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >BORN TO DANCE</h2>The fourth generation of DesktopMMD born to dance,Brand new Theater-Mode, Fully supports using of MMD's VMD format dance motion file and PMX/PMD models directly without conversion, It's never been easier for MMD models to dance on your desktop. Support MMD's physics engine directly, Supports STEAM workshop.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Supports use MMD's VMD  dance motion files directly without conversion, Supports the Facial-Expressions and Lip-Sync of motion.<br></li><li>Support MMD's models that use directly without conversion, including PMX and PMD formats.<br></li><li>Supports the direct use of MMD pose data VPD files without conversion.<br></li><li>Support MMD physical effects, skirt and hair no longer through the model when dancing.<br></li><li>Support to directly control the show or hide of each part of the model <br></li><li>Brand new Theater-Mode<br></li><li>Brand new lightweight rendering engine, lower resource usage<br></li><li>Support option of 2D-Anime flat style or 3D-Realistic style<br></li><li>Support STEAM Workshop. , Support automatic import PMX models subscribed in Workshops of DesktopMMD3 and DesktopMagicEngine.<br></li><li>Support option of taskbar transparent or glass<br></li><li>Support multi-dance loop, single loop, random play of playlists<br></li><li>support multi-languauge<br></li><li>Support Windows 7/8/10/11</li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" >BORN TO DANCE</h2>The fourth generation of DesktopMMD born to dance,Brand new Theater-Mode, Fully supports using of MMD's VMD format dance motion file and PMX/PMD models directly without conversion, It's never been easier for MMD models to dance on your desktop. Support MMD's physics engine directly, Supports STEAM workshop.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Supports use MMD's VMD  dance motion files directly without conversion, Supports the Facial-Expressions and Lip-Sync of motion.<br></li><li>Support MMD's models that use directly without conversion, including PMX and PMD formats.<br></li><li>Supports the direct use of MMD pose data VPD files without conversion.<br></li><li>Support MMD physical effects, skirt and hair no longer through the model when dancing.<br></li><li>Support to directly control the show or hide of each part of the model <br></li><li>Brand new Theater-Mode<br></li><li>Brand new lightweight rendering engine, lower resource usage<br></li><li>Support option of 2D-Anime flat style or 3D-Realistic style<br></li><li>Support STEAM Workshop. , Support automatic import PMX models subscribed in Workshops of DesktopMMD3 and DesktopMagicEngine.<br></li><li>Support option of taskbar transparent or glass<br></li><li>Support multi-dance loop, single loop, random play of playlists<br></li><li>support multi-languauge<br></li><li>Support Windows 7/8/10/11</li></ul>",
-  "supported_languages": "English, Simplified Chinese, Spanish - Spain, Japanese, Korean",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Workshop"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 220,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 11.9,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 238,
-  "review_positive": 181,
+  "review_positive": 0,
   "review_percentage": 76.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 226,
-      "review_percentage": 77.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 238,
       "review_percentage": 76.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

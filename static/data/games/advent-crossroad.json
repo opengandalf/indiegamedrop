@@ -3,8 +3,8 @@
   "name": "Advent Crossroad",
   "slug": "advent-crossroad",
   "developer": "NANKADA",
-  "publisher": "NANKADA",
-  "release_date": "Aug 11, 2021",
+  "publisher": "",
+  "release_date": "2021-08-11",
   "price_usd": 9.99,
   "genres": [
     "Indie",
@@ -19,34 +19,15 @@
   ],
   "short_description": "First-person dungeon crawler RPG. Traverse through strange areas and fight vicious monsters to escape a twisted shopping mall.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675480/6e742b99400f332a86e389a1f6b04d10dfcfe063/header.jpg?t=1745443060",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675480/ss_780c74ae86a6e7945ca13e3a24f91a928ea48b7c.600x338.jpg?t=1745443060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675480/ss_575373d1866e627895a9cc887b42e4e92ff8b0d7.600x338.jpg?t=1745443060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675480/ss_71ce6c2c3fe2211f2b85520099dd6344e52058d7.600x338.jpg?t=1745443060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675480/ss_72e3b71bad2a5f075a828a3e0b6031b4c261f3ad.600x338.jpg?t=1745443060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675480/ss_e38f8766fda48c8e7f58c3d3b79837507cae5553.600x338.jpg?t=1745443060"
-  ],
-  "detailed_description": "A shopping center undergoes lockdown following sudden monster appearances. A security guard and special agent are amongst the trapped guests. To find the exit—as well as answers—they must travel through distorted spaces and fight off strange creatures using mysterious devices known as \"Tabernacles.\"<br><br>For best compatibility on Steam Deck: Go to Settings (gear icon) > Properties... > Compatibility > turn on forced compatibility > select Proton 7.0-6<h2 class=\"bb_tag\" >KEY FEATURES</h2><ul class=\"bb_ul\"><li><h2 class=\"bb_tag\" >Hybrid Navigation</h2> Explore top-down locations and first-person mazes filled with monsters.<br></li><li><h2 class=\"bb_tag\" >Fast-Paced Story</h2> Experience a tense atmosphere as characters find a way to escape the dangerous mall.<br></li><li><h2 class=\"bb_tag\" >Brisk Combat</h2> Engage in challenging turn-based battles and exploit monsters' weaknesses to survive! <br></li><li><h2 class=\"bb_tag\" >Customize Skillsets</h2> Unlock new abilities during fights or the Skill Menu afterward.  </li></ul>",
-  "about_the_game": "A shopping center undergoes lockdown following sudden monster appearances. A security guard and special agent are amongst the trapped guests. To find the exit—as well as answers—they must travel through distorted spaces and fight off strange creatures using mysterious devices known as \"Tabernacles.\"<br><br>For best compatibility on Steam Deck: Go to Settings (gear icon) > Properties... > Compatibility > turn on forced compatibility > select Proton 7.0-6<h2 class=\"bb_tag\" >KEY FEATURES</h2><ul class=\"bb_ul\"><li><h2 class=\"bb_tag\" >Hybrid Navigation</h2> Explore top-down locations and first-person mazes filled with monsters.<br></li><li><h2 class=\"bb_tag\" >Fast-Paced Story</h2> Experience a tense atmosphere as characters find a way to escape the dangerous mall.<br></li><li><h2 class=\"bb_tag\" >Brisk Combat</h2> Engage in challenging turn-based battles and exploit monsters' weaknesses to survive! <br></li><li><h2 class=\"bb_tag\" >Customize Skillsets</h2> Unlock new abilities during fights or the Skill Menu afterward.  </li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 1.6,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 32,
-  "review_positive": 28,
+  "review_positive": 0,
   "review_percentage": 87.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 30,
-      "review_percentage": 86.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 32,
       "review_percentage": 87.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "PianoBoard Server",
   "slug": "pianoboard-server",
   "developer": "DaSerge",
-  "publisher": "DaSerge",
-  "release_date": "Apr 3, 2018",
+  "publisher": "",
+  "release_date": "2018-04-03",
   "price_usd": 0.0,
   "genres": [
     "Education"
@@ -18,30 +18,9 @@
   ],
   "short_description": "PianoBoard Server enables feedback from MIDI keyboard/digital piano in your mobile AR PianoBoard app.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692500/header.jpg?t=1638720384",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692500/ss_b1dc7d39df33d683dbb373868107e527f32aa205.600x338.jpg?t=1638720384",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692500/ss_1739eaa77048d7dd9fc652b6f599828a31ee4dc7.600x338.jpg?t=1638720384",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692500/ss_120253dc28a24432ebb3dcfda5621c61343bf0ed.600x338.jpg?t=1638720384",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692500/ss_5830d0d183ec08da4f769e08de8f97a234bec2f3.600x338.jpg?t=1638720384",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692500/ss_b9cd371a491b2a12433685b87ad72bd514f14a10.600x338.jpg?t=1638720384",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692500/ss_493dc8fec5d77d58583aff7701897106900d6ed4.600x338.jpg?t=1638720384"
-  ],
-  "detailed_description": "Put on your CardBoard and plug in the MIDI keyboard!<br />\r\nIt's a play time - with PianoBoard you can dust off your piano and perform your favorite songs!<br />\r\n<br />\r\nPrint a tracking image, put it above the piano keyboard and play - no need to switch between score and instrument any more!<br />\r\nThe melody will always be before your very eyes.<br />\r\n<br />\r\nPianoBoard Server enables feedback from MIDI keyboard/digital piano in your mobile AR PianoBoard app (Android 4.4+ is supported currently, a back-facing camera with autofocus is required).<br />\r\n<br />\r\nYour PC and mobile phone should be connected to the same local network (f.e. via WiFi router) or via tethering (i.e. you can also connect your PC to the phone' mobile access point if it supports that).<br />\r\n<br />\r\n* Connect your MIDI device to the PC, select it in the list and mark it as favorite so that it is selected as input device automatically on next run.<br />\r\n* A smartphone VR headset with headstrap and camera hole is required",
-  "about_the_game": "Put on your CardBoard and plug in the MIDI keyboard!<br />\r\nIt's a play time - with PianoBoard you can dust off your piano and perform your favorite songs!<br />\r\n<br />\r\nPrint a tracking image, put it above the piano keyboard and play - no need to switch between score and instrument any more!<br />\r\nThe melody will always be before your very eyes.<br />\r\n<br />\r\nPianoBoard Server enables feedback from MIDI keyboard/digital piano in your mobile AR PianoBoard app (Android 4.4+ is supported currently, a back-facing camera with autofocus is required).<br />\r\n<br />\r\nYour PC and mobile phone should be connected to the same local network (f.e. via WiFi router) or via tethering (i.e. you can also connect your PC to the phone' mobile access point if it supports that).<br />\r\n<br />\r\n* Connect your MIDI device to the PC, select it in the list and mark it as favorite so that it is selected as input device automatically on next run.<br />\r\n* A smartphone VR headset with headstrap and camera hole is required",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Japanese, Korean, Portuguese - Portugal, Russian, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 4,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -49,26 +28,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 4,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

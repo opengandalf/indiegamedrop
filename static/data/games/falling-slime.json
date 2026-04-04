@@ -3,8 +3,8 @@
   "name": "Falling Slime",
   "slug": "falling-slime",
   "developer": "Quote Unquote Studio",
-  "publisher": "Quote Unquote Studio",
-  "release_date": "Jun 12, 2018",
+  "publisher": "",
+  "release_date": "2018-06-12",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -20,40 +20,11 @@
     "windows",
     "linux"
   ],
-  "short_description": "Falling Slime is a sandbox physics, arcade falling block puzzle game. Connect 4 elemental pieces to 'pop' them into particles that sift through the filter onto the board below. Includes various modes and customizable physics variables.",
+  "short_description": "Falling Slime is a sandbox physics, arcade falling block puzzle game. Connect 4 elemental pieces to 'pop' them into particles that sift through the filter onto the board below. Includes various modes ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838150/header.jpg?t=1772760347",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838150/ss_e48fa0f9902629a35e8b32399f0cf578dc85d3ed.600x338.jpg?t=1772760347",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838150/ss_65e9111e2967d29c9482e00655a0d72cbcce543e.600x338.jpg?t=1772760347",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838150/ss_cc7ec3ecbe1b528997c76922988cc030c300262e.600x338.jpg?t=1772760347",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838150/ss_ea3a8eab00c29a8e834b02eb9bc4fa915ecadd79.600x338.jpg?t=1772760347",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838150/ss_8b6a8c57735fc6f59b8d3d2e8c2c29361e4e5e3b.600x338.jpg?t=1772760347",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838150/ss_676d2ff7e1cc165f59905b33b7cb185271a7eaad.600x338.jpg?t=1772760347"
-  ],
-  "detailed_description": "Falling Slime is an arcade stack ’em up that combines matching puzzlers with Falling Sand style games. Linking four or more slimes of one color causes them to ‘pop’ into particles of various ‘elements’, which then fall below the slime line. The player must balance setting up combos of matches with keeping the sandbox clear via the interaction of the elemental particles. If either the sandbox or slimebox get filled, it’s game over!<br><br>Key Features <br><ul class=\"bb_ul\"><li>Stack ‘em up meets Falling Sand!<br></li><li>Multiple Arcade Modes <br></li><li>Play vs. AI or a local opponent<br></li><li>Endless single-player mode: Try to best your high score!<br></li><li>Adorable, marketable slimes!</li></ul>",
-  "about_the_game": "Falling Slime is an arcade stack ’em up that combines matching puzzlers with Falling Sand style games. Linking four or more slimes of one color causes them to ‘pop’ into particles of various ‘elements’, which then fall below the slime line. The player must balance setting up combos of matches with keeping the sandbox clear via the interaction of the elemental particles. If either the sandbox or slimebox get filled, it’s game over!<br><br>Key Features <br><ul class=\"bb_ul\"><li>Stack ‘em up meets Falling Sand!<br></li><li>Multiple Arcade Modes <br></li><li>Play vs. AI or a local opponent<br></li><li>Endless single-player mode: Try to best your high score!<br></li><li>Adorable, marketable slimes!</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Shared/Split Screen",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -61,19 +32,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

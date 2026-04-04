@@ -3,8 +3,8 @@
   "name": "Project Arcade",
   "slug": "project-arcade",
   "developer": "Antonio Figueiredo",
-  "publisher": "Antonio Figueiredo",
-  "release_date": "Dec 21, 2023",
+  "publisher": "",
+  "release_date": "2023-12-21",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -23,35 +23,9 @@
   ],
   "short_description": "Project Arcade currently contains a simple yet responsive card matching memory game, with progressively challenging levels, pairs or triples modes, and an automatic save system.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531560/header.jpg?t=1728054244",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531560/ss_5cb0b2f48831c23a1217e2a9cf8aa94d244bbaa9.600x338.jpg?t=1728054244",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531560/ss_282cce5f17dbe73d1bb6a606c7e7e132eff7bfa4.600x338.jpg?t=1728054244",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531560/ss_e28e956fa485d81243d81adc419c3eaa64f80be8.600x338.jpg?t=1728054244",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531560/ss_28546f2eda5492a495724bb3258a5ac6cdb3eb69.600x338.jpg?t=1728054244",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531560/ss_3bd286bc8babddbc9dd83b10065b8281860d86cd.600x338.jpg?t=1728054244",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531560/ss_24ede19d25f71f293e66abb728faaf3ac4867bee.600x338.jpg?t=1728054244",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531560/ss_c19e422df232672db9814785ead1cb587addeb47.600x338.jpg?t=1728054244",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531560/ss_c6b8b79c7bb68d897f6a080c78e970e56a5ffa37.600x338.jpg?t=1728054244"
-  ],
-  "detailed_description": "Project Arcade Early Access release!<br><br>Currently, it has a Memory Cards game, but the plan is to add more in the future.<h2 class=\"bb_tag\" >Memory Cards</h2><br>It's a simple card matching memory game that we all know:<br><br><ul class=\"bb_ul\"><li> Minimalistic design<br></li><li> Very responsive<br></li><li> Pairs and triples modes<br></li><li> Automatic save system<br></li><li> Progressively challenging levels</li></ul>",
-  "about_the_game": "Project Arcade Early Access release!<br><br>Currently, it has a Memory Cards game, but the plan is to add more in the future.<h2 class=\"bb_tag\" >Memory Cards</h2><br>It's a simple card matching memory game that we all know:<br><br><ul class=\"bb_ul\"><li> Minimalistic design<br></li><li> Very responsive<br></li><li> Pairs and triples modes<br></li><li> Automatic save system<br></li><li> Progressively challenging levels</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

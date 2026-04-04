@@ -3,8 +3,8 @@
   "name": "ALVAROK",
   "slug": "alvarok",
   "developer": "StudioGIW",
-  "publisher": "Zoo Corporation",
-  "release_date": "Nov 1, 2017",
+  "publisher": "",
+  "release_date": "2017-11-01",
   "price_usd": 2.99,
   "genres": [
     "Simulation",
@@ -17,39 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Japanese Indie developer StudioGIW is back with ALVAROK, a fun and easy-to-play Tactical Defense game. Play locally with friends or hone your skills against the computer with its built-in deep learning AI system. Adapt and strategize, utilize your various troops to defend and attack simultaneously.",
+  "short_description": "Japanese Indie developer StudioGIW is back with ALVAROK, a fun and easy-to-play Tactical Defense game. Play locally with friends or hone your skills against the computer with its built-in deep learnin",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729270/header.jpg?t=1625638452",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729270/ss_b59b808cf66928107344e695fbfb994fb0db6783.600x338.jpg?t=1625638452",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729270/ss_70304de67e00494463478becd412eae1e4ce249f.600x338.jpg?t=1625638452",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729270/ss_67e7238293d76f29f54febc3b572054d41551c2b.600x338.jpg?t=1625638452",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729270/ss_37ab73bebe1eb94adc7c58b5b124d4efc4baff8d.600x338.jpg?t=1625638452",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729270/ss_3372c5a54781ffed3039468008857a56bb0bc162.600x338.jpg?t=1625638452"
-  ],
-  "detailed_description": "Japanese Indie developer StudioGIW is back with ALVAROK, a fun and easy-to-play Tactical Defense game. Adapt and strategize, utilize your various troops to defend and attack simultaneously.<br />\r\n<br />\r\nSet yourself up on the left or right of the screen then send troops to attack the opponent. Troops build automatically in your base and you deploy them when you're ready. Destroy the opponent's base by reducing their gauge to zero.<br />\r\n<br />\r\nPlay locally with friends or hone your skills against the computer and its built-in deep learning AI system. For the greatest challenge take on the evolving AI in Super Hard Mode.<br />\r\n<br />\r\nOnline leaderboards track your battles against AI opponents. Compete for the global high score and bask in your hard earned glory.<br />\r\n<br />\r\nALVAROK is available for Windows and is fully supported in both English and Japanese.<br />\r\n<br />\r\nFor those familiar with StudioGIW, this game is built using the same engine as \"Dungeon Manager ZV: Resurrection\"",
-  "about_the_game": "Japanese Indie developer StudioGIW is back with ALVAROK, a fun and easy-to-play Tactical Defense game. Adapt and strategize, utilize your various troops to defend and attack simultaneously.<br />\r\n<br />\r\nSet yourself up on the left or right of the screen then send troops to attack the opponent. Troops build automatically in your base and you deploy them when you're ready. Destroy the opponent's base by reducing their gauge to zero.<br />\r\n<br />\r\nPlay locally with friends or hone your skills against the computer and its built-in deep learning AI system. For the greatest challenge take on the evolving AI in Super Hard Mode.<br />\r\n<br />\r\nOnline leaderboards track your battles against AI opponents. Compete for the global high score and bask in your hard earned glory.<br />\r\n<br />\r\nALVAROK is available for Windows and is fully supported in both English and Japanese.<br />\r\n<br />\r\nFor those familiar with StudioGIW, this game is built using the same engine as \"Dungeon Manager ZV: Resurrection\"",
-  "supported_languages": "English, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Full controller support",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 35000,
   "ccu_estimate": 0,
@@ -57,26 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

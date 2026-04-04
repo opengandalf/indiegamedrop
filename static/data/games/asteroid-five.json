@@ -3,8 +3,8 @@
   "name": "Asteroid Five",
   "slug": "asteroid-five",
   "developer": "Deep Dive Project",
-  "publisher": "Deep Dive Project",
-  "release_date": "Jan 14, 2022",
+  "publisher": "",
+  "release_date": "2022-01-14",
   "price_usd": 0.89,
   "genres": [
     "Adventure",
@@ -19,36 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "A first person space exploration game where you investigate the inner caves of an asteroid passing by your planet. Dive into the deeps of the asteroid aboard your ship, collecting information and samples of many beautiful minerals and lifeforms while searching for more complex and intelligent beings",
+  "short_description": "A first person space exploration game where you investigate the inner caves of an asteroid passing by your planet. Dive into the deeps of the asteroid aboard your ship, collecting information and samp",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677080/header.jpg?t=1688773194",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677080/ss_9f64033f159e7080626a4965dbb31f235a524b61.600x338.jpg?t=1688773194",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677080/ss_efa648964c7f435397e0af4c1cfb09d3309a609b.600x338.jpg?t=1688773194",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677080/ss_486f5408a172cc8009d6b5c4ee20a40448ab37ff.600x338.jpg?t=1688773194",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677080/ss_876bc220fe8e457c1e6fe159bccaec5244603402.600x338.jpg?t=1688773194",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677080/ss_59f3181f355ec183b093b9940f92907a83deec07.600x338.jpg?t=1688773194",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677080/ss_2880ab27d358a973329c7c297da9a3e64414bb20.600x338.jpg?t=1688773194",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677080/ss_086d8e6c2397625925bb4f2b94cf8310e9a1f10a.600x338.jpg?t=1688773194"
-  ],
-  "detailed_description": "A first person space exploration game where you investigate the inner caves of an asteroid passing by your planet. Aboard your ship, dive into the deeps of the asteroid, collecting information and samples of the many beautiful minerals and lifeforms who call this place home. Perhaps, somewhere you can even discover remains of an ancient intelligent species long forgotten.",
-  "about_the_game": "A first person space exploration game where you investigate the inner caves of an asteroid passing by your planet. Aboard your ship, dive into the deeps of the asteroid, collecting information and samples of the many beautiful minerals and lifeforms who call this place home. Perhaps, somewhere you can even discover remains of an ancient intelligent species long forgotten.",
-  "supported_languages": "English, Portuguese - Brazil",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.7000000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 14,
-  "review_positive": 11,
+  "review_positive": 0,
   "review_percentage": 78.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 13,
-      "review_percentage": 84.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 14,
       "review_percentage": 78.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

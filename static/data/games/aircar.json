@@ -3,8 +3,8 @@
   "name": "Aircar",
   "slug": "aircar",
   "developer": "Giant Form Entertainment, LLC",
-  "publisher": "Giant Form Entertainment, LLC",
-  "release_date": "Aug 9, 2019",
+  "publisher": "",
+  "release_date": "2019-08-09",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -21,34 +21,15 @@
   ],
   "short_description": "A simple immersive flying game built for VR. Pilot an aircar through a futuristic cityscape.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1073390/header.jpg?t=1574392904",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1073390/ss_3ff8fcb13d038ca2c64b346c98d86a1e72e1ffad.600x338.jpg?t=1574392904",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1073390/ss_8e315ed6efb449833815339dc3ba06ce7a288577.600x338.jpg?t=1574392904",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1073390/ss_a13eff155c759130fd7461d175dca13a6ca5098f.600x338.jpg?t=1574392904",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1073390/ss_18df6c3b4d205ef6eb7bab77f5030c9ae79d3e88.600x338.jpg?t=1574392904",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1073390/ss_83f22ccfb39829a41a083041f97af15dc9c86045.600x338.jpg?t=1574392904"
-  ],
-  "detailed_description": "A simple immersive flying game built for VR. Pilot an aircar through a futuristic cityscape.",
-  "about_the_game": "A simple immersive flying game built for VR. Pilot an aircar through a futuristic cityscape.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0001,
+  "screenshots": [],
+  "rising_score": 0.0004,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 99.0,
+  "review_velocity_7d": 121.95,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2439,
-  "review_positive": 2310,
+  "review_positive": 0,
   "review_percentage": 94.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2340,
-      "review_percentage": 94.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 2439,
       "review_percentage": 94.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Fururu Project : Ruby",
   "slug": "fururu-project-ruby",
   "developer": "Meowshmallow Studio",
-  "publisher": "Meowshmallow Studio",
-  "release_date": "Feb 18, 2019",
+  "publisher": "",
+  "release_date": "2019-02-18",
   "price_usd": 4.99,
   "genres": [
     "Adventure",
@@ -21,55 +21,29 @@
     "mac",
     "linux"
   ],
-  "short_description": "《 Fururu Project : Ruby 》 is an adventure game (AVG). The game focuses on interactions with objects in scenes and exploring through the map. Players are able to trigger various events in game and affect how the story goes.",
+  "short_description": "《 Fururu Project : Ruby 》 is an adventure game (AVG). The game focuses on interactions with objects in scenes and exploring through the map. Players are able to trigger various events in game and affe",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968420/header.jpg?t=1572946333",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968420/ss_850ae1c703db1e01975e3eaedfd432655a052857.600x338.jpg?t=1572946333",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968420/ss_5922d8516c1ce4244f48057d775116041cdf41f4.600x338.jpg?t=1572946333",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968420/ss_6a962d0644ee3f2ad4344cfb8e6e2f1ab66a9317.600x338.jpg?t=1572946333",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968420/ss_33b2c91e388c120077e6b094ba9fed43259b068f.600x338.jpg?t=1572946333",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968420/ss_d265e99fb9a8076b61302e7e3c09af68d4ae3ffa.600x338.jpg?t=1572946333"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >About<h2 class=\"bb_tag\" >AVG/ADV<br>PC(Windows, Linux, macOS)<br>Traditioal Chinese only<br><br>⋄Fanpage⋄<br>⋄Website⋄<h2 class=\"bb_tag\" >Feature</h2>The game focuses on interactions with objects in scenes and exploring through the map. Players are able to trigger various events in game and affect how the story goes.<h2 class=\"bb_tag\" >Stroy</h2>One day, a furry little creature,  Fururu, accidentally fall into the world of a story book.<br><br>This unexpected event inevitably causes Fururu's depression. Fortunately, after encountering Red and Aka from the 'Forest Home',  Fururu finally finds a shelter to rest with their kind invitation.<br><br>As the time goes by, Fururu starts to notice that there is something unusual behind the daily life. What will Fururu do to overcome the incoming challenges?</h2></h2>",
-  "about_the_game": "<h2 class=\"bb_tag\" >About<h2 class=\"bb_tag\" >AVG/ADV<br>PC(Windows, Linux, macOS)<br>Traditioal Chinese only<br><br>⋄Fanpage⋄<br>⋄Website⋄<h2 class=\"bb_tag\" >Feature</h2>The game focuses on interactions with objects in scenes and exploring through the map. Players are able to trigger various events in game and affect how the story goes.<h2 class=\"bb_tag\" >Stroy</h2>One day, a furry little creature,  Fururu, accidentally fall into the world of a story book.<br><br>This unexpected event inevitably causes Fururu's depression. Fortunately, after encountering Red and Aka from the 'Forest Home',  Fururu finally finds a shelter to rest with their kind invitation.<br><br>As the time goes by, Fururu starts to notice that there is something unusual behind the daily life. What will Fururu do to overcome the incoming challenges?</h2></h2>",
-  "supported_languages": "Traditional Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.6919,
   "hype_score": 0.0,
   "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 122,
-  "review_positive": 117,
+  "review_positive": 0,
   "review_percentage": 95.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "rising",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 123,
-      "review_percentage": 95.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 122,
       "review_percentage": 95.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

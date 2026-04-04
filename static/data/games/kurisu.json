@@ -3,8 +3,8 @@
   "name": "Kurisu",
   "slug": "kurisu",
   "developer": "AimesSoft",
-  "publisher": "AimesSoft",
-  "release_date": "Jul 17, 2024",
+  "publisher": "",
+  "release_date": "2024-07-17",
   "price_usd": 3.99,
   "genres": [
     "Audio Production",
@@ -25,31 +25,11 @@
     "mac",
     "linux"
   ],
-  "short_description": "A super simple audio, video, and image processing and transcoding software. So simple that you just need to type out your requirements!! \"Ahhh, help me convert this hilarious iconic video clip into a GIF!!\" With this software, such an operation can now be completed with a single swipe!!",
+  "short_description": "A super simple audio, video, and image processing and transcoding software. So simple that you just need to type out your requirements!! \"Ahhh, help me convert this hilarious iconic video clip in",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3034460/header.jpg?t=1732438879",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3034460/ss_e5b905db2ce318c888e3d1f933a1d9389c61d746.600x338.jpg?t=1732438879",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3034460/ss_82097c154c635fbba3909f1da81fb5c90cfa4010.600x338.jpg?t=1732438879",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3034460/ss_b24c9f2d269e70370754e956933218fc8e6bdc63.600x338.jpg?t=1732438879",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3034460/ss_4fb8b73bf10571c6c312b8e71b5f069768951b3d.600x338.jpg?t=1732438879",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3034460/ss_5acd5a331978f031f2418a0792ad46e38c98f8d1.600x338.jpg?t=1732438879"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" ><strong> What is Kurisu?</strong></h2><br>Kurisu is a tool that allows for audio and video editing, image editing, and transcoding through text chat. It’s so straightforward that by the time you've finished processing a video, your colleague might still be waiting for their video software to launch, load the video, edit, and export it. For most simple operations, such as rotating, changing resolution, resizing, converting file formats, clipping a segment, converting to GIF, or playing at different speeds, Kurisu is much faster than existing audio and video editing software on the market. Additionally, it supports batch processing, allowing you to select multiple files at once. It also supports adding subtitles or special effects to videos.<h2 class=\"bb_tag\" ><strong>Does it have so many features that it's complicated to use?</strong></h2><br>Not at all. Just select the files on the left side, and then directly type what you want to do in the dialog box at the top right. Additionally, the right side provides pre-loaded dialogues, allowing you to easily use existing conversations to complete operations. You can also add your own dialogues to the presets. The promotional images, software icons, and promotional videos for this software were all edited and processed using Kurisu.<h2 class=\"bb_tag\" ><strong>How does the software achieve this?</strong></h2><br>First of all, it integrates OpenAI’s ChatGPT service internally, but for this software, it is provided free for users to use. Yes, you don't need to provide your own API key; the program has its own relay server built-in, so you can use it right out of the box. The audio and video editing and image processing functions come from the famous FFmpeg. This means that anything FFmpeg can do, this software can do. However, it also means that it can only do what FFmpeg can do. Therefore, it cannot visualize the video preview like professional video editing software; the preview work may need to be done with another player to lock the required timeline. However, compared to professional video editing software, this software can batch process for simple clipping or packaging operations.This project also follows the FFmpeg protocol and uses the GPLv3 open source license. It can be found under MCDFsteve/Kurisu on GitHub.<br><br>Although it integrates ChatGPT, users cannot directly interact with AI as it is set not to output actual content but only returns commands based on user needs for the system to execute. Theoretically, it cannot be used to create harmful content.<h2 class=\"bb_tag\" ><strong>What to Do If You Get an Error at Startup</strong></h2>A very strange issue occurs where some antivirus software flags the main program file as suspicious (or as a virus) and then quarantines or deletes it. In such cases, manually adding it to the whitelist can resolve the problem.<h2 class=\"bb_tag\" ><strong>A Note for macOS Users with M Series Processors</strong></h2><br>Steam will default to running this program in x64 through translation. It works fine but starts up slowly. It is recommended to right-click in the library - Manage - Browse Local Files, and launch the program in Finder, which will work natively in ARM mode.",
-  "about_the_game": "<h2 class=\"bb_tag\" ><strong> What is Kurisu?</strong></h2><br>Kurisu is a tool that allows for audio and video editing, image editing, and transcoding through text chat. It’s so straightforward that by the time you've finished processing a video, your colleague might still be waiting for their video software to launch, load the video, edit, and export it. For most simple operations, such as rotating, changing resolution, resizing, converting file formats, clipping a segment, converting to GIF, or playing at different speeds, Kurisu is much faster than existing audio and video editing software on the market. Additionally, it supports batch processing, allowing you to select multiple files at once. It also supports adding subtitles or special effects to videos.<h2 class=\"bb_tag\" ><strong>Does it have so many features that it's complicated to use?</strong></h2><br>Not at all. Just select the files on the left side, and then directly type what you want to do in the dialog box at the top right. Additionally, the right side provides pre-loaded dialogues, allowing you to easily use existing conversations to complete operations. You can also add your own dialogues to the presets. The promotional images, software icons, and promotional videos for this software were all edited and processed using Kurisu.<h2 class=\"bb_tag\" ><strong>How does the software achieve this?</strong></h2><br>First of all, it integrates OpenAI’s ChatGPT service internally, but for this software, it is provided free for users to use. Yes, you don't need to provide your own API key; the program has its own relay server built-in, so you can use it right out of the box. The audio and video editing and image processing functions come from the famous FFmpeg. This means that anything FFmpeg can do, this software can do. However, it also means that it can only do what FFmpeg can do. Therefore, it cannot visualize the video preview like professional video editing software; the preview work may need to be done with another player to lock the required timeline. However, compared to professional video editing software, this software can batch process for simple clipping or packaging operations.This project also follows the FFmpeg protocol and uses the GPLv3 open source license. It can be found under MCDFsteve/Kurisu on GitHub.<br><br>Although it integrates ChatGPT, users cannot directly interact with AI as it is set not to output actual content but only returns commands based on user needs for the system to execute. Theoretically, it cannot be used to create harmful content.<h2 class=\"bb_tag\" ><strong>What to Do If You Get an Error at Startup</strong></h2>A very strange issue occurs where some antivirus software flags the main program file as suspicious (or as a virus) and then quarantines or deletes it. In such cases, manually adding it to the whitelist can resolve the problem.<h2 class=\"bb_tag\" ><strong>A Note for macOS Users with M Series Processors</strong></h2><br>Steam will default to running this program in x64 through translation. It works fine but starts up slowly. It is recommended to right-click in the library - Manage - Browse Local Files, and launch the program in Finder, which will work natively in ARM mode.",
-  "supported_languages": "Simplified Chinese, English, Japanese, Russian, Traditional Chinese, Korean",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 35,
-  "review_positive": 33,
+  "review_positive": 0,
   "review_percentage": 94.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 30,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 35,
       "review_percentage": 94.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

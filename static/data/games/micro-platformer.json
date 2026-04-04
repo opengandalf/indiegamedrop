@@ -3,8 +3,8 @@
   "name": "Micro Platformer",
   "slug": "micro-platformer",
   "developer": "Daveyyy",
-  "publisher": "Daveyyy",
-  "release_date": "Apr 21, 2020",
+  "publisher": "",
+  "release_date": "2020-04-21",
   "price_usd": 0.0,
   "genres": [
     "Free To Play",
@@ -21,36 +21,15 @@
   ],
   "short_description": "A minimalistic platformer with a 1x1 tileset. No enemies, no bullets, no lasers. Just sheer platforming.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283130/header.jpg?t=1612269413",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283130/ss_01846c4a4899cad457b904fb9bf0514f2ac95e70.600x338.jpg?t=1612269413",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283130/ss_cf982162a7fa04f0cf72ef97216b465c445876c4.600x338.jpg?t=1612269413",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283130/ss_8148edec746f92a426206ac56d4b5439c7cefbe2.600x338.jpg?t=1612269413",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283130/ss_f14031ea013b746378f252c950a30fc386ab16d1.600x338.jpg?t=1612269413",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283130/ss_a1be6d3275cbda96362b4ca0ac3d5f29314e1f7f.600x338.jpg?t=1612269413",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283130/ss_e426128ef8e989d22f86a746e4047794ec49d1ee.600x338.jpg?t=1612269413",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283130/ss_142386a10e21c04eb43662c81e33844b05241879.600x338.jpg?t=1612269413",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283130/ss_9e068ea70ae9b003899c160dd37aeb2df4092676.600x338.jpg?t=1612269413",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283130/ss_a3c27f01e0ebc11c120fa9ce11aea73e624ef903.600x338.jpg?t=1612269413"
-  ],
-  "detailed_description": "<i>A minimalistic platformer with a 1x1 tileset. No enemies, no bullets, no lasers. Just sheer platforming.</i><br><br>Micro Platformer is a seriously minimalistic 2D platformer. A 1x1 tileset and a small square is not just a part of the artwork, it's a way to tell you exactly what the hitboxes are. Why? Well, there are quite a few difficulity levels. Some of them are not easy. At all. I wanted this game to be the simplest platformer I could possibly make, without making it empty, or easy. Did I do a good job? Well, one way to find out! c: Oh yeah, the classic feature listing. Here:<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Different difficulty levels - play whatever fits your skill and patience best!<br></li><li>Best time measurement - how fast can you beat a level?<br></li><li>Respawn count - inb4 500 respawns on hard<br></li><li>Fps limiter - wowzies, that surely is a rare thing these days! (bruh)<br></li><li>Controller support - couch gaming! bed gaming!</li></ul><br>Have fun! :D",
-  "about_the_game": "<i>A minimalistic platformer with a 1x1 tileset. No enemies, no bullets, no lasers. Just sheer platforming.</i><br><br>Micro Platformer is a seriously minimalistic 2D platformer. A 1x1 tileset and a small square is not just a part of the artwork, it's a way to tell you exactly what the hitboxes are. Why? Well, there are quite a few difficulity levels. Some of them are not easy. At all. I wanted this game to be the simplest platformer I could possibly make, without making it empty, or easy. Did I do a good job? Well, one way to find out! c: Oh yeah, the classic feature listing. Here:<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Different difficulty levels - play whatever fits your skill and patience best!<br></li><li>Best time measurement - how fast can you beat a level?<br></li><li>Respawn count - inb4 500 respawns on hard<br></li><li>Fps limiter - wowzies, that surely is a rare thing these days! (bruh)<br></li><li>Controller support - couch gaming! bed gaming!</li></ul><br>Have fun! :D",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 41.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 1755,
-  "review_positive": 1699,
+  "review_positive": 0,
   "review_percentage": 96.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1714,
-      "review_percentage": 96.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1755,
       "review_percentage": 96.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

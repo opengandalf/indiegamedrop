@@ -3,8 +3,8 @@
   "name": "Dynomite Deluxe",
   "slug": "dynomite-deluxe",
   "developer": "PopCap Games, Inc.",
-  "publisher": "PopCap Games, Inc.",
-  "release_date": "Aug 30, 2006",
+  "publisher": "",
+  "release_date": "2006-08-30",
   "price_usd": 0.99,
   "genres": [
     "Casual"
@@ -15,52 +15,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "It's prehistoric egg-blasting fun! Use your slingshot to match three or more dino eggs of the same color... and watch them explode! Can you blast all the eggs before Mama Brontosaurus tramples your game?",
+  "short_description": "It's prehistoric egg-blasting fun! Use your slingshot to match three or more dino eggs of the same color... and watch them explode! Can you blast all the eggs before Mama Brontosaurus tramples your ga",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3380/header.jpg?t=1737677397",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3380/0000000556.600x338.jpg?t=1737677397",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3380/0000000557.600x338.jpg?t=1737677397",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3380/0000000558.600x338.jpg?t=1737677397"
-  ],
-  "detailed_description": "It's prehistoric egg-blasting fun! Use your slingshot to match three or more dino eggs of the same color... and watch them explode! Can you blast all the eggs before Mama Brontosaurus tramples your game?",
-  "about_the_game": "It's prehistoric egg-blasting fun! Use your slingshot to match three or more dino eggs of the same color... and watch them explode! Can you blast all the eggs before Mama Brontosaurus tramples your game?",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 368,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 20.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 401,
-  "review_positive": 385,
+  "review_positive": 0,
   "review_percentage": 96.0,
   "owner_estimate": 150000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 82,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 351,
-      "review_percentage": 95.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 401,
       "review_percentage": 96.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

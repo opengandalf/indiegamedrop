@@ -3,8 +3,8 @@
   "name": "MV Mazes",
   "slug": "mv-mazes",
   "developer": "MV Games",
-  "publisher": "MV Games",
-  "release_date": "Jun 18, 2020",
+  "publisher": "",
+  "release_date": "2020-06-18",
   "price_usd": 0.99,
   "genres": [
     "Indie"
@@ -17,32 +17,9 @@
   ],
   "short_description": "MV Mazes - A 2D game, where you need to find a way out of the mazes.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1339370/header.jpg?t=1597602212",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1339370/ss_44aa50b776428edf038c0ad7a9f07ef4197b885c.600x338.jpg?t=1597602212",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1339370/ss_5724c0eb0dc2685e4b7ca3305706a1b971e60a04.600x338.jpg?t=1597602212",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1339370/ss_1b0c34a28bd3b5536c135cec969ff69781914fc7.600x338.jpg?t=1597602212",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1339370/ss_8a8581c503fcb31043190435baa4daca7e692a37.600x338.jpg?t=1597602212",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1339370/ss_e317cd5e893d92d2122669cf829a6db088949d80.600x338.jpg?t=1597602212"
-  ],
-  "detailed_description": "<strong>MV Mazes</strong> - A 2D game, where you need to find a way out of the mazes.<br><br>Go through one maze to open the next one. Each new maze is more complex than the previous one.<h2 class=\"bb_tag\" >Features:</h2><br><ul class=\"bb_ul\"><li>Simple controls<br></li><li>Pleasant music<br></li><li>Different locations<br></li><li>10+ levels<br></li><li>Pixel graphics</li></ul>",
-  "about_the_game": "<strong>MV Mazes</strong> - A 2D game, where you need to find a way out of the mazes.<br><br>Go through one maze to open the next one. Each new maze is more complex than the previous one.<h2 class=\"bb_tag\" >Features:</h2><br><ul class=\"bb_ul\"><li>Simple controls<br></li><li>Pleasant music<br></li><li>Different locations<br></li><li>10+ levels<br></li><li>Pixel graphics</li></ul>",
-  "supported_languages": "Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

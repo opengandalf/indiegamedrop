@@ -3,8 +3,8 @@
   "name": "Channel Player",
   "slug": "channel-player",
   "developer": "Applet LLC",
-  "publisher": "Applet LLC",
-  "release_date": "Oct 8, 2019",
+  "publisher": "",
+  "release_date": "2019-10-08",
   "price_usd": 4.99,
   "genres": [
     "Utilities"
@@ -15,33 +15,15 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Play multiple VR movie titles saved on your PC or WebDAV server as if they were a single movie file. and You can also browse still images and comic books (zip, cbz). A keyboard or XBox game controller, Oculus Touch is available.",
+  "short_description": "Play multiple VR movie titles saved on your PC or WebDAV server as if they were a single movie file. and You can also browse still images and comic books (zip, cbz). A keyboard or XBox game controller",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156810/header.jpg?t=1667043865",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156810/ss_9adfa1a4d15644c98311cb3cae74e329d9179c94.600x338.jpg?t=1667043865",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156810/ss_d6a8345d21328920b5952f11291942ba31483a90.600x338.jpg?t=1667043865",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156810/ss_c4b316de1e414fd9863298da03f675ddb40eb212.600x338.jpg?t=1667043865",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156810/ss_045d77e4507411896aea726092738a66a104c4af.600x338.jpg?t=1667043865",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156810/ss_aa6f5d5bde2dda89f62545d1281c1ce2e7803556.600x338.jpg?t=1667043865"
-  ],
-  "detailed_description": "Multiple VR movie files saved in each folder on your PC can be played back in folders like a single VR work. You can also display still image (jpg, png) or comic book (zip, cbz) files. Supports Oculus Touch, keyboard and Xbox game controller. When operating for Rift, it is recommended to use Open Composite. The evaluation version and Quest2 version are available on our website.<br />\r\n<br />\r\nVideo supports VR360, VR180, 2D and Side by Side (LR), Top & Bottom (Over Under), and Mono video formats. Add support for FishEye 180 Side by Side. The extension of supported movie file names is mp4. It supports jpg and png for still images and zip and cbz for comic books.<br />\r\n<br />\r\nIf there is a still image file in the folder in addition to the video, it will be treated as a video playback folder, but the first file found will be used as a thumbnail of that folder and displayed on the screen of the SciFI theater room. For folders and comic books that have only still images, the still image display mode is set when playback starts. The playback order of videos and still images is the order of file names displayed in Explorer.<br />\r\n<br />\r\nIt is equipped with a favorite registration function, unplayed title display, history function, and search function. You can also move the viewpoint and change the orientation while the video is playing. There is a ceiling display mode, and you can operate and view it while lying on your back. Since it does not use a laser pointer method, there is no need to raise your arm while lying on your back.<br />\r\n<br />\r\nIn playback mode, you can change the aspect and format of your video by double-clicking the D-Pad Up / Down button on your Xbox game controller or from the radial menu. You can also specify the video format in advance in the properties dialog.<br />\r\n<br />\r\nA single click of the D-Pad Up / Down button will display the video title and help screen.<br />\r\n<br />\r\nIn the setting dialog, if you set the playback start with a trigger, or if you enable the camera movement only during the pause in the movement of the left and right sticks, you can also change the setting to normally be a trick play operation. Also, if you enable swapping of AB and XY and set the movement only during the pause at the same time, the operation with Oculus Touch will be easier.",
-  "about_the_game": "Multiple VR movie files saved in each folder on your PC can be played back in folders like a single VR work. You can also display still image (jpg, png) or comic book (zip, cbz) files. Supports Oculus Touch, keyboard and Xbox game controller. When operating for Rift, it is recommended to use Open Composite. The evaluation version and Quest2 version are available on our website.<br />\r\n<br />\r\nVideo supports VR360, VR180, 2D and Side by Side (LR), Top & Bottom (Over Under), and Mono video formats. Add support for FishEye 180 Side by Side. The extension of supported movie file names is mp4. It supports jpg and png for still images and zip and cbz for comic books.<br />\r\n<br />\r\nIf there is a still image file in the folder in addition to the video, it will be treated as a video playback folder, but the first file found will be used as a thumbnail of that folder and displayed on the screen of the SciFI theater room. For folders and comic books that have only still images, the still image display mode is set when playback starts. The playback order of videos and still images is the order of file names displayed in Explorer.<br />\r\n<br />\r\nIt is equipped with a favorite registration function, unplayed title display, history function, and search function. You can also move the viewpoint and change the orientation while the video is playing. There is a ceiling display mode, and you can operate and view it while lying on your back. Since it does not use a laser pointer method, there is no need to raise your arm while lying on your back.<br />\r\n<br />\r\nIn playback mode, you can change the aspect and format of your video by double-clicking the D-Pad Up / Down button on your Xbox game controller or from the radial menu. You can also specify the video format in advance in the properties dialog.<br />\r\n<br />\r\nA single click of the D-Pad Up / Down button will display the video title and help screen.<br />\r\n<br />\r\nIn the setting dialog, if you set the playback start with a trigger, or if you enable the camera movement only during the pause in the movement of the left and right sticks, you can also change the setting to normally be a trick play operation. Also, if you enable swapping of AB and XY and set the movement only during the pause at the same time, the operation with Oculus Touch will be easier.",
-  "supported_languages": "English, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Full controller support",
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -51,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

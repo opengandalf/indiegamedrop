@@ -3,8 +3,8 @@
   "name": "Crazy Dungeon",
   "slug": "crazy-dungeon",
   "developer": "Crear Videojuegos",
-  "publisher": "Crear Videojuegos",
-  "release_date": "Dec 11, 2024",
+  "publisher": "",
+  "release_date": "2024-12-11",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -23,34 +23,15 @@
   ],
   "short_description": "Crazy Dungeon is a third-person action roguelike. Choose your character and level, survive as long as you can, and level up your skills after each round! Try to improve your stats with every run!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3323300/header.jpg?t=1761581548",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3323300/ss_58ac7f89e0b06114e93fcb1814e10b445097d36e.600x338.jpg?t=1761581548",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3323300/ss_4340d4ef89b844605a194fae94a11a4ed3aa16fd.600x338.jpg?t=1761581548",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3323300/ss_e55f463a638379775536c60031ec30759df2db52.600x338.jpg?t=1761581548",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3323300/ss_c4a3a18abe8127070a4654fc08424ab526ce2041.600x338.jpg?t=1761581548",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3323300/ss_53a3fded0333ba25dccf2b5e19adf9fa25bc7395.600x338.jpg?t=1761581548",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3323300/ss_ba0413b9e82b50a2718418d307213a66ae526cb9.600x338.jpg?t=1761581548",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3323300/ss_b4718da3794e43ac422082c3050ea18e0da97454.600x338.jpg?t=1761581548"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>Crazy Dungeon is a third person action roguelike. Choose your character and level, survive as long as you can and level up your skills after each round. Try to improve your stats in each game to get as far as possible.</strong></p><p class=\"bb_paragraph\" ><strong>In Crazy Dungeon you can choose between two characters, a knight or a crossbowwoman and play on three maps based on rounds where at the end of each round the difficulty will increase. How far will you get?</strong></p><p class=\"bb_paragraph\" ><strong>You will also have an extra level full of dangers to complete.</strong></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>Crazy Dungeon is a third person action roguelike. Choose your character and level, survive as long as you can and level up your skills after each round. Try to improve your stats in each game to get as far as possible.</strong></p><p class=\"bb_paragraph\" ><strong>In Crazy Dungeon you can choose between two characters, a knight or a crossbowwoman and play on three maps based on rounds where at the end of each round the difficulty will increase. How far will you get?</strong></p><p class=\"bb_paragraph\" ><strong>You will also have an extra level full of dangers to complete.</strong></p>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 7,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

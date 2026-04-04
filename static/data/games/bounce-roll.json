@@ -3,8 +3,8 @@
   "name": "Bounce & Roll",
   "slug": "bounce-roll",
   "developer": "Alchicorp",
-  "publisher": "Alchicorp",
-  "release_date": "Jul 28, 2023",
+  "publisher": "",
+  "release_date": "2023-07-28",
   "price_usd": 1.99,
   "genres": [
     "Action",
@@ -21,41 +21,15 @@
   ],
   "short_description": "Control through the wooden blocks, testing your skills and abilities in a 3D environment, either solo or with a friend.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510160/header.jpg?t=1705113220",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510160/ss_0e84679f52a5e0aba21cb53583c754ea0f581f07.600x338.jpg?t=1705113220",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510160/ss_88250729cdb1c40769dfcdea09c8043e33762607.600x338.jpg?t=1705113220",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510160/ss_22eedb5d85c2dadc1320b3953f749313044fc132.600x338.jpg?t=1705113220",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510160/ss_ffdc4a7a48d3354c18bda50a46e82f82c4296117.600x338.jpg?t=1705113220",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510160/ss_566b3d26f9cc894f6bdc3aba5858a7dca56f2a21.600x338.jpg?t=1705113220",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510160/ss_658d69da3e464f65c81c653a2a1662a442444321.600x338.jpg?t=1705113220",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510160/ss_56677b348f43d3aba507cd18943dcd907fefbd27.600x338.jpg?t=1705113220",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510160/ss_60fd3514d592dcac4f10763de6254331db25d142.600x338.jpg?t=1705113220"
-  ],
-  "detailed_description": "Control and guide the ball through a series of obstacles, testing your skills and abilities in a 3D environment, either solo or with a friend.<br>You can?<br><br>-You can play with keyboard and mouse or with an Xbox controller<br>-To play local multiplayer <strong><i>an Xbox controller is required</i></strong>",
-  "about_the_game": "Control and guide the ball through a series of obstacles, testing your skills and abilities in a 3D environment, either solo or with a friend.<br>You can?<br><br>-You can play with keyboard and mouse or with an Xbox controller<br>-To play local multiplayer <strong><i>an Xbox controller is required</i></strong>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Partial Controller Support",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 4,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -63,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "DangerZone VR",
   "slug": "dangerzone-vr",
   "developer": "orespawndz",
-  "publisher": "orespawndz",
-  "release_date": "Sep 4, 2021",
+  "publisher": "",
+  "release_date": "2021-09-04",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -19,50 +19,15 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Block-based RPG built with love and dedication. Way more fun that it should be to just roam around discovering all sorts of new things in all sorts of new dimensions. Survival or Creative, it's up to you. And then there is nighttime.... because this is DangerZone... in VR.",
+  "short_description": "Block-based RPG built with love and dedication. Way more fun that it should be to just roam around discovering all sorts of new things in all sorts of new dimensions. Survival or Creative, it's up to ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/header.jpg?t=1635776307",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_e9392c771c1abd4ce5e2fec7504a0ddfe5a78ba1.600x338.jpg?t=1635776307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_15ffff7eddc06a30de5b6de6a22f0aafad028716.600x338.jpg?t=1635776307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_6497fbd8e7d6180f8d7912dd8e82f180e29b642b.600x338.jpg?t=1635776307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_a130c046e7c498b8a767bac3437b6a54ad8e48f6.600x338.jpg?t=1635776307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_72ee41f27a4d5ed37e2061e75e4b1a6bfef0cd46.600x338.jpg?t=1635776307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_30bf4114606e64ad90746ba3425dc0e608577fdb.600x338.jpg?t=1635776307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_17d42a20911a3cdaa7afb7f2c90d666a59f16b00.600x338.jpg?t=1635776307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_1d78177ab2a992c852a2c1198fc4c29b1cf125e0.600x338.jpg?t=1635776307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_880b3b5150bda0af78a81eaed4e388f98fd64093.600x338.jpg?t=1635776307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_5d3cd90f518c40e8770986e36c4c8fbb4f9d92ef.600x338.jpg?t=1635776307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_f5577a902729fdfeeca2e81d8b045fa2bd271347.600x338.jpg?t=1635776307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_a8879e5d862e710f5f3a8462b524bdb1215c3a0f.600x338.jpg?t=1635776307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_162b8f02ab90309c7e804165deb9f5d072607faa.600x338.jpg?t=1635776307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_2e82d68f9834d7c42d200832e5083116d016afcb.600x338.jpg?t=1635776307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_b9d7e9f52f24c45ac84071b41e459729dc03689e.600x338.jpg?t=1635776307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_c8088b5f17b7530a90d4c68ae8b0a485288adaf2.600x338.jpg?t=1635776307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_78ba2e6e7a576b5ec7fd3a561a87478907fc6b95.600x338.jpg?t=1635776307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_1526664bb19634b41783fd1305d691213dceb6c5.600x338.jpg?t=1635776307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_9bf84c05dea5d70bc2fc62f8938d3d4a5a6e6235.600x338.jpg?t=1635776307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_2189b86c790b939f1d826b8de87c776b28cda494.600x338.jpg?t=1635776307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_ae079ded994ccde04812606ccc20736f662c420f.600x338.jpg?t=1635776307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622330/ss_e57efb1dee89dbfcfb172bfd1f75d215ab18f726.600x338.jpg?t=1635776307"
-  ],
-  "detailed_description": "DangerZone-VR (DZVR) takes block-based RPG to well beyond the next level. It is a modding platform built specifically to house the OreSpawn mod, but open to everyone who wishes to code and create. The interface is rude and crude and still needs a lot of TLC, but the game-play makes it just way too fun to put down. With <strong>over a dozen dimensions</strong> to explore, and <strong>hundreds of creatures and items</strong>, this game contains enough content to keep you busy exploring for weeks on end. Make no mistake, this is not just a small one-hour-playtime-then-done game.<strong> It is massive!</strong><br><br>Beta version. Single-player at the moment with multiplayer intended eventually. Also runs in 3D mode with the quick click of a button! Insanely easy to mod for with a modding kit to be released later. Really though, forget the modding and just be amazed at how much fun this is to play. Be prepared. You won't be able to stop once you've gotten started! <br><br>Imagine OreSpawn. In it's own game. In VR. And it has doubled in size. With real nighttime. It gets dark, and it gets dangerous. Hope you brought torches!<br><br>PLEASE FIND THE DEMO VERSION AND TRY IT FIRST!<br>AS WITH ANYTHING VR, YOU WON'T KNOW IF IT WORKS UNTIL YOU TRY IT.<br>THAT'S WHY THE DEMO VERSION EXISTS.",
-  "about_the_game": "DangerZone-VR (DZVR) takes block-based RPG to well beyond the next level. It is a modding platform built specifically to house the OreSpawn mod, but open to everyone who wishes to code and create. The interface is rude and crude and still needs a lot of TLC, but the game-play makes it just way too fun to put down. With <strong>over a dozen dimensions</strong> to explore, and <strong>hundreds of creatures and items</strong>, this game contains enough content to keep you busy exploring for weeks on end. Make no mistake, this is not just a small one-hour-playtime-then-done game.<strong> It is massive!</strong><br><br>Beta version. Single-player at the moment with multiplayer intended eventually. Also runs in 3D mode with the quick click of a button! Insanely easy to mod for with a modding kit to be released later. Really though, forget the modding and just be amazed at how much fun this is to play. Be prepared. You won't be able to stop once you've gotten started! <br><br>Imagine OreSpawn. In it's own game. In VR. And it has doubled in size. With real nighttime. It gets dark, and it gets dangerous. Hope you brought torches!<br><br>PLEASE FIND THE DEMO VERSION AND TRY IT FIRST!<br>AS WITH ANYTHING VR, YOU WON'T KNOW IF IT WORKS UNTIL YOU TRY IT.<br>THAT'S WHY THE DEMO VERSION EXISTS.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -72,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

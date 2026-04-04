@@ -3,8 +3,8 @@
   "name": "Doug The Digger",
   "slug": "doug-the-digger",
   "developer": "Rapid Iterations",
-  "publisher": "Rapid Iterations",
-  "release_date": "Apr 23, 2025",
+  "publisher": "",
+  "release_date": "2025-04-23",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -23,32 +23,15 @@
   ],
   "short_description": "Doug The Digger is a casual, single-player mining and crafting game where you aim to escape a crash landing by crafting a rocket. The gameplay is simple but addictive—play at your own risk!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037950/header.jpg?t=1749068037",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037950/ss_b8f7039822ff24648f98e339a2aa8bd9ddfdde8a.600x338.jpg?t=1749068037",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037950/69a79649cc5165fc396234536e15959bedd7905a/ss_69a79649cc5165fc396234536e15959bedd7905a.600x338.jpg?t=1749068037",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037950/ss_8a395ceb0c8871fc30850255c9c9c1f1ee239a03.600x338.jpg?t=1749068037",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037950/ss_392651cb14e2f052b0b43f21eb253fda9f7f0921.600x338.jpg?t=1749068037",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037950/ss_937f3a5ec45fd2c16389147642d9f5c45449b4a6.600x338.jpg?t=1749068037"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037950/extras/0637a385ecf3824f866fe98f175290eb.poster.avif?t=1749068037\" width=718 height=404 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037950/extras/0637a385ecf3824f866fe98f175290eb.webm?t=1749068037\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037950/extras/0637a385ecf3824f866fe98f175290eb.mp4?t=1749068037\" type=\"video/mp4\"></video></span><br>Doug must dig down to find resources. The resources can be sold for upgrades and used for crafting. Running out of oxygen or fuel is always a possibility.",
-  "about_the_game": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037950/extras/0637a385ecf3824f866fe98f175290eb.poster.avif?t=1749068037\" width=718 height=404 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037950/extras/0637a385ecf3824f866fe98f175290eb.webm?t=1749068037\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037950/extras/0637a385ecf3824f866fe98f175290eb.mp4?t=1749068037\" type=\"video/mp4\"></video></span><br>Doug must dig down to find resources. The resources can be sold for upgrades and used for crafting. Running out of oxygen or fuel is always a possibility.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Workshop"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 6.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 7,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 42.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 42.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

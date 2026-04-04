@@ -3,8 +3,8 @@
   "name": "RABIT",
   "slug": "rabit",
   "developer": "William Bolls",
-  "publisher": "William Bolls",
-  "release_date": "Apr 17, 2025",
+  "publisher": "",
+  "release_date": "2025-04-17",
   "price_usd": 4.99,
   "genres": [
     "Action"
@@ -17,38 +17,11 @@
     "mac",
     "linux"
   ],
-  "short_description": "RABIT is an arcade style platforming game with retro graphics and a mysterious atmosphere. Its central mechanic is the ability to toggle certain objects on and off at the click of a button. This along with several other movement abilities allows for some devious and exciting platforming sections.",
+  "short_description": "RABIT is an arcade style platforming game with retro graphics and a mysterious atmosphere. Its central mechanic is the ability to toggle certain objects on and off at the click of a button. This along",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536600/b457c550bc445060dc5e15b1074b5bea86029e02/header.jpg?t=1758637755",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536600/5496c5aecad13aec35580e37cdb917b4c2252897/ss_5496c5aecad13aec35580e37cdb917b4c2252897.600x338.jpg?t=1758637755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536600/affee59c83ca3bafd4d067f3acd1d6141406023f/ss_affee59c83ca3bafd4d067f3acd1d6141406023f.600x338.jpg?t=1758637755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536600/7052b2e5803f3fdfb66252791d062a1d6dde0ff1/ss_7052b2e5803f3fdfb66252791d062a1d6dde0ff1.600x338.jpg?t=1758637755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536600/870ce3c2918fa7ea1d8d0d94c19eeb8312df9580/ss_870ce3c2918fa7ea1d8d0d94c19eeb8312df9580.600x338.jpg?t=1758637755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536600/84520bcd4a4d03e6f3818e3c8bb0759c479fecae/ss_84520bcd4a4d03e6f3818e3c8bb0759c479fecae.600x338.jpg?t=1758637755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3536600/f22467b602d1f81a9a82cdcd65fcf72e216a6600/ss_f22467b602d1f81a9a82cdcd65fcf72e216a6600.600x338.jpg?t=1758637755"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >RABIT is a simple but challenging 2D platformer with multiple movement abilities and the power to toggle certain blocks on and off on a whim. Toggle, dash, wall-jump and stomp your way to the top of a mysterious virtual world - and maybe even uncover some of its forgotten history along the way!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Save your high scores on a classic arcade-style top 10 screen, entering your initials as you would on an classic arcade cabinet. Then check out your friend's high scores on the steam leaderboard.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >RABIT is a simple but challenging 2D platformer with multiple movement abilities and the power to toggle certain blocks on and off on a whim. Toggle, dash, wall-jump and stomp your way to the top of a mysterious virtual world - and maybe even uncover some of its forgotten history along the way!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Save your high scores on a classic arcade-style top 10 screen, entering your initials as you would on an classic arcade cabinet. Then check out your friend's high scores on the steam leaderboard.</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 8,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

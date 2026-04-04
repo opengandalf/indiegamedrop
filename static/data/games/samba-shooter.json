@@ -3,8 +3,8 @@
   "name": "Samba Shooter",
   "slug": "samba-shooter",
   "developer": "Snowdrop Lab",
-  "publisher": "Snowdrop Lab",
-  "release_date": "Apr 18, 2018",
+  "publisher": "",
+  "release_date": "2018-04-18",
   "price_usd": 1.99,
   "genres": [
     "Action",
@@ -19,34 +19,9 @@
   ],
   "short_description": "Minimal game. Arcade style twin stick shooter. Minimal price.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/811850/header.jpg?t=1540530431",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/811850/ss_7175ef16772d777c3cb78520da1f63a40acaf767.600x338.jpg?t=1540530431",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/811850/ss_9673df0efefc2173094a42e83648f839e5e6aa72.600x338.jpg?t=1540530431",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/811850/ss_d96d4770076d8ca89dabb202ffba7e958d3b6e23.600x338.jpg?t=1540530431",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/811850/ss_04b2c5bcf3dfb6ac46b5149189fa872d00904829.600x338.jpg?t=1540530431",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/811850/ss_4e9b49eb51bf8359109caefd658322451f8f465f.600x338.jpg?t=1540530431",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/811850/ss_170943e4ec0f9401a784f9657bd54c8bb058bd64.600x338.jpg?t=1540530431"
-  ],
-  "detailed_description": "Samba Shooter is an arcade style twin stick shooter.<br />\r\nYou will manipulate the cleaning robot \"Samba\" to defeat the enemies approaching.<br />\r\nA strange enemy will await you.",
-  "about_the_game": "Samba Shooter is an arcade style twin stick shooter.<br />\r\nYou will manipulate the cleaning robot \"Samba\" to defeat the enemies approaching.<br />\r\nA strange enemy will await you.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

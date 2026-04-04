@@ -3,8 +3,8 @@
   "name": "Domino Fit",
   "slug": "domino-fit",
   "developer": "Joseph Caero",
-  "publisher": "Joseph Caero",
-  "release_date": "May 6, 2024",
+  "publisher": "",
+  "release_date": "2024-05-06",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -18,34 +18,17 @@
     "windows",
     "linux"
   ],
-  "short_description": "Can you Domino Fit? The best parts of sudoku, mixed with those little tiling puzzles you'd play at the dentist, Domino Fit is a rewarding logic puzzle about getting all the dominos to fit! Supports 6x6, 7x7, and 8x8 boards.",
+  "short_description": "Can you Domino Fit? The best parts of sudoku, mixed with those little tiling puzzles you'd play at the dentist, Domino Fit is a rewarding logic puzzle about getting all the dominos to fit! Supports 6x",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2894560/header.jpg?t=1715021070",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2894560/ss_b4b55cdb9fd94aa699c8375530a60cdd5cc6641d.600x338.jpg?t=1715021070",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2894560/ss_fb2f6e26779dae9b7aaed43112a098e012623d3d.600x338.jpg?t=1715021070",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2894560/ss_92281000ac7d5a386e5b841eb2aaad0541625928.600x338.jpg?t=1715021070",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2894560/ss_a38d4437c4be0ab9e9e8cf2ac22ad1001a27d68e.600x338.jpg?t=1715021070",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2894560/ss_1860aae20d7438a26eecfeed643c02e593a634b4.600x338.jpg?t=1715021070"
-  ],
-  "detailed_description": "Can you Domino Fit? The best parts of sudoku, mixed with those little tiling puzzles you'd play at the dentist, Domino Fit is a rewarding logic puzzle about getting all the dominos to fit!<br />\r\n<br />\r\nSupports infinite mode 6x6, 7x7, and 8x8 boards.",
-  "about_the_game": "Can you Domino Fit? The best parts of sudoku, mixed with those little tiling puzzles you'd play at the dentist, Domino Fit is a rewarding logic puzzle about getting all the dominos to fit!<br />\r\n<br />\r\nSupports infinite mode 6x6, 7x7, and 8x8 boards.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.8500000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 17,
-  "review_positive": 17,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +36,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 14,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 17,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

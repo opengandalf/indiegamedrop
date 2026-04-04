@@ -3,8 +3,8 @@
   "name": "BlockGame",
   "slug": "blockgame",
   "developer": "Tyler Pomplon",
-  "publisher": "Tyler Pomplon",
-  "release_date": "Sep 12, 2017",
+  "publisher": "",
+  "release_date": "2017-09-12",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -17,44 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "BlockGame is a puzzle/platformer hybrid where you control a character stuck in a realm of falling blocks. You must pick up and throw blocks to match them, gain points, and survive for as long as you can.",
+  "short_description": "BlockGame is a puzzle/platformer hybrid where you control a character stuck in a realm of falling blocks. You must pick up and throw blocks to match them, gain points, and survive for as long as you c",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/688110/header.jpg?t=1651417929",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/688110/ss_b32d69a3a6c86f77af7c5e077a348d24e41ffa22.600x338.jpg?t=1651417929",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/688110/ss_26002a1b7e13c21e933abe4024410be588766a1c.600x338.jpg?t=1651417929",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/688110/ss_d5ddf593502f3b213d1b0ce5929046690822fc12.600x338.jpg?t=1651417929",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/688110/ss_48aaef3119794f4858271baf3e63120f6d3bfe4c.600x338.jpg?t=1651417929",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/688110/ss_4724ca09a7af42012b2e2f49b6ee2744329e97ee.600x338.jpg?t=1651417929"
-  ],
-  "detailed_description": "BlockGame is a twist on the classic tile matching genre where you control a character stuck in a realm where blocks roam free. Combining platforming and classic puzzle mechanics, players must pick up and throw falling blocks to match them, gaining points and clearing up space to survive for as long as possible. A variety of special blocks make an appearance to spice up the gameplay, including bomb blocks, squirrels and goats, and pinatas. <br><br>In addition to the single player mode, there are two local multiplayer modes: <br><ul class=\"bb_ul\"><li>Competitive: Compete against a friend to see who can get the most points in this splitscreen mode.<br></li><li>Cooperative: Work together with a friend in the same arena and try not to accidentally squish each other.</li></ul><h2 class=\"bb_tag\" >Other Features:</h2><ul class=\"bb_ul\"><li>A lot of blocks.<br></li><li>Unlockable characters, costumes, and level themes.<br></li><li>A blockpedia to learn about the different characters and objects you'll encounter.</li></ul>",
-  "about_the_game": "BlockGame is a twist on the classic tile matching genre where you control a character stuck in a realm where blocks roam free. Combining platforming and classic puzzle mechanics, players must pick up and throw falling blocks to match them, gaining points and clearing up space to survive for as long as possible. A variety of special blocks make an appearance to spice up the gameplay, including bomb blocks, squirrels and goats, and pinatas. <br><br>In addition to the single player mode, there are two local multiplayer modes: <br><ul class=\"bb_ul\"><li>Competitive: Compete against a friend to see who can get the most points in this splitscreen mode.<br></li><li>Cooperative: Work together with a friend in the same arena and try not to accidentally squish each other.</li></ul><h2 class=\"bb_tag\" >Other Features:</h2><ul class=\"bb_ul\"><li>A lot of blocks.<br></li><li>Unlockable characters, costumes, and level themes.<br></li><li>A blockpedia to learn about the different characters and objects you'll encounter.</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Leaderboards",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.7000000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 14,
-  "review_positive": 12,
+  "review_positive": 0,
   "review_percentage": 85.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 13,
-      "review_percentage": 92.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 14,
       "review_percentage": 85.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

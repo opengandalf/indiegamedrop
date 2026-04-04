@@ -3,8 +3,8 @@
   "name": "Crazy Ball",
   "slug": "crazy-ball",
   "developer": "RGB SRL",
-  "publisher": "RGB SRL",
-  "release_date": "May 13, 2019",
+  "publisher": "",
+  "release_date": "2019-05-13",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -19,39 +19,15 @@
   ],
   "short_description": "Control a ball as it rolls and gathers speed.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1058630/header.jpg?t=1593019424",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1058630/ss_695a100a9d0bd9c12734740866426e88c8f6627c.600x338.jpg?t=1593019424",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1058630/ss_af7c847626f3b812c4c94c1752804e32322c9066.600x338.jpg?t=1593019424",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1058630/ss_fcf9ce41bb5b5aa93cbf892f68538b459f4f4eb4.600x338.jpg?t=1593019424",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1058630/ss_a4815afc0023c422d528187d8490ba7257c01c0b.600x338.jpg?t=1593019424",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1058630/ss_ab14767ca4791981def1a3974d14879232116a6b.600x338.jpg?t=1593019424",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1058630/ss_730f77921bf47d9c0e0c1f17b0f5443e5373da84.600x338.jpg?t=1593019424",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1058630/ss_f6736116a84b7465ae618d65cfb91e1e0c80c41f.600x338.jpg?t=1593019424",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1058630/ss_2234801b87bc49e625573099941121f917721893.600x338.jpg?t=1593019424",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1058630/ss_270cfbde0b2d34dddbff53ddd7452e4c34891714.600x338.jpg?t=1593019424",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1058630/ss_2bb7420b73367fd8ca704cbfeb26d5390b9d37b2.600x338.jpg?t=1593019424"
-  ],
-  "detailed_description": "Crazy Ball is an awesome skill game with straightforward mechanics. You must control a ball as it rolls and gathers speed.<br />\r\n<br />\r\nFeatures:<br />\r\n• Fun gameplay<br />\r\n• Multiple levels<br />\r\n• Ball skins",
-  "about_the_game": "Crazy Ball is an awesome skill game with straightforward mechanics. You must control a ball as it rolls and gathers speed.<br />\r\n<br />\r\nFeatures:<br />\r\n• Fun gameplay<br />\r\n• Multiple levels<br />\r\n• Ball skins",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.65,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 13,
-  "review_positive": 11,
+  "review_positive": 0,
   "review_percentage": 84.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 12,
-      "review_percentage": 83.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 13,
       "review_percentage": 84.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

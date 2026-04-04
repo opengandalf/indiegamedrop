@@ -3,8 +3,8 @@
   "name": "Ink Plane",
   "slug": "ink-plane",
   "developer": "Artur Petrov",
-  "publisher": "Artur Petrov",
-  "release_date": "Sep 16, 2018",
+  "publisher": "",
+  "release_date": "2018-09-16",
   "price_usd": 0.75,
   "genres": [
     "Casual",
@@ -19,33 +19,9 @@
   ],
   "short_description": "Short arcade game drawn and coded by Artur Petrov. You have to fight the pirates in the air, sea and land.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/922150/header.jpg?t=1537167391",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/922150/ss_a3d1bb8464c7eca0c1b67ffe72ac7d724a2e9083.600x338.jpg?t=1537167391",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/922150/ss_cc847d6fb591c3c4ca87222ec7271da68dadff29.600x338.jpg?t=1537167391",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/922150/ss_86312a4153ab9eb402c0cbdd1701882680345388.600x338.jpg?t=1537167391",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/922150/ss_5f181e2c318e333e3e1621839c5b5b763a11960e.600x338.jpg?t=1537167391",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/922150/ss_4951f2a01418c7a24cbce8fc10fee1d3c68da722.600x338.jpg?t=1537167391",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/922150/ss_7391fb289d115388388d10c4571f61e7c46d61a6.600x338.jpg?t=1537167391"
-  ],
-  "detailed_description": "Short arcade game drawn and coded by Artur Petrov.<br />\r\nYou have to fight the pirates in the air, sea and land.<br />\r\n<br />\r\nPlay time between 10 – 15 minutes.",
-  "about_the_game": "Short arcade game drawn and coded by Artur Petrov.<br />\r\nYou have to fight the pirates in the air, sea and land.<br />\r\n<br />\r\nPlay time between 10 – 15 minutes.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 55,
-  "review_positive": 44,
+  "review_positive": 0,
   "review_percentage": 80.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 56,
-      "review_percentage": 80.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 55,
       "review_percentage": 80.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

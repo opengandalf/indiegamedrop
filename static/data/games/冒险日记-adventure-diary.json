@@ -3,8 +3,8 @@
   "name": "冒险日记  Adventure Diary",
   "slug": "冒险日记-adventure-diary",
   "developer": "罗小熊工作室",
-  "publisher": "罗小熊工作室",
-  "release_date": "Jun 29, 2023",
+  "publisher": "",
+  "release_date": "2023-06-29",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -25,33 +25,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "minimalist turn based battle game with a world view of West Fantasy Sword and Magic. The game features simple textual expression but contains a lot of hidden content and information. There are eight major professions to choose from, including 16 basic job transfers and dozens of hidden job transfers",
+  "short_description": "minimalist turn based battle game with a world view of West Fantasy Sword and Magic. The game features simple textual expression but contains a lot of hidden content and information. There are eight m",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2180210/header.jpg?t=1753288094",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2180210/ss_99b2ebc602e80e05853ff7f8b05f445dd2d3ce2e.600x338.jpg?t=1753288094",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2180210/ss_3b1b6e9798c419e000fd11ae399ea15b62744401.600x338.jpg?t=1753288094",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2180210/ss_fd60e19a679eed541d7b129f8a92d7ccb90d1e22.600x338.jpg?t=1753288094",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2180210/ss_c6c2d4616077cddb6765c95293982a8bbd81bede.600x338.jpg?t=1753288094",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2180210/ss_9f44f8fb2d231731d1cf42b7f3ff02ac963228a9.600x338.jpg?t=1753288094"
-  ],
-  "detailed_description": "A minimalist turn based battle game with a world view of West Fantasy Sword and Magic. The game features simple textual expression but contains a lot of hidden content and information. The eight major professions choose 16 basic and dozens of hidden profession transfers, with a dazzling equipment system and synthesis direction of nearly a thousand different equipment to enrich the game content, You can choose to taste the surface content of the game or delve deeper into the game's hidden professions and hidden equipment to synthesize the game",
-  "about_the_game": "A minimalist turn based battle game with a world view of West Fantasy Sword and Magic. The game features simple textual expression but contains a lot of hidden content and information. The eight major professions choose 16 basic and dozens of hidden profession transfers, with a dazzling equipment system and synthesis direction of nearly a thousand different equipment to enrich the game content, You can choose to taste the surface content of the game or delve deeper into the game's hidden professions and hidden equipment to synthesize the game",
-  "supported_languages": "Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0004,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 5.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 39,
-  "review_positive": 30,
+  "review_positive": 0,
   "review_percentage": 76.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +43,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 34,
-      "review_percentage": 79.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 39,
       "review_percentage": 76.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

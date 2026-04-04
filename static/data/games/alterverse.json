@@ -3,8 +3,8 @@
   "name": "AlterVerse",
   "slug": "alterverse",
   "developer": "AlterVerse Inc.",
-  "publisher": "AlterVerse Inc.",
-  "release_date": "Dec 23, 2020",
+  "publisher": "",
+  "release_date": "2020-12-23",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -23,42 +23,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Sky City, the free-to-play central hub of the AlterVerse, is now in Closed Beta. A new version of Disruption, rebranded as OutPost, and built on Unreal Engine 5 is in the works! Visit alterverse.com for details and early access!",
+  "short_description": "Sky City, the free-to-play central hub of the AlterVerse, is now in Closed Beta. A new version of Disruption, rebranded as OutPost, and built on Unreal Engine 5 is in the works! Visit alterverse.com f",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389800/header.jpg?t=1709565670",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389800/ss_c9987b169ad0512026f5ee7e3eac232752570843.600x338.jpg?t=1709565670",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389800/ss_762f7fd0574bc86c8a812be579a5437b2e4045be.600x338.jpg?t=1709565670",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389800/ss_1ced35eaf54e9fc794e16991ad85576c1d0cb484.600x338.jpg?t=1709565670",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389800/ss_2729405d2d262a86c0c1051da2294bda9fe0b8b1.600x338.jpg?t=1709565670",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389800/ss_74aac9ac719baaf371de9ea3c808fe3c6b4990bb.600x338.jpg?t=1709565670",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389800/ss_d8f92140cfa0b23514beabbe9e2d4c6501b67d20.600x338.jpg?t=1709565670",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389800/ss_63278c9b2361b3661956e96fb8d0deec8a579061.600x338.jpg?t=1709565670",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/389800/ss_81ac2a50cc1e2ef92c7f62aa0f605878d7babdc0.600x338.jpg?t=1709565670"
-  ],
-  "detailed_description": "We will be sunsetting AlterVerse: Disruption shortly. We have been building a new version called OutPost on the Unreal Engine for the past several months. Please visit our website at https://alterverse.com for details and sneak peeks! We will make the new version available on Steam once it's complete and approved by Valve!",
-  "about_the_game": "We will be sunsetting AlterVerse: Disruption shortly. We have been building a new version called OutPost on the Unreal Engine for the past several months. Please visit our website at https://alterverse.com for details and sneak peeks! We will make the new version available on Steam once it's complete and approved by Valve!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Co-op",
-    "Online Co-op",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.8500000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 17,
-  "review_positive": 11,
+  "review_positive": 0,
   "review_percentage": 64.7,
   "owner_estimate": 75000,
   "ccu_estimate": 0,
@@ -66,26 +41,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 17,
-      "review_percentage": 64.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 17,
-      "review_percentage": 64.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
+      "date": "2026-04-04",
       "review_count": 17,
       "review_percentage": 64.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

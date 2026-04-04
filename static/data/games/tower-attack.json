@@ -3,8 +3,8 @@
   "name": "Tower Attack",
   "slug": "tower-attack",
   "developer": "ATD",
-  "publisher": "ATD",
-  "release_date": "Oct 16, 2021",
+  "publisher": "",
+  "release_date": "2021-10-16",
   "price_usd": 1.99,
   "genres": [
     "Action",
@@ -22,32 +22,9 @@
   ],
   "short_description": "A reverse Tower Defense game where you spawn towers that aid you in defeating enemies that stop you from going further on a procedurally-generated map.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1565800/header.jpg?t=1634430060",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1565800/ss_38b219faec6217d68417ad181926532397269b34.600x338.jpg?t=1634430060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1565800/ss_f28c15e920dbc5f06fad5b8bab10e94dac0c1958.600x338.jpg?t=1634430060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1565800/ss_58eadc778ddf71e455be8aeb3f3223d9e3297be3.600x338.jpg?t=1634430060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1565800/ss_2d64ad9dab1ebe1f3aa36d8361b30d4e53271596.600x338.jpg?t=1634430060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1565800/ss_4f01cd720a764206ae8cb9b82af7411ef761afba.600x338.jpg?t=1634430060"
-  ],
-  "detailed_description": "In traditional Tower Defense games, you're always on the defense, waiting for waves of enemies to come to you. In Tower Attack, you are the one bringing it to them. You go as far as you could in a procedurally-generated map, and kill as many enemies as you could with the help of towers.",
-  "about_the_game": "In traditional Tower Defense games, you're always on the defense, waiting for waves of enemies to come to you. In Tower Attack, you are the one bringing it to them. You go as far as you could in a procedurally-generated map, and kill as many enemies as you could with the help of towers.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +32,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

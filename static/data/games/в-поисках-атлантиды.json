@@ -3,8 +3,8 @@
   "name": "В поисках Атлантиды",
   "slug": "в-поисках-атлантиды",
   "developer": "Dmitr Che",
-  "publisher": "Dmitr Che",
-  "release_date": "Nov 1, 2018",
+  "publisher": "",
+  "release_date": "2018-11-01",
   "price_usd": 109.99,
   "genres": [
     "Adventure",
@@ -23,34 +23,9 @@
   ],
   "short_description": "Atlantis",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/925640/header.jpg?t=1541139305",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/925640/ss_66884759a33f251546541012296e3e11e22bbbf5.600x338.jpg?t=1541139305",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/925640/ss_ed35a4d3c9594c29300d63bab02ce79ec01cd24e.600x338.jpg?t=1541139305",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/925640/ss_c6e2564a7ca504c22a01ec1f2772f1e1e8fe9315.600x338.jpg?t=1541139305",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/925640/ss_4c8f4494be3f4c3f1c8bc32ea2bd41e46d27a52f.600x338.jpg?t=1541139305",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/925640/ss_393e625997caa5e1ee009cf2dc4ff48bb8536443.600x338.jpg?t=1541139305",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/925640/ss_b2dd79c7746e3c1c19168e65bb854f43381bd6a7.600x338.jpg?t=1541139305"
-  ],
-  "detailed_description": "Интересная игра",
-  "about_the_game": "Интересная игра",
-  "supported_languages": "Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 4,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

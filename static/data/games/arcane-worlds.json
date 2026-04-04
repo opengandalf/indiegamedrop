@@ -3,8 +3,8 @@
   "name": "Arcane Worlds",
   "slug": "arcane-worlds",
   "developer": "Ranmantaru Games",
-  "publisher": "Ranmantaru Games",
-  "release_date": "Jan 28, 2014",
+  "publisher": "",
+  "release_date": "2014-01-28",
   "price_usd": 9.99,
   "genres": [
     "Action",
@@ -23,62 +23,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "A game inspired by classic Magic Carpet, with modern graphics and features. You play as a sorcerer, exploring mysterious worlds, changing them, discovering ancient secrets, creating new spells, fighting creatures and other mages, building and destroying as you please.",
+  "short_description": "A game inspired by classic Magic Carpet, with modern graphics and features. You play as a sorcerer, exploring mysterious worlds, changing them, discovering ancient secrets, creating new spells, fighti",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269610/header.jpg?t=1572547643",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269610/ss_4a5a722badf046997fa73ec15765c9dd815008ec.600x338.jpg?t=1572547643",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269610/ss_5fd4ed4bd33e9b00cd18ffc4bcbd6cf7cc01af89.600x338.jpg?t=1572547643",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269610/ss_e395e6f0af0a07136c3e311ad51b4ae3823a4a74.600x338.jpg?t=1572547643",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269610/ss_8e743199bb49c5bda1789d557e8629f6b582c204.600x338.jpg?t=1572547643",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269610/ss_00c34668b8dfe76a8171ac863c3e8605dacc2162.600x338.jpg?t=1572547643",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269610/ss_95270afe339b418529464726e9502b971b3a18ce.600x338.jpg?t=1572547643"
-  ],
-  "detailed_description": "A game inspired by classic Magic Carpet, with modern graphics and features. You play as a sorcerer, exploring mysterious worlds, changing them, discovering ancient secrets, creating new spells, fighting creatures and other mages, building and destroying as you please.",
-  "about_the_game": "A game inspired by classic Magic Carpet, with modern graphics and features. You play as a sorcerer, exploring mysterious worlds, changing them, discovering ancient secrets, creating new spells, fighting creatures and other mages, building and destroying as you please.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 11.850000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 237,
-  "review_positive": 107,
+  "review_positive": 0,
   "review_percentage": 45.1,
   "owner_estimate": 35000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 46,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 235,
-      "review_percentage": 45.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 237,
-      "review_percentage": 45.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 237,
       "review_percentage": 45.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

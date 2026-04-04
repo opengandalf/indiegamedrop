@@ -3,8 +3,8 @@
   "name": "Chiptune DJ",
   "slug": "chiptune-dj",
   "developer": "Por si las moscas",
-  "publisher": "Por si las moscas",
-  "release_date": "Aug 17, 2018",
+  "publisher": "",
+  "release_date": "2018-08-17",
   "price_usd": 1.99,
   "genres": [
     "Indie"
@@ -15,34 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Chiptune DJ is a rythm based game where you play along catchy 8-bit chiptune music to improve your rythmic and coordination skills. Build up your combos and beat your previous scores as you get better and better.",
+  "short_description": "Chiptune DJ is a rythm based game where you play along catchy 8-bit chiptune music to improve your rythmic and coordination skills. Build up your combos and beat your previous scores as you get better",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/899020/header.jpg?t=1545668975",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/899020/ss_793976ef8518b09ef8fb2ad8a47c2e2a73c2d21d.600x338.jpg?t=1545668975",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/899020/ss_99c7daeca0df29798a9e2ea622987266234e4141.600x338.jpg?t=1545668975",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/899020/ss_f5b0e11e95a38ad954d76ae8ffd6cf8d8f9ca8d8.600x338.jpg?t=1545668975",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/899020/ss_e3075ef93ea582aa083aa17d4dbe197f70ac92af.600x338.jpg?t=1545668975",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/899020/ss_40c9db049aebb087f7d9a9a5d8fc8c772eb66653.600x338.jpg?t=1545668975"
-  ],
-  "detailed_description": "Be a DJ in this chiptune based Rhythm game. Play with mouse and keyboard and improve your coordination skills while listening retro chiptune music with beatifull pixel art backgrounds that move on beats.<br />\r\n<br />\r\n- More than 12 chiptune songs to play<br />\r\n- Various difficulties for each skill level<br />\r\n- Pixel art backgrounds for each song<br />\r\n- Track your progress with highscores<br />\r\n- Try to get Perfect performance by not missing any notes<br />\r\n- Mouse+keyboard gameplay<br />\r\n- Easy mode avaible if you find it too difficult<br />\r\n- Might continue adding more songs in the future",
-  "about_the_game": "Be a DJ in this chiptune based Rhythm game. Play with mouse and keyboard and improve your coordination skills while listening retro chiptune music with beatifull pixel art backgrounds that move on beats.<br />\r\n<br />\r\n- More than 12 chiptune songs to play<br />\r\n- Various difficulties for each skill level<br />\r\n- Pixel art backgrounds for each song<br />\r\n- Track your progress with highscores<br />\r\n- Try to get Perfect performance by not missing any notes<br />\r\n- Mouse+keyboard gameplay<br />\r\n- Easy mode avaible if you find it too difficult<br />\r\n- Might continue adding more songs in the future",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 5,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 80.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 80.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 80.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

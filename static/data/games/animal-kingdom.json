@@ -3,8 +3,8 @@
   "name": "Animal Kingdom",
   "slug": "animal-kingdom",
   "developer": "Seven Sails Games",
-  "publisher": "Seven Sails Games",
-  "release_date": "Feb 15, 2023",
+  "publisher": "",
+  "release_date": "2023-02-15",
   "price_usd": 6.99,
   "genres": [
     "Casual"
@@ -15,32 +15,15 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Welcome to Animal Kingdom, a hidden animal game where you collect pawprints, cameras and coins while searching animals in fantastic locations! With 3 game modes and trivias between the chapters, Animal Kingdom will provide hours of fun for Hidden Object fans in surreal settings!",
+  "short_description": "Welcome to Animal Kingdom, a hidden animal game where you collect pawprints, cameras and coins while searching animals in fantastic locations! With 3 game modes and trivias between the chapters, Anima",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2267100/header.jpg?t=1683227631",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2267100/ss_7e51424a1dd08f1177b1da1f5e568229fc31760b.600x338.jpg?t=1683227631",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2267100/ss_f30b6b09b570dbd0f7ea102b434016e09ba1b0e1.600x338.jpg?t=1683227631",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2267100/ss_a6b798816dcdeefd6e3329b0cf33c9f723771ace.600x338.jpg?t=1683227631",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2267100/ss_060caafaf5b8cef92ab99d684ca4e95a18605083.600x338.jpg?t=1683227631",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2267100/ss_5d6a40409e551c64f118a0408b51101b6817e0bf.600x338.jpg?t=1683227631"
-  ],
-  "detailed_description": "Welcome to Animal Kingdom, a hidden animal game where you collect pawprints, cameras and coins while searching animals in fantastic locations! With 3 game modes and trivias between levels, Animal Kingdom will provide hours of fun for Hidden Object fans in colorful jungles and even underwater. Animal Kingdom is waiting for you in this unique hidden object game!",
-  "about_the_game": "Welcome to Animal Kingdom, a hidden animal game where you collect pawprints, cameras and coins while searching animals in fantastic locations! With 3 game modes and trivias between levels, Animal Kingdom will provide hours of fun for Hidden Object fans in colorful jungles and even underwater. Animal Kingdom is waiting for you in this unique hidden object game!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

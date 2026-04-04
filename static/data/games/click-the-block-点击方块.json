@@ -3,8 +3,8 @@
   "name": "Click the block  点击方块",
   "slug": "click-the-block-点击方块",
   "developer": "Valois Kuai",
-  "publisher": "Valois Kuai",
-  "release_date": "Feb 24, 2025",
+  "publisher": "",
+  "release_date": "2025-02-24",
   "price_usd": 0.99,
   "genres": [
     "Casual"
@@ -17,32 +17,15 @@
   ],
   "short_description": "Inspired by 'Cookie Clicker' This is my first game, I hope everyone likes it",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3505780/header.jpg?t=1740405604",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3505780/ss_16fefe1c14736c576529c081b17481481059a3ee.600x338.jpg?t=1740405604",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3505780/ss_6c9f7e4016ef19c3d4bf224597ff0056935b631b.600x338.jpg?t=1740405604",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3505780/ss_3f4d8dda1a9f6a9c42a751280f8455d4b0391a0a.600x338.jpg?t=1740405604",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3505780/ss_c927a87897ba526e5e62df408d15214e2e371889.600x338.jpg?t=1740405604",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3505780/ss_b08c92c9ccd1bd9839c92bae98d80bb8f388b0c4.600x338.jpg?t=1740405604"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Inspired by <strong>'Cookie Clicker'</strong></p><p class=\"bb_paragraph\" >In this game, you can increase the number of blocks by continuously <strong>clicking</strong> to create more blocks.</p><p class=\"bb_paragraph\" >But what is all this for? The ending of the game will reveal the <strong>secret.</strong></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Inspired by <strong>'Cookie Clicker'</strong></p><p class=\"bb_paragraph\" >In this game, you can increase the number of blocks by continuously <strong>clicking</strong> to create more blocks.</p><p class=\"bb_paragraph\" >But what is all this for? The ending of the game will reveal the <strong>secret.</strong></p>",
-  "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 4,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

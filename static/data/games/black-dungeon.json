@@ -3,8 +3,8 @@
   "name": "Black Dungeon",
   "slug": "black-dungeon",
   "developer": "GameShock",
-  "publisher": "GameShock",
-  "release_date": "May 16, 2024",
+  "publisher": "",
+  "release_date": "2024-05-16",
   "price_usd": 0.99,
   "genres": [
     "Indie",
@@ -19,34 +19,15 @@
   ],
   "short_description": "魔物が潜むダンジョンの謎を解明すべく、最下層を目指すターン制ローグライクゲーム。敵撃破でスキルの選択を宝箱や武器、防具から選択し続け、「自分だけの戦闘スタイル」で「自分だけのスキル構築」でダンジョン攻略。",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2966260/header.jpg?t=1715996957",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2966260/ss_c2e769372e889ae5a671b2344b277c64cc4fcfa4.600x338.jpg?t=1715996957",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2966260/ss_4e9444d18970a553c307072c063d7dd69f589424.600x338.jpg?t=1715996957",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2966260/ss_cf544e59e4e91bd31d5fc1ecfdba7d78d26c59df.600x338.jpg?t=1715996957",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2966260/ss_e24c340e655b85af873f052ac8f72ba04a0c5cdd.600x338.jpg?t=1715996957",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2966260/ss_a8e4e954fb73d3fe13031754062d1f5211c0ca17.600x338.jpg?t=1715996957",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2966260/ss_e3b8e3c45216e54d1718d132f81668635304dce7.600x338.jpg?t=1715996957"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >◆世界観・ストーリー</h2><strong>ールドス<br>かつて繁栄していたこの街は魔物により衰退していた<br>狩人たちは原因究明のため<br>”生きて帰ることのないダンジョン”に蛮勇する。</strong><h2 class=\"bb_tag\" >◆ゲーム概要</h2>ソウルライクな世界観でダンジョンの最下層を目指すターン制ローグライクゲーム。<br>敵撃破でスキルの選択を宝箱や武器、防具から選択し続け、<strong>「自分だけの戦闘スタイル」</strong>で<strong>「自分だけのスキル構築」</strong>でダンジョン攻略ができます。",
-  "about_the_game": "<h2 class=\"bb_tag\" >◆世界観・ストーリー</h2><strong>ールドス<br>かつて繁栄していたこの街は魔物により衰退していた<br>狩人たちは原因究明のため<br>”生きて帰ることのないダンジョン”に蛮勇する。</strong><h2 class=\"bb_tag\" >◆ゲーム概要</h2>ソウルライクな世界観でダンジョンの最下層を目指すターン制ローグライクゲーム。<br>敵撃破でスキルの選択を宝箱や武器、防具から選択し続け、<strong>「自分だけの戦闘スタイル」</strong>で<strong>「自分だけのスキル構築」</strong>でダンジョン攻略ができます。",
-  "supported_languages": "Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

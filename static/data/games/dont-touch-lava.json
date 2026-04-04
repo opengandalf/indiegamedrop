@@ -3,8 +3,8 @@
   "name": "Don't Touch Lava",
   "slug": "dont-touch-lava",
   "developer": "Pixel Booty LLC",
-  "publisher": "Pixel Booty LLC",
-  "release_date": "Sep 1, 2022",
+  "publisher": "",
+  "release_date": "2022-09-01",
   "price_usd": 1.99,
   "genres": [
     "Action",
@@ -19,35 +19,17 @@
     "mac",
     "linux"
   ],
-  "short_description": "A 2D side-scrolling lavarunner platformer. Move through endless levels against backgrounds of castles, caves and cliffs. Collect coins for extra points and collect power-ups to keep you going longer as the further levels get faster! Don't Touch Lava!!",
+  "short_description": "A 2D side-scrolling lavarunner platformer. Move through endless levels against backgrounds of castles, caves and cliffs. Collect coins for extra points and collect power-ups to keep you going longer a",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2065260/header.jpg?t=1662590147",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2065260/ss_d8b3fa6888cdde3d8fd5d8bb50e1be8b1afad1d7.600x338.jpg?t=1662590147",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2065260/ss_ff09bc09c95d6d2ec608ed3889b759ddbe9a4d5e.600x338.jpg?t=1662590147",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2065260/ss_9308620d0f56dacff02607277044c81884fdd556.600x338.jpg?t=1662590147",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2065260/ss_507ec1059a9009a94d2d3eca8acc452325c100d1.600x338.jpg?t=1662590147",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2065260/ss_b2783ce01e9f5fa2ee44b17d37de61d7b200a25a.600x338.jpg?t=1662590147",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2065260/ss_77adf85e2672c98f038c848be7ddd5ebe8198f10.600x338.jpg?t=1662590147"
-  ],
-  "detailed_description": "Don't Touch Lava is a 2D platformer/runner against backgrounds of castle, caves and cliffs. Jump over pits and baddies, collect power-up charges to augment your jump ability, collect coins to boost your points, and see how high your score can go! Keep running as long as you can; don't touch enemies and don't touch lava!",
-  "about_the_game": "Don't Touch Lava is a 2D platformer/runner against backgrounds of castle, caves and cliffs. Jump over pits and baddies, collect power-up charges to augment your jump ability, collect coins to boost your points, and see how high your score can go! Keep running as long as you can; don't touch enemies and don't touch lava!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Coodesker",
   "slug": "coodesker",
   "developer": "Coodesker",
-  "publisher": "Coodesker",
-  "release_date": "Oct 13, 2023",
+  "publisher": "",
+  "release_date": "2023-10-13",
   "price_usd": 9.99,
   "genres": [
     "Utilities"
@@ -15,31 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Coodesker is a desktop organization tool specially developed for office workers. It automatically sorts shortcuts, directories, pictures, and other files on the desktop. In addition, it does not contain unnecessary content such as advertisements and plugins and is very lightweight and safe.",
+  "short_description": "Coodesker is a desktop organization tool specially developed for office workers. It automatically sorts shortcuts, directories, pictures, and other files on the desktop. In addition, it does not conta",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2442500/header.jpg?t=1740969018",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2442500/ss_4249b768fe41e790416af0127b13cfeccab45e06.600x338.jpg?t=1740969018",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2442500/ss_fbb27645a41174279f07ee0b91454de25e58a515.600x338.jpg?t=1740969018",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2442500/ss_95af9c1799fe4178fea398c9159708d32f8b8ddf.600x338.jpg?t=1740969018",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2442500/ss_f87645a10db97fa3da31c75b5f1b2835a15d61a6.600x338.jpg?t=1740969018",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2442500/ss_ee51d6b1c5519931654585309a912254cf108dca.600x338.jpg?t=1740969018"
-  ],
-  "detailed_description": "<strong>Hardware-accelerated</strong><br>It supports a hardware-accelerated rendering engine, runs fast, occupies very few resources such as CPU and memory, and runs very stably on the Win7+ system.<br><strong>Peek desktop</strong><br>Support peek desktop, you can access your files, folders, and applications immediately, helping you save time and improve work efficiency. <br><strong>Customizable</strong><br>You can organize icons based on their name and type, and also personalize the colors and transparency of boxes.<br><strong>Folder portals</strong><br>Access the contents of any folder directly from the desktop in a fully customizable live view.<br><strong>Theme</strong><br>You can choose the default theme, obviously the choice colour palette or transparency is down to you.<br><strong>Multi-column List</strong><br>Select the list mode and select the icons to be arranged vertically, so that the files can be seen at a glance.<br><strong>Smart box</strong><br>Support smart box, double-click the Alt key to evoke, and built-in custom folder.<br><strong>Backup layout</strong><br>Coodesker supports global backup, backup setting items, layout, and supports automatic backup layout, click Apply to restore the previously backed up desktop layout.",
-  "about_the_game": "<strong>Hardware-accelerated</strong><br>It supports a hardware-accelerated rendering engine, runs fast, occupies very few resources such as CPU and memory, and runs very stably on the Win7+ system.<br><strong>Peek desktop</strong><br>Support peek desktop, you can access your files, folders, and applications immediately, helping you save time and improve work efficiency. <br><strong>Customizable</strong><br>You can organize icons based on their name and type, and also personalize the colors and transparency of boxes.<br><strong>Folder portals</strong><br>Access the contents of any folder directly from the desktop in a fully customizable live view.<br><strong>Theme</strong><br>You can choose the default theme, obviously the choice colour palette or transparency is down to you.<br><strong>Multi-column List</strong><br>Select the list mode and select the icons to be arranged vertically, so that the files can be seen at a glance.<br><strong>Smart box</strong><br>Support smart box, double-click the Alt key to evoke, and built-in custom folder.<br><strong>Backup layout</strong><br>Coodesker supports global backup, backup setting items, layout, and supports automatic backup layout, click Apply to restore the previously backed up desktop layout.",
-  "supported_languages": "English, Japanese, Simplified Chinese, Traditional Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.4000000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 28,
-  "review_positive": 27,
+  "review_positive": 0,
   "review_percentage": 96.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -47,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 21,
-      "review_percentage": 95.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 28,
       "review_percentage": 96.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

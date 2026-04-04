@@ -3,8 +3,8 @@
   "name": "Cubebam",
   "slug": "cubebam",
   "developer": "Niko Belik",
-  "publisher": " Piece Of Voxel\t",
-  "release_date": "May 15, 2024",
+  "publisher": "",
+  "release_date": "2024-05-15",
   "price_usd": 0.59,
   "genres": [
     "Casual",
@@ -17,34 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Is an exciting 2D physics game where the player has to help grandfather in a barrel break cubes and get to the coin. The goal of the game is to use the available projectiles, which can be obtained by breaking colored cubes.",
+  "short_description": "Is an exciting 2D physics game where the player has to help grandfather in a barrel break cubes and get to the coin. The goal of the game is to use the available projectiles, which can be obtained by ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726110/header.jpg?t=1715781861",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726110/ss_8f98f781c7f90ad4c840e80a7e372830c55692ce.600x338.jpg?t=1715781861",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726110/ss_ac33c9a730c19b176c642579e6825bbd35327953.600x338.jpg?t=1715781861",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726110/ss_fe315a98af819de42c522e7bbc3337e8e3031cb6.600x338.jpg?t=1715781861",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726110/ss_2ba6c1649d848f18193c536bc57c8ea93a408998.600x338.jpg?t=1715781861",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726110/ss_1350b5004f78c97e9f3a428a26880116f4fbe6b5.600x338.jpg?t=1715781861"
-  ],
-  "detailed_description": "An exciting 2D physics game where the player has to help his grandfather break the cubes in a barrel and get to the coin.<br />\r\nThe gameplay takes place on a screen where various obstacles such as walls and platforms are located. Grandfather is in a large wooden barrel that can be controlled with the mouse. At the beginning of each level, the player is given a certain number of projectiles that can be used to break cubes. Cubes can come in different colors and have different properties, for example, some of them can be stronger and require more effort to break. The goal of the game is to complete all levels by breaking cubes and collecting coins.",
-  "about_the_game": "An exciting 2D physics game where the player has to help his grandfather break the cubes in a barrel and get to the coin.<br />\r\nThe gameplay takes place on a screen where various obstacles such as walls and platforms are located. Grandfather is in a large wooden barrel that can be controlled with the mouse. At the beginning of each level, the player is given a certain number of projectiles that can be used to break cubes. Cubes can come in different colors and have different properties, for example, some of them can be stronger and require more effort to break. The goal of the game is to complete all levels by breaking cubes and collecting coins.",
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Simplified Chinese<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Russian<strong>*</strong>, Turkish<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 0.45,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 9,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 55.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 57.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 55.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "VTS Face2Face",
   "slug": "vts-face2face",
   "developer": "Xil Live",
-  "publisher": "Xil Live",
-  "release_date": "Mar 22, 2026",
+  "publisher": "",
+  "release_date": "2026-03-22",
   "price_usd": 8.99,
   "genres": [
     "Casual",
@@ -20,34 +20,11 @@
     "windows",
     "mac"
   ],
-  "short_description": "Face2Face connects to VTube Studio and lets your face trigger expressions, items, scenes, and even switch models in real time. Build simple rules that trigger with facial tracking, use toggle or auto-off modes, and skip hotkeys entirely. Fast setup, low resource usage, compatible with however you use VTube Studio today!",
+  "short_description": "Face2Face connects to VTube Studio and lets your face trigger expressions, items, scenes, and even switch models in real time. Build simple rules that trigger with facial tracking, use toggle or auto-",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450580/8511385a454da7d575cb6d3e1c9dfdd0e25c6560/header.jpg?t=1774231303",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450580/fff628b80775857e2e6bedcaa39b64dadd279cd7/ss_fff628b80775857e2e6bedcaa39b64dadd279cd7.600x338.jpg?t=1774231303",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450580/66f2ee53b8614440b54c5c61e7ea3a7179c8e193/ss_66f2ee53b8614440b54c5c61e7ea3a7179c8e193.600x338.jpg?t=1774231303",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450580/0f222d8aafba4d883ad26c463d81eb2e0f107e8f/ss_0f222d8aafba4d883ad26c463d81eb2e0f107e8f.600x338.jpg?t=1774231303",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450580/ba75f3d1dadff3a2be01d76e1cd1022ba5ee25eb/ss_ba75f3d1dadff3a2be01d76e1cd1022ba5ee25eb.600x338.jpg?t=1774231303",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4450580/2159b36b6d51e1e9b9c5942e4513f30b8af912f8/ss_2159b36b6d51e1e9b9c5942e4513f30b8af912f8.600x338.jpg?t=1774231303"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Ever wanted a simplistic app to control your VTuber with nothing but your face? Me too!</p><p class=\"bb_paragraph\" >I know other apps do similar things too, but I wanted something simple, intuitive, and user friendly.</p><p class=\"bb_paragraph\" >Face2Face connects directly to VTube Studio and triggers expressions, item scenes and more. Your face controls, well, your face!</p><p class=\"bb_paragraph\" >How it works:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >You set up rules like \"when my mouth opens wide, activate the surprised expression\"</p></li><li><p class=\"bb_paragraph\" >The app watches the tracking parameters in real time</p></li><li><p class=\"bb_paragraph\" >When your face matches a condition, it fires the expression, item scene, or any hotkey in VTube Studio</p></li><li><p class=\"bb_paragraph\" >Continuous Mode: When your face goes back to normal, the expression turns off automatically</p></li><li><p class=\"bb_paragraph\" >Toggle Mode: Ever wanted to wink and put on sunglasses, then wink again to toggle them off? Me either, but now you can!</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Features:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Automatic setup for quick and easy rule creation, manual creation for complicated rules or fine-tuning</p></li><li><p class=\"bb_paragraph\" >Works with any VTube Studio setup, whether you track with a webcam, iPhone, Android, or any other setup</p></li><li><p class=\"bb_paragraph\" >Use expressions, hotkeys and even change models with nothing but your face</p></li><li><p class=\"bb_paragraph\" >Control hold time, release time so your rules fire exactly how you want them to when you want them to</p></li><li><p class=\"bb_paragraph\" >Live parameter monitor so you see exactly what your face is doing</p></li><li><p class=\"bb_paragraph\" >Set different rules per model and quickly import rules between models</p></li><li><p class=\"bb_paragraph\" >Supports 31 languages</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Setup takes about 60 seconds. Open VTube Studio, enable the API, launch Face2Face, hit connect, and start making rules.</p><p class=\"bb_paragraph\" >Built by a lone VTuber who got tired of having to reach over and press buttons to control my facial expressions</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Requirements:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >This app requires VTube Studio to function</p></li><li><p class=\"bb_paragraph\" >Works with webcam, iPhone, Android, or any other device</p></li><li><p class=\"bb_paragraph\" >Works on any computer that can run VTube Studio, very very light on CPU and RAM to run</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >⚠️ VTS Face2Face is only as good as your tracking is in VTube Studio and VBridger. If VTube Studio and/or  VBridger has trouble tacking your face, so will VTS Face2Face!!!</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Ever wanted a simplistic app to control your VTuber with nothing but your face? Me too!</p><p class=\"bb_paragraph\" >I know other apps do similar things too, but I wanted something simple, intuitive, and user friendly.</p><p class=\"bb_paragraph\" >Face2Face connects directly to VTube Studio and triggers expressions, item scenes and more. Your face controls, well, your face!</p><p class=\"bb_paragraph\" >How it works:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >You set up rules like \"when my mouth opens wide, activate the surprised expression\"</p></li><li><p class=\"bb_paragraph\" >The app watches the tracking parameters in real time</p></li><li><p class=\"bb_paragraph\" >When your face matches a condition, it fires the expression, item scene, or any hotkey in VTube Studio</p></li><li><p class=\"bb_paragraph\" >Continuous Mode: When your face goes back to normal, the expression turns off automatically</p></li><li><p class=\"bb_paragraph\" >Toggle Mode: Ever wanted to wink and put on sunglasses, then wink again to toggle them off? Me either, but now you can!</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Features:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Automatic setup for quick and easy rule creation, manual creation for complicated rules or fine-tuning</p></li><li><p class=\"bb_paragraph\" >Works with any VTube Studio setup, whether you track with a webcam, iPhone, Android, or any other setup</p></li><li><p class=\"bb_paragraph\" >Use expressions, hotkeys and even change models with nothing but your face</p></li><li><p class=\"bb_paragraph\" >Control hold time, release time so your rules fire exactly how you want them to when you want them to</p></li><li><p class=\"bb_paragraph\" >Live parameter monitor so you see exactly what your face is doing</p></li><li><p class=\"bb_paragraph\" >Set different rules per model and quickly import rules between models</p></li><li><p class=\"bb_paragraph\" >Supports 31 languages</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Setup takes about 60 seconds. Open VTube Studio, enable the API, launch Face2Face, hit connect, and start making rules.</p><p class=\"bb_paragraph\" >Built by a lone VTuber who got tired of having to reach over and press buttons to control my facial expressions</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Requirements:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >This app requires VTube Studio to function</p></li><li><p class=\"bb_paragraph\" >Works with webcam, iPhone, Android, or any other device</p></li><li><p class=\"bb_paragraph\" >Works on any computer that can run VTube Studio, very very light on CPU and RAM to run</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >⚠️ VTS Face2Face is only as good as your tracking is in VTube Studio and VBridger. If VTube Studio and/or  VBridger has trouble tacking your face, so will VTS Face2Face!!!</p>",
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Achievements",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 6.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 9,
-  "review_positive": 9,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -55,33 +32,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-23",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
-      "review_count": 9,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
-      "review_count": 9,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

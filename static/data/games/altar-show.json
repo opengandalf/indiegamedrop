@@ -3,8 +3,8 @@
   "name": "Altar Show",
   "slug": "altar-show",
   "developer": "Altar Virtual Technologies, Inc.",
-  "publisher": "Altar Virtual Technologies, Inc.",
-  "release_date": "Aug 23, 2017",
+  "publisher": "",
+  "release_date": "2017-08-23",
   "price_usd": 0.0,
   "genres": [
     "Design & Illustration",
@@ -21,37 +21,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Altar Show is a VR productivity tool that lets you spatially brainstorm, design, roadmap, present, plan projects, build Memory Palaces, and more! It’s inspired by and based on the science of spatial thinking in order to improve your memory.",
+  "short_description": "Altar Show is a VR productivity tool that lets you spatially brainstorm, design, roadmap, present, plan projects, build Memory Palaces, and more! It’s inspired by and based on the science of spatial t",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/667110/header.jpg?t=1507527912",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/667110/ss_fc435118a4d854cc2e3e27758396c2a67ad4c102.600x338.jpg?t=1507527912",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/667110/ss_54808499b5e1f51d16d4e850f72610f003f13895.600x338.jpg?t=1507527912",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/667110/ss_b5ed68d1d919728ea52c8f6f22be43dec1344bd2.600x338.jpg?t=1507527912",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/667110/ss_463b36b4462bfe1dcb6e27a5552b11346841310d.600x338.jpg?t=1507527912",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/667110/ss_578de1e7a3c04dc4d83a2b44aa696a41990bc71b.600x338.jpg?t=1507527912",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/667110/ss_460832d987b8477945da8fbd2b384fdfcc61b573.600x338.jpg?t=1507527912",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/667110/ss_ade22bbd4da43389153e99859f4d256abac83df6.600x338.jpg?t=1507527912",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/667110/ss_cdf5aa76f4249388909fc75f6afa4c254ac4df86.600x338.jpg?t=1507527912"
-  ],
-  "detailed_description": "Show is a productivity tool built around the science of spatial thinking! We envision what it would be like to take a thought out of your head and hold it in your hand. To Think in 3D.<br><br><strong>Brainstorm</strong> more effectively by capturing the details of your ideas with our Spatial Thinking tools.<br><br><strong>Organize your information</strong> and ideas with nestable worlds, called Bubbles.<br><br><strong>Pitch your ideas</strong> by visualizing them in an interactive spatial format.<br><br><strong>Remember more</strong> by forming spatial memories of your information.<br><br><strong>Increase creativity</strong> by mapping and organizing ideas.<br><br><strong>Draw</strong> in 3D space.<br><br><strong>Screenshot</strong> all of your work in VR.<br><br><strong>Save and Load</strong> your brainstorms, roadmaps, presentations, and more.<br><br><strong>Import</strong> images, .PDFs, and .OBJ files.",
-  "about_the_game": "Show is a productivity tool built around the science of spatial thinking! We envision what it would be like to take a thought out of your head and hold it in your hand. To Think in 3D.<br><br><strong>Brainstorm</strong> more effectively by capturing the details of your ideas with our Spatial Thinking tools.<br><br><strong>Organize your information</strong> and ideas with nestable worlds, called Bubbles.<br><br><strong>Pitch your ideas</strong> by visualizing them in an interactive spatial format.<br><br><strong>Remember more</strong> by forming spatial memories of your information.<br><br><strong>Increase creativity</strong> by mapping and organizing ideas.<br><br><strong>Draw</strong> in 3D space.<br><br><strong>Screenshot</strong> all of your work in VR.<br><br><strong>Save and Load</strong> your brainstorms, roadmaps, presentations, and more.<br><br><strong>Import</strong> images, .PDFs, and .OBJ files.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 21,
-  "review_positive": 17,
+  "review_positive": 0,
   "review_percentage": 81.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -59,26 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 20,
-      "review_percentage": 70.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 21,
-      "review_percentage": 81.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
+      "date": "2026-04-04",
       "review_count": 21,
       "review_percentage": 81.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

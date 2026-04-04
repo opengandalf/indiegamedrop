@@ -3,8 +3,8 @@
   "name": "Dice Keeper",
   "slug": "dice-keeper",
   "developer": "Zanarka Studio",
-  "publisher": "Zanarka Studio",
-  "release_date": "Apr 26, 2019",
+  "publisher": "",
+  "release_date": "2019-04-26",
   "price_usd": 4.99,
   "genres": [
     "Casual",
@@ -23,34 +23,15 @@
   ],
   "short_description": "Play chill or try to beat the world record in this dice-based Puzzle Game, Dice Keeper the very first game of Zanarka Studios.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1047020/header.jpg?t=1556295105",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1047020/ss_75a7799dbaf27554df8c92e65767e96c560fa69c.600x338.jpg?t=1556295105",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1047020/ss_09a6d3d0a69d9861afb5b85b786b309f3a32e220.600x338.jpg?t=1556295105",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1047020/ss_243577fd2b44432b745a711873161152fe4aac9d.600x338.jpg?t=1556295105",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1047020/ss_86a9155423a22e83f4085b76f952f97127fbd348.600x338.jpg?t=1556295105",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1047020/ss_0a7b0b01af620a3cbe3dc48c0270b8385ab5b80f.600x338.jpg?t=1556295105",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1047020/ss_427cbc554df99267af1d6aabe67203dd0735e6d6.600x338.jpg?t=1556295105",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1047020/ss_87d3fcb1e7620c5c417eec645919dbe070aacd18.600x338.jpg?t=1556295105"
-  ],
-  "detailed_description": "Dice Keeper is a dice-based puzzle game. Chill or try to break the world record in the first game of the Zanarka Studio. Nenetas, the dice keeper, must group dice with the same value by dragging and dropping them in order to make them disappear and score points. If the board is full, it's over.<br />\r\nAt present the early access contains the main mode which is the \"endless\" solo mode, it will subsequently be added alternative game modes (small puzzles, chrono, ..) and online multiplayer.",
-  "about_the_game": "Dice Keeper is a dice-based puzzle game. Chill or try to break the world record in the first game of the Zanarka Studio. Nenetas, the dice keeper, must group dice with the same value by dragging and dropping them in order to make them disappear and score points. If the board is full, it's over.<br />\r\nAt present the early access contains the main mode which is the \"endless\" solo mode, it will subsequently be added alternative game modes (small puzzles, chrono, ..) and online multiplayer.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

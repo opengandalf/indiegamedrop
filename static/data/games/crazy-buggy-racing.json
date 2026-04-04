@@ -3,8 +3,8 @@
   "name": "Crazy Buggy Racing",
   "slug": "crazy-buggy-racing",
   "developer": "VGstudio",
-  "publisher": "VGstudio",
-  "release_date": "Apr 12, 2017",
+  "publisher": "",
+  "release_date": "2017-04-12",
   "price_usd": 0.69,
   "genres": [
     "Action",
@@ -23,65 +23,27 @@
   ],
   "short_description": "Speed! Fun! Madness!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610780/header.jpg?t=1492025773",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610780/ss_61c6b8fb07cfece223b568e326e09ac04cc8645a.600x338.jpg?t=1492025773",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610780/ss_baeab68f8cfc02b23b615a16206dbad5301a9004.600x338.jpg?t=1492025773",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610780/ss_1acfa3bf706cf57ac94b9d1d199adf02c3bfe507.600x338.jpg?t=1492025773",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610780/ss_35e7844cc9835061f50a6b4fd6639396388ecf3d.600x338.jpg?t=1492025773",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610780/ss_b9c89a49f6432404cb22cc24ed075fdd50ea542f.600x338.jpg?t=1492025773",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610780/ss_6e4f8f2e905d11b9c6a8d7f6c66d3092c633a23e.600x338.jpg?t=1492025773",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610780/ss_2c89b2cd54e319ffc206e04e82335ca375cf1e78.600x338.jpg?t=1492025773",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610780/ss_71c75b4bf6f453d56cdce44572b0f513a66a76d3.600x338.jpg?t=1492025773",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610780/ss_f322bbd11a8682e9e449979323f234e6f2c237ab.600x338.jpg?t=1492025773",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610780/ss_30620f05c8e8553ac91adb65c4b5b1a018aeec8c.600x338.jpg?t=1492025773"
-  ],
-  "detailed_description": "Ride through the deserts and jungles, snowy peaks and conquer the city streets, collect coins and destroy objects, earn bonuses! Jump on trampolines, overcome obstacles, ride the roofs of houses, climb and try to hold out! All this Crazy Buggy Racing!",
-  "about_the_game": "Ride through the deserts and jungles, snowy peaks and conquer the city streets, collect coins and destroy objects, earn bonuses! Jump on trampolines, overcome obstacles, ride the roofs of houses, climb and try to hold out! All this Crazy Buggy Racing!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Trading Cards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 7.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 144,
-  "review_positive": 56,
+  "review_positive": 0,
   "review_percentage": 38.9,
   "owner_estimate": 75000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 213,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 139,
-      "review_percentage": 39.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 144,
-      "review_percentage": 38.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 144,
       "review_percentage": 38.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

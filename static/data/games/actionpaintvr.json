@@ -3,8 +3,8 @@
   "name": "ActionpaintVR",
   "slug": "actionpaintvr",
   "developer": "DNV",
-  "publisher": "DNV",
-  "release_date": "Sep 10, 2018",
+  "publisher": "",
+  "release_date": "2018-09-10",
   "price_usd": 1.99,
   "genres": [
     "Casual",
@@ -21,37 +21,15 @@
   ],
   "short_description": "A fast and powerful paint experience.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894360/header.jpg?t=1536864226",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894360/ss_5347b630d0e385d833608542fd2246022518d04c.600x338.jpg?t=1536864226",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894360/ss_6f105f5684ea07718b69a04a50ff4f4a322bc14a.600x338.jpg?t=1536864226",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894360/ss_16bcc36400e4de869ee732dfebe7d6ff8b6b249d.600x338.jpg?t=1536864226",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894360/ss_a5da54b7723123a6dea25eeeed944121e59388bd.600x338.jpg?t=1536864226",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894360/ss_536b40d57a6b8b1980d75013b247e8679537f248.600x338.jpg?t=1536864226",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894360/ss_51bec87bf7d17b292a92c378372e3942b65b20c6.600x338.jpg?t=1536864226",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894360/ss_cd9104d5c0e1934c85718f13833cfde6216d00cd.600x338.jpg?t=1536864226",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894360/ss_4bb3cf6f57f2a3d34a811c8d5ad3d49d6907e7b4.600x338.jpg?t=1536864226"
-  ],
-  "detailed_description": "A Painting experience for Virtual Reality. Explore 16 different painting tools and unlimited amount of paint to create your own modern art piece.<br><br><ul class=\"bb_ul\"><li>Huge 4K Canvas<br></li><li>8 Brushes<br></li><li>8 Tools<br></li><li>Gif Recorder<br></li><li>Screenshot Tool</li></ul>",
-  "about_the_game": "A Painting experience for Virtual Reality. Explore 16 different painting tools and unlimited amount of paint to create your own modern art piece.<br><br><ul class=\"bb_ul\"><li>Huge 4K Canvas<br></li><li>8 Brushes<br></li><li>8 Tools<br></li><li>Gif Recorder<br></li><li>Screenshot Tool</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

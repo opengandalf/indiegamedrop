@@ -3,8 +3,8 @@
   "name": "Neondrops",
   "slug": "neondrops",
   "developer": "Emmanuel Douge",
-  "publisher": "Emmanuel Douge",
-  "release_date": "Sep 13, 2021",
+  "publisher": "",
+  "release_date": "2021-09-13",
   "price_usd": 19.99,
   "genres": [
     "Audio Production",
@@ -21,29 +21,9 @@
   ],
   "short_description": "Turn your mice and keyboards into independent midi controllers or synthesizers. Use virtual ports to send MIDI to your DAW or plug in your own MIDI keyboard. Sampling functionality included.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734480/header.jpg?t=1638222807",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734480/ss_3038952b428eb2c0d81546a998c76075b60606a1.600x338.jpg?t=1638222807",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734480/ss_219ac3e3f42c31beac5c85c597f2d99bc3cd4640.600x338.jpg?t=1638222807",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734480/ss_19eb41e299489b571349db676bec25c24d4ede2d.600x338.jpg?t=1638222807",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734480/ss_b425af8102b15e16077743a26db9ea23bab20d7c.600x338.jpg?t=1638222807",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734480/ss_413b4409fcd97fdf529da4f9b988adcd86ba5c32.600x338.jpg?t=1638222807"
-  ],
-  "detailed_description": "Neon drops is a synthesizer, sampler, and midi controller all in one that utilizes your mice and keyboards. <br><br><u>Features</u><br><ul class=\"bb_ul\"><li>120+ instruments<br></li><li>Up to a total of 8 mice and keyboards can send unique MIDI signals to the internal synthesizer or your DAW <br></li><li>Record up to 16 seconds of playback to try out new musical ideas<br></li><li>15 musical scales included<br></li><li>Slice and flip your own music and recordings (mono 48khz)<br></li><li>Block input to foreground applications<br></li><li>Use the Game port to send keys to supported applications<br></li><li>MIDI IN Support</li></ul><br><u>Controls</u><br><ul class=\"bb_ul\"><li>Tilde - QUIT<br></li><li>Ctrl + Space + Shift- MINIMIZE / MAXIMIZE<br></li><li>Shift + WASDQE - NAV / SELECT / NEXT PAGE / PREV PAGE<br></li><li>Space - CHORD MODE<br></li><li>4,5,6,+,1,2,3,Numpad enter - SAMPLE PADS 1-8<br></li><li>Numpad 0 - SAMPLE PADS 9-16 WHEN 16 SLICES IS ON<br></li><li>\\ - RECORD</li></ul>",
-  "about_the_game": "Neon drops is a synthesizer, sampler, and midi controller all in one that utilizes your mice and keyboards. <br><br><u>Features</u><br><ul class=\"bb_ul\"><li>120+ instruments<br></li><li>Up to a total of 8 mice and keyboards can send unique MIDI signals to the internal synthesizer or your DAW <br></li><li>Record up to 16 seconds of playback to try out new musical ideas<br></li><li>15 musical scales included<br></li><li>Slice and flip your own music and recordings (mono 48khz)<br></li><li>Block input to foreground applications<br></li><li>Use the Game port to send keys to supported applications<br></li><li>MIDI IN Support</li></ul><br><u>Controls</u><br><ul class=\"bb_ul\"><li>Tilde - QUIT<br></li><li>Ctrl + Space + Shift- MINIMIZE / MAXIMIZE<br></li><li>Shift + WASDQE - NAV / SELECT / NEXT PAGE / PREV PAGE<br></li><li>Space - CHORD MODE<br></li><li>4,5,6,+,1,2,3,Numpad enter - SAMPLE PADS 1-8<br></li><li>Numpad 0 - SAMPLE PADS 9-16 WHEN 16 SLICES IS ON<br></li><li>\\ - RECORD</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

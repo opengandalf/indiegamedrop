@@ -3,8 +3,8 @@
   "name": "TurnSignal",
   "slug": "turnsignal",
   "developer": "Ben Otter",
-  "publisher": "Otter-Co",
-  "release_date": "Aug 28, 2017",
+  "publisher": "",
+  "release_date": "2017-08-28",
   "price_usd": 0.0,
   "genres": [
     "Software Training",
@@ -19,61 +19,21 @@
   ],
   "short_description": "A minimalistic, intuitive, visual, IN-GAME utility for keeping track of Cord Wrapping/Tangling in SteamVR!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689580/header.jpg?t=1516160283",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689580/ss_a30b6e2b46b3f77682c79b9cae062c298206f9f6.600x338.jpg?t=1516160283",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689580/ss_f458ddebf3b73bed9b827c03f4e37e0b4b96b307.600x338.jpg?t=1516160283",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689580/ss_1d2882b6d5e2409075e05ef7380a9ac072d29f08.600x338.jpg?t=1516160283",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689580/ss_6dac7a2b8e5612ea6716c2517c7eaf26751da891.600x338.jpg?t=1516160283",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689580/ss_2f43ef812608a29931278521726a0507617c29f3.600x338.jpg?t=1516160283",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689580/ss_fc2c4a214e824f7ba16c508837102819aac85157.600x338.jpg?t=1516160283",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/689580/ss_eff75e4ab57d472d07c02426e7f316b378d93a9b.600x338.jpg?t=1516160283"
-  ],
-  "detailed_description": "TurnSignal is a small, Free, (Hopefully) minimally invasive VR utility to assist with preventing Headsets Cords from becoming twisted and tangled up.<br><br>It utilizes a simple graphic, dubbed The 'Flower', overlaid in-game on your play-space floor, that visually represents your turns by twisting with you!<br><br>Since everybody's different, the app includes some settings to help ensure it's not intrusive on anyone's play style!<br><br><ul class=\"bb_ul\"><li>Added Menu to Main Window to not waste space!<br></li><li>A Button Toggle to enable/disable the tools in-game display<br></li><li>A Button to Reset the utilities Rotation Tracking<br></li><li>An Opacity / Transparency / Height Setting<br></li><li>A Scale Setting<br></li><li>A Twist Rate Setting for manipulating the twist-i-ness levels<br></li><li>A Toggle to Hide the Main Window<br></li><li>A Toggle for auto-starting and closing the utility with SteamVR<br></li><li>A Toggle to use Chaperone Color instead of white (real time too!)<br></li><li>A Toggle to Link Opacity and Twist'ed-ness together, so it becomes more visible the more twisted you are<br></li><li>A Toggle to only display the Flower / Floor Overlay when the Dashboard is Open<br></li><li>A link to Controller Settings Menu, for placing flower on hand instead of the floor<br></li><li>A Toggle to allow the Flower / Floor Overlay to follow the player, and a speed setting slider </li></ul><br>That's All!<br>Progress is ongoing, and bug / feature requests / feedback is always welcome!",
-  "about_the_game": "TurnSignal is a small, Free, (Hopefully) minimally invasive VR utility to assist with preventing Headsets Cords from becoming twisted and tangled up.<br><br>It utilizes a simple graphic, dubbed The 'Flower', overlaid in-game on your play-space floor, that visually represents your turns by twisting with you!<br><br>Since everybody's different, the app includes some settings to help ensure it's not intrusive on anyone's play style!<br><br><ul class=\"bb_ul\"><li>Added Menu to Main Window to not waste space!<br></li><li>A Button Toggle to enable/disable the tools in-game display<br></li><li>A Button to Reset the utilities Rotation Tracking<br></li><li>An Opacity / Transparency / Height Setting<br></li><li>A Scale Setting<br></li><li>A Twist Rate Setting for manipulating the twist-i-ness levels<br></li><li>A Toggle to Hide the Main Window<br></li><li>A Toggle for auto-starting and closing the utility with SteamVR<br></li><li>A Toggle to use Chaperone Color instead of white (real time too!)<br></li><li>A Toggle to Link Opacity and Twist'ed-ness together, so it becomes more visible the more twisted you are<br></li><li>A Toggle to only display the Flower / Floor Overlay when the Dashboard is Open<br></li><li>A link to Controller Settings Menu, for placing flower on hand instead of the floor<br></li><li>A Toggle to allow the Flower / Floor Overlay to follow the player, and a speed setting slider </li></ul><br>That's All!<br>Progress is ongoing, and bug / feature requests / feedback is always welcome!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "VR Only",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 707,
-  "review_positive": 643,
+  "review_positive": 0,
   "review_percentage": 90.9,
   "owner_estimate": 1500000,
-  "ccu_estimate": 44,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 4762,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 696,
-      "review_percentage": 91.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 707,
       "review_percentage": 90.9,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
-      "review_count": 707,
-      "review_percentage": 90.9,
-      "ccu_estimate": 44,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

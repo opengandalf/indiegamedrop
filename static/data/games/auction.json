@@ -3,8 +3,8 @@
   "name": "Auction",
   "slug": "auction",
   "developer": "Blank Dream Studios",
-  "publisher": "Blank Dream Studios",
-  "release_date": "Dec 3, 2021",
+  "publisher": "",
+  "release_date": "2021-12-03",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -21,36 +21,15 @@
   ],
   "short_description": "Auction is a 4 player co-op horror game where you must escape a mysterious building by finding keys left around. Solve puzzles, find keys and avoid the guards to reach the exit gate and break out...",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1683090/header.jpg?t=1653138908",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1683090/ss_b3a3dcd8db5746f71fdb213129e89ee29ac77f70.600x338.jpg?t=1653138908",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1683090/ss_3372fdeb7b7013cec72e11cbc449682d69ab98a9.600x338.jpg?t=1653138908",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1683090/ss_47d7b79138c149dcc9676bef2f8cad471dd0a87f.600x338.jpg?t=1653138908",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1683090/ss_faee6caa3661bb004c0201254f754ebbbff45f19.600x338.jpg?t=1653138908",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1683090/ss_954cff66c3292620c18fd2806699df5c7a5fe096.600x338.jpg?t=1653138908"
-  ],
-  "detailed_description": "After waking to find you have been kidnapped and left inside a room with time ticking down before your impending doom, you have no choice but to find a way to escape. Luckily, a previous victim has managed to break the lock to the door allowing your only chance to escape.<h2 class=\"bb_tag\" >| FIND THE KEYS |</h2>Keys are scattered around the building. Sneak around the kidnappers and solve puzzles to gather keys and get to the locked gate to escape.<h2 class=\"bb_tag\" >| ESCAPE WITH UP TO 4 PLAYERS |</h2>Get some other victims to help escape from the kidnappers. It will allow players to break each other out of their locked rooms when they get caught. While escaping alone is entirely possible, being able to communicate and help each other out is key to escaping.<h2 class=\"bb_tag\" >| GUARDS LURK THE CORRIDORS |</h2>Escaping is not easy when guards patrolling don't appreciate you freely roaming. Sneak by and avoid detection at all costs as you may not get another chance of getting outside the complex.<h2 class=\"bb_tag\" >| DISCOVER THE SECRETS OF THE BUILDING |</h2>Notes found inside the building hide a dark history behind the purpose of the building and its current inhabitants...<h2 class=\"bb_tag\" >| IMMERSIVE ESCAPE EXPERIENCE |</h2>Realistic graphics with minimalistic UI help to create an atmospheric experience that keeps you on your toes at all times.<h2 class=\"bb_tag\" >| SUPPORTS IN-GAME VOICE CHAT |</h2>Communicate with others through either voice chat or text chat to discuss strategies, alert of guards, yell to be saved and more.",
-  "about_the_game": "After waking to find you have been kidnapped and left inside a room with time ticking down before your impending doom, you have no choice but to find a way to escape. Luckily, a previous victim has managed to break the lock to the door allowing your only chance to escape.<h2 class=\"bb_tag\" >| FIND THE KEYS |</h2>Keys are scattered around the building. Sneak around the kidnappers and solve puzzles to gather keys and get to the locked gate to escape.<h2 class=\"bb_tag\" >| ESCAPE WITH UP TO 4 PLAYERS |</h2>Get some other victims to help escape from the kidnappers. It will allow players to break each other out of their locked rooms when they get caught. While escaping alone is entirely possible, being able to communicate and help each other out is key to escaping.<h2 class=\"bb_tag\" >| GUARDS LURK THE CORRIDORS |</h2>Escaping is not easy when guards patrolling don't appreciate you freely roaming. Sneak by and avoid detection at all costs as you may not get another chance of getting outside the complex.<h2 class=\"bb_tag\" >| DISCOVER THE SECRETS OF THE BUILDING |</h2>Notes found inside the building hide a dark history behind the purpose of the building and its current inhabitants...<h2 class=\"bb_tag\" >| IMMERSIVE ESCAPE EXPERIENCE |</h2>Realistic graphics with minimalistic UI help to create an atmospheric experience that keeps you on your toes at all times.<h2 class=\"bb_tag\" >| SUPPORTS IN-GAME VOICE CHAT |</h2>Communicate with others through either voice chat or text chat to discuss strategies, alert of guards, yell to be saved and more.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Online Co-op",
-    "LAN Co-op",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.8,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 16,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 43.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 16,
-      "review_percentage": 43.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 16,
       "review_percentage": 43.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

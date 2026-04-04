@@ -3,8 +3,8 @@
   "name": "Buy it now!",
   "slug": "buy-it-now",
   "developer": "DnG Company",
-  "publisher": "DnG Company",
-  "release_date": "Dec 1, 2021",
+  "publisher": "",
+  "release_date": "2021-12-01",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -19,32 +19,15 @@
   ],
   "short_description": "Huge difficulties! 3d platformer with handsome peasant and the sweet voice of a Russian girl at the end",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1831010/header.jpg?t=1638431707",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1831010/ss_188f0e6b4c5fdfb0264acc415b7ab8a9be0c461a.600x338.jpg?t=1638431707",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1831010/ss_e4c95fdc9dc6c104b52dec0f651172e7a43b0531.600x338.jpg?t=1638431707",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1831010/ss_94ed90a42c2c995dd516c914c5a7ed9d1f82f409.600x338.jpg?t=1638431707",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1831010/ss_54f5bdb655b296de763eab94f9def37cdf1f883f.600x338.jpg?t=1638431707",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1831010/ss_7344454a4beea110fd4ab4c54a92c4e29384fe38.600x338.jpg?t=1638431707"
-  ],
-  "detailed_description": "<strong>You just can't finish this game. Show me if you can.</strong><br><br>Try to complete this game to the end! Not everyone will be able to pass difficult obstacles!<br><br><br>Jump over, step over, dodge and much more. Show your skills!<br><br><br>in This Game:<br><br>1. Huge difficulties<br><br>2. Handsome peasant<br><br>3. The voice of a cute Russian girl at the end<br><br>4. Spikes<br><br>5.And other...<br><br><br><br><br>If you find bugs in the game...<br><br>There are no bugs in the game, okay?",
-  "about_the_game": "<strong>You just can't finish this game. Show me if you can.</strong><br><br>Try to complete this game to the end! Not everyone will be able to pass difficult obstacles!<br><br><br>Jump over, step over, dodge and much more. Show your skills!<br><br><br>in This Game:<br><br>1. Huge difficulties<br><br>2. Handsome peasant<br><br>3. The voice of a cute Russian girl at the end<br><br>4. Spikes<br><br>5.And other...<br><br><br><br><br>If you find bugs in the game...<br><br>There are no bugs in the game, okay?",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 4,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

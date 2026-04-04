@@ -3,8 +3,8 @@
   "name": "Tower of Archeos",
   "slug": "tower-of-archeos",
   "developer": "Benjamin Soulé",
-  "publisher": "Benjamin Soulé",
-  "release_date": "Sep 7, 2016",
+  "publisher": "",
+  "release_date": "2016-09-07",
   "price_usd": 12.99,
   "genres": [
     "Casual",
@@ -21,57 +21,27 @@
   ],
   "short_description": "Tower of Archeos is a mix between a roguelike & a puzzlegame with a 8bit retro atmosphere.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499370/header.jpg?t=1574694605",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499370/ss_be10e690cfb0e26788871ec98d6346b435cc557c.600x338.jpg?t=1574694605",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499370/ss_e99dc8938975ea994e2adcfb03a735f70e59e543.600x338.jpg?t=1574694605",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499370/ss_97465020406a75a9989c0de345b249a84c081266.600x338.jpg?t=1574694605",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499370/ss_e24696185e29e58e74c3a3c1a1fd882ddf690a69.600x338.jpg?t=1574694605",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499370/ss_90620b0bad073ca1a3be57e3d3d70c6dd75280c3.600x338.jpg?t=1574694605",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499370/ss_657884d89a7d3e8704998e53f133387e22c438a5.600x338.jpg?t=1574694605",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499370/ss_8c5839d2bc23dbec82d6d0236180801019722ba4.600x338.jpg?t=1574694605",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499370/ss_eb4f7813ccaa7cf6b90d4c87ebe570c122e50e6c.600x338.jpg?t=1574694605",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499370/ss_b74463c71461a6848dd035607ec061114389b59e.600x338.jpg?t=1574694605"
-  ],
-  "detailed_description": "Tower of Archeos is a mix between a roguelike and a puzzlegame. <br>Group monsters of same type to kill as many as possible in one stroke. <br><br><strong>Rules </strong><br><ul class=\"bb_ul\"><li>Attack group of monsters with the same type. <br></li><li>Monsters will retaliate but group size dont affect final damage, so try to destroy large groups first. <br></li><li>When they die monsters will drop some gold. You need this gold to level up your character. <br></li><li>You need a key to open doors and chest <br></li><li>Opening a door will refill the level with monsters and recharge your items. <br></li><li>Blocked door can be unblocked by killing monsters next to it <br></li><li>Reach the 10th floor to fight Archeos</li></ul>",
-  "about_the_game": "Tower of Archeos is a mix between a roguelike and a puzzlegame. <br>Group monsters of same type to kill as many as possible in one stroke. <br><br><strong>Rules </strong><br><ul class=\"bb_ul\"><li>Attack group of monsters with the same type. <br></li><li>Monsters will retaliate but group size dont affect final damage, so try to destroy large groups first. <br></li><li>When they die monsters will drop some gold. You need this gold to level up your character. <br></li><li>You need a key to open doors and chest <br></li><li>Opening a door will refill the level with monsters and recharge your items. <br></li><li>Blocked door can be unblocked by killing monsters next to it <br></li><li>Reach the 10th floor to fight Archeos</li></ul>",
-  "supported_languages": "English, French",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.8138,
   "hype_score": 0.0,
   "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 45,
-  "review_positive": 42,
+  "review_positive": 0,
   "review_percentage": 93.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 45,
-      "review_percentage": 93.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 45,
       "review_percentage": 93.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

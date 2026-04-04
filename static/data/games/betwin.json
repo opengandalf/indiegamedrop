@@ -3,8 +3,8 @@
   "name": "BetWin",
   "slug": "betwin",
   "developer": "Junhao",
-  "publisher": "Junhao",
-  "release_date": "Dec 20, 2021",
+  "publisher": "",
+  "release_date": "2021-12-20",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -19,37 +19,15 @@
   ],
   "short_description": "This is a local two-player split-screen fighting game. The background of the game is set in a floating villa. The two protagonists need to fight against each other to win the final victory.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1835820/header.jpg?t=1640054749",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1835820/ss_1bba04d1de16b6e9842e9ebd21c4613c73d7a7bf.600x338.jpg?t=1640054749",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1835820/ss_701ec2b7386ae9cc67f16eaad512943386e78ddf.600x338.jpg?t=1640054749",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1835820/ss_47795e5afec0151429965df059b24a661373a8e6.600x338.jpg?t=1640054749",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1835820/ss_f6bc65bb1bd312f0b3036568df6c81476cd06058.600x338.jpg?t=1640054749",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1835820/ss_96d630d1fb5415ce4656ece39b26dc282bbe261d.600x338.jpg?t=1640054749"
-  ],
-  "detailed_description": "Play split-screen battles with friends in a floating villa!<br>You can use melee and long-range skills such as Dragon Fist and Cake Stream, and you can also pick up pillows and throw them at the opponent. At the same time, you need to beware or use nearby gift boxes.<br>This game needs two controllers to control two characters.If only one handle or keyboard is used, only one character can be controlled.<br>The game adopts a five-game three-win system, and enjoy this duel with your friends!<br><br>Features:<br><ul class=\"bb_ul\"><li>Two-player local split-screen battle<br></li><li>One melee skill(can form two combos) and one long-range skill(can further form three combos)<br></li><li>Gift boxes that can explode and pillows that can be picked up and thrown<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1835820/extras/7fa4a66bad22be20fd3d8f0f7892826d.avif?t=1640054749\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1835820/extras_big/7fa4a66bad22be20fd3d8f0f7892826d.avif?t=1640054749 width=800 height=376 /></span><br></li><li>One map scene</li></ul>",
-  "about_the_game": "Play split-screen battles with friends in a floating villa!<br>You can use melee and long-range skills such as Dragon Fist and Cake Stream, and you can also pick up pillows and throw them at the opponent. At the same time, you need to beware or use nearby gift boxes.<br>This game needs two controllers to control two characters.If only one handle or keyboard is used, only one character can be controlled.<br>The game adopts a five-game three-win system, and enjoy this duel with your friends!<br><br>Features:<br><ul class=\"bb_ul\"><li>Two-player local split-screen battle<br></li><li>One melee skill(can form two combos) and one long-range skill(can further form three combos)<br></li><li>Gift boxes that can explode and pillows that can be picked up and thrown<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1835820/extras/7fa4a66bad22be20fd3d8f0f7892826d.avif?t=1640054749\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1835820/extras_big/7fa4a66bad22be20fd3d8f0f7892826d.avif?t=1640054749 width=800 height=376 /></span><br></li><li>One map scene</li></ul>",
-  "supported_languages": "English, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Shared/Split Screen",
-    "Partial Controller Support",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

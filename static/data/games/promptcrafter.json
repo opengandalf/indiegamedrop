@@ -3,8 +3,8 @@
   "name": "PromptCrafter",
   "slug": "promptcrafter",
   "developer": "DevHaskell",
-  "publisher": "DevHaskell",
-  "release_date": "Sep 3, 2024",
+  "publisher": "",
+  "release_date": "2024-09-03",
   "price_usd": 4.89,
   "genres": [
     "Casual",
@@ -21,35 +21,9 @@
   ],
   "short_description": "Command line crafting game with procedurally generated crafting trees and programming-like automation.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916150/d0f4a2be941683b1d315c549218587538a443dc0/header.jpg?t=1755925757",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916150/427151329608289f190ce3d5217470c1bd46afb8/ss_427151329608289f190ce3d5217470c1bd46afb8.600x338.jpg?t=1755925757",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916150/b91cac032f8bb2720896cb3820926358446c409d/ss_b91cac032f8bb2720896cb3820926358446c409d.600x338.jpg?t=1755925757",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916150/d37ef28ee91fd3a01541099c1e9cba9b51d83192/ss_d37ef28ee91fd3a01541099c1e9cba9b51d83192.600x338.jpg?t=1755925757",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916150/70fe4e6c41f9384635aa3b4426ea7717f848e2f6/ss_70fe4e6c41f9384635aa3b4426ea7717f848e2f6.600x338.jpg?t=1755925757",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916150/3f4bfee22d3fc393a948cd4652d3db89a62b4c41/ss_3f4bfee22d3fc393a948cd4652d3db89a62b4c41.600x338.jpg?t=1755925757",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916150/b6a8ecd1039e38d7914d0c1d8871b5ad69ef5aa1/ss_b6a8ecd1039e38d7914d0c1d8871b5ad69ef5aa1.600x338.jpg?t=1755925757"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Description</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Your ultimate goal is to craft the <strong>omega</strong> element.  </p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > You start with the  <strong>generate </strong> command, which creates an <strong>alpha</strong> element.  </p></li><li><p class=\"bb_paragraph\" >You unlock new features from <strong>shop</strong> with <strong>buy</strong> command. </p></li><li><p class=\"bb_paragraph\" >You can create new elements from the existing ones using <strong>pack, merge</strong> and<strong> cut </strong>commands. </p></li><li><p class=\"bb_paragraph\" >Crafting recipes are hidden by default. When the elements of the recipes have been present in the storage, they become visible. </p></li><li><p class=\"bb_paragraph\" >You can create custom commands to automate your game. For example '<strong>g = generate generage</strong>' creates command <strong>g</strong>, which executes <strong>generate</strong>-command twice.  </p></li><li><p class=\"bb_paragraph\" >Crafting trees are procedurally generated. </p></li></ul><h2 class=\"bb_tag\" >Scoring </h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Command Typing Speed </strong> - Faster typing speed yields a better score. </p></li><li><p class=\"bb_paragraph\" ><strong>Command Efficiency </strong> - A smaller command count yields a better score. </p></li><li><p class=\"bb_paragraph\" > <strong>Storage Efficiency </strong> -  A smaller storage value yields a better score.  </p></li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" >Description</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Your ultimate goal is to craft the <strong>omega</strong> element.  </p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > You start with the  <strong>generate </strong> command, which creates an <strong>alpha</strong> element.  </p></li><li><p class=\"bb_paragraph\" >You unlock new features from <strong>shop</strong> with <strong>buy</strong> command. </p></li><li><p class=\"bb_paragraph\" >You can create new elements from the existing ones using <strong>pack, merge</strong> and<strong> cut </strong>commands. </p></li><li><p class=\"bb_paragraph\" >Crafting recipes are hidden by default. When the elements of the recipes have been present in the storage, they become visible. </p></li><li><p class=\"bb_paragraph\" >You can create custom commands to automate your game. For example '<strong>g = generate generage</strong>' creates command <strong>g</strong>, which executes <strong>generate</strong>-command twice.  </p></li><li><p class=\"bb_paragraph\" >Crafting trees are procedurally generated. </p></li></ul><h2 class=\"bb_tag\" >Scoring </h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Command Typing Speed </strong> - Faster typing speed yields a better score. </p></li><li><p class=\"bb_paragraph\" ><strong>Command Efficiency </strong> - A smaller command count yields a better score. </p></li><li><p class=\"bb_paragraph\" > <strong>Storage Efficiency </strong> -  A smaller storage value yields a better score.  </p></li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 8,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 62.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 71.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 62.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

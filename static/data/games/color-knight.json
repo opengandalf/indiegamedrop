@@ -3,8 +3,8 @@
   "name": "Color Knight",
   "slug": "color-knight",
   "developer": "BlueTreeGames",
-  "publisher": "BlueTreeGames",
-  "release_date": "Dec 20, 2018",
+  "publisher": "",
+  "release_date": "2018-12-20",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -21,41 +21,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Color Knight is a first person perspective action game with a unique color based combat system. You enter an open island in order to destroy color crystals and earn currency - color shards. Spend them on ship's upgrades, then go again on land. Every time different experience.",
+  "short_description": "Color Knight is a first person perspective action game with a unique color based combat system. You enter an open island in order to destroy color crystals and earn currency - color shards. Spend them",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985090/header.jpg?t=1588979762",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985090/ss_9a7f07c07fd7ce51da473b5359fe4f52cd300c19.600x338.jpg?t=1588979762",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985090/ss_20e497017172f0ed77f4d31f4488dee2ba82eead.600x338.jpg?t=1588979762",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985090/ss_658f2a114c3213b41de55b6db20d796e91e89b1c.600x338.jpg?t=1588979762",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985090/ss_827e0ecead6d4205b40069844f87e0eb2dc9ccd7.600x338.jpg?t=1588979762",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985090/ss_417379fd5a71010d9f5d12a1c8b19511224322c6.600x338.jpg?t=1588979762",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985090/ss_6446ad2c94cf0fdb7a4419fbbc9acb680346462e.600x338.jpg?t=1588979762",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985090/ss_46022d60ddcbd772445f16636755df965d821708.600x338.jpg?t=1588979762",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985090/ss_64cd90d9872703e48e671a1df02e4b4178beb1e0.600x338.jpg?t=1588979762",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985090/ss_e14569c3ef9d116e45936e078caf5336aa22bbaa.600x338.jpg?t=1588979762",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985090/ss_cb3c39b1446e589e79dadbed28f93e99ee4f304c.600x338.jpg?t=1588979762",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985090/ss_6499eb1dd663bda4f895ce2516c268cd13e28c7e.600x338.jpg?t=1588979762",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985090/ss_212c3e69ae33b784f97ea592321011903db4dcd7.600x338.jpg?t=1588979762"
-  ],
-  "detailed_description": "<strong>Color Knight</strong> is a first person perspective action game with a unique color based combat system. You enter an open island with randomized enemies in order to destroy color crystals and earn currency - color shards. Look for items completely changing the way you play. Spend your shards on ship's upgrades, then go again on land. Every time different combat experience and enemies.<br><br>You are a color knight, entity created to protect the universe from hidden dark forces. Collect color shards from the energy crystals to power the world's engine - color heart maintaining balance.<br><br><strong>Features</strong><br>-Explore 3 different islands<br>-Destroy enemies in a color based combat<br>-Find items changing the way you play<br>-Every run is different, different enemies, different items<br>-Collect and spend color shards on your ship's upgrades",
-  "about_the_game": "<strong>Color Knight</strong> is a first person perspective action game with a unique color based combat system. You enter an open island with randomized enemies in order to destroy color crystals and earn currency - color shards. Look for items completely changing the way you play. Spend your shards on ship's upgrades, then go again on land. Every time different combat experience and enemies.<br><br>You are a color knight, entity created to protect the universe from hidden dark forces. Collect color shards from the energy crystals to power the world's engine - color heart maintaining balance.<br><br><strong>Features</strong><br>-Explore 3 different islands<br>-Destroy enemies in a color based combat<br>-Find items changing the way you play<br>-Every run is different, different enemies, different items<br>-Collect and spend color shards on your ship's upgrades",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 4,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -63,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

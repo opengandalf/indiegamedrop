@@ -3,8 +3,8 @@
   "name": "Any Castle",
   "slug": "any-castle",
   "developer": "Meowgic Studio",
-  "publisher": "Meowgic Studio",
-  "release_date": "May 28, 2025",
+  "publisher": "",
+  "release_date": "2025-05-28",
   "price_usd": 4.99,
   "genres": [
     "Casual"
@@ -15,37 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "This is a very relaxing and minimalist idle game. However, if you want to defeat the ultimate dragon or obtain the final treasure, you will still need to invest a lot of time and have great luck! Start your journey now!",
+  "short_description": "This is a very relaxing and minimalist idle game. However, if you want to defeat the ultimate dragon or obtain the final treasure, you will still need to invest a lot of time and have great luck! Star",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3429720/header.jpg?t=1748585076",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3429720/124e4cf045aae29db34e8e698cd2d0dd14a307dd/ss_124e4cf045aae29db34e8e698cd2d0dd14a307dd.600x338.jpg?t=1748585076",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3429720/ss_d75f2a0529f5f010af9e950ea10225674e2ca1c0.600x338.jpg?t=1748585076",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3429720/194a6b72310073121727d681476ea1bc655eacb4/ss_194a6b72310073121727d681476ea1bc655eacb4.600x338.jpg?t=1748585076",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3429720/ss_30471fcf6546967867bab3e24160c1db7afba7c2.600x338.jpg?t=1748585076",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3429720/ss_d10dbb2182b7901aa0ef9469ba30bdf481773355.600x338.jpg?t=1748585076",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3429720/ss_fbfa9133efad19ab7996d35d90db2271f1d54170.600x338.jpg?t=1748585076",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3429720/f0a3e04b402b31572e8202edb828e97778b7b509/ss_f0a3e04b402b31572e8202edb828e97778b7b509.600x338.jpg?t=1748585076"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>Defeat Monsters in Each Chapter and Level:</strong><br>When you enter a new chapter, you can use workers to produce materials dropped in that chapter. Clearing the chapter grants you more work slots. The resources produced can be used for further processing or directly for upgrading castle rooms.</p><p class=\"bb_paragraph\" ><strong>Upgrade Your Rooms:</strong><br>Every room in the castle can be upgraded. Resources collected on the battlefield can be processed in castle rooms. Different rooms unlock different resource processing. Upgrading the warrior room increases combat power, allowing you to defeat stronger monsters.</p><p class=\"bb_paragraph\" ><strong>Accept Commissions to Acquire Treasures:</strong><br>Treasures are refreshed through tasks. If you’re not satisfied, you can refresh the tasks with coins. As the treasure room is upgraded, the attributes of treasures can also be improved, unlocking more combination attributes. Assign treasures to your array to enhance other treasures, significantly speeding up your game progress. Monsters required for tasks can be defeated by idling in specific chapters.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>Defeat Monsters in Each Chapter and Level:</strong><br>When you enter a new chapter, you can use workers to produce materials dropped in that chapter. Clearing the chapter grants you more work slots. The resources produced can be used for further processing or directly for upgrading castle rooms.</p><p class=\"bb_paragraph\" ><strong>Upgrade Your Rooms:</strong><br>Every room in the castle can be upgraded. Resources collected on the battlefield can be processed in castle rooms. Different rooms unlock different resource processing. Upgrading the warrior room increases combat power, allowing you to defeat stronger monsters.</p><p class=\"bb_paragraph\" ><strong>Accept Commissions to Acquire Treasures:</strong><br>Treasures are refreshed through tasks. If you’re not satisfied, you can refresh the tasks with coins. As the treasure room is upgraded, the attributes of treasures can also be improved, unlocking more combination attributes. Assign treasures to your array to enhance other treasures, significantly speeding up your game progress. Monsters required for tasks can be defeated by idling in specific chapters.</p>",
-  "supported_languages": "English, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "LRRL or RLLR",
   "slug": "lrrl-or-rllr",
   "developer": "talalilulalilula",
-  "publisher": "talalilulalilula",
-  "release_date": "Jun 30, 2020",
+  "publisher": "",
+  "release_date": "2020-06-30",
   "price_usd": 3.0,
   "genres": [
     "Indie"
@@ -15,35 +15,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "LRRL or RLLR is a puzzle game in which you enjoy increasing your score by choosing left or right according to one recursive rule. You can enjoy it as long as you don't make the wrong choice. All choices are divided to the left or right when you start, and either contains all of your later choices.",
+  "short_description": "LRRL or RLLR is a puzzle game in which you enjoy increasing your score by choosing left or right according to one recursive rule. You can enjoy it as long as you don't make the wrong choice. All choic",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201520/header.jpg?t=1593529862",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201520/ss_a6d433ae27b72600102947b12a5f2adf86443633.600x338.jpg?t=1593529862",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201520/ss_5dfbdebc5d3da17165d5f2d16c0ae8cac78fff4b.600x338.jpg?t=1593529862",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201520/ss_55841c7d7e946d13cec905ba1a067cfa82825cec.600x338.jpg?t=1593529862",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201520/ss_4e31363f6e9268866ff2108d8fe87b8f0d5db936.600x338.jpg?t=1593529862",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201520/ss_4ae13298d1ec2877b80f88d6c3a6e39b972bd844.600x338.jpg?t=1593529862",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201520/ss_5ee19fa336fb38e1004da4fb8b147e928085493d.600x338.jpg?t=1593529862"
-  ],
-  "detailed_description": "Must be symmetric, To all those who think so.<br />\r\n<br />\r\nLRRL or RLLR is a puzzle game in which you enjoy increasing your score by choosing left or right according to one recursive rule. You can enjoy it as long as you don't make the wrong choice. All choices are divided to the left or right when you start, and either contains all of your later choices.<br />\r\nIf you start from the left, consider the left-right-right-left as one left and complete the next left-right-right-left. Repeat this process.<br />\r\ne.g. LRRL-RLLR-RLLR-LRRL...<br />\r\n       LRRLRLLRRLLRLRRL-RLLRLRRLLRRLRLLR-RLLRLRRLLRRLRLLR-LRRLRLLRRLLRLRRL...<br />\r\nIf you start from the right, consider the right-left-left-right as one right and complete the next right-left-left-right. Repeat this process.<br />\r\ne.g. RLLR-LRRL-LRRL-RLLR...<br />\r\n       RLLRLRRLLRRLRLLR-LRRLRLLRRLLRLRRL-LRRLRLLRRLLRLRRL-RLLRLRRLLRRLRLLR...<br />\r\n<br />\r\nYou can keep correcting choice bias. Please make your choice.<br />\r\nLeft or Right.",
-  "about_the_game": "Must be symmetric, To all those who think so.<br />\r\n<br />\r\nLRRL or RLLR is a puzzle game in which you enjoy increasing your score by choosing left or right according to one recursive rule. You can enjoy it as long as you don't make the wrong choice. All choices are divided to the left or right when you start, and either contains all of your later choices.<br />\r\nIf you start from the left, consider the left-right-right-left as one left and complete the next left-right-right-left. Repeat this process.<br />\r\ne.g. LRRL-RLLR-RLLR-LRRL...<br />\r\n       LRRLRLLRRLLRLRRL-RLLRLRRLLRRLRLLR-RLLRLRRLLRRLRLLR-LRRLRLLRRLLRLRRL...<br />\r\nIf you start from the right, consider the right-left-left-right as one right and complete the next right-left-left-right. Repeat this process.<br />\r\ne.g. RLLR-LRRL-LRRL-RLLR...<br />\r\n       RLLRLRRLLRRLRLLR-LRRLRLLRRLLRLRRL-LRRLRLLRRLLRLRRL-RLLRLRRLLRRLRLLR...<br />\r\n<br />\r\nYou can keep correcting choice bias. Please make your choice.<br />\r\nLeft or Right.",
-  "supported_languages": "English, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 3,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 33.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 33.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 33.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

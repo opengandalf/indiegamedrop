@@ -3,8 +3,8 @@
   "name": "Alone A Long",
   "slug": "alone-a-long",
   "developer": "konohenoheya",
-  "publisher": "konohenoheya",
-  "release_date": "Nov 2, 2024",
+  "publisher": "",
+  "release_date": "2024-11-02",
   "price_usd": 3.35,
   "genres": [
     "Strategy"
@@ -15,34 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "In a world where you are alone, you repeat your daily routine in a nonchalant and somewhat joyful manner. A simulation game to maintain civilization The objective is to maintain civilization until the day when you can no longer move.",
+  "short_description": "In a world where you are alone, you repeat your daily routine in a nonchalant and somewhat joyful manner. A simulation game to maintain civilization The objective is to maintain civilization until the",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3253310/header.jpg?t=1730702060",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3253310/ss_efc8a061a46ef4c52d73500d4c818cafbaf2f60c.600x338.jpg?t=1730702060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3253310/ss_f84d80f7afd61081fde4f5a24d135dd6ea873d3e.600x338.jpg?t=1730702060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3253310/ss_4a24ec845cf3048f1867d982ad858fff999df88d.600x338.jpg?t=1730702060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3253310/ss_b402e24e2a012676ff005342d690f9f33864508d.600x338.jpg?t=1730702060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3253310/ss_38464fb8a8bb4f7763f775a6f82d73266282d7f4.600x338.jpg?t=1730702060"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>Summary</strong></p><p class=\"bb_paragraph\" >In a world where you are alone, you repeat your daily life in a nonchalant and somewhat joyful manner.</p><p class=\"bb_paragraph\" >A simulation game about maintaining civilization.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Gameplay</strong></p><p class=\"bb_paragraph\" >The objective is to maintain civilization until the day when you can no longer move.</p><p class=\"bb_paragraph\" >The player chooses the next action, and the character just repeats the action.</p><p class=\"bb_paragraph\" >After time passes, things begin to fade away, but as long as they are repeated, they will remain.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Estimated playing time</strong>:</p><p class=\"bb_paragraph\" >1 hour or less</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>Summary</strong></p><p class=\"bb_paragraph\" >In a world where you are alone, you repeat your daily life in a nonchalant and somewhat joyful manner.</p><p class=\"bb_paragraph\" >A simulation game about maintaining civilization.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Gameplay</strong></p><p class=\"bb_paragraph\" >The objective is to maintain civilization until the day when you can no longer move.</p><p class=\"bb_paragraph\" >The player chooses the next action, and the character just repeats the action.</p><p class=\"bb_paragraph\" >After time passes, things begin to fade away, but as long as they are repeated, they will remain.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Estimated playing time</strong>:</p><p class=\"bb_paragraph\" >1 hour or less</p>",
-  "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 3,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 33.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 33.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

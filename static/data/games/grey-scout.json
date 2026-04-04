@@ -3,8 +3,8 @@
   "name": "Grey Scout",
   "slug": "grey-scout",
   "developer": "Sokpop Collective",
-  "publisher": "Sokpop Collective",
-  "release_date": "Oct 22, 2020",
+  "publisher": "",
+  "release_date": "2020-10-22",
   "price_usd": 1.49,
   "genres": [
     "Adventure",
@@ -20,54 +20,27 @@
   ],
   "short_description": "An atmospheric stealth game set on a rainy island. Step out of your boat, sneak through the lush meadows, and try to rescue as many guarded friends!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442390/header.jpg?t=1726497557",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442390/ss_4011b12bb9ebfbea83ed39d50add1b66da5b89da.600x338.jpg?t=1726497557",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442390/ss_9074d8b456d7d7d7dac3a297d65360b246c475f2.600x338.jpg?t=1726497557",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442390/ss_301e623d185fc9d20562080127acc1e17e143083.600x338.jpg?t=1726497557",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442390/ss_d1b3b1d2ec975baed34c6ed2ec267d280b7b88aa.600x338.jpg?t=1726497557",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442390/ss_a15d58bd44f8a505e7d4b692500bd7bc797c7eed.600x338.jpg?t=1726497557"
-  ],
-  "detailed_description": "<h1>Coming soon - Grunn!</h1><p></p><br><h1>About the Game</h1>Grey Scout is an atmospheric stealth game set on a rainy island. Step out of your boat, sneak through the lush meadows, and try to rescue as many guarded friends!<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442390/extras/a645935ad1bc9503bfd793e8c08be94a.poster.avif?t=1726497557\" width=350 height=214 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442390/extras/a645935ad1bc9503bfd793e8c08be94a.webm?t=1726497557\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442390/extras/a645935ad1bc9503bfd793e8c08be94a.mp4?t=1726497557\" type=\"video/mp4\"></video></span><br><br><ul class=\"bb_ul\"><li> 15-30 minutes of playtime.<br></li><li> A simple, but dynamic, stealth mechanic.<br></li><li> A lush island to explore.<br></li><li> Cool procedural animations.<br></li><li> 10 friends to find and rescue.<br></li><li> 5 extra collectibles to find.</li></ul>",
-  "about_the_game": "Grey Scout is an atmospheric stealth game set on a rainy island. Step out of your boat, sneak through the lush meadows, and try to rescue as many guarded friends!<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442390/extras/a645935ad1bc9503bfd793e8c08be94a.poster.avif?t=1726497557\" width=350 height=214 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442390/extras/a645935ad1bc9503bfd793e8c08be94a.webm?t=1726497557\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442390/extras/a645935ad1bc9503bfd793e8c08be94a.mp4?t=1726497557\" type=\"video/mp4\"></video></span><br><br><ul class=\"bb_ul\"><li> 15-30 minutes of playtime.<br></li><li> A simple, but dynamic, stealth mechanic.<br></li><li> A lush island to explore.<br></li><li> Cool procedural animations.<br></li><li> 10 friends to find and rescue.<br></li><li> 5 extra collectibles to find.</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.8395,
   "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 30,
-  "review_positive": 27,
+  "review_positive": 0,
   "review_percentage": 90.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 27,
-      "review_percentage": 88.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 30,
       "review_percentage": 90.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

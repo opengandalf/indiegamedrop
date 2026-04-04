@@ -3,8 +3,8 @@
   "name": "Boxed-In",
   "slug": "boxed-in",
   "developer": "Niche Games",
-  "publisher": "Niche Games",
-  "release_date": "Dec 9, 2021",
+  "publisher": "",
+  "release_date": "2021-12-09",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -21,33 +21,15 @@
   ],
   "short_description": "Boxed-In is a small action puzzle game where you trap little enemies by surrounding them with blocks. Move fast or be eaten.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1502060/header.jpg?t=1651258219",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1502060/ss_910641917b468b444ec23c3fc019454c1b4f1328.600x338.jpg?t=1651258219",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1502060/ss_c2be0e16c4ed1e1eec9800774308f9a37e04a278.600x338.jpg?t=1651258219",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1502060/ss_86e9f23a58ecb6dff1d74863e8e10d08b0f1126a.600x338.jpg?t=1651258219",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1502060/ss_66f2f645eece9e7b046d4d776145a8584477b48c.600x338.jpg?t=1651258219",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1502060/ss_1b4a4cec45785fea2d5a3cc56fb058869e83cb1d.600x338.jpg?t=1651258219"
-  ],
-  "detailed_description": "Story-free, simple action-puzzle game where you trap enemies who are trying to eat you by surrounding them with blocks on all side while avoiding enemies. Each level you complete will have you advancing to the next level where you'll trap additional enemies. With simple mechanics you'll find yourself eventually facing a hoard of enemies blocking your every path. Different game modes will give you a variation of game play and leaderboards will let you know where you rank.",
-  "about_the_game": "Story-free, simple action-puzzle game where you trap enemies who are trying to eat you by surrounding them with blocks on all side while avoiding enemies. Each level you complete will have you advancing to the next level where you'll trap additional enemies. With simple mechanics you'll find yourself eventually facing a hoard of enemies blocking your every path. Different game modes will give you a variation of game play and leaderboards will let you know where you rank.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.7000000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 14,
-  "review_positive": 10,
+  "review_positive": 0,
   "review_percentage": 71.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 11,
-      "review_percentage": 81.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 14,
       "review_percentage": 71.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

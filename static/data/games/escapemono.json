@@ -3,8 +3,8 @@
   "name": "EscapeMONO",
   "slug": "escapemono",
   "developer": "Guu, Nekoza",
-  "publisher": "Guu, Nekoza",
-  "release_date": "Dec 1, 2023",
+  "publisher": "",
+  "release_date": "2023-12-01",
   "price_usd": 2.09,
   "genres": [
     "Adventure",
@@ -19,39 +19,15 @@
   ],
   "short_description": "Point & click to interact with strange creatures, find items, and solve puzzles in a dark, locked lab. Then just escape...?",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438930/header.jpg?t=1755487344",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438930/ss_e3adc1e324bad7267a64ece71c877ec78a61b5b7.600x338.jpg?t=1755487344",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438930/ss_2bbde73f8576195e99cd2744bd36ef07a3ceaf9b.600x338.jpg?t=1755487344",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438930/ss_7dcd714c72c439e230fe1df67e8434d264d3e214.600x338.jpg?t=1755487344",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438930/ss_543e7731e4a76463dd31cba9e1c66cf8fec3698e.600x338.jpg?t=1755487344",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438930/ss_85ee43eb38efd73cf6fde5900c459442666ca889.600x338.jpg?t=1755487344"
-  ],
-  "detailed_description": "<strong>Story:</strong><br>Locked rooms, strange creatures.<br>You know this is not a good place to stay long.<br>Probably it won't be too difficult to escape. <br>But you need to do something important before you go...<br><br><strong>Gameplay:</strong><br>This is an escape room game with black and white pixel art style.<br>You will be exploring in a dark laboratory. <br>You can point & click to find clues, pick up items, and interact with strange creatures.<br>Try figure out every password, unlock the doors and solve the puzzles, and find a way out.<br><br><strong>Saving system:</strong><br>The game can be saved and exited at any time from the settings menu.<br>Start game from beginning will clear previous progress.<br>Load game after ending will start from the last scene before the ending.",
-  "about_the_game": "<strong>Story:</strong><br>Locked rooms, strange creatures.<br>You know this is not a good place to stay long.<br>Probably it won't be too difficult to escape. <br>But you need to do something important before you go...<br><br><strong>Gameplay:</strong><br>This is an escape room game with black and white pixel art style.<br>You will be exploring in a dark laboratory. <br>You can point & click to find clues, pick up items, and interact with strange creatures.<br>Try figure out every password, unlock the doors and solve the puzzles, and find a way out.<br><br><strong>Saving system:</strong><br>The game can be saved and exited at any time from the settings menu.<br>Start game from beginning will clear previous progress.<br>Load game after ending will start from the last scene before the ending.",
-  "supported_languages": "English, Japanese, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Color Alternatives",
-    "Custom Volume Controls",
-    "Mouse Only Option",
-    "Playable without Timed Input",
-    "Save Anytime",
-    "Touch Only Option",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.30000000000000004,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 6,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

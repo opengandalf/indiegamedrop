@@ -3,8 +3,8 @@
   "name": "Animal Match",
   "slug": "animal-match",
   "developer": "matchdev23",
-  "publisher": "matchdev23",
-  "release_date": "Oct 19, 2021",
+  "publisher": "",
+  "release_date": "2021-10-19",
   "price_usd": 0.87,
   "genres": [
     "Indie"
@@ -15,34 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Animal Match is a simple match 3 game, drag the screen, drag the animal icon to get a high score. Made in Construct 2. Enjoy your game!The game has nice graphics and music.Collect as much jelly as possible and how to get more points.Forward!",
+  "short_description": "Animal Match is a simple match 3 game, drag the screen, drag the animal icon to get a high score. Made in Construct 2. Enjoy your game!The game has nice graphics and music.Collect as much jelly as pos",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782790/header.jpg?t=1634629747",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782790/ss_c61b892b9089a49b8b2f3d41e69b12a528a82d08.600x338.jpg?t=1634629747",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782790/ss_d52cc6843e65aa2ebef13a31b34c1400e8ab0b70.600x338.jpg?t=1634629747",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782790/ss_6adfe004bca70044b9e18df8443b0e81b7dc43ac.600x338.jpg?t=1634629747",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782790/ss_9f8ab7fc53bcdc397d6e34c8bafd77a4442e609e.600x338.jpg?t=1634629747",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782790/ss_a98de06d6906fdc936d713fe2b51056b8424f7eb.600x338.jpg?t=1634629747"
-  ],
-  "detailed_description": "<strong>Animal Match</strong> is a simple match 3 game, drag the screen, drag the animal icon to get a high score. Made in Construct 2. Enjoy your game!<br><br>The game has nice graphics and music.<br>Collect as much jelly as possible and how to get more points.<br>Forward!<br><br>The game is waiting for you:<br>- a lot of jelly<br>- Pleasant music<br>- set of points<br><br><strong>Animal Match</strong> is a great time killer.",
-  "about_the_game": "<strong>Animal Match</strong> is a simple match 3 game, drag the screen, drag the animal icon to get a high score. Made in Construct 2. Enjoy your game!<br><br>The game has nice graphics and music.<br>Collect as much jelly as possible and how to get more points.<br>Forward!<br><br>The game is waiting for you:<br>- a lot of jelly<br>- Pleasant music<br>- set of points<br><br><strong>Animal Match</strong> is a great time killer.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.4,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 8,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 8,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

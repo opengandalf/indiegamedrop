@@ -3,8 +3,8 @@
   "name": "dontbegrey",
   "slug": "dontbegrey",
   "developer": "Evgeny Petrov",
-  "publisher": "Not a Prototype games",
-  "release_date": "Aug 15, 2017",
+  "publisher": "",
+  "release_date": "2017-08-15",
   "price_usd": 0.49,
   "genres": [
     "Action",
@@ -20,36 +20,9 @@
   ],
   "short_description": "dontbegrey is a minimalistic hardcore platformer with experimental color-themed mechanics, where you can choose what is an obstacle and what is the background.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681490/header.jpg?t=1572328700",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681490/ss_d800ed3994370cd5880c9e1f2198d7c63c06825f.600x338.jpg?t=1572328700",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681490/ss_10b760cc463c9641c78dedc7f98eb9a8afc63b01.600x338.jpg?t=1572328700",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681490/ss_79faf4a7b277e21bef0ca1a1aeab9cc10ee7a5e0.600x338.jpg?t=1572328700",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681490/ss_b728ab636224243e7df4c729f4e126b37d0f9c0d.600x338.jpg?t=1572328700",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681490/ss_c6b39ca68b1f49f4746770a0f8fefd4b03c1979b.600x338.jpg?t=1572328700",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681490/ss_c9868b4300fbd9c857f200521d01d83e7aa5ad83.600x338.jpg?t=1572328700"
-  ],
-  "detailed_description": "dontbegrey is a minimalistic hardcore platformer with experimental color-themed mechanics.<br>The main feature is the ability to change what is an obstacle and what is the background.<br><br>What's inside:<br><ul class=\"bb_ul\">> 8 colors</ul><ul class=\"bb_ul\">> more than 35 levels</ul><ul class=\"bb_ul\">> computer-composed music</ul><ul class=\"bb_ul\">> about 3 hours of gameplay (about 30 minutes for ultra-pro speedrunners)</ul><ul class=\"bb_ul\">> linux and windows support</ul><ul class=\"bb_ul\">> external level editor (python3 script)</ul><br>The game was written in haxe, using openfl framework.<br>The music was composed by music artificial intelligence on jukedeck.",
-  "about_the_game": "dontbegrey is a minimalistic hardcore platformer with experimental color-themed mechanics.<br>The main feature is the ability to change what is an obstacle and what is the background.<br><br>What's inside:<br><ul class=\"bb_ul\">> 8 colors</ul><ul class=\"bb_ul\">> more than 35 levels</ul><ul class=\"bb_ul\">> computer-composed music</ul><ul class=\"bb_ul\">> about 3 hours of gameplay (about 30 minutes for ultra-pro speedrunners)</ul><ul class=\"bb_ul\">> linux and windows support</ul><ul class=\"bb_ul\">> external level editor (python3 script)</ul><br>The game was written in haxe, using openfl framework.<br>The music was composed by music artificial intelligence on jukedeck.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Stats",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 32,
-  "review_positive": 20,
+  "review_positive": 0,
   "review_percentage": 62.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +30,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 32,
-      "review_percentage": 62.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 32,
       "review_percentage": 62.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

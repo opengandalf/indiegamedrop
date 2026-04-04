@@ -3,8 +3,8 @@
   "name": "Dream City",
   "slug": "dream-city",
   "developer": "Dream City",
-  "publisher": "Dream City",
-  "release_date": "Jul 1, 2024",
+  "publisher": "",
+  "release_date": "2024-07-01",
   "price_usd": 29.99,
   "genres": [
     "Casual",
@@ -19,32 +19,15 @@
   ],
   "short_description": "This game transports you to a world of fantasy and color",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3042840/header.jpg?t=1719889365",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3042840/ss_5d26b3c056d74bd1f5c134e5d19269e02e2c9260.600x338.jpg?t=1719889365",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3042840/ss_eb554d570bf020cfdf78b004b742efaeee0d8791.600x338.jpg?t=1719889365",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3042840/ss_77a2af01f3f9cf8525b2d856317307faac319e7b.600x338.jpg?t=1719889365",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3042840/ss_131af66607a42469eedbd386fe17c125906571dc.600x338.jpg?t=1719889365",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3042840/ss_ad73b0e5d0f7cd01dbd25cf885c962aa119d4f9a.600x338.jpg?t=1719889365"
-  ],
-  "detailed_description": "This game transports you to a world of fantasy and color, where your sprite protagonist bounces through lush forests in high definition. The visuals are a feast for the eyes, with crisp details and vivid colors in every frame. The soundtrack is lively and nimble, blending sounds of jumping and experience collection to create an atmosphere brimming with vitality.<br />\r\n<br />\r\nThe gameplay centers on guiding the sprite to dodge obstacles and attacks while collecting scattered experience points to rack up higher scores. There's no finish line; the goal is simply to go as far as possible and score as much as you can. Behind its simple controls lies endless fun and challenge, making it utterly addictive.",
-  "about_the_game": "This game transports you to a world of fantasy and color, where your sprite protagonist bounces through lush forests in high definition. The visuals are a feast for the eyes, with crisp details and vivid colors in every frame. The soundtrack is lively and nimble, blending sounds of jumping and experience collection to create an atmosphere brimming with vitality.<br />\r\n<br />\r\nThe gameplay centers on guiding the sprite to dodge obstacles and attacks while collecting scattered experience points to rack up higher scores. There's no finish line; the goal is simply to go as far as possible and score as much as you can. Behind its simple controls lies endless fun and challenge, making it utterly addictive.",
-  "supported_languages": "Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 5,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 40.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 25.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 40.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

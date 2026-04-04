@@ -3,8 +3,8 @@
   "name": "Betelgeuse",
   "slug": "betelgeuse",
   "developer": "Brainstorm Software",
-  "publisher": "Brainstorm Software",
-  "release_date": "May 31, 2020",
+  "publisher": "",
+  "release_date": "2020-05-31",
   "price_usd": 0.0,
   "genres": [
     "Indie",
@@ -17,58 +17,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Betelgeuse is a mind-bending puzzle game where simple rules create complicated puzzles. At the beginning it should be easy for everyone, but later on it's getting really challenging. It consists of six chapters where rules are completely different.",
+  "short_description": "Betelgeuse is a mind-bending puzzle game where simple rules create complicated puzzles. At the beginning it should be easy for everyone, but later on it's getting really challenging. It consists of si",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1244530/header.jpg?t=1704992163",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1244530/ss_18569edf9cf9846e971ff86664d4d27bad228c18.600x338.jpg?t=1704992163",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1244530/ss_a7422d6d59ba4cd3f8532c01840b734a6670c957.600x338.jpg?t=1704992163",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1244530/ss_07a2f6b299700b5a91657ebb79c77f281443779a.600x338.jpg?t=1704992163",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1244530/ss_75284e87f966252d01033eb2a3892341dd991be2.600x338.jpg?t=1704992163",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1244530/ss_0e66c858d9cef64d071849b8539ffd30d09d19f1.600x338.jpg?t=1704992163",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1244530/ss_1b5a47e310802eddca6b2c8736e40422a2977df5.600x338.jpg?t=1704992163"
-  ],
-  "detailed_description": "Betelgeuse is a mind-bending puzzle game where simple rules create complicated puzzles. At the beginning it should be easy for everyone, but later on it's getting really challenging. It consists of six chapters where rules are completely different. Prepare for 360 puzzles in 18 chapters in total and at least 10 hours of gameplay.<br />\r\n<br />\r\nBetelgeuse is also name of a star in Orion constellation. A star that will probably explode soon forming a supernova. Your task is to activate the mechanism that will lead to it.",
-  "about_the_game": "Betelgeuse is a mind-bending puzzle game where simple rules create complicated puzzles. At the beginning it should be easy for everyone, but later on it's getting really challenging. It consists of six chapters where rules are completely different. Prepare for 360 puzzles in 18 chapters in total and at least 10 hours of gameplay.<br />\r\n<br />\r\nBetelgeuse is also name of a star in Orion constellation. A star that will probably explode soon forming a supernova. Your task is to activate the mechanism that will lead to it.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
-  "gem_score": 0.8243,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 2.45,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 49,
-  "review_positive": 47,
+  "review_positive": 0,
   "review_percentage": 95.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 48,
-      "review_percentage": 95.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 49,
       "review_percentage": 95.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

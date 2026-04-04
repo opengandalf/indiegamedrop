@@ -3,8 +3,8 @@
   "name": "Billy",
   "slug": "billy",
   "developer": "Gianni sarmiento",
-  "publisher": "Gianni Sarmiento",
-  "release_date": "Feb 3, 2020",
+  "publisher": "",
+  "release_date": "2020-02-03",
   "price_usd": 7.99,
   "genres": [
     "Adventure",
@@ -19,33 +19,15 @@
   ],
   "short_description": "Take control of Billy and Polly as you make your way through a colorful and challenging world full of precision platforming goodness.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765520/header.jpg?t=1580803692",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765520/ss_40a0b4ded4eac3728a4a3484594029268b076461.600x338.jpg?t=1580803692",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765520/ss_601c84ae9bd7ffbe7cd6b09371d7a5fe86961dc2.600x338.jpg?t=1580803692",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765520/ss_dc80cc895e61d99d78c5af409a4063151c7a91ff.600x338.jpg?t=1580803692",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765520/ss_88daa6bb760689b8fbc8e227a59d7077b4b4ce76.600x338.jpg?t=1580803692",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765520/ss_1367005079156cb1860b52dc2a7f94eeebe849df.600x338.jpg?t=1580803692"
-  ],
-  "detailed_description": "Billy is a fun puzzle game in which you control two characters that help each other by mastering a switching mechanic that helps you reach new places. Ultra fast respawns keep the pace up as you make your way through a colorful world full of challenging platforming! Can you make it to the end?<br />\r\n<br />\r\nContains an autosave feature<br />\r\nOriginal music by M. Lee White",
-  "about_the_game": "Billy is a fun puzzle game in which you control two characters that help each other by mastering a switching mechanic that helps you reach new places. Ultra fast respawns keep the pace up as you make your way through a colorful world full of challenging platforming! Can you make it to the end?<br />\r\n<br />\r\nContains an autosave feature<br />\r\nOriginal music by M. Lee White",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

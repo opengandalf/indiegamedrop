@@ -3,8 +3,8 @@
   "name": "Escape The Tank",
   "slug": "escape-the-tank",
   "developer": "Beelson516",
-  "publisher": "self published",
-  "release_date": "Feb 24, 2021",
+  "publisher": "",
+  "release_date": "2021-02-24",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -19,32 +19,15 @@
   ],
   "short_description": "a simple 3d platform game set inside a fish tank. the aim of the game is to escape the tank by exploring the surroundings, avoiding hazards, solving problems and traversing platforms.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444370/header.jpg?t=1675652247",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444370/ss_05208612950cce987af6a40c5728c24e1eea0bef.600x338.jpg?t=1675652247",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444370/ss_af0213a5e99aa2d7cd0d37f83eebed424da43191.600x338.jpg?t=1675652247",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444370/ss_817441d6d0498b694766ba7e62976a43992c6525.600x338.jpg?t=1675652247",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444370/ss_16c96f86aaae1d61c93640628f6699fd7feb8624.600x338.jpg?t=1675652247",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444370/ss_0c5bf11aa10edc2d0da390f99ac9d328bd8c3ec5.600x338.jpg?t=1675652247"
-  ],
-  "detailed_description": "solo project, this is the first game i have ever made and is the result of teaching myself how to use a game engine.<br />\r\n<br />\r\nthis is a simple 3d platform game set inside a fish tank.<br />\r\n<br />\r\n16 levels to play through <br />\r\nExplore the tank, avoid dangers, solve problems and jump around to find your way out. <br />\r\nPretty simple but surprisingly fun to play.<br />\r\n<br />\r\nthis game is no triple-A blockbuster, but i am hoping this simple game might inspire others to try and learn developing as well. <br />\r\nEven though it is technically fully released, i intend to continually improve on this game over time as i learn new things.<br />\r\n<br />\r\nthank you for your consideration :)",
-  "about_the_game": "solo project, this is the first game i have ever made and is the result of teaching myself how to use a game engine.<br />\r\n<br />\r\nthis is a simple 3d platform game set inside a fish tank.<br />\r\n<br />\r\n16 levels to play through <br />\r\nExplore the tank, avoid dangers, solve problems and jump around to find your way out. <br />\r\nPretty simple but surprisingly fun to play.<br />\r\n<br />\r\nthis game is no triple-A blockbuster, but i am hoping this simple game might inspire others to try and learn developing as well. <br />\r\nEven though it is technically fully released, i intend to continually improve on this game over time as i learn new things.<br />\r\n<br />\r\nthank you for your consideration :)",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

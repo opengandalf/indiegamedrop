@@ -3,8 +3,8 @@
   "name": "TrueScale",
   "slug": "truescale",
   "developer": "Immersion",
-  "publisher": "Immersion",
-  "release_date": "Oct 26, 2017",
+  "publisher": "",
+  "release_date": "2017-10-26",
   "price_usd": 19.99,
   "genres": [
     "Design & Illustration",
@@ -17,35 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "TrueScale is a groundbreaking interior design tool that can simultaneously create 2D floor plans, 3D mockups, and full room-scale environments in VR. With TrueScale, anyone can design their house, office or apartment in minutes, and then virtually experience it first-hand in real scale.",
+  "short_description": "TrueScale is a groundbreaking interior design tool that can simultaneously create 2D floor plans, 3D mockups, and full room-scale environments in VR. With TrueScale, anyone can design their house, off",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621500/header.jpg?t=1510660223",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621500/ss_b412e20d9e1c3c5801878394b7607e10826123e3.600x338.jpg?t=1510660223",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621500/ss_57bf9203146f2ce9fb6d072b7be68a10a63d81e2.600x338.jpg?t=1510660223",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621500/ss_fbfdd4143e4e6e9ac80f3064f38d30dafc76cdd1.600x338.jpg?t=1510660223",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621500/ss_eb3bb2d2a71eb22203870f80cf628bb573f1b41c.600x338.jpg?t=1510660223",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621500/ss_f78316fa811ada5a7840ea67b69d5b9e78941f9f.600x338.jpg?t=1510660223",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621500/ss_5d83d04849e94e614bbc691f58e0a802d3e93f6e.600x338.jpg?t=1510660223"
-  ],
-  "detailed_description": "TrueScale is a groundbreaking interior design tool that can simultaneously create 2D floor plans, 3D mockups, and full room-scale environments in VR. With TrueScale, anyone can design their house, office or apartment in minutes, and then virtually experience it first-hand in real scale. Additionally, this particular version of TrueScale leverages Wayfair’s 3D model API, enabling users to furnish their designs from a robust catalog of actual furniture and décor. <br />\r\n<br />\r\nAs the user creates, the app automatically generates a replicated 3D environment so that they can instantly be transported into their designs using a VR headset. By entering the real scale model, users gain a sense of depth that cannot be achieved through traditional renders, and with Vive’s room-scale technology, users have the freedom to walk around and explore a design space while making changes in real time. Using VR in this stage of the design process allows the user to gain a realistic picture of the final design as opposed to relying on their imagination, blueprints or story boards.",
-  "about_the_game": "TrueScale is a groundbreaking interior design tool that can simultaneously create 2D floor plans, 3D mockups, and full room-scale environments in VR. With TrueScale, anyone can design their house, office or apartment in minutes, and then virtually experience it first-hand in real scale. Additionally, this particular version of TrueScale leverages Wayfair’s 3D model API, enabling users to furnish their designs from a robust catalog of actual furniture and décor. <br />\r\n<br />\r\nAs the user creates, the app automatically generates a replicated 3D environment so that they can instantly be transported into their designs using a VR headset. By entering the real scale model, users gain a sense of depth that cannot be achieved through traditional renders, and with Vive’s room-scale technology, users have the freedom to walk around and explore a design space while making changes in real time. Using VR in this stage of the design process allows the user to gain a realistic picture of the final design as opposed to relying on their imagination, blueprints or story boards.",
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Japanese, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 38,
-  "review_positive": 15,
+  "review_positive": 0,
   "review_percentage": 39.5,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -53,26 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 37,
-      "review_percentage": 40.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 38,
-      "review_percentage": 39.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 38,
       "review_percentage": 39.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

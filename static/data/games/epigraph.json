@@ -3,8 +3,8 @@
   "name": "Epigraph",
   "slug": "epigraph",
   "developer": "Matthew Brown",
-  "publisher": "Matthew Brown",
-  "release_date": "Feb 19, 2024",
+  "publisher": "",
+  "release_date": "2024-02-19",
   "price_usd": 0.89,
   "genres": [
     "Indie"
@@ -17,55 +17,27 @@
   ],
   "short_description": "Epigraph is a short, challenging, language decipherment puzzle game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2789770/header.jpg?t=1708365067",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2789770/ss_04f795403abf347e98d15a13ec12710ae5c03cef.600x338.jpg?t=1708365067",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2789770/ss_5ad8308c6a90019631072120dad7e1c189ae1663.600x338.jpg?t=1708365067",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2789770/ss_469b09fd11806c8d84b8d74b3e7a259aa48dc086.600x338.jpg?t=1708365067",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2789770/ss_fc471af8de2ed213790643c9dc3b52563498dd5f.600x338.jpg?t=1708365067",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2789770/ss_f77fa4bd4aded7d61a7e95d2a7f5cca3e7b085bd.600x338.jpg?t=1708365067"
-  ],
-  "detailed_description": "<strong>Epigraph is a short, challenging, language decipherment puzzle game.</strong><br><br>Study the inscriptions across 7 artifacts to;<br><br><ul class=\"bb_ul\"><li>Analyze patterns<br></li><li>Deduce the meanings of images and symbols<br></li><li>Cross reference with given information</li></ul><br>and enter your translations to attempt to uncover the secrets of the Nari.",
-  "about_the_game": "<strong>Epigraph is a short, challenging, language decipherment puzzle game.</strong><br><br>Study the inscriptions across 7 artifacts to;<br><br><ul class=\"bb_ul\"><li>Analyze patterns<br></li><li>Deduce the meanings of images and symbols<br></li><li>Cross reference with given information</li></ul><br>and enter your translations to attempt to uncover the secrets of the Nari.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 244,
-  "rising_score": 0.0027,
-  "gem_score": 0.5637,
+  "screenshots": [],
+  "rising_score": 0.0001,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 106.0,
+  "review_velocity_7d": 12.450000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 249,
-  "review_positive": 229,
+  "review_positive": 0,
   "review_percentage": 92.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "rising",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 143,
-      "review_percentage": 92.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 249,
       "review_percentage": 92.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

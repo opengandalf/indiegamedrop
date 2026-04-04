@@ -3,8 +3,8 @@
   "name": "12 Hours to Die",
   "slug": "12-hours-to-die",
   "developer": "Wesley Reitsma",
-  "publisher": "Westeford",
-  "release_date": "Jul 5, 2020",
+  "publisher": "",
+  "release_date": "2020-07-05",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -23,31 +23,15 @@
   ],
   "short_description": "A mystery visual novel about six students forced to play a 12-hour long killing game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1345080/header.jpg?t=1593954128",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1345080/ss_48856b425fb30443b7d711f370a44b3cb868a892.600x338.jpg?t=1593954128",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1345080/ss_e2b7f3cd1f3983c0c481fa200b416a27a81746eb.600x338.jpg?t=1593954128",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1345080/ss_75f2904f8d72996e8069816ab74c3b3088bc14c5.600x338.jpg?t=1593954128",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1345080/ss_6b2e05fe783559ef6c220c1f3cdb437edefd7cfb.600x338.jpg?t=1593954128",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1345080/ss_3f4b47cdc06673661fb61f97972ead627e79ac21.600x338.jpg?t=1593954128"
-  ],
-  "detailed_description": "It's the last day of school for Plymouth Academy, but what should be a joyous day quickly turns into a nightmare. Six high school students suddenly find themselves trapped inside their school. To make matters worse, they only have 12 hours to escape before they are all killed through asphyxiation. They are offered only one way to escape: murder one of the other trapped students and get away with it.<br />\r\n<br />\r\nCan you unravel the many mysteries that await you?",
-  "about_the_game": "It's the last day of school for Plymouth Academy, but what should be a joyous day quickly turns into a nightmare. Six high school students suddenly find themselves trapped inside their school. To make matters worse, they only have 12 hours to escape before they are all killed through asphyxiation. They are offered only one way to escape: murder one of the other trapped students and get away with it.<br />\r\n<br />\r\nCan you unravel the many mysteries that await you?",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0001,
+  "screenshots": [],
+  "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 8.0,
+  "review_velocity_7d": 11.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 225,
-  "review_positive": 166,
+  "review_positive": 0,
   "review_percentage": 73.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,26 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 217,
-      "review_percentage": 73.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 225,
-      "review_percentage": 73.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 225,
       "review_percentage": 73.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

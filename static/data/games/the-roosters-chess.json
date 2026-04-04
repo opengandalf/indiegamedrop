@@ -3,8 +3,8 @@
   "name": "The Rooster's Chess",
   "slug": "the-roosters-chess",
   "developer": "The Rooster's Chess",
-  "publisher": "The Rooster's Chess",
-  "release_date": "Sep 28, 2020",
+  "publisher": "",
+  "release_date": "2020-09-28",
   "price_usd": 0.0,
   "genres": [
     "Free To Play",
@@ -21,31 +21,9 @@
   ],
   "short_description": "Chess game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356470/header.jpg?t=1640871592",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356470/ss_db8385bd5ee0d591a3140f8cf7276201738539bf.600x338.jpg?t=1640871592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356470/ss_427e394847a4947bcc6a9e2181b51f908a08b2ec.600x338.jpg?t=1640871592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356470/ss_3f74858919fbac00f7cbdeccf032777c869129fc.600x338.jpg?t=1640871592",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356470/ss_85fafe61c699ce18e9399d52aad79a92f4b5cf2b.600x338.jpg?t=1640871592"
-  ],
-  "detailed_description": "Chess game.",
-  "about_the_game": "Chess game.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 8,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 8,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

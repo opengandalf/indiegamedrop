@@ -3,8 +3,8 @@
   "name": "NodeRunner",
   "slug": "noderunner",
   "developer": "AaronBacon",
-  "publisher": "AaronBacon",
-  "release_date": "Mar 8, 2024",
+  "publisher": "",
+  "release_date": "2024-03-08",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -21,33 +21,9 @@
   ],
   "short_description": "Jump from Node to Node while surviving the Chasers onslaught. Keep moving, Keep Upgrading, and don't get terminated.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850830/header.jpg?t=1710352875",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850830/ss_2455a312a0de3549a16d5c1654f80485e93c0c94.600x338.jpg?t=1710352875",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850830/ss_8cedb8c4cfbc6f45e93a0f6822c1d8f8194506d2.600x338.jpg?t=1710352875",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850830/ss_c12d2d3c2da1b786adab1f2ef6012b9a6de1a834.600x338.jpg?t=1710352875",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850830/ss_ce9f07264ab883242634ce1777e6d8b36563292c.600x338.jpg?t=1710352875",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850830/ss_612e9e58d1fd51c2bc002453c8b2d065962c82b9.600x338.jpg?t=1710352875"
-  ],
-  "detailed_description": "NodeRunner is a Physics-based Roguelike Arcade game where you fling yourself from node to node while being endlessly tracked down by the Chaser, who gains upgrades of it's own over time. Collect Gold, Buy Mods and weapons to power yourself up, and eventually turn your weapons to the Chaser to take it down.<h2 class=\"bb_tag\" >Featuring:</h2><ul class=\"bb_ul\"><li>Mouse Only Controls (Controllers are also fully supported)<br></li><li>Fast paced physics-based movement.<br></li><li>A variety of Items and Weapons to make your own play style.</li></ul>",
-  "about_the_game": "NodeRunner is a Physics-based Roguelike Arcade game where you fling yourself from node to node while being endlessly tracked down by the Chaser, who gains upgrades of it's own over time. Collect Gold, Buy Mods and weapons to power yourself up, and eventually turn your weapons to the Chaser to take it down.<h2 class=\"bb_tag\" >Featuring:</h2><ul class=\"bb_ul\"><li>Mouse Only Controls (Controllers are also fully supported)<br></li><li>Fast paced physics-based movement.<br></li><li>A variety of Items and Weapons to make your own play style.</li></ul>",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Portuguese - Portugal",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 4,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

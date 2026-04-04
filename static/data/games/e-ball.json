@@ -3,8 +3,8 @@
   "name": "E-Ball",
   "slug": "e-ball",
   "developer": "NewGen Interactive Software, Corp.",
-  "publisher": "NewGen Interactive Software, Corp",
-  "release_date": "Feb 21, 2020",
+  "publisher": "",
+  "release_date": "2020-02-21",
   "price_usd": 9.99,
   "genres": [
     "Casual",
@@ -18,36 +18,17 @@
     "windows",
     "linux"
   ],
-  "short_description": "E-ball is an isometric platform game where players will have to guide their E-ball towards the finish line while collecting valuable orbs and beating the clock. Race through 4 zones and 20 stages of palm sweating challenges from spiked pits of doom to fire spitting totems!",
+  "short_description": "E-ball is an isometric platform game where players will have to guide their E-ball towards the finish line while collecting valuable orbs and beating the clock. Race through 4 zones and 20 stages of p",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766910/header.jpg?t=1582324546",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766910/ss_5f2ca8902c2f8ce882d3f45c502f7e4579bad311.600x338.jpg?t=1582324546",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766910/ss_4f0e9b687cb7b3fc26cad68258db814948b6c344.600x338.jpg?t=1582324546",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766910/ss_1bf54ffa1d78b50bb2562055bfcf01377e5ef9be.600x338.jpg?t=1582324546",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766910/ss_46e0b9988e3dbeb72333ae992f291563ceca1179.600x338.jpg?t=1582324546",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766910/ss_0bb3cef6edecfa6f13803351e620239e6e7ce9c5.600x338.jpg?t=1582324546"
-  ],
-  "detailed_description": "<strong>E-ball</strong> is a quick twitch isometric platform game that will put a players thumb skills to the test. Guide your E-ball towards the finish line while collecting valuable orbs and beating the clock. Race through 4 zones and 20 stages of palm sweating challenges from spiked pits of doom to fire spitting totems!",
-  "about_the_game": "<strong>E-ball</strong> is a quick twitch isometric platform game that will put a players thumb skills to the test. Guide your E-ball towards the finish line while collecting valuable orbs and beating the clock. Race through 4 zones and 20 stages of palm sweating challenges from spiked pits of doom to fire spitting totems!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +36,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

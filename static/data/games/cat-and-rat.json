@@ -3,8 +3,8 @@
   "name": "cat and rat",
   "slug": "cat-and-rat",
   "developer": "undownsidable",
-  "publisher": "undownsidable",
-  "release_date": "Nov 12, 2022",
+  "publisher": "",
+  "release_date": "2022-11-12",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -23,59 +23,27 @@
   ],
   "short_description": "一款双人欢乐追逐游戏",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214950/2bd2e2a32bec9ab763e8ba6ddbcc7597dfc10a34/header.jpg?t=1755941087",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214950/ss_796a461e0e44c7c5b66b503391ef7bafb0b2322e.600x338.jpg?t=1755941087",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214950/ss_7c5adf6a31e3a8807e8d594372abfd571f3f7fb9.600x338.jpg?t=1755941087",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214950/ss_a08ca5f41b3d88e8e10b009ccd07f8bb44424a92.600x338.jpg?t=1755941087",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214950/ss_8fc99c681ff3a2d09b3f9704d1ca9c69058c9a7d.600x338.jpg?t=1755941087",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2214950/ss_62227dfea6712e4bbfbcfb21967d46417f10d747.600x338.jpg?t=1755941087"
-  ],
-  "detailed_description": "《躲猫猫》是一款单人/双人对抗游戏，在游戏里你可以操控老鼠躲避猫猫的袭击或操控猫猫追捕老鼠。",
-  "about_the_game": "《躲猫猫》是一款单人/双人对抗游戏，在游戏里你可以操控老鼠躲避猫猫的袭击或操控猫猫追捕老鼠。",
-  "supported_languages": "Simplified Chinese, English, Spanish - Spain, Russian, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Shared/Split Screen",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.6049,
   "hype_score": 0.0,
   "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 184,
-  "review_positive": 169,
+  "review_positive": 0,
   "review_percentage": 91.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "rising",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 184,
-      "review_percentage": 91.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 184,
       "review_percentage": 91.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

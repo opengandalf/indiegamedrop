@@ -3,8 +3,8 @@
   "name": "CURRO",
   "slug": "curro",
   "developer": "EXITUS",
-  "publisher": "EXITUS",
-  "release_date": "May 20, 2022",
+  "publisher": "",
+  "release_date": "2022-05-20",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -19,32 +19,15 @@
   ],
   "short_description": "Curro is a first person shooter game. Set your record in the world generated endlessly.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1965020/header.jpg?t=1742221824",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1965020/ss_f9c762a5ab687af138c183201d4d12fc58949a87.600x338.jpg?t=1742221824",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1965020/ss_71cf7412a0fe244ac454f2e502921db994655a7b.600x338.jpg?t=1742221824",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1965020/ss_474c2424c8b9a94f0e0e60aadf441194a57117be.600x338.jpg?t=1742221824",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1965020/ss_8e2b6f04c6dec87971fa1fe1081f61f7049cc1ab.600x338.jpg?t=1742221824",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1965020/ss_64fa75e2cdb64ca359e23b563986aaa4cea65eb3.600x338.jpg?t=1742221824"
-  ],
-  "detailed_description": "\"Curro is a first person shooter game. Set your record in the world generated endlessly.\"<br><br>You have to grab ammo and focus on your aim to keep go forward in randomly generated world and make your highest record.<br><br><br><br><strong>Gameplay Features</strong><br><br># Randomly generated ambient dark world.<br><br># Retro low poly graphic with polygon jitter.<br><br># Gradually increasing progress speed to challenge.<br><br># Optimal world to improve your reaction speed.<br><br># Record the highest score and break your limit.",
-  "about_the_game": "\"Curro is a first person shooter game. Set your record in the world generated endlessly.\"<br><br>You have to grab ammo and focus on your aim to keep go forward in randomly generated world and make your highest record.<br><br><br><br><strong>Gameplay Features</strong><br><br># Randomly generated ambient dark world.<br><br># Retro low poly graphic with polygon jitter.<br><br># Gradually increasing progress speed to challenge.<br><br># Optimal world to improve your reaction speed.<br><br># Record the highest score and break your limit.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 0.30000000000000004,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 6,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

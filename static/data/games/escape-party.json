@@ -3,8 +3,8 @@
   "name": "Escape Party",
   "slug": "escape-party",
   "developer": "Uluni Games (Inh. Nils Wenzler)",
-  "publisher": "Uluni Games (Inh. Nils Wenzler)",
-  "release_date": "Sep 10, 2024",
+  "publisher": "",
+  "release_date": "2024-09-10",
   "price_usd": 2.99,
   "genres": [
     "Casual",
@@ -23,34 +23,15 @@
   ],
   "short_description": "Embark on 3D online multiplayer escape rooms in Escape Party. Solve puzzles, test your speed, and conquer challenges together.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2700960/header.jpg?t=1725996037",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2700960/ss_3df39b44ea935bd6911abd09410754628f0f63b3.600x338.jpg?t=1725996037",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2700960/ss_7575314fa0f65a36a380c85e99b2cd96afdd5a1f.600x338.jpg?t=1725996037",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2700960/ss_3785fa450fab6f1db76b36c09025acceefabd7e0.600x338.jpg?t=1725996037",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2700960/ss_27c9108107d3495645daca5994a92919a815cf82.600x338.jpg?t=1725996037",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2700960/ss_8575f5a1394700b61c62df5cd8a5a17c70f3f8c1.600x338.jpg?t=1725996037"
-  ],
-  "detailed_description": "Escape Party is a first-person puzzle game where you can solve various puzzles together with friends in online co-op.<br />\r\n<br />\r\nCurrently, the game consists of 3 escape rooms: Aztec Temple, Medieval Dungeon, and Futuristic Spaceship.<br />\r\nEach escape room offers approximately 30-60 minutes of puzzle-solving fun.<br />\r\nIf you find yourselves stuck, a hint function is available to help you progress.<br />\r\n<br />\r\nEscape Party can be played with 2-6 players, making it perfect for individuals separated by distance who want to share a small digital adventure together.<br />\r\n<br />\r\nNote: To play the game you have to login to the game through Steam web login. <br />\r\nThis is needed to fight illegally cracked versions of the game.<br />\r\nThrough the web login the Escape Party servers can verify ownership of the game.",
-  "about_the_game": "Escape Party is a first-person puzzle game where you can solve various puzzles together with friends in online co-op.<br />\r\n<br />\r\nCurrently, the game consists of 3 escape rooms: Aztec Temple, Medieval Dungeon, and Futuristic Spaceship.<br />\r\nEach escape room offers approximately 30-60 minutes of puzzle-solving fun.<br />\r\nIf you find yourselves stuck, a hint function is available to help you progress.<br />\r\n<br />\r\nEscape Party can be played with 2-6 players, making it perfect for individuals separated by distance who want to share a small digital adventure together.<br />\r\n<br />\r\nNote: To play the game you have to login to the game through Steam web login. <br />\r\nThis is needed to fight illegally cracked versions of the game.<br />\r\nThrough the web login the Escape Party servers can verify ownership of the game.",
-  "supported_languages": "English, German, French, Simplified Chinese, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "Co-op",
-    "Online Co-op",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.65,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 13,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 15.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 13,
-      "review_percentage": 15.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 13,
       "review_percentage": 15.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

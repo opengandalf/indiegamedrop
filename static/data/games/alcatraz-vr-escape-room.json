@@ -3,8 +3,8 @@
   "name": "Alcatraz: VR Escape Room",
   "slug": "alcatraz-vr-escape-room",
   "developer": "OriginsVR",
-  "publisher": "OriginsVR",
-  "release_date": "Dec 27, 2016",
+  "publisher": "",
+  "release_date": "2016-12-27",
   "price_usd": 3.49,
   "genres": [
     "Adventure",
@@ -21,39 +21,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "\"Alcatraz: VR Escape Room\" is a story based puzzle game inspired by such classics as Crimson Room. You discover bits and pieces about your life from notes left behind from someone who is trying to help you escape.",
+  "short_description": "\"Alcatraz: VR Escape Room\" is a story based puzzle game inspired by such classics as Crimson Room. You discover bits and pieces about your life from notes left behind from someone who is try",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573270/header.jpg?t=1483912379",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573270/ss_ee2fc3d4840d8e2a89af938263a40876e04c4779.600x338.jpg?t=1483912379",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573270/ss_c39f74985c29a3c64a24c4075ee98ebdd75c443a.600x338.jpg?t=1483912379",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573270/ss_bd4c2fa73cddb30a3bd81d9e69783b7190338bb5.600x338.jpg?t=1483912379",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573270/ss_3eaa9e13da928d8099f0710a54ef22aa16c435f7.600x338.jpg?t=1483912379",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573270/ss_9707f04cebfe59f83dbb3dc78af708ca2eae6236.600x338.jpg?t=1483912379",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573270/ss_719ec4ff2730e07db05d6e90255e4886e3749979.600x338.jpg?t=1483912379",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573270/ss_2e69cbbb604195486da253cfa72910da795c39ea.600x338.jpg?t=1483912379",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573270/ss_b6bf78e8748caf6625c31c72fdc0b8389cd362b4.600x338.jpg?t=1483912379"
-  ],
-  "detailed_description": "<strong>\"Alcatraz: VR Escape Room\" is a story based puzzle game inspired by such classics as Crimson Room.</strong><br><br>You wake up with a loud ringing in your ear, a pounding headache, and confused. You stumble around the room and find yourself locked inside. You discover bits and pieces about your life from notes left behind from someone who is trying to help you escape. What is going on? Why are you here? Who is trying to help you? All will be revealed as you dive deeper into reality. <br><br>VR Escape Room: Alcatraz currently only supports the HTC Vive. <br><br><strong>Difficulty:</strong> Intermediate<br><br><strong>Roadmap items: </strong><br><ul class=\"bb_ul\"><li>Expand into all VR gear platforms and standard use of keyboard / mouse interface <br></li><li>Multi-language support including (but not limited to): English, Russian, Chinese (Simplified / Traditional), German, Portuguese, French, Italian, and Spanish <br></li><li>Multiplayer support</li></ul>",
-  "about_the_game": "<strong>\"Alcatraz: VR Escape Room\" is a story based puzzle game inspired by such classics as Crimson Room.</strong><br><br>You wake up with a loud ringing in your ear, a pounding headache, and confused. You stumble around the room and find yourself locked inside. You discover bits and pieces about your life from notes left behind from someone who is trying to help you escape. What is going on? Why are you here? Who is trying to help you? All will be revealed as you dive deeper into reality. <br><br>VR Escape Room: Alcatraz currently only supports the HTC Vive. <br><br><strong>Difficulty:</strong> Intermediate<br><br><strong>Roadmap items: </strong><br><ul class=\"bb_ul\"><li>Expand into all VR gear platforms and standard use of keyboard / mouse interface <br></li><li>Multi-language support including (but not limited to): English, Russian, Chinese (Simplified / Traditional), German, Portuguese, French, Italian, and Spanish <br></li><li>Multiplayer support</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.6,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 32,
-  "review_positive": 26,
+  "review_positive": 0,
   "review_percentage": 81.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -61,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 33,
-      "review_percentage": 81.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 32,
       "review_percentage": 81.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

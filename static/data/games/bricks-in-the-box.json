@@ -3,8 +3,8 @@
   "name": "Bricks In The Box",
   "slug": "bricks-in-the-box",
   "developer": "Nanite Storm",
-  "publisher": "Nanite Storm",
-  "release_date": "Jul 11, 2018",
+  "publisher": "",
+  "release_date": "2018-07-11",
   "price_usd": 3.99,
   "genres": [
     "Casual",
@@ -17,37 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Bricks In The Box is an arcade game inspired by the breakout title, in contrast to the classic version, the game takes place on boards of various shapes - hexagon, triangle, pentagon - the slat and hole is in the middle of the level. The player's task is to break down as many boxes as possible and to beat his own and global records.",
+  "short_description": "Bricks In The Box is an arcade game inspired by the breakout title, in contrast to the classic version, the game takes place on boards of various shapes - hexagon, triangle, pentagon - the slat and ho",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686630/header.jpg?t=1531376186",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686630/ss_bf281387112cf46e5acd6060eede7d09e987129e.600x338.jpg?t=1531376186",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686630/ss_714bb059056d384b3e3f81a9c5c640b9dea9613e.600x338.jpg?t=1531376186",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686630/ss_2599441d3437b07733cabf431119ed4a2ddfcdc7.600x338.jpg?t=1531376186",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686630/ss_ee9c6adac0b117eb8a7b4cfdec1a421d016a1d83.600x338.jpg?t=1531376186",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/686630/ss_34464e3748b9228416eaf08c33cff7f2e1db891d.600x338.jpg?t=1531376186"
-  ],
-  "detailed_description": "Bricks In The Box is an arcade game inspired by the breakout title, in contrast to the classic version, the game takes place on boards of various shapes - hexagon, triangle, pentagon ect - the slat and hole is in the middle of the level. The player's task is to break down as many boxes as possible and to beat his own and global records.",
-  "about_the_game": "Bricks In The Box is an arcade game inspired by the breakout title, in contrast to the classic version, the game takes place on boards of various shapes - hexagon, triangle, pentagon ect - the slat and hole is in the middle of the level. The player's task is to break down as many boxes as possible and to beat his own and global records.",
-  "supported_languages": "English<strong>*</strong>, German<strong>*</strong>, Polish<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

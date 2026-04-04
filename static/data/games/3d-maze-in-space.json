@@ -3,8 +3,8 @@
   "name": "3d Maze In Space",
   "slug": "3d-maze-in-space",
   "developer": "Ivan Pichugin",
-  "publisher": "Ivan Pichugin",
-  "release_date": "May 28, 2020",
+  "publisher": "",
+  "release_date": "2020-05-28",
   "price_usd": 0.99,
   "genres": [
     "Casual"
@@ -17,32 +17,15 @@
   ],
   "short_description": "3d labyrinth with procedurally generated levels. Character wakes up in an incomprehensible place and gradually remembers what happened, while making his assumptions about where he got into.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1315900/header.jpg?t=1590703463",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1315900/ss_34303db25e2f93767b15923e32ee8a3af458908d.600x338.jpg?t=1590703463",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1315900/ss_793eb4b30becbf35eec4462b17e8f72e0b5b29d5.600x338.jpg?t=1590703463",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1315900/ss_667d50f942d094f9df43c2771023107b197efaa9.600x338.jpg?t=1590703463",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1315900/ss_b122a99c3c6278cf81d66a02e7c61a055021b466.600x338.jpg?t=1590703463",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1315900/ss_5ad0499a755028a72a3aedfef246046a29ff8f3a.600x338.jpg?t=1590703463"
-  ],
-  "detailed_description": "\"3d Maze In Space\" is a 3d labyrinth with procedurally generated levels. The levels themselves are islands connected by vertical and horizontal lintels. After the level is generated, the player and the exit portal are placed in it, which must be reached in order to pass the level. The game has 2 modes: a small storyline and a custom game.<br />\r\nIn the plot, the character wakes up in an incomprehensible place and gradually remembers what happened, while building his assumptions about where he got into.<br />\r\nIn a user game, the player sets the level of complexity and can set, or use the ready-made seed for generation. The complexity of the levels of the user game can be much higher than the plot levels.",
-  "about_the_game": "\"3d Maze In Space\" is a 3d labyrinth with procedurally generated levels. The levels themselves are islands connected by vertical and horizontal lintels. After the level is generated, the player and the exit portal are placed in it, which must be reached in order to pass the level. The game has 2 modes: a small storyline and a custom game.<br />\r\nIn the plot, the character wakes up in an incomprehensible place and gradually remembers what happened, while building his assumptions about where he got into.<br />\r\nIn a user game, the player sets the level of complexity and can set, or use the ready-made seed for generation. The complexity of the levels of the user game can be much higher than the plot levels.",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Russian, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.30000000000000004,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 6,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,26 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 6,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

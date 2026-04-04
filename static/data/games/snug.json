@@ -3,8 +3,8 @@
   "name": "SNUG",
   "slug": "snug",
   "developer": "AndrewMD5",
-  "publisher": "Codeusa, viorae",
-  "release_date": "Jun 5, 2024",
+  "publisher": "",
+  "release_date": "2024-06-05",
   "price_usd": 1.39,
   "genres": [
     "Animation & Modeling",
@@ -29,32 +29,9 @@
   ],
   "short_description": "SNUG is a powerful file compression utility for Windows that saves space by transparently compressing files, apps, games, and project files. Set it and forget it, or compress with just one click.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988410/af473e1362bf52db9f13370173cdbf47aa8f9784/header.jpg?t=1766205577",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988410/62b07e5d927b20d8ba0fcbad21f492a8a870b833/ss_62b07e5d927b20d8ba0fcbad21f492a8a870b833.600x338.jpg?t=1766205577",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988410/c723868c6930b02feb1c21167a8ce6868c44e9c7/ss_c723868c6930b02feb1c21167a8ce6868c44e9c7.600x338.jpg?t=1766205577",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988410/123f2ddfa0650bc1496c8ff49adb2252687e6815/ss_123f2ddfa0650bc1496c8ff49adb2252687e6815.600x338.jpg?t=1766205577",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988410/c23a6caee262492e4331702d8dae13e64923ff9a/ss_c23a6caee262492e4331702d8dae13e64923ff9a.600x338.jpg?t=1766205577",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2988410/3ba7831fe7e8afbdf3d4d3af3c0ba6632dd0d6b6/ss_3ba7831fe7e8afbdf3d4d3af3c0ba6632dd0d6b6.600x338.jpg?t=1766205577"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Save space effortlessly with efficient file compression!</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >SNUG is a powerful compression layer for the Windows File System that uses efficient algorithms to deliver <strong>lossless, transparent data compression</strong> for your files.</p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Transparent compression:</strong> Compressed files can still be used normally - open, edit, and save them like any other file. SNUG works its magic behind the scenes. </p></li><li><p class=\"bb_paragraph\" ><strong>Reclaim gigabytes of storage:</strong> Perfect for large games, development, video projects, photo collections, and any situation with many loose files. SNUG ensures you're saving substantial disk space. </p></li><li><p class=\"bb_paragraph\" ><strong>Efficient compression technology:</strong> Our compression engine efficiently compresses data, optimizing compression ratios while preserving perfect fidelity.</p></li><li><p class=\"bb_paragraph\" ><strong>Lightning fast and light on resources:</strong> SNUG runs smoothly in the background, with minimal CPU and RAM usage. You won't even notice it's there! </p></li><li><p class=\"bb_paragraph\" ><strong>Set it and forget it:</strong> Select the folders you want to compress, and SNUG does the rest. New files added are compressed automatically. </p></li><li><p class=\"bb_paragraph\" ><strong>Auto-import apps, games, and software:</strong> SNUG can automatically detect and import installed applications, games, and software for easy compression. </p></li><li><p class=\"bb_paragraph\" ><strong>One-click compression for project files:</strong> Quickly locate and compress project files for various software like Photoshop, Blender, Unity, and more with a single click.</p></li><li><p class=\"bb_paragraph\" ><strong>No file modification:</strong> SNUG integrates directly with Windows, ensuring that files are reduced in size without changing their contents. Your files remain intact and fully compatible with their original applications. </p></li></ul><p class=\"bb_paragraph\" >Take control of your disk space and streamline your storage with SNUG, the most efficient compression utility on the market. Built with proven compression technology, SNUG delivers unbeatable compression performance while keeping your files fully accessible.</p>",
-  "about_the_game": "<h2 class=\"bb_tag\" >Save space effortlessly with efficient file compression!</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >SNUG is a powerful compression layer for the Windows File System that uses efficient algorithms to deliver <strong>lossless, transparent data compression</strong> for your files.</p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Transparent compression:</strong> Compressed files can still be used normally - open, edit, and save them like any other file. SNUG works its magic behind the scenes. </p></li><li><p class=\"bb_paragraph\" ><strong>Reclaim gigabytes of storage:</strong> Perfect for large games, development, video projects, photo collections, and any situation with many loose files. SNUG ensures you're saving substantial disk space. </p></li><li><p class=\"bb_paragraph\" ><strong>Efficient compression technology:</strong> Our compression engine efficiently compresses data, optimizing compression ratios while preserving perfect fidelity.</p></li><li><p class=\"bb_paragraph\" ><strong>Lightning fast and light on resources:</strong> SNUG runs smoothly in the background, with minimal CPU and RAM usage. You won't even notice it's there! </p></li><li><p class=\"bb_paragraph\" ><strong>Set it and forget it:</strong> Select the folders you want to compress, and SNUG does the rest. New files added are compressed automatically. </p></li><li><p class=\"bb_paragraph\" ><strong>Auto-import apps, games, and software:</strong> SNUG can automatically detect and import installed applications, games, and software for easy compression. </p></li><li><p class=\"bb_paragraph\" ><strong>One-click compression for project files:</strong> Quickly locate and compress project files for various software like Photoshop, Blender, Unity, and more with a single click.</p></li><li><p class=\"bb_paragraph\" ><strong>No file modification:</strong> SNUG integrates directly with Windows, ensuring that files are reduced in size without changing their contents. Your files remain intact and fully compatible with their original applications. </p></li></ul><p class=\"bb_paragraph\" >Take control of your disk space and streamline your storage with SNUG, the most efficient compression utility on the market. Built with proven compression technology, SNUG delivers unbeatable compression performance while keeping your files fully accessible.</p>",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Achievements",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 72,
-  "review_positive": 47,
+  "review_positive": 0,
   "review_percentage": 65.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 59,
-      "review_percentage": 69.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 72,
       "review_percentage": 65.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

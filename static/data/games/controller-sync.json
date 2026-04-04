@@ -3,8 +3,8 @@
   "name": "Controller Sync",
   "slug": "controller-sync",
   "developer": "Matti Kuehl",
-  "publisher": "Matti Kuehl",
-  "release_date": "Nov 18, 2023",
+  "publisher": "",
+  "release_date": "2023-11-18",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -23,38 +23,15 @@
   ],
   "short_description": "Arcade multiplayer game Ideal for practising controller skills",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075820/header.jpg?t=1700319001",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075820/ss_822ba258d0c563e7f5651026a83cc1bcb2ca40e9.600x338.jpg?t=1700319001",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075820/ss_59c5bcfd87046177917f89ded7f186e5fc6d1969.600x338.jpg?t=1700319001",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075820/ss_73aa406ac89422ace1c99da2b9b3abb99166f0e8.600x338.jpg?t=1700319001",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075820/ss_a57f277a4b278f0f98581571cc2f6c2beccdc696.600x338.jpg?t=1700319001",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075820/ss_29ae6b0ea5c0b04e04c43000d97996ca256e2829.600x338.jpg?t=1700319001"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Description</h2><strong>Controller Sync</strong> is an arcade-style reaction game that lets you practice and compare your controller-skills with all other players.<br>In order to play, you have to have an <i>X-Box</i>- or <i>Playstation</i>- like controller installed on your device.<h2 class=\"bb_tag\" >Gamemodes</h2>There are two main gamemodes in Controller Sync: <strong>Solo</strong> and <strong>Duo</strong><br>The Solo gamemode lets you focus on <u>reaction speed</u> and correct <u>key usage</u>,<br>while you have to focus on good <u>communication</u> and <u>synchronization</u> in the Duo gamemode.<br>You can play together with anyone!<h2 class=\"bb_tag\" >Leaderboard</h2>You can see the highscores of all players on the ingame-leaderboard.<h2 class=\"bb_tag\" >How does the game work?</h2>When starting a new game, you got <strong>60 seconds</strong> to collect as many points as you can.<br>Points can be gained by controlling a cursor with your joystick and pressing the right button for the nearest dot.<br>Dots can either have the color <strong>blue</strong> or <strong>red</strong>. To collect a blue dot, you have to select blue as your controller color (The opposite with red dots).<br>The collected dots are then stored in a blue or a red bar depending on the dot color.<br>You can consume these bars to get one of three values increased:<br>Blue bar    - Time<br>Red bar     - Score (x2)<br>Both Bars  - Multiplier<br><br>When you got no time left, the game is over and you see your new leaderboard-rank.<br><br>So what are you waiting for?<br>Practice your skills and prove them to others!",
-  "about_the_game": "<h2 class=\"bb_tag\" >Description</h2><strong>Controller Sync</strong> is an arcade-style reaction game that lets you practice and compare your controller-skills with all other players.<br>In order to play, you have to have an <i>X-Box</i>- or <i>Playstation</i>- like controller installed on your device.<h2 class=\"bb_tag\" >Gamemodes</h2>There are two main gamemodes in Controller Sync: <strong>Solo</strong> and <strong>Duo</strong><br>The Solo gamemode lets you focus on <u>reaction speed</u> and correct <u>key usage</u>,<br>while you have to focus on good <u>communication</u> and <u>synchronization</u> in the Duo gamemode.<br>You can play together with anyone!<h2 class=\"bb_tag\" >Leaderboard</h2>You can see the highscores of all players on the ingame-leaderboard.<h2 class=\"bb_tag\" >How does the game work?</h2>When starting a new game, you got <strong>60 seconds</strong> to collect as many points as you can.<br>Points can be gained by controlling a cursor with your joystick and pressing the right button for the nearest dot.<br>Dots can either have the color <strong>blue</strong> or <strong>red</strong>. To collect a blue dot, you have to select blue as your controller color (The opposite with red dots).<br>The collected dots are then stored in a blue or a red bar depending on the dot color.<br>You can consume these bars to get one of three values increased:<br>Blue bar    - Time<br>Red bar     - Score (x2)<br>Both Bars  - Multiplier<br><br>When you got no time left, the game is over and you see your new leaderboard-rank.<br><br>So what are you waiting for?<br>Practice your skills and prove them to others!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Online Co-op",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 5,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

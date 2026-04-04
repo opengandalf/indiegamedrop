@@ -3,8 +3,8 @@
   "name": "Color Game",
   "slug": "color-game",
   "developer": "Thomas Watson",
-  "publisher": "Thomas Watson",
-  "release_date": "Jun 1, 2020",
+  "publisher": "",
+  "release_date": "2020-06-01",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -21,32 +21,15 @@
   ],
   "short_description": "Color Game is a puzzle game about getting to the end. Change your color, unlock the path to the exit and avoid enemies along the way.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304120/header.jpg?t=1591032384",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304120/ss_4b4bcd374bb11127dbcd988d79f07e1bb515f97a.600x338.jpg?t=1591032384",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304120/ss_5c76340c1a1d6acb2de61bb481b023d9a8e37a87.600x338.jpg?t=1591032384",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304120/ss_b60fee81e4f4489dff2f6c4f523bc82e56d2a7ae.600x338.jpg?t=1591032384",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304120/ss_3df1c70f5d8bbce8e2c0d65b8bac903d205bdac1.600x338.jpg?t=1591032384",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304120/ss_efd3900878e66839941817f6edfa116a1b6845bb.600x338.jpg?t=1591032384"
-  ],
-  "detailed_description": "Color Game is a puzzle game revolving around changing the color of your player to navigate a level and reach the end. Unlock doors, evade enemies, and figure out the best path to the black tile.<br />\r\n<br />\r\nThis game is still in development, here are the things that have yet to be added:<br />\r\n  -5 more puzzle mechanics<br />\r\n  -Updated art assets<br />\r\n  -Rudimentary story",
-  "about_the_game": "Color Game is a puzzle game revolving around changing the color of your player to navigate a level and reach the end. Unlock doors, evade enemies, and figure out the best path to the black tile.<br />\r\n<br />\r\nThis game is still in development, here are the things that have yet to be added:<br />\r\n  -5 more puzzle mechanics<br />\r\n  -Updated art assets<br />\r\n  -Rudimentary story",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

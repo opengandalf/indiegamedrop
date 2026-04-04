@@ -3,8 +3,8 @@
   "name": "ARKOS 2",
   "slug": "arkos-2",
   "developer": "RetroSouls",
-  "publisher": "RetroSouls",
-  "release_date": "May 1, 2025",
+  "publisher": "",
+  "release_date": "2025-05-01",
   "price_usd": 7.79,
   "genres": [
     "Action",
@@ -19,59 +19,27 @@
   ],
   "short_description": "Arkos 2 is a first-person fantasy shooter with destructible voxel environment inspired by the classic retro shooters from 90-s",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2308660/34a733692cdc4d0a63862c5176a7915186ac378f/header.jpg?t=1746172077",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2308660/ss_763a62605c67631939ea2a764b186abfe91c7bf4.600x338.jpg?t=1746172077",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2308660/ss_7cc319e19467c09e69b38bee37ae2a11a046b4cd.600x338.jpg?t=1746172077",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2308660/ss_03a267b5c9d30d746624915f5200372e9ea21713.600x338.jpg?t=1746172077",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2308660/ss_16a4f12058835b1cef8f4989b1bfeebb2f1f834f.600x338.jpg?t=1746172077",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2308660/ss_e073ebdf340352b62cfc8bb025757d45bbe7b29b.600x338.jpg?t=1746172077",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2308660/ss_e32eb01ae0b64f6876e526559f342f1983765379.600x338.jpg?t=1746172077",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2308660/ss_0e85375976864585a6c9cce9b5d78661c128e558.600x338.jpg?t=1746172077",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2308660/ss_9d1a39520accd0ed96d0c1a52659669532a8ce8a.600x338.jpg?t=1746172077",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2308660/ss_e9c92c49ec7f1fa018efa75a7fa48a1342f2853c.600x338.jpg?t=1746172077",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2308660/ss_f18269afa6d55fe3eeb02d8179cdb1f0d3b16aa2.600x338.jpg?t=1746172077",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2308660/ss_b6648bd8a5f7f92acfc671d2eb5066bff948c761.600x338.jpg?t=1746172077"
-  ],
-  "detailed_description": "<strong>Arkos 2</strong> is a first-person fantasy shooter with destructible voxel environment. You play the old wizard Arkos, who has to save the land of the twilight<br>Game inspired by the classic old first person shooters of the 90s like <strong>Heretic</strong>, <strong>Hexen</strong> and <strong>Catacomb3D</strong>, but powered with some bloody Voxels!<br><br>The ancient evil is back!<br><br>Next Generation of Voxel Engine with Destructible voxel environment<br>Five Episodes with a Boss Battles<br>Classic style MIDI Soundtrack<br>3 Difficulty Modes<br>5 Unique Weapons<br>Pure retro action with some puzzle elements",
-  "about_the_game": "<strong>Arkos 2</strong> is a first-person fantasy shooter with destructible voxel environment. You play the old wizard Arkos, who has to save the land of the twilight<br>Game inspired by the classic old first person shooters of the 90s like <strong>Heretic</strong>, <strong>Hexen</strong> and <strong>Catacomb3D</strong>, but powered with some bloody Voxels!<br><br>The ancient evil is back!<br><br>Next Generation of Voxel Engine with Destructible voxel environment<br>Five Episodes with a Boss Battles<br>Classic style MIDI Soundtrack<br>3 Difficulty Modes<br>5 Unique Weapons<br>Pure retro action with some puzzle elements",
-  "supported_languages": "English, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0034,
-  "gem_score": 0.8529,
+  "screenshots": [],
+  "rising_score": 0.0,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 15.0,
+  "review_velocity_7d": 1.85,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 37,
-  "review_positive": 35,
+  "review_positive": 0,
   "review_percentage": 94.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 22,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 37,
       "review_percentage": 94.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

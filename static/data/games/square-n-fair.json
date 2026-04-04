@@ -3,8 +3,8 @@
   "name": "Square n Fair",
   "slug": "square-n-fair",
   "developer": "ThinkOfGames",
-  "publisher": "Conglomerate 5",
-  "release_date": "Jan 30, 2017",
+  "publisher": "",
+  "release_date": "2017-01-30",
   "price_usd": 0.67,
   "genres": [
     "Casual",
@@ -19,61 +19,27 @@
   ],
   "short_description": "Relaxing puzzle platformer.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575680/header.jpg?t=1765192056",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575680/ss_1b72c1f508eca5e305b2eeac38f87cda0c42f7d3.600x338.jpg?t=1765192056",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575680/ss_34472e1b8d4fdcdc18b5421e02c2173f7b8b0605.600x338.jpg?t=1765192056",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575680/ss_3b84f301172700db86c244daec5c1b3181c1d24d.600x338.jpg?t=1765192056",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575680/ss_12e08c4491a9f9041cf7b7e28f0ee3bb4c5486db.600x338.jpg?t=1765192056",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575680/ss_0c06b0d7cf59bd569a71b3e24653da06836d8db9.600x338.jpg?t=1765192056",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575680/ss_8df888aa45c9b5279108f70749e1f5a35e5d0d89.600x338.jpg?t=1765192056"
-  ],
-  "detailed_description": "<h1>FIND HMUR!</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575680/extras/b009372be95605a3fb4580f8fe3b1d8f.poster.avif?t=1765192056\" width=1170 height=426 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575680/extras/b009372be95605a3fb4580f8fe3b1d8f.webm?t=1765192056\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/575680/extras/b009372be95605a3fb4580f8fe3b1d8f.mp4?t=1765192056\" type=\"video/mp4\"></video></span></p></p><br><h1>About the Game</h1>Square n Fair is a relaxing puzzle platformer. <br>In order to clear the level, you have to move the to blocks (which moves opposite of each other) to their common goal. However, parts of the level is block off, by other colors than the level color. Change the color of the level to bypass these obstacles.<h2 class=\"bb_tag\" > Features:</h2> <ul class=\"bb_ul\">    <li>24 handcrafted levels.<br>    </li><li>Steam Trading Cards.</li></ul>",
-  "about_the_game": "Square n Fair is a relaxing puzzle platformer. <br>In order to clear the level, you have to move the to blocks (which moves opposite of each other) to their common goal. However, parts of the level is block off, by other colors than the level color. Change the color of the level to bypass these obstacles.<h2 class=\"bb_tag\" > Features:</h2> <ul class=\"bb_ul\">    <li>24 handcrafted levels.<br>    </li><li>Steam Trading Cards.</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Trading Cards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 152,
+  "screenshots": [],
   "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 6.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 198,
-  "review_positive": 165,
+  "review_positive": 0,
   "review_percentage": 83.3,
   "owner_estimate": 75000,
-  "ccu_estimate": 3,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 213,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 192,
-      "review_percentage": 83.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 198,
       "review_percentage": 83.3,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
-      "review_count": 198,
-      "review_percentage": 83.3,
-      "ccu_estimate": 3,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "A Nest for Us",
   "slug": "a-nest-for-us",
   "developer": "Nicholas Sohacki",
-  "publisher": "Nicholas Sohacki",
-  "release_date": "Aug 1, 2023",
+  "publisher": "",
+  "release_date": "2023-08-01",
   "price_usd": 1.99,
   "genres": [
     "Action",
@@ -19,36 +19,15 @@
   ],
   "short_description": "Fly through the forest collecting twigs to build your nest with in this minimalistic, nature-inspired platformer.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483300/header.jpg?t=1690948200",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483300/ss_7b6beea0919548449480d7752a60f1a7e31a7441.600x338.jpg?t=1690948200",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483300/ss_90a8d14124d7911dd6b64ec485707963dce9bea5.600x338.jpg?t=1690948200",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483300/ss_1cbf009b2838c76823dea13f0866e9c9f4d7a8ae.600x338.jpg?t=1690948200",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483300/ss_6297658267726adf106683ab79a0f56d6f513645.600x338.jpg?t=1690948200",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483300/ss_e2ac481bf817374575442e9d834150377d746012.600x338.jpg?t=1690948200",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483300/ss_1ba9fc1327b4e90b2877f54cc1827cc29f59b809.600x338.jpg?t=1690948200",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483300/ss_31ef268bd9697a71f86683bd9297c7da481563e8.600x338.jpg?t=1690948200"
-  ],
-  "detailed_description": "<ul class=\"bb_ul\"><li>Simple and minimalistic gameplay.<br></li><li>A short and sweet story.<br></li><li>Nature-inspired ambience.<br></li><li>100 levels.</li></ul>",
-  "about_the_game": "<ul class=\"bb_ul\"><li>Simple and minimalistic gameplay.<br></li><li>A short and sweet story.<br></li><li>Nature-inspired ambience.<br></li><li>100 levels.</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.4,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 8,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

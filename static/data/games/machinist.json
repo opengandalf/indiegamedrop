@@ -3,8 +3,8 @@
   "name": "Machinist",
   "slug": "machinist",
   "developer": "上海沙界软件有限公司",
-  "publisher": "游艺春秋网络科技(香港)有限公司",
-  "release_date": "Apr 19, 2021",
+  "publisher": "",
+  "release_date": "2021-04-19",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -27,41 +27,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "A game production platform based on 3D physics engine and building block logic programming. Players who like creating games and assembling machinery can design a rich variety of custom games without having to learn and memorize complex commands and gain profit through the in-app purchase system.",
+  "short_description": "A game production platform based on 3D physics engine and building block logic programming. Players who like creating games and assembling machinery can design a rich variety of custom games without h",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1265510/header.jpg?t=1741184638",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1265510/c6cd349b0bcda810c5f67651d5be086a067d7bb3/ss_c6cd349b0bcda810c5f67651d5be086a067d7bb3.600x338.jpg?t=1741184638",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1265510/8167a2bda64dddf770e6a056158f63700e720167/ss_8167a2bda64dddf770e6a056158f63700e720167.600x338.jpg?t=1741184638",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1265510/5fd69b66bf2ff840d8f69d8bb0ed645548d32722/ss_5fd69b66bf2ff840d8f69d8bb0ed645548d32722.600x338.jpg?t=1741184638",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1265510/50541bfaa4999585195998870b864305c751cea6/ss_50541bfaa4999585195998870b864305c751cea6.600x338.jpg?t=1741184638",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1265510/4529bdb8b0c47e4578023ddc0b4be171bcf1ac47/ss_4529bdb8b0c47e4578023ddc0b4be171bcf1ac47.600x338.jpg?t=1741184638"
-  ],
-  "detailed_description": "If you like to try fresh gameplay, here you can play games made by others, including but not limited to: action, shooting, driving, real-time tactics, chess, party games, etc. You can follow different game authors and put forward your valuable opinions on gameplay.<br />\r\nIf you have your own game ideas but don't know how to write code, here is a set of drag-and-drop scripting languages ​​with the same level of difficulty as children's programming education software. You can write logic through the mouse and mobile phone touch screen. We also provide a complete editor pipeline, including map editor, mechanical editor, terrain editor, UI editor. In terms of learning, we have built-in a basic official tutorial with pictures and texts. As long as you have ideas and a certain logical thinking ability, a person can also make fun games and get income through our in-app purchase system.",
-  "about_the_game": "If you like to try fresh gameplay, here you can play games made by others, including but not limited to: action, shooting, driving, real-time tactics, chess, party games, etc. You can follow different game authors and put forward your valuable opinions on gameplay.<br />\r\nIf you have your own game ideas but don't know how to write code, here is a set of drag-and-drop scripting languages ​​with the same level of difficulty as children's programming education software. You can write logic through the mouse and mobile phone touch screen. We also provide a complete editor pipeline, including map editor, mechanical editor, terrain editor, UI editor. In terms of learning, we have built-in a basic official tutorial with pictures and texts. As long as you have ideas and a certain logical thinking ability, a person can also make fun games and get income through our in-app purchase system.",
-  "supported_languages": "English, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Co-op",
-    "Online Co-op",
-    "Cross-Platform Multiplayer",
-    "In-App Purchases",
-    "Includes level editor"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 40,
-  "review_positive": 25,
+  "review_positive": 0,
   "review_percentage": 62.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -69,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 39,
-      "review_percentage": 61.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 40,
       "review_percentage": 62.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

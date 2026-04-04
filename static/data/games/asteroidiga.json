@@ -3,8 +3,8 @@
   "name": "Asteroidiga",
   "slug": "asteroidiga",
   "developer": "Levi Stoddard",
-  "publisher": "Levi Stoddard",
-  "release_date": "Nov 20, 2019",
+  "publisher": "",
+  "release_date": "2019-11-20",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -18,36 +18,17 @@
     "windows",
     "linux"
   ],
-  "short_description": "A single mine detonation in this bullet hell game will send you flying around the screen. But never fear! Use your wits and your Teleportation module, fast Machine Gun, powerful Laser, Tracer Bullets, and the venerable shotgun.",
+  "short_description": "A single mine detonation in this bullet hell game will send you flying around the screen. But never fear! Use your wits and your Teleportation module, fast Machine Gun, powerful Laser, Tracer Bullets,",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/772110/header.jpg?t=1633479998",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/772110/ss_974a6652c2b4b249900121f8abc35645fcb815a5.600x338.jpg?t=1633479998",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/772110/ss_e53adb1b26ea2e11fd0cedac90b4d22943f7b587.600x338.jpg?t=1633479998",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/772110/ss_9b73fa6fdc50618d321e6a57687174d2ac5b629b.600x338.jpg?t=1633479998",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/772110/ss_ca74f818487461fe52805185051d1739dd59d578.600x338.jpg?t=1633479998",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/772110/ss_de15e3e252923011e80f430f4ef2d16c4a1014de.600x338.jpg?t=1633479998",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/772110/ss_8a7f83ff4724c08bd3da650b9bc28af0d16254a9.600x338.jpg?t=1633479998"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Shoot 'em up with physics</h2>A single mine detonation in this bullet hell game will send you flying around the screen. But never fear! Though the enemies keep coming faster, you have a <strong>teleportation module</strong> and an arsenal of weapons to defeat them. Blast them with your <strong>machine gun</strong>, melt them with your <strong>laser</strong> and smack them silly with your <strong>shotgun</strong>.<br><br><i>Fair warning:</i> this game has a moderate learning curve.<h2 class=\"bb_tag\" >Play Many Game Modes</h2><ul class=\"bb_ul\"><li> Survival - Play against endless waves of enemies.<br></li><li> Campaign - Defeat a carefully choreographed onslaught of enemies.<br></li><li> Thermal Meltdown - Avoiding getting melted by the cosmic power.<br></li><li> Color Defender - Pick up the right colored weapon to defeat the snakes.<br></li><li> Dodge This - How long can you survive in space as it gets more crowded?<br></li><li> There could be more in the future if I see significant player interest.</li></ul><h2 class=\"bb_tag\" >Other Key Features</h2><ul class=\"bb_ul\"><li> Compare your score against the top 10 other players.<br></li><li> Watch replays of your games or from the leaderboards. You can start mid-game to practice!<br></li><li> Earn achievements when you've reached certain goals.</li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" >Shoot 'em up with physics</h2>A single mine detonation in this bullet hell game will send you flying around the screen. But never fear! Though the enemies keep coming faster, you have a <strong>teleportation module</strong> and an arsenal of weapons to defeat them. Blast them with your <strong>machine gun</strong>, melt them with your <strong>laser</strong> and smack them silly with your <strong>shotgun</strong>.<br><br><i>Fair warning:</i> this game has a moderate learning curve.<h2 class=\"bb_tag\" >Play Many Game Modes</h2><ul class=\"bb_ul\"><li> Survival - Play against endless waves of enemies.<br></li><li> Campaign - Defeat a carefully choreographed onslaught of enemies.<br></li><li> Thermal Meltdown - Avoiding getting melted by the cosmic power.<br></li><li> Color Defender - Pick up the right colored weapon to defeat the snakes.<br></li><li> Dodge This - How long can you survive in space as it gets more crowded?<br></li><li> There could be more in the future if I see significant player interest.</li></ul><h2 class=\"bb_tag\" >Other Key Features</h2><ul class=\"bb_ul\"><li> Compare your score against the top 10 other players.<br></li><li> Watch replays of your games or from the leaderboards. You can start mid-game to practice!<br></li><li> Earn achievements when you've reached certain goals.</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Leaderboards"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
+  "review_velocity_7d": 0.8,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 16,
-  "review_positive": 13,
+  "review_positive": 0,
   "review_percentage": 81.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +36,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 13,
-      "review_percentage": 76.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 16,
       "review_percentage": 81.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

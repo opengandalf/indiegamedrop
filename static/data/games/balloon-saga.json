@@ -3,8 +3,8 @@
   "name": "Balloon Saga",
   "slug": "balloon-saga",
   "developer": "Hede",
-  "publisher": "Hede",
-  "release_date": "Sep 21, 2020",
+  "publisher": "",
+  "release_date": "2020-09-21",
   "price_usd": 199.99,
   "genres": [
     "Action",
@@ -31,43 +31,17 @@
     "mac",
     "linux"
   ],
-  "short_description": "Balloon Saga is a physics based game in which the player needs to solve logic problems and fly to the top of the mountain with the help of balloons. Control the objects using your mouse. Get stars for completing the levels successfully.",
+  "short_description": "Balloon Saga is a physics based game in which the player needs to solve logic problems and fly to the top of the mountain with the help of balloons. Control the objects using your mouse. Get stars for",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413820/header.jpg?t=1709418645",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413820/ss_7ade63cece648fd086934a510f3d4fb3318e0338.600x338.jpg?t=1709418645",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413820/ss_3bceb93606a0c2e9de0dcf976f4f15b430e6a24f.600x338.jpg?t=1709418645",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413820/ss_2b1267253b1581fab6483ffb325c4a523a70d18c.600x338.jpg?t=1709418645",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413820/ss_6237f5a2af17b1a68895b0ab887953f896710761.600x338.jpg?t=1709418645",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413820/ss_9aef4d6a44733067c0bf8c85d5cc9d561a8bb65f.600x338.jpg?t=1709418645",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413820/ss_2400e18b60089f5a925fc10646d5511f3d16d9fe.600x338.jpg?t=1709418645",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413820/ss_d22e343359004c92ad7d164a8634ab044a062b4d.600x338.jpg?t=1709418645",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413820/ss_a1b52bacdad23a0d337655928f11902854afeac3.600x338.jpg?t=1709418645",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413820/ss_18d83712e2ee5370d4470fdcdecca8aabf2dfcd1.600x338.jpg?t=1709418645"
-  ],
-  "detailed_description": "Balloon Saga is a physics based game in which the player needs to solve logic problems and fly to the top of the mountain with the help of balloons. Control the objects using your mouse. Get stars for completing the levels successfully. <br />\r\n<br />\r\nMAIN GAME FEATURES:<br />\r\n1. Use different physical objects to help the hero get to the top of the mountain<br />\r\n2. Spin gears to close or open the way<br />\r\n3. Control the wind to move your balloons<br />\r\n4. Protect your balloons from hail and rocks<br />\r\n5. Hide the balloons in boxes<br />\r\n6. Launch rockets and destroy obstacles that get in your way<br />\r\n7. Get three stars for the best solution of each level",
-  "about_the_game": "Balloon Saga is a physics based game in which the player needs to solve logic problems and fly to the top of the mountain with the help of balloons. Control the objects using your mouse. Get stars for completing the levels successfully. <br />\r\n<br />\r\nMAIN GAME FEATURES:<br />\r\n1. Use different physical objects to help the hero get to the top of the mountain<br />\r\n2. Spin gears to close or open the way<br />\r\n3. Control the wind to move your balloons<br />\r\n4. Protect your balloons from hail and rocks<br />\r\n5. Hide the balloons in boxes<br />\r\n6. Launch rockets and destroy obstacles that get in your way<br />\r\n7. Get three stars for the best solution of each level",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Steam Achievements",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
+  "review_velocity_7d": 1.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 25,
-  "review_positive": 10,
+  "review_positive": 0,
   "review_percentage": 40.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -75,19 +49,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 22,
-      "review_percentage": 36.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 25,
       "review_percentage": 40.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Engraven",
   "slug": "engraven",
   "developer": "Skippydog Games",
-  "publisher": "Skippydog Games",
-  "release_date": "Aug 6, 2024",
+  "publisher": "",
+  "release_date": "2024-08-06",
   "price_usd": 2.99,
   "genres": [
     "Strategy"
@@ -19,32 +19,15 @@
   ],
   "short_description": "Engraven is a single player sci-fi real time tactics game. Build and customize your regiment of soldiers and fight endless hordes of sorcerers and graven thralls.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113550/header.jpg?t=1722956261",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113550/ss_63f9d632ef38df4adcf421d89ce1baca8107ab20.600x338.jpg?t=1722956261",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113550/ss_f6fb2f0564b181b1df85e40a75d1da8482171e82.600x338.jpg?t=1722956261",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113550/ss_65a69fd9bea45a0a5e597f8646fe039c54e7152c.600x338.jpg?t=1722956261",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113550/ss_7af68102142dd17f031a01e6da426ff0c9e782e2.600x338.jpg?t=1722956261",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3113550/ss_3ea45c139409d04179adb90c01711ae11ae8ba4d.600x338.jpg?t=1722956261"
-  ],
-  "detailed_description": "Inspired by the games like the Total War series and XCOM, Engraven puts you in charge of a group of conscripted soldiers, fighting to earn your freedom in a post-apocalyptic world.  As the leader of a regiment, you will equip your soldiers, replace their wounded limbs with cybernetic augmentations, and order them in battle through a system of squad orders and actions.",
-  "about_the_game": "Inspired by the games like the Total War series and XCOM, Engraven puts you in charge of a group of conscripted soldiers, fighting to earn your freedom in a post-apocalyptic world.  As the leader of a regiment, you will equip your soldiers, replace their wounded limbs with cybernetic augmentations, and order them in battle through a system of squad orders and actions.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

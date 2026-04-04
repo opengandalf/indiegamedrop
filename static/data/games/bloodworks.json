@@ -3,8 +3,8 @@
   "name": "Bloodworks",
   "slug": "bloodworks",
   "developer": "Engin Mercan",
-  "publisher": "Engin Mercan",
-  "release_date": "Dec 31, 2017",
+  "publisher": "",
+  "release_date": "2017-12-31",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -23,35 +23,15 @@
   ],
   "short_description": "Bloodworks is a free top-down survival action game where you fight against an endless waves of monsters. The odds are not in your favor!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/717990/header.jpg?t=1515819924",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/717990/ss_6bcdbefdde7c5c46ba38adbf4b818d1ae59e1136.600x338.jpg?t=1515819924",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/717990/ss_fc15e6c24719ce3145a0999c789e99876e3235e2.600x338.jpg?t=1515819924",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/717990/ss_4663c4b33c9d703b549792224b6ea860424c1e7a.600x338.jpg?t=1515819924",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/717990/ss_63f2065f181115adc567a2604ee630db5b5f7d61.600x338.jpg?t=1515819924",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/717990/ss_90d1ff3d4473734f46fef24c737bba6ea8615d40.600x338.jpg?t=1515819924",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/717990/ss_9aba1f01c91fab683c4b4e5e58d2c5c6cf51211c.600x338.jpg?t=1515819924"
-  ],
-  "detailed_description": "Bloodworks is a free top-down survival action game where you fight against an endless waves of monsters. The odds are not in your favor!<br />\r\n<br />\r\nIn Survival mode, you find new weapons as you fight, gain overpowered 'ultimate' weapons, unlock new perks as you level up. Currently there are 20 weapons and 5 ultimates you can eqip, 24 perks to choose and 15 bonuses to collect! The more will be added in future updates.<br />\r\n<br />\r\nThe game is extremely moddable. You can add new weapons, monsters, perks, bonuses or even mission types. The game play content of Bloodworks is written in Lua and Json and you can edit them by a text editor. You can download the mods that other people created or share your mods with others.<br />\r\n<br />\r\nIf you are interested in the project and want to contribute it, feel free to email me. The game is entirely open-source and the source can be found in my github page. Check readme file for more details.",
-  "about_the_game": "Bloodworks is a free top-down survival action game where you fight against an endless waves of monsters. The odds are not in your favor!<br />\r\n<br />\r\nIn Survival mode, you find new weapons as you fight, gain overpowered 'ultimate' weapons, unlock new perks as you level up. Currently there are 20 weapons and 5 ultimates you can eqip, 24 perks to choose and 15 bonuses to collect! The more will be added in future updates.<br />\r\n<br />\r\nThe game is extremely moddable. You can add new weapons, monsters, perks, bonuses or even mission types. The game play content of Bloodworks is written in Lua and Json and you can edit them by a text editor. You can download the mods that other people created or share your mods with others.<br />\r\n<br />\r\nIf you are interested in the project and want to contribute it, feel free to email me. The game is entirely open-source and the source can be found in my github page. Check readme file for more details.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Workshop",
-    "Partial Controller Support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 5.9,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 118,
-  "review_positive": 82,
+  "review_positive": 0,
   "review_percentage": 69.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 116,
-      "review_percentage": 68.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 118,
       "review_percentage": 69.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

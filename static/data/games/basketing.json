@@ -3,8 +3,8 @@
   "name": "Basketing",
   "slug": "basketing",
   "developer": "Gestalt Development Studio",
-  "publisher": "Gestalt Development Studio",
-  "release_date": "Jun 9, 2022",
+  "publisher": "",
+  "release_date": "2022-06-09",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -20,53 +20,17 @@
     "windows",
     "linux"
   ],
-  "short_description": "Basketing is the youngest sibling of Volleying! Thus, as another physics-based game, it also gives the players more control over their moves, delivering unique matches each round. Invite your friends over or play remotely and enjoy this predictably unpredictable experience!",
+  "short_description": "Basketing is the youngest sibling of Volleying! Thus, as another physics-based game, it also gives the players more control over their moves, delivering unique matches each round. Invite your friends ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342900/header.jpg?t=1695247246",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342900/ss_c8c82bbbeff57366dbb720bcc4d85d6eb44d0cda.600x338.jpg?t=1695247246",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342900/ss_2ce89030fda1897f6dc312fcfa5c7ae785d01dd9.600x338.jpg?t=1695247246",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342900/ss_4807c21b208556675f06245828895606b4b2f1f3.600x338.jpg?t=1695247246",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342900/ss_17814d90e3e1b8bd029f7a908236422aac706312.600x338.jpg?t=1695247246",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342900/ss_50551e2556f63daf5f9e49630f778303bde1148e.600x338.jpg?t=1695247246",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342900/ss_3db10efcfc3460b51fa72a55ab606f6d449e192c.600x338.jpg?t=1695247246",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342900/ss_0ec8f362832c09c352c029c3aef7d7efaa6eca18.600x338.jpg?t=1695247246",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342900/ss_bc311c464887294c1730d63975813a42652563fd.600x338.jpg?t=1695247246",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342900/ss_103f432d49e93fe1df7c749d4ce73aed634f2012.600x338.jpg?t=1695247246",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342900/ss_b6dfcaa66627548b311389a82131be1576755287.600x338.jpg?t=1695247246",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342900/ss_ba3d974da9ccd574f4cd2716bf68e63beb160c52.600x338.jpg?t=1695247246",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342900/ss_09394d42904f082aefd9e30e9942965961a2f727.600x338.jpg?t=1695247246"
-  ],
-  "detailed_description": "<strong>Basketing</strong> is a physics-based game where the objective is to control a sphere throughout the court and make the ball go inside of your opponent basket.<br><br>While jumping, you can use a small dash in either direction, or up. But remember it takes 5 seconds to load again.<br><br>In the <strong>arcade</strong> mode, there are <strong>items</strong> you can collect to temporarily change the <strong>behavior</strong> of the <strong>players</strong>, bringing funny situations to the game.<h2 class=\"bb_tag\" >Play with your friends</h2><br>You can play 1 x 1, 1 x 2 or 2 x 2. There's also a <strong>coop mode</strong> where you can test your skills against CPU with a friend.<br><br>Press the square brackets ( \"[\" and \"]\" ) to navigate between the sound tracks.<h2 class=\"bb_tag\" ><strong>How to customize Court and Players?</strong></h2><br><strong>Basketing</strong> allows you to customize the Court and the Players <strong>skins</strong>. The instructions for this are following: <br><ol><li><strong>Open the Steam Client > Right click on Basketing > Properties > Local Files > BROWSE LOCAL FILES</strong><br></li><li>Look inside the <strong>\"conf\"</strong> directory. There are the template files (player_.png and court_.png) for Players and the Court, as well the instructions of how to save the images... Pick your favorite image editor, create your images and play with your own artwork. </li></ol>Please feel free to share your images at <strong>Artwork</strong> tab in the <strong>Basketing Community</strong><br><br>Thanks for your support!",
-  "about_the_game": "<strong>Basketing</strong> is a physics-based game where the objective is to control a sphere throughout the court and make the ball go inside of your opponent basket.<br><br>While jumping, you can use a small dash in either direction, or up. But remember it takes 5 seconds to load again.<br><br>In the <strong>arcade</strong> mode, there are <strong>items</strong> you can collect to temporarily change the <strong>behavior</strong> of the <strong>players</strong>, bringing funny situations to the game.<h2 class=\"bb_tag\" >Play with your friends</h2><br>You can play 1 x 1, 1 x 2 or 2 x 2. There's also a <strong>coop mode</strong> where you can test your skills against CPU with a friend.<br><br>Press the square brackets ( \"[\" and \"]\" ) to navigate between the sound tracks.<h2 class=\"bb_tag\" ><strong>How to customize Court and Players?</strong></h2><br><strong>Basketing</strong> allows you to customize the Court and the Players <strong>skins</strong>. The instructions for this are following: <br><ol><li><strong>Open the Steam Client > Right click on Basketing > Properties > Local Files > BROWSE LOCAL FILES</strong><br></li><li>Look inside the <strong>\"conf\"</strong> directory. There are the template files (player_.png and court_.png) for Players and the Court, as well the instructions of how to save the images... Pick your favorite image editor, create your images and play with your own artwork. </li></ol>Please feel free to share your images at <strong>Artwork</strong> tab in the <strong>Basketing Community</strong><br><br>Thanks for your support!",
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Bulgarian<strong>*</strong>, Czech<strong>*</strong>, Danish<strong>*</strong>, Dutch<strong>*</strong>, Finnish<strong>*</strong>, Greek<strong>*</strong>, Hungarian<strong>*</strong>, Indonesian<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Romanian<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Swedish<strong>*</strong>, Thai<strong>*</strong>, Traditional Chinese<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Vietnamese<strong>*</strong>, Afrikaans<strong>*</strong>, Albanian<strong>*</strong>, Amharic<strong>*</strong>, Armenian<strong>*</strong>, Assamese<strong>*</strong>, Azerbaijani<strong>*</strong>, Bangla<strong>*</strong>, Basque<strong>*</strong>, Belarusian<strong>*</strong>, Bosnian<strong>*</strong>, Catalan<strong>*</strong>, Cherokee<strong>*</strong>, Croatian<strong>*</strong>, Dari<strong>*</strong>, Estonian<strong>*</strong>, Filipino<strong>*</strong>, Galician<strong>*</strong>, Georgian<strong>*</strong>, Gujarati<strong>*</strong>, Hausa<strong>*</strong>, Hebrew<strong>*</strong>, Hindi<strong>*</strong>, Icelandic<strong>*</strong>, Igbo<strong>*</strong>, Irish<strong>*</strong>, K'iche'<strong>*</strong>, Kannada<strong>*</strong>, Kazakh<strong>*</strong>, Khmer<strong>*</strong>, Kinyarwanda<strong>*</strong>, Konkani<strong>*</strong>, Kyrgyz<strong>*</strong>, Latvian<strong>*</strong>, Lithuanian<strong>*</strong>, Luxembourgish<strong>*</strong>, Macedonian<strong>*</strong>, Malay<strong>*</strong>, Malayalam<strong>*</strong>, Maltese<strong>*</strong>, Maori<strong>*</strong>, Marathi<strong>*</strong>, Mongolian<strong>*</strong>, Nepali<strong>*</strong>, Odia<strong>*</strong>, Persian<strong>*</strong>, Punjabi (Gurmukhi)<strong>*</strong>, Punjabi (Shahmukhi)<strong>*</strong>, Quechua<strong>*</strong>, Scots<strong>*</strong>, Serbian<strong>*</strong>, Sindhi<strong>*</strong>, Sinhala<strong>*</strong>, Slovak<strong>*</strong>, Slovenian<strong>*</strong>, Sorani<strong>*</strong>, Sotho<strong>*</strong>, Swahili<strong>*</strong>, Tajik<strong>*</strong>, Tamil<strong>*</strong>, Tatar<strong>*</strong>, Telugu<strong>*</strong>, Tigrinya<strong>*</strong>, Tswana<strong>*</strong>, Turkmen<strong>*</strong>, Urdu<strong>*</strong>, Uyghur<strong>*</strong>, Uzbek<strong>*</strong>, Valencian<strong>*</strong>, Welsh<strong>*</strong>, Wolof<strong>*</strong>, Xhosa<strong>*</strong>, Yoruba<strong>*</strong>, Zulu<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Steam Achievements",
-    "Full controller support",
-    "Remote Play on Phone",
-    "Remote Play on Tablet",
-    "Remote Play on TV",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.4,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 8,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -74,19 +38,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 85.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

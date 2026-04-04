@@ -3,8 +3,8 @@
   "name": "Dire Island",
   "slug": "dire-island",
   "developer": "Shadow Outpost",
-  "publisher": "Shadow Outpost",
-  "release_date": "Feb 3, 2024",
+  "publisher": "",
+  "release_date": "2024-02-03",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -21,43 +21,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Caught in a sudden storm, your team's once-promising voyage ended in disaster, leaving you stranded on Dire Island. United by the need for survival, you now face the island's mysteries and challenges together.",
+  "short_description": "Caught in a sudden storm, your team's once-promising voyage ended in disaster, leaving you stranded on Dire Island. United by the need for survival, you now face the island's mysteries and challenges ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476710/header.jpg?t=1706953932",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476710/ss_e069e8ede1b3935f6b9f93d41417ac41af159376.600x338.jpg?t=1706953932",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476710/ss_cfce6d0410adc25ee03e14eefde4cecaad708e6e.600x338.jpg?t=1706953932",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476710/ss_0aef84635872b3fb65f1f0de883061662606bc32.600x338.jpg?t=1706953932",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476710/ss_25f5d2743b8850dd9eb7414d913adb831c5b51d1.600x338.jpg?t=1706953932",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476710/ss_4cbc675e4b57e0cf9262f4752a6c0fbf2163f5bf.600x338.jpg?t=1706953932",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476710/ss_1b5a99e6fae5dd1efe42d39bac049965f4d1e2f4.600x338.jpg?t=1706953932",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476710/ss_8366d2ca191206bd13fe3682224162779c9216b1.600x338.jpg?t=1706953932",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476710/ss_e861d0fa33d614aa6083993b7da607f338eef0df.600x338.jpg?t=1706953932",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476710/ss_e71894a46ae0f9109a18a0ea37cd7c856ab888cc.600x338.jpg?t=1706953932",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476710/ss_db862fdcbf2c55831692a2879b4ecce3e247f8df.600x338.jpg?t=1706953932",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476710/ss_76fb5c7b0c09f1fbc7f6e9453feae116e53cf527.600x338.jpg?t=1706953932"
-  ],
-  "detailed_description": "As the unexpected storm shattered your boat, your team found themselves marooned on Dire Island. United in the pursuit of survival, you must now navigate the enigmatic challenges that lie ahead, unraveling the island's hidden secrets and forging bonds in the crucible of adversity.<br><strong>Fighting</strong><br>Fight against the dire of strange island.<br><strong>Survival</strong><br>Explore, hunting animal, gather food/item during the day. Defend or stay low at night with a campfire and barricade house.<br>Use stealth to evade enemies, or hunting them directly with whatever weapon you have.<br><strong>Co-op</strong><br>Cooperate with friends to Survival, Explore and Adventure together!",
-  "about_the_game": "As the unexpected storm shattered your boat, your team found themselves marooned on Dire Island. United in the pursuit of survival, you must now navigate the enigmatic challenges that lie ahead, unraveling the island's hidden secrets and forging bonds in the crucible of adversity.<br><strong>Fighting</strong><br>Fight against the dire of strange island.<br><strong>Survival</strong><br>Explore, hunting animal, gather food/item during the day. Defend or stay low at night with a campfire and barricade house.<br>Use stealth to evade enemies, or hunting them directly with whatever weapon you have.<br><strong>Co-op</strong><br>Cooperate with friends to Survival, Explore and Adventure together!",
-  "supported_languages": "English<strong>*</strong>, French, German, Japanese, Korean, Simplified Chinese, Traditional Chinese, Vietnamese<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Online Co-op",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 7,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 85.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -65,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 8,
-      "review_percentage": 87.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 85.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

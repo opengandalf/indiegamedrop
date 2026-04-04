@@ -3,8 +3,8 @@
   "name": "Audioship",
   "slug": "audioship",
   "developer": "Insanity Interactive",
-  "publisher": "Insanity Interactive",
-  "release_date": "Jul 25, 2017",
+  "publisher": "",
+  "release_date": "2017-07-25",
   "price_usd": 1.49,
   "genres": [
     "Indie"
@@ -15,47 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Audioship is a music-adapting Top-Down Shooter where you use your own music to create your own experience. The bullets, the enemies and the mood of each game is determined by the song you choose. Play solo or in local multiplayer modus with up to 4 players and reach the highest score.",
+  "short_description": "Audioship is a music-adapting Top-Down Shooter where you use your own music to create your own experience. The bullets, the enemies and the mood of each game is determined by the song you choose. Play",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/header.jpg?t=1572355307",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_bae97d6911a95f27c6ffa69e2a8aa98a80003565.600x338.jpg?t=1572355307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_58a64ba6fb3a3b1f51384253cef8ed7849b6503d.600x338.jpg?t=1572355307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_593cbc9e37655cab1df476e0b21a242a1ebe8827.600x338.jpg?t=1572355307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_4476a2e03cbc664371bcf1672bb5802108c495a6.600x338.jpg?t=1572355307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_92f63002be9129d79288f136dd69f36dc66fafa4.600x338.jpg?t=1572355307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_1e656580951afb6bc5fa5ca6a22f32ba49f4293d.600x338.jpg?t=1572355307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_909d4fb372742963ebdd7f0badd3dd00b079a211.600x338.jpg?t=1572355307",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661560/ss_909d4fb372742963ebdd7f0badd3dd00b079a211.600x338.jpg?t=1572355307"
-  ],
-  "detailed_description": "Audioship turns your music into a visual experience. Just select any music file and play. Keep an eye on the color of your opponents.<br>You can switch between 3 difficulty levels and 2 game modes.<br>In the normal mode you play with the default settings. The \"Test your luck\" mode changes randomly 3 properties. These can be good or bad for you.<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li>Choose your own music<br></li><li>Color based battle system<br></li><li>Different types of enemies<br></li><li>Local multiplayer mode with 2-4 players<br></li><li>\"Test Your Luck\" mode<br></li><li>Offline highscore<br></li><li>Steam leaderboard<br></li><li>Steam achievments</li></ul>",
-  "about_the_game": "Audioship turns your music into a visual experience. Just select any music file and play. Keep an eye on the color of your opponents.<br>You can switch between 3 difficulty levels and 2 game modes.<br>In the normal mode you play with the default settings. The \"Test your luck\" mode changes randomly 3 properties. These can be good or bad for you.<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li>Choose your own music<br></li><li>Color based battle system<br></li><li>Different types of enemies<br></li><li>Local multiplayer mode with 2-4 players<br></li><li>\"Test Your Luck\" mode<br></li><li>Offline highscore<br></li><li>Steam leaderboard<br></li><li>Steam achievments</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Steam Leaderboards",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 4,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -63,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

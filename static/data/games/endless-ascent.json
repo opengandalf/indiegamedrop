@@ -3,8 +3,8 @@
   "name": "Endless Ascent",
   "slug": "endless-ascent",
   "developer": "OmGi",
-  "publisher": "OmGi",
-  "release_date": "Mar 8, 2024",
+  "publisher": "",
+  "release_date": "2024-03-08",
   "price_usd": 0.0,
   "genres": [
     "Indie",
@@ -19,32 +19,15 @@
   ],
   "short_description": "In a tower filled with robots and... magic! Ascend your way out with confusing puzzles and mind-torturing obstacles in your way!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847400/header.jpg?t=1764931264",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847400/ss_0eed022220b1e7e7c5972fb6d5eb11781ff0975e.600x338.jpg?t=1764931264",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847400/ss_46defae776054024c7d6d79d0ffef9ee46d005d1.600x338.jpg?t=1764931264",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847400/ss_80bfb4b06490c6a90d61d7ee2cf4adad55d9da54.600x338.jpg?t=1764931264",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847400/ss_49daf092ff1d54c0953e08303609943844130979.600x338.jpg?t=1764931264",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847400/ss_a51db17eee3fe146c09197a3d655a2dae36d959f.600x338.jpg?t=1764931264"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>Trapped in an endless tower.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><i>You have to go through 10 levels, some hard and some easy.</i></strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Make sure to always read the level hints + inspect every corner for helpful objects you might need!</p><p class=\"bb_paragraph\" ></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>Trapped in an endless tower.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><i>You have to go through 10 levels, some hard and some easy.</i></strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Make sure to always read the level hints + inspect every corner for helpful objects you might need!</p><p class=\"bb_paragraph\" ></p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0006,
+  "screenshots": [],
+  "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 7.0,
+  "review_velocity_7d": 2.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 42,
-  "review_positive": 33,
+  "review_positive": 0,
   "review_percentage": 78.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 35,
-      "review_percentage": 77.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 42,
       "review_percentage": 78.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Tornado Driver",
   "slug": "tornado-driver",
   "developer": "Vutune",
-  "publisher": "Vutune",
-  "release_date": "Jun 7, 2020",
+  "publisher": "",
+  "release_date": "2020-06-07",
   "price_usd": 0.69,
   "genres": [
     "Action",
@@ -23,59 +23,27 @@
   ],
   "short_description": "Endless runner game with different environments and objects being randomly generated.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328050/header.jpg?t=1751385665",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328050/ss_073272eb17a2240c731eabfd9401e09d37e6370e.600x338.jpg?t=1751385665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328050/ss_0e3c8d38903a81110f43dd48ceece64f3b7bef38.600x338.jpg?t=1751385665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328050/ss_5342a7f8ea4d61a608aa0517a5024bd5df3494a7.600x338.jpg?t=1751385665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328050/ss_6526fa2b56c12c3279351a828d82864525a62165.600x338.jpg?t=1751385665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328050/ss_01dbb6ef9ae9035c975903eab30f1603013c7fff.600x338.jpg?t=1751385665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328050/ss_9c8fa74c4918e94e7157e2090edc069a4b664dd5.600x338.jpg?t=1751385665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328050/ss_5bae9d43de6e45e3f80278a2f6e165ea264ea29c.600x338.jpg?t=1751385665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328050/ss_11f524b855aa7b1bb717df4cedde2331352dd620.600x338.jpg?t=1751385665",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328050/ss_a50b0003fd0f88beddd75a8099bba3f9ec685179.600x338.jpg?t=1751385665"
-  ],
-  "detailed_description": "\"<strong>Tornado Driver</strong>\" is an endless <i>driver</i> game with random and procedural generation!<br><br>Maps:<br><br><ul class=\"bb_ul\"><li>DESERT</li></ul><ul class=\"bb_ul\"><li>BLIZZARD</li></ul><ul class=\"bb_ul\"><li>WOODLAND</li></ul><br>Objects:<br><br><ul class=\"bb_ul\"><li>GATE (<i>+1 point</i>)</li></ul><ul class=\"bb_ul\"><li>SPIKE (<i>Instant elimination</i>)</li></ul><br>It's a <strong>DIFFICULT</strong> game! There are also challenging achievements that will prove your skills.<br><br>Are you ready to reach the <strong>HIGHEST</strong> scores?",
-  "about_the_game": "\"<strong>Tornado Driver</strong>\" is an endless <i>driver</i> game with random and procedural generation!<br><br>Maps:<br><br><ul class=\"bb_ul\"><li>DESERT</li></ul><ul class=\"bb_ul\"><li>BLIZZARD</li></ul><ul class=\"bb_ul\"><li>WOODLAND</li></ul><br>Objects:<br><br><ul class=\"bb_ul\"><li>GATE (<i>+1 point</i>)</li></ul><ul class=\"bb_ul\"><li>SPIKE (<i>Instant elimination</i>)</li></ul><br>It's a <strong>DIFFICULT</strong> game! There are also challenging achievements that will prove your skills.<br><br>Are you ready to reach the <strong>HIGHEST</strong> scores?",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.9345,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 22,
-  "review_positive": 21,
+  "review_positive": 0,
   "review_percentage": 95.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 21,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 22,
       "review_percentage": 95.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

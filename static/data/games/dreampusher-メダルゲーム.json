@@ -3,8 +3,8 @@
   "name": "DreamPusher　メダルゲーム",
   "slug": "dreampusher-メダルゲーム",
   "developer": "RG_SOFT",
-  "publisher": "RG_SOFT",
-  "release_date": "Mar 16, 2022",
+  "publisher": "",
+  "release_date": "2022-03-16",
   "price_usd": 5.99,
   "genres": [
     "Simulation"
@@ -17,37 +17,15 @@
   ],
   "short_description": "Easy operation with just a tap! It's a medal pusher game like in an arcade! The maximum number of JP payouts is 99999, which is a threat!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1923290/header.jpg?t=1706804194",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1923290/ss_8df3df2a09143525dfaf8913bd3b641f0d590a33.600x338.jpg?t=1706804194",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1923290/ss_5de3d62f5c406e605275f64c430d3222ac47006c.600x338.jpg?t=1706804194",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1923290/ss_5b1ea2d2fb98a4280a6a2a4de8f1f6efb58ed7e9.600x338.jpg?t=1706804194",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1923290/ss_b303e9b82f929e133c541713be61b177091d4066.600x338.jpg?t=1706804194",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1923290/ss_da94ad26462f46b7692eea48371f75842f5d228a.600x338.jpg?t=1706804194",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1923290/ss_480ac21fad807d2da1c2bfc15b7dfda67579d19a.600x338.jpg?t=1706804194",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1923290/ss_f16304388907b67b78362132b5c2120d7f95db22.600x338.jpg?t=1706804194",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1923290/ss_321120eaf09f5b923ec2610f543c40b989bfb4d2.600x338.jpg?t=1706804194",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1923290/ss_d6da73c81847306928d5037d99dde5d47f08e223.600x338.jpg?t=1706804194"
-  ],
-  "detailed_description": "Dream Pusher can be played in a total of 8 games such as medal pusher games that are common in arcades, physical lottery games, and video slots.<br>Some games have a ranking function that allows you to compete with players from all over the country.<br><br>[Customization function]<br>Various items can be set from the options for the pusher game.<br>You can play with your favorite settings.<br><br>[Differences from the Android version]<br>・The field size of the pusher game is about 1.5 times larger.<br>・Can play in online mode.<br>・The frame rate up to 120 FPS.<br>・No advertisement is displayed.<br>・Ranking data is saved separately from the Android version.<br><br>[Operation for PC version]<br>F11: Switching window size<br>Alt + Enter: Full screen switch",
-  "about_the_game": "Dream Pusher can be played in a total of 8 games such as medal pusher games that are common in arcades, physical lottery games, and video slots.<br>Some games have a ranking function that allows you to compete with players from all over the country.<br><br>[Customization function]<br>Various items can be set from the options for the pusher game.<br>You can play with your favorite settings.<br><br>[Differences from the Android version]<br>・The field size of the pusher game is about 1.5 times larger.<br>・Can play in online mode.<br>・The frame rate up to 120 FPS.<br>・No advertisement is displayed.<br>・Ranking data is saved separately from the Android version.<br><br>[Operation for PC version]<br>F11: Switching window size<br>Alt + Enter: Full screen switch",
-  "supported_languages": "Japanese, English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.45,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 9,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 88.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 88.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 88.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

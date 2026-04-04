@@ -3,8 +3,8 @@
   "name": "Viewergames Racing",
   "slug": "viewergames-racing",
   "developer": "Spaceflower",
-  "publisher": "Spaceflower",
-  "release_date": "Nov 13, 2020",
+  "publisher": "",
+  "release_date": "2020-11-13",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -23,52 +23,27 @@
   ],
   "short_description": "This is an arcade racing game specifically tailored for Twitch Streamers to play with their viewers.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1440090/header.jpg?t=1702652310",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1440090/ss_0ef8f4d2e515d4461121f4cee158cb5490aea20f.600x338.jpg?t=1702652310",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1440090/ss_392584a7bf7c693ec3ac0586cb3d283b70d23385.600x338.jpg?t=1702652310",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1440090/ss_023cec4aec4683b36a0adefe9df54b52f99c01ec.600x338.jpg?t=1702652310",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1440090/ss_019ab82e9c80feb11b445c2927d163a7e1e513a8.600x338.jpg?t=1702652310"
-  ],
-  "detailed_description": "This is a small racing game specifically tailored for <strong>Twitch Streamers</strong>.<br>As a streamer, you fire up the game and your viewers can immediately join in without any additional downloads.<br><br>Many of Twitch's integration features are supported:<br><ul class=\"bb_ul\"><li>A <strong>Twitch Extension</strong> for convenient controlling and interaction of viewers directly from the channel page - Manage car layouts, fire items, unleash chaos!<br></li><li>Use <strong>Channel Points</strong> for even more chaos and fancy stuff<br></li><li>Allows use of <strong>Twitch Bits</strong> to support the streamer and the developers <3<br></li><li>Unlock cars & skins<br></li><li>Ranking & Seasons</li></ul>",
-  "about_the_game": "This is a small racing game specifically tailored for <strong>Twitch Streamers</strong>.<br>As a streamer, you fire up the game and your viewers can immediately join in without any additional downloads.<br><br>Many of Twitch's integration features are supported:<br><ul class=\"bb_ul\"><li>A <strong>Twitch Extension</strong> for convenient controlling and interaction of viewers directly from the channel page - Manage car layouts, fire items, unleash chaos!<br></li><li>Use <strong>Channel Points</strong> for even more chaos and fancy stuff<br></li><li>Allows use of <strong>Twitch Bits</strong> to support the streamer and the developers <3<br></li><li>Unlock cars & skins<br></li><li>Ranking & Seasons</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.8603,
   "hype_score": 0.0,
   "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 34,
-  "review_positive": 32,
+  "review_positive": 0,
   "review_percentage": 94.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 34,
-      "review_percentage": 91.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 34,
       "review_percentage": 94.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

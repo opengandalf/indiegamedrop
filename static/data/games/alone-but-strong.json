@@ -3,8 +3,8 @@
   "name": "Alone but strong",
   "slug": "alone-but-strong",
   "developer": "Victor Frankenstein",
-  "publisher": "Victor Frankenstein",
-  "release_date": "Dec 16, 2021",
+  "publisher": "",
+  "release_date": "2021-12-16",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -19,33 +19,15 @@
   ],
   "short_description": "A single player first-person action shooter.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1827300/header.jpg?t=1639646341",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1827300/ss_0ddd2de6e4c89d0aa8e31109f0e06d7b97fdd294.600x338.jpg?t=1639646341",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1827300/ss_81b74ee60cb83686563ac2ce898f94e23b3051ad.600x338.jpg?t=1639646341",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1827300/ss_a4b1465652d743a2dd5bf086173d6e1f4f13500c.600x338.jpg?t=1639646341",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1827300/ss_1503e7a629c5988cf0992632bb307e1cbc2c6fc6.600x338.jpg?t=1639646341",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1827300/ss_099b76ff3f55db73d0d4b90bf2ac02f6bb6383ca.600x338.jpg?t=1639646341",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1827300/ss_5e8f56de50f5f65295f04ba433c8782afe509067.600x338.jpg?t=1639646341"
-  ],
-  "detailed_description": "This is a single player first-person action shooter. <br><br><ul class=\"bb_ul\"><li>Easy and uncomplicated to play. Not so much stealth and sniping but more of speed and action. <br></li><li>19 levels.<br></li><li>A relatively open world allows the player to choose any path. Shoot all enemies or just run through the level.<br></li><li>A mixture of realistic environment and unrealistic enemies. <br></li><li>The humanoid enemies are zombies and biomechanical mutants.<br></li><li>A large mech fires homing missiles.<br></li><li>Another mech is armed with machine guns.<br></li><li>The humanoid enemies chase the player.<br></li><li>All enemies explode on close contact with the player.<br></li><li>The biomechanical mutants shoot fireballs.<br></li><li>Seems to work well with linux + proton. </li></ul>",
-  "about_the_game": "This is a single player first-person action shooter. <br><br><ul class=\"bb_ul\"><li>Easy and uncomplicated to play. Not so much stealth and sniping but more of speed and action. <br></li><li>19 levels.<br></li><li>A relatively open world allows the player to choose any path. Shoot all enemies or just run through the level.<br></li><li>A mixture of realistic environment and unrealistic enemies. <br></li><li>The humanoid enemies are zombies and biomechanical mutants.<br></li><li>A large mech fires homing missiles.<br></li><li>Another mech is armed with machine guns.<br></li><li>The humanoid enemies chase the player.<br></li><li>All enemies explode on close contact with the player.<br></li><li>The biomechanical mutants shoot fireballs.<br></li><li>Seems to work well with linux + proton. </li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 7,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 42.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 42.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 42.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

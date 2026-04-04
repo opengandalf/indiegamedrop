@@ -3,8 +3,8 @@
   "name": "Soldat",
   "slug": "soldat",
   "developer": "Transhuman Design, Soldat Team",
-  "publisher": "Transhuman Design",
-  "release_date": "Apr 15, 2020",
+  "publisher": "",
+  "release_date": "2020-04-15",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -21,64 +21,27 @@
   ],
   "short_description": "Soldat is a unique 2D (side-view) multiplayer action game. Soldiers fight against each other in 2D battle arenas using a deadly arsenal of military weapons, across 7 default game modes.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638490/header.jpg?t=1756567404",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638490/ss_9e7d793fcdcb54140b1080183e2c9a25e7d35c98.600x338.jpg?t=1756567404",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638490/ss_5a26173e9ea53d1cbaba87580a7ce2277b23d800.600x338.jpg?t=1756567404",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638490/ss_ac6e6b811592e5b1447f8e9a04740c5f482f0eba.600x338.jpg?t=1756567404",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638490/ss_fbbd62dc7b059ae380c595ca1ee6acedcbcf2f4a.600x338.jpg?t=1756567404",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638490/ss_13a10b99e8faff0a70a9e64d104e003a2e44c0cf.600x338.jpg?t=1756567404",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638490/ss_3d8a9b09b2a631c91cdf7e2de2a5136e82730e90.600x338.jpg?t=1756567404"
-  ],
-  "detailed_description": "<h1>The official sequel</h1><p></p><br><h1>About the Game</h1><strong><i>Soldat</i></strong> is a unique 2D (side-view) multiplayer action game. It has been influenced by the best of games such as Liero, Worms, Quake, and Counter-Strike and provides a fast-paced gaming experience with tons of blood and flesh. Soldiers fight against each other in 2D battle arenas using a deadly arsenal of military weapons, across 7 default game modes. It features 18 different weapons and 60 maps to frag away on, with full support for user created content.",
-  "about_the_game": "<strong><i>Soldat</i></strong> is a unique 2D (side-view) multiplayer action game. It has been influenced by the best of games such as Liero, Worms, Quake, and Counter-Strike and provides a fast-paced gaming experience with tons of blood and flesh. Soldiers fight against each other in 2D battle arenas using a deadly arsenal of military weapons, across 7 default game modes. It features 18 different weapons and 60 maps to frag away on, with full support for user created content.",
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Czech, Dutch, Finnish, Greek, Hungarian, Polish, Russian, Swedish, Thai, Turkish, Ukrainian<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "LAN PvP",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 47.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 1781,
-  "review_positive": 1680,
+  "review_positive": 0,
   "review_percentage": 94.3,
   "owner_estimate": 350000,
-  "ccu_estimate": 3,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 59,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1734,
-      "review_percentage": 94.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 1781,
       "review_percentage": 94.3,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
-      "review_count": 1781,
-      "review_percentage": 94.3,
-      "ccu_estimate": 3,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

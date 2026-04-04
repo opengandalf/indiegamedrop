@@ -3,8 +3,8 @@
   "name": "Higher or Black",
   "slug": "higher-or-black",
   "developer": "Zashiko",
-  "publisher": "Zashiko",
-  "release_date": "Aug 10, 2023",
+  "publisher": "",
+  "release_date": "2023-08-10",
   "price_usd": 4.99,
   "genres": [
     "Casual",
@@ -21,37 +21,7 @@
   ],
   "short_description": "A card game where the objective is to correctly predict the next card. If one fails to do so, they will be punished and have to try again.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2519570/header.jpg?t=1691700596",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2519570/ss_223ea40d03a683685ef202b03ec290381153c8eb.600x338.jpg?t=1691700596",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2519570/ss_4e64738f407e51978a470255217cd75a57e12e5e.600x338.jpg?t=1691700596",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2519570/ss_f2cb9fc4518720b425fdaa5276f482345d48d490.600x338.jpg?t=1691700596",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2519570/ss_142674227c668b8604b759a8a6a373dd7e0fdb81.600x338.jpg?t=1691700596",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2519570/ss_03a506dd8fba7bee7d2ed367cb558d6baf4d0ca4.600x338.jpg?t=1691700596"
-  ],
-  "detailed_description": "A card game in which the goal is to correctly predict the next card. If the player fails to do so, they are punished and must try again.<br />\r\n<br />\r\nThe rules of this game are quite simple.<br />\r\n<br />\r\nOne player starts by guessing whether the next card will be higher or black. If the player fails to make a correct prediction, they are punished (e.g., take a sip of a drink) and must try again.<br />\r\nThis continues until the player makes a correct prediction. Once the player has guessed the correct card, they get to choose who will guess the next card.<br />\r\n<br />\r\nSpecial rules can be found in the game, so there's no need to memorize them separately.<br />\r\n<br />\r\nIf the deck is empty and players want to continue playing, they can shuffle the cards again.",
-  "about_the_game": "A card game in which the goal is to correctly predict the next card. If the player fails to do so, they are punished and must try again.<br />\r\n<br />\r\nThe rules of this game are quite simple.<br />\r\n<br />\r\nOne player starts by guessing whether the next card will be higher or black. If the player fails to make a correct prediction, they are punished (e.g., take a sip of a drink) and must try again.<br />\r\nThis continues until the player makes a correct prediction. Once the player has guessed the correct card, they get to choose who will guess the next card.<br />\r\n<br />\r\nSpecial rules can be found in the game, so there's no need to memorize them separately.<br />\r\n<br />\r\nIf the deck is empty and players want to continue playing, they can shuffle the cards again.",
-  "supported_languages": "English, German",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 1,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -61,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

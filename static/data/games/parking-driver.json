@@ -3,8 +3,8 @@
   "name": "Parking Driver",
   "slug": "parking-driver",
   "developer": "BlobGame",
-  "publisher": "BlobGame",
-  "release_date": "Mar 26, 2024",
+  "publisher": "",
+  "release_date": "2024-03-26",
   "price_usd": 1.19,
   "genres": [
     "Casual",
@@ -21,33 +21,9 @@
   ],
   "short_description": "Parking simulator, come and challenge it now",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2861270/header.jpg?t=1711436774",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2861270/ss_2e23500984dea9003044eddcabe96f99f0e540a9.600x338.jpg?t=1711436774",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2861270/ss_b580f135c022984e95b09b720f58da0a3dad99b4.600x338.jpg?t=1711436774",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2861270/ss_8ea986f258c7d62c5d7560554bed71234d3c9e44.600x338.jpg?t=1711436774",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2861270/ss_c8e8f36e768abe5734d0b6daf7157228c81fbc99.600x338.jpg?t=1711436774",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2861270/ss_3018fd6fa9c59c631434c6a1a0f1746e50ac6566.600x338.jpg?t=1711436774"
-  ],
-  "detailed_description": "This is a simulation parking game with a total of 28 levels, roughly ranging from easy to difficult.<br />\r\n<br />\r\nIf you have rich driving experience in reality, then you must also be at ease in the game.",
-  "about_the_game": "This is a simulation parking game with a total of 28 levels, roughly ranging from easy to difficult.<br />\r\n<br />\r\nIf you have rich driving experience in reality, then you must also be at ease in the game.",
-  "supported_languages": "English, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 5,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

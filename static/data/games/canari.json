@@ -3,8 +3,8 @@
   "name": "CANARI",
   "slug": "canari",
   "developer": "PixelBot Games",
-  "publisher": "PixelBot Games",
-  "release_date": "Sep 28, 2017",
+  "publisher": "",
+  "release_date": "2017-09-28",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -22,36 +22,17 @@
     "windows",
     "mac"
   ],
-  "short_description": "CANARI is a 3d rogue-like in the dark. Players control LUMIN a shipwrecked robot who uses its flashlight to fend off creatures in the darkness. Collect energy from crystals and look for loot to power up your robot; hidden in the constantly changing labyrinth of caves.",
+  "short_description": "CANARI is a 3d rogue-like in the dark. Players control LUMIN a shipwrecked robot who uses its flashlight to fend off creatures in the darkness. Collect energy from crystals and look for loot to power ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/672010/header.jpg?t=1506624686",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/672010/ss_7976f8422089d38f6b25717159f78ad64434ce64.600x338.jpg?t=1506624686",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/672010/ss_610a5d6f2487a94e78ebfddfe0d5c5722ad2e70f.600x338.jpg?t=1506624686",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/672010/ss_8897a22357b67c319c38e3920614df3878a525a1.600x338.jpg?t=1506624686",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/672010/ss_5bc1ec44a37120082bbe37f5aafcc5d26ecd65e0.600x338.jpg?t=1506624686",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/672010/ss_9ff6654196f6bee2ae9f5e78f7bea0e7bc1b9c6e.600x338.jpg?t=1506624686"
-  ],
-  "detailed_description": "CANARI is a science fiction, dual stick action rogue-like not quite like any other.<br><br><ul class=\"bb_ul\"><li>Fend off creatures of the darkness utilizing light as your weapon<br></li><li>Upgrade your robot as you find hidden treasures<br></li><li>Purchase equipment to make your bot stronger<br></li><li>Blend of procedural and hand crafted levels<br></li><li>Master the mechanics with unique enemy encounters and dangerous landscapes</li></ul><br>The CANARI Corporation is the lucrative entrepreneur responsible for supplying Earth-One with natural resources now that our home world has gone barren. Asteroids and exotic planets contain all of the resources the human race needs. Astro-mining is a dangerous job for humans. So we've outsourced.<br><br>Logging into your terminal you find that a rogue LUMIN (light utility bot) is requesting pilot assistance. It seems he's crashed landed on a not so hospitable rock and the impact damaged his auto-pilot capabilities.<br><br>Your job is to reunite LUMIN with his ship while avoiding what lurks in the darkness. By extracting energy rich crystals, you are able to rebuild your robot stronger than ever after each death. Out of energy, no more robots. Death is certain. Failure is not.",
-  "about_the_game": "CANARI is a science fiction, dual stick action rogue-like not quite like any other.<br><br><ul class=\"bb_ul\"><li>Fend off creatures of the darkness utilizing light as your weapon<br></li><li>Upgrade your robot as you find hidden treasures<br></li><li>Purchase equipment to make your bot stronger<br></li><li>Blend of procedural and hand crafted levels<br></li><li>Master the mechanics with unique enemy encounters and dangerous landscapes</li></ul><br>The CANARI Corporation is the lucrative entrepreneur responsible for supplying Earth-One with natural resources now that our home world has gone barren. Asteroids and exotic planets contain all of the resources the human race needs. Astro-mining is a dangerous job for humans. So we've outsourced.<br><br>Logging into your terminal you find that a rogue LUMIN (light utility bot) is requesting pilot assistance. It seems he's crashed landed on a not so hospitable rock and the impact damaged his auto-pilot capabilities.<br><br>Your job is to reunite LUMIN with his ship while avoiding what lurks in the darkness. By extracting energy rich crystals, you are able to rebuild your robot stronger than ever after each death. Out of energy, no more robots. Death is certain. Failure is not.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Captions available",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +40,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

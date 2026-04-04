@@ -3,8 +3,8 @@
   "name": "Card of spirits",
   "slug": "card-of-spirits",
   "developer": "RMking",
-  "publisher": "RMking",
-  "release_date": "Jun 21, 2016",
+  "publisher": "",
+  "release_date": "2016-06-21",
   "price_usd": 0.49,
   "genres": [
     "Casual",
@@ -19,65 +19,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "《Card of spirits》 is a game with Japanese cartoon style, by 8 ordinary cards with numbers through 1 ~ 8 and 4 special card with a total of 12 cards, every turn the player must surpass the total value of the opponent, The player with higher total value win at the end of the game.",
+  "short_description": "《Card of spirits》 is a game with Japanese cartoon style, by 8 ordinary cards with numbers through 1 ~ 8 and 4 special card with a total of 12 cards, every turn the player must surpass the total value ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/486850/header.jpg?t=1749702401",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/486850/ss_ec77ae5b3779450b45c972d6060b3b3dd4e1da38.600x338.jpg?t=1749702401",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/486850/ss_a216a7f12caaf0ccd3050815b398096643101d96.600x338.jpg?t=1749702401",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/486850/ss_756339d55227fe7fb12735409e46c401bca0be5c.600x338.jpg?t=1749702401",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/486850/ss_51b84547f0166a4ed6c1a2af25628ca9a37c6883.600x338.jpg?t=1749702401",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/486850/ss_66fa35bc083ccebba91631a4a9c99e7acfe143fa.600x338.jpg?t=1749702401"
-  ],
-  "detailed_description": "Game rule<br />\r\nEvery turn, the player of that turn must play a card that give you a total value greater or equal the total value of the opponent, in case of a draw, both player's cards on the field is removed, and both players draw 1 card. (For example, if i have 3 on the field, and my opponent have 2+3, you must play a card that added to your current value gives you 5 or higher, so in this case any number higher or equal than 2 are good.)<br />\r\nAt the end of the game, which is when both player have no cards in their hand, the player that have higher value will win. Also you must surpass your opponent every turn, if you don’t you will lose even if you still have in your hand.<br />\r\n<br />\r\nCard type<br />\r\nCards are divided into two types, 1~8 are ordinary cards, J, Q, K, Z are special cards, special cards can reverse the situation.",
-  "about_the_game": "Game rule<br />\r\nEvery turn, the player of that turn must play a card that give you a total value greater or equal the total value of the opponent, in case of a draw, both player's cards on the field is removed, and both players draw 1 card. (For example, if i have 3 on the field, and my opponent have 2+3, you must play a card that added to your current value gives you 5 or higher, so in this case any number higher or equal than 2 are good.)<br />\r\nAt the end of the game, which is when both player have no cards in their hand, the player that have higher value will win. Also you must surpass your opponent every turn, if you don’t you will lose even if you still have in your hand.<br />\r\n<br />\r\nCard type<br />\r\nCards are divided into two types, 1~8 are ordinary cards, J, Q, K, Z are special cards, special cards can reverse the situation.",
-  "supported_languages": "English, German, Russian, Japanese, Korean, Traditional Chinese, French, Italian, Spanish - Spain, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Trading Cards",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0001,
+  "screenshots": [],
+  "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 5.0,
+  "review_velocity_7d": 7.050000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 141,
-  "review_positive": 105,
+  "review_positive": 0,
   "review_percentage": 74.5,
   "owner_estimate": 75000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 229,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 136,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 141,
-      "review_percentage": 74.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 141,
       "review_percentage": 74.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

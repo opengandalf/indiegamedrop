@@ -3,8 +3,8 @@
   "name": "Rule The World",
   "slug": "rule-the-world",
   "developer": "Imagine-Games, LLC",
-  "publisher": "Imagine-Games, LLC",
-  "release_date": "Jul 7, 2022",
+  "publisher": "",
+  "release_date": "2022-07-07",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -23,61 +23,8 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Top down shooter with tons of options like twin stick shooter controls or trigger fire, top down fixed camera or rotate, auto splitscreen for co-op as well as locked to shared camera or split. Gore, blood and enemy deaths/mutilation can be turned off as well (for younger audience).",
+  "short_description": "Top down shooter with tons of options like twin stick shooter controls or trigger fire, top down fixed camera or rotate, auto splitscreen for co-op as well as locked to shared camera or split. Gore, b",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858600/header.jpg?t=1657194800",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858600/ss_c2b958cb08fbe77e0a41e923eb9e7982a5553f64.600x338.jpg?t=1657194800",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858600/ss_c393540d061539ef99d10b117ae8816b8b9e408d.600x338.jpg?t=1657194800",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858600/ss_470e2afe259b87f5d0184d6ca685b22ef7bb02b1.600x338.jpg?t=1657194800",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858600/ss_231daf03caf7ccc8b5731b487ae6f9d92fbb4973.600x338.jpg?t=1657194800",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858600/ss_55e9277d4199c89bee6b0c45806cc738bad0ee82.600x338.jpg?t=1657194800"
-  ],
-  "detailed_description": "<h1>Update Notes</h1><p><strong>Update 0.3.8</strong> Thanks David Brown for feedback, set certain on player hud elements to be on by default (had to toggle from off to on before) to show ammo, medkits, and grenades. On wounded, a text displays for how to heal yourself.</p><br><h1>Update Notes</h1><p><strong>Update 0.4</strong> Adds tutorial level, UI improvements, improved spaceship model for world map, and more goodies.</p><br><h1>About the Game</h1><strong>You are the mercenaries sent to do the jobs no government will take responsbility for, but somebody has to end evil!</strong> <br>Attack enemies, traverse perilous terrain, and secure objectives all in the name of world peace... welcome to the war to Rule The World.",
-  "about_the_game": "<strong>You are the mercenaries sent to do the jobs no government will take responsbility for, but somebody has to end evil!</strong> <br>Attack enemies, traverse perilous terrain, and secure objectives all in the name of world peace... welcome to the war to Rule The World.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Full controller support",
-    "Remote Play on TV",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
-  "review_count": 0,
-  "review_positive": 0,
-  "review_percentage": 0.0,
-  "owner_estimate": 0,
-  "ccu_estimate": 0,
-  "follower_count": 0,
-  "median_playtime_minutes": 0,
-  "history": [
-    {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 0,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    }
-  ],
-  "reviews": []
+  "screenshots": [],
+  "history": []
 }

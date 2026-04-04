@@ -3,8 +3,8 @@
   "name": "100 Rooms",
   "slug": "100-rooms",
   "developer": "Gemini Games Stuidos",
-  "publisher": "Gemini Games Studios",
-  "release_date": "Mar 28, 2024",
+  "publisher": "",
+  "release_date": "2024-03-28",
   "price_usd": 0.49,
   "genres": [
     "Casual"
@@ -17,32 +17,15 @@
   ],
   "short_description": "Embark on a journey through the many rooms of this great tavern. Can you unlock it's secrets or be lost forever in the maze?",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2770250/header.jpg?t=1711646533",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2770250/ss_871988f3e6df3b94908d256dfc55f29ba4b5d65b.600x338.jpg?t=1711646533",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2770250/ss_331ddf0edc7770a8385935b1eeff0a3d39183e14.600x338.jpg?t=1711646533",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2770250/ss_12e3df064ce0b4f03b7bc0e7603b4e4209cbf4e8.600x338.jpg?t=1711646533",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2770250/ss_bf72e41068981438bf29063ade22dc7233775b13.600x338.jpg?t=1711646533",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2770250/ss_a8d61de2ff98915d1604ee1d37325b4ddd87b87c.600x338.jpg?t=1711646533"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >100 Rooms is walking simulator with a twist.</h2>You will have choices to make through your journey. Do you go Left or Right? Do you go forward or go back the way you came? No jump scares, no quests, just you and the rooms. Are you strong enough to find the end? With several different levels of difficulty to play at your courage and mental fortitude, you will be tested to your limits. You can walk aimlessly through the environment enjoying the space and the sounds or rush through to get out as fast as you can.",
-  "about_the_game": "<h2 class=\"bb_tag\" >100 Rooms is walking simulator with a twist.</h2>You will have choices to make through your journey. Do you go Left or Right? Do you go forward or go back the way you came? No jump scares, no quests, just you and the rooms. Are you strong enough to find the end? With several different levels of difficulty to play at your courage and mental fortitude, you will be tested to your limits. You can walk aimlessly through the environment enjoying the space and the sounds or rush through to get out as fast as you can.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0087,
+  "screenshots": [],
+  "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 4,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 25.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,26 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 4,
-      "review_percentage": 25.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 25.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

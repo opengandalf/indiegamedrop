@@ -3,8 +3,8 @@
   "name": "Cockroach VR",
   "slug": "cockroach-vr",
   "developer": "TANTANMEN",
-  "publisher": "TANTANMEN",
-  "release_date": "Sep 8, 2016",
+  "publisher": "",
+  "release_date": "2016-09-08",
   "price_usd": 1.99,
   "genres": [
     "Casual",
@@ -19,57 +19,27 @@
   ],
   "short_description": "If you want to play a VR FPS game with realistically-rendered giant cockroaches, this is what you're looking for! Let's defeat cockroaches with a handheld gun!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525910/header.jpg?t=1473350755",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525910/ss_e27d18d81ef99fbece166a5b21fd7602aacb617b.600x338.jpg?t=1473350755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525910/ss_3cef787a069c6dafa79ed8fa5593b4b963d01f39.600x338.jpg?t=1473350755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525910/ss_ff71a61048ecae55c8d047306ad27d8b560c6980.600x338.jpg?t=1473350755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525910/ss_30990f366c1594ff8dda2b424dd542247e6c4f21.600x338.jpg?t=1473350755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525910/ss_e9377a1da649dcccc9144c8c289e8b4fe90c2fda.600x338.jpg?t=1473350755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525910/ss_919e54cbe02009028e79a45ee22fff7b4fbb4568.600x338.jpg?t=1473350755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525910/ss_35ddbce7b6338af2c0fd104ee020d8126f42056f.600x338.jpg?t=1473350755"
-  ],
-  "detailed_description": "A must-see for cockroach fans<br />\r\nIf you want to play a VR FPS game with realistically-rendered giant cockroaches, this is what you're looking for!<br />\r\nLet's defeat cockroaches with a handheld gun!",
-  "about_the_game": "A must-see for cockroach fans<br />\r\nIf you want to play a VR FPS game with realistically-rendered giant cockroaches, this is what you're looking for!<br />\r\nLet's defeat cockroaches with a handheld gun!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
-  "gem_score": 0.8445,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 2.4000000000000004,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 48,
-  "review_positive": 47,
+  "review_positive": 0,
   "review_percentage": 97.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 50,
-      "review_percentage": 96.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 48,
       "review_percentage": 97.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

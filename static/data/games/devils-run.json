@@ -3,8 +3,8 @@
   "name": "Devils Run",
   "slug": "devils-run",
   "developer": "Brandon Heid",
-  "publisher": "Rocky Dog Studios",
-  "release_date": "Jun 12, 2024",
+  "publisher": "",
+  "release_date": "2024-06-12",
   "price_usd": 3.99,
   "genres": [
     "Action"
@@ -17,34 +17,15 @@
   ],
   "short_description": "An indie platformer and race to escape an imploding planet! Time your moves carefully..",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997600/header.jpg?t=1727274712",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997600/ss_83536aee4f19b38416336a1be41799680d7f0834.600x338.jpg?t=1727274712",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997600/ss_f5efd2fcaf787a0d270ca960b85bcbd62b62e23c.600x338.jpg?t=1727274712",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997600/ss_2944d5e44b5309685e6fa34f1eb5c7274c2a8ea5.600x338.jpg?t=1727274712",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997600/ss_c9df2b6391ecee7b08a7a07886f0b9eef5486c6f.600x338.jpg?t=1727274712",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997600/ss_2744fe4b4f32508610432d764806a2a9220c9a14.600x338.jpg?t=1727274712"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Meet Brim, one of many for-contract gem hunters. Brim's latest assignment? A gem-rich planet in the far east, part of the volatile galaxy. All is well until the unthinkable happens; the planet begins to erupt, filling in with lava. Now in a perilous situation, your mission is to jump, flip, and swing through 10 treacherous levels to your ship to escape. While you're on your way back to your ship, collect the gems that you can, imploding planets are no reason to miss quota!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997600/extras/78da3c338d38e53040df8b80fc9b5aef.poster.avif?t=1727274712\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997600/extras/78da3c338d38e53040df8b80fc9b5aef.webm?t=1727274712\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997600/extras/78da3c338d38e53040df8b80fc9b5aef.mp4?t=1727274712\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Meet Brim, one of many for-contract gem hunters. Brim's latest assignment? A gem-rich planet in the far east, part of the volatile galaxy. All is well until the unthinkable happens; the planet begins to erupt, filling in with lava. Now in a perilous situation, your mission is to jump, flip, and swing through 10 treacherous levels to your ship to escape. While you're on your way back to your ship, collect the gems that you can, imploding planets are no reason to miss quota!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997600/extras/78da3c338d38e53040df8b80fc9b5aef.poster.avif?t=1727274712\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997600/extras/78da3c338d38e53040df8b80fc9b5aef.webm?t=1727274712\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997600/extras/78da3c338d38e53040df8b80fc9b5aef.mp4?t=1727274712\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Restrictr",
   "slug": "restrictr",
   "developer": "Martin Zudaire",
-  "publisher": "Curtis Dubois",
-  "release_date": "Dec 4, 2019",
+  "publisher": "",
+  "release_date": "2019-12-04",
   "price_usd": 0.0,
   "genres": [
     "Utilities"
@@ -15,33 +15,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Sick of hitting walls or obstacles where playing VR? Then this is the app for you. Restrictr will create a visual barrier that prevents you from playing when you leave a predefined area (The center of your play area). No more hitting walls when you are using Restrctr.",
+  "short_description": "Sick of hitting walls or obstacles where playing VR? Then this is the app for you. Restrictr will create a visual barrier that prevents you from playing when you leave a predefined area (The center of",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170130/header.jpg?t=1590352175",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170130/ss_ebe50a032259ca162a8977da9e8b1a6bcba77d5d.600x338.jpg?t=1590352175",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170130/ss_e2e897d1f169914e0c41bd3a40ae8a6dff80ce93.600x338.jpg?t=1590352175",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170130/ss_cb4d84a3ec90b936879f037786ddfc2e2f460981.600x338.jpg?t=1590352175",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170130/ss_9c56ebfe12b1185c54c7b5fa3b078faba50c543b.600x338.jpg?t=1590352175",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1170130/ss_abe766148c36e0f59f1371242be25d9a9f139765.600x338.jpg?t=1590352175"
-  ],
-  "detailed_description": "Sick of hitting walls or obstacles where playing VR? Then this is the app for you. Restrictr will create a visual barrier that prevents you from playing when you leave a predefined area (The center of your play area). No more hitting walls when you are using Restrctr.",
-  "about_the_game": "Sick of hitting walls or obstacles where playing VR? Then this is the app for you. Restrictr will create a visual barrier that prevents you from playing when you leave a predefined area (The center of your play area). No more hitting walls when you are using Restrctr.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 14,
-  "review_positive": 13,
+  "review_positive": 0,
   "review_percentage": 92.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -49,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 14,
-      "review_percentage": 85.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 14,
       "review_percentage": 92.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

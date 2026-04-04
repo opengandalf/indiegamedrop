@@ -3,8 +3,8 @@
   "name": "Death Stream",
   "slug": "death-stream",
   "developer": "Elias Jose",
-  "publisher": "Elias Jose",
-  "release_date": "Mar 3, 2025",
+  "publisher": "",
+  "release_date": "2025-03-03",
   "price_usd": 2.99,
   "genres": [
     "Action",
@@ -25,36 +25,17 @@
     "mac",
     "linux"
   ],
-  "short_description": "You wake up in a basement room, bound, with a camera staring you down. A deranged masked man entices his audience. You’ve been abducted by a lunatic who thrives on chaos and carnage. His goal? To force you into a twisted game of luck while the entire internet watches in real time.",
+  "short_description": "You wake up in a basement room, bound, with a camera staring you down. A deranged masked man entices his audience. You’ve been abducted by a lunatic who thrives on chaos and carnage. His goal? To forc",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3522230/header.jpg?t=1749241869",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3522230/ss_6330d1a1a1e96432dc194dd9818b8ef53425f3f6.600x338.jpg?t=1749241869",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3522230/ss_d70652db2a1fc253ca351b22c0df1f1417a72818.600x338.jpg?t=1749241869",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3522230/ss_a7e5e4f52855c3ee53e24e13ebec8c0f1667a1f6.600x338.jpg?t=1749241869",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3522230/ss_878054487a2433f5c1bd4a8bdf42581fbb181f94.600x338.jpg?t=1749241869",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3522230/ss_eb795d4b3ad6091a6b19c9189077809f071621f9.600x338.jpg?t=1749241869",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3522230/9ec92a76ce668b08888627beb3a593308136407f/ss_9ec92a76ce668b08888627beb3a593308136407f.600x338.jpg?t=1749241869",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3522230/69b3416fcc205a34856432e43ccf12030832ef9e/ss_69b3416fcc205a34856432e43ccf12030832ef9e.600x338.jpg?t=1749241869"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >You wake up in a basement room, bound, with a camera staring you down. A deranged masked man entices his audience. You’ve been abducted by a lunatic who thrives on chaos and carnage. His goal? To force you into a twisted game of luck while the entire internet watches in real time.</p><p class=\"bb_paragraph\" >Every decision you make is broadcast live to a bloodthirsty audience. The stakes could not be higher: each failure brings you closer to a gruesome demise, and the viewers seem eager to see you fail. Can you make it out alive?</p><p class=\"bb_paragraph\" >Will you be able to outsmart this madness, or will you become just another victim of the <i>Death Stream</i>?</p><p class=\"bb_paragraph\" ><strong>Features:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Intense puzzles and challenges.</p></li><li><p class=\"bb_paragraph\" >A nerve-wracking atmosphere.</p></li><li><p class=\"bb_paragraph\" >Multiple endings based on your decisions and performance.</p></li><li><p class=\"bb_paragraph\" >Leaderboard.</p></li></ul><p class=\"bb_paragraph\" ></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >You wake up in a basement room, bound, with a camera staring you down. A deranged masked man entices his audience. You’ve been abducted by a lunatic who thrives on chaos and carnage. His goal? To force you into a twisted game of luck while the entire internet watches in real time.</p><p class=\"bb_paragraph\" >Every decision you make is broadcast live to a bloodthirsty audience. The stakes could not be higher: each failure brings you closer to a gruesome demise, and the viewers seem eager to see you fail. Can you make it out alive?</p><p class=\"bb_paragraph\" >Will you be able to outsmart this madness, or will you become just another victim of the <i>Death Stream</i>?</p><p class=\"bb_paragraph\" ><strong>Features:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Intense puzzles and challenges.</p></li><li><p class=\"bb_paragraph\" >A nerve-wracking atmosphere.</p></li><li><p class=\"bb_paragraph\" >Multiple endings based on your decisions and performance.</p></li><li><p class=\"bb_paragraph\" >Leaderboard.</p></li></ul><p class=\"bb_paragraph\" ></p>",
-  "supported_languages": "English, French, Italian, German, Simplified Chinese, Korean, Spanish - Latin America, Japanese, Polish, Portuguese - Brazil, Russian, Swedish, Thai, Czech, Turkish",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0008,
+  "screenshots": [],
+  "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 6.0,
+  "review_velocity_7d": 1.35,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 27,
-  "review_positive": 24,
+  "review_positive": 0,
   "review_percentage": 88.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +43,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 21,
-      "review_percentage": 95.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 27,
       "review_percentage": 88.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

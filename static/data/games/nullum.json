@@ -3,8 +3,8 @@
   "name": "Nullum",
   "slug": "nullum",
   "developer": "Misc.261",
-  "publisher": "Misc.261",
-  "release_date": "May 8, 2020",
+  "publisher": "",
+  "release_date": "2020-05-08",
   "price_usd": 1.99,
   "genres": [
     "Casual",
@@ -21,54 +21,27 @@
   ],
   "short_description": "Nullum is a minimalist puzzle game. The goal is to eliminate all tiles by creating matching numbers.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293990/header.jpg?t=1637753608",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293990/ss_9c186343ee1c1d0315323786470c099c7e28e649.600x338.jpg?t=1637753608",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293990/ss_566528c3f47ad29fe8f419ba79ef5ab7bce1c42e.600x338.jpg?t=1637753608",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293990/ss_1b7e9e0883650fb48bccfac35f9f7fe0169c96b7.600x338.jpg?t=1637753608",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293990/ss_8166330f72245c45f8d975cc819e386d43909299.600x338.jpg?t=1637753608",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293990/ss_4d1a1e8069a827c189c9da19e2c9a31dab738919.600x338.jpg?t=1637753608"
-  ],
-  "detailed_description": "<h1>Also recommended for you:</h1><p></p><br><h1>Also recommended for you:</h1><p></p><br><h1>About the Game</h1>Nullum is a minimalist puzzle game. <br><br>The goal is to eliminate all tiles by creating matching numbers.<br><br>Rules: A tile can only be moved onto an adjacent tile. If they have the same number, both are eliminated; otherwise, they’re added together.<br><br>Make the right sums and eliminations to clear the playfield and unlock the next challenge!<br><br>- 40 handcrafted levels<br>- Original music composed specially for this game.<br><br>Note about controls: if you see a tile with the question mark, right-click it.",
-  "about_the_game": "Nullum is a minimalist puzzle game. <br />\r\n<br />\r\nThe goal is to eliminate all tiles by creating matching numbers.<br />\r\n<br />\r\nRules: A tile can only be moved onto an adjacent tile. If they have the same number, both are eliminated; otherwise, they’re added together.<br />\r\n<br />\r\nMake the right sums and eliminations to clear the playfield and unlock the next challenge!<br />\r\n<br />\r\n- 40 handcrafted levels<br />\r\n- Original music composed specially for this game.<br />\r\n<br />\r\nNote about controls: if you see a tile with the question mark, right-click it.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.8091,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 48,
-  "review_positive": 45,
+  "review_positive": 0,
   "review_percentage": 93.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 47,
-      "review_percentage": 93.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 48,
       "review_percentage": 93.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

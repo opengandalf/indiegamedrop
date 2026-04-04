@@ -3,8 +3,8 @@
   "name": "A Mars Adventure: Redturtle",
   "slug": "a-mars-adventure-redturtle",
   "developer": "QOVAQ",
-  "publisher": "QOVAQ",
-  "release_date": "Sep 26, 2018",
+  "publisher": "",
+  "release_date": "2018-09-26",
   "price_usd": 7.99,
   "genres": [
     "Adventure",
@@ -17,36 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Redturtle brings the photo-real look of the Planet Mars and the full control of the Mars Rover to the users. Users can explore the planet's surface and experience how the real-life Mars Rover missions took place and felt.",
+  "short_description": "Redturtle brings the photo-real look of the Planet Mars and the full control of the Mars Rover to the users. Users can explore the planet's surface and experience how the real-life Mars Rover missions",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936000/header.jpg?t=1550595027",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936000/ss_3c0c94712c0f11d18987ac677c49064b4fa506e0.600x338.jpg?t=1550595027",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936000/ss_6dea6125571a2c6dbdab3b777a5ed88f3c4104a4.600x338.jpg?t=1550595027",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936000/ss_b24481ae2b3ea898327fbb46336f126d2667c7f4.600x338.jpg?t=1550595027",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936000/ss_a725b806669a7db93516f3bc588c88b7bb08a22f.600x338.jpg?t=1550595027",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936000/ss_34ac1e004b6f117aa018b18747cffaad4940314f.600x338.jpg?t=1550595027"
-  ],
-  "detailed_description": "Redturtle is a photo-real, real-time VR experience created by QOVAQ. In this first chapter of sci-ﬁ thriller experience, the user controls and follows Mars Rover as it travels throughout Mars. The Commander’s main objectives are to investigate the landscape, which includes digging, drilling, as well as collecting samples and photos to send back home. What starts as an optimistic scientiﬁc, almost sterile mission, slowly descends into a dark experience with unknowns towards the end.",
-  "about_the_game": "Redturtle is a photo-real, real-time VR experience created by QOVAQ. In this first chapter of sci-ﬁ thriller experience, the user controls and follows Mars Rover as it travels throughout Mars. The Commander’s main objectives are to investigate the landscape, which includes digging, drilling, as well as collecting samples and photos to send back home. What starts as an optimistic scientiﬁc, almost sterile mission, slowly descends into a dark experience with unknowns towards the end.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 4,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,26 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 4,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

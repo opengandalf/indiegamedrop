@@ -3,8 +3,8 @@
   "name": "Ballin'",
   "slug": "ballin",
   "developer": "Toby Hollister",
-  "publisher": "Toby Hollister",
-  "release_date": "Sep 29, 2021",
+  "publisher": "",
+  "release_date": "2021-09-29",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -19,33 +19,15 @@
   ],
   "short_description": "Play as a ball, rolling, bouncing and flying your ball through the levels and try to beat each one as fast as you can!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1744510/header.jpg?t=1632937853",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1744510/ss_35d598f5af7297eee43b378be002e314f1a12a98.600x338.jpg?t=1632937853",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1744510/ss_38fffedf1d8830a18001c603b59071f96bfa9573.600x338.jpg?t=1632937853",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1744510/ss_1b96a4dc5e7a588a45560d010a6d19cdfc287e7b.600x338.jpg?t=1632937853",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1744510/ss_90776acfbad1d1741c2f4a4d9e2804727d678833.600x338.jpg?t=1632937853",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1744510/ss_e20f48232ba60e19a8756f7192bb55d6f020da24.600x338.jpg?t=1632937853"
-  ],
-  "detailed_description": "Roll your way through all 40 levels, but be careful you have a time limit! Whether you want to collect loads of coins to get new ball colours, or try and beat your PB's, you for sure will experience frustration, a bit of luck (which you will claim is skill) and satisfaction of completing that one part you were getting stuck on!",
-  "about_the_game": "Roll your way through all 40 levels, but be careful you have a time limit! Whether you want to collect loads of coins to get new ball colours, or try and beat your PB's, you for sure will experience frustration, a bit of luck (which you will claim is skill) and satisfaction of completing that one part you were getting stuck on!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 5,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

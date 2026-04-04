@@ -3,8 +3,8 @@
   "name": "FormFish",
   "slug": "formfish",
   "developer": "David CAYE",
-  "publisher": "David CAYE",
-  "release_date": "Jan 14, 2018",
+  "publisher": "",
+  "release_date": "2018-01-14",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -21,30 +21,7 @@
   ],
   "short_description": "FormFish is a little tetris-like game. Try to catch the incoming shapes with the traps of the right color and the right trap !",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770790/header.jpg?t=1516570412",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770790/ss_81d7a6e0cbbc0f2c69cc0947fa77d8972ab04ea1.600x338.jpg?t=1516570412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770790/ss_98f38aa33bce6833779ebc84dd78c419c6921e92.600x338.jpg?t=1516570412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770790/ss_a6dc2bdc13727c5434f2e8697aef7baa00664c50.600x338.jpg?t=1516570412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770790/ss_51f399051e9a973f4b71ee3f6e48a6bb682c4fd5.600x338.jpg?t=1516570412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770790/ss_20ea71af79078c9cc30c45cdf4a54197189d9249.600x338.jpg?t=1516570412"
-  ],
-  "detailed_description": "<h1>Update Notes</h1><p>Version 1.0.2.0 Update Now available !\n - The initial speed of the game has been lowered. And increase of speed during game is more visible now.\n - A score display error has been corrected for games reaching more than 100000 points.</p><br><h1>About the Game</h1>FormFish is a casual game. You must stay alert when forms arrive and try to catch them with the right \"trap\"... before they cover all the screen. But take care  ! The most forms you catch ... faster they will come !!\nCatch several shapes in a row and you will get combos !",
-  "about_the_game": "FormFish is a casual game. You must stay alert when forms arrive and try to catch them with the right \"trap\"... before they cover all the screen. But take care  ! The most forms you catch ... faster they will come !!<br />\nCatch several shapes in a row and you will get combos !",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 1,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -54,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

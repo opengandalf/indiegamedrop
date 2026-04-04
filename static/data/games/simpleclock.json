@@ -3,8 +3,8 @@
   "name": "SimpleClock",
   "slug": "simpleclock",
   "developer": "Tlalocan Gaming LLC",
-  "publisher": "Tlalocan Gaming LLC",
-  "release_date": "Mar 4, 2023",
+  "publisher": "",
+  "release_date": "2023-03-04",
   "price_usd": 0.99,
   "genres": [
     "Utilities"
@@ -15,32 +15,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Places a customizable clock onto your desktop. It is a single small executable which can be moved out of steam so it wont effect your steam playtime. There are no timeservers to configure and no network connections. Syncs with your system clock.",
+  "short_description": "Places a customizable clock onto your desktop. It is a single small executable which can be moved out of steam so it wont effect your steam playtime. There are no timeservers to configure and no netwo",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2284950/header.jpg?t=1677957465",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2284950/ss_10dc3aafbcdbc02aa84ccee256759b474fc5d1c1.600x338.jpg?t=1677957465",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2284950/ss_c280e4e5a51b41ac17fe1b7b55a4a3a6145e954d.600x338.jpg?t=1677957465",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2284950/ss_60b849ec76f5cf5d2a4532a5a2ee664973d1c48f.600x338.jpg?t=1677957465",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2284950/ss_d7d822b06baaa1c3ce183b412f296325ce2a9915.600x338.jpg?t=1677957465",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2284950/ss_8a812c26cdc3cfb690c97952159e8513a6da0d23.600x338.jpg?t=1677957465",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2284950/ss_8a6eaf96055aedf28fa7497103850d34d3c30d86.600x338.jpg?t=1677957465"
-  ],
-  "detailed_description": "SimpleClock places a customizable clock onto your desktop.  This is a single, small (46MB) executable which can be moved out of steam so it wont effect your Steam playtime.  There are no timeservers to configure and no network connections.  Syncs with your system clock.<br><br><ul class=\"bb_ul\"><li> Comes with 11 fonts to choose from<br></li><li> Customizable color and outline color<br></li><li> Customizable font size<br></li><li> Optionally show and format the calendar date<br></li><li> 12 or 24 Hour Formatting<br></li><li> Settings and positioning automatically saved to small text file in the same directory as the executable</li></ul>",
-  "about_the_game": "SimpleClock places a customizable clock onto your desktop.  This is a single, small (46MB) executable which can be moved out of steam so it wont effect your Steam playtime.  There are no timeservers to configure and no network connections.  Syncs with your system clock.<br><br><ul class=\"bb_ul\"><li> Comes with 11 fonts to choose from<br></li><li> Customizable color and outline color<br></li><li> Customizable font size<br></li><li> Optionally show and format the calendar date<br></li><li> 12 or 24 Hour Formatting<br></li><li> Settings and positioning automatically saved to small text file in the same directory as the executable</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -48,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

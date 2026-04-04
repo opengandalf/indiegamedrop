@@ -3,8 +3,8 @@
   "name": "AsteRoid Rage",
   "slug": "asteroid-rage",
   "developer": "Happy Helmsman",
-  "publisher": "Happy Helmsman",
-  "release_date": "Mar 31, 2023",
+  "publisher": "",
+  "release_date": "2023-03-31",
   "price_usd": 1.99,
   "genres": [
     "Casual"
@@ -18,33 +18,15 @@
   ],
   "short_description": "Destroy everything in this short casual physics game!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846740/header.jpg?t=1681751028",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846740/ss_32f60d2d0a7dc2c34ecdda38db8affd88c515907.600x338.jpg?t=1681751028",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846740/ss_b458dc6e608e43328326f4fde40acaf037b01fd3.600x338.jpg?t=1681751028",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846740/ss_2a8f055b1e686102eb6e1540efc9e4b8f2c79493.600x338.jpg?t=1681751028",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846740/ss_f668d3f7a2e22954374a92e0e22871848ef571de.600x338.jpg?t=1681751028",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846740/ss_b4accc347183f7e4f0575eb90e02432c2c33e57c.600x338.jpg?t=1681751028"
-  ],
-  "detailed_description": "<strong>AsteRoid Rage</strong> is a short casual physics game about smashing planets! It can, in most cases, be finished in a single sitting and is best played as a small distraction while you wait for something else.<br><br><ul class=\"bb_ul\"><li> Break your way through <strong>101 handmade levels</strong>!<br></li><li> Use cosmological and technological phenomena to <strong>ensure total destruction</strong>!<br></li><li> Tour a <strong>procedurally generated universe</strong>, never seeing the same background twice!<br></li><li> All these <strong>other things</strong>!</li></ul><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846740/extras/9db890f60dd8a8b530b8f0444bdec520.poster.avif?t=1681751028\" width=450 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846740/extras/9db890f60dd8a8b530b8f0444bdec520.webm?t=1681751028\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846740/extras/9db890f60dd8a8b530b8f0444bdec520.mp4?t=1681751028\" type=\"video/mp4\"></video></span>",
-  "about_the_game": "<strong>AsteRoid Rage</strong> is a short casual physics game about smashing planets! It can, in most cases, be finished in a single sitting and is best played as a small distraction while you wait for something else.<br><br><ul class=\"bb_ul\"><li> Break your way through <strong>101 handmade levels</strong>!<br></li><li> Use cosmological and technological phenomena to <strong>ensure total destruction</strong>!<br></li><li> Tour a <strong>procedurally generated universe</strong>, never seeing the same background twice!<br></li><li> All these <strong>other things</strong>!</li></ul><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846740/extras/9db890f60dd8a8b530b8f0444bdec520.poster.avif?t=1681751028\" width=450 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846740/extras/9db890f60dd8a8b530b8f0444bdec520.webm?t=1681751028\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1846740/extras/9db890f60dd8a8b530b8f0444bdec520.mp4?t=1681751028\" type=\"video/mp4\"></video></span>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +34,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

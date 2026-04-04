@@ -3,8 +3,8 @@
   "name": "Black One Blood Brothers",
   "slug": "black-one-blood-brothers",
   "developer": "Helios Studio",
-  "publisher": "Helios Studio",
-  "release_date": "Jan 11, 2022",
+  "publisher": "",
+  "release_date": "2022-01-11",
   "price_usd": 17.99,
   "genres": [
     "Action",
@@ -23,99 +23,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Black One Blood Brothers is a tactical military shooter game where strategy and coordination are key. Command a squad of top operators, with unique skills, through high-risk missions around the globe. Customize your crew, plan your missions, and adjust on the fly for a vast replayability.",
+  "short_description": "Black One Blood Brothers is a tactical military shooter game where strategy and coordination are key. Command a squad of top operators, with unique skills, through high-risk missions around the globe.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/9a4beb28e1ebe720866be671569d04e4d44650eb/header.jpg?t=1770208071",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/3a09ed961d5b855a1ad642269e6b486c06ddf4f7/ss_3a09ed961d5b855a1ad642269e6b486c06ddf4f7.600x338.jpg?t=1770208071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/190885c858eae7ecbb45a8fae7fd33ccc91e66da/ss_190885c858eae7ecbb45a8fae7fd33ccc91e66da.600x338.jpg?t=1770208071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/b339e650b633bef59877648614b03eb126640b33/ss_b339e650b633bef59877648614b03eb126640b33.600x338.jpg?t=1770208071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/37c2f8ba7aa4e93adcf84ebc48732a31264690b7/ss_37c2f8ba7aa4e93adcf84ebc48732a31264690b7.600x338.jpg?t=1770208071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/aabe04ede767da83fabe609c601ede8a58d23f0d/ss_aabe04ede767da83fabe609c601ede8a58d23f0d.600x338.jpg?t=1770208071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/071fd2b129033e9281925484a3705dc00b167ea2/ss_071fd2b129033e9281925484a3705dc00b167ea2.600x338.jpg?t=1770208071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/84f14eb4c669c0a8f10839a118cff38c0154d368/ss_84f14eb4c669c0a8f10839a118cff38c0154d368.600x338.jpg?t=1770208071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/eb0d9e957e3f762422e4b9f874a3f4632e6f539b/ss_eb0d9e957e3f762422e4b9f874a3f4632e6f539b.600x338.jpg?t=1770208071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/ba98a1ce0b319a07920d4752466cc5c77c2ef442/ss_ba98a1ce0b319a07920d4752466cc5c77c2ef442.600x338.jpg?t=1770208071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/fea7f0c9bceb31cd0573a6df4e19ea9cc35e09de/ss_fea7f0c9bceb31cd0573a6df4e19ea9cc35e09de.600x338.jpg?t=1770208071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/270ae5f3e3f94e2e8fe139af35b0f145f8d0f102/ss_270ae5f3e3f94e2e8fe139af35b0f145f8d0f102.600x338.jpg?t=1770208071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/9d26c1ed82cbdda2c7fdd006005c5cc79cf44702/ss_9d26c1ed82cbdda2c7fdd006005c5cc79cf44702.600x338.jpg?t=1770208071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/f5b36d16c8d6e34f90424db05b94edea89dc78b9/ss_f5b36d16c8d6e34f90424db05b94edea89dc78b9.600x338.jpg?t=1770208071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/66856e357ffae8ab180c27b35fa3e713a2647f4b/ss_66856e357ffae8ab180c27b35fa3e713a2647f4b.600x338.jpg?t=1770208071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/41859786a45d68c1401176085466bac880f7dbe3/ss_41859786a45d68c1401176085466bac880f7dbe3.600x338.jpg?t=1770208071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/c544acc00c0114ddef93100458562ee18b1d5428/ss_c544acc00c0114ddef93100458562ee18b1d5428.600x338.jpg?t=1770208071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/56fa9c3233d3b8ac269cc07e2d74b08b9d491296/ss_56fa9c3233d3b8ac269cc07e2d74b08b9d491296.600x338.jpg?t=1770208071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/1aeb66fc813583836b59dd251edf91e363727b56/ss_1aeb66fc813583836b59dd251edf91e363727b56.600x338.jpg?t=1770208071",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/dce390828b839594b7ec117f36c26c0bb26e072e/ss_dce390828b839594b7ec117f36c26c0bb26e072e.600x338.jpg?t=1770208071"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Black One Blood Brothers is a tactical military shooter game where strategy and coordination are key. Joining the \"Black One\" unit, you become part of an elite force comprised of top operators from around the globe. Operating independently of any government, this unit works from the shadows, free from political games and diplomatic constraints. As the leader of this squad, you're tasked with executing complex missions where every decision could mean the difference between life and death. </p><h2 class=\"bb_tag\" >CAMPAIGN MODE: OPERATION \"SERPENT'S WHISPER\"</h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/7fd3055f5a43d58fc364897f56099c7e.poster.avif?t=1770208071\" width=1170 height=430 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/7fd3055f5a43d58fc364897f56099c7e.webm?t=1770208071\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/7fd3055f5a43d58fc364897f56099c7e.mp4?t=1770208071\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >During the adventure offered in the campaign mode through Operation \"Serpent's Whisper\", the story kicks off in response to the insurgent group \"New World,\" which has launched devastating attacks across the globe within days. Your mission is to neutralize this threat and trace the funding behind these attacks through 20 increasingly challenging missions. Be advised, the loss of an operator is permanent! </p><h2 class=\"bb_tag\" >GAMEPLAY & REALISM</h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/64dc46fc4ef822b657a41cb18481f737.poster.avif?t=1770208071\" width=1170 height=430 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/64dc46fc4ef822b657a41cb18481f737.webm?t=1770208071\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/64dc46fc4ef822b657a41cb18481f737.mp4?t=1770208071\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Developed in collaboration with a former French Special Forces Commando Marine, \"Black One Blood Brothers\" stands out for its demanding and immersive gameplay. Command a squad of 10 operators, each with unique skills, and seamlessly switch between them to leverage their specialties in either first-person or third-person view. Success hinges on meticulous planning, optimal equipment management, and teamwork. </p><h2 class=\"bb_tag\" >BATTLE PLANS & QUICK ORDERS</h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/9735afc8793c33c76abce8af4fe20716.poster.avif?t=1770208071\" width=1170 height=430 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/9735afc8793c33c76abce8af4fe20716.webm?t=1770208071\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/9735afc8793c33c76abce8af4fe20716.mp4?t=1770208071\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Implement precise action sequences for each squad member using a complex yet intuitive \"Battle Plan\" system. Organize your forces into multiple teams, coordinate their movements, and devise custom tactics to tackle any situation, or switch to real-time command with \"Quick Orders\" for dynamic decision-making. </p><h2 class=\"bb_tag\" >HIGH-RISK MISSIONS</h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/a458373acd61e59fad4a53cb736d759d.poster.avif?t=1770208071\" width=1170 height=430 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/a458373acd61e59fad4a53cb736d759d.webm?t=1770208071\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/a458373acd61e59fad4a53cb736d759d.mp4?t=1770208071\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Undertake high-risk missions including target neutralization, hostage rescue, bomb defusal, and retrieval of secret documents. </p><h2 class=\"bb_tag\" >CUSTOMIZE YOUR SQUAD</h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/31101806ee400a344bb7d655dcc22060.poster.avif?t=1770208071\" width=1170 height=430 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/31101806ee400a344bb7d655dcc22060.webm?t=1770208071\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/31101806ee400a344bb7d655dcc22060.mp4?t=1770208071\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Customization is at the heart of \"Black One Blood Brothers.\" Build your squad from the ground up, selecting each member's skills and arming them with the finest arsenal. </p><h2 class=\"bb_tag\" >REPLAYABILITY & GAME MODES</h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/dff2d2b3525dff566c5c764d97a64d75.poster.avif?t=1770208071\" width=1170 height=430 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/dff2d2b3525dff566c5c764d97a64d75.webm?t=1770208071\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/dff2d2b3525dff566c5c764d97a64d75.mp4?t=1770208071\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >With a variety of game modes (Dynamic campaign, Spec Ops, War, POW, Siege, Lone Wolf, Blind Ops) and a powerful, user-friendly map editor, \"Black One Blood Brothers\" offers vast replayability. Customize your missions, adjust difficulty, select your battlefields, and share your creations with the community through the Steam Workshop.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Black One Blood Brothers is a tactical military shooter game where strategy and coordination are key. Joining the \"Black One\" unit, you become part of an elite force comprised of top operators from around the globe. Operating independently of any government, this unit works from the shadows, free from political games and diplomatic constraints. As the leader of this squad, you're tasked with executing complex missions where every decision could mean the difference between life and death. </p><h2 class=\"bb_tag\" >CAMPAIGN MODE: OPERATION \"SERPENT'S WHISPER\"</h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/7fd3055f5a43d58fc364897f56099c7e.poster.avif?t=1770208071\" width=1170 height=430 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/7fd3055f5a43d58fc364897f56099c7e.webm?t=1770208071\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/7fd3055f5a43d58fc364897f56099c7e.mp4?t=1770208071\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >During the adventure offered in the campaign mode through Operation \"Serpent's Whisper\", the story kicks off in response to the insurgent group \"New World,\" which has launched devastating attacks across the globe within days. Your mission is to neutralize this threat and trace the funding behind these attacks through 20 increasingly challenging missions. Be advised, the loss of an operator is permanent! </p><h2 class=\"bb_tag\" >GAMEPLAY & REALISM</h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/64dc46fc4ef822b657a41cb18481f737.poster.avif?t=1770208071\" width=1170 height=430 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/64dc46fc4ef822b657a41cb18481f737.webm?t=1770208071\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/64dc46fc4ef822b657a41cb18481f737.mp4?t=1770208071\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Developed in collaboration with a former French Special Forces Commando Marine, \"Black One Blood Brothers\" stands out for its demanding and immersive gameplay. Command a squad of 10 operators, each with unique skills, and seamlessly switch between them to leverage their specialties in either first-person or third-person view. Success hinges on meticulous planning, optimal equipment management, and teamwork. </p><h2 class=\"bb_tag\" >BATTLE PLANS & QUICK ORDERS</h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/9735afc8793c33c76abce8af4fe20716.poster.avif?t=1770208071\" width=1170 height=430 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/9735afc8793c33c76abce8af4fe20716.webm?t=1770208071\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/9735afc8793c33c76abce8af4fe20716.mp4?t=1770208071\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Implement precise action sequences for each squad member using a complex yet intuitive \"Battle Plan\" system. Organize your forces into multiple teams, coordinate their movements, and devise custom tactics to tackle any situation, or switch to real-time command with \"Quick Orders\" for dynamic decision-making. </p><h2 class=\"bb_tag\" >HIGH-RISK MISSIONS</h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/a458373acd61e59fad4a53cb736d759d.poster.avif?t=1770208071\" width=1170 height=430 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/a458373acd61e59fad4a53cb736d759d.webm?t=1770208071\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/a458373acd61e59fad4a53cb736d759d.mp4?t=1770208071\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Undertake high-risk missions including target neutralization, hostage rescue, bomb defusal, and retrieval of secret documents. </p><h2 class=\"bb_tag\" >CUSTOMIZE YOUR SQUAD</h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/31101806ee400a344bb7d655dcc22060.poster.avif?t=1770208071\" width=1170 height=430 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/31101806ee400a344bb7d655dcc22060.webm?t=1770208071\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/31101806ee400a344bb7d655dcc22060.mp4?t=1770208071\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Customization is at the heart of \"Black One Blood Brothers.\" Build your squad from the ground up, selecting each member's skills and arming them with the finest arsenal. </p><h2 class=\"bb_tag\" >REPLAYABILITY & GAME MODES</h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/dff2d2b3525dff566c5c764d97a64d75.poster.avif?t=1770208071\" width=1170 height=430 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/dff2d2b3525dff566c5c764d97a64d75.webm?t=1770208071\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621560/extras/dff2d2b3525dff566c5c764d97a64d75.mp4?t=1770208071\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >With a variety of game modes (Dynamic campaign, Spec Ops, War, POW, Siege, Lone Wolf, Blind Ops) and a powerful, user-friendly map editor, \"Black One Blood Brothers\" offers vast replayability. Customize your missions, adjust difficulty, select your battlefields, and share your creations with the community through the Steam Workshop.</p>",
-  "supported_languages": "English<strong>*</strong>, French, German<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Workshop",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 1254,
-  "rising_score": 0.0004,
+  "screenshots": [],
+  "rising_score": 0.0002,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 219.0,
+  "review_velocity_7d": 68.0,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1360,
-  "review_positive": 1080,
+  "review_positive": 0,
   "review_percentage": 79.4,
   "owner_estimate": 75000,
-  "ccu_estimate": 5,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 159,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1141,
-      "review_percentage": 80.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
-      "review_count": 1351,
-      "review_percentage": 79.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
-      "review_count": 1356,
-      "review_percentage": 79.4,
-      "ccu_estimate": 5,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-29",
-      "review_count": 1359,
-      "review_percentage": 79.4,
-      "ccu_estimate": 5,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
-      "review_count": 1359,
-      "review_percentage": 79.4,
-      "ccu_estimate": 5,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 1360,
       "review_percentage": 79.4,
-      "ccu_estimate": 5,
+      "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

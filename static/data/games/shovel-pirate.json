@@ -3,8 +3,8 @@
   "name": "Shovel Pirate",
   "slug": "shovel-pirate",
   "developer": "Neutronized",
-  "publisher": "Neutronized",
-  "release_date": "Feb 14, 2024",
+  "publisher": "",
+  "release_date": "2024-02-14",
   "price_usd": 1.49,
   "genres": [
     "Action",
@@ -21,59 +21,27 @@
   ],
   "short_description": "X marks the spot! Follow the map and find hidden treasures.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796650/header.jpg?t=1709830188",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796650/ss_8fec711e98df502c8dd805f6b3fb00df0d7e968d.600x338.jpg?t=1709830188",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796650/ss_e0e95dc0e0fbe450f6709ced009574e8e5b419ad.600x338.jpg?t=1709830188",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796650/ss_c2753070934900da28e66ee67ee3e3e461066752.600x338.jpg?t=1709830188",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796650/ss_4723d3b96c8835d1758bce27b4d962301e92de9d.600x338.jpg?t=1709830188",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796650/ss_dc8d58f95aa06e18b68be0328a53e42982c652f1.600x338.jpg?t=1709830188"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796650/extras/e688c7043e212109b55cf77297f0395e.poster.avif?t=1709830188\" width=560 height=298 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796650/extras/e688c7043e212109b55cf77297f0395e.webm?t=1709830188\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796650/extras/e688c7043e212109b55cf77297f0395e.mp4?t=1709830188\" type=\"video/mp4\"></video></span><br>X marks the spot! Follow the map, search for hints, and collect all the treasures! Play as a pirate on a quest to gather all the wackiest treasures. Shovel Pirate is a cute platformer game with fun puzzles, adorable characters, and clever traps to avoid.<br><br>Features:<br><ul class=\"bb_ul\"><li> 15 levels packed with action<br></li><li> Intuitive and easy controls<br></li><li> Local PvP multiplayer<br></li><li> Clever puzzles<br></li><li> Secret collectibles<br></li><li> Charming music tracks</li></ul>",
-  "about_the_game": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796650/extras/e688c7043e212109b55cf77297f0395e.poster.avif?t=1709830188\" width=560 height=298 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796650/extras/e688c7043e212109b55cf77297f0395e.webm?t=1709830188\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2796650/extras/e688c7043e212109b55cf77297f0395e.mp4?t=1709830188\" type=\"video/mp4\"></video></span><br>X marks the spot! Follow the map, search for hints, and collect all the treasures! Play as a pirate on a quest to gather all the wackiest treasures. Shovel Pirate is a cute platformer game with fun puzzles, adorable characters, and clever traps to avoid.<br><br>Features:<br><ul class=\"bb_ul\"><li> 15 levels packed with action<br></li><li> Intuitive and easy controls<br></li><li> Local PvP multiplayer<br></li><li> Clever puzzles<br></li><li> Secret collectibles<br></li><li> Charming music tracks</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Shared/Split Screen",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0009,
   "gem_score": 0.7806,
   "hype_score": 0.0,
-  "review_velocity_7d": 11.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 55,
-  "review_positive": 51,
+  "review_positive": 0,
   "review_percentage": 92.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 44,
-      "review_percentage": 93.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 55,
       "review_percentage": 92.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "ChatWaifu",
   "slug": "chatwaifu",
   "developer": "XDesktopSoft",
-  "publisher": "XDesktopSoft",
-  "release_date": "Aug 12, 2024",
+  "publisher": "",
+  "release_date": "2024-08-12",
   "price_usd": 2.27,
   "genres": [
     "Action",
@@ -25,47 +25,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "ChatWaifu is an Offline AI voice companion without internet required. One-click install latest LLM, optimized for low-end PCs with instant TTS. Support 3sec voice cloning, shareable voices directly in workshop. Integrates local tools for web access/news/weather/PC Control while staying fully offline",
+  "short_description": "ChatWaifu is an Offline AI voice companion without internet required. One-click install latest LLM, optimized for low-end PCs with instant TTS. Support 3sec voice cloning, shareable voices directly in",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331610/header.jpg?t=1772945302",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331610/ss_225e5734dc306be34121a7fa87f25566dfefe623.600x338.jpg?t=1772945302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331610/ss_338eb82065abec026e68aa5b29e3702fc6122b1a.600x338.jpg?t=1772945302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331610/ss_a4380010e0a8fb85ddb0e68e16d322d291ae9396.600x338.jpg?t=1772945302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331610/ss_c266fca27ae5693855ff389f53d85b81d74672ab.600x338.jpg?t=1772945302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331610/ss_2ccd29f6c1330bb6005769e7a38a2df95f310979.600x338.jpg?t=1772945302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331610/ss_29fbe5ffaadd72f0f7a213b4204081c43f109d8c.600x338.jpg?t=1772945302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331610/ss_917c08d7ff99eb8a4072fbfbf4d16cb4badfd161.600x338.jpg?t=1772945302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331610/ss_26edaa6316282b92afba0e67ea8018b97e19139d.600x338.jpg?t=1772945302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331610/ss_62f4bfa7f10cf5ccf66471e15d7a368a7ae2d14f.600x338.jpg?t=1772945302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331610/ss_698f40fcd3b51e016c71b8aa262c54beec9c0635.600x338.jpg?t=1772945302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331610/ss_47a8e24072cc286c7f67b68d3d2ef1aec414b67e.600x338.jpg?t=1772945302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331610/ss_4fa8863ecf5fa9cd61273a203942450c0a87b23e.600x338.jpg?t=1772945302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331610/ss_ada75d21d931d2d3fda6dc55eea77f0587f4fe42.600x338.jpg?t=1772945302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331610/ss_e2012b951489cf8cdfe4659f19307d22a5dfb1f1.600x338.jpg?t=1772945302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331610/ss_fd87adf59d24721df091832492be51a6326c79b9.600x338.jpg?t=1772945302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331610/ss_1303cc491822417f47b8e114194792e94ba3a2e7.600x338.jpg?t=1772945302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331610/ss_ef78e0afabeccc1e771e4178967549d2c5d99c5a.600x338.jpg?t=1772945302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2331610/ss_020789ae311d5ca4b82ca1dc4ac512eba43a95dd.600x338.jpg?t=1772945302"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >ChatWaifu is an Offline AI voice companion without internet required. One-click install latest LLM, optimized for low-end PCs with instant TTS. Support 3-second voice cloning, shareable voices directly in workshop. Integrates local tools for web access/news/weather/PC Control while staying fully offline </p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" > Features </h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Fully offline AI desktop voice companion that offers private, secure play without internet access. </p></li><li><p class=\"bb_paragraph\" >Supports one-click import of various mainstream local AI large language model file</p></li><li><p class=\"bb_paragraph\" > Supports fast inference using Nvidia and AMD graphics cards and even CPUs</p></li><li><p class=\"bb_paragraph\" > Support real-time TTS for voice chat and interaction </p></li><li><p class=\"bb_paragraph\" > Supports one-click import of 3D characters model</p></li><li><p class=\"bb_paragraph\" >Supports GPTSoVITS2's 3-second voice cloning, allowing users to download and share character voices  from the workshop </p></li><li><p class=\"bb_paragraph\" > Character models support custom outfits and custom poses, and can be auto switched by AI</p></li><li><p class=\"bb_paragraph\" > Supports LLM Function-Call to auto call tools to assist in information retrieval and script execution</p></li><li><p class=\"bb_paragraph\" > Supports easily custom tools for querying information such as weather or news from the web, and supports JavaScript </p></li><li><p class=\"bb_paragraph\" > Optimized 3D-to-2D anime rendering engine</p></li><li><p class=\"bb_paragraph\" > Support workshop</p></li><li><p class=\"bb_paragraph\" > Support multi-language </p></li><li><p class=\"bb_paragraph\" > Optimized code and lower resource usage</p></li><li><p class=\"bb_paragraph\" > Compatible with all other game, software and live wallpapers</p></li></ul>",
-  "about_the_game": "<p class=\"bb_paragraph\" >ChatWaifu is an Offline AI voice companion without internet required. One-click install latest LLM, optimized for low-end PCs with instant TTS. Support 3-second voice cloning, shareable voices directly in workshop. Integrates local tools for web access/news/weather/PC Control while staying fully offline </p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" > Features </h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Fully offline AI desktop voice companion that offers private, secure play without internet access. </p></li><li><p class=\"bb_paragraph\" >Supports one-click import of various mainstream local AI large language model file</p></li><li><p class=\"bb_paragraph\" > Supports fast inference using Nvidia and AMD graphics cards and even CPUs</p></li><li><p class=\"bb_paragraph\" > Support real-time TTS for voice chat and interaction </p></li><li><p class=\"bb_paragraph\" > Supports one-click import of 3D characters model</p></li><li><p class=\"bb_paragraph\" >Supports GPTSoVITS2's 3-second voice cloning, allowing users to download and share character voices  from the workshop </p></li><li><p class=\"bb_paragraph\" > Character models support custom outfits and custom poses, and can be auto switched by AI</p></li><li><p class=\"bb_paragraph\" > Supports LLM Function-Call to auto call tools to assist in information retrieval and script execution</p></li><li><p class=\"bb_paragraph\" > Supports easily custom tools for querying information such as weather or news from the web, and supports JavaScript </p></li><li><p class=\"bb_paragraph\" > Optimized 3D-to-2D anime rendering engine</p></li><li><p class=\"bb_paragraph\" > Support workshop</p></li><li><p class=\"bb_paragraph\" > Support multi-language </p></li><li><p class=\"bb_paragraph\" > Optimized code and lower resource usage</p></li><li><p class=\"bb_paragraph\" > Compatible with all other game, software and live wallpapers</p></li></ul>",
-  "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Workshop",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 11.0,
+  "review_velocity_7d": 3.1500000000000004,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 63,
-  "review_positive": 33,
+  "review_positive": 0,
   "review_percentage": 52.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -73,19 +43,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 52,
-      "review_percentage": 55.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 63,
       "review_percentage": 52.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

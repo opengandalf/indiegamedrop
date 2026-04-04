@@ -3,8 +3,8 @@
   "name": "Goblin Takes No Argument[s]",
   "slug": "goblin-takes-no-arguments",
   "developer": "Zeroject, VinciDa, MBQJ",
-  "publisher": "Zeroject",
-  "release_date": "Oct 21, 2020",
+  "publisher": "",
+  "release_date": "2020-10-21",
   "price_usd": 0.99,
   "genres": [
     "Indie",
@@ -17,34 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "In this retro style tower defence, we have created a short experience for all of you seeking a true Atari-like experience. This is off cause bull___. This was a school project completely made with Python and Pygames. Be sure to give us a grade;)",
+  "short_description": "In this retro style tower defence, we have created a short experience for all of you seeking a true Atari-like experience. This is off cause bull___. This was a school project completely made with Pyt",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409570/header.jpg?t=1617959186",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409570/ss_bdd99c035d92081b760faa471c437fb0b9ce25e4.600x338.jpg?t=1617959186",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409570/ss_f5ac22baa7647deaafa16f46b5653cd98bb6aabe.600x338.jpg?t=1617959186",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409570/ss_ec6d1a3c932a6fec45290bcaaefc361915cac95d.600x338.jpg?t=1617959186",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409570/ss_c4284c4b70e94952329162ab9f080622b5375579.600x338.jpg?t=1617959186",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1409570/ss_b6fba7d1cf404e802b18f699107fe7fe3e335b8a.600x338.jpg?t=1617959186"
-  ],
-  "detailed_description": "Goblin Takes No Argument[s] was a school project in pygame we made in 2019. We picked it up again in 2020, and thought it could be fun to try and get it on steam.<h2 class=\"bb_tag\" >Features of the game</h2><ul class=\"bb_ul\"><li>Place towers to destroy the goblins</li></ul><ul class=\"bb_ul\"><li>Upgrade towers to get even more powerful</li></ul><ul class=\"bb_ul\"><li>Sell towers to place even better towers</li></ul><ul class=\"bb_ul\"><li>Different types of goblins to make the game a little harder</li></ul><h2 class=\"bb_tag\" >Controls</h2><ul class=\"bb_ul\"><li>Press 'R' on the keyboard to toggle visibillity of the towers range<br></li><li>Right click on the mouse to sell towers at half the price<br></li><li>Left click existing towers to upgrade - An upgrade is successful if the range indicator turns orange it cost twice as much as the base price of the towers</li></ul>",
-  "about_the_game": "Goblin Takes No Argument[s] was a school project in pygame we made in 2019. We picked it up again in 2020, and thought it could be fun to try and get it on steam.<h2 class=\"bb_tag\" >Features of the game</h2><ul class=\"bb_ul\"><li>Place towers to destroy the goblins</li></ul><ul class=\"bb_ul\"><li>Upgrade towers to get even more powerful</li></ul><ul class=\"bb_ul\"><li>Sell towers to place even better towers</li></ul><ul class=\"bb_ul\"><li>Different types of goblins to make the game a little harder</li></ul><h2 class=\"bb_tag\" >Controls</h2><ul class=\"bb_ul\"><li>Press 'R' on the keyboard to toggle visibillity of the towers range<br></li><li>Right click on the mouse to sell towers at half the price<br></li><li>Left click existing towers to upgrade - An upgrade is successful if the range indicator turns orange it cost twice as much as the base price of the towers</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

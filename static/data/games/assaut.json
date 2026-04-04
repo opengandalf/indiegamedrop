@@ -3,8 +3,8 @@
   "name": "Assau!t",
   "slug": "assaut",
   "developer": "!CyberApex (SkagoGames)",
-  "publisher": "SkagoGames",
-  "release_date": "Feb 5, 2021",
+  "publisher": "",
+  "release_date": "2021-02-05",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -19,34 +19,15 @@
   ],
   "short_description": "The new Assau!t is a PICO-8 defense first-person shooter. These scary enemies that are coming to you.. All we have to do is stop the approaching enemies. Shoot! Shoot!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1519610/header.jpg?t=1766987606",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1519610/ss_a3e2bef4e68c7750bab1188e66c7a338b13929e8.600x338.jpg?t=1766987606",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1519610/ss_271ef96f59f6d6f9fef984145a8cdef48655dda5.600x338.jpg?t=1766987606",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1519610/ss_7fa08558ece1f75dfae88fb3246103543b13a41a.600x338.jpg?t=1766987606",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1519610/ss_b5c4f2678903e3384dd6079a927ba0ac1e6f3de4.600x338.jpg?t=1766987606",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1519610/ss_4f30cde0ce5906558c4f35ed68584342fd5482ad.600x338.jpg?t=1766987606",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1519610/ss_daccb6b3aa1cb5dd5e62a9287266ef40e82613cd.600x338.jpg?t=1766987606"
-  ],
-  "detailed_description": "<strong>Assau!t</strong> is back with PICO-8 based retro FPS.<br>Assau!t is a defensive FPS game in which you have to stop charging enemies to invade the player's territory.<h2 class=\"bb_tag\" >(Old) Synopsis</h2>It is 2084, the continent of UNAT where a huge civilization exists. Due to the unstable international community on the continent of UNAT, soldiers in black camouflage called counter-terrorist \"anonymous\" are causing armed terrorism.<br><br>You have armed yourself to avoid being beaten by anonymous forces. Will you ever survive the anonymous army for a long time?",
-  "about_the_game": "<strong>Assau!t</strong> is back with PICO-8 based retro FPS.<br>Assau!t is a defensive FPS game in which you have to stop charging enemies to invade the player's territory.<h2 class=\"bb_tag\" >(Old) Synopsis</h2>It is 2084, the continent of UNAT where a huge civilization exists. Due to the unstable international community on the continent of UNAT, soldiers in black camouflage called counter-terrorist \"anonymous\" are causing armed terrorism.<br><br>You have armed yourself to avoid being beaten by anonymous forces. Will you ever survive the anonymous army for a long time?",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

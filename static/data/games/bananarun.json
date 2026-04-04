@@ -3,8 +3,8 @@
   "name": "Bananarun",
   "slug": "bananarun",
   "developer": "Emil Leijon",
-  "publisher": "Emil Leijon",
-  "release_date": "Aug 5, 2021",
+  "publisher": "",
+  "release_date": "2021-08-05",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -21,41 +21,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Bananarun is a 2D precision platformer rage game. In order to save your kidnapped parents you must go through many harsh challenges that may have some surprises in your way, as it takes you deeper into the unknown.",
+  "short_description": "Bananarun is a 2D precision platformer rage game. In order to save your kidnapped parents you must go through many harsh challenges that may have some surprises in your way, as it takes you deeper int",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1439400/header.jpg?t=1709390980",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1439400/ss_9ac07c865f5945c1184ca4c2446024f41804456f.600x338.jpg?t=1709390980",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1439400/ss_cdf65e0a994379ef9a6bdc0a69cf1c4cd54cb7d1.600x338.jpg?t=1709390980",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1439400/ss_4357bdf602b8c5632b593021168e926fb38c492f.600x338.jpg?t=1709390980",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1439400/ss_2e0f939dea53c8d03928871042fa3058846bd62e.600x338.jpg?t=1709390980",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1439400/ss_71a77a939a2bbf2a5ee6cd47aadec6d14c8e97bf.600x338.jpg?t=1709390980",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1439400/ss_0d017e630071e9487b0d4da18920574508936562.600x338.jpg?t=1709390980",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1439400/ss_8389ddb2d333fb26d15eb535dd44ea20d527c9d1.600x338.jpg?t=1709390980",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1439400/ss_f05ed0c0f9812e27cca64567cbd5d384b54cf430.600x338.jpg?t=1709390980",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1439400/ss_d0f01274330b52d9a65ed2b637f9b1b11a8b833d.600x338.jpg?t=1709390980"
-  ],
-  "detailed_description": "Bananarun is a skill-based precisionplatformer. Be aware: lots of deaths, fails and tears are awaiting you. Are you up for the challenge?<br><br><strong>Key features:</strong><br><br><i>- Surprising elements</i><br>- It will be a surprise.<br><br><i>- Different controls</i><br>- You can use whatever you prefer wether it is: WASD, The arrow keys or a ps4 / xbox controller.<br><br><i>- Unlimited lives</i><br>- You can restart the level unlimited times and load back to it if you need to go. <br><br><i>- Many ways to die</i><br>- You will die... a lot. Trust me.<br><br><i>- Challenging </i><br>- I don't have to say anything here.",
-  "about_the_game": "Bananarun is a skill-based precisionplatformer. Be aware: lots of deaths, fails and tears are awaiting you. Are you up for the challenge?<br><br><strong>Key features:</strong><br><br><i>- Surprising elements</i><br>- It will be a surprise.<br><br><i>- Different controls</i><br>- You can use whatever you prefer wether it is: WASD, The arrow keys or a ps4 / xbox controller.<br><br><i>- Unlimited lives</i><br>- You can restart the level unlimited times and load back to it if you need to go. <br><br><i>- Many ways to die</i><br>- You will die... a lot. Trust me.<br><br><i>- Challenging </i><br>- I don't have to say anything here.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.45,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 9,
-  "review_positive": 9,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -63,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

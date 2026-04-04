@@ -3,8 +3,8 @@
   "name": "BoomXR",
   "slug": "boomxr",
   "developer": "Yolopia Ltd",
-  "publisher": "Yolopia Ltd",
-  "release_date": "Aug 12, 2021",
+  "publisher": "",
+  "release_date": "2021-08-12",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -19,33 +19,15 @@
   ],
   "short_description": "Ninja rhythmic boxing workout",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1525810/header.jpg?t=1672747953",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1525810/ss_12ce82f40191f6f5f127229175ff309e9bd01fdc.600x338.jpg?t=1672747953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1525810/ss_d2a619c047c90226702e6ace81e764100d229515.600x338.jpg?t=1672747953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1525810/ss_3203a641599d24466d66bb9d3670aac2afe4fef8.600x338.jpg?t=1672747953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1525810/ss_943b703dd70b1a3a8539b9488e83517c637a63a2.600x338.jpg?t=1672747953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1525810/ss_6c5ba86732a80f1cab3105f7d3007477a99d6080.600x338.jpg?t=1672747953"
-  ],
-  "detailed_description": "Switched development to WebXR with a focus on standalone quests. <br><br>Visit  to play straight from the oculus browser",
-  "about_the_game": "Switched development to WebXR with a focus on standalone quests. <br><br>Visit  to play straight from the oculus browser",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.5,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 10,
-  "review_positive": 9,
+  "review_positive": 0,
   "review_percentage": 90.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 10,
-      "review_percentage": 90.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 90.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

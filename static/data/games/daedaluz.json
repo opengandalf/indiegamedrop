@@ -3,8 +3,8 @@
   "name": "Daedaluz",
   "slug": "daedaluz",
   "developer": "VagoGames",
-  "publisher": "VagoGames",
-  "release_date": "Jul 12, 2020",
+  "publisher": "",
+  "release_date": "2020-07-12",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -19,57 +19,29 @@
     "mac",
     "linux"
   ],
-  "short_description": "Daedaluz is a game about maneuverability and obstacle avoidance where your ship breaks apart as you collide with them. Try to reach the end in consecutive increasingly difficult levels or try infinity mode and see how long you can survive.",
+  "short_description": "Daedaluz is a game about maneuverability and obstacle avoidance where your ship breaks apart as you collide with them. Try to reach the end in consecutive increasingly difficult levels or try infinity",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1249150/header.jpg?t=1732476116",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1249150/ss_417511f018bb3e88dc39920abb64fc8a6ddfe25e.600x338.jpg?t=1732476116",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1249150/ss_686c3f904c9dfdf54d4d88f2160c280455314166.600x338.jpg?t=1732476116",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1249150/ss_4a3aabf0e321c37a37d554c3f07e43abccebb278.600x338.jpg?t=1732476116",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1249150/ss_7fb1940e8704d6ffd201d54d691eb33ca60476b0.600x338.jpg?t=1732476116",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1249150/ss_a2f860009a9793ca814e319e38284ba54aeb0e5d.600x338.jpg?t=1732476116",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1249150/ss_979b400a6a3b509f9bcf1e0f87ebe50caa6a6092.600x338.jpg?t=1732476116",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1249150/ss_41735e753ac511bdfdf81412bebbd08c428f6618.600x338.jpg?t=1732476116"
-  ],
-  "detailed_description": "Daedaluz is a game about maneuverability and obstacle avoidance where your ship breaks apart as you collide with them. Try to reach the end in consecutive increasingly difficult levels or try infinity mode and see how long you can survive.",
-  "about_the_game": "Daedaluz is a game about maneuverability and obstacle avoidance where your ship breaks apart as you collide with them. Try to reach the end in consecutive increasingly difficult levels or try infinity mode and see how long you can survive.",
-  "supported_languages": "English, Spanish - Spain",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
-  "gem_score": 0.865,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 2.0500000000000003,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 41,
-  "review_positive": 40,
+  "review_positive": 0,
   "review_percentage": 97.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 39,
-      "review_percentage": 97.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 41,
       "review_percentage": 97.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

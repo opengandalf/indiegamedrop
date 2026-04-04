@@ -3,8 +3,8 @@
   "name": "Drive-By Hero",
   "slug": "drive-by-hero",
   "developer": "Idea Cabin",
-  "publisher": "Idea Cabin",
-  "release_date": "Apr 14, 2020",
+  "publisher": "",
+  "release_date": "2020-04-14",
   "price_usd": 5.24,
   "genres": [
     "Action",
@@ -21,37 +21,17 @@
     "mac",
     "linux"
   ],
-  "short_description": "Inspired by arcade game experiences, Drive By Hero is an apocalyptic shooter game. Shoot enemies, kill bosses, use new weapons and try to survive in this horrific action game. Alone with your car and your gun, you are not the hero they deserve but the one they need.",
+  "short_description": "Inspired by arcade game experiences, Drive By Hero is an apocalyptic shooter game. Shoot enemies, kill bosses, use new weapons and try to survive in this horrific action game. Alone with your car and ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/640310/header.jpg?t=1586886876",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/640310/ss_6179748a0d0146bc917d0b0e06fe138b3ae5825c.600x338.jpg?t=1586886876",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/640310/ss_8186d83d3a88a26f207bfab10aceb10481b45086.600x338.jpg?t=1586886876",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/640310/ss_01c856200fd534c21d4b047ee9e987a4900c7447.600x338.jpg?t=1586886876",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/640310/ss_eeddb78b1e3ca3e503b642b1587f280d0692254a.600x338.jpg?t=1586886876",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/640310/ss_bf0e7a6b9db126b10230370ce8cc0128894df6e8.600x338.jpg?t=1586886876",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/640310/ss_86ae29a870d58181bcb2eaf4166d54903df6c108.600x338.jpg?t=1586886876",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/640310/ss_4f56f2c5589de6776707839a2fee97f45a284f9f.600x338.jpg?t=1586886876"
-  ],
-  "detailed_description": "After the discovery of a new resource which have boosted the U.S economy. Scientists began to discover some...undesirable effects. Six months later, the country is devastated: Factories have stopped working, economy collapses and people are now affected by a strange disease which has transformed them into zombies.<br />\r\n<br />\r\nInspired by arcade game experiences, Drive By Hero is an apocalyptic shooter game. Shoot enemies, kill bosses, use new weapons and try to survive in this horrific action game. Alone with your car and your gun, you are not the hero they deserve but the one they need.",
-  "about_the_game": "After the discovery of a new resource which have boosted the U.S economy. Scientists began to discover some...undesirable effects. Six months later, the country is devastated: Factories have stopped working, economy collapses and people are now affected by a strange disease which has transformed them into zombies.<br />\r\n<br />\r\nInspired by arcade game experiences, Drive By Hero is an apocalyptic shooter game. Shoot enemies, kill bosses, use new weapons and try to survive in this horrific action game. Alone with your car and your gun, you are not the hero they deserve but the one they need.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 170,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 7.0,
+  "review_velocity_7d": 13.200000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 264,
-  "review_positive": 134,
+  "review_positive": 0,
   "review_percentage": 50.8,
   "owner_estimate": 75000,
   "ccu_estimate": 0,
@@ -59,26 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 257,
-      "review_percentage": 49.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 264,
-      "review_percentage": 50.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 264,
       "review_percentage": 50.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

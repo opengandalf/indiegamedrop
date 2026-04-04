@@ -3,8 +3,8 @@
   "name": "TCPingInfoView",
   "slug": "tcpinginfoview",
   "developer": "HMBSbige",
-  "publisher": "HMBSbige",
-  "release_date": "Dec 16, 2018",
+  "publisher": "",
+  "release_date": "2018-12-16",
   "price_usd": 0.99,
   "genres": [
     "Utilities"
@@ -17,59 +17,21 @@
   ],
   "short_description": "Test for TCP connections. Monitor your game servers or other Internet services based on TCP.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/828090/header.jpg?t=1552991610",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/828090/ss_8110d2965fb7e5d28531e58537cfdd64ac60d8de.600x338.jpg?t=1552991610",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/828090/ss_ced988a976cc9c30e99ad90e2c3dad9e8cb04800.600x338.jpg?t=1552991610",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/828090/ss_b39f3b07cf627fe5786c7b6aeb6df2881028896f.600x338.jpg?t=1552991610",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/828090/ss_6e73a7a6476fae274e74cf4637f52b99c2c60399.600x338.jpg?t=1552991610",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/828090/ss_01ce8272d308ea17b4806ccb85854a7402c18cb0.600x338.jpg?t=1552991610"
-  ],
-  "detailed_description": "TCPingInfoView can test TCP connections on Windows. The main purpose is to monitor your game servers or other Internet services based on TCP.<br><br>It supports Win7 and high DPI, but it is recommended to run on Windows 10 1703 or later.<br><br>It's also open source, so anyone can study, modify, and contribute to making it better.<h2 class=\"bb_tag\" >Example of the List</h2># Google<br>[2607:f8b0:4007:801::2004]:443 IPv6<br>172.217.14.68:80<br> Google, port 443<br><br># Youtube<br>[2607:f8b0:4007:80e::200e] IPv6<br>172.217.14.78 IPv4 地址<br> YouTube port 80<br><br>",
-  "about_the_game": "TCPingInfoView can test TCP connections on Windows. The main purpose is to monitor your game servers or other Internet services based on TCP.<br><br>It supports Win7 and high DPI, but it is recommended to run on Windows 10 1703 or later.<br><br>It's also open source, so anyone can study, modify, and contribute to making it better.<h2 class=\"bb_tag\" >Example of the List</h2># Google<br>[2607:f8b0:4007:801::2004]:443 IPv6<br>172.217.14.68:80<br> Google, port 443<br><br># Youtube<br>[2607:f8b0:4007:80e::200e] IPv6<br>172.217.14.78 IPv4 地址<br> YouTube port 80<br><br>",
-  "supported_languages": "Simplified Chinese, English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Achievements",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 9,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 22.2,
-  "owner_estimate": 10000,
+  "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 11,
-      "review_percentage": 27.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 9,
-      "review_percentage": 22.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 22.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

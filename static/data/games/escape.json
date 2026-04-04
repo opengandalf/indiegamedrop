@@ -3,8 +3,8 @@
   "name": "Escape",
   "slug": "escape",
   "developer": "Stephane Bottin",
-  "publisher": "Stephane Bottin",
-  "release_date": "Apr 20, 2015",
+  "publisher": "",
+  "release_date": "2015-04-20",
   "price_usd": 0.0,
   "genres": [
     "Free To Play",
@@ -21,32 +21,15 @@
   ],
   "short_description": "Escape is a simple 2D game with 35 levels already unlocked (for the sake of gaming of course). Require jumping skills, a brain and patience. Enjoy :)",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365050/header.jpg?t=1447373028",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365050/ss_f0b10ccbba89e85a88b0768453b37e0746a24ae3.600x338.jpg?t=1447373028",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365050/ss_c7685e7054a1735d8c6174c967102b7fd0fcaf88.600x338.jpg?t=1447373028",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365050/ss_781bb719a3a1c5c863dd0191dedd95cec252e848.600x338.jpg?t=1447373028",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365050/ss_b458afd5911881e8d4c63247d62d3e847facb4b8.600x338.jpg?t=1447373028",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365050/ss_ea63972bd4175248ab5d25fbf0140eda6cf2e7a4.600x338.jpg?t=1447373028",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365050/ss_d0c312ec40ae47ee0b2964c53b7832380430702c.600x338.jpg?t=1447373028"
-  ],
-  "detailed_description": "Escape is a small 2D strategy game where you have to go through different rooms. Each rooms has a finish point and you need to manage to go to that point without dying. The game is quit simple, it can be finished very quickly depending on your jumping skills !<br />\r\n<br />\r\nThere are a total of 35 levels. All the levels are already unlocked and ready to be played.<br />\r\nYou can put your own favorite music as there is none in this game.<br />\r\n<br />\r\nEnjoy :)<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\nPlease report any bug at this adress : escapeinformation@gmail.com",
-  "about_the_game": "Escape is a small 2D strategy game where you have to go through different rooms. Each rooms has a finish point and you need to manage to go to that point without dying. The game is quit simple, it can be finished very quickly depending on your jumping skills !<br />\r\n<br />\r\nThere are a total of 35 levels. All the levels are already unlocked and ready to be played.<br />\r\nYou can put your own favorite music as there is none in this game.<br />\r\n<br />\r\nEnjoy :)<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\n<br />\r\nPlease report any bug at this adress : escapeinformation@gmail.com",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 14.4,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 288,
-  "review_positive": 179,
+  "review_positive": 0,
   "review_percentage": 62.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 288,
-      "review_percentage": 61.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
+      "date": "2026-04-04",
       "review_count": 288,
       "review_percentage": 62.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

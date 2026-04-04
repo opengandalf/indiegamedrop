@@ -3,8 +3,8 @@
   "name": "The Short Trip",
   "slug": "the-short-trip",
   "developer": "OcarinaGames",
-  "publisher": "OcarinaGames",
-  "release_date": "Jan 22, 2025",
+  "publisher": "",
+  "release_date": "2025-01-22",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -24,35 +24,9 @@
   ],
   "short_description": "The Short Trip is a game about driving and surviving in an endless desert along a somewhat-long almost-short road.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3305430/header.jpg?t=1751042507",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3305430/ss_5d629decc059d9206ea99594d0314c94006e901a.600x338.jpg?t=1751042507",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3305430/ss_3078727b7b283c56661c8287bf132cb9464007de.600x338.jpg?t=1751042507",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3305430/ss_b88f3615f506b699b34eed78239d33d6de52f29a.600x338.jpg?t=1751042507",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3305430/ss_6f93161b698f38e9ccffafd825b80069d6ea4132.600x338.jpg?t=1751042507",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3305430/ss_451596d1d205634bbb8eb3b1795a4b7791195efc.600x338.jpg?t=1751042507"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>The Short Trip</strong> pays direct homage and inspiration from games like The Long Drive and Desert Bus, using the visual style of PICO-8 games, and being created in Godot.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >In<strong> The Short Trip</strong>, you will drive vehicles until you reach the end of the road.<br>Items are intended to be rare, you must keep track of your<strong> food</strong> and<strong> thirst.</strong><br><br><br><strong>Maintaining</strong> your vehicle is paramount, as crashes will slowly<strong> deteriorate</strong> your vehicle until it is inoperable. It will also<strong> burn fuel.<br>Inventory management</strong> is a core feature. You cannot hoard, so you must<strong> only take what you need. </strong>Taking too much will<strong> slow your vehicle down.</strong></p><p class=\"bb_paragraph\" >All vehicles come with upsides and downsides, which you will find through gameplay. All vehicles are viable, but some are better than others.</p><p class=\"bb_paragraph\" >Death is permanent,<strong> there are no respawns.</strong></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>The Short Trip</strong> pays direct homage and inspiration from games like The Long Drive and Desert Bus, using the visual style of PICO-8 games, and being created in Godot.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >In<strong> The Short Trip</strong>, you will drive vehicles until you reach the end of the road.<br>Items are intended to be rare, you must keep track of your<strong> food</strong> and<strong> thirst.</strong><br><br><br><strong>Maintaining</strong> your vehicle is paramount, as crashes will slowly<strong> deteriorate</strong> your vehicle until it is inoperable. It will also<strong> burn fuel.<br>Inventory management</strong> is a core feature. You cannot hoard, so you must<strong> only take what you need. </strong>Taking too much will<strong> slow your vehicle down.</strong></p><p class=\"bb_paragraph\" >All vehicles come with upsides and downsides, which you will find through gameplay. All vehicles are viable, but some are better than others.</p><p class=\"bb_paragraph\" >Death is permanent,<strong> there are no respawns.</strong></p>",
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 10,
-  "review_positive": 9,
+  "review_positive": 0,
   "review_percentage": 90.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +34,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 88.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 90.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "EscapeThisBigMaze!",
   "slug": "escapethisbigmaze",
   "developer": "Andres Gonzalez",
-  "publisher": "Amino Acid Studios",
-  "release_date": "Aug 16, 2021",
+  "publisher": "",
+  "release_date": "2021-08-16",
   "price_usd": 0.99,
   "genres": [
     "Adventure",
@@ -21,34 +21,15 @@
   ],
   "short_description": "It's a new maze every time! Find your way out! Keep track of your moves and the amount of time it takes for you to make it out! Also, this helps me get through school! Hope you enjoy!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1707090/header.jpg?t=1674932241",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1707090/ss_cee1b7e9fc16b441bd8491072acac33595f0ca11.600x338.jpg?t=1674932241",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1707090/ss_f42aaacfd3b80f5405a31e31ac8f2db8cc19b952.600x338.jpg?t=1674932241",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1707090/ss_2b2ba18cef3b2a9337a401da8a5e233d9f39bd31.600x338.jpg?t=1674932241",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1707090/ss_b6190f6333a757574e2ce477e174383ba603581b.600x338.jpg?t=1674932241",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1707090/ss_e6ae3877aa061c3748baed7663908f3ce5fa9725.600x338.jpg?t=1674932241",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1707090/ss_7b8952bba85dc444818bc0646ee888c53dcb67ed.600x338.jpg?t=1674932241"
-  ],
-  "detailed_description": "It's a new, randomly-generated maze for every play! Help me get through school and find your way out!<br />\r\n<br />\r\nYou start at the one corner of the map and traverse the maze through to the end on the other corner.  The number of moves you make are counted and there's also a running stopwatch.  Try to get the lowest number of moves and times! See if you can average a minimal moves-per-second-and still make it out!  Compare with your friends and see who made it out the quickest and with the lowest number of moves!",
-  "about_the_game": "It's a new, randomly-generated maze for every play! Help me get through school and find your way out!<br />\r\n<br />\r\nYou start at the one corner of the map and traverse the maze through to the end on the other corner.  The number of moves you make are counted and there's also a running stopwatch.  Try to get the lowest number of moves and times! See if you can average a minimal moves-per-second-and still make it out!  Compare with your friends and see who made it out the quickest and with the lowest number of moves!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

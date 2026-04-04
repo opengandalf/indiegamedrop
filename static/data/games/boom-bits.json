@@ -3,8 +3,8 @@
   "name": "Boom Bits",
   "slug": "boom-bits",
   "developer": "Naughty Children at Play",
-  "publisher": "Naughty Children at Play",
-  "release_date": "Sep 14, 2018",
+  "publisher": "",
+  "release_date": "2018-09-14",
   "price_usd": 9.99,
   "genres": [
     "Action",
@@ -19,41 +19,15 @@
   ],
   "short_description": "Boom Bits is a single-player twin stick shooter set in the distant future where humans have been forced to leave the planet. You must protect the cargo and get to the launch site.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914480/header.jpg?t=1599527474",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914480/ss_dcde5b3175eb1b0d69240963a18d09b32b5bd69f.600x338.jpg?t=1599527474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914480/ss_01e475a8b9336936d7f968a1da064a15856f55ce.600x338.jpg?t=1599527474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914480/ss_1de0cec943a3c4cb82331d43c1f0ea98a03433ba.600x338.jpg?t=1599527474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914480/ss_a86af9f64d9e73196acb8964de0d97d676766374.600x338.jpg?t=1599527474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914480/ss_64d814d8ef4fa54e23cdb0b700f3ef89d18e58ee.600x338.jpg?t=1599527474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914480/ss_84900f48a5a37414cfb42587d10478503fc32cb8.600x338.jpg?t=1599527474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914480/ss_edf9c12552a7860cd9807bfccb2c4a22dc0ebd9e.600x338.jpg?t=1599527474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914480/ss_300ffe9b34b07c82e7531fb8a594231db37973c8.600x338.jpg?t=1599527474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914480/ss_08fde3faf71ff4be7ff603a6f00529f2b879b605.600x338.jpg?t=1599527474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914480/ss_6db38b81ac577ef8e70751e81a03c5b34340942f.600x338.jpg?t=1599527474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914480/ss_1cdc6748fbbc2cbd196ecb04bfd870a0a339c16a.600x338.jpg?t=1599527474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914480/ss_fb32efc22451e0191bc3fbf4faa72d2701a88cf7.600x338.jpg?t=1599527474"
-  ],
-  "detailed_description": "Boom Bits is a single-player, twin stick shooter, set in the distant future. <br>Following a catastrophic accident on the moon, humans have been forced to leave the planet. In their haste, they left some of their things behind. You must follow your programming to protect their, precious, cargo and get to the launch site to rejoin the humans off world.<h2 class=\"bb_tag\" >Features:</h2><br><ul class=\"bb_ul\"><li><h2 class=\"bb_tag\" >25 Levels</h2></li><li><h2 class=\"bb_tag\" >Engrossing Single-player Action</h2></li><li><h2 class=\"bb_tag\" >Challenging Game Play</h2></li><li><h2 class=\"bb_tag\" >Run-and-gun Play Style</h2></li><li><h2 class=\"bb_tag\" >Gorgeous Level Design</h2></li><li><h2 class=\"bb_tag\" >Controller Support</h2></li><li><h2 class=\"bb_tag\" >Original Music</h2><br><strong>Version 1.4</strong><br><i>In this version of Boom Bits, there are a few changes made to help tighten up gameplay. Some are bug fixes and some are enhancements to make the game more enjoyable.<br>The list of changes are as follows.</i><br><br></li><li>A RADAR System was added to help locate bots that are off screen that need to be deactivated.<br></li><li>Fixed auto detection of controller connect/disconnect.<br></li><li>Integrated instructions. Selecting the instructions button no longer opens a browser window but instead, opens a separate panel in game.<br></li><li>Fixed the low camera view, where your player was not centered on screen.<br><br><strong>Version 1.3</strong><br><i>In this version of Boom Bits, there are a number of changes that were made. Most of which are bug fixes and changes to the gameplay that people have asked for.<br>Other differences in this version are additions of things that were left out in the initial release of the game because of time constraints.<br>The list of changes are as follows.</i><br><br></li><li>The target sight distance is locked when playing with a controller<br></li><li>Player now turns faster and behaves as expected when using a controller<br></li><li>Auto detection of controller connect/disconnect<br></li><li>Fixed a bug where if you quit to the title screen and tried to play again, the player would be locked out<br></li><li>Simplified the mission board text to make it less wordy<br></li><li>Missiles, now, destroy things<br></li><li>There is an indicator that flashes when you are loosing too many boxes and are reaching the limit<br></li><li>There is an, on screen, indicator to show you what level you're on<br></li><li>Fixed an issue where pausing the game would not always work as expected<br></li><li>All power-ups, now, work as expected<br></li><li>The high camera view, now, moves with the player as expected<br></li><li>Special weapons no longer collide with each other when launched when controller fire button is held<br><br><strong>Version 1.2</strong><br><i>In this version of Boom Bits, there are a few changes made based on some play testing.</i><br><br></li><li>Made all weapons fire from the same fire button when using a controller<br></li><li>Weapon, no longer, auto switches when a weapon power-up is picked up<br></li><li>Quitting the game while using a controller, now, works as expected<br></li><li>Added version number to title screen</li></ul>",
-  "about_the_game": "Boom Bits is a single-player, twin stick shooter, set in the distant future. <br>Following a catastrophic accident on the moon, humans have been forced to leave the planet. In their haste, they left some of their things behind. You must follow your programming to protect their, precious, cargo and get to the launch site to rejoin the humans off world.<h2 class=\"bb_tag\" >Features:</h2><br><ul class=\"bb_ul\"><li><h2 class=\"bb_tag\" >25 Levels</h2></li><li><h2 class=\"bb_tag\" >Engrossing Single-player Action</h2></li><li><h2 class=\"bb_tag\" >Challenging Game Play</h2></li><li><h2 class=\"bb_tag\" >Run-and-gun Play Style</h2></li><li><h2 class=\"bb_tag\" >Gorgeous Level Design</h2></li><li><h2 class=\"bb_tag\" >Controller Support</h2></li><li><h2 class=\"bb_tag\" >Original Music</h2><br><strong>Version 1.4</strong><br><i>In this version of Boom Bits, there are a few changes made to help tighten up gameplay. Some are bug fixes and some are enhancements to make the game more enjoyable.<br>The list of changes are as follows.</i><br><br></li><li>A RADAR System was added to help locate bots that are off screen that need to be deactivated.<br></li><li>Fixed auto detection of controller connect/disconnect.<br></li><li>Integrated instructions. Selecting the instructions button no longer opens a browser window but instead, opens a separate panel in game.<br></li><li>Fixed the low camera view, where your player was not centered on screen.<br><br><strong>Version 1.3</strong><br><i>In this version of Boom Bits, there are a number of changes that were made. Most of which are bug fixes and changes to the gameplay that people have asked for.<br>Other differences in this version are additions of things that were left out in the initial release of the game because of time constraints.<br>The list of changes are as follows.</i><br><br></li><li>The target sight distance is locked when playing with a controller<br></li><li>Player now turns faster and behaves as expected when using a controller<br></li><li>Auto detection of controller connect/disconnect<br></li><li>Fixed a bug where if you quit to the title screen and tried to play again, the player would be locked out<br></li><li>Simplified the mission board text to make it less wordy<br></li><li>Missiles, now, destroy things<br></li><li>There is an indicator that flashes when you are loosing too many boxes and are reaching the limit<br></li><li>There is an, on screen, indicator to show you what level you're on<br></li><li>Fixed an issue where pausing the game would not always work as expected<br></li><li>All power-ups, now, work as expected<br></li><li>The high camera view, now, moves with the player as expected<br></li><li>Special weapons no longer collide with each other when launched when controller fire button is held<br><br><strong>Version 1.2</strong><br><i>In this version of Boom Bits, there are a few changes made based on some play testing.</i><br><br></li><li>Made all weapons fire from the same fire button when using a controller<br></li><li>Weapon, no longer, auto switches when a weapon power-up is picked up<br></li><li>Quitting the game while using a controller, now, works as expected<br></li><li>Added version number to title screen</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -61,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

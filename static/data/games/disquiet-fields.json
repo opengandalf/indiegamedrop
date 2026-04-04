@@ -3,8 +3,8 @@
   "name": "Disquiet Fields",
   "slug": "disquiet-fields",
   "developer": "CocoCode",
-  "publisher": "CocoCode",
-  "release_date": "Oct 30, 2020",
+  "publisher": "",
+  "release_date": "2020-10-30",
   "price_usd": 1.99,
   "genres": [
     "Adventure"
@@ -15,34 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Disquiet Fields is a horror game where your objective is to survive. The only thing you have to do is to traverse a sandy path in the middle of mysterious fields being stalked by enigmatic creature. Can you survive all the way to the end of that path?",
+  "short_description": "Disquiet Fields is a horror game where your objective is to survive. The only thing you have to do is to traverse a sandy path in the middle of mysterious fields being stalked by enigmatic creature. C",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429130/header.jpg?t=1604053757",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429130/ss_75c0b8c274c8057bc9a086e4ab500f6b0366ce61.600x338.jpg?t=1604053757",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429130/ss_f4e068abd4fb1491d80481be48567c5890e61706.600x338.jpg?t=1604053757",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429130/ss_1428a58d93bc524a142ac22fd18bb8a6720e1ee7.600x338.jpg?t=1604053757",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429130/ss_93edf11656b47ee11a5857dc0414fbbf22d95d9a.600x338.jpg?t=1604053757",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429130/ss_9e46f9ee8ca90196daa101c3fb51beb25107591e.600x338.jpg?t=1604053757"
-  ],
-  "detailed_description": "Disquiet Fields is a horror game where your objective is to survive. The only thing you have to do is to traverse a sandy path in the middle of mysterious fields being stalked by enigmatic creature. Can you survive all the way to the end of that path?",
-  "about_the_game": "Disquiet Fields is a horror game where your objective is to survive. The only thing you have to do is to traverse a sandy path in the middle of mysterious fields being stalked by enigmatic creature. Can you survive all the way to the end of that path?",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.55,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 11,
-  "review_positive": 11,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 11,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 11,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

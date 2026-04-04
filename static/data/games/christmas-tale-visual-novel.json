@@ -3,8 +3,8 @@
   "name": "Christmas Tale - Visual Novel",
   "slug": "christmas-tale-visual-novel",
   "developer": "morojenoe's empire",
-  "publisher": "morojenoe's empire",
-  "release_date": "Jan 2, 2018",
+  "publisher": "",
+  "release_date": "2018-01-02",
   "price_usd": 1.19,
   "genres": [
     "Adventure",
@@ -19,33 +19,15 @@
   ],
   "short_description": "Christmas tale - it's a short choice-based visual novel about two days before Christmas.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765400/header.jpg?t=1514917549",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765400/ss_dcbe6f90df9bd037f38009ab5c2b85ac49498d94.600x338.jpg?t=1514917549",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765400/ss_a1d7bdfcf551f1c967ae0c4a84025ea36e66993d.600x338.jpg?t=1514917549",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765400/ss_d73f0f39a6393e42bc2fef02b040091d88dbf107.600x338.jpg?t=1514917549",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765400/ss_4ce7b5f10bcd93fa80c85b7350e0d7ae9a1c6114.600x338.jpg?t=1514917549",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/765400/ss_acea61e23a691937da0d97c8bdb4b8e322016088.600x338.jpg?t=1514917549"
-  ],
-  "detailed_description": "Christmas tale - it's a short choice-based visual novel about two days before Christmas.<br />\r\n<br />\r\nYou will decide which choice to make, hoping it somehow will change your life.<br />\r\n<br />\r\n- Christmas atmosphere<br />\r\n- Three endings<br />\r\n- Steam Achievements<br />\r\n<br />\r\nDLC Deluxe Edition includes Winter Relax mode and Wallpapers.",
-  "about_the_game": "Christmas tale - it's a short choice-based visual novel about two days before Christmas.<br />\r\n<br />\r\nYou will decide which choice to make, hoping it somehow will change your life.<br />\r\n<br />\r\n- Christmas atmosphere<br />\r\n- Three endings<br />\r\n- Steam Achievements<br />\r\n<br />\r\nDLC Deluxe Edition includes Winter Relax mode and Wallpapers.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.0,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 20,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 35.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -53,26 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 19,
-      "review_percentage": 31.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 20,
-      "review_percentage": 35.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 20,
       "review_percentage": 35.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "FinalAdventure",
   "slug": "finaladventure",
   "developer": "Dupeyron",
-  "publisher": "Dupeyron",
-  "release_date": "May 31, 2019",
+  "publisher": "",
+  "release_date": "2019-05-31",
   "price_usd": 7.99,
   "genres": [
     "Adventure",
@@ -19,35 +19,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Partir à l'aventure... Un étrange phénomène est survenu suite à la collision d'une comète... Faite équipe avec des personnages que vous allez rencontrer au cours de votre périple. Saurez vous sauver ce monde avant qu'il ne meure ?...",
+  "short_description": "Partir à l'aventure... Un étrange phénomène est survenu suite à la collision d'une comète... Faite équipe avec des personnages que vous allez rencontrer au cours de votre périple. Saurez vous sauver c",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1080120/header.jpg?t=1559305049",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1080120/ss_f01a038a1f7beb6650e9656b7d4d7f4da666c1ab.600x338.jpg?t=1559305049",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1080120/ss_438385f47ccfb628bf0c857e123168d1baa1b150.600x338.jpg?t=1559305049",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1080120/ss_8dc644d13239a8d7c4fd9e5469a8b3ae793ddc0e.600x338.jpg?t=1559305049",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1080120/ss_b8daad18e8d2021d21e3264a7d02279f62f0c9ad.600x338.jpg?t=1559305049",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1080120/ss_14b2a807b3217067e4050ee90c103fb4b5ae3107.600x338.jpg?t=1559305049"
-  ],
-  "detailed_description": "Partir à l'aventure... Un étrange phénomène est survenu suite à la collision d'une comète...<br>Faite équipe avec des personnages que vous allez rencontrer au cours de votre périple.<br>Saurez vous sauver ce monde avant qu'il ne meure ?...<br><br>Final Adventure et un jeu RPG 2D [Role Playing Game].",
-  "about_the_game": "Partir à l'aventure... Un étrange phénomène est survenu suite à la collision d'une comète...<br>Faite équipe avec des personnages que vous allez rencontrer au cours de votre périple.<br>Saurez vous sauver ce monde avant qu'il ne meure ?...<br><br>Final Adventure et un jeu RPG 2D [Role Playing Game].",
-  "supported_languages": "French<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 7,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 85.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 85.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 85.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

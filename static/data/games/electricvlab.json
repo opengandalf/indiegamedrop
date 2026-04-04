@@ -3,8 +3,8 @@
   "name": "ElectricVLab",
   "slug": "electricvlab",
   "developer": "Q1TEK LLC",
-  "publisher": "Q1TEK LLC",
-  "release_date": "Dec 20, 2018",
+  "publisher": "",
+  "release_date": "2018-12-20",
   "price_usd": 9.74,
   "genres": [
     "Simulation"
@@ -15,67 +15,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "ElectricVLab employs the technology of video games to explore the fascinating world of electricity and electronics. It allows you to build a wide variety of analog and digital electronic circuits, and observe their behavior in a visually rich, informative, fun environment.",
+  "short_description": "ElectricVLab employs the technology of video games to explore the fascinating world of electricity and electronics. It allows you to build a wide variety of analog and digital electronic circuits, and",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760920/header.jpg?t=1673495791",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760920/ss_11efbfcca0b4ef3a392d04caf6af03c9854bc51e.600x338.jpg?t=1673495791",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760920/ss_a2cd8f670818c8b6573ca64bee93f5b67bab051a.600x338.jpg?t=1673495791",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760920/ss_04ca941102b85132ef2eca2d19f2c3bf72d314e2.600x338.jpg?t=1673495791",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760920/ss_fb9c8fc2f7d528380dda40504e04887402de1e0f.600x338.jpg?t=1673495791",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760920/ss_3010cf80cf7cd1c438100b0eddfcc1f7ff37bb38.600x338.jpg?t=1673495791",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760920/ss_53a870357ece5ea5dca18e935e62b758f9ae5209.600x338.jpg?t=1673495791",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760920/ss_e76ef9e7a1728f031e2a7768a1adf3fcf7e0ec53.600x338.jpg?t=1673495791",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760920/ss_e8fb99e42ae1527fadaa5dc913fe7aed3b606dee.600x338.jpg?t=1673495791",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760920/ss_a356a61f42476c8efa9708bd5dc11a0603206cd3.600x338.jpg?t=1673495791",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760920/ss_933a3d3ddaca196c0e15a88d4d121d7ba6d14931.600x338.jpg?t=1673495791"
-  ],
-  "detailed_description": "ElectricVLab employs the technology of video games to explore the fascinating world of electricity and electronics. <br />\r\n<br />\r\nElectricVLab is somewhat similar to a simulation game such as SimCity. In SimCity, one builds a city and views its functioning based on simulation. In ElectricVLab, you build electric and electronic circuits and view their functioning based on simulation. <br />\r\n<br />\r\nElectricVLab offers a great collection of analog and digital electronic components to build the circuits. It employs 3D graphics, visual effects, and animations to provide informative, visually rich feedback about the functioning of the circuits. In addition to  regular electronic components, ElectricVLab also contains a variety of fun components such as fireworks, flames, fountains etc. Altogether, ElectricVLab makes the exploration of electricity and electronics fun, while also being educational.",
-  "about_the_game": "ElectricVLab employs the technology of video games to explore the fascinating world of electricity and electronics. <br />\r\n<br />\r\nElectricVLab is somewhat similar to a simulation game such as SimCity. In SimCity, one builds a city and views its functioning based on simulation. In ElectricVLab, you build electric and electronic circuits and view their functioning based on simulation. <br />\r\n<br />\r\nElectricVLab offers a great collection of analog and digital electronic components to build the circuits. It employs 3D graphics, visual effects, and animations to provide informative, visually rich feedback about the functioning of the circuits. In addition to  regular electronic components, ElectricVLab also contains a variety of fun components such as fireworks, flames, fountains etc. Altogether, ElectricVLab makes the exploration of electricity and electronics fun, while also being educational.",
-  "supported_languages": "English<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 2.95,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 59,
-  "review_positive": 52,
+  "review_positive": 0,
   "review_percentage": 88.1,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 475,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 57,
-      "review_percentage": 87.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 59,
-      "review_percentage": 88.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 59,
       "review_percentage": 88.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

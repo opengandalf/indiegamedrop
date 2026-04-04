@@ -3,8 +3,8 @@
   "name": "Doorways: Old Prototype",
   "slug": "doorways-old-prototype",
   "developer": "Saibot Studios",
-  "publisher": "Saibot Studios",
-  "release_date": "Oct 5, 2016",
+  "publisher": "",
+  "release_date": "2016-10-05",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -25,62 +25,27 @@
   ],
   "short_description": "An immersive and twisted adventure created before the official development of the Doorways saga",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525780/header.jpg?t=1724087880",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525780/ss_7c2cf1c2295b8e8f38b435ce8a35ac0298d0a1a4.600x338.jpg?t=1724087880",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525780/ss_e6552889f379d77ed9cfc46085766035ebe784dc.600x338.jpg?t=1724087880",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525780/ss_05cd8f5ac5a7c19d619bc42b0e44c989546e7820.600x338.jpg?t=1724087880",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525780/ss_10380122027fed46056fc46fc73580e29d2e855d.600x338.jpg?t=1724087880",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525780/ss_72196943f48870cbf15c0584a69e779e23b069f1.600x338.jpg?t=1724087880",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525780/ss_a3d69a5e8b493f4075041545f23200dd30f0824f.600x338.jpg?t=1724087880",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525780/ss_b47d88a4eeee2f5203caeb53eee24021439cb5cf.600x338.jpg?t=1724087880",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525780/ss_ce330f07525cfe68323d41a4da3d5e7d952d9318.600x338.jpg?t=1724087880",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525780/ss_ab6aff51b64717bc9aba5722654d918ef8a1d481.600x338.jpg?t=1724087880"
-  ],
-  "detailed_description": "Doorways: Old Prototype is a short game created before the development of Doorways: Prelude, the first episode in the Doorways saga.<br><br>This version was built between late 2011 and early 2012.<br><br>It’s an early prototype made to show the main features of the game.",
-  "about_the_game": "Doorways: Old Prototype is a short game created before the development of Doorways: Prelude, the first episode in the Doorways saga.<br><br>This version was built between late 2011 and early 2012.<br><br>It’s an early prototype made to show the main features of the game.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 6.0,
+  "review_velocity_7d": 33.5,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 670,
-  "review_positive": 577,
+  "review_positive": 0,
   "review_percentage": 86.1,
   "owner_estimate": 150000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 49,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 664,
-      "review_percentage": 85.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 669,
-      "review_percentage": 86.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 670,
       "review_percentage": 86.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

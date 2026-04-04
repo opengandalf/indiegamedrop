@@ -3,8 +3,8 @@
   "name": "Cubytet",
   "slug": "cubytet",
   "developer": "AP2 Games",
-  "publisher": "AP2 Games",
-  "release_date": "Feb 21, 2022",
+  "publisher": "",
+  "release_date": "2022-02-21",
   "price_usd": 1.99,
   "genres": [
     "Casual",
@@ -17,41 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Cubytet is a 3D puzzle game in which you need to place pieces of different shapes on the playing field in order to score as many points as possible. This game is based on the world's most famous 2D puzzle game and is its 3D analog with some additional game mechanics!",
+  "short_description": "Cubytet is a 3D puzzle game in which you need to place pieces of different shapes on the playing field in order to score as many points as possible. This game is based on the world's most famous 2D pu",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875800/header.jpg?t=1683579378",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875800/ss_747fff1b92a9bc23f08906201fc8b62e732e654b.600x338.jpg?t=1683579378",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875800/ss_2fc6dcc52c5456f69242fc13dfe73d222e0dddc8.600x338.jpg?t=1683579378",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875800/ss_95a21a8ed597494945f2ba70f50059f5fa1ccca7.600x338.jpg?t=1683579378",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875800/ss_2718a08e6042113679fb07f5d4c2ef6a3da8a237.600x338.jpg?t=1683579378",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875800/ss_20d90fbd4db84c9d03d66b9c69932de80c458d7f.600x338.jpg?t=1683579378",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875800/ss_341af0f328b38af8d3379d83a1741b132ed86714.600x338.jpg?t=1683579378",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875800/ss_6ab811d7c62e57a76f7c2d3195613b1bfd2cc5ab.600x338.jpg?t=1683579378",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875800/ss_66ecd807d69b67b6168539e766f1d73695946796.600x338.jpg?t=1683579378"
-  ],
-  "detailed_description": "<strong>Cubytet</strong> is a 3D puzzle game in which you need to place pieces of different shapes on the playing field in order to score as many points as possible. This game is based on the world's most famous 2D puzzle game and is its 3D analog with some additional game mechanics!<br><br>The game has 2 game modes:<br><ul class=\"bb_ul\"><li><strong>Sigleplayer</strong> - in this mode, the player needs to score as many points as possible, while the speed of the game gradually increases<br></li><li><strong>Player vs AI</strong> - In this mode, the player needs to score 2500 points before artificial intelligence does it</li></ul><br>When the horizontal panel is completely filled with cubes, this panel will be removed from the playing field, and the player will be awarded points. The player receives points for the following actions:<br><ul class=\"bb_ul\"><li>5 points - placing a piece on the playing field;<br></li><li>100 points - filling one panel with cubes;<br></li><li>400 points - filling two panels with cubes at the same time;<br></li><li>900 points - filling three panels with cubes at the same time;<br></li><li>1600 points - filling four panels with cubes at the same time. </li></ul><br>The game has a leaderboard that will allow players to find out their current rank among all players in the world, as well as compete for first place.<h2 class=\"bb_tag\" >Unique game mechanics</h2><strong>The constructor:</strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875800/extras/40d2c2c59e0016b37e09035d22fcc1c9.poster.avif?t=1683579378\" width=600 height=308 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875800/extras/40d2c2c59e0016b37e09035d22fcc1c9.webm?t=1683579378\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875800/extras/40d2c2c59e0016b37e09035d22fcc1c9.mp4?t=1683579378\" type=\"video/mp4\"></video></span><br>This mechanic allows the player to add and remove additional cubes to the next piece. This makes the gameplay more interesting and diverse, and also helps the player to get out of a difficult situation.<br><br><strong>The cut:</strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875800/extras/79f8d5e9575bae9db8e274c6a5d9570d.poster.avif?t=1683579378\" width=600 height=308 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875800/extras/79f8d5e9575bae9db8e274c6a5d9570d.webm?t=1683579378\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875800/extras/79f8d5e9575bae9db8e274c6a5d9570d.mp4?t=1683579378\" type=\"video/mp4\"></video></span><br>This mechanic allows the player to make the cubes translucent to look inside the playing field. In addition, those areas of the playing field that are currently completely inaccessible will be highlighted in yellow. This simplifies orientation on the playing field and helps the player to make a decision faster.",
-  "about_the_game": "<strong>Cubytet</strong> is a 3D puzzle game in which you need to place pieces of different shapes on the playing field in order to score as many points as possible. This game is based on the world's most famous 2D puzzle game and is its 3D analog with some additional game mechanics!<br><br>The game has 2 game modes:<br><ul class=\"bb_ul\"><li><strong>Sigleplayer</strong> - in this mode, the player needs to score as many points as possible, while the speed of the game gradually increases<br></li><li><strong>Player vs AI</strong> - In this mode, the player needs to score 2500 points before artificial intelligence does it</li></ul><br>When the horizontal panel is completely filled with cubes, this panel will be removed from the playing field, and the player will be awarded points. The player receives points for the following actions:<br><ul class=\"bb_ul\"><li>5 points - placing a piece on the playing field;<br></li><li>100 points - filling one panel with cubes;<br></li><li>400 points - filling two panels with cubes at the same time;<br></li><li>900 points - filling three panels with cubes at the same time;<br></li><li>1600 points - filling four panels with cubes at the same time. </li></ul><br>The game has a leaderboard that will allow players to find out their current rank among all players in the world, as well as compete for first place.<h2 class=\"bb_tag\" >Unique game mechanics</h2><strong>The constructor:</strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875800/extras/40d2c2c59e0016b37e09035d22fcc1c9.poster.avif?t=1683579378\" width=600 height=308 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875800/extras/40d2c2c59e0016b37e09035d22fcc1c9.webm?t=1683579378\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875800/extras/40d2c2c59e0016b37e09035d22fcc1c9.mp4?t=1683579378\" type=\"video/mp4\"></video></span><br>This mechanic allows the player to add and remove additional cubes to the next piece. This makes the gameplay more interesting and diverse, and also helps the player to get out of a difficult situation.<br><br><strong>The cut:</strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875800/extras/79f8d5e9575bae9db8e274c6a5d9570d.poster.avif?t=1683579378\" width=600 height=308 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875800/extras/79f8d5e9575bae9db8e274c6a5d9570d.webm?t=1683579378\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875800/extras/79f8d5e9575bae9db8e274c6a5d9570d.mp4?t=1683579378\" type=\"video/mp4\"></video></span><br>This mechanic allows the player to make the cubes translucent to look inside the playing field. In addition, those areas of the playing field that are currently completely inaccessible will be highlighted in yellow. This simplifies orientation on the playing field and helps the player to make a decision faster.",
-  "supported_languages": "English, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Stats",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Aim Trainer (With Cats)",
   "slug": "aim-trainer-with-cats",
   "developer": "TriceratopsGang",
-  "publisher": "TriceratopsGang",
-  "release_date": "Nov 23, 2023",
+  "publisher": "",
+  "release_date": "2023-11-23",
   "price_usd": 0.49,
   "genres": [
     "Action",
@@ -24,43 +24,15 @@
   ],
   "short_description": "A simple aim training game with images of cute cats. Support kitties and improve your accuracy.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629070/header.jpg?t=1772393474",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629070/78a3469955c6d92fa1f10a0fc360208081b2b8b1/ss_78a3469955c6d92fa1f10a0fc360208081b2b8b1.600x338.jpg?t=1772393474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629070/92e174fa524dff06d2a33d6db3da982df26ad986/ss_92e174fa524dff06d2a33d6db3da982df26ad986.600x338.jpg?t=1772393474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629070/d7722f07a9782657825275e3fb230364a5bd1fc9/ss_d7722f07a9782657825275e3fb230364a5bd1fc9.600x338.jpg?t=1772393474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629070/ec527e821bf5592bf16f37bb1aec3c6a8838775e/ss_ec527e821bf5592bf16f37bb1aec3c6a8838775e.600x338.jpg?t=1772393474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629070/5a5a355d51cf870828603251ac1b5f9d85e5e4d6/ss_5a5a355d51cf870828603251ac1b5f9d85e5e4d6.600x338.jpg?t=1772393474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629070/0980e1e202adf6769c6fba961238ea5e0d39cb55/ss_0980e1e202adf6769c6fba961238ea5e0d39cb55.600x338.jpg?t=1772393474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629070/8e819d1f4933d6306913b158093be047926e9586/ss_8e819d1f4933d6306913b158093be047926e9586.600x338.jpg?t=1772393474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629070/0b410a0612666825d35adb89040efbeb27fba78b/ss_0b410a0612666825d35adb89040efbeb27fba78b.600x338.jpg?t=1772393474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629070/aaee31703584e38aed73da1ae65c24e48e17179f/ss_aaee31703584e38aed73da1ae65c24e48e17179f.600x338.jpg?t=1772393474"
-  ],
-  "detailed_description": "<strong>Aim Trainer (With Cats) is a good way to practice your aim in FPS games. The game itself is simple, allowing you to improve your aim in short bursts.</strong><br><br><ul class=\"bb_ul\"><li>Target Spawn Settings<br></li><li>Various Target Colors<br></li><li>Various Crosshair Colors<br></li><li>Simple Visuals (high Fps)<br></li><li>Current and High Score Tracking<br></li><li>Any and All Future Updates Are Free</li></ul>",
-  "about_the_game": "<strong>Aim Trainer (With Cats) is a good way to practice your aim in FPS games. The game itself is simple, allowing you to improve your aim in short bursts.</strong><br><br><ul class=\"bb_ul\"><li>Target Spawn Settings<br></li><li>Various Target Colors<br></li><li>Various Crosshair Colors<br></li><li>Simple Visuals (high Fps)<br></li><li>Current and High Score Tracking<br></li><li>Any and All Future Updates Are Free</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Camera Comfort",
-    "Color Alternatives",
-    "Custom Volume Controls",
-    "Adjustable Difficulty",
-    "Playable without Timed Input",
-    "Save Anytime",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.6000000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 12,
-  "review_positive": 10,
+  "review_positive": 0,
   "review_percentage": 83.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -68,19 +40,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 11,
-      "review_percentage": 81.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 12,
       "review_percentage": 83.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

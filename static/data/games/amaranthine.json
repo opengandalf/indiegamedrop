@@ -3,8 +3,8 @@
   "name": "Amaranthine",
   "slug": "amaranthine",
   "developer": "Roman Kozhukhov",
-  "publisher": "Roman Kozhukhov",
-  "release_date": "Apr 6, 2016",
+  "publisher": "",
+  "release_date": "2016-04-06",
   "price_usd": 2.99,
   "genres": [
     "Action",
@@ -20,61 +20,27 @@
   ],
   "short_description": "Amaranthine - is a dynamic horizontal scrolling shooter with elements of procedural generation. Travel through warp to the distant frozen planet that sent a distress signal.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454900/header.jpg?t=1667452996",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454900/ss_d7b695352e0fbc54f94d74da022e641b490b930d.600x338.jpg?t=1667452996",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454900/ss_d893630b7b150f827b26cffbb68986cd21ea78ca.600x338.jpg?t=1667452996",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454900/ss_ad11e41b23943b20b88ae688bfc633883d7ef0d6.600x338.jpg?t=1667452996",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454900/ss_bfde98a27e764c83358633e6346f854c040ec032.600x338.jpg?t=1667452996",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454900/ss_2491b6d027a9e144c7bd7b9ed3886b49f10ade0d.600x338.jpg?t=1667452996",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454900/ss_dea090f300e3e4a9b92bb5320effb10534f80f36.600x338.jpg?t=1667452996",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454900/ss_4cc42ef0837151059477bb189b4ed1c9d99ff164.600x338.jpg?t=1667452996",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454900/ss_0e08c01659c761446b8c080daac99f64b9d3dec5.600x338.jpg?t=1667452996",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454900/ss_1885c958534e075a66563b168ceb23ba64412a94.600x338.jpg?t=1667452996"
-  ],
-  "detailed_description": "Amaranthine - is a dynamic horizontal scrolling shooter with elements of procedural generation. Travel through warp to the distant frozen planet that sent a distress signal.<br><br>Features:<br><br><ul class=\"bb_ul\"><li>Random level generation<br></li><li>Loot system<br></li><li>Precise mouse controls<br></li><li>Big variety of enemies<br></li><li>Legend mode with permanent death<br></li><li>Endless gameplay</li></ul>",
-  "about_the_game": "Amaranthine - is a dynamic horizontal scrolling shooter with elements of procedural generation. Travel through warp to the distant frozen planet that sent a distress signal.<br><br>Features:<br><br><ul class=\"bb_ul\"><li>Random level generation<br></li><li>Loot system<br></li><li>Precise mouse controls<br></li><li>Big variety of enemies<br></li><li>Legend mode with permanent death<br></li><li>Endless gameplay</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Trading Cards",
-    "Steam Cloud",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
-  "gem_score": 0.6791,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 5.3500000000000005,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 107,
-  "review_positive": 98,
+  "review_positive": 0,
   "review_percentage": 91.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "rising",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 108,
-      "review_percentage": 91.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
+      "date": "2026-04-04",
       "review_count": 107,
       "review_percentage": 91.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

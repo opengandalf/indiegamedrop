@@ -3,8 +3,8 @@
   "name": "boringFly",
   "slug": "boringfly",
   "developer": "CRYRabbit",
-  "publisher": "CRYRabbit",
-  "release_date": "Oct 22, 2024",
+  "publisher": "",
+  "release_date": "2024-10-22",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -23,32 +23,9 @@
   ],
   "short_description": "A casual card game collection. Various card-related gameplay modes are being gradually integrated, with two modes currently available.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247050/1e5aaf6ad155431d07375d9c7d92e0e843e0fb2a/header.jpg?t=1748957916",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247050/ss_06df891a9288d2c900f984e307ec2f961009026e.600x338.jpg?t=1748957916",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247050/ss_849453eeb4689cd08cb8f1f7a079744820356705.600x338.jpg?t=1748957916",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247050/ss_0b2522db856afbd6521a249b88e2d1830bf384f8.600x338.jpg?t=1748957916",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247050/ss_f239de5632814c5eb22e86300593565e481878ed.600x338.jpg?t=1748957916",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3247050/ss_ea5d50edd7ae81389fb3cefc1a2815496507a386.600x338.jpg?t=1748957916"
-  ],
-  "detailed_description": "<ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Roguelike Card Mode:</strong> The clever design lies in the randomness of enemies, who can randomly become allies, enemies, or duelists.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Memory Casual Mode:</strong> Players rely on memory or reasoning to chain combos of cards with the same suit as much as possible, gaining corresponding attribute boosts to defeat enemies.</p></li></ul>",
-  "about_the_game": "<ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Roguelike Card Mode:</strong> The clever design lies in the randomness of enemies, who can randomly become allies, enemies, or duelists.</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Memory Casual Mode:</strong> Players rely on memory or reasoning to chain combos of cards with the same suit as much as possible, gaining corresponding attribute boosts to defeat enemies.</p></li></ul>",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Russian, Japanese, Thai, Simplified Chinese, Traditional Chinese, Portuguese - Portugal",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 6.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 12,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 58.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 12,
       "review_percentage": 58.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

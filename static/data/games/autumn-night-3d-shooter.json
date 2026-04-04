@@ -3,8 +3,8 @@
   "name": "Autumn Night 3D Shooter",
   "slug": "autumn-night-3d-shooter",
   "developer": "Sergey Bobrov",
-  "publisher": "Sergey Bobrov",
-  "release_date": "May 9, 2017",
+  "publisher": "",
+  "release_date": "2017-05-09",
   "price_usd": 8.99,
   "genres": [
     "Violent",
@@ -23,38 +23,15 @@
   ],
   "short_description": "A 3D shooter made in the spirit of the the 90s' FPSes. Atmospheric pixel graphics, fast-paced action, focus on pure gameplay, made using a software renderer written from scratch.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581730/header.jpg?t=1494635782",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581730/ss_5f4dbad7b99105b5972b67f5c4ef83d98c19349b.600x338.jpg?t=1494635782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581730/ss_4204f6a1bdacc90418ace4267b4baf81e0402915.600x338.jpg?t=1494635782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581730/ss_7e7a9633d8fe9b7047f1d470eea584da393577c7.600x338.jpg?t=1494635782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581730/ss_14160651db6d097257c9fda632583f2efdad1a63.600x338.jpg?t=1494635782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581730/ss_418bb517507b53416883a804b849b387cea677cf.600x338.jpg?t=1494635782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581730/ss_9a82bd29993320919e10212caabbe297557d7c8c.600x338.jpg?t=1494635782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581730/ss_6ea3439fc3ec9f601de06500f5d8c9a381e5f65c.600x338.jpg?t=1494635782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581730/ss_1149f88328b97471ed95222a3fdb2b37f0c1d9e3.600x338.jpg?t=1494635782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581730/ss_d16430b578d191eabeebd89fd06ff8ff8a5bd9c8.600x338.jpg?t=1494635782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581730/ss_2c9bad923fea20d04c50f6b9d2126fbb48b6ded6.600x338.jpg?t=1494635782",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581730/ss_49380bcc50908ac2f8ef2df3cd8bd54498679fba.600x338.jpg?t=1494635782"
-  ],
-  "detailed_description": "First and foremost, this game is an experiment in coding a software renderer. It's an engine that renders the image via CPU, without involving the graphics adapter, much like the 90's games did. I wanted to find out if it's possible to code an engine like that from scratch nowadays, and if it can run at 60 FPS on a modern PC. It was a self-imposed challenge.<br />\r\n<br />\r\nOnce I finished the engine, I thought I could make a game with it, an FPS like the early shooters from the 90's. I have to say I was quite impressed with them back in the day, and I've been looking to recreate them for a long time. Thus, this game is a 90's FPS. A simplistic story takes a backseat to pure run-and-gun gameplay.<br />\r\n<br />\r\nOn graphics and visuals: I was creating the visuals based on the imagery from my dreams. I tried to convey the mood and atmosphere of my dreams through level design. I feel like I did a particularly good job on this aspect.<br />\r\nI'd be happy to hear some feedback from you on my humble little game!",
-  "about_the_game": "First and foremost, this game is an experiment in coding a software renderer. It's an engine that renders the image via CPU, without involving the graphics adapter, much like the 90's games did. I wanted to find out if it's possible to code an engine like that from scratch nowadays, and if it can run at 60 FPS on a modern PC. It was a self-imposed challenge.<br />\r\n<br />\r\nOnce I finished the engine, I thought I could make a game with it, an FPS like the early shooters from the 90's. I have to say I was quite impressed with them back in the day, and I've been looking to recreate them for a long time. Thus, this game is a 90's FPS. A simplistic story takes a backseat to pure run-and-gun gameplay.<br />\r\n<br />\r\nOn graphics and visuals: I was creating the visuals based on the imagery from my dreams. I tried to convey the mood and atmosphere of my dreams through level design. I feel like I did a particularly good job on this aspect.<br />\r\nI'd be happy to hear some feedback from you on my humble little game!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 2.6,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 52,
-  "review_positive": 27,
+  "review_positive": 0,
   "review_percentage": 51.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 50,
-      "review_percentage": 54.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 52,
       "review_percentage": 51.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

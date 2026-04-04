@@ -3,8 +3,8 @@
   "name": "Helix Slider",
   "slug": "helix-slider",
   "developer": "Kyle Rodgers",
-  "publisher": "Kyle Rodgers",
-  "release_date": "Sep 25, 2020",
+  "publisher": "",
+  "release_date": "2020-09-25",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -25,53 +25,27 @@
   ],
   "short_description": "A fast paced action avoidance game that will hopefully not make you barf. Spin around an endless twisting tube and slide your way past all the obstacles for as long as you can!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1420060/header.jpg?t=1613824919",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1420060/ss_54179328efd994a5f9789198f58d2cf0e863cff1.600x338.jpg?t=1613824919",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1420060/ss_11a64b4c3d8977ddcb0f43b79f89abc805c9331f.600x338.jpg?t=1613824919",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1420060/ss_4cc55a6276cef3a8ee66f42db0382699da626116.600x338.jpg?t=1613824919",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1420060/ss_d54d87f1a0042d74cd8fc1a98c5f5a1e543cb80a.600x338.jpg?t=1613824919",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1420060/ss_d2737e32080e401c66697cca6e7c1f9e73219921.600x338.jpg?t=1613824919"
-  ],
-  "detailed_description": "A fast paced action avoidance game that will hopefully not make you barf. Spin around an endless twisting tube and slide your way past all the obstacles for as long as you can!<br><br><ul class=\"bb_ul\"><li>Pretty colours!<br></li><li>Four difficulty modes!<br></li><li>Numbers!<br></li><li>Bezier curves!</li></ul>",
-  "about_the_game": "A fast paced action avoidance game that will hopefully not make you barf. Spin around an endless twisting tube and slide your way past all the obstacles for as long as you can!<br><br><ul class=\"bb_ul\"><li>Pretty colours!<br></li><li>Four difficulty modes!<br></li><li>Numbers!<br></li><li>Bezier curves!</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.6828,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 102,
-  "review_positive": 93,
+  "review_positive": 0,
   "review_percentage": 91.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "rising",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 101,
-      "review_percentage": 92.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 102,
       "review_percentage": 91.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

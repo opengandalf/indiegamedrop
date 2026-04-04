@@ -3,8 +3,8 @@
   "name": "FPS Game: Dev Test",
   "slug": "fps-game-dev-test",
   "developer": "jackal_dev_test",
-  "publisher": "jackal_dev_test",
-  "release_date": "Feb 26, 2022",
+  "publisher": "",
+  "release_date": "2022-02-26",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -21,35 +21,15 @@
   ],
   "short_description": "A Simple, Fun, Multiplayer FPS game, strictly built and packaged for development testing and networking development.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1901200/header.jpg?t=1645892227",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1901200/ss_60bcc43c3eed56beab7b2001c77cea3188a579ff.600x338.jpg?t=1645892227",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1901200/ss_6fa5ff955ea10c0eaafc1804d9a8f9bbf7542962.600x338.jpg?t=1645892227",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1901200/ss_ed6bad4de069ec20167353fbd34034425573a182.600x338.jpg?t=1645892227",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1901200/ss_40f70ceae1f9cb34a5c70946ed5cbd861ebc454b.600x338.jpg?t=1645892227",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1901200/ss_936d8ff4dd4ae8d4877c71587bb0fb374518a1ac.600x338.jpg?t=1645892227"
-  ],
-  "detailed_description": "FPS Game: Dev Test, is a First person shooter that is strictly built of a development asset, its intended purpose is to test and showcase networking features and other advanced Steam systems. It will continue to adapt and have new mechanics and testable features as time goes on. It is functioning and can be played by anyone. It is intended for multiplayer PVP combat and sessions, but creates online sessions using listen server at the moment. This is good if you want to just play with your friends only in a small private game.<br><br>It currently uses a basic sort of class system that gives you a skill based on what class is selected e.g. Ammo box, health box, explosives box. On the loadout screen the player will get to pick what Class, Primary Weapon, Secondary Weapon, Perk and Grenade type.<br><br>You can play single player against bots, or multiplayer (can include bots as well). It uses a server browser, so look for a game and join random people. or create a game for you and your friends for the private experience if you'd prefer.<h2 class=\"bb_tag\" >Development</h2>The Game is built for development purposes and will change on a fairly regular basis, adding more content each time. This will mean more gamemodes and different weapon systems will be added along the way.<h2 class=\"bb_tag\" >Gamemodes:</h2>There is many game modes to play, and more to be added with time, ranging from:<br>Capture the Flag,<br>Team Death Match,<br>Free For All,<br>Confirmed Kill,<br>Conquest/Domination.<h2 class=\"bb_tag\" >Weapons/Loadouts:</h2>There is a variety of weapon types you can choose from when playing:<br>Assault Rifle,<br>Shotgun,<br>Machine Gun,<br>Sniper,<br>SMG,<br>Pistols.",
-  "about_the_game": "FPS Game: Dev Test, is a First person shooter that is strictly built of a development asset, its intended purpose is to test and showcase networking features and other advanced Steam systems. It will continue to adapt and have new mechanics and testable features as time goes on. It is functioning and can be played by anyone. It is intended for multiplayer PVP combat and sessions, but creates online sessions using listen server at the moment. This is good if you want to just play with your friends only in a small private game.<br><br>It currently uses a basic sort of class system that gives you a skill based on what class is selected e.g. Ammo box, health box, explosives box. On the loadout screen the player will get to pick what Class, Primary Weapon, Secondary Weapon, Perk and Grenade type.<br><br>You can play single player against bots, or multiplayer (can include bots as well). It uses a server browser, so look for a game and join random people. or create a game for you and your friends for the private experience if you'd prefer.<h2 class=\"bb_tag\" >Development</h2>The Game is built for development purposes and will change on a fairly regular basis, adding more content each time. This will mean more gamemodes and different weapon systems will be added along the way.<h2 class=\"bb_tag\" >Gamemodes:</h2>There is many game modes to play, and more to be added with time, ranging from:<br>Capture the Flag,<br>Team Death Match,<br>Free For All,<br>Confirmed Kill,<br>Conquest/Domination.<h2 class=\"bb_tag\" >Weapons/Loadouts:</h2>There is a variety of weapon types you can choose from when playing:<br>Assault Rifle,<br>Shotgun,<br>Machine Gun,<br>Sniper,<br>SMG,<br>Pistols.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "LAN PvP"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0002,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 70.85000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1417,
-  "review_positive": 1208,
+  "review_positive": 0,
   "review_percentage": 85.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1421,
-      "review_percentage": 85.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1417,
       "review_percentage": 85.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

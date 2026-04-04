@@ -3,8 +3,8 @@
   "name": "A Book of Beasts and Buddies",
   "slug": "a-book-of-beasts-and-buddies",
   "developer": "Squiddershins",
-  "publisher": "Squiddershins",
-  "release_date": "Nov 14, 2018",
+  "publisher": "",
+  "release_date": "2018-11-14",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -27,67 +27,27 @@
   ],
   "short_description": "A Book of Beasts and Buddies is an interactive beastiary of curious creatures.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/959750/header.jpg?t=1747536511",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/959750/ss_290c4a41daf7e0b2d617505b15793b5831dfbe2f.600x338.jpg?t=1747536511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/959750/ss_561982e37274343db98d0edcfe4a160976d30685.600x338.jpg?t=1747536511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/959750/ss_bb6fa4e1bf9e088a662f31795e0e5f1a4842c6e1.600x338.jpg?t=1747536511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/959750/ss_94c05b3244ea40253893c75f83b5c54040d4f073.600x338.jpg?t=1747536511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/959750/ss_9447f8dc9b298011399323fa749a43275315993d.600x338.jpg?t=1747536511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/959750/ss_d2e64e8bd2483fc78dfae53fa33419ab62136579.600x338.jpg?t=1747536511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/959750/ss_619dc641a1544c7ec39ca7957d1fe9d575af68df.600x338.jpg?t=1747536511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/959750/ss_0e707c898dc6bd08237de8693d223f26bf8c62fc.600x338.jpg?t=1747536511",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/959750/ss_cc11cb0da959e781fbf02db9f6baff9035bfde81.600x338.jpg?t=1747536511"
-  ],
-  "detailed_description": "A Book of Beasts and Buddies is an interactive bestiary of curious creatures. Every page provides an encounter with a mysterious beast for you to befriend.​<br />\r\n<br />\r\nA Book of Beasts and Buddies was designed for the A Game By Its Cover (AGBIC) game jam. The premise of the jam was to design a game based upon a previously existing fictitious game cartridge. A Book of Beasts and Buddies was based upon Bestiary Logbook by Patrick Crotty.<br />\r\n<br />\r\nThe Audio was done by: Myserval, Dreamreader, and Roni Yosko.",
-  "about_the_game": "A Book of Beasts and Buddies is an interactive bestiary of curious creatures. Every page provides an encounter with a mysterious beast for you to befriend.​<br />\r\n<br />\r\nA Book of Beasts and Buddies was designed for the A Game By Its Cover (AGBIC) game jam. The premise of the jam was to design a game based upon a previously existing fictitious game cartridge. A Book of Beasts and Buddies was based upon Bestiary Logbook by Patrick Crotty.<br />\r\n<br />\r\nThe Audio was done by: Myserval, Dreamreader, and Roni Yosko.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Camera Comfort",
-    "Color Alternatives",
-    "Mouse Only Option",
-    "Playable without Timed Input"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0001,
-  "gem_score": 0.5131,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 10.0,
+  "review_velocity_7d": 20.25,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 405,
-  "review_positive": 386,
+  "review_positive": 0,
   "review_percentage": 95.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "rising",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 395,
-      "review_percentage": 95.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 405,
-      "review_percentage": 95.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 405,
       "review_percentage": 95.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

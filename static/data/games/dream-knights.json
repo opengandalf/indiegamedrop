@@ -3,8 +3,8 @@
   "name": "Dream Knights",
   "slug": "dream-knights",
   "developer": "D Sharp Games",
-  "publisher": "D Sharp Games",
-  "release_date": "Aug 28, 2020",
+  "publisher": "",
+  "release_date": "2020-08-28",
   "price_usd": 2.99,
   "genres": [
     "Action",
@@ -23,32 +23,15 @@
   ],
   "short_description": "Dive into colourful and surreal dreamscapes in a traditional 2D side-scrolling platformer. Master different skills to help you traverse and battle your way through a horde of strange enemies.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1392570/header.jpg?t=1598977386",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1392570/ss_d1b5dba986083fe20b121306283aa451932e0f59.600x338.jpg?t=1598977386",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1392570/ss_8134910386d15ddbaef5774b023c061f6330b633.600x338.jpg?t=1598977386",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1392570/ss_399dbd7cd381f8dbca807bf239129efad8cd26ff.600x338.jpg?t=1598977386",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1392570/ss_db0789efa6e47ae4ba52a37d81a0cd63e1537ce8.600x338.jpg?t=1598977386",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1392570/ss_14e0eec140e88ff5efe9c0c988fe3b446fcfeba5.600x338.jpg?t=1598977386"
-  ],
-  "detailed_description": "Dive into colourful and surreal dreamscapes in a traditional <strong>2D side-scrolling platformer</strong>. Master different skills to help you traverse and battle your way through a horde of strange enemies.",
-  "about_the_game": "Dive into colourful and surreal dreamscapes in a traditional <strong>2D side-scrolling platformer</strong>. Master different skills to help you traverse and battle your way through a horde of strange enemies.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

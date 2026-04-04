@@ -3,8 +3,8 @@
   "name": "Double Barrel Desperado",
   "slug": "double-barrel-desperado",
   "developer": "Gentoo Games",
-  "publisher": "Gentoo Games",
-  "release_date": "Oct 31, 2024",
+  "publisher": "",
+  "release_date": "2024-10-31",
   "price_usd": 1.49,
   "genres": [
     "Adventure",
@@ -19,36 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Double Barrel Desperado is a roguelike deckbuilder where you wield a double-barrel shotgun fueled by chance. Strengthen it with powerful synergies to unleash devastating blasts, mowing down ever-tougher enemies with a single, well-aimed shot.",
+  "short_description": "Double Barrel Desperado is a roguelike deckbuilder where you wield a double-barrel shotgun fueled by chance. Strengthen it with powerful synergies to unleash devastating blasts, mowing down ever-tough",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145680/header.jpg?t=1730398296",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145680/ss_3f38d17e0fc5d841d3fd5063d3bb7f19e3be9a4e.600x338.jpg?t=1730398296",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145680/ss_e1e8dd3ea60ce3305e1dc721729654cfbf34965b.600x338.jpg?t=1730398296",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145680/ss_dad27375593157be728c7fec32bfba69aca4b44f.600x338.jpg?t=1730398296",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145680/ss_303ae3946aed01eeb29bb8b05d1bb5a80fcff9d6.600x338.jpg?t=1730398296",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145680/ss_69051dc11e98508126c63abcf346f45eedda273f.600x338.jpg?t=1730398296",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3145680/ss_f4f4605ce1ba377c69272375ad3d115b9035dd4a.600x338.jpg?t=1730398296"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>Double Barrel Desperado</strong> is a roguelike deck-building card game set in a post-apocalyptic western world full of monsters, where luck is just as important as skill.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Armed with nothing but your trusty double-barrel shotgun, you'll load bullet cards, fire carefully calculated shots, and take down enemies before you run out of turns.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >In this world, every choice matters. Assemble a collection of bullets and item cards—to craft devastating synergies and stack the odds in your favor. Manage your luck, unleash powerful combo attacks, and survive through the treacherous nights of the desert.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>Double Barrel Desperado</strong> is a roguelike deck-building card game set in a post-apocalyptic western world full of monsters, where luck is just as important as skill.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Armed with nothing but your trusty double-barrel shotgun, you'll load bullet cards, fire carefully calculated shots, and take down enemies before you run out of turns.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >In this world, every choice matters. Assemble a collection of bullets and item cards—to craft devastating synergies and stack the odds in your favor. Manage your luck, unleash powerful combo attacks, and survive through the treacherous nights of the desert.</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

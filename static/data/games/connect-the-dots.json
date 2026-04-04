@@ -3,8 +3,8 @@
   "name": "Connect the Dots",
   "slug": "connect-the-dots",
   "developer": "beans rolls",
-  "publisher": "beans rolls",
-  "release_date": "Oct 14, 2021",
+  "publisher": "",
+  "release_date": "2021-10-14",
   "price_usd": 0.49,
   "genres": [
     "Casual",
@@ -21,32 +21,15 @@
   ],
   "short_description": "Connect the Dots is a casual puzzle game with many difficulty levels.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1777650/header.jpg?t=1634197423",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1777650/ss_3f499b24106b3df542d51042dbeb1d7a99a1bf8a.600x338.jpg?t=1634197423",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1777650/ss_027cc65d01dfeca9bd15e8ecfddc11c065e828f2.600x338.jpg?t=1634197423",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1777650/ss_40482210599951cb84d24d626c3580d60a0dd21d.600x338.jpg?t=1634197423",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1777650/ss_1c7f0555a867e68c8c3578ad443a01d3e4984a29.600x338.jpg?t=1634197423",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1777650/ss_87a57be8c6fa8fb1edb611816042d8bc6ea1409d.600x338.jpg?t=1634197423"
-  ],
-  "detailed_description": "Connect the Dots is a casual puzzle game with many difficulty levels.<br />\r\n<br />\r\nAll points of the same color on the level must be connected with lines and so that the lines do not intersect with each other.<br />\r\n<br />\r\nThe game has 5 difficulty levels, at each of which there are more points, as well as spaces for lines. Each difficulty level has 50 levels, with different point placement.",
-  "about_the_game": "Connect the Dots is a casual puzzle game with many difficulty levels.<br />\r\n<br />\r\nAll points of the same color on the level must be connected with lines and so that the lines do not intersect with each other.<br />\r\n<br />\r\nThe game has 5 difficulty levels, at each of which there are more points, as well as spaces for lines. Each difficulty level has 50 levels, with different point placement.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 0.45,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 9,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 33.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 28.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 33.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

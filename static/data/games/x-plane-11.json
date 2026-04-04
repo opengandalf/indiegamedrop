@@ -3,8 +3,8 @@
   "name": "X-Plane 11",
   "slug": "x-plane-11",
   "developer": "Laminar Research",
-  "publisher": "Laminar Research",
-  "release_date": "Mar 30, 2017",
+  "publisher": "",
+  "release_date": "2017-03-30",
   "price_usd": 9.89,
   "genres": [
     "Simulation"
@@ -17,77 +17,23 @@
     "mac",
     "linux"
   ],
-  "short_description": "The future of flight simulation is now! X-Plane 11 is the detailed, realistic, and modern simulator you’ve been waiting for. Intuitive user interface, 3-D cockpits, new effects, 3-D sound, living airports and world-wide scenery.",
+  "short_description": "The future of flight simulation is now! X-Plane 11 is the detailed, realistic, and modern simulator you’ve been waiting for. Intuitive user interface, 3-D cockpits, new effects, 3-D sound, living airp",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/header.jpg?t=1753867064",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_38fa93e70789b0b4d68dccac1eb3a874da926613.600x338.jpg?t=1753867064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_5bce5e0885835e7bd244edbc836edeb4ddba3f48.600x338.jpg?t=1753867064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_5e226995e33b0690d190386f2923e5b29e440221.600x338.jpg?t=1753867064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_8c1d11c8b55ce482a3cfe1e192636f0cd382d541.600x338.jpg?t=1753867064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_023d61ada2eaec7cb07e71946506ee7a128a468b.600x338.jpg?t=1753867064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_277dd15c5bd82f577d586d9b547b58e841d81bb3.600x338.jpg?t=1753867064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_35a2520bad426346196ac6e2aa96883e96f84e59.600x338.jpg?t=1753867064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_601d1531046aa105ba009c0a3bea137cf0c002cd.600x338.jpg?t=1753867064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_b99ef34b60334a94bf7f602817769b3895012c0b.600x338.jpg?t=1753867064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_70592440df07d7f57bf4be0e1f5eb37bb0cfd643.600x338.jpg?t=1753867064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_c5e98b876072e546ecc46f0b09bf3935c80a964b.600x338.jpg?t=1753867064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_4c2d8fe86f925256ea50c628028f3d1202635729.600x338.jpg?t=1753867064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_9c3b558932ed0a2bbead53cd6315d045f3e851ee.600x338.jpg?t=1753867064",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_f772f20bfbb9e96f77c91534826658b21676df12.600x338.jpg?t=1753867064"
-  ],
-  "detailed_description": "<h1>Just Updated</h1><p><strong>X-Plane 11.51 update is now available.</strong>  The update contains bug fixes and includes more custom airports.  See the detailed list of new items here:  </p><br><h1>Buzz</h1><p><strong>Laminar Research releases X-Plane 11.50 final<br><br>Laminar Research, creator of the X-Plane flight simulator franchise, is proud to announce the final Vulkan/Metal update of X-Plane 11. After many months of converting our graphics engine and beta testing, we are today announcing the final release of version 11.50 for the X-Plane desktop platform.<br><br>Vulkan (PC) and Metal (Mac) are rendering level APIs that change how X-Plane interacts with the graphics card. They are faster than OpenGL that X-Plane has used in the past. Overall, most users will see improved frame rates and reduced stutters when using Vulkan or Metal.<br><br>In X-Plane 11.50, there is a check-box in the graphics settings that enables Vulkan or Metal, and a restart of X-Plane is necessary for the change to take effect. If for some reason a user can’t use Vulkan or Metal, OpenGL is still available by simply unchecking the box.<br><br>Numerous bug fixes, enhancements, and new airports are also included in this release.</p><br><h1>About the Game</h1><strong>The future of flight simulation is now.</strong><br>X-Plane 11 is the detailed, realistic, and modern simulator you’ve been waiting for.<br><br><br><strong>New in X-Plane 11</strong><br>A completely redesigned, intuitive user interface that makes setting up and editing your flight a breeze.<br>Consistently usable 3-D cockpits and stunningly high-resolution exterior models for all included aircraft.<br>A new effects engine for lighting, sounds, and explosions.<br>Realistic avionics: all planes are IFR-ready right out of the gate.<br>Busy, “living” airports with pushback tugs and roaming fuel trucks, able to service both your aircraft and the simulator’s AI planes.<br>New buildings & roads to better simulate European cities<br>…and more!</strong>",
-  "about_the_game": "<strong>The future of flight simulation is now.</strong><br>X-Plane 11 is the detailed, realistic, and modern simulator you’ve been waiting for.<br><br><br><strong>New in X-Plane 11</strong><br>A completely redesigned, intuitive user interface that makes setting up and editing your flight a breeze.<br>Consistently usable 3-D cockpits and stunningly high-resolution exterior models for all included aircraft.<br>A new effects engine for lighting, sounds, and explosions.<br>Realistic avionics: all planes are IFR-ready right out of the gate.<br>Busy, “living” airports with pushback tugs and roaming fuel trucks, able to service both your aircraft and the simulator’s AI planes.<br>New buildings & roads to better simulate European cities<br>…and more!",
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Portuguese - Portugal, Russian<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Tracked Controller Support",
-    "VR Supported",
-    "Partial Controller Support",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 18710,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 19821,
-  "review_positive": 18423,
+  "review_positive": 0,
   "review_percentage": 92.9,
   "owner_estimate": 1500000,
-  "ccu_estimate": 381,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 1249,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 18917,
-      "review_percentage": 92.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 19794,
-      "review_percentage": 92.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 19821,
       "review_percentage": 92.9,
-      "ccu_estimate": 381,
+      "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

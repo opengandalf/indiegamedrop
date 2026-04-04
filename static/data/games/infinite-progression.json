@@ -3,8 +3,8 @@
   "name": "Infinite Progression",
   "slug": "infinite-progression",
   "developer": "Prestosilver",
-  "publisher": "Prestosilver",
-  "release_date": "Nov 19, 2021",
+  "publisher": "",
+  "release_date": "2021-11-19",
   "price_usd": 0.49,
   "genres": [
     "Casual"
@@ -17,36 +17,11 @@
     "mac",
     "linux"
   ],
-  "short_description": "Never worry about finishing your current idle game, because this one never ends! Play through a procedurally generated incremental. Gather currencies. drive once hard to get currencies to obsolescence, or just mess around. What you do is up to you in this infinite idle.",
+  "short_description": "Never worry about finishing your current idle game, because this one never ends! Play through a procedurally generated incremental. Gather currencies. drive once hard to get currencies to obsolescence",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794710/header.jpg?t=1646678014",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794710/ss_211baed630dacd2eb69252cc8f5e6fe2c3d3f6d3.600x338.jpg?t=1646678014",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794710/ss_091d5d5176ba8116db280cb8524399ecfa6cb559.600x338.jpg?t=1646678014",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794710/ss_3d9a28cdcd0c6b2d578b855a209de534fea0d04b.600x338.jpg?t=1646678014",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794710/ss_70e1a11babc33318c06e86f3e801d4d8131f3feb.600x338.jpg?t=1646678014"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Procedural Generation</h2><br>The game is formatted as a list of modules, all in a stack, These modules all interact with the ones above. Once you make 10000 currency, you can buy another module. This module will be randomly picked, yet with a seed, you can play the same sequence every time.<h2 class=\"bb_tag\" >Never Ending</h2><br>Incremental games have always had an end, whether it is because the effort to go on is impossible to put forth, or because the end is predefined, but not with this one. Every module in the base game is designed to allow you to play the game indefinitely.<h2 class=\"bb_tag\" >High Replayability</h2><br>Play the game with whatever combinations of mods you want. Mods can range from boosts to generators, to Plus-Mode where you can choose the next module.<h2 class=\"bb_tag\" >Easy To Learn Modding System With A Growing API</h2><br>Don't think there are enough modules in the game, just make another. With a python plugin system and a built-in mod maker, you can do anything you want. It doesn't end there, the majority of what future updates will contribute to the API of the game, making it easier to do what you would like.",
-  "about_the_game": "<h2 class=\"bb_tag\" >Procedural Generation</h2><br>The game is formatted as a list of modules, all in a stack, These modules all interact with the ones above. Once you make 10000 currency, you can buy another module. This module will be randomly picked, yet with a seed, you can play the same sequence every time.<h2 class=\"bb_tag\" >Never Ending</h2><br>Incremental games have always had an end, whether it is because the effort to go on is impossible to put forth, or because the end is predefined, but not with this one. Every module in the base game is designed to allow you to play the game indefinitely.<h2 class=\"bb_tag\" >High Replayability</h2><br>Play the game with whatever combinations of mods you want. Mods can range from boosts to generators, to Plus-Mode where you can choose the next module.<h2 class=\"bb_tag\" >Easy To Learn Modding System With A Growing API</h2><br>Don't think there are enough modules in the game, just make another. With a python plugin system and a built-in mod maker, you can do anything you want. It doesn't end there, the majority of what future updates will contribute to the API of the game, making it easier to do what you would like.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Workshop",
-    "Steam Cloud",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 9,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 33.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 33.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 33.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

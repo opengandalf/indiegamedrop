@@ -3,8 +3,8 @@
   "name": "Cube Shifter",
   "slug": "cube-shifter",
   "developer": "Ben Phillips",
-  "publisher": "Ben Phillips",
-  "release_date": "Aug 14, 2020",
+  "publisher": "",
+  "release_date": "2020-08-14",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -19,35 +19,15 @@
   ],
   "short_description": "Move left and right to dodge obstacles. Attempt to beat levels or try and get the highest score.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1372010/header.jpg?t=1598220744",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1372010/ss_0a727207a5f03062870c3abd0ed721fda051b719.600x338.jpg?t=1598220744",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1372010/ss_f66eac73e7352e3db0c723ae1a977aa172b6ee37.600x338.jpg?t=1598220744",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1372010/ss_cc6b127fef5e1d4cdfbaa6921e461826f5348b08.600x338.jpg?t=1598220744",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1372010/ss_1342b09c91c6b7ed467340a6209ae8342b65798b.600x338.jpg?t=1598220744",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1372010/ss_03ae69adc642f7e5bc52a22ab9afbd6a94e4a32d.600x338.jpg?t=1598220744"
-  ],
-  "detailed_description": "You are the cube! You must move left and right to dodge obstacles that you are moving towards. You can enter level mode and attempt to beat them all or you can enter score mode and test yourself to get the highest score.<br />\r\n<br />\r\nCollect coins that appear on the ground or beat the levels to earn coins, the more difficult the level, the more coins up for grabs. Spend your coins to purchase upgrades that you can use in game, buy new skins for your cube or buy different backgrounds.<br />\r\n<br />\r\nUse 'A' to go left and 'D' to go right.",
-  "about_the_game": "You are the cube! You must move left and right to dodge obstacles that you are moving towards. You can enter level mode and attempt to beat them all or you can enter score mode and test yourself to get the highest score.<br />\r\n<br />\r\nCollect coins that appear on the ground or beat the levels to earn coins, the more difficult the level, the more coins up for grabs. Spend your coins to purchase upgrades that you can use in game, buy new skins for your cube or buy different backgrounds.<br />\r\n<br />\r\nUse 'A' to go left and 'D' to go right.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.4,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 8,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 8,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

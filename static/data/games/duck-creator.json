@@ -3,8 +3,8 @@
   "name": "Duck Creator",
   "slug": "duck-creator",
   "developer": "Weakfish Studio",
-  "publisher": "Weakfish Studio",
-  "release_date": "Nov 3, 2021",
+  "publisher": "",
+  "release_date": "2021-11-03",
   "price_usd": 0.49,
   "genres": [
     "Casual",
@@ -21,55 +21,27 @@
   ],
   "short_description": "Duck Creator, Create your own Duck!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1584830/header.jpg?t=1640529187",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1584830/ss_73be110e105cd67cd511b4a49cbe570f4b9c2c0b.600x338.jpg?t=1640529187",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1584830/ss_d5b402ee9f1722c695f2c27cca03798a5589df2d.600x338.jpg?t=1640529187",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1584830/ss_0eb94c13bf4f0fc4592135ce45f321469d94fdf2.600x338.jpg?t=1640529187",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1584830/ss_91e47f7b7051aa2c5eb8332ef1990dc7078e36d5.600x338.jpg?t=1640529187",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1584830/ss_6b16e18e37af6f8b3d3ee285c7f31ed15439922d.600x338.jpg?t=1640529187",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1584830/ss_67c296718bdca240dcfcf3733331ff2c0acfdfb6.600x338.jpg?t=1640529187"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Duck Creator</h2>Create your Duck!<br>Customize as you like!<br>Put a hat on your duck!",
-  "about_the_game": "<h2 class=\"bb_tag\" >Duck Creator</h2>Create your Duck!<br>Customize as you like!<br>Put a hat on your duck!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 163,
+  "screenshots": [],
   "rising_score": 0.0001,
-  "gem_score": 0.5892,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 7.0,
+  "review_velocity_7d": 11.5,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 230,
-  "review_positive": 217,
+  "review_positive": 0,
   "review_percentage": 94.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "rising",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 223,
-      "review_percentage": 94.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 230,
       "review_percentage": 94.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

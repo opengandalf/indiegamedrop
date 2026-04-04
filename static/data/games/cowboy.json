@@ -3,8 +3,8 @@
   "name": "Cowboy",
   "slug": "cowboy",
   "developer": "Focus Entertainmen",
-  "publisher": "Focus Entertainmen",
-  "release_date": "Dec 28, 2019",
+  "publisher": "",
+  "release_date": "2019-12-28",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -21,37 +21,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "This is a third person role-playing game，Players have swords, bows and arrows, and guns（You need to be on a horse to use it）,Players are free to explore the surrounding area,Players must maintain health，Players can kill nearby monsters or dodge attacks from monsters.",
+  "short_description": "This is a third person role-playing game，Players have swords, bows and arrows, and guns（You need to be on a horse to use it）,Players are free to explore the surrounding area,Players must maintain heal",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209060/header.jpg?t=1720109621",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209060/ss_ab340916217c3066f9985b8ba77311e064a0fbc9.600x338.jpg?t=1720109621",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209060/ss_5d6107c80501ff5c15c9eac88ca6d21300f2d097.600x338.jpg?t=1720109621",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209060/ss_2b3b858a0cea7598e9f171d66d9d3fd516f06fcd.600x338.jpg?t=1720109621",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209060/ss_af7eed7c6b8caa838c3f6aa5a231035414a6f2de.600x338.jpg?t=1720109621",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209060/ss_8f0285c22dcb6013a52a6e6cf3b9288e1898d9d0.600x338.jpg?t=1720109621",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209060/ss_b721f4ee5dbfacbc8428204f7938264a037faa47.600x338.jpg?t=1720109621",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209060/ss_249ddbb2866d417ecbb9f1a3f78af27ef4604e3f.600x338.jpg?t=1720109621",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209060/ss_fd281d2640f895a2945db9dd7b0ae0ec15f26b4e.600x338.jpg?t=1720109621"
-  ],
-  "detailed_description": "This is a third person role-playing game，Players have swords, bows and arrows, and guns（You need to be on a horse to use it）,Players are free to explore the surrounding area,Players must maintain health，Players can kill nearby monsters or dodge attacks from monsters.<br />\r\nControl keys:<br />\r\nRight-click targeting<br />\r\nWASD movement<br />\r\nLeft mouse button attack<br />\r\nMouse control direction<br />\r\nR Loaded Weapons<br />\r\nNumber keys 1,2,3 switch horse speed<br />\r\nNumeric keys 4,5,6 switch weapons（It only works when you're on a horse）",
-  "about_the_game": "This is a third person role-playing game，Players have swords, bows and arrows, and guns（You need to be on a horse to use it）,Players are free to explore the surrounding area,Players must maintain health，Players can kill nearby monsters or dodge attacks from monsters.<br />\r\nControl keys:<br />\r\nRight-click targeting<br />\r\nWASD movement<br />\r\nLeft mouse button attack<br />\r\nMouse control direction<br />\r\nR Loaded Weapons<br />\r\nNumber keys 1,2,3 switch horse speed<br />\r\nNumeric keys 4,5,6 switch weapons（It only works when you're on a horse）",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 1.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 25,
-  "review_positive": 10,
+  "review_positive": 0,
   "review_percentage": 40.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 23,
-      "review_percentage": 34.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 25,
       "review_percentage": 40.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Virtual Reality Neuron Tracer",
   "slug": "virtual-reality-neuron-tracer",
   "developer": "ViSUS LLC",
-  "publisher": "ViSOAR",
-  "release_date": "Oct 25, 2018",
+  "publisher": "",
+  "release_date": "2018-10-25",
   "price_usd": 0.0,
   "genres": [
     "Education",
@@ -17,34 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "The Virtual Reality Neuron Tracer is a tool for visualizing and reconstructing neurons from scanned 3D tissue in virtual reality. VRNT allows you to view and work with your data directly in 3D, providing more natural and intuitive interaction, and leading to faster insights and better understanding.",
+  "short_description": "The Virtual Reality Neuron Tracer is a tool for visualizing and reconstructing neurons from scanned 3D tissue in virtual reality. VRNT allows you to view and work with your data directly in 3D, provid",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/791040/header.jpg?t=1541197543",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/791040/ss_f4418602b274f6827c970ab5b03f997f7263872f.600x338.jpg?t=1541197543",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/791040/ss_9ba2fef3daa6ec6bb78eda14979e4f8a2828bf15.600x338.jpg?t=1541197543",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/791040/ss_7f9e7cbdb2e1a677ab701bc2203bf15857b845e9.600x338.jpg?t=1541197543",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/791040/ss_9114261c4c988ae67e48cdab1e47f31451f9274c.600x338.jpg?t=1541197543",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/791040/ss_d798caeb1b0208feea6f21996a4b91f932f3b016.600x338.jpg?t=1541197543"
-  ],
-  "detailed_description": "The Virtual Reality Neuron Tracer (VRNT) is a tool for visualizing and tracing neurons from scanned 3D tissue in virtual reality. VRNT allows you to view and work with your data directly in 3D, providing more natural and intuitive interaction, leading to faster insights and better understanding. To support integration into your existing pipeline, VRNT supports common forms of TIFF Z-slices and TIFF directories, loads and stores traces in the the NLXML format used by NeuroLucida, and auto-saves your traces to allow you to easily pause and resume work. VRNT also supports datasets beyond the RAM capacity of the machine, by leveraging an on-demand streaming architecture. The streaming architecture supports both TIFF files and the IDX file format for better performance. Using our tool you can also easily convert your data to IDX for faster streaming performance.<br />\r\n<br />\r\nFor ease of use VRNT will auto-save your work every minute, and when you exit the software. When returning to work you can resume from your previous work, or pick some other trace to continue working from.<br />\r\n<br />\r\nWe have conducted a preliminary evaluation of how well users can trace neurons in virtual reality vs. NeuroLucida, and found that users could trace neurons roughly twice as fast, at similar quality to those performed with NeuroLucida. Further details on the development of VRNT and the evaluation can be found in our paper: \"A Virtual Reality Visualization Tool for Neuron Tracing\".<br />\r\n<br />\r\nWe're continuing to add new features and support for new data types and use cases based on user feedback and needs, if you find VRNT useful and/or have feature requests (e.g., data format support, workflows, data processing, etc.) please contact us at the support email address.",
-  "about_the_game": "The Virtual Reality Neuron Tracer (VRNT) is a tool for visualizing and tracing neurons from scanned 3D tissue in virtual reality. VRNT allows you to view and work with your data directly in 3D, providing more natural and intuitive interaction, leading to faster insights and better understanding. To support integration into your existing pipeline, VRNT supports common forms of TIFF Z-slices and TIFF directories, loads and stores traces in the the NLXML format used by NeuroLucida, and auto-saves your traces to allow you to easily pause and resume work. VRNT also supports datasets beyond the RAM capacity of the machine, by leveraging an on-demand streaming architecture. The streaming architecture supports both TIFF files and the IDX file format for better performance. Using our tool you can also easily convert your data to IDX for faster streaming performance.<br />\r\n<br />\r\nFor ease of use VRNT will auto-save your work every minute, and when you exit the software. When returning to work you can resume from your previous work, or pick some other trace to continue working from.<br />\r\n<br />\r\nWe have conducted a preliminary evaluation of how well users can trace neurons in virtual reality vs. NeuroLucida, and found that users could trace neurons roughly twice as fast, at similar quality to those performed with NeuroLucida. Further details on the development of VRNT and the evaluation can be found in our paper: \"A Virtual Reality Visualization Tool for Neuron Tracing\".<br />\r\n<br />\r\nWe're continuing to add new features and support for new data types and use cases based on user feedback and needs, if you find VRNT useful and/or have feature requests (e.g., data format support, workflows, data processing, etc.) please contact us at the support email address.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 8,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -52,26 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 71.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 8,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

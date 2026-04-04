@@ -3,8 +3,8 @@
   "name": "Call of the Ocean",
   "slug": "call-of-the-ocean",
   "developer": "Rotech Digital Ltd",
-  "publisher": "Rotech Digital Ltd",
-  "release_date": "Dec 19, 2017",
+  "publisher": "",
+  "release_date": "2017-12-19",
   "price_usd": 3.99,
   "genres": [
     "Adventure",
@@ -21,63 +21,27 @@
   ],
   "short_description": "VR exploration game with full motion controls, set in and around the ocean. Swim with a variety of ocean creatures, and discover secrets hidden in the depths!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/630670/header.jpg?t=1524119879",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/630670/ss_a23fba259604dfb60679b90beba2b72989c996d9.600x338.jpg?t=1524119879",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/630670/ss_6fc89ebcd0776ea3553812971da738e190dceac9.600x338.jpg?t=1524119879",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/630670/ss_ab50ecec6164a767809b5b9d558699e97faad77c.600x338.jpg?t=1524119879",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/630670/ss_54b09786937e5759baad2993efcea5cc1ea7db5b.600x338.jpg?t=1524119879",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/630670/ss_bc1ceefb4529b80cfd7e3f4fa5ac6ca0b8a399c7.600x338.jpg?t=1524119879",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/630670/ss_64de58779e6ee5dd48425638bc43e84091899b6c.600x338.jpg?t=1524119879",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/630670/ss_9f67a3aecaf384f256fdad750ea7f80db7fa4754.600x338.jpg?t=1524119879"
-  ],
-  "detailed_description": "Call of the Ocean is a VR exploration game set in and around the ocean, with a variety of ocean creatures and locations to discover.<br />\r\n<br />\r\nSet mainly in an island lagoon filled with ancient Greek temples and artefacts, the game integrates motion controls for full freedom of movement including swimming, climbing, running and jumping.<br />\r\n<br />\r\nThis game is in Early Access, but the motion controls, locations and creatures are in a playable state. You can explore ancient temples and shipwrecks, admire the beautiful wildlife, swim and play with dolphins. Grab hold and tag along for a ride on a turtle or whale. Cage dive with sharks - or better yet, dare your family and friends to go out of the cage and swim with them!<br />\r\n<br />\r\nFurther game maps and features are in development, to be included into the existing game.",
-  "about_the_game": "Call of the Ocean is a VR exploration game set in and around the ocean, with a variety of ocean creatures and locations to discover.<br />\r\n<br />\r\nSet mainly in an island lagoon filled with ancient Greek temples and artefacts, the game integrates motion controls for full freedom of movement including swimming, climbing, running and jumping.<br />\r\n<br />\r\nThis game is in Early Access, but the motion controls, locations and creatures are in a playable state. You can explore ancient temples and shipwrecks, admire the beautiful wildlife, swim and play with dolphins. Grab hold and tag along for a ride on a turtle or whale. Cage dive with sharks - or better yet, dare your family and friends to go out of the cage and swim with them!<br />\r\n<br />\r\nFurther game maps and features are in development, to be included into the existing game.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 7,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 42.9,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 49,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 42.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 7,
-      "review_percentage": 42.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 42.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

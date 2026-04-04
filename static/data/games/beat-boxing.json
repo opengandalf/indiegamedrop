@@ -3,8 +3,8 @@
   "name": "Beat Boxing",
   "slug": "beat-boxing",
   "developer": "Burning Daisies",
-  "publisher": "mindhelix.pl",
-  "release_date": "Nov 3, 2020",
+  "publisher": "",
+  "release_date": "2020-11-03",
   "price_usd": 6.99,
   "genres": [
     "Action",
@@ -23,34 +23,15 @@
   ],
   "short_description": "Beat Boxing is a Virtual Reality rhythm-based game that translates boxing punches into the beat of your music.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1103160/header.jpg?t=1608992173",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1103160/ss_8c9e8a29c6c09ae5e7e6202c083e7608b0f6b0bc.600x338.jpg?t=1608992173",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1103160/ss_b5da9ed0190328e79458e8920c38897f8e12bf1b.600x338.jpg?t=1608992173",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1103160/ss_d420d0fb451d9b3e6d75d7520a557e531422ab4f.600x338.jpg?t=1608992173",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1103160/ss_bff29730e3101e082b5cb3c3c258f01abdae4e69.600x338.jpg?t=1608992173",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1103160/ss_a0ec1c8d3fe1a687c2a265c365cc950f0fefdfcb.600x338.jpg?t=1608992173"
-  ],
-  "detailed_description": "Get into the skin of young Aztec warrior that has to pass rhythm-based trial.<br><br>Beat Boxing is a Virtual Reality game aiming to translate boxing punches into the rhythm game. Our own algorithm is analysing music track (built-in or selected from user's music library) to synchronize target spawning to the beats. Player can change difficulty from an easy session to nearly impossible one that will push him to the limits.<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li>immersive beat to beat action synchronized with built-in music or any track you select from your collection<br></li><li>beautiful visualizations we plan to expand with skins<br></li><li>great replayability - master your favourite tracks and challenge your friends to beat your high score<br></li><li>wide range of difficulty levels from casual ones to superhuman that will give you hard exercise</li></ul>",
-  "about_the_game": "Get into the skin of young Aztec warrior that has to pass rhythm-based trial.<br><br>Beat Boxing is a Virtual Reality game aiming to translate boxing punches into the rhythm game. Our own algorithm is analysing music track (built-in or selected from user's music library) to synchronize target spawning to the beats. Player can change difficulty from an easy session to nearly impossible one that will push him to the limits.<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li>immersive beat to beat action synchronized with built-in music or any track you select from your collection<br></li><li>beautiful visualizations we plan to expand with skins<br></li><li>great replayability - master your favourite tracks and challenge your friends to beat your high score<br></li><li>wide range of difficulty levels from casual ones to superhuman that will give you hard exercise</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 5,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

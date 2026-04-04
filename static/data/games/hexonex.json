@@ -3,8 +3,8 @@
   "name": "HEXONEX",
   "slug": "hexonex",
   "developer": "MooCow Games",
-  "publisher": "MooCow Games",
-  "release_date": "Aug 12, 2020",
+  "publisher": "",
+  "release_date": "2020-08-12",
   "price_usd": 1.99,
   "genres": [
     "Casual",
@@ -19,33 +19,9 @@
   ],
   "short_description": "A casual hex-based puzzle game. Match tiles by color across 108 puzzles, and beat your high scores to unlock new color schemes and music to customize your experience!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383340/header.jpg?t=1597245702",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383340/ss_9324e70dc18881b01af62dfa78eb85c382540a41.600x338.jpg?t=1597245702",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383340/ss_7669183f353fbee8706524612e4a5f01bab41edf.600x338.jpg?t=1597245702",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383340/ss_b1f39d17fd72d1b21daa3cd018d0574aeb0cd763.600x338.jpg?t=1597245702",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383340/ss_9db95649d5fcf2c6432e545606d323b2ec5be9f6.600x338.jpg?t=1597245702",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383340/ss_3cde0aa5a0fe7cee83addb5bad49ce4c424af2de.600x338.jpg?t=1597245702",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383340/ss_52e8cf709606e008d91a26bab04c6ba101a4632e.600x338.jpg?t=1597245702"
-  ],
-  "detailed_description": "HEXONEX is a casual hex-based puzzle game. Slide tiles to match colors across 108 puzzles. But think carefully before you act! Tiles can only move opposite any adjacent tiles, and you lose a point for every move you make!<br />\r\n<br />\r\nBeat your high scores to unlock new tile palettes, board palettes, and music, and mix and match to customize your experience!",
-  "about_the_game": "HEXONEX is a casual hex-based puzzle game. Slide tiles to match colors across 108 puzzles. But think carefully before you act! Tiles can only move opposite any adjacent tiles, and you lose a point for every move you make!<br />\r\n<br />\r\nBeat your high scores to unlock new tile palettes, board palettes, and music, and mix and match to customize your experience!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 4,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

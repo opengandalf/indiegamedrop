@@ -3,8 +3,8 @@
   "name": "Generation Streets",
   "slug": "generation-streets",
   "developer": "Roman Shuvalov",
-  "publisher": "Roman Shuvalov",
-  "release_date": "Feb 10, 2020",
+  "publisher": "",
+  "release_date": "2020-02-10",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -20,37 +20,11 @@
     "windows",
     "linux"
   ],
-  "short_description": "Generation Streets - a game based on a real-world map. Load your hometown, find your home and this casual game will start giving you very unexpected impressions. In the free version of the game, only limited territories are available.",
+  "short_description": "Generation Streets - a game based on a real-world map. Load your hometown, find your home and this casual game will start giving you very unexpected impressions. In the free version of the game, only ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/887970/header.jpg?t=1667158304",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/887970/ss_db11cfccfd674d441ae061e4a4ffc724f776f9e2.600x338.jpg?t=1667158304",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/887970/ss_56ee60cde2cc06af2b475b11ef464a451c683e3a.600x338.jpg?t=1667158304",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/887970/ss_8361454e8103e4ad461d35c857a01fa47c1eced9.600x338.jpg?t=1667158304",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/887970/ss_22ea58fea838fad56229cfcd14846c009a44adc9.600x338.jpg?t=1667158304",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/887970/ss_72bb807a638cb5d7a21802221b6adf8428d5f02a.600x338.jpg?t=1667158304",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/887970/ss_30a30b9179991997dfc8c61a3b8fc80b481984d9.600x338.jpg?t=1667158304"
-  ],
-  "detailed_description": "What if we take a real-world map and make all the buildings three-dimensional? And then draw textures on them and add some trees, power lines and other visual garbage? That's what:<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/887970/extras/8ccc52f67ae9d6b0ca03c26cbcdc9a14.avif?t=1667158304\" width=616 height=252 /></span><br><br>Load your hometown, find your home and this casual game will start giving you very unexpected impressions. In the free version of the game, only limited territories are available.<br><br><strong>Warning</strong>: although most places have a relatively high level of detail, it's impossible to render objects exactly as they look in the real world due to map inconsistencies or a lack of geodata, especially in rural areas. Do not expect a 100-percent match. Places will look recognizable but no more. Also, some places are just completely missing on the map and will be not rendered.",
-  "about_the_game": "What if we take a real-world map and make all the buildings three-dimensional? And then draw textures on them and add some trees, power lines and other visual garbage? That's what:<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/887970/extras/8ccc52f67ae9d6b0ca03c26cbcdc9a14.avif?t=1667158304\" width=616 height=252 /></span><br><br>Load your hometown, find your home and this casual game will start giving you very unexpected impressions. In the free version of the game, only limited territories are available.<br><br><strong>Warning</strong>: although most places have a relatively high level of detail, it's impossible to render objects exactly as they look in the real world due to map inconsistencies or a lack of geodata, especially in rural areas. Do not expect a 100-percent match. Places will look recognizable but no more. Also, some places are just completely missing on the map and will be not rendered.",
-  "supported_languages": "English, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 204,
-  "review_positive": 151,
+  "review_positive": 0,
   "review_percentage": 74.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +32,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 202,
-      "review_percentage": 74.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 204,
       "review_percentage": 74.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

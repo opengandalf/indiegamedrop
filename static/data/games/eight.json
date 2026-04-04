@@ -3,8 +3,8 @@
   "name": "Eight",
   "slug": "eight",
   "developer": "Katelyst",
-  "publisher": "Katelyst",
-  "release_date": "Nov 4, 2020",
+  "publisher": "",
+  "release_date": "2020-11-04",
   "price_usd": 1.99,
   "genres": [
     "Indie"
@@ -15,35 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Eight is a short horror experience inspired by Layers of Fear in which you can discover the history of a classic mansion and its previous inhabitants. This product has been made within one month and serves as an experiment of our work methodology.",
+  "short_description": "Eight is a short horror experience inspired by Layers of Fear in which you can discover the history of a classic mansion and its previous inhabitants. This product has been made within one month and s",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432960/header.jpg?t=1624442057",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432960/ss_3e5b9d12da9fbdd44405699cb851e63ad92cb538.600x338.jpg?t=1624442057",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432960/ss_1344a8984c0cf3bf3c54018075d013c29588c720.600x338.jpg?t=1624442057",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432960/ss_a0cc40698fcba59ee095fb96576e9caa9617d490.600x338.jpg?t=1624442057",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432960/ss_3c215aeb9f2149df3b0bc3e8ab25951c0f5cd5e2.600x338.jpg?t=1624442057",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432960/ss_35c53f2b01fd778ec87106a9a879c945d3b93bf5.600x338.jpg?t=1624442057",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1432960/ss_4c8067281d007de4060f4583fc7080fafcf78d59.600x338.jpg?t=1624442057"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >About the Experience</h2>Eight is a short horror experience inspired by Layers of Fear in which you can discover the history of a classic mansion, and its previous inhabitants. You are a new home owner, visiting their newly acquired property after work. Many renovations will have to take place, and your realtor has advised you to investigate different places that might need extra work. Soon after you arrive, you discover that there is more to this house than meets the eye...<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> A short and compelling horror narrative told through the environment, objects, and audio scenes.<br></li><li> A dark classic mansion environment to explore<br></li><li> Interactive Lights, doors, and items<br></li><li> Music & Voice Acting</li></ul><h2 class=\"bb_tag\" >About the Development</h2>Eight is the product of a single month of development, by two developers. The aim of this, and other Katelyst projects, is to learn and improve upon our development methodology. The game was built using Unreal Engine 4, The Horror Engine, and the Classical Mansion Asset Pack.<br>We aim to gather as much feedback from players as we can and pivot our projects according to what our players want.<br>This product has been made within one month and serves as an experiment of our work methodology, and will not be updated after release.",
-  "about_the_game": "<h2 class=\"bb_tag\" >About the Experience</h2>Eight is a short horror experience inspired by Layers of Fear in which you can discover the history of a classic mansion, and its previous inhabitants. You are a new home owner, visiting their newly acquired property after work. Many renovations will have to take place, and your realtor has advised you to investigate different places that might need extra work. Soon after you arrive, you discover that there is more to this house than meets the eye...<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> A short and compelling horror narrative told through the environment, objects, and audio scenes.<br></li><li> A dark classic mansion environment to explore<br></li><li> Interactive Lights, doors, and items<br></li><li> Music & Voice Acting</li></ul><h2 class=\"bb_tag\" >About the Development</h2>Eight is the product of a single month of development, by two developers. The aim of this, and other Katelyst projects, is to learn and improve upon our development methodology. The game was built using Unreal Engine 4, The Horror Engine, and the Classical Mansion Asset Pack.<br>We aim to gather as much feedback from players as we can and pivot our projects according to what our players want.<br>This product has been made within one month and serves as an experiment of our work methodology, and will not be updated after release.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 2.7,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 54,
-  "review_positive": 31,
+  "review_positive": 0,
   "review_percentage": 57.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 54,
-      "review_percentage": 57.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 54,
       "review_percentage": 57.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

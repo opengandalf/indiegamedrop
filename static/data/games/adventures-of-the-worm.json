@@ -3,8 +3,8 @@
   "name": "Adventures of the Worm",
   "slug": "adventures-of-the-worm",
   "developer": "Lukáš Osouch, Petr Čermák",
-  "publisher": "MAILPlus s.r.o.",
-  "release_date": "Aug 18, 2017",
+  "publisher": "",
+  "release_date": "2017-08-18",
   "price_usd": 0.99,
   "genres": [
     "Indie"
@@ -17,53 +17,27 @@
   ],
   "short_description": "Adventures of the Worm is a puzzle game in which you play as a worm. Your goal is to transport all apples into your home. You will need to remove obstacles, create paths and avoid enemies.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681410/header.jpg?t=1505073017",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681410/ss_518190c4879b775f663935fbd677b7c3fec3898e.600x338.jpg?t=1505073017",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681410/ss_9bd6738d3e55186741a1b22bbe1a5fd772ea0ed9.600x338.jpg?t=1505073017",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681410/ss_2f5ffa8d8be85e307c2831c2512a89f360b0478a.600x338.jpg?t=1505073017",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681410/ss_c254e2e47fd6df94daaf254e45ca5018434bb3de.600x338.jpg?t=1505073017",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681410/ss_34913f9e369e77b0b44a2da4654ddd43f6b26a16.600x338.jpg?t=1505073017",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681410/ss_cdd7d3fe1368edc5cc6f76ec1da05518cdf25dc2.600x338.jpg?t=1505073017"
-  ],
-  "detailed_description": "Adventures of the Worm is a puzzle game in which you play as a worm. Your goal is to transport all apples into your home. You will need to remove obstacles, create paths and avoid enemies.<br />\r\n<br />\r\nKey features:<br />\r\n  - 100 unique levels and over 3 hours of puzzles<br />\r\n  - Gradually increasing difficulty<br />\r\n  - Pixel graphics<br />\r\n  - Relaxing music<br />\r\n  - Level editor - create and play your own levels!",
-  "about_the_game": "Adventures of the Worm is a puzzle game in which you play as a worm. Your goal is to transport all apples into your home. You will need to remove obstacles, create paths and avoid enemies.<br />\r\n<br />\r\nKey features:<br />\r\n  - 100 unique levels and over 3 hours of puzzles<br />\r\n  - Gradually increasing difficulty<br />\r\n  - Pixel graphics<br />\r\n  - Relaxing music<br />\r\n  - Level editor - create and play your own levels!",
-  "supported_languages": "English<strong>*</strong>, Czech<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
-  "gem_score": 0.8305,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.8,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 36,
-  "review_positive": 33,
+  "review_positive": 0,
   "review_percentage": 91.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 36,
-      "review_percentage": 91.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 36,
       "review_percentage": 91.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

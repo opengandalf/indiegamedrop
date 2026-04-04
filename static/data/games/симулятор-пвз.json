@@ -3,8 +3,8 @@
   "name": "Симулятор ПВЗ",
   "slug": "симулятор-пвз",
   "developer": "r0kee",
-  "publisher": "EmptyFridge",
-  "release_date": "Jun 12, 2024",
+  "publisher": "",
+  "release_date": "2024-06-12",
   "price_usd": 0.55,
   "genres": [
     "Casual",
@@ -19,37 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Станьте владельцем пункта выдачи заказов своего любого маркетплейса в этом Симуляторе ПВЗ! Разгружайте посылки, отдавайте заказы, занимайтесь менеджментом и просто зарабатывайте деньги. Сможете ли вы сделать самый успешный пункт выдачи заказов?",
+  "short_description": "Станьте владельцем пункта выдачи заказов своего любого маркетплейса в этом Симуляторе ПВЗ! Разгружайте посылки, отдавайте заказы, занимайтесь менеджментом и просто зарабатывайте деньги. Сможете ли вы ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2943640/header.jpg?t=1718211872",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2943640/ss_c8062c12a64d29980a2efccfe54c5f2a9745ad0f.600x338.jpg?t=1718211872",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2943640/ss_ebb0886e8b524f122fb7120db2ebb26976b2d009.600x338.jpg?t=1718211872",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2943640/ss_9f6c1bdd0a05d494fed9f3e1250cfcee9fd4470e.600x338.jpg?t=1718211872",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2943640/ss_8a8afe67860ec96581efcbb28ef6ca971c03e99a.600x338.jpg?t=1718211872",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2943640/ss_1844344bcfd1f621e15837fc70184c2cd92833bf.600x338.jpg?t=1718211872",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2943640/ss_ed154ae2b35802deb38cf698f2736a6f96becb36.600x338.jpg?t=1718211872"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Вы всегда хотели заработать деньги на любимом маркетплейсе?</h2>Выход есть! Откройте пункт выдачи заказов в этом <strong>Симуляторе ПВЗ</strong>! Чтобы заработать, вам придется разгружать <i>посылки</i>, обслуживать <i>клиентов</i>, заниматься <i>менджментом</i>, поднимать <i>уровень</i> пункта выдачи заказов и так далее! Станьте самым успешным <strong>владельцем ПВЗ</strong> и заработайте как можно больше!",
-  "about_the_game": "<h2 class=\"bb_tag\" >Вы всегда хотели заработать деньги на любимом маркетплейсе?</h2>Выход есть! Откройте пункт выдачи заказов в этом <strong>Симуляторе ПВЗ</strong>! Чтобы заработать, вам придется разгружать <i>посылки</i>, обслуживать <i>клиентов</i>, заниматься <i>менджментом</i>, поднимать <i>уровень</i> пункта выдачи заказов и так далее! Станьте самым успешным <strong>владельцем ПВЗ</strong> и заработайте как можно больше!",
-  "supported_languages": "Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 132,
+  "screenshots": [],
   "rising_score": 0.001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 39.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 143,
-  "review_positive": 109,
+  "review_positive": 0,
   "review_percentage": 76.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 104,
-      "review_percentage": 80.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 143,
       "review_percentage": 76.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

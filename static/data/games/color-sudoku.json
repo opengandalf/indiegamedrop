@@ -3,8 +3,8 @@
   "name": "Color Sudoku",
   "slug": "color-sudoku",
   "developer": "baKno Games",
-  "publisher": "baKno Games",
-  "release_date": "Sep 26, 2017",
+  "publisher": "",
+  "release_date": "2017-09-26",
   "price_usd": 17.49,
   "genres": [
     "Casual",
@@ -21,32 +21,15 @@
   ],
   "short_description": "A colorful new way to play your favorite game, this Sudoku variation must be filled with colors instead of numbers.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711190/header.jpg?t=1506435803",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711190/ss_98cb05e926468c8357bdf399aa2ebd37d79b0afd.600x338.jpg?t=1506435803",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711190/ss_789f12a89fb430e81b276a087096a15ea3d2b985.600x338.jpg?t=1506435803",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711190/ss_38959714449bcadcfc0ee08a674b1b279f643090.600x338.jpg?t=1506435803",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711190/ss_2ae390ded1abbf64d6a93139033e90bafa86e7bf.600x338.jpg?t=1506435803",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711190/ss_6608e59ef8afca42ffb7f91f1b17294e534f7fc6.600x338.jpg?t=1506435803"
-  ],
-  "detailed_description": "A colorful new way to play your favorite game, this Sudoku variation must be filled with colors instead of numbers. Color Sudoku reveals patterns and logics you won’t find in the typical numbers game. From beginner to expert, you’ll be challenged by five levels of difficulty. Sudoku is also great for kids, recommended for developing logical thought. The multicolor wheel around the clicked cell makes color placements and annotations easy. And the new \"Hint\" option provides a useful shortcut to finish the game.",
-  "about_the_game": "A colorful new way to play your favorite game, this Sudoku variation must be filled with colors instead of numbers. Color Sudoku reveals patterns and logics you won’t find in the typical numbers game. From beginner to expert, you’ll be challenged by five levels of difficulty. Sudoku is also great for kids, recommended for developing logical thought. The multicolor wheel around the clicked cell makes color placements and annotations easy. And the new \"Hint\" option provides a useful shortcut to finish the game.",
-  "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Japanese, Korean, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

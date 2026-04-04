@@ -3,8 +3,8 @@
   "name": "RetroMaze",
   "slug": "retromaze",
   "developer": "Durven Studios, BrazMonkey Studio",
-  "publisher": "Durven Studios",
-  "release_date": "May 21, 2018",
+  "publisher": "",
+  "release_date": "2018-05-21",
   "price_usd": 0.49,
   "genres": [
     "Casual",
@@ -19,61 +19,27 @@
   ],
   "short_description": "A relaxing Retrowave stylized maze game that increases the difficulty as you progress through the levels. RetroMaze has 30 levels and a beautiful visual concept, as well as an exciting soundtrack.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/852110/header.jpg?t=1694280565",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/852110/ss_daee0f2f03cdf581b21e4699778b9e9aa45e8811.600x338.jpg?t=1694280565",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/852110/ss_42dc1888c1bdc7d22817419d306c5c9cde625f74.600x338.jpg?t=1694280565",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/852110/ss_c389d91e17770647288b297a58bddedca971520a.600x338.jpg?t=1694280565",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/852110/ss_7494779b4304f43ea37afdeca20e01fd9909cfeb.600x338.jpg?t=1694280565",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/852110/ss_3a431c6575bce82255802c2da3868dcd9ae2c6e4.600x338.jpg?t=1694280565"
-  ],
-  "detailed_description": "A <strong>relaxing</strong> <i>retrowave</i> stylized maze game that <strong>increases the difficulty as you progress through the levels</strong>. RetroMaze has<strong> a beautiful visual concept</strong>, as well as an <strong>exciting soundtrack</strong>.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/852110/extras/5b4c64de8e593048b7d061d4de83981b.avif?t=1694280565\" width=617 height=67 /></span><br><ul class=\"bb_ul\"><li>Scalable difficulty.<br></li><li>30 Levels.<br></li><li>Cool retrowave stylized visual, soundtrack and achievements.<br></li><li>Plans on adding trading cards, beautiful backgrounds and emoticons.</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/852110/extras/a08efab67afe5fa2c24fd7c471aeb64a.avif?t=1694280565\" width=617 height=67 /></span><br><i>\"RetroMaze\" powered by GameMaker Studio 2.<br>Music by \"Karl Casey\" @ White Bat Audio.</i>",
-  "about_the_game": "A <strong>relaxing</strong> <i>retrowave</i> stylized maze game that <strong>increases the difficulty as you progress through the levels</strong>. RetroMaze has<strong> a beautiful visual concept</strong>, as well as an <strong>exciting soundtrack</strong>.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/852110/extras/5b4c64de8e593048b7d061d4de83981b.avif?t=1694280565\" width=617 height=67 /></span><br><ul class=\"bb_ul\"><li>Scalable difficulty.<br></li><li>30 Levels.<br></li><li>Cool retrowave stylized visual, soundtrack and achievements.<br></li><li>Plans on adding trading cards, beautiful backgrounds and emoticons.</li></ul><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/852110/extras/a08efab67afe5fa2c24fd7c471aeb64a.avif?t=1694280565\" width=617 height=67 /></span><br><i>\"RetroMaze\" powered by GameMaker Studio 2.<br>Music by \"Karl Casey\" @ White Bat Audio.</i>",
-  "supported_languages": "English, Portuguese - Brazil",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Trading Cards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 1449,
+  "screenshots": [],
   "rising_score": 0.0002,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 106.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 1566,
-  "review_positive": 1509,
+  "review_positive": 0,
   "review_percentage": 96.4,
   "owner_estimate": 350000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 43,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1460,
-      "review_percentage": 96.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 1564,
-      "review_percentage": 96.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 1566,
       "review_percentage": 96.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

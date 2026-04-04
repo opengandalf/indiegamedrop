@@ -3,8 +3,8 @@
   "name": "You know my name?",
   "slug": "you-know-my-name",
   "developer": "Mystael studio",
-  "publisher": "Mystael studio",
-  "release_date": "Jul 4, 2024",
+  "publisher": "",
+  "release_date": "2024-07-04",
   "price_usd": 0.89,
   "genres": [
     "Adventure",
@@ -23,33 +23,15 @@
   ],
   "short_description": "A short visual novel about finding your name and a girl in the fog.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3056420/header.jpg?t=1746187784",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3056420/ss_f110502b0ef9725f4164250d361fc1e6695a98b3.600x338.jpg?t=1746187784",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3056420/ss_5bcf6b513d4d51f6e23ada5d468ef286d4d6d673.600x338.jpg?t=1746187784",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3056420/ss_d2914d44aeb68872145e695581b651fa19085374.600x338.jpg?t=1746187784",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3056420/ss_49e753d3452be77019b447cfec85a7122105d738.600x338.jpg?t=1746187784",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3056420/ss_f02bf065520da66f4697959e3dd4e802d6b6d032.600x338.jpg?t=1746187784"
-  ],
-  "detailed_description": "<h1>SHORT GRIM STORIES</h1><p></p><br><h1>About the Game</h1>A short story about a girl who has forgotten her name.<br>But it seems she lost something else along with her name. And she's losing it even now.<br><br>The novella is more an experiment with abstractions than a standard story.<br>Sources of inspiration: novellas about milk and the cartoon \"Hedgehog in the Fog\".<h2 class=\"bb_tag\" >Features</h2><br><ul class=\"bb_ul\"><li>A kinetic novel about the defense mechanisms of the psyche<br></li><li>A psychedelic narrative that opens up a wide range of interpretations<br></li><li>Short duration (10-15 minutes)</li></ul>",
-  "about_the_game": "A short story about a girl who has forgotten her name.<br>But it seems she lost something else along with her name. And she's losing it even now.<br><br>The novella is more an experiment with abstractions than a standard story.<br>Sources of inspiration: novellas about milk and the cartoon \"Hedgehog in the Fog\".<h2 class=\"bb_tag\" >Features</h2><br><ul class=\"bb_ul\"><li>A kinetic novel about the defense mechanisms of the psyche<br></li><li>A psychedelic narrative that opens up a wide range of interpretations<br></li><li>Short duration (10-15 minutes)</li></ul>",
-  "supported_languages": "English, Russian, French, Spanish - Spain, Simplified Chinese, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 194,
+  "screenshots": [],
   "rising_score": 0.0008,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 49.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 211,
-  "review_positive": 150,
+  "review_positive": 0,
   "review_percentage": 71.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 162,
-      "review_percentage": 77.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 211,
       "review_percentage": 71.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

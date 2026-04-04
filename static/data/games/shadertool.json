@@ -3,8 +3,8 @@
   "name": "ShaderTool",
   "slug": "shadertool",
   "developer": "Stefan Kraus, Timo Armbruster",
-  "publisher": "BiteTheBytes GmbH",
-  "release_date": "Oct 10, 2014",
+  "publisher": "",
+  "release_date": "2014-10-10",
   "price_usd": 14.99,
   "genres": [
     "Utilities"
@@ -15,46 +15,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Finally a modern shader IDE for programmers and FX artists. Write HLSL and GLSL shaders and view results instantly. Create complex shaders with an easy-to-use node-based render pipeline. Import model, texture and other resources per drag'n drop to create awesome effects. Create any kind of shaders and share them with the community.",
+  "short_description": "Finally a modern shader IDE for programmers and FX artists. Write HLSL and GLSL shaders and view results instantly. Create complex shaders with an easy-to-use node-based render pipeline. Import model,",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/header.jpg?t=1463171673",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/ss_331012299fb8c6ee2988e2c3fe814ac07ef6c2f1.600x338.jpg?t=1463171673",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/ss_78762a2dee1e1d85b019401e4efbef5c4e48cefb.600x338.jpg?t=1463171673",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/ss_9f23927ebf766b0c907d7863e107630ff0c8de2f.600x338.jpg?t=1463171673",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/ss_d984e5cf81a5e31e28a1a3d6ee5beeccc0529513.600x338.jpg?t=1463171673",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/ss_37ec153c5f5220b4c81291fd96e601ae04b68b12.600x338.jpg?t=1463171673",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/ss_7155fb6783c79b7095a15e528fe5d3b52ee3bab6.600x338.jpg?t=1463171673",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/ss_fafa075de3743fdb63961ab5f1e984ecc42ef01a.600x338.jpg?t=1463171673",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/ss_491ac083e600557c9a056d4163a905339bf7d79e.600x338.jpg?t=1463171673",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/ss_0b0e9f08330033c96d8187ae287baf5de1eac777.600x338.jpg?t=1463171673",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/ss_8bda88dccefc406c5ab8673650abe1e7fe4946e1.600x338.jpg?t=1463171673",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/ss_2f26d6b522b363b356136bcaaf80a8bac0330909.600x338.jpg?t=1463171673",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/ss_303e7c7e0a7e5ba91cdcd8b518c7c167d128fde4.600x338.jpg?t=1463171673",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/ss_5767cde9686f5706f8cc8afcb29aeb93d48e5164.600x338.jpg?t=1463171673",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/ss_94a85c55ba5036f8a25273920c4ae3cf79bc8284.600x338.jpg?t=1463171673",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/ss_4ebc4512c1c5938de9269df40beb68656dee84bf.600x338.jpg?t=1463171673",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/ss_519494191cd1c051b32f5d635efca4ce53b7278d.600x338.jpg?t=1463171673",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/ss_bb68ee3eaf6be0e350fbd3d0bc0731848a9ee993.600x338.jpg?t=1463171673",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/ss_cb3c8e1e6cd6cdc8ad713b1dde121b14608354e4.600x338.jpg?t=1463171673",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/ss_142736488ed0e70b38426f5af3db205fa65132df.600x338.jpg?t=1463171673",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314720/ss_351cbd2ce41778dfe16b988c2e7d5889930cd6c3.600x338.jpg?t=1463171673"
-  ],
-  "detailed_description": "YES - ShaderTool has reached FINAL STATUS!<br><br>It capsulates a powerful node based system and an easy to use code editor to create shaders of any kind (except compute shader) with full Oculus Rift DK 2 support in addition!<br><br>ShaderTool provides a flexible and editable node-powered pipeline that allows you to write shaders without also having to have written an engine. Use the integrated code editor to directly write shader code in either HLSL (DirectX) or GLSL (OpenGL).<h2 class=\"bb_tag\" ><strong>Features</strong></h2><br><ul class=\"bb_ul\"><li>Write shaders and view results instantly<br></li><li>Support of HLSL and GLSL (DirectX and OpenGL)<br></li><li>Latest shader models fully supported <br></li><li>Code editor with syntax highlighting, warning and error output<br></li><li>Easy-to-use node-based render pipeline <br></li><li>Import models, textures, audio files and other resources per drag'n drop<br></li><li>Export your shaders and share them with others<br></li><li>Create template projects for more efficient shader development <br></li><li>Direct use of shaders in DirectX or OpenGL applications <br></li><li>Oculus Rift DK 2 fully supported (Direct Acces Mode)<br></li><li>Use audio streams for shader input to create stunning effects<br></li><li>Post-Effects fully supported<br></li><li>Create multiple render-pipelines and combine them to create AAA shaders used in games</li></ul><h2 class=\"bb_tag\" ><strong>Finally a modern shader IDE for programmers and FX artists</strong></h2><br>Maybe you are one of those who was looking without avail for a really good shader development environment. You might ended up with the FX Composer or RenderMonkey – both very powerful shader IDEs but with one big disadvantage – both are sadly not maintained anymore and therefore they do not support the newest shader models!<br><br>So what else was out there? Sadly … almost nothing! Some IDEs are more after GLSL and very few after HLSL. Some IDEs only support the creation of post effects – but that is not enough for a professional shader developer!<br><br>That is exactly what we were just thinking a year ago and we thought that it was time to change that. So we started to develop ShaderTool. And now its finished - get it and start coding!<h2 class=\"bb_tag\" ><strong>What is ShaderTool capable of?</strong></h2><br>The current version of ShaderTool allows you to write HLSL and GLSL shaders of any kind. <br><br>But you not only can write shaders by hand but also build up your own render pipeline through the easy-to-use node-based-system and combine multiple shaders to create state of the art effects.<br><br>You can load or just drag and drop models, textures and audio files of any kind! The integrated code editor supports syntax highlighting, shows warnings and errors with quick jump functionality and other typical code editor stuff.<br><br>Also, we are improving ShaderTool every day and if you have suggestions or ideas: PLEASE LET US NOW! During the alpha and beta phase a lot of ideas from users have been implemented - so your voice matters!<br><br>There is so much more … try out for yourself!",
-  "about_the_game": "YES - ShaderTool has reached FINAL STATUS!<br><br>It capsulates a powerful node based system and an easy to use code editor to create shaders of any kind (except compute shader) with full Oculus Rift DK 2 support in addition!<br><br>ShaderTool provides a flexible and editable node-powered pipeline that allows you to write shaders without also having to have written an engine. Use the integrated code editor to directly write shader code in either HLSL (DirectX) or GLSL (OpenGL).<h2 class=\"bb_tag\" ><strong>Features</strong></h2><br><ul class=\"bb_ul\"><li>Write shaders and view results instantly<br></li><li>Support of HLSL and GLSL (DirectX and OpenGL)<br></li><li>Latest shader models fully supported <br></li><li>Code editor with syntax highlighting, warning and error output<br></li><li>Easy-to-use node-based render pipeline <br></li><li>Import models, textures, audio files and other resources per drag'n drop<br></li><li>Export your shaders and share them with others<br></li><li>Create template projects for more efficient shader development <br></li><li>Direct use of shaders in DirectX or OpenGL applications <br></li><li>Oculus Rift DK 2 fully supported (Direct Acces Mode)<br></li><li>Use audio streams for shader input to create stunning effects<br></li><li>Post-Effects fully supported<br></li><li>Create multiple render-pipelines and combine them to create AAA shaders used in games</li></ul><h2 class=\"bb_tag\" ><strong>Finally a modern shader IDE for programmers and FX artists</strong></h2><br>Maybe you are one of those who was looking without avail for a really good shader development environment. You might ended up with the FX Composer or RenderMonkey – both very powerful shader IDEs but with one big disadvantage – both are sadly not maintained anymore and therefore they do not support the newest shader models!<br><br>So what else was out there? Sadly … almost nothing! Some IDEs are more after GLSL and very few after HLSL. Some IDEs only support the creation of post effects – but that is not enough for a professional shader developer!<br><br>That is exactly what we were just thinking a year ago and we thought that it was time to change that. So we started to develop ShaderTool. And now its finished - get it and start coding!<h2 class=\"bb_tag\" ><strong>What is ShaderTool capable of?</strong></h2><br>The current version of ShaderTool allows you to write HLSL and GLSL shaders of any kind. <br><br>But you not only can write shaders by hand but also build up your own render pipeline through the easy-to-use node-based-system and combine multiple shaders to create state of the art effects.<br><br>You can load or just drag and drop models, textures and audio files of any kind! The integrated code editor supports syntax highlighting, shows warnings and errors with quick jump functionality and other typical code editor stuff.<br><br>Also, we are improving ShaderTool every day and if you have suggestions or ideas: PLEASE LET US NOW! During the alpha and beta phase a lot of ideas from users have been implemented - so your voice matters!<br><br>There is so much more … try out for yourself!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 36,
-  "review_positive": 30,
+  "review_positive": 0,
   "review_percentage": 83.3,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -62,26 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 34,
-      "review_percentage": 82.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 36,
-      "review_percentage": 83.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
+      "date": "2026-04-04",
       "review_count": 36,
       "review_percentage": 83.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

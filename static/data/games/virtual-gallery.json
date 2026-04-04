@@ -3,8 +3,8 @@
   "name": "Virtual Gallery",
   "slug": "virtual-gallery",
   "developer": "Dion ten Have",
-  "publisher": "THSoft",
-  "release_date": "Jan 31, 2021",
+  "publisher": "",
+  "release_date": "2021-01-31",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -25,32 +25,9 @@
   ],
   "short_description": "Virtual Gallery gives you a chance to watch your own photo collection in a modern gallery in VR.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512840/header.jpg?t=1612107654",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512840/ss_a098b808d42ef7d686c3a5ba0ecf82f324ffffa5.600x338.jpg?t=1612107654",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512840/ss_d50713c6abf400f9b61f6d36b7cb2b6d91c15b96.600x338.jpg?t=1612107654",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512840/ss_fa47131a0c05067565353e3e91ae477465e13bad.600x338.jpg?t=1612107654",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512840/ss_01fc999dc9f05d46fad792b55760119581269bfe.600x338.jpg?t=1612107654",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512840/ss_7a5410fbc8d9960774b09a94439786024328d530.600x338.jpg?t=1612107654"
-  ],
-  "detailed_description": "Virtual Gallery gives you a chance to watch your own photo collection in a modern gallery in VR. The experience includes two demonstration galleries. You can add your own gallerys to the list with a few clicks.",
-  "about_the_game": "Virtual Gallery gives you a chance to watch your own photo collection in a modern gallery in VR. The experience includes two demonstration galleries. You can add your own gallerys to the list with a few clicks.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 17,
-  "review_positive": 16,
+  "review_positive": 0,
   "review_percentage": 94.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 16,
-      "review_percentage": 93.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 17,
       "review_percentage": 94.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

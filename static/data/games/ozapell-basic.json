@@ -3,8 +3,8 @@
   "name": "Ozapell Basic",
   "slug": "ozapell-basic",
   "developer": "Ozapell",
-  "publisher": "Ozapell",
-  "release_date": "Oct 23, 2017",
+  "publisher": "",
+  "release_date": "2017-10-23",
   "price_usd": 7.99,
   "genres": [
     "Animation & Modeling",
@@ -27,30 +27,9 @@
   ],
   "short_description": "Ozapell Basic is a hobbyist programming language simple enough for new programmers -- while powerful enough to develop playable retro 1980s games.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523410/header.jpg?t=1517338929",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523410/ss_ac4132123b78f0c4dd054f3e83a41c647b227ddc.600x338.jpg?t=1517338929",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523410/ss_f7199fd5a0940288860cfe46fb8cf86dd4197f90.600x338.jpg?t=1517338929",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523410/ss_d9281b4568b9396b68c66f755f46ea09eff274ac.600x338.jpg?t=1517338929",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523410/ss_4d8db5db0b1ccd0a2f850fc86fd29111b6c752fa.600x338.jpg?t=1517338929",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523410/ss_6afcea81398af804df422ab7f3b18be9fae628de.600x338.jpg?t=1517338929",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523410/ss_72c4991cb887f0c229379b6be0fd635275b72037.600x338.jpg?t=1517338929"
-  ],
-  "detailed_description": "Ozapell Basic is a hobbyist programming language simple enough for new programmers -- while powerful enough to develop playable retro 1980s games. <br />\r\n<br />\r\nThe graphics environment and interface are loosely based on early 1980s color home computers.<br />\r\n<br />\r\nThe programming language is heavily inspired by modern languages (especially C and javaScript) while using BASIC keywords for simplicity.<br />\r\n<br />\r\nThe supplied library provides enough functionality to create simple games and audio-visual demonstrations.<br />\r\n<br />\r\nOzapell Basic was designed to be as simple as possible while providing a variety of features. It could be fun for someone who wants to program or make retro 1980s style games but doesn't want to learn a complicated modern language. <br />\r\n<br />\r\nSpecial features include: <br />\r\nSteady 60fps performance<br />\r\nCreate executables for distribution<br />\r\nSupport for modern (CD quality) wave audio sound<br />\r\nAlternate freely between line editor and fullscreen editor or use an external text editor<br />\r\nBuilt-in speed limiter -- programs will run at same speed on fast or Minimum Specification systems or turn off the speed limiter for full processing speed<br />\r\nSecured to prevent access to other folders and files <br />\r\nFullscreen and Widescreen <br />\r\n24-bit color<br />\r\nCollision detection for sprites<br />\r\nPartial mouse support for receiving clicks from left, right and middle mouse buttons<br />\r\nSource code is (mostly) compiled to memory before starting instead of interpreting the source code during execution",
-  "about_the_game": "Ozapell Basic is a hobbyist programming language simple enough for new programmers -- while powerful enough to develop playable retro 1980s games. <br />\r\n<br />\r\nThe graphics environment and interface are loosely based on early 1980s color home computers.<br />\r\n<br />\r\nThe programming language is heavily inspired by modern languages (especially C and javaScript) while using BASIC keywords for simplicity.<br />\r\n<br />\r\nThe supplied library provides enough functionality to create simple games and audio-visual demonstrations.<br />\r\n<br />\r\nOzapell Basic was designed to be as simple as possible while providing a variety of features. It could be fun for someone who wants to program or make retro 1980s style games but doesn't want to learn a complicated modern language. <br />\r\n<br />\r\nSpecial features include: <br />\r\nSteady 60fps performance<br />\r\nCreate executables for distribution<br />\r\nSupport for modern (CD quality) wave audio sound<br />\r\nAlternate freely between line editor and fullscreen editor or use an external text editor<br />\r\nBuilt-in speed limiter -- programs will run at same speed on fast or Minimum Specification systems or turn off the speed limiter for full processing speed<br />\r\nSecured to prevent access to other folders and files <br />\r\nFullscreen and Widescreen <br />\r\n24-bit color<br />\r\nCollision detection for sprites<br />\r\nPartial mouse support for receiving clicks from left, right and middle mouse buttons<br />\r\nSource code is (mostly) compiled to memory before starting instead of interpreting the source code during execution",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 14,
-  "review_positive": 9,
+  "review_positive": 0,
   "review_percentage": 64.3,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -58,26 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 14,
-      "review_percentage": 64.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 14,
-      "review_percentage": 64.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 14,
       "review_percentage": 64.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

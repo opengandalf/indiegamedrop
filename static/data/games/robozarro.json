@@ -3,8 +3,8 @@
   "name": "Robozarro",
   "slug": "robozarro",
   "developer": "Frozen Flame Interactive",
-  "publisher": "Frozen Flame Interactive",
-  "release_date": "Dec 12, 2019",
+  "publisher": "",
+  "release_date": "2019-12-12",
   "price_usd": 1.24,
   "genres": [
     "Action",
@@ -17,55 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Robozarro is a physics-based, 2-D action game, where robots B0-3 and 0-Ramatron embark on an epic quest through the outskirts, underbelly, and rooftops of Mech Angeles, to uncover the mystery surrounding the disappearance of Dr. Zarro.",
+  "short_description": "Robozarro is a physics-based, 2-D action game, where robots B0-3 and 0-Ramatron embark on an epic quest through the outskirts, underbelly, and rooftops of Mech Angeles, to uncover the mystery surround",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/header.jpg?t=1620051036",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_d8e7077d43f3ec0eecc9a3ba3a53592dfcd8a45a.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_42b0944b6cfb91d169a0806b022e3dd0ab78a50c.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_e7f7c949b437850cbb8b179162573d42b957e3c5.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_65ea48c5f73b7291701c8aeed7fa355bcf6b8b51.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_0794e2a887553f837039646c4fedd16b7c68ad69.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_bec009c3965fc181014048f94f1a423afae6c891.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_1ba7447a544a33cf83b7b1359858c4e6fc7a910a.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_0286fd5d1c5602effc156e0e584ec13f24b3b81f.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_83dba23778d4d131b3d11d5a598107734caa64b1.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_a01926832b5c292ce10989c816b15de673275b09.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_3e1b24f8f89335d5917c2cdbbb82974df670067c.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_84d6f37c05d4006a7d6ca96387550370398035ac.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_81f9d98f59c3f55cc59e43b04951fb80607b406a.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_a3f06eb8d98c837018eed8c3ad36198a28d0e24d.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_8f7685fba53758ff0ce4d86cb8071c3951e855e4.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_3dd33cd2606d2465f3a9da1e013260cf983f2f5b.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_2fe84c686fca9aba3e903df84303b6ccf4f7a8c8.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_71ab5d97e7d00c3f7367985c421b6599329a6059.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_c4e004d91a94428cc40bf68b5b5e18008ca6ae73.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_a05f56f77ed3fcfe46e83d38b9e6c0932125234d.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_9c2f967717b586584ce35fc77e49ae023bdebeb2.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_37f6276fa3ab6d3b1778064d377397c99654b664.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_b2f8c446708f23239f5de8feecd7c148606217de.600x338.jpg?t=1620051036",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984300/ss_19f53151512acc86bc452fe07427df354741e048.600x338.jpg?t=1620051036"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >2D Physics Mayhem!</h2><br>Robozarro is a physics-based, 2-D action game, where robots B0-3 and 0-Ramatron embark on an epic quest through the outskirts, underbelly, and rooftops of Mech Angeles, to uncover the mystery surrounding the disappearance of Dr. Zarro.<h2 class=\"bb_tag\" >Features</h2><br><ul class=\"bb_ul\"><li>2D physics mayhem! Robozarro uses a 2D physics engine that brings the game's action to life, creating unpredictable encounters with enemies!</li></ul><br><ul class=\"bb_ul\"><li>Master the \"Grab N Blast\", a physics-manipulation tool that turns enemies and/or the environment into explosive weapons!</li></ul><br><ul class=\"bb_ul\"><li>Robots love junk! Collect Junk while adventuring through Mech Angeles and trade it in for Health, grenades, or ammo upgrades!</li></ul><br><ul class=\"bb_ul\"><li>Recover the Robo-Claw, Mega-Charge, and other gadgets that will aid in your journey across Mech Angeles!</li></ul><br><ul class=\"bb_ul\"><li>Gotta go fast! Unlock Time Trials Mode and attempt to beat levels with no checkpoints and/or no damage!</li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" >2D Physics Mayhem!</h2><br>Robozarro is a physics-based, 2-D action game, where robots B0-3 and 0-Ramatron embark on an epic quest through the outskirts, underbelly, and rooftops of Mech Angeles, to uncover the mystery surrounding the disappearance of Dr. Zarro.<h2 class=\"bb_tag\" >Features</h2><br><ul class=\"bb_ul\"><li>2D physics mayhem! Robozarro uses a 2D physics engine that brings the game's action to life, creating unpredictable encounters with enemies!</li></ul><br><ul class=\"bb_ul\"><li>Master the \"Grab N Blast\", a physics-manipulation tool that turns enemies and/or the environment into explosive weapons!</li></ul><br><ul class=\"bb_ul\"><li>Robots love junk! Collect Junk while adventuring through Mech Angeles and trade it in for Health, grenades, or ammo upgrades!</li></ul><br><ul class=\"bb_ul\"><li>Recover the Robo-Claw, Mega-Charge, and other gadgets that will aid in your journey across Mech Angeles!</li></ul><br><ul class=\"bb_ul\"><li>Gotta go fast! Unlock Time Trials Mode and attempt to beat levels with no checkpoints and/or no damage!</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 6,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 83.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -73,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 83.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 83.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Keyboard Engine",
   "slug": "keyboard-engine",
   "developer": "David Ko",
-  "publisher": "PIXIMAP",
-  "release_date": "Nov 29, 2017",
+  "publisher": "",
+  "release_date": "2017-11-29",
   "price_usd": 3.99,
   "genres": [
     "Utilities",
@@ -19,58 +19,21 @@
   ],
   "short_description": "The Keyboard Engine allows you to freely customize additional features of your keyboard. Use your add-ons to build your own keyboard. Also share your keyboard presets with others and meet new ones.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724070/header.jpg?t=1512019258",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724070/ss_8e43c1149c0be746c19ec5ab9c460047af0fd8e0.600x338.jpg?t=1512019258",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724070/ss_41a54117b849d118f438bf3af25c4829871aabdb.600x338.jpg?t=1512019258",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724070/ss_b50759442c1dde71052a1bfdd489386ee98f7aa2.600x338.jpg?t=1512019258",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724070/ss_02a261592b146e9601204d9d9f8476b394da1148.600x338.jpg?t=1512019258",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/724070/ss_a6f44445ad04e6ad5a43f8368a69c8053e377812.600x338.jpg?t=1512019258"
-  ],
-  "detailed_description": "The Keyboard Engine allows you to freely customize additional features of your keyboard. Use your add-ons to build your own keyboard. Also share your keyboard presets with others and meet new ones.<br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li>It can be set to perform the desired function to configure the keyboard button pressed.</li></ul><ul class=\"bb_ul\"><li>It has the following functions: Sound Play, Image Overlay Show, Text Auto-completion, Program Run</li></ul><ul class=\"bb_ul\"><li>The Sound Play function allows a specific sound to be played by pressing the preset keyboard button.</li></ul><ul class=\"bb_ul\"><li>The Image Overlay Show function allows a specific image to appear at the desired position on the monitor by pressing the preset keyboard button.</li></ul><ul class=\"bb_ul\"><li>The text Auto-completion function automatically execute the text by pressing a preset keyboard button.</li></ul><ul class=\"bb_ul\"><li>The Program Run function allows a specific program to be run by pressing a preset keyboard button.</li></ul><ul class=\"bb_ul\"><li>By combining the various functions described above, customize your own unique keyboard.</li></ul><br><strong>Workshop</strong><br>Integrated with Steam's Workshop, you can share your unique keyboard settings with others. You can also subscribe to keyboard settings created by others. Find creative settings created by someone with the same taste as you.",
-  "about_the_game": "The Keyboard Engine allows you to freely customize additional features of your keyboard. Use your add-ons to build your own keyboard. Also share your keyboard presets with others and meet new ones.<br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li>It can be set to perform the desired function to configure the keyboard button pressed.</li></ul><ul class=\"bb_ul\"><li>It has the following functions: Sound Play, Image Overlay Show, Text Auto-completion, Program Run</li></ul><ul class=\"bb_ul\"><li>The Sound Play function allows a specific sound to be played by pressing the preset keyboard button.</li></ul><ul class=\"bb_ul\"><li>The Image Overlay Show function allows a specific image to appear at the desired position on the monitor by pressing the preset keyboard button.</li></ul><ul class=\"bb_ul\"><li>The text Auto-completion function automatically execute the text by pressing a preset keyboard button.</li></ul><ul class=\"bb_ul\"><li>The Program Run function allows a specific program to be run by pressing a preset keyboard button.</li></ul><ul class=\"bb_ul\"><li>By combining the various functions described above, customize your own unique keyboard.</li></ul><br><strong>Workshop</strong><br>Integrated with Steam's Workshop, you can share your unique keyboard settings with others. You can also subscribe to keyboard settings created by others. Find creative settings created by someone with the same taste as you.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Workshop"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 39,
-  "review_positive": 27,
+  "review_positive": 0,
   "review_percentage": 69.2,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 31,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 38,
-      "review_percentage": 71.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 39,
-      "review_percentage": 69.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
+      "date": "2026-04-04",
       "review_count": 39,
       "review_percentage": 69.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

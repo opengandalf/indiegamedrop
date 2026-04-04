@@ -3,8 +3,8 @@
   "name": "The ScreaMaze",
   "slug": "the-screamaze",
   "developer": "White Puppet Studio",
-  "publisher": "White Puppet Studio",
-  "release_date": "Jan 10, 2019",
+  "publisher": "",
+  "release_date": "2019-01-10",
   "price_usd": 0.0,
   "genres": [
     "Indie"
@@ -17,31 +17,9 @@
   ],
   "short_description": "What score can you reach in this simple horror maze? Can you beat your best score and discover the scariest end?",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000600/header.jpg?t=1604081181",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000600/ss_9a261ce69ef8133a132a8a5d65f63444e336eff4.600x338.jpg?t=1604081181",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000600/ss_39bf68bfb5f2f860bd8020f1acad9b2e1827d058.600x338.jpg?t=1604081181",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000600/ss_6c95d7b452570999434d166c3425babae53a2462.600x338.jpg?t=1604081181",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000600/ss_fffe03fd6d3e04186e9f6119b41e21e1d23a220d.600x338.jpg?t=1604081181",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000600/ss_2965ab199b6c54d0a5af6de11af09129e2dc429c.600x338.jpg?t=1604081181"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Gameplay:</h2><br>Take your mouse and try to reach the exit of the maze <strong>without touching walls</strong> and <strong>before the end of the timer</strong>.<br><br>Will you try to beat your best score if you lose?<h2 class=\"bb_tag\" >Features:</h2><br><ul class=\"bb_ul\"><li> Very simple gameplay, you only need a mouse to play<br></li><li> Unlimited playing time with the procedural maze generation<br></li><li> Progressive difficulty<br></li><li> Your score is saved for the next time<br></li><li> Three different endings</li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" >Gameplay:</h2><br>Take your mouse and try to reach the exit of the maze <strong>without touching walls</strong> and <strong>before the end of the timer</strong>.<br><br>Will you try to beat your best score if you lose?<h2 class=\"bb_tag\" >Features:</h2><br><ul class=\"bb_ul\"><li> Very simple gameplay, you only need a mouse to play<br></li><li> Unlimited playing time with the procedural maze generation<br></li><li> Progressive difficulty<br></li><li> Your score is saved for the next time<br></li><li> Three different endings</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 16,
-  "review_positive": 11,
+  "review_positive": 0,
   "review_percentage": 68.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -49,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 14,
-      "review_percentage": 71.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 16,
       "review_percentage": 68.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

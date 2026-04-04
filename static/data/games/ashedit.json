@@ -3,8 +3,8 @@
   "name": "AshEdit",
   "slug": "ashedit",
   "developer": "Nooskewl",
-  "publisher": "Nooskewl",
-  "release_date": "Jun 30, 2020",
+  "publisher": "",
+  "release_date": "2020-06-30",
   "price_usd": 0.0,
   "genres": [
     "Game Development"
@@ -19,30 +19,15 @@
   ],
   "short_description": "AshEdit is a map editor for topdown 2D games.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329720/header.jpg?t=1597846514",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329720/ss_410022f9ecc5972d261812ffe9849755a17b0782.600x338.jpg?t=1597846514",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329720/ss_41572d7f88c1b305c933eadb799d59135859d629.600x338.jpg?t=1597846514",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329720/ss_3463eaf64177b95d46b9fb60a6645067c700fd32.600x338.jpg?t=1597846514",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329720/ss_529447ce939491c1610767033aaa5807b76a6e45.600x338.jpg?t=1597846514",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329720/ss_035e543060ef3f36b86a8f64f7dc5800f7b7228e.600x338.jpg?t=1597846514",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329720/ss_7740b2b1e7aeeecf0c1e13382242ac7dcba26e0f.600x338.jpg?t=1597846514"
-  ],
-  "detailed_description": "AshEdit is a map editor for topdown 2D games. It has been used as an in-house tool for many Nooskewl games. It saves a very simple binary map format that is easy to load.<br><br>AshEdit has lots of tools for editing maps, including most of the fundamental features of a sprite editor.<br><br><ul class=\"bb_ul\"><li>Multiple map layers and tile sheets<br></li><li>A pencil tool for drawing tiles that can draw tile groups and pick tiles with RMB<br></li><li>A fill tool with several options (clear fill, non-contiguous, test visible layers, fill with tile groups)<br></li><li>A clear tool for clearing tiles (can clear all layers)<br></li><li>A solids tool that toggles the walkable flag of a tile<br></li><li>A clone tool that clones from the tile sheet<br></li><li>A tool for moving tiles to different layers<br></li><li>Full-featured rectangular and magic wand selection (add, subtract, non-contiguous, test visible layers,) copy & paste<br></li><li>Macro recording/playback<br></li><li>Undo/redo for all operations<br></li><li>Scaling from 1x to 10x<br></li><li>Resizable map/sheet panels<br></li><li>Screenshot saving<br></li><li>Fast hardware accelerated drawing<br></li><li>And more...</li></ul>",
-  "about_the_game": "AshEdit is a map editor for topdown 2D games. It has been used as an in-house tool for many Nooskewl games. It saves a very simple binary map format that is easy to load.<br><br>AshEdit has lots of tools for editing maps, including most of the fundamental features of a sprite editor.<br><br><ul class=\"bb_ul\"><li>Multiple map layers and tile sheets<br></li><li>A pencil tool for drawing tiles that can draw tile groups and pick tiles with RMB<br></li><li>A fill tool with several options (clear fill, non-contiguous, test visible layers, fill with tile groups)<br></li><li>A clear tool for clearing tiles (can clear all layers)<br></li><li>A solids tool that toggles the walkable flag of a tile<br></li><li>A clone tool that clones from the tile sheet<br></li><li>A tool for moving tiles to different layers<br></li><li>Full-featured rectangular and magic wand selection (add, subtract, non-contiguous, test visible layers,) copy & paste<br></li><li>Macro recording/playback<br></li><li>Undo/redo for all operations<br></li><li>Scaling from 1x to 10x<br></li><li>Resizable map/sheet panels<br></li><li>Screenshot saving<br></li><li>Fast hardware accelerated drawing<br></li><li>And more...</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 5,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 60.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 60.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 60.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

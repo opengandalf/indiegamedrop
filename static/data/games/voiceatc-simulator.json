@@ -3,8 +3,8 @@
   "name": "VoiceATC Simulator",
   "slug": "voiceatc-simulator",
   "developer": "Lainoa Software",
-  "publisher": "Lainoa Software",
-  "release_date": "Apr 6, 2025",
+  "publisher": "",
+  "release_date": "2025-04-06",
   "price_usd": 4.99,
   "genres": [
     "Indie",
@@ -19,36 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "VoiceATC Simulator is a realistic Air Traffic Control simulation game centered around interacting with the traffic using your voice. Sequence aircraft into the runways in real airport configurations and sectoring.",
+  "short_description": "VoiceATC Simulator is a realistic Air Traffic Control simulation game centered around interacting with the traffic using your voice. Sequence aircraft into the runways in real airport configurations a",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3529560/header.jpg?t=1774296015",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3529560/294f5b7495045caf9ae8cd78a79ae361e36ca43d/ss_294f5b7495045caf9ae8cd78a79ae361e36ca43d.600x338.jpg?t=1774296015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3529560/de8c25e6f4ffb794ea6f18828d3e4feba3b6ebfc/ss_de8c25e6f4ffb794ea6f18828d3e4feba3b6ebfc.600x338.jpg?t=1774296015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3529560/0259d76fc2678a6bda17f78203ec1fe972736c8d/ss_0259d76fc2678a6bda17f78203ec1fe972736c8d.600x338.jpg?t=1774296015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3529560/8207ef5a8c79aca1b47520b4b029eef13778d80e/ss_8207ef5a8c79aca1b47520b4b029eef13778d80e.600x338.jpg?t=1774296015",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3529560/deafdde2ec53378ff38ff51759f6624a7417dab4/ss_deafdde2ec53378ff38ff51759f6624a7417dab4.600x338.jpg?t=1774296015"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Be an Air Traffic Controller! Command aircraft into the Instrument Landing System in order using your voice or clicking on the labels. Learn to give realistic instructions and sequence airplanes into your favorite airport.</p><h2 class=\"bb_tag\" >Official Airports</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Madrid (LEMD)</p></li><li><p class=\"bb_paragraph\" >Bilbao (LEBB)</p></li><li><p class=\"bb_paragraph\" >Barcelona (LEBL)</p></li><li><p class=\"bb_paragraph\" >Málaga (LEMG)</p></li><li><p class=\"bb_paragraph\" >Palma de Mallorca (LEPA)</p></li></ul><h2 class=\"bb_tag\" >Video Tutorials</h2><p class=\"bb_paragraph\" >A comprehensive written manual and detailed video tutorials are included with the game, covering essential topics such as user interface navigation, aviation fundamentals, and gameplay mechanics. These tutorials provide clear explanations and practical demonstrations to enhance your overall gaming experience.</p><h2 class=\"bb_tag\" >Realism</h2><p class=\"bb_paragraph\" >This is a simulator. The game is intended to use with your voice. Set a traffic count per hour and enjoy. Give vectoring, altitudes, speeds, transitions, direct to NAVAIDs, etc.</p><p class=\"bb_paragraph\" >Minimum altitudes are implemented, a low altitude alert will show up if a sector minima is violated.</p><p class=\"bb_paragraph\" >Traffic is generated using real routes, airlines and callsigns are realistic.</p><h2 class=\"bb_tag\" >Steam Workshop</h2><p class=\"bb_paragraph\" >The game supports Steam Workshop, thus, the real available airport potential is infinite. Game files are easy to comprehend and creating your own airports is not a challenging task!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3529560/extras/19e9350caf5c0e499127e11efb59e6ef.poster.avif?t=1774296015\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3529560/extras/19e9350caf5c0e499127e11efb59e6ef.webm?t=1774296015\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3529560/extras/19e9350caf5c0e499127e11efb59e6ef.mp4?t=1774296015\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Early access</h2><p class=\"bb_paragraph\" >VoiceATC Simulator is my first game and I push for high-quality standards. However, given the scope of this project, occasional bugs and errors may still occur.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Be an Air Traffic Controller! Command aircraft into the Instrument Landing System in order using your voice or clicking on the labels. Learn to give realistic instructions and sequence airplanes into your favorite airport.</p><h2 class=\"bb_tag\" >Official Airports</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Madrid (LEMD)</p></li><li><p class=\"bb_paragraph\" >Bilbao (LEBB)</p></li><li><p class=\"bb_paragraph\" >Barcelona (LEBL)</p></li><li><p class=\"bb_paragraph\" >Málaga (LEMG)</p></li><li><p class=\"bb_paragraph\" >Palma de Mallorca (LEPA)</p></li></ul><h2 class=\"bb_tag\" >Video Tutorials</h2><p class=\"bb_paragraph\" >A comprehensive written manual and detailed video tutorials are included with the game, covering essential topics such as user interface navigation, aviation fundamentals, and gameplay mechanics. These tutorials provide clear explanations and practical demonstrations to enhance your overall gaming experience.</p><h2 class=\"bb_tag\" >Realism</h2><p class=\"bb_paragraph\" >This is a simulator. The game is intended to use with your voice. Set a traffic count per hour and enjoy. Give vectoring, altitudes, speeds, transitions, direct to NAVAIDs, etc.</p><p class=\"bb_paragraph\" >Minimum altitudes are implemented, a low altitude alert will show up if a sector minima is violated.</p><p class=\"bb_paragraph\" >Traffic is generated using real routes, airlines and callsigns are realistic.</p><h2 class=\"bb_tag\" >Steam Workshop</h2><p class=\"bb_paragraph\" >The game supports Steam Workshop, thus, the real available airport potential is infinite. Game files are easy to comprehend and creating your own airports is not a challenging task!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3529560/extras/19e9350caf5c0e499127e11efb59e6ef.poster.avif?t=1774296015\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3529560/extras/19e9350caf5c0e499127e11efb59e6ef.webm?t=1774296015\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3529560/extras/19e9350caf5c0e499127e11efb59e6ef.mp4?t=1774296015\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Early access</h2><p class=\"bb_paragraph\" >VoiceATC Simulator is my first game and I push for high-quality standards. However, given the scope of this project, occasional bugs and errors may still occur.</p>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Workshop",
-    "Steam Workshop",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0178,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 23.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 28,
-  "review_positive": 25,
+  "review_positive": 0,
   "review_percentage": 89.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 28,
       "review_percentage": 89.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

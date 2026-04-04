@@ -3,8 +3,8 @@
   "name": "Positron",
   "slug": "positron",
   "developer": "Retroburn",
-  "publisher": "Retroburn",
-  "release_date": "Nov 21, 2024",
+  "publisher": "",
+  "release_date": "2024-11-21",
   "price_usd": 10.04,
   "genres": [
     "Action",
@@ -23,66 +23,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Positron is a fast paced arcade style game inspired by the classic arcade games of the 80's, namely Tron, Battlezone, Tempest, and Star Wars. Battle against opponents in the Arena, navigate your way out of the Maze, and collect power-ups while avoiding your own trail in Snake.",
+  "short_description": "Positron is a fast paced arcade style game inspired by the classic arcade games of the 80's, namely Tron, Battlezone, Tempest, and Star Wars. Battle against opponents in the Arena, navigate your way o",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/b85b58905f14aeccb9c35144aaff170be2a36d31/header.jpg?t=1771261126",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/077cdbb915c40d57dc91df998971dcd8585bace2/ss_077cdbb915c40d57dc91df998971dcd8585bace2.600x338.jpg?t=1771261126",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/7ada3f8412daa804e372ce95340c9b5916c06f9a/ss_7ada3f8412daa804e372ce95340c9b5916c06f9a.600x338.jpg?t=1771261126",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/06847664c2e336164b0f0c1e4f4b1e24223ab7f5/ss_06847664c2e336164b0f0c1e4f4b1e24223ab7f5.600x338.jpg?t=1771261126",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/6857b99b4f9467a84c98b5e1a91b23f42df37cdb/ss_6857b99b4f9467a84c98b5e1a91b23f42df37cdb.600x338.jpg?t=1771261126",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/46e6488c833df801049344480aa54803f8b55b00/ss_46e6488c833df801049344480aa54803f8b55b00.600x338.jpg?t=1771261126"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/extras/af043e54480695aa80933e816d3dc0d3.poster.avif?t=1771261126\" width=616 height=154 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/extras/af043e54480695aa80933e816d3dc0d3.webm?t=1771261126\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/extras/af043e54480695aa80933e816d3dc0d3.mp4?t=1771261126\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Positron is a fast paced arcade style game inspired by the classic arcade games of the 80's, namely Tron, Battlezone, Tempest, and Star Wars. Battle against opponents in the Arena, navigate your way out of the Maze, and collect power-ups while avoiding your own trail in Snake. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Combining elements of these arcade classics, adding bright modern 3D neon visuals, enhanced effects, and super smooth gameplay. Positron enforces the core game mechanics seen in those original games, in a fresh new way.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/extras/1e40c7e337b3d8db6445568034c04364.poster.avif?t=1771261126\" width=616 height=154 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/extras/1e40c7e337b3d8db6445568034c04364.webm?t=1771261126\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/extras/1e40c7e337b3d8db6445568034c04364.mp4?t=1771261126\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Battle against A.I. opponents or split-screen against friends in the Arena. Fight to eliminate your opponents in deathmatch style battles, set across dozens of arenas.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >Navigate complex mazes, find your way to the exit then try to set the fastest time on the leaderboards. Featuring hundreds of mazes split across three distinct difficulties.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Collect power-ups which grow your trail and avoid destroying yourself in Snake. Challenge yourself to survive as long as you can, or compete against a friend in splt-screen multiplayer.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/extras/a56ac645649c26a73a697387d04ff24e.poster.avif?t=1771261126\" width=616 height=154 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/extras/a56ac645649c26a73a697387d04ff24e.webm?t=1771261126\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/extras/a56ac645649c26a73a697387d04ff24e.mp4?t=1771261126\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Positron is designed and developed by Martin Caine, as a side-project alongside his full time job working as a programmer in the games industry. <br> <br>The game is programmed in C++ using a bespoke custom engine, which will also be used to bring the game to further platforms.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/extras/af043e54480695aa80933e816d3dc0d3.poster.avif?t=1771261126\" width=616 height=154 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/extras/af043e54480695aa80933e816d3dc0d3.webm?t=1771261126\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/extras/af043e54480695aa80933e816d3dc0d3.mp4?t=1771261126\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Positron is a fast paced arcade style game inspired by the classic arcade games of the 80's, namely Tron, Battlezone, Tempest, and Star Wars. Battle against opponents in the Arena, navigate your way out of the Maze, and collect power-ups while avoiding your own trail in Snake. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Combining elements of these arcade classics, adding bright modern 3D neon visuals, enhanced effects, and super smooth gameplay. Positron enforces the core game mechanics seen in those original games, in a fresh new way.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/extras/1e40c7e337b3d8db6445568034c04364.poster.avif?t=1771261126\" width=616 height=154 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/extras/1e40c7e337b3d8db6445568034c04364.webm?t=1771261126\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/extras/1e40c7e337b3d8db6445568034c04364.mp4?t=1771261126\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Battle against A.I. opponents or split-screen against friends in the Arena. Fight to eliminate your opponents in deathmatch style battles, set across dozens of arenas.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >Navigate complex mazes, find your way to the exit then try to set the fastest time on the leaderboards. Featuring hundreds of mazes split across three distinct difficulties.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Collect power-ups which grow your trail and avoid destroying yourself in Snake. Challenge yourself to survive as long as you can, or compete against a friend in splt-screen multiplayer.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/extras/a56ac645649c26a73a697387d04ff24e.poster.avif?t=1771261126\" width=616 height=154 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/extras/a56ac645649c26a73a697387d04ff24e.webm?t=1771261126\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374780/extras/a56ac645649c26a73a697387d04ff24e.mp4?t=1771261126\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Positron is designed and developed by Martin Caine, as a side-project alongside his full time job working as a programmer in the games industry. <br> <br>The game is programmed in C++ using a bespoke custom engine, which will also be used to bring the game to further platforms.</p>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Cloud",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0015,
   "gem_score": 0.954,
   "hype_score": 0.0,
-  "review_velocity_7d": 7.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 26,
-  "review_positive": 26,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 19,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 26,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 26,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Slime & Friends",
   "slug": "slime-friends",
   "developer": "Heartomics",
-  "publisher": "Heartomics",
-  "release_date": "Mar 24, 2016",
+  "publisher": "",
+  "release_date": "2016-03-24",
   "price_usd": 0.99,
   "genres": [
     "Casual"
@@ -17,60 +17,21 @@
   ],
   "short_description": "Pew, pew, and pew.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/456660/header.jpg?t=1532802617",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/456660/ss_dfad1f653b3a84a916f833af02f256695addc6bf.600x338.jpg?t=1532802617",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/456660/ss_28395805c3d0c8979149a0cc2f1bda67ef1e5d4c.600x338.jpg?t=1532802617",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/456660/ss_27b60830287813bf97e0103ba4e8306625250271.600x338.jpg?t=1532802617",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/456660/ss_3bc19e47f89b93d82cca80ac2125f7d8d9ee5685.600x338.jpg?t=1532802617",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/456660/ss_aa8a35ff6caec8333001fa84c452e72aa001e99a.600x338.jpg?t=1532802617"
-  ],
-  "detailed_description": "Slime & Friends<br />\r\nExplore an unstable world dedicated to those that love to dodge, grind, level up, and kill monsters.",
-  "about_the_game": "Slime & Friends<br />\r\nExplore an unstable world dedicated to those that love to dodge, grind, level up, and kill monsters.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Trading Cards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 72,
-  "review_positive": 32,
+  "review_positive": 0,
   "review_percentage": 44.4,
   "owner_estimate": 150000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 250,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 73,
-      "review_percentage": 45.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 72,
-      "review_percentage": 44.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-29",
+      "date": "2026-04-04",
       "review_count": 72,
       "review_percentage": 44.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

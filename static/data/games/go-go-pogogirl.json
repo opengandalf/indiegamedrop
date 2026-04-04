@@ -3,8 +3,8 @@
   "name": "Go! Go! PogoGirl",
   "slug": "go-go-pogogirl",
   "developer": "Ohsat Games",
-  "publisher": "Ohsat Games",
-  "release_date": "Jan 26, 2022",
+  "publisher": "",
+  "release_date": "2022-01-26",
   "price_usd": 2.09,
   "genres": [
     "Action",
@@ -17,57 +17,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Jump on your pogo stick and bounce, bounce, bounce! Go! Go! PogoGirl is a dynamic, cute and wholesome platformer about a girl and her pogo stick. Bounce your way through the world, collect gems and then bounce some more!",
+  "short_description": "Jump on your pogo stick and bounce, bounce, bounce! Go! Go! PogoGirl is a dynamic, cute and wholesome platformer about a girl and her pogo stick. Bounce your way through the world, collect gems and th",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1681010/header.jpg?t=1671719232",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1681010/ss_3698f804a334df60fb21b397efd3641f27751993.600x338.jpg?t=1671719232",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1681010/ss_6146759f8f984eabcbb373cbeed519ba0cc1c885.600x338.jpg?t=1671719232",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1681010/ss_c1343c0289ee101eb815380e2ece799cf1f541d4.600x338.jpg?t=1671719232",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1681010/ss_341d0571f692b93e0f2122a3a671b03934d653ee.600x338.jpg?t=1671719232",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1681010/ss_befc77aee0dd4ab26082a49fe461c02873aac501.600x338.jpg?t=1671719232"
-  ],
-  "detailed_description": "<strong>Jump on your pogo stick and bounce, bounce, bounce!</strong><br><br>Go! Go! PogoGirl is a dynamic, cute and wholesome platformer about a girl and her pogo stick. Bounce your way through the world, collect gems and then bounce some more!<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Never stop bouncing - never stop platforming!<br></li><li>4 seasons with 5 levels each<br></li><li>Bouncy boss fights<br></li><li>Hidden gems, levels, features and cheats<br></li><li>Yes, I mean push-button cheats like in the old days</li></ul><br>Having grown up with 90's platformers like Sonic the Hedgehog, Castle of Illusion, Rocket Knight Adventures and others, it was only natural that I'd create a love-letter to the games that defined my childhood. And that loveletter is Go! Go! PogoGirl!<br><br>I've tried to capture what made these games so special, from the colorful graphics, to the fluid gameplay, up to small details like idle animations. I also added a sound test and actual push-button cheats to complete the experience. Now we just need a physical magazine to tell players what they are...<br><br>The game was developed solo by me, with Peter \"Reflekshun\" Mullins providing the amazing soundtrack and Robert Keder whipping up some amazing key artwork. The game was coded in Haxe and is powered by the HaxeFlixel framework. As it is a labor of love done alongside several real life jobs, it took longer to finish than it should have. But now it's done!",
-  "about_the_game": "<strong>Jump on your pogo stick and bounce, bounce, bounce!</strong><br><br>Go! Go! PogoGirl is a dynamic, cute and wholesome platformer about a girl and her pogo stick. Bounce your way through the world, collect gems and then bounce some more!<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Never stop bouncing - never stop platforming!<br></li><li>4 seasons with 5 levels each<br></li><li>Bouncy boss fights<br></li><li>Hidden gems, levels, features and cheats<br></li><li>Yes, I mean push-button cheats like in the old days</li></ul><br>Having grown up with 90's platformers like Sonic the Hedgehog, Castle of Illusion, Rocket Knight Adventures and others, it was only natural that I'd create a love-letter to the games that defined my childhood. And that loveletter is Go! Go! PogoGirl!<br><br>I've tried to capture what made these games so special, from the colorful graphics, to the fluid gameplay, up to small details like idle animations. I also added a sound test and actual push-button cheats to complete the experience. Now we just need a physical magazine to tell players what they are...<br><br>The game was developed solo by me, with Peter \"Reflekshun\" Mullins providing the amazing soundtrack and Robert Keder whipping up some amazing key artwork. The game was coded in Haxe and is powered by the HaxeFlixel framework. As it is a labor of love done alongside several real life jobs, it took longer to finish than it should have. But now it's done!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.9057,
   "hype_score": 0.0,
   "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 36,
-  "review_positive": 36,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 36,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 36,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

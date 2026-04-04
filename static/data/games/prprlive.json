@@ -3,8 +3,8 @@
   "name": "PrprLive",
   "slug": "prprlive",
   "developer": "1-reality",
-  "publisher": "1-reality",
-  "release_date": "May 14, 2020",
+  "publisher": "",
+  "release_date": "2020-05-14",
   "price_usd": 0.0,
   "genres": [
     "Free To Play",
@@ -23,29 +23,9 @@
   ],
   "short_description": "PrPrive is a Live2D live broadcast assistant software developed by us. The software can achieve a high frame rate, multi-expression switching, targetless auto-drop frame at a lower CPU occupancy.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279610/header.jpg?t=1718628166",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279610/ss_a90ec740bee1c97e0b4f861f9816db2508956d8d.600x338.jpg?t=1718628166",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279610/ss_9c76023d81104acf6a8d507499bb73f438f733ae.600x338.jpg?t=1718628166",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279610/ss_64f98f8793dfa61b31dede507174e7c3e0e3aef0.600x338.jpg?t=1718628166",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279610/ss_dd69b7abdcfc5b1b93df0cf29c964552a2b2617c.600x338.jpg?t=1718628166",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279610/ss_6af7336809253eddaef9679133be240a0aede9e4.600x338.jpg?t=1718628166"
-  ],
-  "detailed_description": "PrPrive is a Live2D live broadcast assistant software developed by us. The software can achieve high frame rate, multi-expression switching, targetless auto-drop frame at a lower CPU occupancy, while the software also supports transparent push streaming, gift drop interaction, Live2D lighting, and other powerful features to make your live broadcast have better results.<br />\r\ncharacteristic<br />\r\nHigh-frame rate Live2D animation with low resource consumption through high-performance facial capture.<br />\r\n-No need for a specific device, just a camera for face capture<br />\r\n-Multi-expression switching is supported to make your live interaction stronger.<br />\r\nNo-targeted automatic frame drops, further reducing the resource drain on the system.<br />\r\n-Transparent push flow, reducing the number of operating steps and making it less difficult to use.<br />\r\n-Gift drop interaction, the physical collision effect between the standup and the gift gives the viewer a better interactive experience (this feature supports FaceRig output).<br />\r\n-Live2D lighting to make your stills more vivid.<br />\r\n-Connected interactions, in which the elements in the live broadcast are changed to correspond to the audience's interactive content according to the settings.",
-  "about_the_game": "PrPrive is a Live2D live broadcast assistant software developed by us. The software can achieve high frame rate, multi-expression switching, targetless auto-drop frame at a lower CPU occupancy, while the software also supports transparent push streaming, gift drop interaction, Live2D lighting, and other powerful features to make your live broadcast have better results.<br />\r\ncharacteristic<br />\r\nHigh-frame rate Live2D animation with low resource consumption through high-performance facial capture.<br />\r\n-No need for a specific device, just a camera for face capture<br />\r\n-Multi-expression switching is supported to make your live interaction stronger.<br />\r\nNo-targeted automatic frame drops, further reducing the resource drain on the system.<br />\r\n-Transparent push flow, reducing the number of operating steps and making it less difficult to use.<br />\r\n-Gift drop interaction, the physical collision effect between the standup and the gift gives the viewer a better interactive experience (this feature supports FaceRig output).<br />\r\n-Live2D lighting to make your stills more vivid.<br />\r\n-Connected interactions, in which the elements in the live broadcast are changed to correspond to the audience's interactive content according to the settings.",
-  "supported_languages": "Simplified Chinese, English, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 1421,
-  "review_positive": 976,
+  "review_positive": 0,
   "review_percentage": 68.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1417,
-      "review_percentage": 69.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1421,
       "review_percentage": 68.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

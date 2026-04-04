@@ -3,8 +3,8 @@
   "name": "Da Tutu",
   "slug": "da-tutu",
   "developer": "兔兔的游戏",
-  "publisher": "兔兔的游戏",
-  "release_date": "Oct 18, 2022",
+  "publisher": "",
+  "release_date": "2022-10-18",
   "price_usd": 1.99,
   "genres": [
     "Casual"
@@ -17,34 +17,15 @@
   ],
   "short_description": "\"Da Tutu\" is a minimalist leisure game, waving a stick to let the rabbit take off.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2160460/header.jpg?t=1666341891",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2160460/ss_6e1b0bb65dd7707db1140061f389f384f25c9756.600x338.jpg?t=1666341891",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2160460/ss_5d83efec091fc4ee555c39bbd774234df22172cc.600x338.jpg?t=1666341891",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2160460/ss_0bf56d840a66a5d496512b9bfdf94576f5961f82.600x338.jpg?t=1666341891",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2160460/ss_1b5cdc6f132d6867aa03889b4c831915e6bcc504.600x338.jpg?t=1666341891",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2160460/ss_fe7ea8bbc6e8683e3fddbfaa8e9b6448ff09f6b6.600x338.jpg?t=1666341891"
-  ],
-  "detailed_description": "Da Tutu is a minimalist leisure game. You will play a little savage. Before the rabbit falls to the ground, hit it with a wooden stick to make it fly far enough.<br><br>The game is very short, maybe only 1 minute. But you can relax in the fragmented time and challenge the rabbit to fly the farthest distance.<h2 class=\"bb_tag\" > Feature list </h2><strong> Two themes are available: </strong> snowy, volcano<br><br><strong> Four kinds of rabbits: </strong> black, brown, gray, white<br><br><strong> Three kinds of swing: </strong> 1 stick, 3 sticks, 5 sticks<br><br><strong> At the same time, it supports multilingual, achievement, cloud archiving, high score records, and cumulative swing records </strong>",
-  "about_the_game": "Da Tutu is a minimalist leisure game. You will play a little savage. Before the rabbit falls to the ground, hit it with a wooden stick to make it fly far enough.<br><br>The game is very short, maybe only 1 minute. But you can relax in the fragmented time and challenge the rabbit to fly the farthest distance.<h2 class=\"bb_tag\" > Feature list </h2><strong> Two themes are available: </strong> snowy, volcano<br><br><strong> Four kinds of rabbits: </strong> black, brown, gray, white<br><br><strong> Three kinds of swing: </strong> 1 stick, 3 sticks, 5 sticks<br><br><strong> At the same time, it supports multilingual, achievement, cloud archiving, high score records, and cumulative swing records </strong>",
-  "supported_languages": "English, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 4,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "3D Desktop Pets",
   "slug": "3d-desktop-pets",
   "developer": "ZombieJuly",
-  "publisher": "ZombieJuly",
-  "release_date": "Feb 4, 2025",
+  "publisher": "",
+  "release_date": "2025-02-04",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -25,35 +25,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "This is an application software for 3D desktop pets. It supports importing  most 3D format models, such as (VRM/FBX/OBJ/glTF2, etc.). Currently, users can only upload VRM files to support various basic actions, motion capture and cloning movements from uploaded videos.",
+  "short_description": "This is an application software for 3D desktop pets. It supports importing  most 3D format models, such as (VRM/FBX/OBJ/glTF2, etc.). Currently, users can only upload VRM files to support various basi",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404940/header.jpg?t=1759232268",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404940/9e11af3ce57e85ba5cc39acfaae29825b4b36466/ss_9e11af3ce57e85ba5cc39acfaae29825b4b36466.600x338.jpg?t=1759232268",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404940/cb7e9435736f6127ddd340baa850e42e6a36ddeb/ss_cb7e9435736f6127ddd340baa850e42e6a36ddeb.600x338.jpg?t=1759232268",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404940/1c5bceb4fc20c76fdacbdfdd495ca1f631b8bb70/ss_1c5bceb4fc20c76fdacbdfdd495ca1f631b8bb70.600x338.jpg?t=1759232268",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404940/c2197a922a2bf2a30e4d21d273cc50b999bd1aa7/ss_c2197a922a2bf2a30e4d21d273cc50b999bd1aa7.600x338.jpg?t=1759232268",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3404940/84a58be361419d136523d4887d04a6cc2ee16d2e/ss_84a58be361419d136523d4887d04a6cc2ee16d2e.600x338.jpg?t=1759232268"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >This is an application software for 3D desktop pets.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >It supports importing  most 3D format models, such as (VRM/FBX/OBJ/glTF2, etc.).</p></li><li><p class=\"bb_paragraph\" >Currently, users can only upload VRM files to support various basic actions, motion capture and cloning movements from uploaded videos.</p></li><li><p class=\"bb_paragraph\" >It supports desktop special effects, such as the effects of rain, fireworks, mouse trails and so on.</p><p class=\"bb_paragraph\" >Disclaimer: Some of the models demonstrated can be downloaded from the Creative Workshop. The application does not come with the models demonstrated directly.</p></li></ul>",
-  "about_the_game": "<p class=\"bb_paragraph\" >This is an application software for 3D desktop pets.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >It supports importing  most 3D format models, such as (VRM/FBX/OBJ/glTF2, etc.).</p></li><li><p class=\"bb_paragraph\" >Currently, users can only upload VRM files to support various basic actions, motion capture and cloning movements from uploaded videos.</p></li><li><p class=\"bb_paragraph\" >It supports desktop special effects, such as the effects of rain, fireworks, mouse trails and so on.</p><p class=\"bb_paragraph\" >Disclaimer: Some of the models demonstrated can be downloaded from the Creative Workshop. The application does not come with the models demonstrated directly.</p></li></ul>",
-  "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Workshop"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 11.0,
+  "review_velocity_7d": 0.6000000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 12,
-  "review_positive": 9,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -61,19 +43,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 12,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

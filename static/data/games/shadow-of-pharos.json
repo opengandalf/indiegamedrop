@@ -3,8 +3,8 @@
   "name": "Shadow of Pharos",
   "slug": "shadow-of-pharos",
   "developer": "Team Gaivot",
-  "publisher": "Team Gaivot",
-  "release_date": "Jul 19, 2024",
+  "publisher": "",
+  "release_date": "2024-07-19",
   "price_usd": 0.0,
   "genres": [
     "Indie",
@@ -19,37 +19,9 @@
   ],
   "short_description": "Shadow of Pharos is a short first-person horror game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3025630/header.jpg?t=1727877085",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3025630/ss_7f341c62866afd15d6f6605e1c482557036e5380.600x338.jpg?t=1727877085",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3025630/ss_31607db5d1209436d80ea08b8a4d7ab5c95dff2a.600x338.jpg?t=1727877085",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3025630/ss_d302939185d4abcc4c5660658933804e039055c6.600x338.jpg?t=1727877085",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3025630/ss_f6d9c743d6c87c0ce3512c230f3a94be53554bb9.600x338.jpg?t=1727877085",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3025630/ss_456631555dbdb700bd092376181f724aa125b345.600x338.jpg?t=1727877085",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3025630/ss_272e8ce1e26f834103ac37af21db745dc845e540.600x338.jpg?t=1727877085",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3025630/ss_26e92ee82131354785cb2318ccfcd0427a5806e6.600x338.jpg?t=1727877085"
-  ],
-  "detailed_description": "Shadow of Pharos is a short first-person horror game.<br><br>The game aims to be a fully immersive experience and has no UI by default. To enable accessibility options and general settings, input the following command using the keyboard arrow keys or the controller D-Pad:<br><strong>left, right, left, right, down, down</strong><br><br>The menu will then be accessible by pressing <strong>ESC</strong> on the keyboard or <strong>Back/Share</strong> on a controller.<h2 class=\"bb_tag\" >Default Controls:</h2><ul class=\"bb_ul\"><li> <strong>Movement:</strong> WASD on keyboard | Left Analog on controller<br></li><li> <strong>Look Around:</strong> Mouse | Right Analog on controller<br></li><li> <strong>Interact:</strong> E on keyboard | Cross/A on controller<br></li><li> <strong>Flashlight:</strong> F on keyboard | Square/X on controller<br></li><li> <strong>Notes:</strong> Tab on keyboard | Options/Start on controller</li></ul><br><strong>Disclaimer: The game's soundtrack was made specifically for the game, and is safe to play on videos/stream.</strong> It's also available for free on TeamGaivot's YouTube channel. If you enjoyed the game, consider supporting the team by purchasing the soundtrack here on Steam and wishlisting our next game Pharos.",
-  "about_the_game": "Shadow of Pharos is a short first-person horror game.<br><br>The game aims to be a fully immersive experience and has no UI by default. To enable accessibility options and general settings, input the following command using the keyboard arrow keys or the controller D-Pad:<br><strong>left, right, left, right, down, down</strong><br><br>The menu will then be accessible by pressing <strong>ESC</strong> on the keyboard or <strong>Back/Share</strong> on a controller.<h2 class=\"bb_tag\" >Default Controls:</h2><ul class=\"bb_ul\"><li> <strong>Movement:</strong> WASD on keyboard | Left Analog on controller<br></li><li> <strong>Look Around:</strong> Mouse | Right Analog on controller<br></li><li> <strong>Interact:</strong> E on keyboard | Cross/A on controller<br></li><li> <strong>Flashlight:</strong> F on keyboard | Square/X on controller<br></li><li> <strong>Notes:</strong> Tab on keyboard | Options/Start on controller</li></ul><br><strong>Disclaimer: The game's soundtrack was made specifically for the game, and is safe to play on videos/stream.</strong> It's also available for free on TeamGaivot's YouTube channel. If you enjoyed the game, consider supporting the team by purchasing the soundtrack here on Steam and wishlisting our next game Pharos.",
-  "supported_languages": "English<strong>*</strong>, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Captions available",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 19.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 90,
-  "review_positive": 62,
+  "review_positive": 0,
   "review_percentage": 68.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 71,
-      "review_percentage": 70.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 90,
       "review_percentage": 68.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

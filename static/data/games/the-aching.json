@@ -3,8 +3,8 @@
   "name": "The Aching",
   "slug": "the-aching",
   "developer": "Silent Shoals Software",
-  "publisher": "Hadrosaurus Software",
-  "release_date": "Apr 5, 2023",
+  "publisher": "",
+  "release_date": "2023-04-05",
   "price_usd": 9.99,
   "genres": [
     "Adventure",
@@ -19,56 +19,29 @@
     "mac",
     "linux"
   ],
-  "short_description": "In a dark world somewhere between dream and nightmare you find yourself alone, cold, and without memory of who you are or where you came from. Guided by little more than a silver locket and questions, you must find your way off an isolated island in pursuit of answers.",
+  "short_description": "In a dark world somewhere between dream and nightmare you find yourself alone, cold, and without memory of who you are or where you came from. Guided by little more than a silver locket and questions,",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295210/header.jpg?t=1751054810",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295210/ss_cb3942f1e34cbf003b9d519611296f49b608742b.600x338.jpg?t=1751054810",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295210/ss_c52e4ace4ab3319f7668edad428f69bd417be0dd.600x338.jpg?t=1751054810",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295210/ss_031e3f66c55d436f83d5607a4369949b77d381fa.600x338.jpg?t=1751054810",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295210/ss_2a033c37c25b14ccee6a9da7dbe22123ce2d685e.600x338.jpg?t=1751054810",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295210/ss_436b03decbcf6004cf8fe9190cb4423035307370.600x338.jpg?t=1751054810",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2295210/ss_ba49dc6df587971c5d6ebc3564d6e729d7ad20d1.600x338.jpg?t=1751054810"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><i>The Aching</i> is a graphical horror adventure game from the demented mind of the Lobdegg, heavily inspired by the old graphic adventure games Sierra and LucasArts released in the 1980s. This title features low resolution 16-color graphics adhering to the extremely limited hardware of the era. Gameplay is driven by a combination of arrow keys and a classic-style parser. Whatever you wish your character to do, merely type it into the prompt and hit Enter.</p><p class=\"bb_paragraph\" > You play as a pale creature who awakens in a cave with no clue as to your identity or current situation beyond a small locket and a patch of cave wall painted in what you hope is red paint. Now you must explore this other world trying to find answers about your past.</p><p class=\"bb_paragraph\" >The engine behind <i>The Aching</i> was designed to run on an actual Tandy 1000 computer off of a single floppy disk. For modern computers we emulate the Tandy 1000 environment so that the intended experience can be enjoyed with or without access to one of these old, and now rare, computers.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><i>The Aching</i> is a graphical horror adventure game from the demented mind of the Lobdegg, heavily inspired by the old graphic adventure games Sierra and LucasArts released in the 1980s. This title features low resolution 16-color graphics adhering to the extremely limited hardware of the era. Gameplay is driven by a combination of arrow keys and a classic-style parser. Whatever you wish your character to do, merely type it into the prompt and hit Enter.</p><p class=\"bb_paragraph\" > You play as a pale creature who awakens in a cave with no clue as to your identity or current situation beyond a small locket and a patch of cave wall painted in what you hope is red paint. Now you must explore this other world trying to find answers about your past.</p><p class=\"bb_paragraph\" >The engine behind <i>The Aching</i> was designed to run on an actual Tandy 1000 computer off of a single floppy disk. For modern computers we emulate the Tandy 1000 environment so that the intended experience can be enjoyed with or without access to one of these old, and now rare, computers.</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.9345,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 22,
-  "review_positive": 21,
+  "review_positive": 0,
   "review_percentage": 95.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 20,
-      "review_percentage": 95.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 22,
       "review_percentage": 95.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

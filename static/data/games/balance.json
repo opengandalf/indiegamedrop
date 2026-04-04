@@ -3,8 +3,8 @@
   "name": "Balance",
   "slug": "balance",
   "developer": "Wool Tyranny",
-  "publisher": "Wool Tyranny",
-  "release_date": "Apr 26, 2024",
+  "publisher": "",
+  "release_date": "2024-04-26",
   "price_usd": 0.99,
   "genres": [
     "Casual"
@@ -15,34 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Eliminate squares while preventing the numbers from reaching 0. You play on a 4x4 grid. Each time you press a square, the numbers on squares of the same row or column are raised by 1 while the others decrease by 1. When a square reaches 7, it's eliminated. When you eliminate all squares, you win.",
+  "short_description": "Eliminate squares while preventing the numbers from reaching 0. You play on a 4x4 grid. Each time you press a square, the numbers on squares of the same row or column are raised by 1 while the others ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2930070/header.jpg?t=1714231607",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2930070/ss_6ae80e6e47b8d53fa3aec02d34159421e668632c.600x338.jpg?t=1714231607",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2930070/ss_93e5779586a482e6ced31602347a62ab83f1db48.600x338.jpg?t=1714231607",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2930070/ss_341b6bc6f580117d2939c0697bc308a26b25854b.600x338.jpg?t=1714231607",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2930070/ss_c0296342f9db82574dd54eed3f74f98c917c243a.600x338.jpg?t=1714231607",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2930070/ss_be4e4fa0899ddedfae86535f184763b75cd2ad32.600x338.jpg?t=1714231607"
-  ],
-  "detailed_description": "<strong><i>Balance</i></strong> is a number puzzle.<br><br>You play on a 4x4 grid. Each time you press a square, the numbers on squares of the same row or column are raised by 1 while the others decrease by 1. When a square reaches 7, it's eliminated. When you eliminate all squares, you win.<br><br>The challenge is to eliminate all squares without any square reaching 0. From our experience, every game is beatable, but it takes some attempts to build intuition, so don't give up easily.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2930070/extras/e21a5fa0261809f59fcb7722c10b4c98.poster.avif?t=1714231607\" width=271 height=275 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2930070/extras/e21a5fa0261809f59fcb7722c10b4c98.webm?t=1714231607\" type=\"video/webm; codecs=vp9\"></video></span>",
-  "about_the_game": "<strong><i>Balance</i></strong> is a number puzzle.<br><br>You play on a 4x4 grid. Each time you press a square, the numbers on squares of the same row or column are raised by 1 while the others decrease by 1. When a square reaches 7, it's eliminated. When you eliminate all squares, you win.<br><br>The challenge is to eliminate all squares without any square reaching 0. From our experience, every game is beatable, but it takes some attempts to build intuition, so don't give up easily.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2930070/extras/e21a5fa0261809f59fcb7722c10b4c98.poster.avif?t=1714231607\" width=271 height=275 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2930070/extras/e21a5fa0261809f59fcb7722c10b4c98.webm?t=1714231607\" type=\"video/webm; codecs=vp9\"></video></span>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

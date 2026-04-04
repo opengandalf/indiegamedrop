@@ -3,8 +3,8 @@
   "name": "Data Thief",
   "slug": "data-thief",
   "developer": "Ottercopter",
-  "publisher": "Ottercopter Studios, LLC",
-  "release_date": "Apr 10, 2018",
+  "publisher": "",
+  "release_date": "2018-04-10",
   "price_usd": 0.0,
   "genres": [
     "Indie"
@@ -15,37 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Data Thief is a 3D VR puzzle game set in a technology-themed world where the player must solve a series of laser grid puzzles in order to steal priceless data. The more high priority the hard drive, the harder it is to bypass security measures!",
+  "short_description": "Data Thief is a 3D VR puzzle game set in a technology-themed world where the player must solve a series of laser grid puzzles in order to steal priceless data. The more high priority the hard drive, t",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682740/header.jpg?t=1584586803",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682740/ss_538562ce7900cbf99bc3c4ec088ee7b897751126.600x338.jpg?t=1584586803",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682740/ss_ade64f29a02e2f315bee96e92058304df86fa756.600x338.jpg?t=1584586803",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682740/ss_45be306131abb0ea7daaf7293bbd35f9bc0e2154.600x338.jpg?t=1584586803",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682740/ss_3abf7e4ea692cd8ed58bb952ec863ca6b80e66c7.600x338.jpg?t=1584586803",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682740/ss_0184df369117d416b82833207d6967bde7f490a1.600x338.jpg?t=1584586803"
-  ],
-  "detailed_description": "Data Thief is a VR puzzle game where the player's goal is to solve light puzzles by redirecting, splitting, and merging colored beams of light in order to reach and obtain a piece of data. The player is only able to view one primary color at a time, alongside secondary colors composed of that primary color. While the spectrum limitation does hinder the player's ability to see the full picture, it allows them to move without fear of coming in contact with the dangerous beams of concentrated light.",
-  "about_the_game": "Data Thief is a VR puzzle game where the player's goal is to solve light puzzles by redirecting, splitting, and merging colored beams of light in order to reach and obtain a piece of data. The player is only able to view one primary color at a time, alongside secondary colors composed of that primary color. While the spectrum limitation does hinder the player's ability to see the full picture, it allows them to move without fear of coming in contact with the dangerous beams of concentrated light.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Tracked Controller Support",
-    "VR Only",
-    "Steam Leaderboards"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.8,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 16,
-  "review_positive": 11,
+  "review_positive": 0,
   "review_percentage": 68.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 16,
-      "review_percentage": 62.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 16,
       "review_percentage": 68.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

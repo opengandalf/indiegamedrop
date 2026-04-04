@@ -3,8 +3,8 @@
   "name": "JQ: dogs & cats",
   "slug": "jq-dogs-cats",
   "developer": "Snkl Studio",
-  "publisher": "Snkl Studio",
-  "release_date": "Mar 20, 2018",
+  "publisher": "",
+  "release_date": "2018-03-20",
   "price_usd": 0.49,
   "genres": [
     "Casual",
@@ -19,60 +19,27 @@
   ],
   "short_description": "JQ is a quiz game about dogs and cats in which a player must choose the correct answer from 4 options.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816250/header.jpg?t=1764402412",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816250/ss_8e05e01a5a321ca4bd8c2d64c64f306e64902834.600x338.jpg?t=1764402412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816250/ss_f355959b5bfe3e24d033a08289522f03c15b7a35.600x338.jpg?t=1764402412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816250/ss_3fcdc9e30e59fe4bc111d776e39f8ab79915ba33.600x338.jpg?t=1764402412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816250/ss_ece275a5b2ee02024c706efeea246d7a11d64fd1.600x338.jpg?t=1764402412",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/816250/ss_6fe62c5e580f5dd0a8309f32072fee7aa81c3faf.600x338.jpg?t=1764402412"
-  ],
-  "detailed_description": "JQ: dogs & cats - is a quiz game about dogs and cats in which a player must choose the correct answer from 4 options.<br />\r\n- 2 game modes (dogs and cats)<br />\r\n- 60+ levels<br />\r\n- Pleasant music<br />\r\n- Steam Achievements<br />\r\nCredits: This game was created using Clickteam Fusion 2.5! Music by Erwarda Savitnaag.",
-  "about_the_game": "JQ: dogs & cats - is a quiz game about dogs and cats in which a player must choose the correct answer from 4 options.<br />\r\n- 2 game modes (dogs and cats)<br />\r\n- 60+ levels<br />\r\n- Pleasant music<br />\r\n- Steam Achievements<br />\r\nCredits: This game was created using Clickteam Fusion 2.5! Music by Erwarda Savitnaag.",
-  "supported_languages": "English, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0002,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 10.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
-  "review_count": 150,
-  "review_positive": 124,
-  "review_percentage": 82.7,
-  "owner_estimate": 10000,
+  "classification": "new_release",
+  "review_count": 151,
+  "review_positive": 0,
+  "review_percentage": 82.8,
+  "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 25,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 141,
-      "review_percentage": 83.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 151,
       "review_percentage": 82.8,
       "ccu_estimate": 0,
       "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
-      "review_count": 150,
-      "review_percentage": 82.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

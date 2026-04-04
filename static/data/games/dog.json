@@ -3,8 +3,8 @@
   "name": "DOG",
   "slug": "dog",
   "developer": "Jon, Aki",
-  "publisher": "Jon & Aki",
-  "release_date": "Jul 9, 2024",
+  "publisher": "",
+  "release_date": "2024-07-09",
   "price_usd": 0.0,
   "genres": [
     "Simulation",
@@ -19,35 +19,15 @@
   ],
   "short_description": "DOG - click on dog. Give him a hat. Get him a toy. Such happy.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059300/header.jpg?t=1720959275",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059300/ss_6eb823683fd3921f596d1514609fda32a8d486bb.600x338.jpg?t=1720959275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059300/ss_983ee994cfb20d4a2fdd3228c8321865c7571ca5.600x338.jpg?t=1720959275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059300/ss_72656975722eb43c7644b61e0049b18feecac55a.600x338.jpg?t=1720959275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059300/ss_4ff5e24e7b7ced0c600eeba093906d0b55bd9f80.600x338.jpg?t=1720959275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059300/ss_fd220117e0134be4166ad4c2db0adc41d35550ac.600x338.jpg?t=1720959275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059300/ss_e881199021e4c1d8d8f45402dbd9b1a0745df21c.600x338.jpg?t=1720959275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059300/ss_998fa6d8a33f0db7655ed4f6feaa13aedef68f4f.600x338.jpg?t=1720959275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059300/ss_aad0d1bf19a91cd2801c6f2a83bb2b141cf5e3b7.600x338.jpg?t=1720959275"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >What is this game about?</h2><br>In DOG, you click on dog. Get more dogs. Such happy.<h2 class=\"bb_tag\" >Features:</h2><br><ul class=\"bb_ul\"><li> Click on dog to <strong>pet him</strong><br></li><li> <strong>Play fetch</strong><br></li><li> Dress your dog with <strong>hats, sunglasses, collars</strong> and more!<br></li><li> Can run on potato PC</li></ul><br>Take care of your DOG, give him a good click. Rub his belly. Clean his hair. He likes it!",
-  "about_the_game": "<h2 class=\"bb_tag\" >What is this game about?</h2><br>In DOG, you click on dog. Get more dogs. Such happy.<h2 class=\"bb_tag\" >Features:</h2><br><ul class=\"bb_ul\"><li> Click on dog to <strong>pet him</strong><br></li><li> <strong>Play fetch</strong><br></li><li> Dress your dog with <strong>hats, sunglasses, collars</strong> and more!<br></li><li> Can run on potato PC</li></ul><br>Take care of your DOG, give him a good click. Rub his belly. Clean his hair. He likes it!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 4.55,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 91,
-  "review_positive": 51,
+  "review_positive": 0,
   "review_percentage": 56.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 74,
-      "review_percentage": 52.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 91,
       "review_percentage": 56.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

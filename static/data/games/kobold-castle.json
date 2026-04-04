@@ -3,8 +3,8 @@
   "name": "Kobold Castle",
   "slug": "kobold-castle",
   "developer": "PJ Faynik",
-  "publisher": "PJ Faynik",
-  "release_date": "Sep 4, 2023",
+  "publisher": "",
+  "release_date": "2023-09-04",
   "price_usd": 6.99,
   "genres": [
     "Action",
@@ -17,58 +17,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Kobold Castle is a 2D arena survival game that takes place on the wall of a besieged castle. As one of 4 kobold defenders, you must hold the line against dangerous waves of attackers, collect upgrades and powerups, and defeat a variety of enemies and bosses. Try to survive as long as you can!",
+  "short_description": "Kobold Castle is a 2D arena survival game that takes place on the wall of a besieged castle. As one of 4 kobold defenders, you must hold the line against dangerous waves of attackers, collect upgrades",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2426640/header.jpg?t=1693868486",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2426640/ss_1042d604ddebfafac3a80df4054e7d0a7172b87c.600x338.jpg?t=1693868486",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2426640/ss_2d2074b4b55fdeed9373ad93c7c01e5466a5fca9.600x338.jpg?t=1693868486",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2426640/ss_4a083f124204af4774e380a6f2e4722982c426d8.600x338.jpg?t=1693868486",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2426640/ss_9f24272b1aa3d99c14cdff20ac9b32a67b13ed7f.600x338.jpg?t=1693868486",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2426640/ss_ef7714fd745d566e9cd7b576488c8204ee2ddb83.600x338.jpg?t=1693868486"
-  ],
-  "detailed_description": "Kobold Castle, is a 2D arena survival game that takes place on one of the walls of a besieged castle.  Playing as one of 4 lone kobold defenders, you must hold the line against progressively more dangerous waves of attackers, collect upgrades and powerups, and defeat a variety of enemies and bosses.  Try to survive as long as you can before you are overwhelmed!",
-  "about_the_game": "Kobold Castle, is a 2D arena survival game that takes place on one of the walls of a besieged castle.  Playing as one of 4 lone kobold defenders, you must hold the line against progressively more dangerous waves of attackers, collect upgrades and powerups, and defeat a variety of enemies and bosses.  Try to survive as long as you can before you are overwhelmed!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.9598,
   "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 25,
-  "review_positive": 25,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 22,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 25,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

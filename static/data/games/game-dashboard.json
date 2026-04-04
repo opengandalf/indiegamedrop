@@ -3,8 +3,8 @@
   "name": "Game Dashboard",
   "slug": "game-dashboard",
   "developer": "Disruptive Software",
-  "publisher": "Disruptive Software",
-  "release_date": "Aug 27, 2019",
+  "publisher": "",
+  "release_date": "2019-08-27",
   "price_usd": 5.99,
   "genres": [
     "Utilities",
@@ -17,34 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Practical overlay for games and other 3D applications, with convenient in-game tweaks (smoothness, performance). Advanced framerate/latency control; CPU and GPU status. For enthusiasts, professionals, developers...",
+  "short_description": "Practical overlay for games and other 3D applications, with convenient in-game tweaks (smoothness, performance). Advanced framerate/latency control; CPU and GPU status. For enthusiasts, professionals,",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1120310/header.jpg?t=1680351707",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1120310/ss_b47c35aa1cfd63b0a02f637f7fa606192f858e91.600x338.jpg?t=1680351707",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1120310/ss_eab3d090aaed47ea2ef18bbe17dd0197b4cadbc7.600x338.jpg?t=1680351707",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1120310/ss_2873e21a110bd9f9a0551bd09d0ce49d72659aa7.600x338.jpg?t=1680351707",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1120310/ss_d74e0ec584d73a6b76e000dd85764e0589eedb98.600x338.jpg?t=1680351707",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1120310/ss_1321ebcb5053b33accaf11fc943dacafe43e4fab.600x338.jpg?t=1680351707",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1120310/ss_e1b86935cae92789fa5a0ec947c89d1004d27848.600x338.jpg?t=1680351707"
-  ],
-  "detailed_description": "Practical overlay for games and other 3D applications, with convenient in-game tweaks (smoothness, performance). Advanced framerate/latency control; CPU and GPU status. For gaming enthusiasts, professionals, developers, cryptocurrency mining...<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Advanced framerate limiter with unique smoothing and power efficiency features. Flexible in-game adjustments.<br></li><li>Real-time latency control for DirectX games.<br></li><li>CPU status: temperature, utilization, memory consumption and clock speed.<br></li><li>GPU status: temperatures, fan speed, resource utilization, memory consumption and clock speed.<br></li><li>Custom user notes and flexible overlay display options (compact or different chart types).<br></li><li>Very lightweight and efficient, with innovative overlay and text-rendering technology, demonstrating a proprietary parallel-processing framework.<br></li><li>Basic GPU fan control. Simple under/overclocking (experimental).</li></ul><h2 class=\"bb_tag\" >Community-Driven Development</h2>New features will be added based on user preferences. If you're interested in specific functionality feel free to send a message detailing your requirements.<h2 class=\"bb_tag\" >Privacy and Security</h2>This software doesn't require drivers or administrative privileges to work, and it doesn't write any data to the file system or Windows registry (apart from the optional user-settings file). It doesn't access the internet and can be used with Steam in offline mode.<br><br><br>It is adequate for use in secure environments and complies with all data protection regulations, including CCPA, HIPAA, COPPA and the European GDPR.<h2 class=\"bb_tag\" >Current Limitations</h2><ul class=\"bb_ul\"><li>Some multiplayer games with aggressive anti-cheat are currently incompatible. Fixing this is work-in-progress.<br></li><li>GUI is not available for OpenGL games (framerate control features still work).<br></li><li>Latency control is not enabled for Vulkan games. May be enabled later, depending on player interest.<br></li><li>GPU status and overclocking features only available for AMD and NVIDIA cards.<br></li><li>Some status data may be missing (e.g. old graphics cards don't have a memory temperature sensor).<br></li><li>Overclocking has some limitations described in the manual (mostly driver-related).<br></li><li>Native UWP apps not supported (some apps in the Windows Store).</li></ul><br>Additional features are available under NDA. Send a message for technical demonstrations.",
-  "about_the_game": "Practical overlay for games and other 3D applications, with convenient in-game tweaks (smoothness, performance). Advanced framerate/latency control; CPU and GPU status. For gaming enthusiasts, professionals, developers, cryptocurrency mining...<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Advanced framerate limiter with unique smoothing and power efficiency features. Flexible in-game adjustments.<br></li><li>Real-time latency control for DirectX games.<br></li><li>CPU status: temperature, utilization, memory consumption and clock speed.<br></li><li>GPU status: temperatures, fan speed, resource utilization, memory consumption and clock speed.<br></li><li>Custom user notes and flexible overlay display options (compact or different chart types).<br></li><li>Very lightweight and efficient, with innovative overlay and text-rendering technology, demonstrating a proprietary parallel-processing framework.<br></li><li>Basic GPU fan control. Simple under/overclocking (experimental).</li></ul><h2 class=\"bb_tag\" >Community-Driven Development</h2>New features will be added based on user preferences. If you're interested in specific functionality feel free to send a message detailing your requirements.<h2 class=\"bb_tag\" >Privacy and Security</h2>This software doesn't require drivers or administrative privileges to work, and it doesn't write any data to the file system or Windows registry (apart from the optional user-settings file). It doesn't access the internet and can be used with Steam in offline mode.<br><br><br>It is adequate for use in secure environments and complies with all data protection regulations, including CCPA, HIPAA, COPPA and the European GDPR.<h2 class=\"bb_tag\" >Current Limitations</h2><ul class=\"bb_ul\"><li>Some multiplayer games with aggressive anti-cheat are currently incompatible. Fixing this is work-in-progress.<br></li><li>GUI is not available for OpenGL games (framerate control features still work).<br></li><li>Latency control is not enabled for Vulkan games. May be enabled later, depending on player interest.<br></li><li>GPU status and overclocking features only available for AMD and NVIDIA cards.<br></li><li>Some status data may be missing (e.g. old graphics cards don't have a memory temperature sensor).<br></li><li>Overclocking has some limitations described in the manual (mostly driver-related).<br></li><li>Native UWP apps not supported (some apps in the Windows Store).</li></ul><br>Additional features are available under NDA. Send a message for technical demonstrations.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 24,
-  "review_positive": 20,
+  "review_positive": 0,
   "review_percentage": 83.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 24,
-      "review_percentage": 83.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 24,
       "review_percentage": 83.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

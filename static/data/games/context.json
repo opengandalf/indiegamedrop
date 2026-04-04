@@ -3,8 +3,8 @@
   "name": "Context",
   "slug": "context",
   "developer": "SunshineOvercast",
-  "publisher": "SunshineOvercast",
-  "release_date": "Oct 24, 2019",
+  "publisher": "",
+  "release_date": "2019-10-24",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -19,37 +19,15 @@
   ],
   "short_description": "Simple clicker style game in which the player explores a randomly generated map.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167650/header.jpg?t=1575583564",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167650/ss_ac67250015ed44314f21f7720c31d6d138227964.600x338.jpg?t=1575583564",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167650/ss_c7e9b50d8bf57cfdd38bf6ed4f340e6c63463fb3.600x338.jpg?t=1575583564",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167650/ss_776cdb61bb7975c03c46171dc015ff68dc838623.600x338.jpg?t=1575583564",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167650/ss_45aaa8db512ce711109b6899d7c49051783e4b07.600x338.jpg?t=1575583564",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167650/ss_d9097910a339bb9a63ae6d76b93b737c64bf0d2e.600x338.jpg?t=1575583564",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167650/ss_71369e3183beb8458620abb7f56683891a30ca9c.600x338.jpg?t=1575583564",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167650/ss_89eb3429313642da3a370cb149f9f2a3b1c8c60d.600x338.jpg?t=1575583564",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167650/ss_91ae3f5e543aae6032ecc0a1b0fc13c02c6526ac.600x338.jpg?t=1575583564",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167650/ss_12fa3b537c04e53ef3f88a8945feebd0a740d81d.600x338.jpg?t=1575583564"
-  ],
-  "detailed_description": "Context is a simple clicker style game in which the player explores a randomly generated map.<br />\r\n<br />\r\nThe map is randomly generated for each game session. Complete tasks and defeat enemies by clicking to earn xp (experience points) and level up.",
-  "about_the_game": "Context is a simple clicker style game in which the player explores a randomly generated map.<br />\r\n<br />\r\nThe map is randomly generated for each game session. Complete tasks and defeat enemies by clicking to earn xp (experience points) and level up.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 33.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 33.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 33.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

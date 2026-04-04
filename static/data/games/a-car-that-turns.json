@@ -3,8 +3,8 @@
   "name": "A Car That Turns",
   "slug": "a-car-that-turns",
   "developer": "Amir Rajan",
-  "publisher": "Scratchwork Development LLC",
-  "release_date": "Jun 28, 2023",
+  "publisher": "",
+  "release_date": "2023-06-28",
   "price_usd": 1.99,
   "genres": [
     "Indie",
@@ -21,40 +21,15 @@
   ],
   "short_description": "Drift down Akina pass. You probably won't make it past the first corner.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2425950/header.jpg?t=1721848726",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2425950/ss_2746496a6b5f9430352e7cec8807fca7c4db0c79.600x338.jpg?t=1721848726",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2425950/ss_b88b87d6f56c7fa3ae0e4e915d7c81e2deacc1ac.600x338.jpg?t=1721848726",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2425950/ss_18cb1b8a780bacaccbe75f4c1c2e3307d200e2ca.600x338.jpg?t=1721848726",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2425950/ss_7f9a949f5d10aaf52aa271ff3d6c8fa7e21f7ec6.600x338.jpg?t=1721848726",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2425950/ss_091a8888ad931f0e037c44df4c730e0776caeeba.600x338.jpg?t=1721848726",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2425950/ss_0624b368c08d582089c2c8a55b1ebc5ae04b8f74.600x338.jpg?t=1721848726"
-  ],
-  "detailed_description": "A Car That Turns attempts to capture the idea of mastery. <br />\r\n<br />\r\nThe controls are simple: turn left, turn right, and drift. <br />\r\n<br />\r\nDon't let this simplicity fool you. The car's nuances during a drift will put your will and determination to the test. Sticking to it is worth the effort (getting that perfect drift feels so damn good). <br />\r\n<br />\r\nReach a state of flow as you try to beat your best times on Akina, Usui, Myogi, and Iro Hazaka Pass.<br />\r\n<br />\r\nBuilt by an Indie with love. No ads, no data collection, no IAPs, just game.",
-  "about_the_game": "A Car That Turns attempts to capture the idea of mastery. <br />\r\n<br />\r\nThe controls are simple: turn left, turn right, and drift. <br />\r\n<br />\r\nDon't let this simplicity fool you. The car's nuances during a drift will put your will and determination to the test. Sticking to it is worth the effort (getting that perfect drift feels so damn good). <br />\r\n<br />\r\nReach a state of flow as you try to beat your best times on Akina, Usui, Myogi, and Iro Hazaka Pass.<br />\r\n<br />\r\nBuilt by an Indie with love. No ads, no data collection, no IAPs, just game.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Full controller support",
-    "Remote Play on TV",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

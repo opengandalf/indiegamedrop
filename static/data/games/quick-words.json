@@ -3,8 +3,8 @@
   "name": "Quick Words",
   "slug": "quick-words",
   "developer": "Project Handsoap",
-  "publisher": "Project Handsoap",
-  "release_date": "Mar 23, 2022",
+  "publisher": "",
+  "release_date": "2022-03-23",
   "price_usd": 4.99,
   "genres": [
     "Casual",
@@ -19,53 +19,27 @@
   ],
   "short_description": "Quick Words is the bigger, better, 5 letter word guessing game that lets you play 5 words in the same game. Play it fast, play it slow, play it windowed, leave it in the background. Do as you please.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1908850/header.jpg?t=1648053930",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1908850/ss_8aa54af2796c3e3a8f2ede364653f8cb8fcfbdf9.600x338.jpg?t=1648053930",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1908850/ss_c616b7f6e1f2780cbed4ecacd0fc6613b06dcbc2.600x338.jpg?t=1648053930",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1908850/ss_1f02c4ad0004944f034ba471d160c936d5c2c1d0.600x338.jpg?t=1648053930",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1908850/ss_bb2bfb87c4de6dfebbe6533a9dd3eeb2648761ea.600x338.jpg?t=1648053930",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1908850/ss_34c12af9ec7cac6aedfeff853db7004cb14eab1f.600x338.jpg?t=1648053930"
-  ],
-  "detailed_description": "Quick Words is a chilled-out word game with smooth lofi music and smoother gameplay. Every round you'll be guessing five different 5-letter words.<br><br>Words are solved by deducing what letters are in the word.<br>If a letter is:<br><br><ul class=\"bb_ul\"><li>Red - That letter is not in the word.<br></li><li>Yellow - That letter is in the word, but in a different spot.<br></li><li>Green - Perfect! That letter is in the correct spot. The same goes for blue.</li></ul><br>Stuck on one word? Solve a different board to gain a Hint!<br><br>The more you play, the faster you'll get and the higher scores you'll earn. Challenge your friends to play the same board as you and compete for the highest score. Or just relax and and guess some words at your own pace.<br><br>Quick Words is a classy combo of relaxation and rich word puzzles. All games are generated procedurally, and you'll never get the same board twice! (Unless you want to).",
-  "about_the_game": "Quick Words is a chilled-out word game with smooth lofi music and smoother gameplay. Every round you'll be guessing five different 5-letter words.<br><br>Words are solved by deducing what letters are in the word.<br>If a letter is:<br><br><ul class=\"bb_ul\"><li>Red - That letter is not in the word.<br></li><li>Yellow - That letter is in the word, but in a different spot.<br></li><li>Green - Perfect! That letter is in the correct spot. The same goes for blue.</li></ul><br>Stuck on one word? Solve a different board to gain a Hint!<br><br>The more you play, the faster you'll get and the higher scores you'll earn. Challenge your friends to play the same board as you and compete for the highest score. Or just relax and and guess some words at your own pace.<br><br>Quick Words is a classy combo of relaxation and rich word puzzles. All games are generated procedurally, and you'll never get the same board twice! (Unless you want to).",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.9429,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 20,
-  "review_positive": 19,
+  "review_positive": 0,
   "review_percentage": 95.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 19,
-      "review_percentage": 94.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 20,
       "review_percentage": 95.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

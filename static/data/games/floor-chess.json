@@ -3,8 +3,8 @@
   "name": "Floor Chess",
   "slug": "floor-chess",
   "developer": "Random Theory Games",
-  "publisher": "Random Theory Games",
-  "release_date": "Apr 18, 2023",
+  "publisher": "",
+  "release_date": "2023-04-18",
   "price_usd": 8.99,
   "genres": [
     "Sports",
@@ -19,41 +19,9 @@
   ],
   "short_description": "Training software to improve your chess. You can do tactics, calculus, capture and analyze FENs, learn principles, openings and more!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1346480/header.jpg?t=1689149328",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1346480/ss_0bb09df5c218599fd6465ffd8bc39c24e2d95080.600x338.jpg?t=1689149328",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1346480/ss_0cc835e4edd01dceae4fde87336257ebb9e8f694.600x338.jpg?t=1689149328",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1346480/ss_c1a439a6bd5d4a90e7c80c720db03aa0f7535c13.600x338.jpg?t=1689149328",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1346480/ss_135dbb8c3db2bd0ec6e64a690213e2b84878fe99.600x338.jpg?t=1689149328",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1346480/ss_738d39c64ae26d6442b5e4ae733a3e0dbafead37.600x338.jpg?t=1689149328",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1346480/ss_d9940a6f5e615bc880a76563d7094f09a63609d3.600x338.jpg?t=1689149328",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1346480/ss_7186629cfd99d4c3ffaaffd501a5157013f4e3ce.600x338.jpg?t=1689149328",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1346480/ss_1b947f1799e476a75a203d380dda63c6816a3473.600x338.jpg?t=1689149328",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1346480/ss_12bde1f2c01c8756d77fd63a69687100882eec6c.600x338.jpg?t=1689149328",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1346480/ss_7a2f60078fd38b4935c71337e60fc267344655d3.600x338.jpg?t=1689149328"
-  ],
-  "detailed_description": "<h1>Useful</h1><p>If you want to remove the short/bad pgn files, you go to C:\\Program Files (x86)\\Steam\\steamapps\\common\\FloorChess\\FloorChess_Data\\Resources\\matches (or your_steam_library\\FloorChess\\FloorChess_Data\\Resources\\matches) and you will find them there</p><br><h1>About the Game</h1>Features:<br><ul class=\"bb_ul\"><li> Introducing Ghostplay, a professional chess training exercise</li><li> Calculate in complex positions, with a configurable timer </li><li> Solve tactics of all levels</li><li> Learn and practice to give checkmate with bishop and knight </li><li> Be challenged by various difficulty levels in a match vs AI </li><li> Study openings and see them in action </li><li> Analyze positions, where you can input desired FEN to analyze it </li><li> Capture FEN in game and other modes </li><li> Online (vs a known party) multiplayer matches</li><li> Local (same pc) multiplayer matches </li><li> Load a PGN file to review your match </li><li> Quick review available when you load your match </li><li> Customize the pieces shape and material  </li><li> Customize the clock and the clock screen </li><li> 30 principles: 10 for openings, 10 for the middle game and 10 for the endings </li><li> Customize the board, and the floor</li><li> Customize even the zoom and tilt of the view! </li></ul> <br>As you can see, this is a great tool for chess training! However, this is either for chess players or  for people who already knows how to play chess. There is no basic lessons on this program. Enjoy!<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1346480/extras/a3282c7c715d768e0f442633d4a97384.avif?t=1689149328\" width=614 height=104 /></span>",
-  "about_the_game": "Features:<br><ul class=\"bb_ul\"><li> Introducing Ghostplay, a professional chess training exercise</li><li> Calculate in complex positions, with a configurable timer </li><li> Solve tactics of all levels</li><li> Learn and practice to give checkmate with bishop and knight </li><li> Be challenged by various difficulty levels in a match vs AI </li><li> Study openings and see them in action </li><li> Analyze positions, where you can input desired FEN to analyze it </li><li> Capture FEN in game and other modes </li><li> Online (vs a known party) multiplayer matches</li><li> Local (same pc) multiplayer matches </li><li> Load a PGN file to review your match </li><li> Quick review available when you load your match </li><li> Customize the pieces shape and material  </li><li> Customize the clock and the clock screen </li><li> 30 principles: 10 for openings, 10 for the middle game and 10 for the endings </li><li> Customize the board, and the floor</li><li> Customize even the zoom and tilt of the view! </li></ul> <br>As you can see, this is a great tool for chess training! However, this is either for chess players or  for people who already knows how to play chess. There is no basic lessons on this program. Enjoy!<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1346480/extras/a3282c7c715d768e0f442633d4a97384.avif?t=1689149328\" width=614 height=104 /></span>",
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Spanish - Spain<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "LAN PvP",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -61,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

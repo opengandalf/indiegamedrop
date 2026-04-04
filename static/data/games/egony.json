@@ -3,8 +3,8 @@
   "name": "Egony",
   "slug": "egony",
   "developer": "BoomTownGames",
-  "publisher": "BoomTownGames",
-  "release_date": "Jun 27, 2018",
+  "publisher": "",
+  "release_date": "2018-06-27",
   "price_usd": 8.99,
   "genres": [
     "Violent",
@@ -23,32 +23,15 @@
   ],
   "short_description": "Egony - board game in real time with turn-based battle and unit rental between players.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881820/header.jpg?t=1530084641",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881820/ss_4a6fb81a1f111d8ddfcd4b5e544cb9e8c02355e9.600x338.jpg?t=1530084641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881820/ss_0033c43c5fa571565357d5a1cae3606e364eb14f.600x338.jpg?t=1530084641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881820/ss_e3e4e79acf1c0633051f9008c536dcd71fc1a67a.600x338.jpg?t=1530084641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881820/ss_7dba08630ad1802b0a87015d5c01f51818b8e3b3.600x338.jpg?t=1530084641",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881820/ss_880465bc602ffce04b8e191e861f02ec1697f56b.600x338.jpg?t=1530084641"
-  ],
-  "detailed_description": "Egony is a strategy game embedded in cyberpunk reality. The player performs missions on which he must get the opponent's ground. During the game (in real time) you will  recruit the army and send them to the fight (turn-based). The Hegos you can create for experience points support you in battle. THESE UNITS YOU CAN RENT FROM OTHER PLAYERS (In near future) for experience points, or rent them yours. The game currently has only single-player mode. In the future, we would like to create the possibility of playing duels between players. In each update we will try to provide additional content.",
-  "about_the_game": "Egony is a strategy game embedded in cyberpunk reality. The player performs missions on which he must get the opponent's ground. During the game (in real time) you will  recruit the army and send them to the fight (turn-based). The Hegos you can create for experience points support you in battle. THESE UNITS YOU CAN RENT FROM OTHER PLAYERS (In near future) for experience points, or rent them yours. The game currently has only single-player mode. In the future, we would like to create the possibility of playing duels between players. In each update we will try to provide additional content.",
-  "supported_languages": "English, Polish",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 4,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

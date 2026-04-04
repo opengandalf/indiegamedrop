@@ -3,8 +3,8 @@
   "name": "Atlantia Animation",
   "slug": "atlantia-animation",
   "developer": "Christopher Pollard",
-  "publisher": "Christopher Pollard",
-  "release_date": "Nov 26, 2018",
+  "publisher": "",
+  "release_date": "2018-11-26",
   "price_usd": 0.0,
   "genres": [
     "Indie",
@@ -25,35 +25,17 @@
     "mac",
     "linux"
   ],
-  "short_description": "Atlantia is the world's easiest and fastest animation software. Users can issue \"walk here\" and \"say this\" style commands and can easily pose and edit characters and animations. There are also built in lip syncing and text-to-speech capabilities and a system for automatically moving the characters and objects.",
+  "short_description": "Atlantia is the world's easiest and fastest animation software. Users can issue \"walk here\" and \"say this\" style commands and can easily pose and edit characters and animations. Th",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949500/header.jpg?t=1694543923",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949500/ss_651fd2c847362ece23b7ce6001d4cd95fc84ba73.600x338.jpg?t=1694543923",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949500/ss_455f362b10257403fbd6125989f1c08668641743.600x338.jpg?t=1694543923",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949500/ss_4c021c63f8871e9851d6b5f7925c4542e34c1882.600x338.jpg?t=1694543923",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949500/ss_fc534586553ab23b8d357bf12ae7688703a20022.600x338.jpg?t=1694543923",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949500/ss_e4293f9b5524a982020c5d9f3624506ea84b8876.600x338.jpg?t=1694543923",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949500/ss_76a7c762aacbd4abe9ae2f1b7a9cad19ffd81f8d.600x338.jpg?t=1694543923",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949500/ss_04340deebf1392601dabd0273d4d6ec354732ad6.600x338.jpg?t=1694543923"
-  ],
-  "detailed_description": "Atlantia is 3D animation software which allows untrained artists to easily and quickly make animated movies. It works at a very high level of abstraction so users can issue \"walk here\" or \"say this\" style commands. Users can then spend most of their time focusing on the story, instead of the tedious aspects of animation.<br />\r\n<br />\r\nThe software includes a growing library of built-in objects and animations. There are text-to-speech capabilities so that users can quickly write dialogue and automate lip-syncing. A custom, high performance inverse kinematics system helps automatically generate dynamic animations and pose characters. The terrain and sky can be easily edited to support many different environments.<br />\r\n<br />\r\nAll of these things together make it very fun and easy for an average user to make high quality animations. Please give it a try!",
-  "about_the_game": "Atlantia is 3D animation software which allows untrained artists to easily and quickly make animated movies. It works at a very high level of abstraction so users can issue \"walk here\" or \"say this\" style commands. Users can then spend most of their time focusing on the story, instead of the tedious aspects of animation.<br />\r\n<br />\r\nThe software includes a growing library of built-in objects and animations. There are text-to-speech capabilities so that users can quickly write dialogue and automate lip-syncing. A custom, high performance inverse kinematics system helps automatically generate dynamic animations and pose characters. The terrain and sky can be easily edited to support many different environments.<br />\r\n<br />\r\nAll of these things together make it very fun and easy for an average user to make high quality animations. Please give it a try!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 2.0500000000000003,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 41,
-  "review_positive": 22,
+  "review_positive": 0,
   "review_percentage": 53.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -61,19 +43,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 41,
-      "review_percentage": 53.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 41,
       "review_percentage": 53.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

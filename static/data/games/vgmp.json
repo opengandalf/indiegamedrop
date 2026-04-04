@@ -3,8 +3,8 @@
   "name": "VGMP",
   "slug": "vgmp",
   "developer": "ViGaMuP",
-  "publisher": "ViGaMuP",
-  "release_date": "Jan 24, 2024",
+  "publisher": "",
+  "release_date": "2024-01-24",
   "price_usd": 5.99,
   "genres": [
     "Indie",
@@ -17,31 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "VGMP is an audio analyzer and music player with unique features specialized for video game music. It offers seamless looping audio playback, which emulates how BGMs are played in video games, and a mechanism to algorithmically search for seamless loop points in audio tracks.",
+  "short_description": "VGMP is an audio analyzer and music player with unique features specialized for video game music. It offers seamless looping audio playback, which emulates how BGMs are played in video games, and a me",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698620/header.jpg?t=1706110725",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698620/ss_718ddbdfd16289c3386e1a1493aacb92e2001e1f.600x338.jpg?t=1706110725",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698620/ss_b69c5233140ac90358f1dc733f451bd8653b4207.600x338.jpg?t=1706110725",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698620/ss_f7357a17036ee18b780ded980945823bb072a5e0.600x338.jpg?t=1706110725",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698620/ss_b3072a8b6190c6f8355215e787e3bc7b64cf1643.600x338.jpg?t=1706110725",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2698620/ss_052232d0897d32925e4bd8edfedbca45e77f6e2f.600x338.jpg?t=1706110725"
-  ],
-  "detailed_description": "<strong>VGMP</strong> is an audio analyzer and music player with unique features specialized for video game music. It offers seamless looping audio playback, which emulates how BGMs are played in video games, and a mechanism to algorithmically search for seamless loop points in audio tracks.<br><br>As an audio production tool, VGMP can be used to search for seamless loop points, test the seamlessness of loop points, export loop points data, and export audio with various loop-related options.<br><br>As a music player, VGMP can be used for seamless looping audio playback, free from the imprecision of the \"A-B repeat\" feature found in many other music players. It can loop an audio track perpetually or a set number of times. It supports live transition between alternate versions of the same audio track as found in some video games. It can also organize audio tracks into various groups and sub-groups.<h2 class=\"bb_tag\" >Key Features:</h2><ul class=\"bb_ul\"><li><strong>Perpetual seamless looping</strong> audio playback with sample/microsecond-level precision for audio looping, as in video games.</li></ul><ul class=\"bb_ul\"><li><strong>Finite seamless looping</strong> audio playback, extending the audio track by the number of loops set by the user.</li></ul><ul class=\"bb_ul\"><li><strong>Live cross-fade transition</strong> between two audio tracks with the same duration, allowing audio playback to continue from one track to the other without resetting the duration.</li></ul><ul class=\"bb_ul\"><li><strong>Algorithmically search</strong> in an audio track <strong>for loop points</strong>, test the seamlessness of the results, and then pick one pair of loop points to be assigned to that audio track and used for seamless looping audio playback.</li></ul><ul class=\"bb_ul\"><li><strong>Manually assign loop points</strong> to an audio track to be used for seamless looping audio playback.</li></ul><ul class=\"bb_ul\"><li><strong>Categorize audio tracks by series, installment, and category</strong>. Each series/installment can have its own associated banner and/or icon/thumbnail images.</li></ul><ul class=\"bb_ul\"><li><strong>Export</strong> as a spreadsheet file the <strong>loop points data</strong> of all audio tracks with assigned loop points.</li></ul><ul class=\"bb_ul\"><li><strong>Export an audio track</strong> with assigned loop points, with the following options:<br><ul class=\"bb_ul\"><li><strong>As three separate audio files</strong>, each respectively containing one of the following sections: pre-loop, loop, post-loop</li></ul><ul class=\"bb_ul\"><li><strong>The loop section</strong> of the audio track.</li></ul><ul class=\"bb_ul\"><li><strong>Extended</strong> by the number of loops set by the user.</li></ul></li></ul><h2 class=\"bb_tag\" >Supported Audio Formats:</h2>AIFF, AAC-LC (.m4a), ALAC (.m4a), FLAC, MP3, OGG (Vorbis), OPUS, WAV (PCM)",
-  "about_the_game": "<strong>VGMP</strong> is an audio analyzer and music player with unique features specialized for video game music. It offers seamless looping audio playback, which emulates how BGMs are played in video games, and a mechanism to algorithmically search for seamless loop points in audio tracks.<br><br>As an audio production tool, VGMP can be used to search for seamless loop points, test the seamlessness of loop points, export loop points data, and export audio with various loop-related options.<br><br>As a music player, VGMP can be used for seamless looping audio playback, free from the imprecision of the \"A-B repeat\" feature found in many other music players. It can loop an audio track perpetually or a set number of times. It supports live transition between alternate versions of the same audio track as found in some video games. It can also organize audio tracks into various groups and sub-groups.<h2 class=\"bb_tag\" >Key Features:</h2><ul class=\"bb_ul\"><li><strong>Perpetual seamless looping</strong> audio playback with sample/microsecond-level precision for audio looping, as in video games.</li></ul><ul class=\"bb_ul\"><li><strong>Finite seamless looping</strong> audio playback, extending the audio track by the number of loops set by the user.</li></ul><ul class=\"bb_ul\"><li><strong>Live cross-fade transition</strong> between two audio tracks with the same duration, allowing audio playback to continue from one track to the other without resetting the duration.</li></ul><ul class=\"bb_ul\"><li><strong>Algorithmically search</strong> in an audio track <strong>for loop points</strong>, test the seamlessness of the results, and then pick one pair of loop points to be assigned to that audio track and used for seamless looping audio playback.</li></ul><ul class=\"bb_ul\"><li><strong>Manually assign loop points</strong> to an audio track to be used for seamless looping audio playback.</li></ul><ul class=\"bb_ul\"><li><strong>Categorize audio tracks by series, installment, and category</strong>. Each series/installment can have its own associated banner and/or icon/thumbnail images.</li></ul><ul class=\"bb_ul\"><li><strong>Export</strong> as a spreadsheet file the <strong>loop points data</strong> of all audio tracks with assigned loop points.</li></ul><ul class=\"bb_ul\"><li><strong>Export an audio track</strong> with assigned loop points, with the following options:<br><ul class=\"bb_ul\"><li><strong>As three separate audio files</strong>, each respectively containing one of the following sections: pre-loop, loop, post-loop</li></ul><ul class=\"bb_ul\"><li><strong>The loop section</strong> of the audio track.</li></ul><ul class=\"bb_ul\"><li><strong>Extended</strong> by the number of loops set by the user.</li></ul></li></ul><h2 class=\"bb_tag\" >Supported Audio Formats:</h2>AIFF, AAC-LC (.m4a), ALAC (.m4a), FLAC, MP3, OGG (Vorbis), OPUS, WAV (PCM)",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -49,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

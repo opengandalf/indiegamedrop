@@ -3,8 +3,8 @@
   "name": "Karen",
   "slug": "karen",
   "developer": "Generic Username",
-  "publisher": "Generic Username",
-  "release_date": "Mar 24, 2022",
+  "publisher": "",
+  "release_date": "2022-03-24",
   "price_usd": 1.99,
   "genres": [
     "Action",
@@ -19,32 +19,9 @@
   ],
   "short_description": "This is a psychological horror game, where the player must find the password to a gun safe. Once they do so, they must kill the monster chasing them, KAREN!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1495760/header.jpg?t=1648182734",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1495760/ss_06d66f8f38e86ce6bc0792475657bd256ce06d02.600x338.jpg?t=1648182734",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1495760/ss_40aff7c8891c1df08d6ee2abb46c4b83fa71f5a3.600x338.jpg?t=1648182734",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1495760/ss_b9a3d474b34fc7400236f7f4551af0957d2d67a3.600x338.jpg?t=1648182734",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1495760/ss_9583d2fdbec6246ea8eaad077275e0bc5949ffef.600x338.jpg?t=1648182734",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1495760/ss_95acd5bd2fa1f1446ee1068b797d59fedaeb7893.600x338.jpg?t=1648182734"
-  ],
-  "detailed_description": "Karen is a psychological horror game, depicting a helpless department store employee trying to kill the monster named Karen. The player begins each game in the spawn room, in this room there is a gun safe. The player doesn't know the passkey to access the shotgun inside said safe. The goal of the game is to search the map for the notes that make up the password. Once all five notes are found, the player must return to the spawn room, where they will use the password to grab the shotgun, and KILL KAREN!<br />\r\n<br />\r\nAdditional Notes:<br />\r\n- Karen cannot move whilst being looked at by the player<br />\r\n- The notes are currently just a big white cube<br />\r\n- Don't get caught",
-  "about_the_game": "Karen is a psychological horror game, depicting a helpless department store employee trying to kill the monster named Karen. The player begins each game in the spawn room, in this room there is a gun safe. The player doesn't know the passkey to access the shotgun inside said safe. The goal of the game is to search the map for the notes that make up the password. Once all five notes are found, the player must return to the spawn room, where they will use the password to grab the shotgun, and KILL KAREN!<br />\r\n<br />\r\nAdditional Notes:<br />\r\n- Karen cannot move whilst being looked at by the player<br />\r\n- The notes are currently just a big white cube<br />\r\n- Don't get caught",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 9,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 77.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 77.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 77.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

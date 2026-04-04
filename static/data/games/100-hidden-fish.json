@@ -3,8 +3,8 @@
   "name": "100 hidden fish",
   "slug": "100-hidden-fish",
   "developer": "Anatoliy Loginovskikh, Аlexandr Telminov",
-  "publisher": "Anatoliy Loginovskikh",
-  "release_date": "Jan 17, 2022",
+  "publisher": "",
+  "release_date": "2022-01-17",
   "price_usd": 0.59,
   "genres": [
     "Adventure",
@@ -21,62 +21,27 @@
   ],
   "short_description": "The fish hid. Try to find them all! A very large location.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1841390/header.jpg?t=1727400046",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1841390/ss_e8cecd7cbfd80cc743c3c4ee64b129b76bb24861.600x338.jpg?t=1727400046",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1841390/ss_ad1968b1239991df2f4f310d9a8f6e54552a756a.600x338.jpg?t=1727400046",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1841390/ss_482de091028151b20a29066e0937941396051bdb.600x338.jpg?t=1727400046",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1841390/ss_21cdb8ad4961c9174f1cc99aa71a0c1e5cdb5198.600x338.jpg?t=1727400046",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1841390/ss_a5028d2ddcff81c61725d1753e8c7826715b7860.600x338.jpg?t=1727400046"
-  ],
-  "detailed_description": "<h1>My first 3D game!</h1><p></p><br><h1>About the Game</h1><h2 class=\"bb_tag\" >Art by Аlexandr Telminov</h2><br><strong>Important information</strong><br><ul class=\"bb_ul\"><li>Press \"N\" for night mode.<br></li><li>Press \"Del\" then \"Esc\" to reset all achievements.</li></ul><br>100 hidden fish is a hidden object game in the sea setting.<br>Black and white hand-drawn graphics in a cartoon style.<br>Difficult and interesting! Very large location!<br><br>Did you find a fish? Then click on it.<br>It's going to be a fun adventure.",
-  "about_the_game": "<h2 class=\"bb_tag\" >Art by Аlexandr Telminov</h2><br><strong>Important information</strong><br><ul class=\"bb_ul\"><li>Press \"N\" for night mode.<br></li><li>Press \"Del\" then \"Esc\" to reset all achievements.</li></ul><br>100 hidden fish is a hidden object game in the sea setting.<br>Black and white hand-drawn graphics in a cartoon style.<br>Difficult and interesting! Very large location!<br><br>Did you find a fish? Then click on it.<br>It's going to be a fun adventure.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Trading Cards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 489,
-  "rising_score": 0.0004,
-  "gem_score": 0.4795,
+  "screenshots": [],
+  "rising_score": 0.0001,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 55.0,
+  "review_velocity_7d": 25.85,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 517,
-  "review_positive": 495,
+  "review_positive": 0,
   "review_percentage": 95.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "proven",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 462,
-      "review_percentage": 96.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 516,
-      "review_percentage": 95.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 517,
       "review_percentage": 95.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

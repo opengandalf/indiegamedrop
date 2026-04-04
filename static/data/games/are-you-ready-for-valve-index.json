@@ -4,7 +4,7 @@
   "slug": "are-you-ready-for-valve-index",
   "developer": "Valve",
   "publisher": "",
-  "release_date": "Apr 30, 2019",
+  "release_date": "2019-04-30",
   "price_usd": 0.0,
   "genres": [],
   "tags": [],
@@ -13,29 +13,15 @@
   ],
   "short_description": "Test your PC to determine whether you're ready for Valve Index VR.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1070910/header.jpg?t=1771967416",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1070910/ss_bb167d56a8154e09fe4151dbd761daba61f3212c.600x338.jpg?t=1771967416",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1070910/ss_9ac8c816f9ca034882678aa22946383a750152f6.600x338.jpg?t=1771967416",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1070910/ss_596d7faf6d85b0b57fa1ea2b8a38d80b6d416b4d.600x338.jpg?t=1771967416"
-  ],
-  "detailed_description": "Test your PC to determine whether you're ready for Valve Index VR. <br><br>Download this app to your Steam Library, where you'll discover it in the Tools section.<br><br>Check your computer's OS, RAM, CPU, GPU, USB, and other specs against our System Requirements to play VR titles using the Valve Index Headset.<br><br>Note that while Valve Index supports Linux and SteamOS, this application currently does not.<br><br>The <i>Are You Ready for Valve Index?</i> app does not guarantee compatibility with all-in-one PCs or laptops.",
-  "about_the_game": "Test your PC to determine whether you're ready for Valve Index VR. <br><br>Download this app to your Steam Library, where you'll discover it in the Tools section.<br><br>Check your computer's OS, RAM, CPU, GPU, USB, and other specs against our System Requirements to play VR titles using the Valve Index Headset.<br><br>Note that while Valve Index supports Linux and SteamOS, this application currently does not.<br><br>The <i>Are You Ready for Valve Index?</i> app does not guarantee compatibility with all-in-one PCs or laptops.",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Finnish, Greek, Hungarian, Norwegian, Polish, Portuguese - Portugal, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0002,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 48.5,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 970,
-  "review_positive": 871,
+  "review_positive": 0,
   "review_percentage": 89.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -43,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 900,
-      "review_percentage": 90.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 970,
       "review_percentage": 89.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

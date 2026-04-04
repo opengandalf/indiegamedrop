@@ -3,8 +3,8 @@
   "name": "MHRD",
   "slug": "mhrd",
   "developer": "Funghisoft",
-  "publisher": "Funghisoft",
-  "release_date": "Jan 5, 2017",
+  "publisher": "",
+  "release_date": "2017-01-05",
   "price_usd": 7.99,
   "genres": [
     "Indie",
@@ -19,65 +19,29 @@
     "mac",
     "linux"
   ],
-  "short_description": "MHRD is a hardware design game, in which you design various hardware circuits in a hardware description language. The hardware circuits you design get more complex as you go until you create a fully functional CPU design.",
+  "short_description": "MHRD is a hardware design game, in which you design various hardware circuits in a hardware description language. The hardware circuits you design get more complex as you go until you create a fully f",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/576030/header.jpg?t=1707994633",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/576030/ss_c76aae63539e559176a2f5c8632cf4c654d404fc.600x338.jpg?t=1707994633",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/576030/ss_f702711a236f57e472b8889e1f0cec48c838eadd.600x338.jpg?t=1707994633",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/576030/ss_391d55bd486fdba2446de6b26b6e3d5708c260d1.600x338.jpg?t=1707994633",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/576030/ss_1f646a279d2686ed1e1332f551e6bb5125caa6b2.600x338.jpg?t=1707994633",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/576030/ss_e6fa1f4e552fc5343d0a06a6806535e9c648954a.600x338.jpg?t=1707994633"
-  ],
-  "detailed_description": "<strong><u>Welcome to Microhard</u></strong><br>- Become a hardware engineer<br>- Join the hardware startup Microhard<br>- Immerse yourself in the technology of the 80's<br>- Disrupt the tech industry<br><br><strong><u>Build your own CPU</u></strong><br>- Design hardware circuits with the integrated hardware development environment<br>- Write your designs in the MHRD hardware design language<br>- Create hardware designs based on more than 20 specifications (e.g. multiplexer, adder, ALU, RAM, etc.)<br>- Simulate and verify your designs<br>- Read the included manual to get started on your career as a hardware engineer<br>- Reuse completed hardware designs to build more complex ones<br>- Design a fully functional CPU and get your mind blown!",
-  "about_the_game": "<strong><u>Welcome to Microhard</u></strong><br>- Become a hardware engineer<br>- Join the hardware startup Microhard<br>- Immerse yourself in the technology of the 80's<br>- Disrupt the tech industry<br><br><strong><u>Build your own CPU</u></strong><br>- Design hardware circuits with the integrated hardware development environment<br>- Write your designs in the MHRD hardware design language<br>- Create hardware designs based on more than 20 specifications (e.g. multiplexer, adder, ALU, RAM, etc.)<br>- Simulate and verify your designs<br>- Read the included manual to get started on your career as a hardware engineer<br>- Reuse completed hardware designs to build more complex ones<br>- Design a fully functional CPU and get your mind blown!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Trading Cards",
-    "Steam Cloud",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 421,
+  "screenshots": [],
   "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 19.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 432,
-  "review_positive": 386,
+  "review_positive": 0,
   "review_percentage": 89.4,
   "owner_estimate": 75000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 875,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 413,
-      "review_percentage": 89.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 431,
-      "review_percentage": 89.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 432,
       "review_percentage": 89.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

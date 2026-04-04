@@ -3,8 +3,8 @@
   "name": "Bellboy Boris",
   "slug": "bellboy-boris",
   "developer": "LGV",
-  "publisher": "LGV",
-  "release_date": "Aug 11, 2023",
+  "publisher": "",
+  "release_date": "2023-08-11",
   "price_usd": 0.49,
   "genres": [
     "Adventure",
@@ -21,34 +21,15 @@
   ],
   "short_description": "Bellboy Boris is a 2D platformer where you have to collect luggages and delivery them to specific and randomly defined rooms as fast as you can.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2528850/header.jpg?t=1705424130",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2528850/ss_3237513dd1b91aa7f7347ff39178d12786dcb476.600x338.jpg?t=1705424130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2528850/ss_8b14b0f56c2baa6bbd7cb12400fc1c3d2f34a56e.600x338.jpg?t=1705424130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2528850/ss_a0a4e4b894570e41285e7c3f7ad34fc6eb0a9c6c.600x338.jpg?t=1705424130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2528850/ss_8ba7efece73686bc6a315923130e36d8413f41ac.600x338.jpg?t=1705424130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2528850/ss_0eba9965006a7ee948301227a845468d630d59ed.600x338.jpg?t=1705424130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2528850/ss_e2a95c46e2f9c22661545041eaf5088101681c86.600x338.jpg?t=1705424130"
-  ],
-  "detailed_description": "Boris works at a very strange hotel where, at night, some of the objects seem to come to life and walk freely in the corridors. Regardless, he must do his job and deliver lost luggages to some of the hotel rooms. In this retro-style 2D platformer, help Boris to do his job as safely and quickly as possible!<br />\r\n<br />\r\n> Main features/characteristics:<br />\r\n- Hotel map with three floors;<br />\r\n- Six lost luggages to collect;<br />\r\n- Six randomly defined rooms to deliver the luggages;<br />\r\n- Three elevators to move between floors;<br />\r\n- Built-in speedrun timer.",
-  "about_the_game": "Boris works at a very strange hotel where, at night, some of the objects seem to come to life and walk freely in the corridors. Regardless, he must do his job and deliver lost luggages to some of the hotel rooms. In this retro-style 2D platformer, help Boris to do his job as safely and quickly as possible!<br />\r\n<br />\r\n> Main features/characteristics:<br />\r\n- Hotel map with three floors;<br />\r\n- Six lost luggages to collect;<br />\r\n- Six randomly defined rooms to deliver the luggages;<br />\r\n- Three elevators to move between floors;<br />\r\n- Built-in speedrun timer.",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese, Filipino",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

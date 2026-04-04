@@ -3,8 +3,8 @@
   "name": "Emotes Creator Tool",
   "slug": "emotes-creator-tool",
   "developer": "DamDSN",
-  "publisher": "DamDSN",
-  "release_date": "Aug 22, 2022",
+  "publisher": "",
+  "release_date": "2022-08-22",
   "price_usd": 49.99,
   "genres": [
     "Design & Illustration"
@@ -17,34 +17,15 @@
   ],
   "short_description": "Emotes Creator Tool (ECT) is a Windows software which allows you to create unique emotes without any drawing skills.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803800/header.jpg?t=1678776685",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803800/ss_c242b3362a4c187305b1028c2178501a35bea196.600x338.jpg?t=1678776685",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803800/ss_06d1a0d0be2a9217909d4d2f65fc2fda942bc6e1.600x338.jpg?t=1678776685",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803800/ss_77170621e7c3571658c6ae94f2a74eee3399f139.600x338.jpg?t=1678776685",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803800/ss_d31f2dd03f66cce370adbd41ae61030e16b17366.600x338.jpg?t=1678776685",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803800/ss_a9513181b67d72a42902d601c5168541522206b1.600x338.jpg?t=1678776685",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803800/ss_b3f89867d06d8cf3bf1f56c438d8b8dbd41a6641.600x338.jpg?t=1678776685",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803800/ss_1abc395782da1a31ac1cff5d53ec8aae7cd93fbe.600x338.jpg?t=1678776685",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803800/ss_f86721be0a574b276cf387e0c1e0c81caa2a1bae.600x338.jpg?t=1678776685",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803800/ss_d4e00615070de7160c970f5af9b80df98a1dfa8a.600x338.jpg?t=1678776685",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1803800/ss_fa7356b245c23a8bad89dafc9a49efd62ac5442e.600x338.jpg?t=1678776685"
-  ],
-  "detailed_description": "<strong>Emotes Creator Tool</strong> (ECT) is a Windows software which allows you to create unique emotes without any drawing skills.<br><br>You can use these emotes on twitch,youtube, discord or any other platform.<br>Even if you’re not a streamer, you can create avatars for your social media profiles.<br><br>Hundreds of assets are at your disposition to create your original emotes and avatar.<br><br>This is what you can do:<br><ul class=\"bb_ul\"><li>Change color<br></li><li>Change saturation<br></li><li>Change luminosity<br></li><li>Rotation<br></li><li>Resize<br></li><li>Move freely each element<br></li><li>Merge layers<br></li><li>Duplicate layers<br></li><li>Flip layers</li></ul><br>Once your emote is ready you can:<br><ul class=\"bb_ul\"><li>Create the png file (in various sizes)<br></li><li>Export your template<br></li><li>Import a template<br></li><li>Create a miniature</li></ul><br>There's also a randomizer if you don't find good ideas!",
-  "about_the_game": "<strong>Emotes Creator Tool</strong> (ECT) is a Windows software which allows you to create unique emotes without any drawing skills.<br><br>You can use these emotes on twitch,youtube, discord or any other platform.<br>Even if you’re not a streamer, you can create avatars for your social media profiles.<br><br>Hundreds of assets are at your disposition to create your original emotes and avatar.<br><br>This is what you can do:<br><ul class=\"bb_ul\"><li>Change color<br></li><li>Change saturation<br></li><li>Change luminosity<br></li><li>Rotation<br></li><li>Resize<br></li><li>Move freely each element<br></li><li>Merge layers<br></li><li>Duplicate layers<br></li><li>Flip layers</li></ul><br>Once your emote is ready you can:<br><ul class=\"bb_ul\"><li>Create the png file (in various sizes)<br></li><li>Export your template<br></li><li>Import a template<br></li><li>Create a miniature</li></ul><br>There's also a randomizer if you don't find good ideas!",
-  "supported_languages": "English, French",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 5,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Turing Complete",
   "slug": "turing-complete",
   "developer": "LevelHead",
-  "publisher": "LevelHead",
-  "release_date": "Oct 2, 2021",
+  "publisher": "",
+  "release_date": "2021-10-02",
   "price_usd": 17.99,
   "genres": [
     "Simulation",
@@ -21,35 +21,9 @@
   ],
   "short_description": "Learn CPU architecture with puzzles",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444480/header.jpg?t=1740369335",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444480/ss_11c609c02e242aff7261676d063f732d4fa66653.600x338.jpg?t=1740369335",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444480/ss_c60bd540cc6586e01b7d3aba3ba33b1c07f222c0.600x338.jpg?t=1740369335",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444480/ss_1bac4bab81311d236e9ce373da10f3f978fffa44.600x338.jpg?t=1740369335",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444480/ss_98c828431dbca7c85d909e8a9f894fe036ca8b0a.600x338.jpg?t=1740369335",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444480/ss_49556255a39a45d67e360f28b853643f05e19851.600x338.jpg?t=1740369335",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444480/ss_a196fa59ea171f4d3e28750cd939b1255bafe966.600x338.jpg?t=1740369335"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" ><strong>-= LEARN =-</strong></h2><br><br>Everything in a computer can be constructed from a basic component called a NAND gate. You will be challenged through a series of puzzles, to discover the path from NAND gates to arithmetic, memory and all the way to full CPU architectures. If you complete this game, you will have a deep understanding of how assembly, CPU instruction sets and basic components are related. And you will understand how programming concepts like if statements, loops and functions actually work in assembly and hardware.<br><br><br> <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444480/extras/0d4906af0c401049ac58f4cba5b86da3.avif?t=1740369335\" width=350 height=160 /></span><h2 class=\"bb_tag\" ><strong>-= BUILD =-</strong></h2><br><br>The game is built on a powerful simulator, that gives you total freedom in how you solve levels or create your own computers. Wire up screens, timers, sound, keyboard input and network components to create whatever you want. You can even design a unique assembly language for your computer.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444480/extras/f5bef2dcda1ae4ea505f0298b316858e.avif?t=1740369335\" width=550 height=354 /></span>",
-  "about_the_game": "<h2 class=\"bb_tag\" ><strong>-= LEARN =-</strong></h2><br><br>Everything in a computer can be constructed from a basic component called a NAND gate. You will be challenged through a series of puzzles, to discover the path from NAND gates to arithmetic, memory and all the way to full CPU architectures. If you complete this game, you will have a deep understanding of how assembly, CPU instruction sets and basic components are related. And you will understand how programming concepts like if statements, loops and functions actually work in assembly and hardware.<br><br><br> <span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444480/extras/0d4906af0c401049ac58f4cba5b86da3.avif?t=1740369335\" width=350 height=160 /></span><h2 class=\"bb_tag\" ><strong>-= BUILD =-</strong></h2><br><br>The game is built on a powerful simulator, that gives you total freedom in how you solve levels or create your own computers. Wire up screens, timers, sound, keyboard input and network components to create whatever you want. You can even design a unique assembly language for your computer.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1444480/extras/f5bef2dcda1ae4ea505f0298b316858e.avif?t=1740369335\" width=550 height=354 /></span>",
-  "supported_languages": "English, French, German, Simplified Chinese, Spanish - Latin America",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 4915,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 5069,
-  "review_positive": 4875,
+  "review_positive": 0,
   "review_percentage": 96.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4011,
-      "review_percentage": 96.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 5069,
       "review_percentage": 96.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

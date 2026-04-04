@@ -3,8 +3,8 @@
   "name": "Caviar",
   "slug": "caviar",
   "developer": "robinz",
-  "publisher": "robinz",
-  "release_date": "Apr 15, 2024",
+  "publisher": "",
+  "release_date": "2024-04-15",
   "price_usd": 2.99,
   "genres": [
     "Casual",
@@ -19,35 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Dive into an immersive underwater world with your Polaroid camera, capturing stunning fish and growing the ecosystem with each snapshot. Explore this short, whimsical sandbox experience as you bring life to the depths beneath the waves.",
+  "short_description": "Dive into an immersive underwater world with your Polaroid camera, capturing stunning fish and growing the ecosystem with each snapshot. Explore this short, whimsical sandbox experience as you bring l",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2792460/header.jpg?t=1713291598",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2792460/ss_8bb98a7edc0b2e0280295f9803ca4647d6ea1b5e.600x338.jpg?t=1713291598",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2792460/ss_c49bff93ea6f4213f83f3cd0ebbc63c078b799cc.600x338.jpg?t=1713291598",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2792460/ss_86c8020d508240e5361dfd93bed746f03ec756f3.600x338.jpg?t=1713291598",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2792460/ss_6657b8707c9a012def1c9f04c9a73de059bb0a34.600x338.jpg?t=1713291598",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2792460/ss_16a94480e70190c2801dd20ed87d3df7e63d8cc4.600x338.jpg?t=1713291598"
-  ],
-  "detailed_description": "<strong>A Fish Photography Game</strong><br><br>Dive into an immersive underwater world with your Polaroid camera, capturing stunning fish and growing the ecosystem with each snapshot. Explore this short, whimsical sandbox experience as you bring life to the depths beneath the waves.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2792460/extras/ec52aa04121123c058a70895c472640d.poster.avif?t=1713291598\" width=774 height=186 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2792460/extras/ec52aa04121123c058a70895c472640d.webm?t=1713291598\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2792460/extras/ec52aa04121123c058a70895c472640d.mp4?t=1713291598\" type=\"video/mp4\"></video></span><br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li>8+ Fish Variants.<br></li><li>15+ Minutes of playtime.<br></li><li>Your polaroid's saves onto your computer :<br>->Users->[UserName]->AppData->LocalLow->defaultcompany->Caviar.<br></li><li>Befriend the Manatee.</li></ul>",
-  "about_the_game": "<strong>A Fish Photography Game</strong><br><br>Dive into an immersive underwater world with your Polaroid camera, capturing stunning fish and growing the ecosystem with each snapshot. Explore this short, whimsical sandbox experience as you bring life to the depths beneath the waves.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2792460/extras/ec52aa04121123c058a70895c472640d.poster.avif?t=1713291598\" width=774 height=186 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2792460/extras/ec52aa04121123c058a70895c472640d.webm?t=1713291598\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2792460/extras/ec52aa04121123c058a70895c472640d.mp4?t=1713291598\" type=\"video/mp4\"></video></span><br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li>8+ Fish Variants.<br></li><li>15+ Minutes of playtime.<br></li><li>Your polaroid's saves onto your computer :<br>->Users->[UserName]->AppData->LocalLow->defaultcompany->Caviar.<br></li><li>Befriend the Manatee.</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

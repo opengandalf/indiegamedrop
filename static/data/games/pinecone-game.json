@@ -3,8 +3,8 @@
   "name": "Pinecone Game",
   "slug": "pinecone-game",
   "developer": "Frameblade",
-  "publisher": "Frameblade",
-  "release_date": "Dec 30, 2021",
+  "publisher": "",
+  "release_date": "2021-12-30",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -21,37 +21,15 @@
   ],
   "short_description": "Welcome to Pinecone Game, where you can plunge into the wonderful world of throwing pinecones into a well!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818150/header.jpg?t=1744200185",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818150/ss_dad95a917da947083b4255c9c97edafc2010b75e.600x338.jpg?t=1744200185",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818150/ss_7e166a9c212575d067439781b14654dd4a14a6b4.600x338.jpg?t=1744200185",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818150/ss_bcd018205cd6f70d6cf9fb1d24c0a11a926d2278.600x338.jpg?t=1744200185",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818150/ss_625352ad4b64407fd06e0b163f1634e34c6c2bf5.600x338.jpg?t=1744200185",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818150/ss_6d5406822b79be3d6946dc90c78f7b3fe5a7242d.600x338.jpg?t=1744200185",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818150/ss_641a49ebbf1cc6eb82ddc45e98e63430372f7879.600x338.jpg?t=1744200185"
-  ],
-  "detailed_description": "Welcome to Pinecone Game, where you can plunge into the wonderful world of throwing pinecones into a well!<br><br><ul class=\"bb_ul\"><li><strong>Throw pinecones into the well</strong> - just pick up a pinecone and throw it into the well in the middle of your flying island. The new pine cone will be available in 24 hours.<br></li><li><strong>Take a look at the leaderboard</strong> - find out how many pinecones your friends and other players from all over the world have thrown into the well.<br></li><li><strong>Sit down and rest</strong> - while waiting for a new pinecone, you can sit on a specially equipped bench and relax, contemplating the surrounding nature.</li></ul><br><i> WARNING! For your safety, do not climb over the fences of the flying island, or hang over the walls of the well. </i>",
-  "about_the_game": "Welcome to Pinecone Game, where you can plunge into the wonderful world of throwing pinecones into a well!<br><br><ul class=\"bb_ul\"><li><strong>Throw pinecones into the well</strong> - just pick up a pinecone and throw it into the well in the middle of your flying island. The new pine cone will be available in 24 hours.<br></li><li><strong>Take a look at the leaderboard</strong> - find out how many pinecones your friends and other players from all over the world have thrown into the well.<br></li><li><strong>Sit down and rest</strong> - while waiting for a new pinecone, you can sit on a specially equipped bench and relax, contemplating the surrounding nature.</li></ul><br><i> WARNING! For your safety, do not climb over the fences of the flying island, or hang over the walls of the well. </i>",
-  "supported_languages": "English, Simplified Chinese, Russian, Korean, Finnish",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "In-App Purchases",
-    "Steam Cloud",
-    "Steam Leaderboards"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0002,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 5.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 97,
-  "review_positive": 81,
+  "review_positive": 0,
   "review_percentage": 83.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 92,
-      "review_percentage": 84.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 97,
       "review_percentage": 83.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

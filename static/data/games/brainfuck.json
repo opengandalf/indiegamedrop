@@ -3,8 +3,8 @@
   "name": "Brainfuck",
   "slug": "brainfuck",
   "developer": "Esoterics",
-  "publisher": "Esoterics",
-  "release_date": "Sep 27, 2018",
+  "publisher": "",
+  "release_date": "2018-09-27",
   "price_usd": 2.99,
   "genres": [
     "Casual",
@@ -22,37 +22,17 @@
     "windows",
     "linux"
   ],
-  "short_description": "Brainfuck is a guide and a highly-interactive simulator of the smallest complete programming language in the world. Master all of its 8 commands to program with capabilities equivalent to those of codes written in any other modern language.",
+  "short_description": "Brainfuck is a guide and a highly-interactive simulator of the smallest complete programming language in the world. Master all of its 8 commands to program with capabilities equivalent to those of cod",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/933970/header.jpg?t=1538409914",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/933970/ss_e27a6a129254aac2e4e5be9dcd33f143739bb655.600x338.jpg?t=1538409914",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/933970/ss_5f666f7d63d8d60ac14117f6efa3f2e108881984.600x338.jpg?t=1538409914",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/933970/ss_e62a4527e1eb787d4965911e21523c2542689b3a.600x338.jpg?t=1538409914",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/933970/ss_e25d3da95577afee0e25abcb6aa47a02e90e73c7.600x338.jpg?t=1538409914",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/933970/ss_814625b8695da0c9052236226a30a09724237c54.600x338.jpg?t=1538409914"
-  ],
-  "detailed_description": "Brainfuck is an extremely minimalistic, fully competent, Turing-complete esoteric programming language created in 1993 as more of a theoretical joke rather than a tool for real-world software development. With just 8 extremely simple commands, Brainfuck code can be used to write algorithms performing virtually any computational task possible.<br />\r\n<br />\r\nDue to its simplicity, Brainfuck has a very shallow learning curve. It takes 5 minutes to learn but days of active thinking to master. This game, being a combination of an interactive guide with a powerful simulator equipped with debugging features, leads players through the primitive structures and basic patterns of the language with the ultimate goal of writing a self-interpreter (a program written in Brainfuck that can execute any valid Brainfuck code). Waves of frustration commonly associated with learning by many are fought against by a rich set of notes and hints that make completion of individual tasks painless and if one ever gets lost at any point, the game comes with a database of thoroughly worked solutions.<br />\r\n<br />\r\nA part of the content of the game is subdivided into schemas of scenarios that each focus on different aspects of Brainfuck programming. The basic tutorial demonstrates the many capabilities of the language and can be completed in just 20 minutes. Scenarios on calculations, number sequences, sorting and optimization give players a broad overview of what's possible not just in Brainfuck, but in the programming world in general. All of the problem-solving skills acquired can be further used in one's personal and professional interests. Should one feel like experimenting or working on their own project, the Sandbox schema provides the environment to do so. <br />\r\n<br />\r\nThe game also features a level editor that can be brought up at any time by a single mouse click on both distributed and custom content. Schematics of different scenarios, testing plans, and savegames are hand-editable and the documentation is provided in the game itself, allowing players to create their own custom fork of the content.",
-  "about_the_game": "Brainfuck is an extremely minimalistic, fully competent, Turing-complete esoteric programming language created in 1993 as more of a theoretical joke rather than a tool for real-world software development. With just 8 extremely simple commands, Brainfuck code can be used to write algorithms performing virtually any computational task possible.<br />\r\n<br />\r\nDue to its simplicity, Brainfuck has a very shallow learning curve. It takes 5 minutes to learn but days of active thinking to master. This game, being a combination of an interactive guide with a powerful simulator equipped with debugging features, leads players through the primitive structures and basic patterns of the language with the ultimate goal of writing a self-interpreter (a program written in Brainfuck that can execute any valid Brainfuck code). Waves of frustration commonly associated with learning by many are fought against by a rich set of notes and hints that make completion of individual tasks painless and if one ever gets lost at any point, the game comes with a database of thoroughly worked solutions.<br />\r\n<br />\r\nA part of the content of the game is subdivided into schemas of scenarios that each focus on different aspects of Brainfuck programming. The basic tutorial demonstrates the many capabilities of the language and can be completed in just 20 minutes. Scenarios on calculations, number sequences, sorting and optimization give players a broad overview of what's possible not just in Brainfuck, but in the programming world in general. All of the problem-solving skills acquired can be further used in one's personal and professional interests. Should one feel like experimenting or working on their own project, the Sandbox schema provides the environment to do so. <br />\r\n<br />\r\nThe game also features a level editor that can be brought up at any time by a single mouse click on both distributed and custom content. Schematics of different scenarios, testing plans, and savegames are hand-editable and the documentation is provided in the game itself, allowing players to create their own custom fork of the content.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Cloud",
-    "Stats",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 1.1500000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 23,
-  "review_positive": 9,
+  "review_positive": 0,
   "review_percentage": 39.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +40,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 22,
-      "review_percentage": 36.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 23,
       "review_percentage": 39.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

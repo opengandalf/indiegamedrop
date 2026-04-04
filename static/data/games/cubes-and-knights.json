@@ -3,8 +3,8 @@
   "name": "Cubes and Knights",
   "slug": "cubes-and-knights",
   "developer": "Sergey Bobrov",
-  "publisher": "Sergey Bobrov",
-  "release_date": "May 4, 2022",
+  "publisher": "",
+  "release_date": "2022-05-04",
   "price_usd": 7.99,
   "genres": [
     "Action",
@@ -19,62 +19,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "You are strong and huge, you have a heavy sword in your hands, and somewhere deep an ancient evil is hidden. The King himself sent you on a difficult campaign: to find the immortal enemy of all people. Find ancient artifacts and work your way through the labyrinths with steel and magic.",
+  "short_description": "You are strong and huge, you have a heavy sword in your hands, and somewhere deep an ancient evil is hidden. The King himself sent you on a difficult campaign: to find the immortal enemy of all people",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1859770/header.jpg?t=1651675189",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1859770/ss_da991989128d41b965ff5d0f0457781da5bda5d4.600x338.jpg?t=1651675189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1859770/ss_ae8eb4f3d5a254872cd5384f3cd74c71edc74b27.600x338.jpg?t=1651675189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1859770/ss_cc40162440366d5c4abaec4034fd809ac1ccee9c.600x338.jpg?t=1651675189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1859770/ss_4e76e89b3e9e601ef5a4d8ac25c6535c292c71a6.600x338.jpg?t=1651675189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1859770/ss_d3b7e1030a4a7d964494dd4df3c884caeaa3bafb.600x338.jpg?t=1651675189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1859770/ss_b5f54d023c14d4ebfbe400de694b54ef46afc698.600x338.jpg?t=1651675189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1859770/ss_17b414f1f7a3f69c29282bdfe4b7e7b7f2655797.600x338.jpg?t=1651675189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1859770/ss_ee7f0056a04e0e49031f621a31055c7ed1c3b560.600x338.jpg?t=1651675189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1859770/ss_98f6da5eea40c556afa854aae0ee745d02959398.600x338.jpg?t=1651675189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1859770/ss_caf25d7f415de67fd472d178213777d043b0ff2c.600x338.jpg?t=1651675189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1859770/ss_0af0b286390b6f5fb2534325b26c8a522f03f309.600x338.jpg?t=1651675189",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1859770/ss_c59c1b58e2efdebcd16b8cef8c6019f931d3c3d7.600x338.jpg?t=1651675189"
-  ],
-  "detailed_description": "You are the best warrior of the King, and you have a task: to find an ancient evil, an immortal necromancer who hides in the depths of the dungeons.<br />\r\nYou are good with melee weapons, however, this may not be enough for the success of your mission.<br />\r\n<br />\r\nDungeon labyrinths were built a long time ago.<br />\r\nMany secret passages, lost artifacts, wandering merchants.<br />\r\nAll of these can strengthen you!<br />\r\nMagic staves will give you opportunities that exceed any melee weapon.<br />\r\nElixirs will fill you with fortitude, stamina and health.<br />\r\nAncient rings will give unusual abilities that you could not even think of.<br />\r\n<br />\r\nMake your way through the dungeons, crush their walls and their defenders - to find and challenge the ancient necromancer.<br />\r\nAnd in the event of your death, well, it's okay: the King will send the next knight on this deadly mission.<br />\r\n<br />\r\n---<br />\r\n<br />\r\nGame features.<br />\r\n<br />\r\n- Permanent death: if the knight dies, then the King's task will have to be completed by another. The King has many knights.<br />\r\n- Fighting with swords: the emphasis in the combat system is on melee weapons. In addition to normal attacks, knights can also push opponents away and parry their attacks.<br />\r\n- Items: There are a lot of items hidden in the dungeons that will help you in battles.<br />\r\n- Secret locations: a particularly attentive knight will be able to find secret corridors and halls, sometimes with tangible benefits for himself.<br />\r\n- Merchants: occasionally knights will find peaceful characters, and in secret locations they will be able to purchase amplifying artifacts from them.<br />\r\n<br />\r\nThe technical side.<br />\r\n<br />\r\n- I wrote the engine code in C++, this is a software renderer. This means that the whole picture is being built by the CPU forces.<br />\r\n- I used Code::Blocks, GCC, VisualStudio, Sleepy, Blender, GIMP, Audacity to create code, models, textures and sounds.<br />\r\n- In general, the project is inspired by games from the 90s, that era of early 3D on the PC.",
-  "about_the_game": "You are the best warrior of the King, and you have a task: to find an ancient evil, an immortal necromancer who hides in the depths of the dungeons.<br />\r\nYou are good with melee weapons, however, this may not be enough for the success of your mission.<br />\r\n<br />\r\nDungeon labyrinths were built a long time ago.<br />\r\nMany secret passages, lost artifacts, wandering merchants.<br />\r\nAll of these can strengthen you!<br />\r\nMagic staves will give you opportunities that exceed any melee weapon.<br />\r\nElixirs will fill you with fortitude, stamina and health.<br />\r\nAncient rings will give unusual abilities that you could not even think of.<br />\r\n<br />\r\nMake your way through the dungeons, crush their walls and their defenders - to find and challenge the ancient necromancer.<br />\r\nAnd in the event of your death, well, it's okay: the King will send the next knight on this deadly mission.<br />\r\n<br />\r\n---<br />\r\n<br />\r\nGame features.<br />\r\n<br />\r\n- Permanent death: if the knight dies, then the King's task will have to be completed by another. The King has many knights.<br />\r\n- Fighting with swords: the emphasis in the combat system is on melee weapons. In addition to normal attacks, knights can also push opponents away and parry their attacks.<br />\r\n- Items: There are a lot of items hidden in the dungeons that will help you in battles.<br />\r\n- Secret locations: a particularly attentive knight will be able to find secret corridors and halls, sometimes with tangible benefits for himself.<br />\r\n- Merchants: occasionally knights will find peaceful characters, and in secret locations they will be able to purchase amplifying artifacts from them.<br />\r\n<br />\r\nThe technical side.<br />\r\n<br />\r\n- I wrote the engine code in C++, this is a software renderer. This means that the whole picture is being built by the CPU forces.<br />\r\n- I used Code::Blocks, GCC, VisualStudio, Sleepy, Blender, GIMP, Audacity to create code, models, textures and sounds.<br />\r\n- In general, the project is inspired by games from the 90s, that era of early 3D on the PC.",
-  "supported_languages": "English, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
-  "gem_score": 0.7238,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 4.15,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 83,
-  "review_positive": 77,
+  "review_positive": 0,
   "review_percentage": 92.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 81,
-      "review_percentage": 92.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 83,
       "review_percentage": 92.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

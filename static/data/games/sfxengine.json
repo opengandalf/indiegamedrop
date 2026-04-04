@@ -3,8 +3,8 @@
   "name": "SFXEngine",
   "slug": "sfxengine",
   "developer": "Cornutopia Software",
-  "publisher": "Cornutopia Software",
-  "release_date": "Jun 23, 2023",
+  "publisher": "",
+  "release_date": "2023-06-23",
   "price_usd": 14.99,
   "genres": [
     "Audio Production",
@@ -19,31 +19,9 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "SFXEngine is powerful sound effect creation software for Windows, designed to for the creation of sound effects in a modular way. Using a plug-in based synthesis system, you can use SFXEngine to quickly and easily create any sound, or add audio effects to existing sounds.",
+  "short_description": "SFXEngine is powerful sound effect creation software for Windows, designed to for the creation of sound effects in a modular way. Using a plug-in based synthesis system, you can use SFXEngine to quick",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438590/header.jpg?t=1764677467",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438590/e0e16882517bdb61e5f8733175e2e8aee7cecbc9/ss_e0e16882517bdb61e5f8733175e2e8aee7cecbc9.600x338.jpg?t=1764677467",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438590/459efc2b0108f3e9ee1b341d17aa9d0248df42b8/ss_459efc2b0108f3e9ee1b341d17aa9d0248df42b8.600x338.jpg?t=1764677467",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438590/e845f4e80ad0be158242b174da8a34b8e23b4d3a/ss_e845f4e80ad0be158242b174da8a34b8e23b4d3a.600x338.jpg?t=1764677467",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438590/9e9f7fa70e8c6363611231685123f8e6d1358139/ss_9e9f7fa70e8c6363611231685123f8e6d1358139.600x338.jpg?t=1764677467",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438590/f886c6fc6cdf2e6b5727f894f48d544f9d8c0f5a/ss_f886c6fc6cdf2e6b5727f894f48d544f9d8c0f5a.600x338.jpg?t=1764677467",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438590/e8720432d0ec314cf102f8df304d7dfceb9adc3c/ss_e8720432d0ec314cf102f8df304d7dfceb9adc3c.600x338.jpg?t=1764677467",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438590/f7629bc14cbb78946e4a8a478f794b4b9bba2ae2/ss_f7629bc14cbb78946e4a8a478f794b4b9bba2ae2.600x338.jpg?t=1764677467"
-  ],
-  "detailed_description": "SFXEngine is powerful sound creation software for Windows PC's, one of the first software tools designed to for the creation of sound effects in a modular way. Using a plug-in based synthesis system, you can use SFXEngine to quickly and easily create any sound, or add new audio effects to existing sounds.<br />\r\n<br />\r\nLike filters in graphics programs, the engines in SFXEngine are plug-in files that create or manipulate sound in some way. The Sample engine will play a sample of your choice, and the Simple Reverb engine will add reverb. Up to twelve engines are placed in series to make a program. All of the engines use unique custom algorithms. From Oxyverb and Oscillator Synchronisation, to Band Distortion and Tuned Flange, you won't find these audio effects anywhere else.<br />\r\n<br />\r\nSFXEngine ships with 13 basic engines. Extra engines can be added in batches of 'Bolt-on' DLC, allowing you to customise the program for your needs and your budget.<br />\r\n<br />\r\nModulation is power. Every engine in SFXEngine has a number of parameters, the Low Pass Filter engine for example has Cutoff Frequency as a parameter. What makes SFXEngine so powerful is that any parameter can be modulated. Modulators are wav files, so it's easy to import, export, or design your own, as well as use the extensive editing tools in the program.<br />\r\n<br />\r\nEnvironments give you another layer of processing. Using another set of engines, you can apply the same audio effects to all of your sounds. You might create a cavern environment, or a tunnel environment. You can add as many Environments as you like to a project, or load and save Environments between projects.<br />\r\n<br />\r\nBatch processing is no problem in SFXEngine, and a big part of the program design is library management. When you're ready to save out all of your sounds, the render option will save each one as a wav file. You can specify which Environment to use and whether to save all of your sounds, a range, or just one. You can save stereo or mono files, in any compatible frequency (from 8000hz to 192,000hz or more), in 16-bit dithered, 16-bit undithered, or 32-bit float. Sounds can be automatically trimmed to a level of your choice so there is no need for further editing.<br />\r\n<br />\r\nDeveloped in 2004 and used professionally ever since, SFXEngine has been continually updated and is now exclusively available on Steam.",
-  "about_the_game": "SFXEngine is powerful sound creation software for Windows PC's, one of the first software tools designed to for the creation of sound effects in a modular way. Using a plug-in based synthesis system, you can use SFXEngine to quickly and easily create any sound, or add new audio effects to existing sounds.<br />\r\n<br />\r\nLike filters in graphics programs, the engines in SFXEngine are plug-in files that create or manipulate sound in some way. The Sample engine will play a sample of your choice, and the Simple Reverb engine will add reverb. Up to twelve engines are placed in series to make a program. All of the engines use unique custom algorithms. From Oxyverb and Oscillator Synchronisation, to Band Distortion and Tuned Flange, you won't find these audio effects anywhere else.<br />\r\n<br />\r\nSFXEngine ships with 13 basic engines. Extra engines can be added in batches of 'Bolt-on' DLC, allowing you to customise the program for your needs and your budget.<br />\r\n<br />\r\nModulation is power. Every engine in SFXEngine has a number of parameters, the Low Pass Filter engine for example has Cutoff Frequency as a parameter. What makes SFXEngine so powerful is that any parameter can be modulated. Modulators are wav files, so it's easy to import, export, or design your own, as well as use the extensive editing tools in the program.<br />\r\n<br />\r\nEnvironments give you another layer of processing. Using another set of engines, you can apply the same audio effects to all of your sounds. You might create a cavern environment, or a tunnel environment. You can add as many Environments as you like to a project, or load and save Environments between projects.<br />\r\n<br />\r\nBatch processing is no problem in SFXEngine, and a big part of the program design is library management. When you're ready to save out all of your sounds, the render option will save each one as a wav file. You can specify which Environment to use and whether to save all of your sounds, a range, or just one. You can save stereo or mono files, in any compatible frequency (from 8000hz to 192,000hz or more), in 16-bit dithered, 16-bit undithered, or 32-bit float. Sounds can be automatically trimmed to a level of your choice so there is no need for further editing.<br />\r\n<br />\r\nDeveloped in 2004 and used professionally ever since, SFXEngine has been continually updated and is now exclusively available on Steam.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 1,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -53,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Buccaneer",
   "slug": "buccaneer",
   "developer": "Divide By Zero Software",
-  "publisher": "SNEG",
-  "release_date": "Jul 1, 2024",
+  "publisher": "",
+  "release_date": "2024-07-01",
   "price_usd": 2.99,
   "genres": [
     "Action",
@@ -21,40 +21,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "BUCCANEER is a 17th-century Caribbean 3D adventure that blends high-seas combat with resource management. Opt for combat-only, engage in ship-to-ship battles or lead crew boardings. Dive into the buccaneer world through campaigns. Plunder, negotiate, survive, and live to tell the tale!",
+  "short_description": "BUCCANEER is a 17th-century Caribbean 3D adventure that blends high-seas combat with resource management. Opt for combat-only, engage in ship-to-ship battles or lead crew boardings. Dive into the bucc",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702120/header.jpg?t=1728486947",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702120/ss_2c13d3fcf33546b3c146a061b22fbdd065b9d2df.600x338.jpg?t=1728486947",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702120/ss_75932bc063daa9ff96b79aa8e6aa47e23e941149.600x338.jpg?t=1728486947",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702120/ss_fedc17ded47a6b17f1c6f38136ebb42b18f04e96.600x338.jpg?t=1728486947",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702120/ss_58277fc7461957bf984ca6a7da1cc8927de45bdc.600x338.jpg?t=1728486947",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702120/ss_f5d26e5795990a02be7fe29680556a3cc2284637.600x338.jpg?t=1728486947",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702120/ss_5cd3e75f99eb941c351430d3896991b2538205cc.600x338.jpg?t=1728486947",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702120/ss_b1785076ad0d4db459121495bf2730b85c443190.600x338.jpg?t=1728486947",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702120/ss_45b8b6ed264e2c98ba3f6d502bb6b43932f8e32d.600x338.jpg?t=1728486947",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702120/ss_d19421fb508798dcebb0459376e9d794bd3284ec.600x338.jpg?t=1728486947",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702120/ss_0a165ff86291978468f86aca49b1a48699f21d2e.600x338.jpg?t=1728486947",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702120/ss_baaf378dc885423ac54c4fb8eb8c2ddea63cd112.600x338.jpg?t=1728486947"
-  ],
-  "detailed_description": "Buccaneer, a classic game from 1997, thrusts you into a 17th-century Caribbean adventure, offering intense high-seas combat and strategic resource management. <br />\r\n<br />\r\nDive into thrilling ship-to-ship battles or lead daring crew boardings. Choose the 'cut-to-the-chase' combat-only option or immerse yourself in the buccaneer world through detailed campaigns. Survive and thrive by upgrading ships, managing content crews, and conquering 21 Caribbean territories. <br />\r\n<br />\r\nPlunder ports, negotiate, and live to tell your tale! Embark on 6 unique storylines, navigate your buccaneer career, and aim for amnesty or a wealthy retirement. Conquer the seas in this immersive pirate saga!",
-  "about_the_game": "Buccaneer, a classic game from 1997, thrusts you into a 17th-century Caribbean adventure, offering intense high-seas combat and strategic resource management. <br />\r\n<br />\r\nDive into thrilling ship-to-ship battles or lead daring crew boardings. Choose the 'cut-to-the-chase' combat-only option or immerse yourself in the buccaneer world through detailed campaigns. Survive and thrive by upgrading ships, managing content crews, and conquering 21 Caribbean territories. <br />\r\n<br />\r\nPlunder ports, negotiate, and live to tell your tale! Embark on 6 unique storylines, navigate your buccaneer career, and aim for amnesty or a wealthy retirement. Conquer the seas in this immersive pirate saga!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.4,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 8,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 40.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

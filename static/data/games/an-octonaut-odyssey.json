@@ -3,8 +3,8 @@
   "name": "An Octonaut Odyssey",
   "slug": "an-octonaut-odyssey",
   "developer": "Octo Studio",
-  "publisher": "Octo Studio",
-  "release_date": "Mar 3, 2017",
+  "publisher": "",
+  "release_date": "2017-03-03",
   "price_usd": 0.99,
   "genres": [
     "Adventure",
@@ -22,34 +22,15 @@
   ],
   "short_description": "It's a game about an amnesiac octopus lost in strange planets.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/566320/header.jpg?t=1488559633",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/566320/ss_82e118e6ea99e66549872e6dc7ad12b44ec1a36b.600x338.jpg?t=1488559633",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/566320/ss_e39d550edf97604306cae3c84f243c666496e53f.600x338.jpg?t=1488559633",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/566320/ss_d7947f2f09d7859cea7d18150c30e98909773505.600x338.jpg?t=1488559633",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/566320/ss_ffc68ad574fca6934fe8b86533793b021898747b.600x338.jpg?t=1488559633",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/566320/ss_7393a653b1a6383d2c84ca4cd2c04eb6e69b3a0c.600x338.jpg?t=1488559633"
-  ],
-  "detailed_description": "In this journey that mixes exploration, logic and platform sections, you are Octo, the amnesiac octopus. You’ll discover with him wild planets, inhabited by strange and evolutive flora and fauna. You’ll meet quirky characters, and gather robots to help Octo recover his capacities and repair his ship. You’ll learn to move around and to evolve in a new and chaotic universe, as well as to avoid the traps that stand in Octo’s way to desorient him.",
-  "about_the_game": "In this journey that mixes exploration, logic and platform sections, you are Octo, the amnesiac octopus. You’ll discover with him wild planets, inhabited by strange and evolutive flora and fauna. You’ll meet quirky characters, and gather robots to help Octo recover his capacities and repair his ship. You’ll learn to move around and to evolve in a new and chaotic universe, as well as to avoid the traps that stand in Octo’s way to desorient him.",
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.8500000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 17,
-  "review_positive": 14,
+  "review_positive": 0,
   "review_percentage": 82.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +38,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 17,
-      "review_percentage": 82.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 17,
       "review_percentage": 82.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

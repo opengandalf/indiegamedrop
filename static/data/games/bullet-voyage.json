@@ -3,8 +3,8 @@
   "name": "Bullet Voyage",
   "slug": "bullet-voyage",
   "developer": "Wending Studio",
-  "publisher": "Wending Studio",
-  "release_date": "Oct 27, 2024",
+  "publisher": "",
+  "release_date": "2024-10-27",
   "price_usd": 1.99,
   "genres": [
     "Action",
@@ -23,33 +23,15 @@
   ],
   "short_description": "Pierce through every enemy with the simplest bullets and forge ahead.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234360/header.jpg?t=1730339515",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234360/ss_3dd840d03417e3cb0c45e045d3ead2fec20bd5a1.600x338.jpg?t=1730339515",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234360/ss_5e5040358d55a7e61b5547746b8d465b686f30f4.600x338.jpg?t=1730339515",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234360/ss_352806149b1278334404b7c3d0db85adcbed2ba7.600x338.jpg?t=1730339515",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234360/ss_c5413314624412ca679db6021a251c47433c5d49.600x338.jpg?t=1730339515",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234360/ss_1fd72482fc2bb7d3831d13f403c9a5eebd8e1073.600x338.jpg?t=1730339515"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Welcome to a minimalist top-down shooter where you start with a variety of abilities at your disposal. Use your controller's buttons to unleash these powers and take on the challenge! The game features multiple enemy types, each with unique behaviors. Defeating different kinds of enemies will allow you to upgrade your abilities, enhancing your game play experience.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >With a total of ten levels, the game progressively increases in difficulty, introducing tougher enemies and new types as you advance. If you’re looking for more levels or a boss battle, feel free to reach out via email. If there’s enough interest, I’ll consider creating additional content for everyone to enjoy! </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong> If you're using a keyboard, here are the controls: use W A S D to move, J to shoot, and I, O, K, and L for your four different abilities.</strong></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Welcome to a minimalist top-down shooter where you start with a variety of abilities at your disposal. Use your controller's buttons to unleash these powers and take on the challenge! The game features multiple enemy types, each with unique behaviors. Defeating different kinds of enemies will allow you to upgrade your abilities, enhancing your game play experience.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >With a total of ten levels, the game progressively increases in difficulty, introducing tougher enemies and new types as you advance. If you’re looking for more levels or a boss battle, feel free to reach out via email. If there’s enough interest, I’ll consider creating additional content for everyone to enjoy! </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong> If you're using a keyboard, here are the controls: use W A S D to move, J to shoot, and I, O, K, and L for your four different abilities.</strong></p>",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Danish, Ukrainian, Russian, Bulgarian, Hungarian, Indonesian, Turkish, Greek, Norwegian, Czech, Japanese, Polish, Thai, Swedish, Simplified Chinese, Traditional Chinese, Romanian, Finnish, Dutch, Portuguese - Brazil, Portuguese - Portugal, Spanish - Latin America, Vietnamese, Arabic, Korean, Uzbek, Urdu, Armenian, Igbo, Sindhi, Sinhala, Croatian, Icelandic, Cherokee, Galician, Catalan, Afrikaans, Kannada, Luxembourgish, Hindi, Gujarati, Kyrgyz, Kazakh, Turkmen, K'iche', Kinyarwanda, Tajik, Serbian, Odia, Welsh, Konkani, Bangla, Nepali, Basque, Hebrew, Latvian, Tigrinya, Slovak, Slovenian, Swahili, Punjabi (Gurmukhi), Punjabi (Shahmukhi), Georgian, Maori, Wolof, Bosnian, Persian, Telugu, Tamil, Irish, Estonian, Valencian, Belarusian, Quechua, Zulu, Xhosa, Lithuanian, Sotho, Sorani, Yoruba, Uyghur, Scots, Tswana, Filipino, Mongolian, Hausa, Dari, Azerbaijani, Amharic, Albanian, Assamese, Tatar, Macedonian, Marathi, Malayalam, Malay, Maltese, Khmer",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 0,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

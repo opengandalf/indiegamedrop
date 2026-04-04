@@ -3,8 +3,8 @@
   "name": "GrumpyTunez",
   "slug": "grumpytunez",
   "developer": "Cranky Wizard Studios LLC",
-  "publisher": "Cranky Wizard Studios LLC",
-  "release_date": "May 18, 2022",
+  "publisher": "",
+  "release_date": "2022-05-18",
   "price_usd": 0.0,
   "genres": [
     "Racing"
@@ -17,34 +17,9 @@
   ],
   "short_description": "GrumpyTunez was designed for quick tuning of vehicles so anyone could tune, race & go faster!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921570/header.jpg?t=1683034275",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921570/ss_3002779153b6a13f199dfed3a765495c158100e2.600x338.jpg?t=1683034275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921570/ss_40184d876a082bda501c8cfa097b755adcff84c0.600x338.jpg?t=1683034275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921570/ss_1b43063f271b79a5dfe2263341d8f02ebc0be2e3.600x338.jpg?t=1683034275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921570/ss_f3302b42f3520d0470cd4859fb7e877deb5e9e70.600x338.jpg?t=1683034275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921570/ss_f78914f0bd409836078f91bcddc46fd5da677bb1.600x338.jpg?t=1683034275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921570/ss_1d62e8642fc457222dd9499cfd330303008141cd.600x338.jpg?t=1683034275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921570/ss_f343d7d1c47dfeb663c834e7959da607bf6ac167.600x338.jpg?t=1683034275",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921570/ss_dc98cf8f9fe79c850428e4a6ad47266c189a666b.600x338.jpg?t=1683034275"
-  ],
-  "detailed_description": "GrumpyTunez was designed for anyone to quickly tune a vehicle. This process can assist tuning a vehicle fast without prior knowledge of gear tuning. Grumpytunez runs as an overlay with supported games to analyze the telemetry data. Telemetry data out features are disabled by default. Features can be enabled via Settings/Hud and Gameplay menu of the game. Grumpytunez will analyze live output of telemetry data. Tune fast, Go fast!<br><br>Features:<br><ul class=\"bb_ul\"><li>Gear tuning<br></li><li>Dyno chart<br></li><li>Live RPM, HP, & TQ displays<br></li><li>Suspension tuning<br></li><li>Live Suspension display<br></li><li>Customizable tuning and display panel layouts.</li></ul><br>Grumpytunez currently supports the following games:<br><ul class=\"bb_ul\"><li>Forza Horizon 4</li><li>Forza Horizon 5</li><li>Forza Motorsport 7 (Windowed Mode)</li></ul>",
-  "about_the_game": "GrumpyTunez was designed for anyone to quickly tune a vehicle. This process can assist tuning a vehicle fast without prior knowledge of gear tuning. Grumpytunez runs as an overlay with supported games to analyze the telemetry data. Telemetry data out features are disabled by default. Features can be enabled via Settings/Hud and Gameplay menu of the game. Grumpytunez will analyze live output of telemetry data. Tune fast, Go fast!<br><br>Features:<br><ul class=\"bb_ul\"><li>Gear tuning<br></li><li>Dyno chart<br></li><li>Live RPM, HP, & TQ displays<br></li><li>Suspension tuning<br></li><li>Live Suspension display<br></li><li>Customizable tuning and display panel layouts.</li></ul><br>Grumpytunez currently supports the following games:<br><ul class=\"bb_ul\"><li>Forza Horizon 4</li><li>Forza Horizon 5</li><li>Forza Motorsport 7 (Windowed Mode)</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 18,
-  "review_positive": 15,
+  "review_positive": 0,
   "review_percentage": 83.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 12,
-      "review_percentage": 83.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 18,
       "review_percentage": 83.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Orblitz",
   "slug": "orblitz",
   "developer": "Bryson MacDuff",
-  "publisher": "Bryson MacDuff",
-  "release_date": "Nov 22, 2017",
+  "publisher": "",
+  "release_date": "2017-11-22",
   "price_usd": 0.99,
   "genres": [
     "Casual"
@@ -17,32 +17,9 @@
   ],
   "short_description": "Orblitz is a casual game that is great for winding down or just passing time.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/746360/header.jpg?t=1511409442",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/746360/ss_d9423a224e498f675da130c65e93a0590a8c305f.600x338.jpg?t=1511409442",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/746360/ss_d308f5eaf9696130ba849f5045a1006185057ecc.600x338.jpg?t=1511409442",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/746360/ss_eade8dcd37fee5e6017b438788d09165c8602970.600x338.jpg?t=1511409442",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/746360/ss_1289dba4adb1cf0d9e720028be588eb327fa165f.600x338.jpg?t=1511409442",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/746360/ss_b79d76fbece0e4cd79a3ea182093d2a0e1b527ee.600x338.jpg?t=1511409442"
-  ],
-  "detailed_description": "Orblitz is a game where the goal is to collect as many green orbs as possible while avoiding everything else. There is no long term goal or progression, so the point of Orblitz is to perpetually attempt to surpass your high score. There are no in-game purchases or gimmicks of any kind, just plain and casual arcade style entertainment.",
-  "about_the_game": "Orblitz is a game where the goal is to collect as many green orbs as possible while avoiding everything else. There is no long term goal or progression, so the point of Orblitz is to perpetually attempt to surpass your high score. There are no in-game purchases or gimmicks of any kind, just plain and casual arcade style entertainment.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 12,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -50,26 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 10,
-      "review_percentage": 80.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 12,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 12,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

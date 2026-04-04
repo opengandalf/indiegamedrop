@@ -3,8 +3,8 @@
   "name": "Rat Race",
   "slug": "rat-race",
   "developer": "Sojourn Games",
-  "publisher": "Sojourn Games",
-  "release_date": "Feb 2, 2024",
+  "publisher": "",
+  "release_date": "2024-02-02",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -18,37 +18,11 @@
     "windows",
     "linux"
   ],
-  "short_description": "Engage in a top-down rhythm puzzle game with a built-in level editor. Unravel the Rat Race mystery, find freedom, and save your fellow test subjects. Evade blasts, lasers, and fallen test subjects. Create, and share unfair level designs with your friends through steam.",
+  "short_description": "Engage in a top-down rhythm puzzle game with a built-in level editor. Unravel the Rat Race mystery, find freedom, and save your fellow test subjects. Evade blasts, lasers, and fallen test subjects. Cr",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578020/header.jpg?t=1706919973",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578020/ss_a1b9931b80d6ea0157d3c57e92302ce7936721c1.600x338.jpg?t=1706919973",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578020/ss_5e268e794fd7ddb3ad7647240612b5c104988b73.600x338.jpg?t=1706919973",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578020/ss_e50a4b9a04a02974b2f9b56d3c6502370f6eb6f6.600x338.jpg?t=1706919973",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578020/ss_901dcf281dc6b24554a70e7160becdf9c244fdfd.600x338.jpg?t=1706919973",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578020/ss_50bfcdd042170cae26e93d0d55e2bd7c92cb33ac.600x338.jpg?t=1706919973",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578020/ss_3dac4174f89d6c47d250687c1dac0684fcf269ff.600x338.jpg?t=1706919973",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578020/ss_af003cc54252145b3366f1bc9e7a18c6135b4886.600x338.jpg?t=1706919973"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Overview</h2><br>Take part in one of the most important rat experiments of our time. No, we are not just blowing them up for fun, this is actual science! In Rat Race you control one rat for its remaining life span, attempting to navigate it through a hellish maze of sequenced explosions and lasers. While we have plenty of subjects to spare, try to avoid wasting them* Lead your kind as they scuttle and scurry their way through increasingly difficult explosion patterns, on a journey to discover the purpose behind this madness.<br><br>Rat Race includes a built-in level editor for creating/sharing your own levels and campaigns. Our game is directly inspired by the UMS \"Bound\" maps from a popular sci-fi RTS game in the late 90s. A veteran mapmaker and long-time player within the space designed most of our included levels. This current iteration is the beginning of our vision for a modern Bound game. We are in the process of expanding our art assets and have already implemented basic online play behind the scenes. We plan to create an online elimination game mode code-named S.Q.U.E.A.K. where players create, beat, and then send a map to their competition to beat.<br><br>The main motivation behind making this game is to foster a space where players can create and share a wide variety of maps. Additionally, we want to develop this game with community input as a guiding force for what we focus on as we develop.  With the game taking place in a 3D space we are eager to introduce new mechanics that would otherwise not be possible in the original 2D implementation of this game mode.<br><br><i>*If you find yourself feeling sympathetic towards the test subjects notify a lab technician immediately</i><h2 class=\"bb_tag\" >Linux Users</h2><br>The game is a native Linux app using the Vulkan graphics API. It has most recently been tested against the following distros:<br><br>Fedora 39 + Plasma X11 KDE<br>Linux Mint 21<br><br>If you are running Linux and want to let us know how the game is performing please feel free to reach out on our Discord server or community page.",
-  "about_the_game": "<h2 class=\"bb_tag\" >Overview</h2><br>Take part in one of the most important rat experiments of our time. No, we are not just blowing them up for fun, this is actual science! In Rat Race you control one rat for its remaining life span, attempting to navigate it through a hellish maze of sequenced explosions and lasers. While we have plenty of subjects to spare, try to avoid wasting them* Lead your kind as they scuttle and scurry their way through increasingly difficult explosion patterns, on a journey to discover the purpose behind this madness.<br><br>Rat Race includes a built-in level editor for creating/sharing your own levels and campaigns. Our game is directly inspired by the UMS \"Bound\" maps from a popular sci-fi RTS game in the late 90s. A veteran mapmaker and long-time player within the space designed most of our included levels. This current iteration is the beginning of our vision for a modern Bound game. We are in the process of expanding our art assets and have already implemented basic online play behind the scenes. We plan to create an online elimination game mode code-named S.Q.U.E.A.K. where players create, beat, and then send a map to their competition to beat.<br><br>The main motivation behind making this game is to foster a space where players can create and share a wide variety of maps. Additionally, we want to develop this game with community input as a guiding force for what we focus on as we develop.  With the game taking place in a 3D space we are eager to introduce new mechanics that would otherwise not be possible in the original 2D implementation of this game mode.<br><br><i>*If you find yourself feeling sympathetic towards the test subjects notify a lab technician immediately</i><h2 class=\"bb_tag\" >Linux Users</h2><br>The game is a native Linux app using the Vulkan graphics API. It has most recently been tested against the following distros:<br><br>Fedora 39 + Plasma X11 KDE<br>Linux Mint 21<br><br>If you are running Linux and want to let us know how the game is performing please feel free to reach out on our Discord server or community page.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +30,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

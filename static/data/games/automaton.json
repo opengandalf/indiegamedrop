@@ -3,8 +3,8 @@
   "name": "Automaton",
   "slug": "automaton",
   "developer": "Cicle Interactive",
-  "publisher": "Cicle Interactive",
-  "release_date": "Aug 3, 2020",
+  "publisher": "",
+  "release_date": "2020-08-03",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -19,32 +19,15 @@
   ],
   "short_description": "Lonely, a one-wheel worker robot begins a journey into the unknown.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196380/header.jpg?t=1643896757",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196380/ss_ef56c504fa453b82aed9dd50dd43f969c37c939c.600x338.jpg?t=1643896757",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196380/ss_53b56909cc8c79d1124ca2d140fdcc13e1bd9ab5.600x338.jpg?t=1643896757",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196380/ss_1b5b9e8703fc0559dde279a29bb4178cd1772639.600x338.jpg?t=1643896757",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196380/ss_441d4c06fa2d3ccabff40e642128978906bc1166.600x338.jpg?t=1643896757",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196380/ss_c0d54f98f328ef683bb24dd0295d8b8b48716d38.600x338.jpg?t=1643896757"
-  ],
-  "detailed_description": "Moved by curiosity, a small robot crosses the desert in search of an answer.<br />\r\nAutomaton features a mixed third-person mechanics and 2D perspective. Explore a post apocalyptic desert world in search of fuel, go through abandoned bunkers, solve puzzles to find out what fell from the sky.",
-  "about_the_game": "Moved by curiosity, a small robot crosses the desert in search of an answer.<br />\r\nAutomaton features a mixed third-person mechanics and 2D perspective. Explore a post apocalyptic desert world in search of fuel, go through abandoned bunkers, solve puzzles to find out what fell from the sky.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.4,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 8,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 62.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 8,
-      "review_percentage": 62.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 62.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

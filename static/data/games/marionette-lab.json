@@ -3,8 +3,8 @@
   "name": "Marionette lab",
   "slug": "marionette-lab",
   "developer": "Ununennium Games",
-  "publisher": "Ununennium Games",
-  "release_date": "Jun 21, 2021",
+  "publisher": "",
+  "release_date": "2021-06-21",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -19,34 +19,9 @@
   ],
   "short_description": "A third-person action game with a fixed camera and elements of survival horror.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1587680/header.jpg?t=1624276884",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1587680/ss_63aa5e01c7d797c6b526ac931a4833ed26ee4111.600x338.jpg?t=1624276884",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1587680/ss_0154d1c2dc3a70ed1915b438c7b1c99002a07e5a.600x338.jpg?t=1624276884",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1587680/ss_e04cb1568635bfefd1313db4c3e487dfa433725c.600x338.jpg?t=1624276884",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1587680/ss_e7dd8432ace9d51a3c519a335168233032560924.600x338.jpg?t=1624276884",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1587680/ss_76cf940f363db6ebef5949c3b6e88efa06b7d421.600x338.jpg?t=1624276884"
-  ],
-  "detailed_description": "A third-person action game with a fixed camera and elements of survival horror.<br />\r\n<br />\r\nClassic gameplay elements: limited inventory, lack of ammo, locked doors, endless chest, etc. The game has a fixed camera, but the controls are like in a top-down / twin-stick shooter.<br />\r\n<br />\r\nExplore the underground complex and find a way to the surface.",
-  "about_the_game": "A third-person action game with a fixed camera and elements of survival horror.<br />\r\n<br />\r\nClassic gameplay elements: limited inventory, lack of ammo, locked doors, endless chest, etc. The game has a fixed camera, but the controls are like in a top-down / twin-stick shooter.<br />\r\n<br />\r\nExplore the underground complex and find a way to the surface.",
-  "supported_languages": "English, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

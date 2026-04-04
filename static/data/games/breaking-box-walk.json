@@ -3,8 +3,8 @@
   "name": "Breaking Box: Walk!",
   "slug": "breaking-box-walk",
   "developer": "Dotoyou Games",
-  "publisher": "Dotoyou Games",
-  "release_date": "Sep 13, 2023",
+  "publisher": "",
+  "release_date": "2023-09-13",
   "price_usd": 0.55,
   "genres": [
     "Casual",
@@ -21,58 +21,27 @@
   ],
   "short_description": "A physics puzzle game that can only walk",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2566520/header.jpg?t=1697854396",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2566520/ss_77feb5d5896dbfe71a7278937ddd777937123b47.600x338.jpg?t=1697854396",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2566520/ss_3ba83b3d62214a8913527f2126850158563048e4.600x338.jpg?t=1697854396",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2566520/ss_33f534fe256d9ab347060c2db7c260d203169e54.600x338.jpg?t=1697854396",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2566520/ss_ba63e7c1854386e5ec1a992fb84b6bbef05acdca.600x338.jpg?t=1697854396",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2566520/ss_90a96c8ef6c811646c04259d2f602abb57ec4e37.600x338.jpg?t=1697854396",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2566520/ss_0a87b4100fa0b0c111a82156a26dc603bb7374f2.600x338.jpg?t=1697854396",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2566520/ss_810e2ee66f96b7cb3b9060bc70da33304d367f11.600x338.jpg?t=1697854396"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2566520/extras/8ed0d07817dc26674535439e5d355f30.avif?t=1697854396\" width=616 height=154 /></span><br><br>To succeed in reaching the endpoint, box must take the first step.<br>This is a physics-based puzzle game where walking is the only option.<br>You need to collect candies in each level and reach the endpoint.<br><br>Features:<br><ul class=\"bb_ul\"><li>30 levels</li><li>90 achievements</li></ul><br>Credits:<br>Supported by the team of Dotoyou Games, who were involved in the development of Breaking Box, which unfortunately experienced poor sales.",
-  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2566520/extras/8ed0d07817dc26674535439e5d355f30.avif?t=1697854396\" width=616 height=154 /></span><br><br>To succeed in reaching the endpoint, box must take the first step.<br>This is a physics-based puzzle game where walking is the only option.<br>You need to collect candies in each level and reach the endpoint.<br><br>Features:<br><ul class=\"bb_ul\"><li>30 levels</li><li>90 achievements</li></ul><br>Credits:<br>Supported by the team of Dotoyou Games, who were involved in the development of Breaking Box, which unfortunately experienced poor sales.",
-  "supported_languages": "English, Simplified Chinese, French, German, Spanish - Spain, Russian, Japanese, Traditional Chinese, Portuguese - Brazil, Korean",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
-  "gem_score": 0.9059,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 1.4500000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 29,
-  "review_positive": 28,
+  "review_positive": 0,
   "review_percentage": 96.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 28,
-      "review_percentage": 96.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 29,
       "review_percentage": 96.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

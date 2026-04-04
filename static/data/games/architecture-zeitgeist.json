@@ -3,8 +3,8 @@
   "name": "Architecture Zeitgeist",
   "slug": "architecture-zeitgeist",
   "developer": "Matheus Rudo, Wagner Tavares",
-  "publisher": "Rudo Studios",
-  "release_date": "Mar 27, 2023",
+  "publisher": "",
+  "release_date": "2023-03-27",
   "price_usd": 6.99,
   "genres": [
     "Casual",
@@ -21,55 +21,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Architecture Zeitgeist is a project aimed at popularizing and making architectural education more accessible. The game consists of 3D tours where the player can visit, learn, and interact in real time with iconic architectural works.",
+  "short_description": "Architecture Zeitgeist is a project aimed at popularizing and making architectural education more accessible. The game consists of 3D tours where the player can visit, learn, and interact in real time",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/header.jpg?t=1710343339",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_14cbe91d3d836f98bfea7fb7563c4a11d4259105.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_7bf0296dc81d5e1d4f176b664c1fcd47940933d2.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_7ba68898fc178f3e2da3f89ef773627f0090338b.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_38f0ad053eb62e59eefa500ecb970333fd7ebf24.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_e7021a7775204bbd180f9641c9fd3f4b6e6172a1.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_07e8fc591cea4c19941f615462608447719e2984.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_7ba7cb8a17fcd9289d5b4696c50f03ba7157807d.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_0c2c5a09ba165f15421de68a63b67feb6d805015.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_d81780607ef2cfa7d5f5203300aff710c8f0c769.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_58aae8f82b8113ad132fd25246098bbaea21e072.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_e609417a4485cc91a2cef2c334195b7caafc4d22.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_f93c30e3ce74d1f06b91add9a983a5a04ca73348.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_52d325d2dcb7ef7f68e658c4f8fd231c225af4f3.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_8df20a794a5cdab5bf09ab8ee9d809ae6fe8b405.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_b6a1ef4ee6b72e05b1241d51efd61ac06f70c65b.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_68b78cd2b2a9fed3c9937305d9480dee20868551.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_5622a77831be23e256fa091b259d056421a79579.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_8e63370b89b15ea2029c60fed940eab89a901b17.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_c223e26ba00593aafadcfac47b4ae21d53212817.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_0571beaf5ae5cc4e2ddfaa9158ee0af9105867c3.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_9f87b9f1cc7bb2b5083ff81a7b304e8f273b4208.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_ad1d54f443a7a3b8dbecc8c377f3113a7545536a.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_8c01b7e712cea503421182747ab201510d7ff7bc.600x338.jpg?t=1710343339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/ss_abb7baaeff8730e86e9723cf5d1f09300ae53f6f.600x338.jpg?t=1710343339"
-  ],
-  "detailed_description": "Architecture Zeitgeist is a game lovingly created by me, Matheus Rudo, a student at the University of Brasília, aimed at popularizing architectural education and making the study of architectural repertoire more immersive. The game has educational purposes and currently features two modes of play:<br><br>- Story Mode: In this mode, the player will study the biography of a selected architect. They can walk through the projects and look for notes, which will tell the story of both the visited project and the architect responsible for it. Once the player collects all the notes on the project, they can move on to the next project of the architect and deepen their studies.<br><br>- Free Mode: In this mode, the player can freely walk through the project.<br><br>Currently, the game contains the following projects in each mode:<br><br>- Story Mode: Barcelona Pavilion (Ludwig Mies van der Rohe), Azuma House (Tadao Ando), and Villa Savoye (Le Corbusier).<br><br>- Free Mode: Barcelona Pavilion (Ludwig Mies van der Rohe), Azuma House (Tadao Ando), and Villa Savoye (Le Corbusier).<br><br>Upcoming Road Map for the game development includes:<br><br>- Addition of Fallingwater by architect Frank Lloyd Wright, in both story and free mode.<br><br>- Addition of Casa das Canoas by architect Oscar Niemeyer, in both story and free mode.<br><br>- Addition of 4 new maps about architect Tadao Ando, in both story and free mode. The preliminary list of projects to be included are:<br>1- Church of the Light; 2 - Koshino House; 3 - 4x4 House; 4 - Oval House;<br><br>- Addition of 4 new maps about architect Mies van der Rohe, in both story and free mode. The preliminary list of projects to be included are:<br>1- Farnsworth House; 2 - Crown Hall; 3 - Villa Tugendhat; 4 - Seagram Building;<br><br>- Addition of 4 new maps about architect Le Corbusier, in both story and free mode. The preliminary list of projects to be included are:<br>1- Ronchamp Chapel; 2 - Unité d'Habitation; 3 - La Tourette Convent; 4 - National Museum of Western Art;<br><br>- Addition of 4 new maps about architect Frank Lloyd Wright, in both story and free mode. The preliminary list of projects to be included are:<br>1- Robie House; 2 - New York Guggenheim Museum; 3 - Taliesin West; 4 - Johnson Wax Headquarters;<br><br>- Addition of 4 new maps about architect Oscar Niemeyer, in both story and free mode. The preliminary list of projects to be included are:<br>1- Contemporary Art Museum in Niterói; 2 - Pampulha Church; 3 - Itamaraty Palace; 4 - New York Pavilion;<br><br>- Game release and end of Early Access.<br><br>After that, it's hard to say. Our expectation is that, in the end, the game will occupy less than 50 GB of disk space. If it requires 50 GB or more, we will not add more projects to it and will be forced to release another game. If there's still room to expand, we may consider adding new architects. There are endless architects and projects that could be included; perhaps we could open votes for you to choose. Maybe other architects will be free updates or paid through DLC. But the complete content of the game itself will be very substantial. In total, there will be about 25 hours of gameplay and 25 maps. We would like to invest more in projects focused on Japanese architecture; maybe we can launch an \"AZ: Japan\"? We'll see in the future.<br><br>First award of the game:<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/extras/79f426f6c5b545ebbd268d0691c78753.avif?t=1710343339\" width=620 height=412 /></span>",
-  "about_the_game": "Architecture Zeitgeist is a game lovingly created by me, Matheus Rudo, a student at the University of Brasília, aimed at popularizing architectural education and making the study of architectural repertoire more immersive. The game has educational purposes and currently features two modes of play:<br><br>- Story Mode: In this mode, the player will study the biography of a selected architect. They can walk through the projects and look for notes, which will tell the story of both the visited project and the architect responsible for it. Once the player collects all the notes on the project, they can move on to the next project of the architect and deepen their studies.<br><br>- Free Mode: In this mode, the player can freely walk through the project.<br><br>Currently, the game contains the following projects in each mode:<br><br>- Story Mode: Barcelona Pavilion (Ludwig Mies van der Rohe), Azuma House (Tadao Ando), and Villa Savoye (Le Corbusier).<br><br>- Free Mode: Barcelona Pavilion (Ludwig Mies van der Rohe), Azuma House (Tadao Ando), and Villa Savoye (Le Corbusier).<br><br>Upcoming Road Map for the game development includes:<br><br>- Addition of Fallingwater by architect Frank Lloyd Wright, in both story and free mode.<br><br>- Addition of Casa das Canoas by architect Oscar Niemeyer, in both story and free mode.<br><br>- Addition of 4 new maps about architect Tadao Ando, in both story and free mode. The preliminary list of projects to be included are:<br>1- Church of the Light; 2 - Koshino House; 3 - 4x4 House; 4 - Oval House;<br><br>- Addition of 4 new maps about architect Mies van der Rohe, in both story and free mode. The preliminary list of projects to be included are:<br>1- Farnsworth House; 2 - Crown Hall; 3 - Villa Tugendhat; 4 - Seagram Building;<br><br>- Addition of 4 new maps about architect Le Corbusier, in both story and free mode. The preliminary list of projects to be included are:<br>1- Ronchamp Chapel; 2 - Unité d'Habitation; 3 - La Tourette Convent; 4 - National Museum of Western Art;<br><br>- Addition of 4 new maps about architect Frank Lloyd Wright, in both story and free mode. The preliminary list of projects to be included are:<br>1- Robie House; 2 - New York Guggenheim Museum; 3 - Taliesin West; 4 - Johnson Wax Headquarters;<br><br>- Addition of 4 new maps about architect Oscar Niemeyer, in both story and free mode. The preliminary list of projects to be included are:<br>1- Contemporary Art Museum in Niterói; 2 - Pampulha Church; 3 - Itamaraty Palace; 4 - New York Pavilion;<br><br>- Game release and end of Early Access.<br><br>After that, it's hard to say. Our expectation is that, in the end, the game will occupy less than 50 GB of disk space. If it requires 50 GB or more, we will not add more projects to it and will be forced to release another game. If there's still room to expand, we may consider adding new architects. There are endless architects and projects that could be included; perhaps we could open votes for you to choose. Maybe other architects will be free updates or paid through DLC. But the complete content of the game itself will be very substantial. In total, there will be about 25 hours of gameplay and 25 maps. We would like to invest more in projects focused on Japanese architecture; maybe we can launch an \"AZ: Japan\"? We'll see in the future.<br><br>First award of the game:<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318860/extras/79f426f6c5b545ebbd268d0691c78753.avif?t=1710343339\" width=620 height=412 /></span>",
-  "supported_languages": "English, Japanese, Portuguese - Brazil, French, Spanish - Latin America, Spanish - Spain, German, Simplified Chinese, Korean, Russian, Arabic",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.5,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 10,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 60.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -77,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 10,
-      "review_percentage": 70.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 60.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

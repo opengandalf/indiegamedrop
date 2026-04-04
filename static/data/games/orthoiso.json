@@ -3,8 +3,8 @@
   "name": "ORTHOISO",
   "slug": "orthoiso",
   "developer": "Team BlueBacon",
-  "publisher": "Team BlueBacon",
-  "release_date": "Jun 16, 2019",
+  "publisher": "",
+  "release_date": "2019-06-16",
   "price_usd": 0.99,
   "genres": [
     "Adventure",
@@ -22,54 +22,27 @@
   ],
   "short_description": "A platformer puzzle game about optical illusion.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093920/header.jpg?t=1560668463",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093920/ss_c6f25e53e226a50874911ea9f01b2e0c7a696744.600x338.jpg?t=1560668463",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093920/ss_7b339a62f4865e4caff0a16b9b54d5309f74fd05.600x338.jpg?t=1560668463",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093920/ss_5aa6c83b4557693250810dcd4920706546d04da3.600x338.jpg?t=1560668463",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093920/ss_c85b037c2a8648ba90d3ce1a1026de6ac6d8e3c5.600x338.jpg?t=1560668463",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1093920/ss_f57c37aea068a2e54a559590f77abacef79088b8.600x338.jpg?t=1560668463"
-  ],
-  "detailed_description": "ORTHOISO is a platformer puzzle game about optical illusion. <br />\r\n<br />\r\nOur game uses orthoganol projection that makes distant objects in 3D look close on 2D screen. This allows the player to achieve impossible things in real world. There are 3 different views in the game. Player needs to switch between these views to solve the puzzle. There are many different mechanics based on optical illusions. <br />\r\n<br />\r\nThe story is a about a little frog named Iso, whose father is a famous adventurer. In one recent adventure, Iso's dad went missing. Iso decided to start his own adventure to find his dad.",
-  "about_the_game": "ORTHOISO is a platformer puzzle game about optical illusion. <br />\r\n<br />\r\nOur game uses orthoganol projection that makes distant objects in 3D look close on 2D screen. This allows the player to achieve impossible things in real world. There are 3 different views in the game. Player needs to switch between these views to solve the puzzle. There are many different mechanics based on optical illusions. <br />\r\n<br />\r\nThe story is a about a little frog named Iso, whose father is a famous adventurer. In one recent adventure, Iso's dad went missing. Iso decided to start his own adventure to find his dad.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.9091,
   "hype_score": 0.0,
   "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 28,
-  "review_positive": 27,
+  "review_positive": 0,
   "review_percentage": 96.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 28,
-      "review_percentage": 96.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 28,
       "review_percentage": 96.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

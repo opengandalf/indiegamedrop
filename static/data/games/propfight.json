@@ -3,8 +3,8 @@
   "name": "PropFight",
   "slug": "propfight",
   "developer": "Obani",
-  "publisher": "Obani",
-  "release_date": "Feb 13, 2025",
+  "publisher": "",
+  "release_date": "2025-02-13",
   "price_usd": 3.99,
   "genres": [
     "Action",
@@ -22,45 +22,9 @@
   ],
   "short_description": "PropFight is a 2D physics-based fighting game where you play randoms props in random arenas, with random events occuring.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881590/header.jpg?t=1771855865",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881590/ss_3e654c4a8960a08ac54ad2b86f9718674afc3a50.600x338.jpg?t=1771855865",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881590/882924aef47b927f27a0c615b7e0d5245e6e8bb3/ss_882924aef47b927f27a0c615b7e0d5245e6e8bb3.600x338.jpg?t=1771855865",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881590/88f2354851778c09335a2952ab13967329d49f73/ss_88f2354851778c09335a2952ab13967329d49f73.600x338.jpg?t=1771855865",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881590/32a66456343d257d73da9846a14e6c1249009b84/ss_32a66456343d257d73da9846a14e6c1249009b84.600x338.jpg?t=1771855865",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881590/825caf4374a2d0e7faae53fa77f238678828d0e6/ss_825caf4374a2d0e7faae53fa77f238678828d0e6.600x338.jpg?t=1771855865",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881590/8d0114257dce6c99ffe3f8564df11e33d707a160/ss_8d0114257dce6c99ffe3f8564df11e33d707a160.600x338.jpg?t=1771855865",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881590/b017ff4380a85619ffd9745ee38da1a137bf6d2d/ss_b017ff4380a85619ffd9745ee38da1a137bf6d2d.600x338.jpg?t=1771855865",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881590/2fc31c3a2d34fa4716e1af0f1eefcb7b2a10074f/ss_2fc31c3a2d34fa4716e1af0f1eefcb7b2a10074f.600x338.jpg?t=1771855865",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881590/ba8543357a3dc278aba245d6036fbce15d20a1c5/ss_ba8543357a3dc278aba245d6036fbce15d20a1c5.600x338.jpg?t=1771855865",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881590/7d525a726bdf2e3a82756d5cd3f14f1283a04770/ss_7d525a726bdf2e3a82756d5cd3f14f1283a04770.600x338.jpg?t=1771855865",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881590/b21051c7d98acb03214abf71007aa5c237c1b4bf/ss_b21051c7d98acb03214abf71007aa5c237c1b4bf.600x338.jpg?t=1771855865"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881590/extras/8365c84d9a885e17c99396fb0e07c3ae.poster.avif?t=1771855865\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881590/extras/8365c84d9a885e17c99396fb0e07c3ae.webm?t=1771855865\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881590/extras/8365c84d9a885e17c99396fb0e07c3ae.mp4?t=1771855865\" type=\"video/mp4\"></video></span><strong>PropFight</strong> is a 2D physics-based fighting game where you play random props in random arenas where random events occur. </p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >2-8 players</p></li><li><p class=\"bb_paragraph\" >Local multiplayer (online is only supported with Remote Play)</p></li><li><p class=\"bb_paragraph\" >Highly customizable game settings</p></li><li><p class=\"bb_paragraph\" >>80 arenas</p></li><li><p class=\"bb_paragraph\" >>10 props</p></li><li><p class=\"bb_paragraph\" >>10 events</p></li><li><p class=\"bb_paragraph\" >Steam workshop support</p></li><li><p class=\"bb_paragraph\" >Steam Input support (fallback to classic input support is possible)</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Modding is officially supported  using the <strong>Godot Engine</strong> and our development tools.</p><p class=\"bb_paragraph\" ></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881590/extras/8365c84d9a885e17c99396fb0e07c3ae.poster.avif?t=1771855865\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881590/extras/8365c84d9a885e17c99396fb0e07c3ae.webm?t=1771855865\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881590/extras/8365c84d9a885e17c99396fb0e07c3ae.mp4?t=1771855865\" type=\"video/mp4\"></video></span><strong>PropFight</strong> is a 2D physics-based fighting game where you play random props in random arenas where random events occur. </p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >2-8 players</p></li><li><p class=\"bb_paragraph\" >Local multiplayer (online is only supported with Remote Play)</p></li><li><p class=\"bb_paragraph\" >Highly customizable game settings</p></li><li><p class=\"bb_paragraph\" >>80 arenas</p></li><li><p class=\"bb_paragraph\" >>10 props</p></li><li><p class=\"bb_paragraph\" >>10 events</p></li><li><p class=\"bb_paragraph\" >Steam workshop support</p></li><li><p class=\"bb_paragraph\" >Steam Input support (fallback to classic input support is possible)</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Modding is officially supported  using the <strong>Godot Engine</strong> and our development tools.</p><p class=\"bb_paragraph\" ></p>",
-  "supported_languages": "English, French, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Shared/Split Screen",
-    "Steam Workshop",
-    "Partial Controller Support",
-    "Steam Cloud",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 10,
-  "review_positive": 10,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -68,19 +32,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 10,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

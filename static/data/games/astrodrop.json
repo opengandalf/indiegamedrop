@@ -3,8 +3,8 @@
   "name": "AstroDrop",
   "slug": "astrodrop",
   "developer": "Cosmin Suna",
-  "publisher": "Kozmic Games",
-  "release_date": "Dec 9, 2022",
+  "publisher": "",
+  "release_date": "2022-12-09",
   "price_usd": 1.49,
   "genres": [
     "Action",
@@ -21,33 +21,15 @@
   ],
   "short_description": "A 2D platformer about an astronaut who drops from space all the way back to Earth.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2227700/header.jpg?t=1725561843",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2227700/ss_43cecdbb14f583619b19bbccca8c0494bf29fc82.600x338.jpg?t=1725561843",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2227700/ss_61f2c78b7f6f1f061cba7912f669c7469325b195.600x338.jpg?t=1725561843",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2227700/ss_cfdf05fbdaaf66cffc4769facde3e5e1785908ac.600x338.jpg?t=1725561843",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2227700/ss_79dde771aa7eec15ca936ef1c3d9904451bbd17b.600x338.jpg?t=1725561843",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2227700/ss_dad333b914dcb7cc41753eb12257d39a0a8d6aa4.600x338.jpg?t=1725561843"
-  ],
-  "detailed_description": "AstroDrop is a 2D platformer about an astronaut, called Astro, who is lost in space and wants to drop all the way back to Earth. The platform layout is meant to challenge the player by testing their memory, skill and patience.<h2 class=\"bb_tag\" > Gameplay</h2><br>-You can jump and air strafe.<br>-There is fall damage and when you die you go back to the beginning of the level.<br>-As you progress downwards, the gravity scale changes (fall damage becomes more punishing, you run faster and slide faster).<br>-There are flying objects that can end your attempts such as asteroids or birds.<br>-Additionally, there are parts of the terrain that can also kill you such as spikes, falling spikes and lava.<br>-There is only 1 checkpoint per level, and it is the start of that level.<br>-Every death and checkpoint are auto-saved.<br>-Overall, the gameplay is punishing but satisfying.<br>-This game is meant for gamers who want to challenge themselves.<br><br>AstroDrop was designed to be one of the hardest video games ever made.",
-  "about_the_game": "AstroDrop is a 2D platformer about an astronaut, called Astro, who is lost in space and wants to drop all the way back to Earth. The platform layout is meant to challenge the player by testing their memory, skill and patience.<h2 class=\"bb_tag\" > Gameplay</h2><br>-You can jump and air strafe.<br>-There is fall damage and when you die you go back to the beginning of the level.<br>-As you progress downwards, the gravity scale changes (fall damage becomes more punishing, you run faster and slide faster).<br>-There are flying objects that can end your attempts such as asteroids or birds.<br>-Additionally, there are parts of the terrain that can also kill you such as spikes, falling spikes and lava.<br>-There is only 1 checkpoint per level, and it is the start of that level.<br>-Every death and checkpoint are auto-saved.<br>-Overall, the gameplay is punishing but satisfying.<br>-This game is meant for gamers who want to challenge themselves.<br><br>AstroDrop was designed to be one of the hardest video games ever made.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

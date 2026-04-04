@@ -3,8 +3,8 @@
   "name": "Cryptographer",
   "slug": "cryptographer",
   "developer": "Firebelley",
-  "publisher": "Firebelley",
-  "release_date": "Jul 30, 2019",
+  "publisher": "",
+  "release_date": "2019-07-30",
   "price_usd": 1.99,
   "genres": [
     "Indie"
@@ -17,44 +17,17 @@
     "mac",
     "linux"
   ],
-  "short_description": "Cryptographer is a challenging puzzle-platformer that rewards player skill. Make use of bombs, switches, gates, and cannons to clear a path to the escape portal. Be careful with your navigation, however, because the crypt walls collapse as you move.",
+  "short_description": "Cryptographer is a challenging puzzle-platformer that rewards player skill. Make use of bombs, switches, gates, and cannons to clear a path to the escape portal. Be careful with your navigation, howev",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095400/header.jpg?t=1773521285",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095400/ss_80ebb4b0991999f439d2e3c39ad54ea971ccbdc3.600x338.jpg?t=1773521285",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095400/ss_b4db58856097b16f7ad18a63784506e2d8d19af5.600x338.jpg?t=1773521285",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095400/ss_662ac6a555587038a863c91dfc61044b6ace68d8.600x338.jpg?t=1773521285",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095400/ss_d4b247a9c8f516ace915dc69fa0667ff41dbb717.600x338.jpg?t=1773521285",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095400/ss_3b18981e3ef96b34588733710360accc545acb41.600x338.jpg?t=1773521285",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095400/ss_93d1cc5eeb8a54eab58d351952cec9ee585ae1ee.600x338.jpg?t=1773521285",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095400/ss_972b5df9b78c4121814725e93ca5ab11a16f3c50.600x338.jpg?t=1773521285",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095400/ss_425faf8d1399e09f1b53b35fa037bf5f08ac7e10.600x338.jpg?t=1773521285"
-  ],
-  "detailed_description": "<i>Cryptographer</i> is a challenging puzzle-platformer that rewards player skill. Make use of bombs, switches, gates, and cannons to clear a path to the escape portal. Be careful with your navigation, however, because the crypt walls collapse as you move. Be precise in your movement to beat the best times. Plan out your actions ahead of time to avoid blocking your path to escape. Play turn-based local multiplayer with your friends. Great for parties!<br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li> Satisfyingly challenging gameplay and puzzles<br></li><li> 50 hand-crafted levels<br></li><li> Local turn-based multiplayer supporting up to 4 players<br></li><li> Beat the gold time on each level to demonstrate your mastery of the game<br></li><li> Level selection to retry and replay your favorite levels<br></li><li> Full controller support<br></li><li> 14 achievements to unlock</li></ul>",
-  "about_the_game": "<i>Cryptographer</i> is a challenging puzzle-platformer that rewards player skill. Make use of bombs, switches, gates, and cannons to clear a path to the escape portal. Be careful with your navigation, however, because the crypt walls collapse as you move. Be precise in your movement to beat the best times. Plan out your actions ahead of time to avoid blocking your path to escape. Play turn-based local multiplayer with your friends. Great for parties!<br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li> Satisfyingly challenging gameplay and puzzles<br></li><li> 50 hand-crafted levels<br></li><li> Local turn-based multiplayer supporting up to 4 players<br></li><li> Beat the gold time on each level to demonstrate your mastery of the game<br></li><li> Level selection to retry and replay your favorite levels<br></li><li> Full controller support<br></li><li> 14 achievements to unlock</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Shared/Split Screen",
-    "Steam Achievements",
-    "Full controller support",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Schism",
   "slug": "schism",
   "developer": "Fami",
-  "publisher": "2 Left Thumbs",
-  "release_date": "Mar 7, 2025",
+  "publisher": "",
+  "release_date": "2025-03-07",
   "price_usd": 7.19,
   "genres": [
     "Action",
@@ -19,70 +19,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Schism is a challenging action roguelike RPG with deep synergies and high broken build potential. The combination of robust stat systems, fully moddable guns, deity worship, intense frequency-switching bullet hell combat, and difficult bosses make for a unique and highly replayable experience.",
+  "short_description": "Schism is a challenging action roguelike RPG with deep synergies and high broken build potential. The combination of robust stat systems, fully moddable guns, deity worship, intense frequency-switchin",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/65bd2cd7f0fc38741c078865be2c8e1a77eb0a03/header.jpg?t=1741370420",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/10fb9419d74b2b6c20d2a2c1fab72fc587fb9fde/ss_10fb9419d74b2b6c20d2a2c1fab72fc587fb9fde.600x338.jpg?t=1741370420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/24aab35bb08ff59da467458d7683d235f7dcf706/ss_24aab35bb08ff59da467458d7683d235f7dcf706.600x338.jpg?t=1741370420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/38f2e4ec3cfe9212d2696f1d9e21852614774d89/ss_38f2e4ec3cfe9212d2696f1d9e21852614774d89.600x338.jpg?t=1741370420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/d4dc06da8a959f1b3c918b4c96788b4c470e3e27/ss_d4dc06da8a959f1b3c918b4c96788b4c470e3e27.600x338.jpg?t=1741370420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/f17ba9ea721c6a4d1580cdcc3af937802d1e07fd/ss_f17ba9ea721c6a4d1580cdcc3af937802d1e07fd.600x338.jpg?t=1741370420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/aa1dc095bfaf51f736832bc572f44f1b7addc0ec/ss_aa1dc095bfaf51f736832bc572f44f1b7addc0ec.600x338.jpg?t=1741370420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/9a4b3d2c41b85fc3e52171a1774965c617519d94/ss_9a4b3d2c41b85fc3e52171a1774965c617519d94.600x338.jpg?t=1741370420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/faf721a8bcdb26dbdbeffd29f023cb62fcfa91cb/ss_faf721a8bcdb26dbdbeffd29f023cb62fcfa91cb.600x338.jpg?t=1741370420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/9f2d95daebfb43a5142fc9599e1daaecaf8e172c/ss_9f2d95daebfb43a5142fc9599e1daaecaf8e172c.600x338.jpg?t=1741370420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/80ff5e0aa40dbcc9d8dc7f1f0acf5a62d5fdffdc/ss_80ff5e0aa40dbcc9d8dc7f1f0acf5a62d5fdffdc.600x338.jpg?t=1741370420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/4779cbb259bc9cd138dc43988e835027b221ee2d/ss_4779cbb259bc9cd138dc43988e835027b221ee2d.600x338.jpg?t=1741370420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/cfc486365a269348e3a43fbf8b32ce097ec5ee4a/ss_cfc486365a269348e3a43fbf8b32ce097ec5ee4a.600x338.jpg?t=1741370420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/f50204556c81c75ea3b46bbe4a2bc84d6cc4ece3/ss_f50204556c81c75ea3b46bbe4a2bc84d6cc4ece3.600x338.jpg?t=1741370420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/b2f31304c526cc48db8b136b1e28c228dcd39c8f/ss_b2f31304c526cc48db8b136b1e28c228dcd39c8f.600x338.jpg?t=1741370420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/ae93fabc8b5441451040473574234c53faa01ff9/ss_ae93fabc8b5441451040473574234c53faa01ff9.600x338.jpg?t=1741370420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/2f1e01d19e334abb318cb9aa9bc1afe5a44ff213/ss_2f1e01d19e334abb318cb9aa9bc1afe5a44ff213.600x338.jpg?t=1741370420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/111f012f52f541b2bdffee58fe0974539d132d1b/ss_111f012f52f541b2bdffee58fe0974539d132d1b.600x338.jpg?t=1741370420",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/2d9bc385080bb8c3e2463946fbb14cd620bbcfff/ss_2d9bc385080bb8c3e2463946fbb14cd620bbcfff.600x338.jpg?t=1741370420"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>The far future is now</strong>. The world is blanketed in garbage and missing its only source of power – the <strong>Schismatic Engine</strong>. You are a prisoner, forced into the tallest trash-mountain, tasked with finding the Engine. Your ship <strong><i>CRASHES!</i></strong> Leaving you armed with only a cheap replica of the Engine and a cheaper gun. Success will mean your freedom. If you survive... </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/cde16929d2bcbc7ab6622b727f04cf8b.webp?t=1741370420\" width=600 height=40 /></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/eb0c581ae7e46a4b1359043f82b2db85.poster.avif?t=1741370420\" width=600 height=128 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/eb0c581ae7e46a4b1359043f82b2db85.webm?t=1741370420\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/eb0c581ae7e46a4b1359043f82b2db85.mp4?t=1741370420\" type=\"video/mp4\"></video></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>8 Main Stats</strong> to invest in as you level up, with <i>too many</i> secondary stats to count</p></li><li><p class=\"bb_paragraph\" ><strong>230+ Relics</strong> to power you up with interesting and synergistic effects</p></li><li><p class=\"bb_paragraph\" ><strong>60+ weapons</strong> ranging from practical to insane </p></li><li><p class=\"bb_paragraph\" >Special weapon <strong>Mods</strong> that apply to ALL carried weapons</p></li><li><p class=\"bb_paragraph\" ><strong>26 Gods</strong> that must be appeased – earning their favor for unique boons</p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/d4f374fc9eb62d11cb5e285a5abb9782.webp?t=1741370420\" width=600 height=40 /></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/8dd86696c81a0e833a820f98da8885ce.poster.avif?t=1741370420\" width=600 height=128 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/8dd86696c81a0e833a820f98da8885ce.webm?t=1741370420\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/8dd86696c81a0e833a820f98da8885ce.mp4?t=1741370420\" type=\"video/mp4\"></video></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Inspired by <i>Ikaruga</i>, you can dodge colored bullets by matching their frequency</p></li><li><p class=\"bb_paragraph\" >New rooms start Paused to avoid unfair placements and unavoidable damage</p></li><li><p class=\"bb_paragraph\" >Powerful bosses that will put both your skills and build to the test</p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/08e3faec02ea14af51d2512804146871.webp?t=1741370420\" width=600 height=40 /></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/6a2ccc39a00511f120503582e211002d.poster.avif?t=1741370420\" width=600 height=128 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/6a2ccc39a00511f120503582e211002d.webm?t=1741370420\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/6a2ccc39a00511f120503582e211002d.mp4?t=1741370420\" type=\"video/mp4\"></video></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Top-down, <strong>action roguelike</strong> gameplay - shooting your way to freedom </p></li><li><p class=\"bb_paragraph\" >The mechanical complexity and interactions of <strong>traditional roguelikes</strong> </p></li><li><p class=\"bb_paragraph\" >Chaotic RNG that borrows from roguelikes old and new for infinite replayability </p></li><li><p class=\"bb_paragraph\" >Endless mode after the final boss to see how far you can go</p></li><li><p class=\"bb_paragraph\" >MANY more layers and secrets to discover as you play</p></li></ul>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>The far future is now</strong>. The world is blanketed in garbage and missing its only source of power – the <strong>Schismatic Engine</strong>. You are a prisoner, forced into the tallest trash-mountain, tasked with finding the Engine. Your ship <strong><i>CRASHES!</i></strong> Leaving you armed with only a cheap replica of the Engine and a cheaper gun. Success will mean your freedom. If you survive... </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/cde16929d2bcbc7ab6622b727f04cf8b.webp?t=1741370420\" width=600 height=40 /></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/eb0c581ae7e46a4b1359043f82b2db85.poster.avif?t=1741370420\" width=600 height=128 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/eb0c581ae7e46a4b1359043f82b2db85.webm?t=1741370420\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/eb0c581ae7e46a4b1359043f82b2db85.mp4?t=1741370420\" type=\"video/mp4\"></video></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>8 Main Stats</strong> to invest in as you level up, with <i>too many</i> secondary stats to count</p></li><li><p class=\"bb_paragraph\" ><strong>230+ Relics</strong> to power you up with interesting and synergistic effects</p></li><li><p class=\"bb_paragraph\" ><strong>60+ weapons</strong> ranging from practical to insane </p></li><li><p class=\"bb_paragraph\" >Special weapon <strong>Mods</strong> that apply to ALL carried weapons</p></li><li><p class=\"bb_paragraph\" ><strong>26 Gods</strong> that must be appeased – earning their favor for unique boons</p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/d4f374fc9eb62d11cb5e285a5abb9782.webp?t=1741370420\" width=600 height=40 /></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/8dd86696c81a0e833a820f98da8885ce.poster.avif?t=1741370420\" width=600 height=128 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/8dd86696c81a0e833a820f98da8885ce.webm?t=1741370420\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/8dd86696c81a0e833a820f98da8885ce.mp4?t=1741370420\" type=\"video/mp4\"></video></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Inspired by <i>Ikaruga</i>, you can dodge colored bullets by matching their frequency</p></li><li><p class=\"bb_paragraph\" >New rooms start Paused to avoid unfair placements and unavoidable damage</p></li><li><p class=\"bb_paragraph\" >Powerful bosses that will put both your skills and build to the test</p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/08e3faec02ea14af51d2512804146871.webp?t=1741370420\" width=600 height=40 /></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/6a2ccc39a00511f120503582e211002d.poster.avif?t=1741370420\" width=600 height=128 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/6a2ccc39a00511f120503582e211002d.webm?t=1741370420\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084300/extras/6a2ccc39a00511f120503582e211002d.mp4?t=1741370420\" type=\"video/mp4\"></video></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Top-down, <strong>action roguelike</strong> gameplay - shooting your way to freedom </p></li><li><p class=\"bb_paragraph\" >The mechanical complexity and interactions of <strong>traditional roguelikes</strong> </p></li><li><p class=\"bb_paragraph\" >Chaotic RNG that borrows from roguelikes old and new for infinite replayability </p></li><li><p class=\"bb_paragraph\" >Endless mode after the final boss to see how far you can go</p></li><li><p class=\"bb_paragraph\" >MANY more layers and secrets to discover as you play</p></li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 127,
+  "screenshots": [],
   "rising_score": 0.0015,
   "gem_score": 0.6653,
   "hype_score": 0.0,
-  "review_velocity_7d": 40.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 152,
-  "review_positive": 147,
+  "review_positive": 0,
   "review_percentage": 96.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "rising",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 112,
-      "review_percentage": 97.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 152,
       "review_percentage": 96.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

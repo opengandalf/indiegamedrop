@@ -3,8 +3,8 @@
   "name": "Dim",
   "slug": "dim",
   "developer": "Matrixcore Studio",
-  "publisher": "Matrixcore Studio",
-  "release_date": "Jan 10, 2025",
+  "publisher": "",
+  "release_date": "2025-01-10",
   "price_usd": 1.74,
   "genres": [
     "Adventure"
@@ -17,39 +17,17 @@
     "mac",
     "linux"
   ],
-  "short_description": "You are a wandering soul that has just arrived in limbo, pale landscapes and suffocating darkness surround you, you must escape only with your own light, crossing the dangerous paths that await you within a melancholic world.",
+  "short_description": "You are a wandering soul that has just arrived in limbo, pale landscapes and suffocating darkness surround you, you must escape only with your own light, crossing the dangerous paths that await you wi",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2577500/header.jpg?t=1759022676",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2577500/4a0f404bbf9254744cc7a9c1630521dbc5678560/ss_4a0f404bbf9254744cc7a9c1630521dbc5678560.600x338.jpg?t=1759022676",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2577500/4b33856b25435d3084e9a02853b98d6616c1015b/ss_4b33856b25435d3084e9a02853b98d6616c1015b.600x338.jpg?t=1759022676",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2577500/f74321e398452338b7f493ba86c1c3131ea7e1c5/ss_f74321e398452338b7f493ba86c1c3131ea7e1c5.600x338.jpg?t=1759022676",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2577500/f6448570d1e19bbc7706afaece3b370fc16d1b95/ss_f6448570d1e19bbc7706afaece3b370fc16d1b95.600x338.jpg?t=1759022676",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2577500/dd988552f1bda3112d3bd2cf90ade95ccc3c27bb/ss_dd988552f1bda3112d3bd2cf90ade95ccc3c27bb.600x338.jpg?t=1759022676",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2577500/0a34315fd2168fc056923e541077b5b4c7859224/ss_0a34315fd2168fc056923e541077b5b4c7859224.600x338.jpg?t=1759022676",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2577500/ad26c290551e318dbb11c41599b7b07e6a2d4d80/ss_ad26c290551e318dbb11c41599b7b07e6a2d4d80.600x338.jpg?t=1759022676",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2577500/1e3f2c0ff1cd5bd546c47242eb8b15c1b70693d8/ss_1e3f2c0ff1cd5bd546c47242eb8b15c1b70693d8.600x338.jpg?t=1759022676"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Dim is a 2D platformer with hard levels that only get harder as you progress. The challenge is to go through every obstacle that it presents as you advance in a dark and disturbing world.</p><p class=\"bb_paragraph\" >Dim, the main character, is a bioluminescent being who is the main source of light in a world of darkness, and it's in constant confrontation with the hazards this world provides. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Dim will obtain different abilities related to light as it advances, Light Within being the first one, where now Dim can illuminate the world a little more for a limited time or Lightspeed, where Dim can now move a short distance at lightning speed! (even in the air).</p><p class=\"bb_paragraph\" >Help this being complete its goal, to transcend death, life and everything.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Dim is a 2D platformer with hard levels that only get harder as you progress. The challenge is to go through every obstacle that it presents as you advance in a dark and disturbing world.</p><p class=\"bb_paragraph\" >Dim, the main character, is a bioluminescent being who is the main source of light in a world of darkness, and it's in constant confrontation with the hazards this world provides. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Dim will obtain different abilities related to light as it advances, Light Within being the first one, where now Dim can illuminate the world a little more for a limited time or Lightspeed, where Dim can now move a short distance at lightning speed! (even in the air).</p><p class=\"bb_paragraph\" >Help this being complete its goal, to transcend death, life and everything.</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.30000000000000004,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 6,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Early Quest",
   "slug": "early-quest",
   "developer": "Exa_Inc",
-  "publisher": "Exa_Inc",
-  "release_date": "Sep 24, 2020",
+  "publisher": "",
+  "release_date": "2020-09-24",
   "price_usd": 2.49,
   "genres": [
     "Action",
@@ -25,44 +25,17 @@
     "mac",
     "linux"
   ],
-  "short_description": "A turn-based fantasy-style RPG game, with a completely open, multi-level world, a unique background and many secrets and legends to discover and reveal. A system of equipment and skills customized for each character in the group allows you to create infinite strategies. Many chickens inside!",
+  "short_description": "A turn-based fantasy-style RPG game, with a completely open, multi-level world, a unique background and many secrets and legends to discover and reveal. A system of equipment and skills customized for",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414640/header.jpg?t=1645212159",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414640/ss_b250a3d6c4341eef9334bf14956026e42e8a801d.600x338.jpg?t=1645212159",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414640/ss_e0796b692e8af8023d46c32ac4b161d1e22d10af.600x338.jpg?t=1645212159",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414640/ss_d2bc18bf763af323859da2246a3b840936f5116c.600x338.jpg?t=1645212159",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414640/ss_07b359470ec658d0ab5429ebd2f5a70c99d545f2.600x338.jpg?t=1645212159",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414640/ss_a0b4f8008570943fc0158e7cf225639f9c0a1f49.600x338.jpg?t=1645212159",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414640/ss_f3ae1fda3e926c0a28a88383962fca7bf6e58f8c.600x338.jpg?t=1645212159",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414640/ss_146178dd999312c02ade95cd7186d7383b13a7ac.600x338.jpg?t=1645212159",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414640/ss_03620dbf81eef7e44066ef674a0d6d16723b9f60.600x338.jpg?t=1645212159",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414640/ss_dd40889b491bd1593ab4d5d38ff5d26d1f42cc6b.600x338.jpg?t=1645212159",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1414640/ss_2c78ea34bdfbc00614ea25f674f56a7ed1f831ec.600x338.jpg?t=1645212159"
-  ],
-  "detailed_description": "In a world where heroes fail one after another, you are probably the last hope ...<br />\r\n<br />\r\nIn this classic turn-based RPG you choose the path to take, but in any case there will be an unlikely enemy waiting for you ...<br />\r\n<br />\r\nMaybe?<br />\r\n<br />\r\nWARNING: For the faint of heart, there will be plenty of chickens. Insured!",
-  "about_the_game": "In a world where heroes fail one after another, you are probably the last hope ...<br />\r\n<br />\r\nIn this classic turn-based RPG you choose the path to take, but in any case there will be an unlikely enemy waiting for you ...<br />\r\n<br />\r\nMaybe?<br />\r\n<br />\r\nWARNING: For the faint of heart, there will be plenty of chickens. Insured!",
-  "supported_languages": "Italian, English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Steam Cloud",
-    "Remote Play on Phone",
-    "Remote Play on Tablet",
-    "Remote Play on TV",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -70,19 +43,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

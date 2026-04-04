@@ -3,8 +3,8 @@
   "name": "Boomer Rampage",
   "slug": "boomer-rampage",
   "developer": "Lunarhellgames",
-  "publisher": "Lunarhellgames",
-  "release_date": "Jan 1, 2018",
+  "publisher": "",
+  "release_date": "2018-01-01",
   "price_usd": 0.79,
   "genres": [
     "Action",
@@ -21,40 +21,15 @@
   ],
   "short_description": "Boomer Rampage is a puzzle game in which we control the boomers rocket hand. Our task is to destroy the target, avoiding enemies, traps and walls in all the 90 levels.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770520/header.jpg?t=1521105628",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770520/ss_a950d6ec06b10d016160bcdf396920c9e81c91be.600x338.jpg?t=1521105628",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770520/ss_0bde387fb9c3895c2575c612a17b84eaa63f4401.600x338.jpg?t=1521105628",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770520/ss_6ec4f109581d4d3cfb5f200385085e2fa33ed14a.600x338.jpg?t=1521105628",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770520/ss_14c653b1a43b7756c6d134f97aa00d93b50eba84.600x338.jpg?t=1521105628",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770520/ss_18aeee3fc485bbeaf4dba8bf9793185fec101c04.600x338.jpg?t=1521105628",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770520/ss_32ebecc9e98f02abf5d761539aa9d5aa6278ee68.600x338.jpg?t=1521105628",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770520/ss_45737bcf6108e03ced71ae05f5bb386f6bc374af.600x338.jpg?t=1521105628",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770520/ss_ae1940e6ca0bd2072597dca5ff6dadf46e14201d.600x338.jpg?t=1521105628",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770520/ss_b3bfa5201e8da8ec5f5dd4b06279d3aedb35a498.600x338.jpg?t=1521105628",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/770520/ss_d96c33f7f2414ebfd8e2de03634035993e97124f.600x338.jpg?t=1521105628"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" ><strong>The Game</strong></h2><br>Boomer Rampage is a puzzle game in which we control the boomers rocket hand.<br>Our task is to destroy the target, avoiding enemies, traps and walls in all the 90 levels.<h2 class=\"bb_tag\" ><strong>Features</strong></h2><br>- 2 Difficulties (normal, hard).<br>- 90 Levels.<br>- Steam Achievements.<br>- Steam Leaderboards.<h2 class=\"bb_tag\" ><strong>Controls</strong></h2><br>Space bar = Shoot rocket hand.<br>WASD or Arrow Keys = Change direction of the rocket hand.<br>H, J, K  = Use skills.",
-  "about_the_game": "<h2 class=\"bb_tag\" ><strong>The Game</strong></h2><br>Boomer Rampage is a puzzle game in which we control the boomers rocket hand.<br>Our task is to destroy the target, avoiding enemies, traps and walls in all the 90 levels.<h2 class=\"bb_tag\" ><strong>Features</strong></h2><br>- 2 Difficulties (normal, hard).<br>- 90 Levels.<br>- Steam Achievements.<br>- Steam Leaderboards.<h2 class=\"bb_tag\" ><strong>Controls</strong></h2><br>Space bar = Shoot rocket hand.<br>WASD or Arrow Keys = Change direction of the rocket hand.<br>H, J, K  = Use skills.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Phantom Brigade",
   "slug": "phantom-brigade",
   "developer": "Brace Yourself Games",
-  "publisher": "Brace Yourself Games",
-  "release_date": "Feb 28, 2023",
+  "publisher": "",
+  "release_date": "2023-02-28",
   "price_usd": 14.99,
   "genres": [
     "Indie",
@@ -19,107 +19,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Phantom Brigade 2.0 is a cinematic, tactical mech strategy game with a revolutionary timeline-based command system. See the future, predict enemy actions, and plot your counterattack on the timeline! Recruit and level up your squad of rebels to retake war-torn Fyrland from the Kaskad occupation.",
+  "short_description": "Phantom Brigade 2.0 is a cinematic, tactical mech strategy game with a revolutionary timeline-based command system. See the future, predict enemy actions, and plot your counterattack on the timeline! ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/eec49dc9fea0d95e8e161bea0dca19eaba078649/header.jpg?t=1771447210",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/8eee0d15aaf15ccd5b2154d2499ca321dccc5b9b/ss_8eee0d15aaf15ccd5b2154d2499ca321dccc5b9b.600x338.jpg?t=1771447210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/a5a7eb0487728efa33db704e0878fce43e291a0d/ss_a5a7eb0487728efa33db704e0878fce43e291a0d.600x338.jpg?t=1771447210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/a0d68e719c4c36c58ce7803972c67b12064885f6/ss_a0d68e719c4c36c58ce7803972c67b12064885f6.600x338.jpg?t=1771447210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/03d7d55ab34a5cbc0dbd6a1df9a0dfbaf1a2f56e/ss_03d7d55ab34a5cbc0dbd6a1df9a0dfbaf1a2f56e.600x338.jpg?t=1771447210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/84b1ea344744442498738193e2b5e6400ae1ca54/ss_84b1ea344744442498738193e2b5e6400ae1ca54.600x338.jpg?t=1771447210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/9d0535e7360e383a09e704cb172fa7824a1dad1c/ss_9d0535e7360e383a09e704cb172fa7824a1dad1c.600x338.jpg?t=1771447210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/22c9b71277d3c37308bb9c1863902bab750c2e48/ss_22c9b71277d3c37308bb9c1863902bab750c2e48.600x338.jpg?t=1771447210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/6545d5330e3ebdaa18c5ee2185c219c633c644c8/ss_6545d5330e3ebdaa18c5ee2185c219c633c644c8.600x338.jpg?t=1771447210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/d131ca770bde1abe27b57fae890c18593b0ef0ae/ss_d131ca770bde1abe27b57fae890c18593b0ef0ae.600x338.jpg?t=1771447210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/8d58aac4f38a69de1dfe1fdb92ef8837f85edb36/ss_8d58aac4f38a69de1dfe1fdb92ef8837f85edb36.600x338.jpg?t=1771447210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/7edbb99731b14240278b44bc668c2190024ccade/ss_7edbb99731b14240278b44bc668c2190024ccade.600x338.jpg?t=1771447210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/8596f10f01f0873f2127ee945f2fe7713fb97f75/ss_8596f10f01f0873f2127ee945f2fe7713fb97f75.600x338.jpg?t=1771447210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/7612d20f6d278d5f9438c3d43a2e93dab10809ae/ss_7612d20f6d278d5f9438c3d43a2e93dab10809ae.600x338.jpg?t=1771447210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/7774aa05307e35cce6fd5d05a19836fb958945b2/ss_7774aa05307e35cce6fd5d05a19836fb958945b2.600x338.jpg?t=1771447210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/20add4f23418883e4a8a99f2b077687faf7b45ad/ss_20add4f23418883e4a8a99f2b077687faf7b45ad.600x338.jpg?t=1771447210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/610c7597057dc3c4a7683c7a90166a1e633a3388/ss_610c7597057dc3c4a7683c7a90166a1e633a3388.600x338.jpg?t=1771447210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/30d19750617f82f221205b8eb870c77f351a3072/ss_30d19750617f82f221205b8eb870c77f351a3072.600x338.jpg?t=1771447210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/5b52aad8d23e7991841e775914e9bc6fcc591aa2/ss_5b52aad8d23e7991841e775914e9bc6fcc591aa2.600x338.jpg?t=1771447210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/3a606c9ce6b385593bc6daca261d5b7fb8dfe64b/ss_3a606c9ce6b385593bc6daca261d5b7fb8dfe64b.600x338.jpg?t=1771447210"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" style=\"text-align: center\">The free, major update, Phantom Brigade 2.0, is now available!</h2><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/8789e6fd942b311e239b79610847ebf0.poster.avif?t=1771447210\" width=780 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/8789e6fd942b311e239b79610847ebf0.webm?t=1771447210\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/8789e6fd942b311e239b79610847ebf0.mp4?t=1771447210\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >The 2.0 update is extensive, transforming nearly every aspect of the game, but the highlights include:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Fully realized pilots –</strong> Recruit pilots with over 100 unique pilot traits and abilities which allow for in-depth buildcrafting and synergies with your mechs. With a new recruitment and class specialization system, expansive leveling with varied progression trees, combined with new visual customisation options, you can build your own flavor of deadly (and stylish) ace pilots.</p></li><li><p class=\"bb_paragraph\" ><strong>A reworked campaign</strong> – New maps, new quests, and new combat scenarios along with fully rebalanced factions ensure you face varied squads with different equipment, armour and unit configurations. You have even more reason to collect new equipment and experiment with different loadouts to take on these new threats.</p></li><li><p class=\"bb_paragraph\" ><strong>Completely reimagined overworld</strong> – Explore new provinces, varied landscapes and overhauled campaign systems. New liberation and overworld mechanics, new points of interest and events, new province modifiers and improved mission generation provide a varied, constantly evolving environment to encourage players to adapt and overcome.</p></li><li><p class=\"bb_paragraph\" ><strong>A HUGE amount of community driven quality of life updates</strong> – New salvage and debriefing menus, new mission previews and reward generation, reworked workshop and crafting, improved damage logic and prediction, new options and difficulty settings, comprehensive weapon balancing, subsystem reworks and much more!</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"> <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/1c03e512c4274f8b06dd0179699c0db0.poster.avif?t=1771447210\" width=780 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/1c03e512c4274f8b06dd0179699c0db0.webm?t=1771447210\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/1c03e512c4274f8b06dd0179699c0db0.mp4?t=1771447210\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><i>Phantom Brigade</i> is a cinematic, tactical mech strategy game with an innovative timeline-based command system. See the future, predict enemy actions, and plot your counterattack on the timeline! Recruit and level up your squad of rebels to retake war-torn Fyrland from the Kaskad occupation.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/2fb2170627e5789f5f272bfbcf4c72fd.poster.avif?t=1771447210\" width=780 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/2fb2170627e5789f5f272bfbcf4c72fd.webm?t=1771447210\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/2fb2170627e5789f5f272bfbcf4c72fd.mp4?t=1771447210\" type=\"video/mp4\"></video></span> </p><h2 class=\"bb_tag\" >KEY FEATURES:</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Cinematic spin on the turn-based genre –</strong> Predict enemy movements, orchestrate precisely timed countermeasures, and hit “execute” to watch the physics-based action unfold in real time.</p></li><li><p class=\"bb_paragraph\" ><strong>Extensive customization –</strong> Featuring a rich customization system, Phantom Brigade enables you to fine-tune the performance of your mechs, install a wide selection of equipment, and access a wealth of cosmetic options. Prepare your squad for any challenge - in style.</p></li><li><p class=\"bb_paragraph\" ><strong>An expansive arsenal – </strong>Railguns, beam weapons, missiles, energy swords, and more! Rain destruction down upon your homeland’s invaders with weaponry salvaged from each enemy mech you defeat.</p></li><li><p class=\"bb_paragraph\" ><strong>Strategic tactical combat – </strong>Make high-level tactical decisions on the world map, manage your mobile base, and decide how to apply your limited resources. Take command of your squad in varied missions ranging from sabotage of enemy equipment and convoy ambushes to liberation battles and challenging outpost onslaughts.</p></li><li><p class=\"bb_paragraph\" ><strong>Destructible environments –</strong> It's not a proper game about giant mechs without destructible buildings! Phantom Brigade allows every square meter of each battle map to be destroyed. Shatter your enemy’s cover and collapse buildings on top of them!</p><p class=\"bb_paragraph\" > </p></li></ul><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/e8f66f2a08cf6e12e89ba480ddd1ce12.poster.avif?t=1771447210\" width=780 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/e8f66f2a08cf6e12e89ba480ddd1ce12.webm?t=1771447210\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/e8f66f2a08cf6e12e89ba480ddd1ce12.mp4?t=1771447210\" type=\"video/mp4\"></video></span></p>",
-  "about_the_game": "<h2 class=\"bb_tag\" style=\"text-align: center\">The free, major update, Phantom Brigade 2.0, is now available!</h2><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/8789e6fd942b311e239b79610847ebf0.poster.avif?t=1771447210\" width=780 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/8789e6fd942b311e239b79610847ebf0.webm?t=1771447210\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/8789e6fd942b311e239b79610847ebf0.mp4?t=1771447210\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >The 2.0 update is extensive, transforming nearly every aspect of the game, but the highlights include:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Fully realized pilots –</strong> Recruit pilots with over 100 unique pilot traits and abilities which allow for in-depth buildcrafting and synergies with your mechs. With a new recruitment and class specialization system, expansive leveling with varied progression trees, combined with new visual customisation options, you can build your own flavor of deadly (and stylish) ace pilots.</p></li><li><p class=\"bb_paragraph\" ><strong>A reworked campaign</strong> – New maps, new quests, and new combat scenarios along with fully rebalanced factions ensure you face varied squads with different equipment, armour and unit configurations. You have even more reason to collect new equipment and experiment with different loadouts to take on these new threats.</p></li><li><p class=\"bb_paragraph\" ><strong>Completely reimagined overworld</strong> – Explore new provinces, varied landscapes and overhauled campaign systems. New liberation and overworld mechanics, new points of interest and events, new province modifiers and improved mission generation provide a varied, constantly evolving environment to encourage players to adapt and overcome.</p></li><li><p class=\"bb_paragraph\" ><strong>A HUGE amount of community driven quality of life updates</strong> – New salvage and debriefing menus, new mission previews and reward generation, reworked workshop and crafting, improved damage logic and prediction, new options and difficulty settings, comprehensive weapon balancing, subsystem reworks and much more!</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"> <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/1c03e512c4274f8b06dd0179699c0db0.poster.avif?t=1771447210\" width=780 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/1c03e512c4274f8b06dd0179699c0db0.webm?t=1771447210\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/1c03e512c4274f8b06dd0179699c0db0.mp4?t=1771447210\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><i>Phantom Brigade</i> is a cinematic, tactical mech strategy game with an innovative timeline-based command system. See the future, predict enemy actions, and plot your counterattack on the timeline! Recruit and level up your squad of rebels to retake war-torn Fyrland from the Kaskad occupation.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/2fb2170627e5789f5f272bfbcf4c72fd.poster.avif?t=1771447210\" width=780 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/2fb2170627e5789f5f272bfbcf4c72fd.webm?t=1771447210\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/2fb2170627e5789f5f272bfbcf4c72fd.mp4?t=1771447210\" type=\"video/mp4\"></video></span> </p><h2 class=\"bb_tag\" >KEY FEATURES:</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Cinematic spin on the turn-based genre –</strong> Predict enemy movements, orchestrate precisely timed countermeasures, and hit “execute” to watch the physics-based action unfold in real time.</p></li><li><p class=\"bb_paragraph\" ><strong>Extensive customization –</strong> Featuring a rich customization system, Phantom Brigade enables you to fine-tune the performance of your mechs, install a wide selection of equipment, and access a wealth of cosmetic options. Prepare your squad for any challenge - in style.</p></li><li><p class=\"bb_paragraph\" ><strong>An expansive arsenal – </strong>Railguns, beam weapons, missiles, energy swords, and more! Rain destruction down upon your homeland’s invaders with weaponry salvaged from each enemy mech you defeat.</p></li><li><p class=\"bb_paragraph\" ><strong>Strategic tactical combat – </strong>Make high-level tactical decisions on the world map, manage your mobile base, and decide how to apply your limited resources. Take command of your squad in varied missions ranging from sabotage of enemy equipment and convoy ambushes to liberation battles and challenging outpost onslaughts.</p></li><li><p class=\"bb_paragraph\" ><strong>Destructible environments –</strong> It's not a proper game about giant mechs without destructible buildings! Phantom Brigade allows every square meter of each battle map to be destroyed. Shatter your enemy’s cover and collapse buildings on top of them!</p><p class=\"bb_paragraph\" > </p></li></ul><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/e8f66f2a08cf6e12e89ba480ddd1ce12.poster.avif?t=1771447210\" width=780 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/e8f66f2a08cf6e12e89ba480ddd1ce12.webm?t=1771447210\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553540/extras/e8f66f2a08cf6e12e89ba480ddd1ce12.mp4?t=1771447210\" type=\"video/mp4\"></video></span></p>",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Trading Cards",
-    "Steam Workshop",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 4041,
+  "screenshots": [],
   "rising_score": 0.0006,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1087.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 4182,
-  "review_positive": 3362,
+  "review_positive": 0,
   "review_percentage": 80.4,
   "owner_estimate": 350000,
-  "ccu_estimate": 27,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 716,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3095,
-      "review_percentage": 76.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 4163,
-      "review_percentage": 80.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
-      "review_count": 4168,
-      "review_percentage": 80.3,
-      "ccu_estimate": 27,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
-      "review_count": 4168,
-      "review_percentage": 80.3,
-      "ccu_estimate": 27,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-29",
-      "review_count": 4173,
-      "review_percentage": 80.3,
-      "ccu_estimate": 27,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
-      "review_count": 4177,
-      "review_percentage": 80.4,
-      "ccu_estimate": 27,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 4182,
       "review_percentage": 80.4,
-      "ccu_estimate": 27,
+      "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

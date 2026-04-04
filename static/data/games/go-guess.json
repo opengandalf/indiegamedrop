@@ -3,8 +3,8 @@
   "name": "Go Guess",
   "slug": "go-guess",
   "developer": "Oblix LLC",
-  "publisher": "Oblix LLC",
-  "release_date": "Apr 27, 2018",
+  "publisher": "",
+  "release_date": "2018-04-27",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -21,68 +21,23 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Go Guess is an interactive virtual reality experience that teleports you to different locations around the world and asks you to guess where you are. Give it a try on your own or with your friends and see how your knowledge of the world and its geography fares compared to others!",
+  "short_description": "Go Guess is an interactive virtual reality experience that teleports you to different locations around the world and asks you to guess where you are. Give it a try on your own or with your friends and",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/799300/header.jpg?t=1614430238",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/799300/ss_e9cdb999b68011450f3ca91a165c3863fb73c995.600x338.jpg?t=1614430238",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/799300/ss_cf86943e7dde49b12813e7ab666fd73f91f6e99f.600x338.jpg?t=1614430238",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/799300/ss_2586c004cd8368860fa54a5fe6d2d675aa7ff3ba.600x338.jpg?t=1614430238",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/799300/ss_a562f3e8569fde697bdf7244de5f9660e2c7b425.600x338.jpg?t=1614430238",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/799300/ss_db05d069c4b53e4bed41fa59e8cfe1484eb5922b.600x338.jpg?t=1614430238",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/799300/ss_41c56163bb8bdbc78b20c7b9f5abec2e61c64eb0.600x338.jpg?t=1614430238",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/799300/ss_58f52494d110e5064358346ff5a9cb37fc100916.600x338.jpg?t=1614430238"
-  ],
-  "detailed_description": "Go Guess is an interactive virtual reality experience that teleports you to different locations around the world and asks you to guess where you are. Give it a try on your own or with your friends and see how your knowledge of the world and its geography fares compared to others!",
-  "about_the_game": "Go Guess is an interactive virtual reality experience that teleports you to different locations around the world and asks you to guess where you are. Give it a try on your own or with your friends and see how your knowledge of the world and its geography fares compared to others!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Cross-Platform Multiplayer",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 41,
-  "review_positive": 30,
+  "review_positive": 0,
   "review_percentage": 73.2,
-  "owner_estimate": 35000,
+  "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 23,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 42,
-      "review_percentage": 73.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 41,
-      "review_percentage": 73.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
+      "date": "2026-04-04",
       "review_count": 41,
       "review_percentage": 73.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

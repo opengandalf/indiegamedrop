@@ -3,8 +3,8 @@
   "name": "Guess Colors",
   "slug": "guess-colors",
   "developer": "Paulo Sigrist",
-  "publisher": "Paulo Sigrist",
-  "release_date": "Dec 8, 2020",
+  "publisher": "",
+  "release_date": "2020-12-08",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -19,33 +19,9 @@
   ],
   "short_description": "Guess Colors is a minimalist puzzle game we used to play in the childhood.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473100/header.jpg?t=1607425944",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473100/ss_cfe62192eb26b9de510ce4c209012ec4e5fe6323.600x338.jpg?t=1607425944",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473100/ss_1097a4ef6800913e6cf4d39cc806034bc4cb85a5.600x338.jpg?t=1607425944",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473100/ss_f03aadbad78e1c0e4b39ce162cd33e179002885a.600x338.jpg?t=1607425944",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473100/ss_5b937a95c25c2a13ab8cb838e84c1c225438c091.600x338.jpg?t=1607425944",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1473100/ss_8c9dd2e9712d0e849d0595a8c2f7ddcc45338e9e.600x338.jpg?t=1607425944"
-  ],
-  "detailed_description": "<strong>Guess Colors</strong> is a minimalist puzzle game we used to play in the childhood. <br><br>We have four cells and six colors available and you should try to find in less than ten steps what is the right color sequence.<br>Green stars means you have a cell with the right color in the right position, red starts means you have the right color in the wrong position.<br><br><ul class=\"bb_ul\"><li> Try to guess the color sequence in less steps<br></li><li> Accumulate points and try to beat your records<br></li><li> Try to get the \"Hole In One\" achievement!</li></ul><br><i>Relax playing this fun game from your childhood!</i>",
-  "about_the_game": "<strong>Guess Colors</strong> is a minimalist puzzle game we used to play in the childhood. <br><br>We have four cells and six colors available and you should try to find in less than ten steps what is the right color sequence.<br>Green stars means you have a cell with the right color in the right position, red starts means you have the right color in the wrong position.<br><br><ul class=\"bb_ul\"><li> Try to guess the color sequence in less steps<br></li><li> Accumulate points and try to beat your records<br></li><li> Try to get the \"Hole In One\" achievement!</li></ul><br><i>Relax playing this fun game from your childhood!</i>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

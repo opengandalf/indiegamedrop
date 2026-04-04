@@ -3,8 +3,8 @@
   "name": "Pixel Composer",
   "slug": "pixel-composer",
   "developer": "MakhamDev",
-  "publisher": "MakhamDev",
-  "release_date": "Feb 23, 2023",
+  "publisher": "",
+  "release_date": "2023-02-23",
   "price_usd": 9.99,
   "genres": [
     "Animation & Modeling",
@@ -19,34 +19,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "A Node-based pixel art generator, editor, and VFX compositor. Create beautiful and complex effects in a non-destructive manner. Pixel Composer comes with a powerful graph system that supports multiple image manipulation, feedback effects, loop, physics, and fluid simulation.",
+  "short_description": "A Node-based pixel art generator, editor, and VFX compositor. Create beautiful and complex effects in a non-destructive manner. Pixel Composer comes with a powerful graph system that supports multiple",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299510/625e909fcbd39126f86bd3785225ee1625d4ac22/header.jpg?t=1745213265",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299510/ss_fd8bf6ec9a6fe503f6e2b330bccd94f3b125da39.600x338.jpg?t=1745213265",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299510/ss_ab82a13dfb6a69d52f096bb8e006af7cf3744cb9.600x338.jpg?t=1745213265",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299510/ss_a45829d8bda606d7f159160b2f1b90057f0dcd4e.600x338.jpg?t=1745213265",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299510/ss_f2decc145070fbe60b10b43d823793be29cd0764.600x338.jpg?t=1745213265",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299510/ss_9b705833aa3a5dbaf8dc36085affcff80783bef6.600x338.jpg?t=1745213265",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299510/ss_74be580a6e5b1ebab403b91715d72a15c26e140c.600x338.jpg?t=1745213265"
-  ],
-  "detailed_description": "A Node-based, nondestructive, pixel art generator, editor, and VFX compositor. Pixel Composer comes with a powerful graph and node system that supports all types of operation and automation.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299510/extras/fb8320ff442f2ac5bb82c34cd9ee67e8.avif?t=1745213265\" width=613 height=146 /></span><br>Animate every property with a timeline system. Create feedback loops, particle effects, rigid body animation, fluid simulation, 3D animation, and more. Pixel Composer has support for .aseprite files with layer and tag features. Allowing for effects, and animation to be added without altering the original artwork.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299510/extras/051691f620139ff56c2badf0c0eebc53.avif?t=1745213265\" width=613 height=146 /></span><br>Pixel Composer supports array operation to manipulate multiple images and data in a single node, from import, edit, to export. Allowing for automation that speeds up your pixel art creation workflow.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299510/extras/abe5267c70d3e8416c8f37b6cbbc43f7.avif?t=1745213265\" width=612 height=146 /></span><br>Pixel Composer contains over 200+ nodes for all types of generation, manipulation, and composition. With new nodes being added every update.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299510/extras/32db2c8aa3e8f9ee95fd28802389e4b7.avif?t=1745213265\" width=613 height=146 /></span><br>The collection system allows node groups to be stored, reuse between projects, and shared quickly. Pixel composer Steam version also supports Steam Workshop. Sharing collections and projects has never been easier!",
-  "about_the_game": "A Node-based, nondestructive, pixel art generator, editor, and VFX compositor. Pixel Composer comes with a powerful graph and node system that supports all types of operation and automation.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299510/extras/fb8320ff442f2ac5bb82c34cd9ee67e8.avif?t=1745213265\" width=613 height=146 /></span><br>Animate every property with a timeline system. Create feedback loops, particle effects, rigid body animation, fluid simulation, 3D animation, and more. Pixel Composer has support for .aseprite files with layer and tag features. Allowing for effects, and animation to be added without altering the original artwork.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299510/extras/051691f620139ff56c2badf0c0eebc53.avif?t=1745213265\" width=613 height=146 /></span><br>Pixel Composer supports array operation to manipulate multiple images and data in a single node, from import, edit, to export. Allowing for automation that speeds up your pixel art creation workflow.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299510/extras/abe5267c70d3e8416c8f37b6cbbc43f7.avif?t=1745213265\" width=612 height=146 /></span><br>Pixel Composer contains over 200+ nodes for all types of generation, manipulation, and composition. With new nodes being added every update.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299510/extras/32db2c8aa3e8f9ee95fd28802389e4b7.avif?t=1745213265\" width=613 height=146 /></span><br>The collection system allows node groups to be stored, reuse between projects, and shared quickly. Pixel composer Steam version also supports Steam Workshop. Sharing collections and projects has never been easier!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Workshop"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 196,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 240,
-  "review_positive": 203,
+  "review_positive": 0,
   "review_percentage": 84.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 175,
-      "review_percentage": 86.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 240,
       "review_percentage": 84.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

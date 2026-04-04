@@ -3,8 +3,8 @@
   "name": "Our Ascent",
   "slug": "our-ascent",
   "developer": "Noobilator7",
-  "publisher": "Noobilator7",
-  "release_date": "Sep 15, 2024",
+  "publisher": "",
+  "release_date": "2024-09-15",
   "price_usd": 4.99,
   "genres": [
     "Adventure",
@@ -29,32 +29,15 @@
   ],
   "short_description": "Our Ascent is an incremental roguelite RPG with many layers of metaprogression.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191710/header.jpg?t=1726437505",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191710/ss_4b2cc976c0d585f58bc148742fee3e6be26c2366.600x338.jpg?t=1726437505",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191710/ss_dbf17aa7892626e576087da5ef62e45ff3e8428a.600x338.jpg?t=1726437505",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191710/ss_3a1f07e8251aea50c495e40ca81e6170ad2d5476.600x338.jpg?t=1726437505",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191710/ss_30d726a2d7263907d191397821f84076129553fb.600x338.jpg?t=1726437505",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3191710/ss_12253cfb5dabdf92e49a2699e937cdc2eb77b743.600x338.jpg?t=1726437505"
-  ],
-  "detailed_description": "Our Ascent is an incremental roguelite RPG with many layers of metaprogression. The game is currently in the Alpha Testing phase!<br />\r\n<br />\r\nThe main gameplay loop is similar to that of a traditional RPG. Level up, upgrade your stats, buy equipment, etc. Where this game differs is through the incremental roguelite mechanics. You can only fight a certain number of enemies before the run ends, and once a run ends your levels and stats get reset. In exchange, you keep your equipment and powerful buffs which let you explore much further than before. <br />\r\n<br />\r\nWith silly dialogue and nearly guaranteed progress, this is a simple, casual game. But for those who want to reach the limit of what is possible, you are heavily rewarded for min-maxing your stat allocation, pathing to find the optimal routes, and choosing the best equipment for the current situation.",
-  "about_the_game": "Our Ascent is an incremental roguelite RPG with many layers of metaprogression. The game is currently in the Alpha Testing phase!<br />\r\n<br />\r\nThe main gameplay loop is similar to that of a traditional RPG. Level up, upgrade your stats, buy equipment, etc. Where this game differs is through the incremental roguelite mechanics. You can only fight a certain number of enemies before the run ends, and once a run ends your levels and stats get reset. In exchange, you keep your equipment and powerful buffs which let you explore much further than before. <br />\r\n<br />\r\nWith silly dialogue and nearly guaranteed progress, this is a simple, casual game. But for those who want to reach the limit of what is possible, you are heavily rewarded for min-maxing your stat allocation, pathing to find the optimal routes, and choosing the best equipment for the current situation.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0011,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 8.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 29,
-  "review_positive": 26,
+  "review_positive": 0,
   "review_percentage": 89.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +45,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 21,
-      "review_percentage": 90.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 29,
       "review_percentage": 89.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

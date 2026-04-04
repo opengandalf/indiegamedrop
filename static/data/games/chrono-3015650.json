@@ -3,8 +3,8 @@
   "name": "Chrono",
   "slug": "chrono-3015650",
   "developer": "David Simoes",
-  "publisher": "David Simoes",
-  "release_date": "Oct 23, 2024",
+  "publisher": "",
+  "release_date": "2024-10-23",
   "price_usd": 2.99,
   "genres": [
     "Casual",
@@ -18,64 +18,29 @@
     "windows",
     "linux"
   ],
-  "short_description": "Chrono is a puzzle/platformer game where you control how time affects objects in the world. By freezing time, fast-forwarding, or rewinding objects, you can crack a wide variety of puzzles. The goal is to escape the facility where you are trapped, before time runs out.",
+  "short_description": "Chrono is a puzzle/platformer game where you control how time affects objects in the world. By freezing time, fast-forwarding, or rewinding objects, you can crack a wide variety of puzzles. The goal i",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015650/header.jpg?t=1740349431",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015650/ss_a0946fa8cec5cdb9a4c987a34a43d8398ca29de1.600x338.jpg?t=1740349431",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015650/ss_f7bf3ec87d1b7088aa3ccd69219f03a29015aeb6.600x338.jpg?t=1740349431",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015650/ss_392b5b551789818895aca503dc0f255bd7a62255.600x338.jpg?t=1740349431",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015650/ss_25540c5dd4b723329e136c70cde3e0953ae113b7.600x338.jpg?t=1740349431",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015650/ss_1e7df7169eecf745097e06ed07a839cdf763154e.600x338.jpg?t=1740349431",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015650/ss_cb3f76d7c87f07ca4a5cf98a7fd75073cd7c23c7.600x338.jpg?t=1740349431",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015650/ss_5b3f881dbf783543dee68723ba70cce2b8dea958.600x338.jpg?t=1740349431",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015650/ss_effa25d0f1db948e2e2b3a542e3a84d7c9a635b0.600x338.jpg?t=1740349431",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015650/ss_82e7eb0a66d330bbe4cecfb91efafde1c57abaf7.600x338.jpg?t=1740349431",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015650/ss_50e5b10678f096d73f31a1f6619773913579973d.600x338.jpg?t=1740349431",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015650/ss_cc1d630f0674414064b8bf22681bf94a6834bc2e.600x338.jpg?t=1740349431",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015650/ss_65f777efe207eb98f57e390c0a9ab6f1351cb52e.600x338.jpg?t=1740349431",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015650/ss_c403ed18ef4fce4a8c0b20315cc23607610a4cd4.600x338.jpg?t=1740349431"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >The clock ticks, inexorably. </p><p class=\"bb_paragraph\" >You wake up in a mysterious futuristic laboratory, after a technician spills his coffee on the wrong keyboard. You soon obtain the ChronoGun, which is able to change the temporal properties of objects. Falling items can be sent back to where they fell from, dangerous blades can be safely stopped, and  mechanisms can be sped up for speed and power. You need to escape this facility, and the sooner the better. </p><p class=\"bb_paragraph\" >Chrono is a puzzle/platformer first-person single-player game. Explore dozens of puzzle rooms where you interact with the temporal properties of objects. Each puzzle contains moving platforms, pistons, lasers, turbines, and more. Puzzles are grouped by level, and each level represents a difficulty increase. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >You can try and achieve the fastest time possible for each level. Solve all the puzzles to escape and get to safety!</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >The clock ticks, inexorably. </p><p class=\"bb_paragraph\" >You wake up in a mysterious futuristic laboratory, after a technician spills his coffee on the wrong keyboard. You soon obtain the ChronoGun, which is able to change the temporal properties of objects. Falling items can be sent back to where they fell from, dangerous blades can be safely stopped, and  mechanisms can be sped up for speed and power. You need to escape this facility, and the sooner the better. </p><p class=\"bb_paragraph\" >Chrono is a puzzle/platformer first-person single-player game. Explore dozens of puzzle rooms where you interact with the temporal properties of objects. Each puzzle contains moving platforms, pistons, lasers, turbines, and more. Puzzles are grouped by level, and each level represents a difficulty increase. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >You can try and achieve the fastest time possible for each level. Solve all the puzzles to escape and get to safety!</p>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
-  "gem_score": 0.9232,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 1.6,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 32,
-  "review_positive": 32,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 30,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 32,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

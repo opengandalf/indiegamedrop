@@ -3,8 +3,8 @@
   "name": "ED-IT",
   "slug": "ed-it",
   "developer": "Tilephone",
-  "publisher": "Git Together",
-  "release_date": "Oct 21, 2019",
+  "publisher": "",
+  "release_date": "2019-10-21",
   "price_usd": 0.0,
   "genres": [
     "Free To Play",
@@ -19,31 +19,15 @@
   ],
   "short_description": "You are a robot named Ed with the ability to dream. Use your abilities to platform through levels and dream your way around obstacles.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151570/header.jpg?t=1571657902",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151570/ss_fc5fe7fffce70a5f135a1a7ca4bafdf5b5688869.600x338.jpg?t=1571657902",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151570/ss_1b8db4113f8eb77ecfea11d045d34381b08f5370.600x338.jpg?t=1571657902",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151570/ss_a5651aacb7d1b1e5a810ac255c4b84bcfa81adde.600x338.jpg?t=1571657902",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151570/ss_9c0944969006bda98a9376c4eaac4cd30127fa8c.600x338.jpg?t=1571657902",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151570/ss_fd0eda310ae9595174edae6af11631c8a673d0c8.600x338.jpg?t=1571657902"
-  ],
-  "detailed_description": "The official game made for the Git Together 1 jam!<br><br>You are a robot named Ed with the ability to dream. Use your abilities to platform through levels and dream your way around obstacles.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Play through seven unique stages with an emphasis on different mechanics.<br></li><li>Use \"dream mode\" to edit your surroundings and imagine solutions to these challenges.<br></li><li>Hug giraffes.</li></ul><h2 class=\"bb_tag\" >Controls</h2>Move - WASD / Arrow keys<br>Dream mode - Right mouse button<br>Place/delete blocks - Left/right mouse button while in dream mode<br>Pause - Escape<h2 class=\"bb_tag\" >Contributors</h2><ul class=\"bb_ul\"><li>Leo Jansson - Code, Level Design<br></li><li>Casey MacNeil - Visuals<br></li><li>Bauke Regnerus - Bouncy Block, Programmer<br></li><li>Jacob S. - Art, NPCs<br></li><li>Nicholas Smith - Code, Visuals, Sound, Tutorial<br></li><li>Yosi - Code, Shaders<br></li><li>Ahmed Yasir - Level Design<br></li><li>SurgDev - Slime & Ice<br></li><li>Mason Young - Music<br></li><li>Katsaii - Concept<br></li><li>Sohom Sahaun - Organization<br></li><li>TonyStr - Dream Mode<br></li><li>nut4985 - Switch Art<br></li><li>King Cubing - Moral Support</li></ul>",
-  "about_the_game": "The official game made for the Git Together 1 jam!<br><br>You are a robot named Ed with the ability to dream. Use your abilities to platform through levels and dream your way around obstacles.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Play through seven unique stages with an emphasis on different mechanics.<br></li><li>Use \"dream mode\" to edit your surroundings and imagine solutions to these challenges.<br></li><li>Hug giraffes.</li></ul><h2 class=\"bb_tag\" >Controls</h2>Move - WASD / Arrow keys<br>Dream mode - Right mouse button<br>Place/delete blocks - Left/right mouse button while in dream mode<br>Pause - Escape<h2 class=\"bb_tag\" >Contributors</h2><ul class=\"bb_ul\"><li>Leo Jansson - Code, Level Design<br></li><li>Casey MacNeil - Visuals<br></li><li>Bauke Regnerus - Bouncy Block, Programmer<br></li><li>Jacob S. - Art, NPCs<br></li><li>Nicholas Smith - Code, Visuals, Sound, Tutorial<br></li><li>Yosi - Code, Shaders<br></li><li>Ahmed Yasir - Level Design<br></li><li>SurgDev - Slime & Ice<br></li><li>Mason Young - Music<br></li><li>Katsaii - Concept<br></li><li>Sohom Sahaun - Organization<br></li><li>TonyStr - Dream Mode<br></li><li>nut4985 - Switch Art<br></li><li>King Cubing - Moral Support</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.7000000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 14,
-  "review_positive": 12,
+  "review_positive": 0,
   "review_percentage": 85.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 13,
-      "review_percentage": 84.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 14,
       "review_percentage": 85.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Avoidvania",
   "slug": "avoidvania",
   "developer": "RED STUDIO",
-  "publisher": "RED STUDIO",
-  "release_date": "Sep 25, 2021",
+  "publisher": "",
+  "release_date": "2021-09-25",
   "price_usd": 10.99,
   "genres": [
     "Adventure",
@@ -21,37 +21,15 @@
   ],
   "short_description": "AvoidVania is a 2D game Top-down Runner / Metroidvania taking place in a medieval-fantastic universe.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375440/header.jpg?t=1638967677",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375440/ss_40b0137bd53103f5b00f743346388a4e9d1485bc.600x338.jpg?t=1638967677",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375440/ss_cb3a2533b95e841d15a5d64acea317531ed7e1dd.600x338.jpg?t=1638967677",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375440/ss_cd52921875aee8863ea98ef1b84831956c955ad2.600x338.jpg?t=1638967677",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375440/ss_7b8d5e1ebedb94d289072d73871d9daa9fbe4fae.600x338.jpg?t=1638967677",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375440/ss_291d05478ea4f7efca397059bf744b15add6e9fc.600x338.jpg?t=1638967677",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375440/ss_b95547ad2c2f4da1b26095fb1d072d34f5d8b53f.600x338.jpg?t=1638967677",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375440/ss_91ecae274d2b60c106cc46b3b0dc829f70fe3323.600x338.jpg?t=1638967677",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375440/ss_4f0318fcda4b3be5593b5f81f3cafcd675246bf8.600x338.jpg?t=1638967677"
-  ],
-  "detailed_description": "You are a small cat who walks in a forest and who smells an irresistible aroma coming from the tower of a large castle. Attracted by this smell, you find yourself trapped in a maze of corridors filled with traps and hostile creatures. You are unable to fight with your little body, but you have the advantage of running very fast ...<br><br>Fortunately, you can count on the help of travelers, also in search of this intoxicating smell.<br><br><ul class=\"bb_ul\"><li>Avoid the pitfalls and enemies on your way.<br></li><li>Meet colorful characters who will teach you more about the castle.<br></li><li>You can't fight, but you're very fast ...</li></ul>",
-  "about_the_game": "You are a small cat who walks in a forest and who smells an irresistible aroma coming from the tower of a large castle. Attracted by this smell, you find yourself trapped in a maze of corridors filled with traps and hostile creatures. You are unable to fight with your little body, but you have the advantage of running very fast ...<br><br>Fortunately, you can count on the help of travelers, also in search of this intoxicating smell.<br><br><ul class=\"bb_ul\"><li>Avoid the pitfalls and enemies on your way.<br></li><li>Meet colorful characters who will teach you more about the castle.<br></li><li>You can't fight, but you're very fast ...</li></ul>",
-  "supported_languages": "French, English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 7,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

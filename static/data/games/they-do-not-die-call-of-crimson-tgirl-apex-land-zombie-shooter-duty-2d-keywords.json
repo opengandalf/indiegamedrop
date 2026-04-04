@@ -3,8 +3,8 @@
   "name": "They Do Not Die: Call of Crimson Tgirl Apex Land Zombie Shooter Duty 2D Keywords",
   "slug": "they-do-not-die-call-of-crimson-tgirl-apex-land-zombie-shooter-duty-2d-keywords",
   "developer": "BoringKate",
-  "publisher": "BoringKate",
-  "release_date": "Oct 10, 2024",
+  "publisher": "",
+  "release_date": "2024-10-10",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -22,49 +22,9 @@
   ],
   "short_description": "I just think that top down shooters are neat. It's a pretty zen time. A podcast game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3245380/header.jpg?t=1730642341",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3245380/ss_723e065a483a314e775811d4b60d86ec65814828.600x338.jpg?t=1730642341",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3245380/ss_aaba6643dc6d6e8632d8dfbfba8efb320368214e.600x338.jpg?t=1730642341",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3245380/ss_acb65e021bed9e28d775688a1c1ade33791e9991.600x338.jpg?t=1730642341",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3245380/ss_ab9841980971c9e61f314e7357fc60d2e36ba268.600x338.jpg?t=1730642341",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3245380/ss_68f5f175dad216288e3d41e193e9baf505526e83.600x338.jpg?t=1730642341",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3245380/ss_050700956f6d4b7b9812ea36ca302d49429bdac7.600x338.jpg?t=1730642341",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3245380/ss_c9521634d252fd937ce855109cfe875dac05c161.600x338.jpg?t=1730642341",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3245380/ss_063aa490adf1bed28719e38ab0f1a583e4e34957.600x338.jpg?t=1730642341",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3245380/ss_cc3bbc646aa97c8389ffa96901d5b408425d7e5a.600x338.jpg?t=1730642341",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3245380/ss_85b3705a01f699e1cfed83dec4b18b47b6d0b08c.600x338.jpg?t=1730642341",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3245380/ss_2e600c370d485aa480af19d2280522fcb04d06cc.600x338.jpg?t=1730642341",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3245380/ss_663897b01ec30707cbf2ae079cff93807351e173.600x338.jpg?t=1730642341"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >The Basics</h2>They Do Not Die is just a simple little top down 2D indie zombie shooter. In a sorta similar vein as classics like Crimsonland or Alien Shooter.<h2 class=\"bb_tag\" >The Origins</h2>This is like a remastered/remade version of a Wii homebrew game that I made a decade ago. Shout out to all three of you who remember playing it on your Wii! Along with just porting it to love2d (which meant rewriting everything from C++ to Lua) I've also tweaked a ton of things and added a ton of new features.<h2 class=\"bb_tag\" >The World</h2>The game is set in procedurally generated and entirely destructible cities. Overflowing with both ravenous zombies (represented by green circles with an arrow pointing in the direction they're facing) and fleeing human NPC survivors (represented by a pink circle). Along with being able to dynamically destroy every wall you see, there are also destructible cars and crates (some of which will heal you when you break them open while others will explode).<h2 class=\"bb_tag\" >The Weapons</h2>You're equipped with an assault rifle (perfect for safely mowing down zombies) and a rocket launcher (rockets can take out crowds of zombies even more quickly and destroy walls, but you can also easily hurt yourself in the blast if you aren't careful). There are a few other weapons and abilities to try out too once you reach new game plus.<h2 class=\"bb_tag\" >The Multiplayer</h2>Every part of the game can be played with up to four players in shared screen multiplayer.<h2 class=\"bb_tag\" >The Game Modes</h2>There's a basic trans girl campaign mode, a score based endless mode, a courier mode where you have to try to get from one place to another, and a deathmatch mode (that tbh mostly just exists for testing purposes, but does let you wander around the city in multiplayer without being disturbed by zombies).<h2 class=\"bb_tag\" >The Achievements</h2>It's got steam achievements! Try to collect all of them!<h2 class=\"bb_tag\" >The Portability</h2>This steam release already supports both Windows and Linux, but you can also take the game's dot love file and play it anywhere that love2d games are playable (which includes a ton of emulation handhelds).<h2 class=\"bb_tag\" >The Mouse / Keyboard Controls</h2>WASD - Move<br>MOUSE - Aim<br>SHIFT - Run<br>LEFT MOUSE BUTTON - Fire weapon 1<br>RIGHT MOUSE BUTTON - Fire weapon 2<h2 class=\"bb_tag\" >The Gamepad Controls</h2>LEFT ANALOG STICK - Move<br>RIGHT ANALOG STICK - Aim<br>L3 - Run<br>R1 - Fire weapon 1<br>L1 - Fire weapon 2<h2 class=\"bb_tag\" >Bonus Facts</h2>I was originally told by valve that my description of the game wasn't long enough, so I'd like to pad it out even further by saying that I think you're really cute! I hope you have a great day!",
-  "about_the_game": "<h2 class=\"bb_tag\" >The Basics</h2>They Do Not Die is just a simple little top down 2D indie zombie shooter. In a sorta similar vein as classics like Crimsonland or Alien Shooter.<h2 class=\"bb_tag\" >The Origins</h2>This is like a remastered/remade version of a Wii homebrew game that I made a decade ago. Shout out to all three of you who remember playing it on your Wii! Along with just porting it to love2d (which meant rewriting everything from C++ to Lua) I've also tweaked a ton of things and added a ton of new features.<h2 class=\"bb_tag\" >The World</h2>The game is set in procedurally generated and entirely destructible cities. Overflowing with both ravenous zombies (represented by green circles with an arrow pointing in the direction they're facing) and fleeing human NPC survivors (represented by a pink circle). Along with being able to dynamically destroy every wall you see, there are also destructible cars and crates (some of which will heal you when you break them open while others will explode).<h2 class=\"bb_tag\" >The Weapons</h2>You're equipped with an assault rifle (perfect for safely mowing down zombies) and a rocket launcher (rockets can take out crowds of zombies even more quickly and destroy walls, but you can also easily hurt yourself in the blast if you aren't careful). There are a few other weapons and abilities to try out too once you reach new game plus.<h2 class=\"bb_tag\" >The Multiplayer</h2>Every part of the game can be played with up to four players in shared screen multiplayer.<h2 class=\"bb_tag\" >The Game Modes</h2>There's a basic trans girl campaign mode, a score based endless mode, a courier mode where you have to try to get from one place to another, and a deathmatch mode (that tbh mostly just exists for testing purposes, but does let you wander around the city in multiplayer without being disturbed by zombies).<h2 class=\"bb_tag\" >The Achievements</h2>It's got steam achievements! Try to collect all of them!<h2 class=\"bb_tag\" >The Portability</h2>This steam release already supports both Windows and Linux, but you can also take the game's dot love file and play it anywhere that love2d games are playable (which includes a ton of emulation handhelds).<h2 class=\"bb_tag\" >The Mouse / Keyboard Controls</h2>WASD - Move<br>MOUSE - Aim<br>SHIFT - Run<br>LEFT MOUSE BUTTON - Fire weapon 1<br>RIGHT MOUSE BUTTON - Fire weapon 2<h2 class=\"bb_tag\" >The Gamepad Controls</h2>LEFT ANALOG STICK - Move<br>RIGHT ANALOG STICK - Aim<br>L3 - Run<br>R1 - Fire weapon 1<br>L1 - Fire weapon 2<h2 class=\"bb_tag\" >Bonus Facts</h2>I was originally told by valve that my description of the game wasn't long enough, so I'd like to pad it out even further by saying that I think you're really cute! I hope you have a great day!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Cloud",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 15,
-  "review_positive": 13,
+  "review_positive": 0,
   "review_percentage": 86.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -72,19 +32,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 13,
-      "review_percentage": 84.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 15,
       "review_percentage": 86.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

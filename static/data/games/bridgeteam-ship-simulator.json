@@ -3,8 +3,8 @@
   "name": "BridgeTeam: Ship Simulator",
   "slug": "bridgeteam-ship-simulator",
   "developer": "Enrych Media Ltd.",
-  "publisher": "Enrych Media Ltd.",
-  "release_date": "Jan 2, 2022",
+  "publisher": "",
+  "release_date": "2022-01-02",
   "price_usd": 29.99,
   "genres": [
     "Simulation",
@@ -19,36 +19,15 @@
   ],
   "short_description": "Highly realistic ship simulator with detailed instruments and stunning graphics.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837910/header.jpg?t=1642037490",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837910/ss_6a018d008d01026cb9aea0c5590b02655697fe60.600x338.jpg?t=1642037490",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837910/ss_c8f00f7fef446651281329433c22d7943006eba5.600x338.jpg?t=1642037490",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837910/ss_49cfc687787989c3044ad91f1cac78750c63027a.600x338.jpg?t=1642037490",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837910/ss_f2d4c6831329a2edbb7404065a062e63b01b2dbf.600x338.jpg?t=1642037490",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837910/ss_ea807fbc3f9cc1ae570acd88aebd4441800e01de.600x338.jpg?t=1642037490",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837910/ss_1d4d95476ed11d8d0938d5a00b4d721546f88042.600x338.jpg?t=1642037490",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837910/ss_01bac30512454c59b1b1124378e886e1e761b979.600x338.jpg?t=1642037490",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837910/ss_9700ac0a24c5daef94280c608655cad630eff9a5.600x338.jpg?t=1642037490",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1837910/ss_fa50abf071040da00b22ada62aae9d5eb9840621.600x338.jpg?t=1642037490"
-  ],
-  "detailed_description": "BridgeTeam: Ship Simulator<br><br>Sail the open ocean or test your skills in docking at busy harbours. Use the radar to show trails and prevent collisions. Bridge Team: Ship Simulator is a ship simulator built from the ground up, and aiming to build on the legacy of the previous ship simulator series (note: we are not affiliated with the previous ship sim devs in any way). <br><br>Instead of a user manual, we've decided to make a video on basic simulator operations. You can find the link at the bottom of this description. <br><br>Bridge Team contains: <br> - Highly realistic ships<br> - A fully functioning RADAR with True & Relevant Motion Trails. <br>     - Planned features coming soon: EBL, VRM, and Parallel Index lines. <br> - Basic conning screen<br> - Basic autopilot system<br> - NMEA support via TCP/IP protocol - connect to real world ECDIS and other NMEA equipment <br> - NMEA currently supports $GPRMC format. We plan to add other formats too. We can also satisfy any NMEA formats by request.<br> - NMEA currently is via TCP/IP only.  <br> - Ocean system with bow and stern wakes<br> - AI ships<br> - Realistic wind/tide effects<br> - Accurate simulation models<br> - ... and much more!<h2 class=\"bb_tag\" >YouTube link to user manual replacement video: </h2>",
-  "about_the_game": "BridgeTeam: Ship Simulator<br><br>Sail the open ocean or test your skills in docking at busy harbours. Use the radar to show trails and prevent collisions. Bridge Team: Ship Simulator is a ship simulator built from the ground up, and aiming to build on the legacy of the previous ship simulator series (note: we are not affiliated with the previous ship sim devs in any way). <br><br>Instead of a user manual, we've decided to make a video on basic simulator operations. You can find the link at the bottom of this description. <br><br>Bridge Team contains: <br> - Highly realistic ships<br> - A fully functioning RADAR with True & Relevant Motion Trails. <br>     - Planned features coming soon: EBL, VRM, and Parallel Index lines. <br> - Basic conning screen<br> - Basic autopilot system<br> - NMEA support via TCP/IP protocol - connect to real world ECDIS and other NMEA equipment <br> - NMEA currently supports $GPRMC format. We plan to add other formats too. We can also satisfy any NMEA formats by request.<br> - NMEA currently is via TCP/IP only.  <br> - Ocean system with bow and stern wakes<br> - AI ships<br> - Realistic wind/tide effects<br> - Accurate simulation models<br> - ... and much more!<h2 class=\"bb_tag\" >YouTube link to user manual replacement video: </h2>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.75,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 15,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 40.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 13,
-      "review_percentage": 46.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 15,
       "review_percentage": 40.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

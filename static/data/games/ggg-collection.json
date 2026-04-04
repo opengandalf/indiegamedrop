@@ -3,8 +3,8 @@
   "name": "GGG Collection",
   "slug": "ggg-collection",
   "developer": "GGG",
-  "publisher": "GGG",
-  "release_date": "Aug 7, 2019",
+  "publisher": "",
+  "release_date": "2019-08-07",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -23,39 +23,9 @@
   ],
   "short_description": "Dodge others as a line, jump as high as you can as a jumper, dodge hornets as a frog, throw pizzas at shades as scaterboy, blow up obstacles as bombman and smile away your foes.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105480/header.jpg?t=1682941591",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105480/ss_659d50cd54f974ebefcb6ea78fbde39b60d0ce10.600x338.jpg?t=1682941591",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105480/ss_d72b72886b366d153de5269eff3a7b4295a52956.600x338.jpg?t=1682941591",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105480/ss_3d3de518a3a36df3fa34f26faddb0613446233ce.600x338.jpg?t=1682941591",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105480/ss_8ddc80e69f2866b82ac455a1ad453d15908f8cf0.600x338.jpg?t=1682941591",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105480/ss_d6c0c2692fad513fbfca2e7ef1362182d3c16d6c.600x338.jpg?t=1682941591",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105480/ss_20a5e851fc8bb3452bedf70630c29c3e7de636a3.600x338.jpg?t=1682941591"
-  ],
-  "detailed_description": "<strong>6 Arcadegames wait to be explored.</strong><br><br>Dodge others as a line, jump as high as you can as a jumper, dodge hornets as a frog, throw pizzas at shades as scaterboy, blow up obstacles as bombman and smile away your foes.<h2 class=\"bb_tag\" >Engine path limitation</h2>If this game is in too many subfolders the games may not launch, just relocate the game into a steam library in a path with a small pathstring like D:/steam/",
-  "about_the_game": "<strong>6 Arcadegames wait to be explored.</strong><br><br>Dodge others as a line, jump as high as you can as a jumper, dodge hornets as a frog, throw pizzas at shades as scaterboy, blow up obstacles as bombman and smile away your foes.<h2 class=\"bb_tag\" >Engine path limitation</h2>If this game is in too many subfolders the games may not launch, just relocate the game into a steam library in a path with a small pathstring like D:/steam/",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Remote Play Together"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 16,
-  "review_positive": 11,
+  "review_positive": 0,
   "review_percentage": 68.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -63,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 14,
-      "review_percentage": 71.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 16,
       "review_percentage": 68.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Extermination Overdrive",
   "slug": "extermination-overdrive",
   "developer": "Denormalizer",
-  "publisher": "Denormalizer",
-  "release_date": "Apr 28, 2024",
+  "publisher": "",
+  "release_date": "2024-04-28",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -23,33 +23,15 @@
   ],
   "short_description": "Extermination Overdrive is a single player 2D arcade shooter set in space. Battle swarms of enemy space craft and massive dreadnoughts.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2580370/header.jpg?t=1714370435",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2580370/ss_75540c4eb763aecc10c33beb3f73bdb52d634a2e.600x338.jpg?t=1714370435",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2580370/ss_eff9d364a76e2599283fc0179ee3d86306f7e4d0.600x338.jpg?t=1714370435",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2580370/ss_7e12a52c89570b34f2c79fafb7a38e1105a151da.600x338.jpg?t=1714370435",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2580370/ss_afa9911e92f2a37145427e8a2581f50e61e6e0c8.600x338.jpg?t=1714370435",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2580370/ss_28f650a262276838dbd42f7c573a02ab6810cfc2.600x338.jpg?t=1714370435"
-  ],
-  "detailed_description": "Developer Note: Due to the Unity licensing issues arising in September 2023, the direction of this game has changed, as the original 3D multiplayer concept was no longer viable.<br />\r\n<br />\r\nEmbark on an interstellar adventure with Extermination Overdrive, a thrilling 2D space shooter that pays homage to the golden era of '80s arcade games. Get ready to pilot your spacecraft through the vast expanse of space, engaging in epic battles against a fleet of enemy ships. With its retro-inspired graphics and heart-pounding gameplay, Extermination Overdrive invites you to dodge, weave, and blast your way through wave after wave of relentless foes. Whether you're a nostalgic gamer or a newcomer to the genre, prepare for an action-packed journey that will test your skills and reflexes. Jump into the cockpit and join the fight for galactic supremacy in Extermination Overdrive!",
-  "about_the_game": "Developer Note: Due to the Unity licensing issues arising in September 2023, the direction of this game has changed, as the original 3D multiplayer concept was no longer viable.<br />\r\n<br />\r\nEmbark on an interstellar adventure with Extermination Overdrive, a thrilling 2D space shooter that pays homage to the golden era of '80s arcade games. Get ready to pilot your spacecraft through the vast expanse of space, engaging in epic battles against a fleet of enemy ships. With its retro-inspired graphics and heart-pounding gameplay, Extermination Overdrive invites you to dodge, weave, and blast your way through wave after wave of relentless foes. Whether you're a nostalgic gamer or a newcomer to the genre, prepare for an action-packed journey that will test your skills and reflexes. Jump into the cockpit and join the fight for galactic supremacy in Extermination Overdrive!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

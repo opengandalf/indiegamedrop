@@ -3,8 +3,8 @@
   "name": "Santa's Big Adventures",
   "slug": "santas-big-adventures",
   "developer": "Mihai Morosanu",
-  "publisher": "Mihai Morosanu",
-  "release_date": "Dec 19, 2016",
+  "publisher": "",
+  "release_date": "2016-12-19",
   "price_usd": 0.49,
   "genres": [
     "Action",
@@ -23,61 +23,27 @@
   ],
   "short_description": "A good looking santa platformer game made for kids/casual gamers.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571020/header.jpg?t=1667467519",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571020/ss_0f072f7293aa497ac0afc1bdc5777b7ffe7f00fd.600x338.jpg?t=1667467519",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571020/ss_0e355dda570ecf3f4fa0acd49b94c5586feda3ea.600x338.jpg?t=1667467519",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571020/ss_cf2d9655d422c2cd04732d997ebe2a657b64b4c4.600x338.jpg?t=1667467519",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571020/ss_d67536533cbe0dcc082dafc6b8bc7b46470c1c9b.600x338.jpg?t=1667467519",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571020/ss_e1cabff36364fc8d54bf5ca0d9c494aed06445c0.600x338.jpg?t=1667467519",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571020/ss_447c66135096099df932d83187d4b7f440677251.600x338.jpg?t=1667467519"
-  ],
-  "detailed_description": "A good looking santa platformer game made for kids/casual gamers.<br />\r\nPlay as Santa and try to collect all lost presents and put them in the chimney.<br />\r\nAvoid fantastic creatures like a living snowman, the reindeer and spikes.<br />\r\nComplete all the levels and save the Christmas.<br />\r\n<br />\r\nThis game is specially made for kids/casual gamers.",
-  "about_the_game": "A good looking santa platformer game made for kids/casual gamers.<br />\r\nPlay as Santa and try to collect all lost presents and put them in the chimney.<br />\r\nAvoid fantastic creatures like a living snowman, the reindeer and spikes.<br />\r\nComplete all the levels and save the Christmas.<br />\r\n<br />\r\nThis game is specially made for kids/casual gamers.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Trading Cards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 104,
+  "screenshots": [],
   "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 6.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 131,
-  "review_positive": 96,
+  "review_positive": 0,
   "review_percentage": 73.3,
   "owner_estimate": 75000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 246,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 125,
-      "review_percentage": 72.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 131,
-      "review_percentage": 73.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 131,
       "review_percentage": 73.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

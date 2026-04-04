@@ -3,8 +3,8 @@
   "name": "Disk Dashers",
   "slug": "disk-dashers",
   "developer": "Crusher48",
-  "publisher": "Crusher48",
-  "release_date": "Jun 23, 2023",
+  "publisher": "",
+  "release_date": "2023-06-23",
   "price_usd": 9.99,
   "genres": [
     "Strategy"
@@ -15,37 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Plan trajectories, distribute energy, and outsmart your opponents in this simple but deep physics strategy game. Adapt to unusual environments and threats in singleplayer, or compete against opponents in strategic multiplayer.",
+  "short_description": "Plan trajectories, distribute energy, and outsmart your opponents in this simple but deep physics strategy game. Adapt to unusual environments and threats in singleplayer, or compete against opponents",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189850/header.jpg?t=1687539029",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189850/ss_994ccafe22245de963358ecf72b8f72bfe8cffc7.600x338.jpg?t=1687539029",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189850/ss_def496000974133115cdcfdb020220aaacd909b0.600x338.jpg?t=1687539029",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189850/ss_808ed6f715c7196f34745aea840a9e0149f89287.600x338.jpg?t=1687539029",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189850/ss_122c6373e53a9250c78e5d53abf301db2204959f.600x338.jpg?t=1687539029",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189850/ss_30d12ac0d01cad11af100cf650f761263e383509.600x338.jpg?t=1687539029"
-  ],
-  "detailed_description": "Plan trajectories, distribute energy, and outsmart your opponents in this simple but deep turn-based physics strategy game. Adapt to unusual environments and threats in the singleplayer campaign, or compete against opponents in strategic multiplayer.<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li><strong>Strategic Launcher Controls:</strong> Distribute your energy pool across your team of battle disks. Will you supercharge a single disk to maximum velocity, or split up your effort across multiple fronts at once?<br></li><li><strong>Simultaneous Execution:</strong> While you've been setting up your moves, the opponent has been setting up theirs. No launch plan survives contact with the enemy, but predicting the opponent's strategy can allow you to outsmart them.<br></li><li><strong>Advanced Trajectory Planning:</strong> Utilize advanced trajectory prediction to determine the potential outcome of moves, both of the moves you're planning and the moves you think the enemy will execute. Set up advanced multi-disk combo plays, or predict an opponent's action and plan evasive maneuvers against it.<br></li><li><strong>Complex Terrain:</strong> Each arena has a unique layout and unique opportunities to exploit. Use the walls of the arena to bounce from unusual angles, and take advantage of boost pads, low-friction fields, and recharge stations to gain the edge.<br></li><li><strong>Multiplayer Duels:</strong> Challenge other players in local or online multiplayer battles, pitting opposing strategies against each other.</li></ul>",
-  "about_the_game": "Plan trajectories, distribute energy, and outsmart your opponents in this simple but deep turn-based physics strategy game. Adapt to unusual environments and threats in the singleplayer campaign, or compete against opponents in strategic multiplayer.<h2 class=\"bb_tag\" >Features:</h2><ul class=\"bb_ul\"><li><strong>Strategic Launcher Controls:</strong> Distribute your energy pool across your team of battle disks. Will you supercharge a single disk to maximum velocity, or split up your effort across multiple fronts at once?<br></li><li><strong>Simultaneous Execution:</strong> While you've been setting up your moves, the opponent has been setting up theirs. No launch plan survives contact with the enemy, but predicting the opponent's strategy can allow you to outsmart them.<br></li><li><strong>Advanced Trajectory Planning:</strong> Utilize advanced trajectory prediction to determine the potential outcome of moves, both of the moves you're planning and the moves you think the enemy will execute. Set up advanced multi-disk combo plays, or predict an opponent's action and plan evasive maneuvers against it.<br></li><li><strong>Complex Terrain:</strong> Each arena has a unique layout and unique opportunities to exploit. Use the walls of the arena to bounce from unusual angles, and take advantage of boost pads, low-friction fields, and recharge stations to gain the edge.<br></li><li><strong>Multiplayer Duels:</strong> Challenge other players in local or online multiplayer battles, pitting opposing strategies against each other.</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

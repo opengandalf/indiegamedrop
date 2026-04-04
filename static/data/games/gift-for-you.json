@@ -3,8 +3,8 @@
   "name": "Gift for You",
   "slug": "gift-for-you",
   "developer": "MuuGames",
-  "publisher": "MuuGames",
-  "release_date": "Mar 28, 2024",
+  "publisher": "",
+  "release_date": "2024-03-28",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -21,40 +21,9 @@
   ],
   "short_description": "\"Gift for You\" is a puzzle action game consisting of 25 stages. Players must conquer a variety of puzzles and aim for the top ranking by clearing time.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2867230/header.jpg?t=1723182476",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2867230/ss_3556a78ff6db2e465faaa69b71df655a94dd63fa.600x338.jpg?t=1723182476",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2867230/ss_4746f22e6f91de886d0601c5112c23caf2aef054.600x338.jpg?t=1723182476",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2867230/ss_a5631af0a90f3231333a60e272161137cd4b6388.600x338.jpg?t=1723182476",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2867230/ss_1e0545fbb02781425f6237ee2e9c4dfc4f7959e1.600x338.jpg?t=1723182476",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2867230/ss_70c3122cd68e0fc2f685088800a5f3331e8dbd40.600x338.jpg?t=1723182476",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2867230/ss_037232c40e8c81db73076670cf337130207ee609.600x338.jpg?t=1723182476",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2867230/ss_819398c66f6ee05db91019fc4c05f4ca76966ea5.600x338.jpg?t=1723182476",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2867230/ss_1200f271bc9c65666be01b2d283a181b02c9e935.600x338.jpg?t=1723182476",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2867230/ss_fe0648dee509a0319b78c85c5204b52b095d178f.600x338.jpg?t=1723182476",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2867230/ss_b069f27dcad03d62728f9ac1109ccdc9a62ccbbb.600x338.jpg?t=1723182476"
-  ],
-  "detailed_description": "<strong><u>What is \"Gift for You\"?</u></strong><br>This is a puzzle action game with 25 stages.<br>The goal of the game is to advance through the stages and reach the goal by manipulating the blocks with 【Move】,【Jump】,【Attack】.<br><br><br><strong><u>Various gimmicks</u></strong><br>To clear a stage, you need to make full use of blocks with various effects.<br><br>(Example.)<br>Blocks that move when attacked<br>Blocks that make the player jump up when placed on them<br>Blocks that ascend and descend on a special floor<br>etc.<br><br><br><strong><u>Equipped with a ranking function</u></strong><br>The result screen when the game is cleared shows the time it took to clear the game.<br>If you beat your own best time, the record displayed on the title screen will be overwritten.<br><br>Beat your best time and aim for a higher ranking in the Steam ranking.",
-  "about_the_game": "<strong><u>What is \"Gift for You\"?</u></strong><br>This is a puzzle action game with 25 stages.<br>The goal of the game is to advance through the stages and reach the goal by manipulating the blocks with 【Move】,【Jump】,【Attack】.<br><br><br><strong><u>Various gimmicks</u></strong><br>To clear a stage, you need to make full use of blocks with various effects.<br><br>(Example.)<br>Blocks that move when attacked<br>Blocks that make the player jump up when placed on them<br>Blocks that ascend and descend on a special floor<br>etc.<br><br><br><strong><u>Equipped with a ranking function</u></strong><br>The result screen when the game is cleared shows the time it took to clear the game.<br>If you beat your own best time, the record displayed on the title screen will be overwritten.<br><br>Beat your best time and aim for a higher ranking in the Steam ranking.",
-  "supported_languages": "English, Japanese, French, Italian, German, Spanish - Spain, Russian, Simplified Chinese, Traditional Chinese, Korean",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

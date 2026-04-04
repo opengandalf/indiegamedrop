@@ -3,8 +3,8 @@
   "name": "Standable: Full Body Estimation",
   "slug": "standable-full-body-estimation",
   "developer": "Standable",
-  "publisher": "Standable",
-  "release_date": "May 8, 2023",
+  "publisher": "",
+  "release_date": "2023-05-08",
   "price_usd": 19.99,
   "genres": [
     "Indie",
@@ -19,81 +19,27 @@
   ],
   "short_description": "Standable Full Body Estimation is a method of estimating points of your body that are not currently tracked by 3-point tracking solutions.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2370570/header.jpg?t=1765566035",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2370570/4e710892f52aeb133f80c9accb2464cecd7a5d42/ss_4e710892f52aeb133f80c9accb2464cecd7a5d42.600x338.jpg?t=1765566035",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2370570/a724522f3f73b26a214d59d5c7a5acc0b057aedf/ss_a724522f3f73b26a214d59d5c7a5acc0b057aedf.600x338.jpg?t=1765566035",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2370570/ss_2ba300f557684cfbb23df59893859e3bdb7cd606.600x338.jpg?t=1765566035",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2370570/ss_1cb77bc1b5fc450d5acdafda54bbd4a982843688.600x338.jpg?t=1765566035",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2370570/ss_9af909e3d4da83d4c064686784dd8842909f7e85.600x338.jpg?t=1765566035",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2370570/ss_c15337e9c54e1aca822d528da11db821d49c442f.600x338.jpg?t=1765566035",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2370570/ss_a42a5a1d728694fe827f61df92dd2aa30883815f.600x338.jpg?t=1765566035"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><i>Standable Full Body Estimation</i> is a method of estimating points of your body that are not currently tracked by 3-point tracking solutions or other FBT tracking devices. Using the continuous positional data from any VR headset / HMD, Standable FBE can emulate the general movement of an 11-point tracking solution.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Quick Calibration:</strong> Spend less time setting up and more time immersed in VR.</p></li><li><p class=\"bb_paragraph\" ><strong>Advanced Tracking:</strong> Estimates 8 additional points to mimic a full 11-point tracking system.</p></li><li><p class=\"bb_paragraph\" ><strong>Natural Leg Movement:</strong> Seamlessly integrates with 3-point tracking (or more with mixed tracking!) for fluid body motion.</p></li><li><p class=\"bb_paragraph\" ><strong>Versatile Poses:</strong> Lay down in any direction (stomach, back, sides) and transition smoothly between standing and laying positions.</p></li><li><p class=\"bb_paragraph\" ><strong>Enhanced Elbow Estimation:</strong> Improved elbow angles for natural arm movements.</p></li><li><p class=\"bb_paragraph\" ><strong>SteamVR Compatibility:</strong> Works with any SteamVR app supporting full body tracking.</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Slick User Interface</h2><p class=\"bb_paragraph\" >Personalize your Standable experience with a fresh and intuitive UI.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Pose Adjustment Sliders:</strong> Fine-tune your sit/lay poses.</p></li><li><p class=\"bb_paragraph\" ><strong>Hip Movement Control:</strong> Adjustable hip sway and counterbalance.</p></li><li><p class=\"bb_paragraph\" ><strong>Dynamic Tracker Management:</strong> Enable/disable trackers on the fly.</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Advanced Estimation Options</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Seat Estimation:</strong> Automatically blend into a seated pose on various surfaces.</p></li><li><p class=\"bb_paragraph\" ><strong>Advanced Chest Estimation:</strong> Dynamic chest movement based on hand proximity.</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Mixed Tracking</h2><p class=\"bb_paragraph\" >Combine Standable with real FBT devices for the best of both worlds.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Fill in the Gaps:</strong> Use Standable to fill in tracking gaps where hardware trackers are absent.</p></li><li><p class=\"bb_paragraph\" ><strong>Fallback Triggers:</strong> Smoothly transition between FBT and Standable when trackers get occluded or run out of battery.</p></li><li><p class=\"bb_paragraph\" ><strong>Tracker Data Smoothing:</strong> Basic interpolation for smooth tracking (more advanced methods coming soon).</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Quick Consistent Calibration</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Alignment Options:</strong> Align Standable skeleton to your avatar for consistent calibration.</p></li><li><p class=\"bb_paragraph\" ><strong>Pencil Pose:</strong> Quick calibration for mixed tracking setups.</p></li><li><p class=\"bb_paragraph\" ><strong>Smart Offsets:</strong> Ensure consistent mixed tracking calibration.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Join the Community</strong></p><p class=\"bb_paragraph\" >For technical support and to connect with the community, join the Official Standable Discord!</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><i>Standable Full Body Estimation</i> is a method of estimating points of your body that are not currently tracked by 3-point tracking solutions or other FBT tracking devices. Using the continuous positional data from any VR headset / HMD, Standable FBE can emulate the general movement of an 11-point tracking solution.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Quick Calibration:</strong> Spend less time setting up and more time immersed in VR.</p></li><li><p class=\"bb_paragraph\" ><strong>Advanced Tracking:</strong> Estimates 8 additional points to mimic a full 11-point tracking system.</p></li><li><p class=\"bb_paragraph\" ><strong>Natural Leg Movement:</strong> Seamlessly integrates with 3-point tracking (or more with mixed tracking!) for fluid body motion.</p></li><li><p class=\"bb_paragraph\" ><strong>Versatile Poses:</strong> Lay down in any direction (stomach, back, sides) and transition smoothly between standing and laying positions.</p></li><li><p class=\"bb_paragraph\" ><strong>Enhanced Elbow Estimation:</strong> Improved elbow angles for natural arm movements.</p></li><li><p class=\"bb_paragraph\" ><strong>SteamVR Compatibility:</strong> Works with any SteamVR app supporting full body tracking.</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Slick User Interface</h2><p class=\"bb_paragraph\" >Personalize your Standable experience with a fresh and intuitive UI.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Pose Adjustment Sliders:</strong> Fine-tune your sit/lay poses.</p></li><li><p class=\"bb_paragraph\" ><strong>Hip Movement Control:</strong> Adjustable hip sway and counterbalance.</p></li><li><p class=\"bb_paragraph\" ><strong>Dynamic Tracker Management:</strong> Enable/disable trackers on the fly.</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Advanced Estimation Options</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Seat Estimation:</strong> Automatically blend into a seated pose on various surfaces.</p></li><li><p class=\"bb_paragraph\" ><strong>Advanced Chest Estimation:</strong> Dynamic chest movement based on hand proximity.</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Mixed Tracking</h2><p class=\"bb_paragraph\" >Combine Standable with real FBT devices for the best of both worlds.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Fill in the Gaps:</strong> Use Standable to fill in tracking gaps where hardware trackers are absent.</p></li><li><p class=\"bb_paragraph\" ><strong>Fallback Triggers:</strong> Smoothly transition between FBT and Standable when trackers get occluded or run out of battery.</p></li><li><p class=\"bb_paragraph\" ><strong>Tracker Data Smoothing:</strong> Basic interpolation for smooth tracking (more advanced methods coming soon).</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Quick Consistent Calibration</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Alignment Options:</strong> Align Standable skeleton to your avatar for consistent calibration.</p></li><li><p class=\"bb_paragraph\" ><strong>Pencil Pose:</strong> Quick calibration for mixed tracking setups.</p></li><li><p class=\"bb_paragraph\" ><strong>Smart Offsets:</strong> Ensure consistent mixed tracking calibration.</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Join the Community</strong></p><p class=\"bb_paragraph\" >For technical support and to connect with the community, join the Official Standable Discord!</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 1464,
+  "screenshots": [],
   "rising_score": 0.0006,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 367.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
-  "review_count": 1595,
-  "review_positive": 1280,
+  "classification": "new_release",
+  "review_count": 1591,
+  "review_positive": 0,
   "review_percentage": 80.3,
   "owner_estimate": 150000,
-  "ccu_estimate": 389,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 4724,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1224,
-      "review_percentage": 80.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
-      "review_count": 1586,
-      "review_percentage": 80.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
-      "review_count": 1590,
-      "review_percentage": 80.3,
-      "ccu_estimate": 389,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
-      "review_count": 1590,
-      "review_percentage": 80.3,
-      "ccu_estimate": 389,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-01",
+      "date": "2026-04-04",
       "review_count": 1591,
       "review_percentage": 80.3,
-      "ccu_estimate": 389,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
-      "review_count": 1595,
-      "review_percentage": 80.3,
-      "ccu_estimate": 389,
+      "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

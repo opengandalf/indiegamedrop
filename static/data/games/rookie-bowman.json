@@ -3,8 +3,8 @@
   "name": "Rookie Bowman",
   "slug": "rookie-bowman",
   "developer": "mapacarta",
-  "publisher": "mapacarta",
-  "release_date": "Aug 17, 2021",
+  "publisher": "",
+  "release_date": "2021-08-17",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -19,38 +19,9 @@
   ],
   "short_description": "Simple platformer game about a man searching an ancient bow in a cave. Explore the cave, collect different items, find secret rooms and fight with bosses.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712360/header.jpg?t=1629626730",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712360/ss_e64925b73109f6646c7dad7cadfe85b4afde3ea4.600x338.jpg?t=1629626730",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712360/ss_dfe6796b95d2257a8fb6c7ff64c43ecda99155ca.600x338.jpg?t=1629626730",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712360/ss_37652e3bb70f0dbc3a106d015d553a61bbcf7a75.600x338.jpg?t=1629626730",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712360/ss_48023290ef43bd849be558347975dd25a4125cd2.600x338.jpg?t=1629626730",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712360/ss_304770d9b611882188290988c04efb3a047f8e8a.600x338.jpg?t=1629626730",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712360/ss_bff71929a1a54a84a263f8befcfa13a5f0071205.600x338.jpg?t=1629626730",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712360/ss_abb7ba0e671f1809b3218ce3ef874bcfcb6947a5.600x338.jpg?t=1629626730",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712360/ss_e4b79ab9ca76e86e565b47251af5a92d1e1943d3.600x338.jpg?t=1629626730"
-  ],
-  "detailed_description": "Simple platformer game about a man searching an ancient bow in a cave. Explore the cave, collect different items, find secret rooms and fight with bosses.<br><br><ul class=\"bb_ul\"><li>3 Boss Fight<br></li><li>30+Achievements<br></li><li>Secret Rooms<br></li><li>Unlockable abilities<br>And Much More..<br><br>Arrow Teleport Mechanic<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712360/extras/13c9136a35f7242da5854783f59f18d3.poster.avif?t=1629626730\" width=600 height=277 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712360/extras/13c9136a35f7242da5854783f59f18d3.webm?t=1629626730\" type=\"video/webm; codecs=vp9\"></video></span></li></ul>",
-  "about_the_game": "Simple platformer game about a man searching an ancient bow in a cave. Explore the cave, collect different items, find secret rooms and fight with bosses.<br><br><ul class=\"bb_ul\"><li>3 Boss Fight<br></li><li>30+Achievements<br></li><li>Secret Rooms<br></li><li>Unlockable abilities<br>And Much More..<br><br>Arrow Teleport Mechanic<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712360/extras/13c9136a35f7242da5854783f59f18d3.poster.avif?t=1629626730\" width=600 height=277 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712360/extras/13c9136a35f7242da5854783f59f18d3.webm?t=1629626730\" type=\"video/webm; codecs=vp9\"></video></span></li></ul>",
-  "supported_languages": "English, Turkish",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 12,
-  "review_positive": 11,
+  "review_positive": 0,
   "review_percentage": 91.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 11,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 12,
       "review_percentage": 91.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

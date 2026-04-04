@@ -3,8 +3,8 @@
   "name": "Dry Grass",
   "slug": "dry-grass",
   "developer": "Matus Pavkeje",
-  "publisher": "Pogy Production",
-  "release_date": "Apr 9, 2020",
+  "publisher": "",
+  "release_date": "2020-04-09",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -25,43 +25,17 @@
     "mac",
     "linux"
   ],
-  "short_description": "Build bases, build your own car, co-operate, kill intruders, hunt animals, find secret easter eggs, explore or just chicken out and be scared for your life while hiding in dark cave, the life of your character is in your hands!",
+  "short_description": "Build bases, build your own car, co-operate, kill intruders, hunt animals, find secret easter eggs, explore or just chicken out and be scared for your life while hiding in dark cave, the life of your ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273150/header.jpg?t=1743598012",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273150/ss_400a9bdad80459e96dbc476e2de4d4f6b77fcfa9.600x338.jpg?t=1743598012",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273150/ss_db96a2f92c8ab18d0213a1e117e1c4213689f61b.600x338.jpg?t=1743598012",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273150/ss_a6caca1006c3e389e7cc7aafa43dbc9ca7bb8503.600x338.jpg?t=1743598012",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273150/ss_03a54734c3b0f0af23ca96f2fc4c68bbdd86f289.600x338.jpg?t=1743598012",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273150/ss_a43b6a3fb765e7d1ea3cf9c252e9f207d6c52912.600x338.jpg?t=1743598012",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273150/ss_cc722a6432fe5495bfe4b64c6bb561e3ecf13370.600x338.jpg?t=1743598012",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1273150/ss_67411947fe9fc81ffaca72ed3cfa3efaeab049df.600x338.jpg?t=1743598012"
-  ],
-  "detailed_description": "<strong>Dry Grass</strong> is open world survival based game. Your main goal is to survive the worst ! Build bases, build your own car, co-operate, kill intruders, hunt animals, find secret easter eggs, explore or just chicken out and be scared for your life while hiding in dark cave, the life of your character is in your hands!",
-  "about_the_game": "<strong>Dry Grass</strong> is open world survival based game. Your main goal is to survive the worst ! Build bases, build your own car, co-operate, kill intruders, hunt animals, find secret easter eggs, explore or just chicken out and be scared for your life while hiding in dark cave, the life of your character is in your hands!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "LAN PvP",
-    "Co-op",
-    "Online Co-op",
-    "LAN Co-op",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.4,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 8,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -69,19 +43,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 8,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

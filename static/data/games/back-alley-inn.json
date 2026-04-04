@@ -3,8 +3,8 @@
   "name": "Back Alley Inn",
   "slug": "back-alley-inn",
   "developer": "Jakai",
-  "publisher": "Jakai",
-  "release_date": "Nov 18, 2021",
+  "publisher": "",
+  "release_date": "2021-11-18",
   "price_usd": 0.79,
   "genres": [
     "Simulation"
@@ -15,38 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "You’ve managed to secure a spot for your new Inn in a rather shady part of town. Now manage it by building rooms to serve the patrons' needs and send adventurers into dungeons to secure new resources to sell or use in recipes.",
+  "short_description": "You’ve managed to secure a spot for your new Inn in a rather shady part of town. Now manage it by building rooms to serve the patrons' needs and send adventurers into dungeons to secure new resources ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1792290/header.jpg?t=1726043585",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1792290/ss_94eeed901e682510a737feba68f82905578f9a68.600x338.jpg?t=1726043585",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1792290/ss_d4a6fb6e7d90f0a128da47a7a4388dfd49c2993b.600x338.jpg?t=1726043585",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1792290/ss_898cea0bd506291c4fb8862aeac1af3ae73ad8f1.600x338.jpg?t=1726043585",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1792290/ss_35b485799f79f58e279077c63160d7e2cb40e64f.600x338.jpg?t=1726043585",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1792290/ss_8d5b65f8378e9561facca87fbdb23dba777fcb72.600x338.jpg?t=1726043585",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1792290/ss_47c4c977c068a791efa5ababcc1e3122837a84c4.600x338.jpg?t=1726043585",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1792290/ss_b9f260a1785dcab46a4f27c915ca0ec50fdb1934.600x338.jpg?t=1726043585"
-  ],
-  "detailed_description": "You’ve managed to secure a spot for your new Inn. It might be the shady part of town but at least there are no annoying guards checking up on you.<br />\r\n<br />\r\nManage your Inn by building rooms to serve and explore the patrons' various needs and interests. Hire employees to serve, cook, plant, clean, and much more.<br />\r\n<br />\r\nHire Adventurers to explore dungeons and gather interesting ingredients for your next exotic recipe. The patrons need not know what's in that stew. <br />\r\n<br />\r\nBuild training rooms for your Adventurers to improve their skills and equip them with runes enchanted to resist the various negative effects of the dungeon monsters.",
-  "about_the_game": "You’ve managed to secure a spot for your new Inn. It might be the shady part of town but at least there are no annoying guards checking up on you.<br />\r\n<br />\r\nManage your Inn by building rooms to serve and explore the patrons' various needs and interests. Hire employees to serve, cook, plant, clean, and much more.<br />\r\n<br />\r\nHire Adventurers to explore dungeons and gather interesting ingredients for your next exotic recipe. The patrons need not know what's in that stew. <br />\r\n<br />\r\nBuild training rooms for your Adventurers to improve their skills and equip them with runes enchanted to resist the various negative effects of the dungeon monsters.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.6000000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 12,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 11,
-      "review_percentage": 54.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 12,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

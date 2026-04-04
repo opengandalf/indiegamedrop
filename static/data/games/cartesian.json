@@ -3,8 +3,8 @@
   "name": "Cartesian",
   "slug": "cartesian",
   "developer": "Mark Radocy",
-  "publisher": "Mark Radocy",
-  "release_date": "Feb 17, 2017",
+  "publisher": "",
+  "release_date": "2017-02-17",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -19,55 +19,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Cartesian is a unique puzzle-platformer with lasers as its core mechanic. Use lasers to reflect, push, destroy, and more as you search for your lost crew-mates. Dozens of interesting mechanics are introduced through over 70 varied levels.",
+  "short_description": "Cartesian is a unique puzzle-platformer with lasers as its core mechanic. Use lasers to reflect, push, destroy, and more as you search for your lost crew-mates. Dozens of interesting mechanics are int",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/596470/header.jpg?t=1547642446",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/596470/ss_7765f3e5326b8a3b0d321750d1cd99616e989f2e.600x338.jpg?t=1547642446",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/596470/ss_e57eb09b0477041b27009c9e941cbea9c0859bc0.600x338.jpg?t=1547642446",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/596470/ss_2057745a91cbde0464db824921c1f8860a1c61e6.600x338.jpg?t=1547642446",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/596470/ss_65155f42c7e4742ca86595d9ab3269b93d211f12.600x338.jpg?t=1547642446",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/596470/ss_9e343a06df678036c4b92476c23b1077d6e960df.600x338.jpg?t=1547642446",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/596470/ss_4843e166ddda8628cfdb855cfd40cb79a08defec.600x338.jpg?t=1547642446"
-  ],
-  "detailed_description": "Cartesian is a unique puzzle-platformer with lasers as its core mechanic. Use lasers to reflect, push, destroy, and more as you search for your lost crew-mates. Dozens of interesting mechanics are introduced through over 70 varied levels. It's easy to understand, difficult to master. Do you have the skills to solve Cartesian's challenges?<br><br>Requires mouse and keyboard to play. Press F10 to toggle fullscreen modes.<br><br>Cartesian is created by Mark Radocy, music by Will TK.<br><br>Carteisian can also be played completely in-browser here: .",
-  "about_the_game": "Cartesian is a unique puzzle-platformer with lasers as its core mechanic. Use lasers to reflect, push, destroy, and more as you search for your lost crew-mates. Dozens of interesting mechanics are introduced through over 70 varied levels. It's easy to understand, difficult to master. Do you have the skills to solve Cartesian's challenges?<br><br>Requires mouse and keyboard to play. Press F10 to toggle fullscreen modes.<br><br>Cartesian is created by Mark Radocy, music by Will TK.<br><br>Carteisian can also be played completely in-browser here: .",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
-  "gem_score": 0.8222,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 2.5,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 50,
-  "review_positive": 48,
+  "review_positive": 0,
   "review_percentage": 96.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 48,
-      "review_percentage": 95.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 50,
       "review_percentage": 96.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

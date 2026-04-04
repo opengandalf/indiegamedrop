@@ -3,8 +3,8 @@
   "name": "Drag Engineer",
   "slug": "drag-engineer",
   "developer": "Guang Pu",
-  "publisher": "Guang Pu",
-  "release_date": "Sep 17, 2021",
+  "publisher": "",
+  "release_date": "2021-09-17",
   "price_usd": 0.99,
   "genres": [
     "Indie",
@@ -17,37 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "If you are interested in programming, you will like the game. You will play an engineer, use the mouse to drag various instructions to write programs, and let them run normally to meet the requirements of the boss. Some levels test your logic ability very much. Please think carefully before you act.",
+  "short_description": "If you are interested in programming, you will like the game. You will play an engineer, use the mouse to drag various instructions to write programs, and let them run normally to meet the requirement",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1736140/header.jpg?t=1631877793",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1736140/ss_fcde9d919e666b388eb2de418e54f44c83408c2f.600x338.jpg?t=1631877793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1736140/ss_ef273a85f216ea4da5a43a7eff98b8bd0593bf62.600x338.jpg?t=1631877793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1736140/ss_3967e16018019745308d69c628f8a58be3f8dd44.600x338.jpg?t=1631877793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1736140/ss_e5028586f69a7882b06fde0dfa4fb3dcff1c159c.600x338.jpg?t=1631877793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1736140/ss_9ddfbd8337911adb3b2849473687da9c4fb2c48b.600x338.jpg?t=1631877793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1736140/ss_48a73238b73c4a867b196fc9f505898484b83f34.600x338.jpg?t=1631877793",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1736140/ss_8566f0098774f241e57685411c0129f96545c256.600x338.jpg?t=1631877793"
-  ],
-  "detailed_description": "In this game, you will play an engineer and write programs for different machines in different places.<br />\r\nYou will learn how to write judgments, loop structures, and use them in the right place.<br />\r\nThere are 18 levels in the game. Each level will assign you a programming task. Your job is to complete the task.",
-  "about_the_game": "In this game, you will play an engineer and write programs for different machines in different places.<br />\r\nYou will learn how to write judgments, loop structures, and use them in the right place.<br />\r\nThere are 18 levels in the game. Each level will assign you a programming task. Your job is to complete the task.",
-  "supported_languages": "English, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

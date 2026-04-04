@@ -3,8 +3,8 @@
   "name": "CRAST",
   "slug": "crast",
   "developer": "Qazaq Games Studio",
-  "publisher": "Qazaq Games Studio",
-  "release_date": "May 15, 2025",
+  "publisher": "",
+  "release_date": "2025-05-15",
   "price_usd": 2.99,
   "genres": [
     "Action",
@@ -19,38 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "CRAST is a dynamic online first-person survival shooter. Game locations are created exclusively for the convenience of the gameplay. You do not need to worry about various weapon settings, CRAST will take care of this. CRAST will determine your level of play and select a worthy opponent.",
+  "short_description": "CRAST is a dynamic online first-person survival shooter. Game locations are created exclusively for the convenience of the gameplay. You do not need to worry about various weapon settings, CRAST will ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2937730/0fbc2f79d7429f039809d2c7341dd4483695b585/header.jpg?t=1767953449",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2937730/3187caeda2bd506e87ac4e9a3a488aa5e3fac746/ss_3187caeda2bd506e87ac4e9a3a488aa5e3fac746.600x338.jpg?t=1767953449",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2937730/da672984e227a57a131516b64c621041810923a1/ss_da672984e227a57a131516b64c621041810923a1.600x338.jpg?t=1767953449",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2937730/87ce2a3f1f9523d735164d65b0cecb5dfa871784/ss_87ce2a3f1f9523d735164d65b0cecb5dfa871784.600x338.jpg?t=1767953449",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2937730/764b3e659667e358284fe188ebc07060807ba16a/ss_764b3e659667e358284fe188ebc07060807ba16a.600x338.jpg?t=1767953449",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2937730/97505bc61ac7d9394c85d500b651d2abbaa3a079/ss_97505bc61ac7d9394c85d500b651d2abbaa3a079.600x338.jpg?t=1767953449",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2937730/853ef9132e82b9b7447b13cb936c8f2af422523a/ss_853ef9132e82b9b7447b13cb936c8f2af422523a.600x338.jpg?t=1767953449"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Welcome to CRAST. The first rule is no rules, no advantages, everyone is equal. The robot you control will appear on one of the raised platforms. One of the platforms will also have a zone that will shrink. The platform is designed to provide cover from different positions until the zone finally shrinks. Each platform on the map is uniquely located and will create a new adventure. Use your wits and accuracy, this will lead you to victory. There is only one \"but\", for weapons and ammunition you will have to climb one of the open buildings :) Rare weapons are located on high buildings. To change the weapon settings, just press one button. Good luck, player! Your robot is ready for use.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2937730/extras/d81f1dc1e393ba3f2e95ea120eba0af9.poster.avif?t=1767953449\" width=600 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2937730/extras/d81f1dc1e393ba3f2e95ea120eba0af9.webm?t=1767953449\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2937730/extras/d81f1dc1e393ba3f2e95ea120eba0af9.mp4?t=1767953449\" type=\"video/mp4\"></video></span></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Welcome to CRAST. The first rule is no rules, no advantages, everyone is equal. The robot you control will appear on one of the raised platforms. One of the platforms will also have a zone that will shrink. The platform is designed to provide cover from different positions until the zone finally shrinks. Each platform on the map is uniquely located and will create a new adventure. Use your wits and accuracy, this will lead you to victory. There is only one \"but\", for weapons and ammunition you will have to climb one of the open buildings :) Rare weapons are located on high buildings. To change the weapon settings, just press one button. Good luck, player! Your robot is ready for use.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2937730/extras/d81f1dc1e393ba3f2e95ea120eba0af9.poster.avif?t=1767953449\" width=600 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2937730/extras/d81f1dc1e393ba3f2e95ea120eba0af9.webm?t=1767953449\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2937730/extras/d81f1dc1e393ba3f2e95ea120eba0af9.mp4?t=1767953449\" type=\"video/mp4\"></video></span></p>",
-  "supported_languages": "English, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Online Co-op",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.0,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 20,
-  "review_positive": 9,
+  "review_positive": 0,
   "review_percentage": 45.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 11,
-      "review_percentage": 36.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 20,
       "review_percentage": 45.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

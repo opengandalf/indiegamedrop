@@ -3,8 +3,8 @@
   "name": "Dodge",
   "slug": "dodge-1667800",
   "developer": "INFINITE BRIDGE",
-  "publisher": "INFINITE BRIDGE",
-  "release_date": "Jun 29, 2021",
+  "publisher": "",
+  "release_date": "2021-06-29",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -19,32 +19,15 @@
   ],
   "short_description": "Dodge is an arcade scoring game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1667800/header.jpg?t=1624958107",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1667800/ss_98e2e4509529065e92a0587a538b91f24f289396.600x338.jpg?t=1624958107",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1667800/ss_d70d62bdb7348eb0d9a72c13deaff1782189bb37.600x338.jpg?t=1624958107",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1667800/ss_edca15ca1173e1313fcb00ebb1ad1b7262ef5195.600x338.jpg?t=1624958107",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1667800/ss_96a75620fc91205958e45da5dd5db10449facb26.600x338.jpg?t=1624958107",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1667800/ss_35ce21e6cf40066e82cd71b5f0984e96c21392c7.600x338.jpg?t=1624958107"
-  ],
-  "detailed_description": "In Dodge, you control a circle moving through the cells on the field and dodge black circles flying from all directions. Also, points appear on the field, collect them and set new records!",
-  "about_the_game": "In Dodge, you control a circle moving through the cells on the field and dodge black circles flying from all directions. Also, points appear on the field, collect them and set new records!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.6000000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 12,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 12,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 12,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

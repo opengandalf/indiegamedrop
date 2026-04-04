@@ -3,8 +3,8 @@
   "name": "Dodgecore",
   "slug": "dodgecore",
   "developer": "Schnurksel",
-  "publisher": "Schnurksel",
-  "release_date": "Mar 19, 2026",
+  "publisher": "",
+  "release_date": "2026-03-19",
   "price_usd": 2.99,
   "genres": [
     "Casual",
@@ -19,34 +19,15 @@
   ],
   "short_description": "Dodge. Survive. Improve. Face escalating projectile chaos, powerful boss attacks and fast arcade gameplay. Unlock skins, use unique abilities and push your high score further with every run.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4464040/878e60a0ce7a376579ffd2580e1c251e1ccfdb67/header.jpg?t=1774085139",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4464040/97ffc2fd64b5f924c05325f6edef12197d0fef91/ss_97ffc2fd64b5f924c05325f6edef12197d0fef91.600x338.jpg?t=1774085139",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4464040/bcb0deb8d8935661b1f0f58a4f6089a7beb81b3e/ss_bcb0deb8d8935661b1f0f58a4f6089a7beb81b3e.600x338.jpg?t=1774085139",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4464040/f47a6bbc873ae7bb8ee59fe048ff4ff56b601bd7/ss_f47a6bbc873ae7bb8ee59fe048ff4ff56b601bd7.600x338.jpg?t=1774085139",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4464040/14c8dc9764cca13dbdfb685f3ca556e4608e2bf7/ss_14c8dc9764cca13dbdfb685f3ca556e4608e2bf7.600x338.jpg?t=1774085139",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4464040/1a1afb4e3b2cc56fb49a1464e302e8e1193b9437/ss_1a1afb4e3b2cc56fb49a1464e302e8e1193b9437.600x338.jpg?t=1774085139"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>Dodgecore</strong> is a fast-paced <strong>arcade bullet hell survival game</strong> where every second counts.</p><p class=\"bb_paragraph\" >Dodge increasingly dense projectile patterns, survive intense boss fights, and try to push your high score higher with every run. As time goes on, the arena becomes more chaotic and attack patterns grow more dangerous.</p><p class=\"bb_paragraph\" >Each run is a new attempt to survive longer, react faster, and improve your skills.</p><p class=\"bb_paragraph\" >Unlock new skins and abilities, use powerups at the right moment, and master the ever-growing storm of projectiles.</p><p class=\"bb_paragraph\" >The game is perfect for short sessions, but offers enough challenge for players who want to keep improving their <strong>score attack runs</strong>.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>Dodgecore</strong> is a fast-paced <strong>arcade bullet hell survival game</strong> where every second counts.</p><p class=\"bb_paragraph\" >Dodge increasingly dense projectile patterns, survive intense boss fights, and try to push your high score higher with every run. As time goes on, the arena becomes more chaotic and attack patterns grow more dangerous.</p><p class=\"bb_paragraph\" >Each run is a new attempt to survive longer, react faster, and improve your skills.</p><p class=\"bb_paragraph\" >Unlock new skins and abilities, use powerups at the right moment, and master the ever-growing storm of projectiles.</p><p class=\"bb_paragraph\" >The game is perfect for short sessions, but offers enough challenge for players who want to keep improving their <strong>score attack runs</strong>.</p>",
-  "supported_languages": "English, German",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Custom Volume Controls",
-    "Playable without Timed Input",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -54,33 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 0,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

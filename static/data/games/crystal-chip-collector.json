@@ -3,8 +3,8 @@
   "name": "Crystal Chip Collector",
   "slug": "crystal-chip-collector",
   "developer": "Nekomura Games",
-  "publisher": "Nekomura Games",
-  "release_date": "Mar 21, 2016",
+  "publisher": "",
+  "release_date": "2016-03-21",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -19,35 +19,15 @@
   ],
   "short_description": "A fast puzzle platformer where the goal is to \"optimize\" a computer full of redundant parts.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454430/header.jpg?t=1707954591",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454430/ss_91347f9dbb273f4eed18a010544ec6d26db976b5.600x338.jpg?t=1707954591",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454430/ss_f79b0e32b8114f74fbfcfd2d60a9679a4e8cf5f7.600x338.jpg?t=1707954591",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454430/ss_0c537c6791cb3b10f4330e61f6fb73779a955060.600x338.jpg?t=1707954591",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454430/ss_06adf5ec4daae7240af58d52f4aef0eac6b89eec.600x338.jpg?t=1707954591",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454430/ss_14e6b47ea60f1dc4ead3cbded5b6d0433872fa2a.600x338.jpg?t=1707954591",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454430/ss_9839d290af6070f04ebf4d7f4f3f97fb2a2cc19d.600x338.jpg?t=1707954591"
-  ],
-  "detailed_description": "A fast puzzle platformer where the goal is to \"optimize\" a computer full of redundant parts (who put them there?).<br><br>Taking place within a crammed and hopelessly messy computer, the game follows a good spirit in his fight for restoring balance.<br><br>Includes five polarity based worlds (ten levels each) plus a tutorial. Each room usually has an \"optimal\" solution but there are multiple solutions to each puzzle. Upon beating the last room in each level, the next world unlocks. The progress is saved automatically.<br><br>Controls (ingame):<br>Joypad is autodetected.<br>Keyboard (customizable): cursor keys to move, \"X\" to select / jump, \"space\" for \"Start\".<br><br>Controls (system):<br>Esc to exit game.<br>Tab+Space resets the game to opening.<br>F4 to switch between windowed / fullscreen.<br>Redefine the controls in the windowed mode (menu \"Settings\").<br><br>Please see about.txt for additional information.<br><br>This game requires DirectX9.0c (Windows 10 usually has it). In case it is not already installed, it can be obtained from the Microsoft page:<br><br>more info here:<br>",
-  "about_the_game": "A fast puzzle platformer where the goal is to \"optimize\" a computer full of redundant parts (who put them there?).<br><br>Taking place within a crammed and hopelessly messy computer, the game follows a good spirit in his fight for restoring balance.<br><br>Includes five polarity based worlds (ten levels each) plus a tutorial. Each room usually has an \"optimal\" solution but there are multiple solutions to each puzzle. Upon beating the last room in each level, the next world unlocks. The progress is saved automatically.<br><br>Controls (ingame):<br>Joypad is autodetected.<br>Keyboard (customizable): cursor keys to move, \"X\" to select / jump, \"space\" for \"Start\".<br><br>Controls (system):<br>Esc to exit game.<br>Tab+Space resets the game to opening.<br>F4 to switch between windowed / fullscreen.<br>Redefine the controls in the windowed mode (menu \"Settings\").<br><br>Please see about.txt for additional information.<br><br>This game requires DirectX9.0c (Windows 10 usually has it). In case it is not already installed, it can be obtained from the Microsoft page:<br><br>more info here:<br>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Trading Cards",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.55,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 11,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 36.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 11,
-      "review_percentage": 36.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
+      "date": "2026-04-04",
       "review_count": 11,
       "review_percentage": 36.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

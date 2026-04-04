@@ -3,8 +3,8 @@
   "name": "Dragonward",
   "slug": "dragonward",
   "developer": "PunyMagus",
-  "publisher": "PunyMagus",
-  "release_date": "Apr 7, 2018",
+  "publisher": "",
+  "release_date": "2018-04-07",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -21,40 +21,15 @@
   ],
   "short_description": "A retro-inspired arcade game with focus on resource management.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/825080/header.jpg?t=1595112974",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/825080/ss_6149d80d5ef02d6e32ecf46e3ad0bb7a49df247a.600x338.jpg?t=1595112974",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/825080/ss_ab70368f5445147c36e417bfab3b14534c428161.600x338.jpg?t=1595112974",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/825080/ss_93a639d02e7de7fa3717970080d9a44087e65f9e.600x338.jpg?t=1595112974",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/825080/ss_98974bb9122f4a113ab0f446817f961d970e6192.600x338.jpg?t=1595112974",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/825080/ss_6bc70a4054998286987a4716c9b8a2fc20bb5e6a.600x338.jpg?t=1595112974",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/825080/ss_56eba7433e527d57306b57b4626fd294cab0488b.600x338.jpg?t=1595112974",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/825080/ss_05b54b38e9d47d90ec571485cf0acebcc8a46431.600x338.jpg?t=1595112974",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/825080/ss_3350e371170e451a3e83aecb31cf88e70bfc0c2b.600x338.jpg?t=1595112974",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/825080/ss_7ab9c4f14961865de5ff6d1abc1f72455319c07b.600x338.jpg?t=1595112974",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/825080/ss_e9eca0e7732001e6bfaf04f4962ae7cdb516df17.600x338.jpg?t=1595112974",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/825080/ss_5fdc018eb12c165ffa0529a9296e0e29ee02a678.600x338.jpg?t=1595112974"
-  ],
-  "detailed_description": "Dragonward is a retro-inspired arcade game with focus on resource management. It features a simple yet beautiful 4 colors pixel art and remarkable chiptune music.<br><br>You're a newbie traveler on the road to the dragon's nest. Your objective is to slay the dragon, save the realm and, of course, become The Dragon Slayer!<h2 class=\"bb_tag\" >Gameplay:</h2><br><ul class=\"bb_ul\"><li>Walk a lot;<br></li><li>Fight fearsome monsters;<br></li><li>Live odd events;<br></li><li>Make choices to survive;<br></li><li>Save money for the lunch, or lose it on a dice game;<br></li><li>Cook on the firepit;<br></li><li>Venture in dangerous dungeons;<br></li><li>Walk more;<br></li><li>Step over deadly traps;<br></li><li>Collect mysterious writings;<br></li><li>Get stronger;<br></li><li>Take rides with experienced people;<br></li><li>Beat the mighty dragon;</li></ul><br>It also features an offline score board, so you can compete with the grandpa!",
-  "about_the_game": "Dragonward is a retro-inspired arcade game with focus on resource management. It features a simple yet beautiful 4 colors pixel art and remarkable chiptune music.<br><br>You're a newbie traveler on the road to the dragon's nest. Your objective is to slay the dragon, save the realm and, of course, become The Dragon Slayer!<h2 class=\"bb_tag\" >Gameplay:</h2><br><ul class=\"bb_ul\"><li>Walk a lot;<br></li><li>Fight fearsome monsters;<br></li><li>Live odd events;<br></li><li>Make choices to survive;<br></li><li>Save money for the lunch, or lose it on a dice game;<br></li><li>Cook on the firepit;<br></li><li>Venture in dangerous dungeons;<br></li><li>Walk more;<br></li><li>Step over deadly traps;<br></li><li>Collect mysterious writings;<br></li><li>Get stronger;<br></li><li>Take rides with experienced people;<br></li><li>Beat the mighty dragon;</li></ul><br>It also features an offline score board, so you can compete with the grandpa!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 5,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 80.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 80.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 80.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

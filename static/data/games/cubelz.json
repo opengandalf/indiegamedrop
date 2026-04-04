@@ -3,8 +3,8 @@
   "name": "Cubelz",
   "slug": "cubelz",
   "developer": "Max Jaeschke",
-  "publisher": "Max Jaeschke",
-  "release_date": "May 27, 2018",
+  "publisher": "",
+  "release_date": "2018-05-27",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -21,63 +21,27 @@
   ],
   "short_description": "Cubelz is or will be a game of achieving a specific goal in a certain amount of time without being hindered by opponents",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/859720/header.jpg?t=1527885613",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/859720/ss_d38f1de4e7752c634f5cab015a88f5cbdd06aac3.600x338.jpg?t=1527885613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/859720/ss_d4bb0327edc49830af44426fa6dc3ad86a6a9ccc.600x338.jpg?t=1527885613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/859720/ss_da93cc7b8d06abea0897393b11dc70895e47c8b6.600x338.jpg?t=1527885613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/859720/ss_7670695622cf0e045a6e9bed2acaf8d31ed3643b.600x338.jpg?t=1527885613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/859720/ss_1f4faf03a4da99b5f1a9ae5aeb6613872761a6de.600x338.jpg?t=1527885613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/859720/ss_53ab013fc540f1e75321d91d58c28c8ac8f51f5a.600x338.jpg?t=1527885613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/859720/ss_ae5b89cfa73899fedc67a38a24b7e6893e0a1611.600x338.jpg?t=1527885613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/859720/ss_0f9fd959539cc50f01af5f977050f05bd7bc3bf7.600x338.jpg?t=1527885613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/859720/ss_d109bf459e9df2933a88e62989adfc9fc91cb521.600x338.jpg?t=1527885613"
-  ],
-  "detailed_description": "<h1>Early Beta Access</h1><p>-No ifs and buts. Be first and test now.</p><br><h1>About the Game</h1>Cubelz is or will be a game of achieving a specific goal in a certain amount of time without being hindered by opponents. It is possible through a choice to choose between several different blocks and weapons and place them in the world. After some time, the world starts to move around to challenge the players further out.\r\n\r\nIn a multiplayer mode will be working soon.\r\nSaving the scores is not yet possible.\r\nYou can play in 3 Levels at this time.\r\n\r\nThis game is in early access and is therefore still subject to some mistakes.\r\nIn addition, we reserve the right to make changes to the controller.",
-  "about_the_game": "Cubelz is or will be a game of achieving a specific goal in a certain amount of time without being hindered by opponents. It is possible through a choice to choose between several different blocks and weapons and place them in the world. After some time, the world starts to move around to challenge the players further out.<br />\r\n<br />\r\nIn a multiplayer mode will be working soon.<br />\r\nSaving the scores is not yet possible.<br />\r\nYou can play in 3 Levels at this time.<br />\r\n<br />\r\nThis game is in early access and is therefore still subject to some mistakes.<br />\r\nIn addition, we reserve the right to make changes to the controller.",
-  "supported_languages": "German<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 3,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 33.3,
-  "owner_estimate": 35000,
+  "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 33.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 3,
-      "review_percentage": 33.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 33.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

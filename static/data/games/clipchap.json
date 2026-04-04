@@ -3,8 +3,8 @@
   "name": "ClipChap",
   "slug": "clipchap",
   "developer": "Gernot Frisch",
-  "publisher": "Dream Design Entertainment",
-  "release_date": "Feb 24, 2019",
+  "publisher": "",
+  "release_date": "2019-02-24",
   "price_usd": 19.99,
   "genres": [
     "Design & Illustration",
@@ -23,29 +23,15 @@
   ],
   "short_description": "ClipChap stores new text and graphic objects of the clipboard and stores them for later use.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1026450/header.jpg?t=1551029314",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1026450/ss_fa1ea9f3244cb65f56c2ae0d65252a7da2058ec0.600x338.jpg?t=1551029314",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1026450/ss_9106385d0cbde2e2333644fc2e05a41f91b11af2.600x338.jpg?t=1551029314",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1026450/ss_fc8edc3e0ff34c96df77f9471e1e7c32be0d21fe.600x338.jpg?t=1551029314",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1026450/ss_19e4a8f72dd78876272fff900fe1cfbd82c4415d.600x338.jpg?t=1551029314",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1026450/ss_454cd99f6a0b7827adddce72eb18e45b2316694d.600x338.jpg?t=1551029314"
-  ],
-  "detailed_description": "ClipChap stores new text and graphic objects of the clipboard and stores them for later use.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1026450/extras/d0114a9286321292f7c94baa3cab8d0d.avif?t=1551029314\" width=380 height=276 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1026450/extras/0820248e29f1a2c780109ad00a8fad3f.avif?t=1551029314\" width=328 height=270 /></span><br><br>The stored objects can be edited, viewed and copied back to the clipboard.<br>I've use ClipChap at my daily work for years, and I don't want to live without it anymore. Due to the heavy useage, this product is pretty mature.<br>Furthermore ClipChap can:<br><ul class=\"bb_ul\"><li> share clipboard objects with others in your LAN.<br></li><li> export any object, converting to various file formats.<br></li><li> copy window rectangles as images.<br></li><li> pick a colour and copy the RGB value as a text to the clipboard.<br></li><li> view and edit stored items, even with external programs.<br></li><li> send items as email attachments with one click.<br></li><li> take care of your downloads and leaves you enough bandwidth to continue.<br></li><li> safe you valuable time.</li></ul><br>ClipChap is as useful as a mouse device.",
-  "about_the_game": "ClipChap stores new text and graphic objects of the clipboard and stores them for later use.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1026450/extras/d0114a9286321292f7c94baa3cab8d0d.avif?t=1551029314\" width=380 height=276 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1026450/extras/0820248e29f1a2c780109ad00a8fad3f.avif?t=1551029314\" width=328 height=270 /></span><br><br>The stored objects can be edited, viewed and copied back to the clipboard.<br>I've use ClipChap at my daily work for years, and I don't want to live without it anymore. Due to the heavy useage, this product is pretty mature.<br>Furthermore ClipChap can:<br><ul class=\"bb_ul\"><li> share clipboard objects with others in your LAN.<br></li><li> export any object, converting to various file formats.<br></li><li> copy window rectangles as images.<br></li><li> pick a colour and copy the RGB value as a text to the clipboard.<br></li><li> view and edit stored items, even with external programs.<br></li><li> send items as email attachments with one click.<br></li><li> take care of your downloads and leaves you enough bandwidth to continue.<br></li><li> safe you valuable time.</li></ul><br>ClipChap is as useful as a mouse device.",
-  "supported_languages": "English, German",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

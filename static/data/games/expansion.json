@@ -3,8 +3,8 @@
   "name": "Expansion",
   "slug": "expansion",
   "developer": "Mykel Flynn",
-  "publisher": "Mykel Flynn",
-  "release_date": "Jul 25, 2019",
+  "publisher": "",
+  "release_date": "2019-07-25",
   "price_usd": 0.99,
   "genres": [
     "Strategy"
@@ -17,34 +17,15 @@
   ],
   "short_description": "A strategy game about space (location) in space (cosmic). Colonise the galaxy with a thousand clicks of a mouse. Winner of DreamHack Austin Jam!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1109310/header.jpg?t=1564061943",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1109310/ss_62e99d39f2843ee6393c66e901fedb6cc6dd96da.600x338.jpg?t=1564061943",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1109310/ss_e899a7cef2519eec95ccf6a3ea2fd0aae50b6b62.600x338.jpg?t=1564061943",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1109310/ss_a9c59729d183f278fb1c7f3648fc438daca14654.600x338.jpg?t=1564061943",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1109310/ss_3184cadf5e6b92f8d459553c11532b70a1b99059.600x338.jpg?t=1564061943",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1109310/ss_5cdbcac20bb2eb8e7384a0bd64116909779e3d06.600x338.jpg?t=1564061943",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1109310/ss_8d9f0f3c8e1e9856ff9c1a910c7b4a0b7dceb668.600x338.jpg?t=1564061943"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" ><strong>A game about space (locational) in space (cosmic).</strong></h2><br>Colonise the galaxy with a click of a mouse. Use human cunning to outwit the expanding hordes of aliens, robots, and squid-people(?) as you all compete to control the limited space in the galaxy.<br><br><strong>Winner of the DreamHack Austin Jam</strong><h2 class=\"bb_tag\" >First, Please take a look at the GODS OF HAVOK TRILOGY</h2><br>Inspired by Expansion, these two games herald a return to the classic god game.<h2 class=\"bb_tag\" ><strong>Features of Expansion:</strong></h2><br><ul class=\"bb_ul\"><li>A strategy game that will make your fingers remember how much you love/hated Minesweeper.<br></li><li>Five difficulty settings that will challenge even the most hardcore strategy fan.<br></li><li>3 enemy races each with unique bonuses.<br></li><li>Randomly generated maps.</li></ul><h2 class=\"bb_tag\" ><strong>Description</strong></h2><br>A strategy game played on a board of 3200 squares which represent the/a galaxy. Each map is randomly generated within specific parameters. Upon the board are four different races, resources, obstacles, and stellar phenomena.<br><br>You take on the role of humans, fighting against robots, squid-folk, and aliens. Expand your people across the galaxy and face off against merciless foes.",
-  "about_the_game": "<h2 class=\"bb_tag\" ><strong>A game about space (locational) in space (cosmic).</strong></h2><br>Colonise the galaxy with a click of a mouse. Use human cunning to outwit the expanding hordes of aliens, robots, and squid-people(?) as you all compete to control the limited space in the galaxy.<br><br><strong>Winner of the DreamHack Austin Jam</strong><h2 class=\"bb_tag\" >First, Please take a look at the GODS OF HAVOK TRILOGY</h2><br>Inspired by Expansion, these two games herald a return to the classic god game.<h2 class=\"bb_tag\" ><strong>Features of Expansion:</strong></h2><br><ul class=\"bb_ul\"><li>A strategy game that will make your fingers remember how much you love/hated Minesweeper.<br></li><li>Five difficulty settings that will challenge even the most hardcore strategy fan.<br></li><li>3 enemy races each with unique bonuses.<br></li><li>Randomly generated maps.</li></ul><h2 class=\"bb_tag\" ><strong>Description</strong></h2><br>A strategy game played on a board of 3200 squares which represent the/a galaxy. Each map is randomly generated within specific parameters. Upon the board are four different races, resources, obstacles, and stellar phenomena.<br><br>You take on the role of humans, fighting against robots, squid-folk, and aliens. Expand your people across the galaxy and face off against merciless foes.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.9,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 18,
-  "review_positive": 11,
+  "review_positive": 0,
   "review_percentage": 61.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 18,
-      "review_percentage": 61.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 18,
       "review_percentage": 61.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

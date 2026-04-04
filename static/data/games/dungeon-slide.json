@@ -3,8 +3,8 @@
   "name": "Dungeon Slide",
   "slug": "dungeon-slide",
   "developer": "GZOE Inc.",
-  "publisher": "GZOE Inc.",
-  "release_date": "Jan 19, 2025",
+  "publisher": "",
+  "release_date": "2025-01-19",
   "price_usd": 4.99,
   "genres": [
     "Casual"
@@ -15,40 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "\"DUNGEON SLIDE\" is a puzzle game where you move the protagonist in four directions to collect gems and escape the dungeon. Use walls, doors, various gimmicks, traps, and even enemies to guide the protagonist, grab the gems, and head for the exit!",
+  "short_description": "\"DUNGEON SLIDE\" is a puzzle game where you move the protagonist in four directions to collect gems and escape the dungeon. Use walls, doors, various gimmicks, traps, and even enemies to guid",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415390/header.jpg?t=1743043894",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415390/ss_6794810bb66f30c76c3638b6e5e685a0f3c931e5.600x338.jpg?t=1743043894",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415390/ss_81e603feddfafeeabbe72c76b9c5dbbab0a32368.600x338.jpg?t=1743043894",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415390/ss_49d50283c36822b40ba958b0a865c1476f3c939b.600x338.jpg?t=1743043894",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415390/ss_10a553355304c8cf89546870efd344f40f8e254c.600x338.jpg?t=1743043894",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415390/ss_e7dc0f5fe514e76d7c6e499f86035ddfadda090f.600x338.jpg?t=1743043894",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415390/ss_5c20798a129217fdb453507fd83e67519c34927d.600x338.jpg?t=1743043894",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415390/ss_778f138a17a99d061c89c53dd971546d5564c166.600x338.jpg?t=1743043894",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3415390/ss_2ea5076c320f56e395515318232d081d78016812.600x338.jpg?t=1743043894"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >\"DUNGEON SLIDE\" is a puzzle game where you move the protagonist in four directions to collect gems and escape the dungeon.</p><p class=\"bb_paragraph\" >While the controls are simple—just move the protagonist up, down, left, or right—the character slides in the chosen direction and won't stop until hitting an obstacle.</p><p class=\"bb_paragraph\" >If you don’t plan your route carefully, you might overshoot paths and never reach the exit…</p><p class=\"bb_paragraph\" >Guide the protagonist by cleverly using walls, doors, various gimmicks, traps, and even enemies to collect gems and find the exit.</p><p class=\"bb_paragraph\" >Achieve perfection by collecting all the gems, defeating all enemies, and reaching the exit!</p><p class=\"bb_paragraph\" >A simple yet deeply strategic dungeon exploration puzzle game—that's \"DUNGEON SLIDE.\"</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >\"DUNGEON SLIDE\" is a puzzle game where you move the protagonist in four directions to collect gems and escape the dungeon.</p><p class=\"bb_paragraph\" >While the controls are simple—just move the protagonist up, down, left, or right—the character slides in the chosen direction and won't stop until hitting an obstacle.</p><p class=\"bb_paragraph\" >If you don’t plan your route carefully, you might overshoot paths and never reach the exit…</p><p class=\"bb_paragraph\" >Guide the protagonist by cleverly using walls, doors, various gimmicks, traps, and even enemies to collect gems and find the exit.</p><p class=\"bb_paragraph\" >Achieve perfection by collecting all the gems, defeating all enemies, and reaching the exit!</p><p class=\"bb_paragraph\" >A simple yet deeply strategic dungeon exploration puzzle game—that's \"DUNGEON SLIDE.\"</p>",
-  "supported_languages": "English, Japanese, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

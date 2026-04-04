@@ -3,8 +3,8 @@
   "name": "Falco Engine",
   "slug": "falco-engine",
   "developer": "Falco Software",
-  "publisher": "Falco Software",
-  "release_date": "Aug 20, 2019",
+  "publisher": "",
+  "release_date": "2019-08-20",
   "price_usd": 0.0,
   "genres": [
     "Game Development"
@@ -17,31 +17,9 @@
   ],
   "short_description": "Free 3D game engine with C# scripting, Bullet physics and OpenAL audio.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1112440/header.jpg?t=1624378299",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1112440/ss_d432bde7e00017402929807e4d4644bf2fa4bdf4.600x338.jpg?t=1624378299",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1112440/ss_89d68b2a43fbe5214f42c9ba64ced2cc1d83fc0d.600x338.jpg?t=1624378299",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1112440/ss_31a1c345beede54cc6b5b84f3ca70b7f1c43714c.600x338.jpg?t=1624378299",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1112440/ss_7449a696160d61cf58b9698e02db285acec596c2.600x338.jpg?t=1624378299",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1112440/ss_e3cdd8ea52b0446ddc7bee66117be396ea31b3bf.600x338.jpg?t=1624378299",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1112440/ss_5480f0de9f117e800f13b0b997179c987aa216ca.600x338.jpg?t=1624378299",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1112440/ss_88357cab9a64abeb0b2bd25db3479854df7ac510.600x338.jpg?t=1624378299"
-  ],
-  "detailed_description": "Free 3D game engine with C# scripting, Bullet physics and OpenAL audio.<br />\r\n<br />\r\nFalco Engine comes with functional 3d editor which let you make games easily.<br />\r\n<br />\r\nGRAPHICS<br />\r\nFalco Engine is based on OpenGL and supports GLSL shaders. User has full control on the graphics pipeline.<br />\r\n<br />\r\nFREE<br />\r\nFalco Engine is a free game engine. You can make commercial games with no limitations.<br />\r\n<br />\r\nC# SCRIPTING<br />\r\nFalco Engine provides C# scripting ability. Program your games with the powerful, wide popular and favourite programming language.<br />\r\n<br />\r\nPHYSICS<br />\r\nFalco Engine supports 3D physics out of the box. You can create complex scenes with no performance hit.<br />\r\n<br />\r\nAUDIO<br />\r\nFalco Engine includes OpenAL audio subsystem. It means you can play 3D sounds with different audio effects.",
-  "about_the_game": "Free 3D game engine with C# scripting, Bullet physics and OpenAL audio.<br />\r\n<br />\r\nFalco Engine comes with functional 3d editor which let you make games easily.<br />\r\n<br />\r\nGRAPHICS<br />\r\nFalco Engine is based on OpenGL and supports GLSL shaders. User has full control on the graphics pipeline.<br />\r\n<br />\r\nFREE<br />\r\nFalco Engine is a free game engine. You can make commercial games with no limitations.<br />\r\n<br />\r\nC# SCRIPTING<br />\r\nFalco Engine provides C# scripting ability. Program your games with the powerful, wide popular and favourite programming language.<br />\r\n<br />\r\nPHYSICS<br />\r\nFalco Engine supports 3D physics out of the box. You can create complex scenes with no performance hit.<br />\r\n<br />\r\nAUDIO<br />\r\nFalco Engine includes OpenAL audio subsystem. It means you can play 3D sounds with different audio effects.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 22,
-  "review_positive": 19,
+  "review_positive": 0,
   "review_percentage": 86.4,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -49,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 16,
-      "review_percentage": 93.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 22,
       "review_percentage": 86.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

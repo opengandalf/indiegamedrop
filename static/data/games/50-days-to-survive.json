@@ -3,8 +3,8 @@
   "name": "50 Days To Survive",
   "slug": "50-days-to-survive",
   "developer": "NullReferenceGames",
-  "publisher": "NullReferenceGames",
-  "release_date": "Mar 3, 2023",
+  "publisher": "",
+  "release_date": "2023-03-03",
   "price_usd": 19.99,
   "genres": [
     "Adventure"
@@ -15,41 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "You find yourself alone in the middle of a desert, and devoid of all hope. Quickly find what to eat, what to drink, what to shelter you, and improve your comfort of life to avoid death. Can you survive for 50 days? Let's see that.",
+  "short_description": "You find yourself alone in the middle of a desert, and devoid of all hope. Quickly find what to eat, what to drink, what to shelter you, and improve your comfort of life to avoid death. Can you surviv",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309030/header.jpg?t=1677924175",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309030/ss_7b150ad43777e66d8a339f881379ab50a338379f.600x338.jpg?t=1677924175",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309030/ss_2d2e1f710ca99784781e32fd34411738ab7b392a.600x338.jpg?t=1677924175",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309030/ss_f115075ce985543d1a72af7d94760d5169551cc9.600x338.jpg?t=1677924175",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309030/ss_68603c800fc2c7d8b708bb2e7a4aa296aaeaaf33.600x338.jpg?t=1677924175",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309030/ss_8fc26a84d1c58fa5f25a94f018911516c2ef53b6.600x338.jpg?t=1677924175",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309030/ss_87dcba672ecdde422e0a9d7494b469643e8db4f0.600x338.jpg?t=1677924175",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309030/ss_e8f8a4fdbec49a9b2465ab01e404ba0b3eb0e5a8.600x338.jpg?t=1677924175",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309030/ss_1923c69c07ec7211fd780c664106684bd4d3e34e.600x338.jpg?t=1677924175",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309030/ss_599e931b8b420bcebdd4052ba71bacfb8c0b7cc3.600x338.jpg?t=1677924175",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309030/ss_4337222620cf691c85b3ba094f4c235aced22832.600x338.jpg?t=1677924175",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309030/ss_5f309268cfb4936a95841f3fdf59cfcf5b93146b.600x338.jpg?t=1677924175",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2309030/ss_234107084e37be2ce1752c0ffe9e512ed6f3225a.600x338.jpg?t=1677924175"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >A new adventure begins!</h2><br>Survive in a new hostile and arid environment, lost in the middle of the dunes. You will have to face sandstorms and high temperatures. Find an oasis, explore wildlife and collect resources.<br><br>Beware of the dangers that await you like the mummies. Try to survive by building yourself a shelter until the helicopter picks you up after 50 days.<br><br>Are you ready to take on this challenge and become the master of your own survival?",
-  "about_the_game": "<h2 class=\"bb_tag\" >A new adventure begins!</h2><br>Survive in a new hostile and arid environment, lost in the middle of the dunes. You will have to face sandstorms and high temperatures. Find an oasis, explore wildlife and collect resources.<br><br>Beware of the dangers that await you like the mummies. Try to survive by building yourself a shelter until the helicopter picks you up after 50 days.<br><br>Are you ready to take on this challenge and become the master of your own survival?",
-  "supported_languages": "English, French",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 7,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 85.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 85.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 85.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

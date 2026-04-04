@@ -3,8 +3,8 @@
   "name": "Antimatter Elevator",
   "slug": "antimatter-elevator",
   "developer": "xrrawva",
-  "publisher": "xrrawva",
-  "release_date": "Jan 22, 2021",
+  "publisher": "",
+  "release_date": "2021-01-22",
   "price_usd": 0.0,
   "genres": [
     "Indie"
@@ -17,54 +17,27 @@
   ],
   "short_description": "Connect non-matching pieces to reach level 99.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1513460/header.jpg?t=1702330343",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1513460/ss_a55a36d904415662659a5eedf736f7e8cdac84f1.600x338.jpg?t=1702330343",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1513460/ss_d14ffa3b7e64dc7225cfa67d918aa3cf3ba7bb00.600x338.jpg?t=1702330343",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1513460/ss_37aac9423b418a7d5464471e9e2bd5ec2851804f.600x338.jpg?t=1702330343",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1513460/ss_d80616c68d48bafa825d2b51271eb93085e60aeb.600x338.jpg?t=1702330343",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1513460/ss_b5960b841124993e5788a595f8195572c1984ea2.600x338.jpg?t=1702330343",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1513460/ss_60d99be44bfaacfddbb22f083885647b093e0068.600x338.jpg?t=1702330343"
-  ],
-  "detailed_description": "An original puzzle game with an eerie atmosphere. Connect non-matching pieces to reach level 99.<h2 class=\"bb_tag\" >Features</h2>Ending<br>Meaningless combo counter<br>Each game is randomized<h2 class=\"bb_tag\" >Accessibility</h2>Color Vision: Optional<br>Hearing: Optional<br>Quick Reactions: Optional<br>Reading: Optional<br>Input (Fixed): Keyboard",
-  "about_the_game": "An original puzzle game with an eerie atmosphere. Connect non-matching pieces to reach level 99.<h2 class=\"bb_tag\" >Features</h2>Ending<br>Meaningless combo counter<br>Each game is randomized<h2 class=\"bb_tag\" >Accessibility</h2>Color Vision: Optional<br>Hearing: Optional<br>Quick Reactions: Optional<br>Reading: Optional<br>Input (Fixed): Keyboard",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
-  "gem_score": 0.858,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
+  "review_velocity_7d": 1.75,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 35,
-  "review_positive": 33,
+  "review_positive": 0,
   "review_percentage": 94.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 32,
-      "review_percentage": 93.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 35,
       "review_percentage": 94.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

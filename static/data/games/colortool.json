@@ -3,8 +3,8 @@
   "name": "ColorTool",
   "slug": "colortool",
   "developer": "Manuel Riecke",
-  "publisher": "Manuel Riecke",
-  "release_date": "Nov 6, 2018",
+  "publisher": "",
+  "release_date": "2018-11-06",
   "price_usd": 15.99,
   "genres": [
     "Design & Illustration",
@@ -20,29 +20,15 @@
   ],
   "short_description": "Create palettes by placing an intricate web of colors and their connections. See directly how the palettes change the look of your illustrations. Make tweaks and see the results in real time!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948220/header.jpg?t=1628617108",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948220/ss_c07b1fc1f7ff71cc04c4c34e2edc6b5f2fb4dfd6.600x338.jpg?t=1628617108",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948220/ss_3f77e13a69d2c4c81cc945bd62ac32cc50260320.600x338.jpg?t=1628617108",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948220/ss_93ecd00db193090e40015ab0498b09b715ffed9f.600x338.jpg?t=1628617108",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948220/ss_485eecfde0bcbf9a4c84e6017a301b17a5c05637.600x338.jpg?t=1628617108",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948220/ss_85f487bbe5158a1cdfc42e14e9cbdb6b5b323398.600x338.jpg?t=1628617108"
-  ],
-  "detailed_description": "ColorTool is a software for creating color palettes from scratch. You can use these palettes you created for your illustrations, pixel art or design work.<br><br><br>Import your own illustrations and enable remapping to see how they would look like with your newly created palette. See all changes in real-time and export the final result.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948220/extras/875482204f37db704e6b1608444af600.avif?t=1628617108\" width=616 height=233 /></span><br><br>Get inspired and import reference images to guide your color picking process.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948220/extras/60aa7b1f5e6795176b11f2bd293821b3.avif?t=1628617108\" width=616 height=280 /></span><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Create palettes by placing an intricate web of colors and their connections.<br></li><li> See directly how the palettes change the look of your illustrations. Make tweaks and see the results in real time!<br></li><li> Highly advanced remapping algorithm allowing you to change the colors of your artwork after the fact!<br></li><li> Export created palettes in 8 different palette formats to be used in a wide array of software including Aseprite, Krita, Photoshop and many more!<br></li><li> ... or export as PNG file in different arrangements, usable in almost all creative software.</li></ul>",
-  "about_the_game": "ColorTool is a software for creating color palettes from scratch. You can use these palettes you created for your illustrations, pixel art or design work.<br><br><br>Import your own illustrations and enable remapping to see how they would look like with your newly created palette. See all changes in real-time and export the final result.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948220/extras/875482204f37db704e6b1608444af600.avif?t=1628617108\" width=616 height=233 /></span><br><br>Get inspired and import reference images to guide your color picking process.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/948220/extras/60aa7b1f5e6795176b11f2bd293821b3.avif?t=1628617108\" width=616 height=280 /></span><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Create palettes by placing an intricate web of colors and their connections.<br></li><li> See directly how the palettes change the look of your illustrations. Make tweaks and see the results in real time!<br></li><li> Highly advanced remapping algorithm allowing you to change the colors of your artwork after the fact!<br></li><li> Export created palettes in 8 different palette formats to be used in a wide array of software including Aseprite, Krita, Photoshop and many more!<br></li><li> ... or export as PNG file in different arrangements, usable in almost all creative software.</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.8,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 36,
-  "review_positive": 27,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +36,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 35,
-      "review_percentage": 74.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 36,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

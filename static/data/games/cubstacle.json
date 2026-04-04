@@ -3,8 +3,8 @@
   "name": "Cubstacle",
   "slug": "cubstacle",
   "developer": "Théo Fazion dos Santos",
-  "publisher": "TFS Entertainment",
-  "release_date": "Dec 2, 2021",
+  "publisher": "",
+  "release_date": "2021-12-02",
   "price_usd": 1.99,
   "genres": [
     "Casual"
@@ -15,38 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Cubstacle is a casual puzzle and maze game. Within it your objective is to free cubes trapped in dangerous and confusing rooms, the movement of the cubes is limited and cannot be canceled stopping only when encountering an obstacle or death.",
+  "short_description": "Cubstacle is a casual puzzle and maze game. Within it your objective is to free cubes trapped in dangerous and confusing rooms, the movement of the cubes is limited and cannot be canceled stopping onl",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1795550/header.jpg?t=1638444091",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1795550/ss_71a670eb45f70283911caf002abeece4e1afe4a7.600x338.jpg?t=1638444091",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1795550/ss_01b6387f349f6faa00aca04fd974138a416b8675.600x338.jpg?t=1638444091",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1795550/ss_37033f610b27f8199767ab1bf3feb3f4123c98c2.600x338.jpg?t=1638444091",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1795550/ss_b3c30ef80efbb4fc67b69e81887b2437ae4ef716.600x338.jpg?t=1638444091",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1795550/ss_6ce4bd4ed48a9c6b48504fb80f9e783775c0f610.600x338.jpg?t=1638444091",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1795550/ss_27f7628cf2630cf2399d0340e8ae8c1af5a2f385.600x338.jpg?t=1638444091",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1795550/ss_e70db12640fc100f909c81fce93c4b49789fdca2.600x338.jpg?t=1638444091",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1795550/ss_0ecf1211563cd7ce8fd9e89528b0c9d2b62f95bf.600x338.jpg?t=1638444091"
-  ],
-  "detailed_description": "Control cubes trapped in dangerous and confusing rooms, your moves are no turning back and your fate can end with a single wrong move. During your journey you will come across figures similar to you, they have special characteristics that will help you escape.<br><br><strong>What you'll find on Cubstacle:</strong><br>-30 levels<br>-Gameplay from 1 to 3 hours in duration",
-  "about_the_game": "Control cubes trapped in dangerous and confusing rooms, your moves are no turning back and your fate can end with a single wrong move. During your journey you will come across figures similar to you, they have special characteristics that will help you escape.<br><br><strong>What you'll find on Cubstacle:</strong><br>-30 levels<br>-Gameplay from 1 to 3 hours in duration",
-  "supported_languages": "English, Portuguese - Brazil",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.7000000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 14,
-  "review_positive": 13,
+  "review_positive": 0,
   "review_percentage": 92.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 14,
-      "review_percentage": 92.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 14,
       "review_percentage": 92.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

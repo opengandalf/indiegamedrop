@@ -3,8 +3,8 @@
   "name": "夺宝蠢兵",
   "slug": "夺宝蠢兵",
   "developer": "黑猫Studio",
-  "publisher": "黑猫Studio",
-  "release_date": "Aug 17, 2022",
+  "publisher": "",
+  "release_date": "2022-08-17",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -21,32 +21,9 @@
   ],
   "short_description": "这是一款基于魔方的解谜类游戏，你需要通过修改魔方来安排你的朋友前进，帮助你的朋友取得宝箱。",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2063930/header.jpg?t=1686425702",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2063930/ss_9a2d7af99da1310e71596ef968a1884e9a7060ab.600x338.jpg?t=1686425702",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2063930/ss_f942a91caf5bfb40b628aef180270835e850066c.600x338.jpg?t=1686425702",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2063930/ss_b5cbf0fe94add5f5d41ea39bcf9dec8dd9110ec7.600x338.jpg?t=1686425702",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2063930/ss_5b3ecc85cdba6abafe05a76762f4fc54380b066c.600x338.jpg?t=1686425702",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2063930/ss_15f706dabe0afd1fae5f84148703730402d350c9.600x338.jpg?t=1686425702",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2063930/ss_0517af3fd07faeb985e19075d43bf8679d00ff44.600x338.jpg?t=1686425702"
-  ],
-  "detailed_description": "这是一个新人制作者制作的独立游戏，如果你对魔方感兴趣，而且喜欢解谜的感觉，可以来玩一玩这个休闲的小游戏。<br />\r\n（自定义模式还在完善中，如果有问题后续还会继续更新修复）",
-  "about_the_game": "这是一个新人制作者制作的独立游戏，如果你对魔方感兴趣，而且喜欢解谜的感觉，可以来玩一玩这个休闲的小游戏。<br />\r\n（自定义模式还在完善中，如果有问题后续还会继续更新修复）",
-  "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 10,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 80.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 85.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 80.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

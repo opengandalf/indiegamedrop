@@ -3,8 +3,8 @@
   "name": "Disney Movies VR",
   "slug": "disney-movies-vr",
   "developer": "Walt Disney Studios",
-  "publisher": "Disney",
-  "release_date": "May 16, 2016",
+  "publisher": "",
+  "release_date": "2016-05-16",
   "price_usd": 0.0,
   "genres": [
     "Utilities"
@@ -15,67 +15,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Transport yourself into the wonderful world of Disney from your very own living room with Disney Movies VR. This app is a fully-immersive Disney experience where you can visit themed worlds, including Disney, Marvel, and Lucasfilm, and interact with some of your favorite characters in their natural environments.",
+  "short_description": "Transport yourself into the wonderful world of Disney from your very own living room with Disney Movies VR. This app is a fully-immersive Disney experience where you can visit themed worlds, including",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/469650/header.jpg?t=1730134984",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/469650/ss_59b5750fa7a739f37cab0a8f9511ee8fc32f790b.600x338.jpg?t=1730134984",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/469650/ss_4df6c4f5e411d6e7d9f3fd047995e0f27f547a16.600x338.jpg?t=1730134984",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/469650/ss_2aa7d9b8465079b1eaf9a2900be045b832faa87d.600x338.jpg?t=1730134984",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/469650/ss_65f549518ff6e9cbb28af1445e02c97c219989e7.600x338.jpg?t=1730134984",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/469650/ss_6f1bd4297995c06d67b37d2f704c89659b7b75e5.600x338.jpg?t=1730134984",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/469650/ss_0e039af489aa0bd41786804ed94fc1929de900ed.600x338.jpg?t=1730134984",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/469650/ss_96983a069b3db5002f3bcaa9374da5901772f5c7.600x338.jpg?t=1730134984",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/469650/ss_83ad505bd94a0bd5bd25bedbe3979d89e1b7c2d7.600x338.jpg?t=1730134984",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/469650/ss_3a8a1d9b13aa6b8a4bc1ae627678b8ea4880b938.600x338.jpg?t=1730134984"
-  ],
-  "detailed_description": "Transport yourself into the wonderful world of Disney from your very own living room with Disney Movies VR. This app is a fully-immersive experience where you visit themed worlds, including Disney, Marvel and Lucasfilm, and interact with some of your favorite characters in their natural environments. Choose from multiple scenes in Disney movies including The Jungle Book, Captain America and Star Wars and be a part of the action! Disney Movies VR is your ticket to full immersion into the many Disney experiences optimized for virtual reality. Brought to you by the imaginative minds at Disney.",
-  "about_the_game": "Transport yourself into the wonderful world of Disney from your very own living room with Disney Movies VR. This app is a fully-immersive experience where you visit themed worlds, including Disney, Marvel and Lucasfilm, and interact with some of your favorite characters in their natural environments. Choose from multiple scenes in Disney movies including The Jungle Book, Captain America and Star Wars and be a part of the action! Disney Movies VR is your ticket to full immersion into the many Disney experiences optimized for virtual reality. Brought to you by the imaginative minds at Disney.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Partial Controller Support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 11.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 221,
-  "review_positive": 118,
+  "review_positive": 0,
   "review_percentage": 53.4,
   "owner_estimate": 75000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 38,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 222,
-      "review_percentage": 54.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 222,
-      "review_percentage": 53.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-29",
+      "date": "2026-04-04",
       "review_count": 221,
       "review_percentage": 53.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

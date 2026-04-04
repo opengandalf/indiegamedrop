@@ -3,8 +3,8 @@
   "name": "Neko Jump",
   "slug": "neko-jump",
   "developer": "JoPaSä",
-  "publisher": "Ahlman Game Studio",
-  "release_date": "May 22, 2020",
+  "publisher": "",
+  "release_date": "2020-05-22",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -21,32 +21,9 @@
   ],
   "short_description": "3D platformer where you play as Neko the cat. Your objective is to collect different objects and move them to their rightful place so you may advance towards the next level.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1087020/header.jpg?t=1590143474",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1087020/ss_fecfe7f2a737fb0e467ca3af088e94e955711dc3.600x338.jpg?t=1590143474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1087020/ss_8b91c5853e8868c01f9e2c779ce3c2d75fb818f9.600x338.jpg?t=1590143474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1087020/ss_3081db8770f86f8b3a9ab7b960bceedb4123e194.600x338.jpg?t=1590143474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1087020/ss_bcc2931031beae65d8598073adbaa3b6e55985e8.600x338.jpg?t=1590143474",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1087020/ss_b2398784d356879291e22bdfa47e17548f756f6f.600x338.jpg?t=1590143474"
-  ],
-  "detailed_description": "3D platformer where you play as Neko the cat. Your objective is to collect different objects and move them to their rightful place so you may advance towards the next level. This is a shortened version of the game. And it was made during game development studies as a portfolio project.<br><br>This version of the game has 3 different levels and a tutorial level<h2 class=\"bb_tag\" ><u><strong>Controller:</strong></u></h2><ul class=\"bb_ul\"><li><strong>Dpad</strong> to move cursor (for menu buttons)<br></li><li><strong>X</strong> to select menu button<br></li><li><strong>Left Analog</strong> to move Neko<br></li><li><strong>A</strong> to jump<br></li><li><strong>B</strong> to pick up objects</li></ul><h2 class=\"bb_tag\" ><u><strong>Keyboard and Mouse:</strong></u></h2><ul class=\"bb_ul\"><li><strong>W,A,S,D</strong> to Move Neko<br></li><li><strong>Spacebar</strong> to Jump<br></li><li><strong>F</strong> to Pick Up Objects</li></ul><h2 class=\"bb_tag\" ><u><strong>Developers:</strong></u></h2><br><ul class=\"bb_ul\"><li><u>Sebastian Johansson</u> - Programming & Implementing<br></li><li><u>Heidi Sällström</u> - Graphics & Level Design<br></li><li><u>Katariina Paulaniemi</u> - Graphics & Level Design<br></li><li><u>Mika Kivennenä</u> - Steam Publishing & Fixing/Implementing<br></li><li><u>Risto Koskenkorva</u> - Project Mentor</li></ul>",
-  "about_the_game": "3D platformer where you play as Neko the cat. Your objective is to collect different objects and move them to their rightful place so you may advance towards the next level. This is a shortened version of the game. And it was made during game development studies as a portfolio project.<br><br>This version of the game has 3 different levels and a tutorial level<h2 class=\"bb_tag\" ><u><strong>Controller:</strong></u></h2><ul class=\"bb_ul\"><li><strong>Dpad</strong> to move cursor (for menu buttons)<br></li><li><strong>X</strong> to select menu button<br></li><li><strong>Left Analog</strong> to move Neko<br></li><li><strong>A</strong> to jump<br></li><li><strong>B</strong> to pick up objects</li></ul><h2 class=\"bb_tag\" ><u><strong>Keyboard and Mouse:</strong></u></h2><ul class=\"bb_ul\"><li><strong>W,A,S,D</strong> to Move Neko<br></li><li><strong>Spacebar</strong> to Jump<br></li><li><strong>F</strong> to Pick Up Objects</li></ul><h2 class=\"bb_tag\" ><u><strong>Developers:</strong></u></h2><br><ul class=\"bb_ul\"><li><u>Sebastian Johansson</u> - Programming & Implementing<br></li><li><u>Heidi Sällström</u> - Graphics & Level Design<br></li><li><u>Katariina Paulaniemi</u> - Graphics & Level Design<br></li><li><u>Mika Kivennenä</u> - Steam Publishing & Fixing/Implementing<br></li><li><u>Risto Koskenkorva</u> - Project Mentor</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 27,
-  "review_positive": 16,
+  "review_positive": 0,
   "review_percentage": 59.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 27,
-      "review_percentage": 59.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 27,
       "review_percentage": 59.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

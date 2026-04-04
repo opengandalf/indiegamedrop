@@ -3,8 +3,8 @@
   "name": "DynBrushes",
   "slug": "dynbrushes",
   "developer": "colorfulapp",
-  "publisher": "colorfulapp",
-  "release_date": "Apr 29, 2024",
+  "publisher": "",
+  "release_date": "2024-04-29",
   "price_usd": 9.97,
   "genres": [
     "Design & Illustration",
@@ -20,31 +20,17 @@
     "windows",
     "mac"
   ],
-  "short_description": "This is an oil painting software that can be used to create almost photorealistic oil paintings on a computer. It comes with a wide range of oil paint brushes that can achieve various textures and stroke effects of oil paintings.",
+  "short_description": "This is an oil painting software that can be used to create almost photorealistic oil paintings on a computer. It comes with a wide range of oil paint brushes that can achieve various textures and str",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853320/header.jpg?t=1718411924",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853320/ss_78bfa3c897f4f3679e90d886f8cc47559763c00b.600x338.jpg?t=1718411924",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853320/ss_7a84ee8ec1eccfb770a815f0b9316d67357443a1.600x338.jpg?t=1718411924",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853320/ss_3be0329c5e8faca9b6cb4daba0472e8d047be06d.600x338.jpg?t=1718411924",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853320/ss_5280e3eee0be5aba3e0b624778bf4fb00b699eb2.600x338.jpg?t=1718411924",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2853320/ss_9895692363111f54919533af18691cfeaa18f4c3.600x338.jpg?t=1718411924"
-  ],
-  "detailed_description": "This is an oil painting software that can be used to create almost photorealistic oil paintings on a computer. It comes with a wide range of oil paint brushes that can achieve various textures and stroke effects of oil paintings. Additionally, it features a blending algorithm that simulates the mixing of physical paints. The software includes multiple canvases, allowing you to adjust various parameters such as lighting and texture according to your preferences. You can also place your artwork in virtual scenes to admire it.",
-  "about_the_game": "This is an oil painting software that can be used to create almost photorealistic oil paintings on a computer. It comes with a wide range of oil paint brushes that can achieve various textures and stroke effects of oil paintings. Additionally, it features a blending algorithm that simulates the mixing of physical paints. The software includes multiple canvases, allowing you to adjust various parameters such as lighting and texture according to your preferences. You can also place your artwork in virtual scenes to admire it.",
-  "supported_languages": "English, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.45,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 9,
-  "review_positive": 9,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +38,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

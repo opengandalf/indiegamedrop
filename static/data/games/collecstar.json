@@ -3,8 +3,8 @@
   "name": "Collecstar",
   "slug": "collecstar",
   "developer": "LGV",
-  "publisher": "LGV",
-  "release_date": "Sep 13, 2023",
+  "publisher": "",
+  "release_date": "2023-09-13",
   "price_usd": 0.49,
   "genres": [
     "Action",
@@ -21,33 +21,15 @@
   ],
   "short_description": "Shoot for the stars! In this cute 2D platform arcade game, jump on clouds and collect as many stars as you can before you run out of lives.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2538480/header.jpg?t=1698875882",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2538480/ss_d3db88097f801138b9190b8679f42037a234ce31.600x338.jpg?t=1698875882",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2538480/ss_acef5404cf56e3783d3deaf0be025e64d8948aec.600x338.jpg?t=1698875882",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2538480/ss_4d31e02127bfd9ce8c0e9402a8406b5bfa037d99.600x338.jpg?t=1698875882",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2538480/ss_7fa5bf1f3f19a0032975773064796414b4a0994a.600x338.jpg?t=1698875882",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2538480/ss_f9fde2958b7832bb6d2d673aba0ed4313b560991.600x338.jpg?t=1698875882"
-  ],
-  "detailed_description": "Collecstar is a 2D platform arcade game where you have to climb as high as possible by jumping on randomly spawned clouds while collecting as many stars as you can to increase your score even more. But watch out, as some stars may not be so friendly, and some clouds as well! Regardless, climb high and shoot for the stars to score big!<br />\r\n<br />\r\n> Main features/characteristics:<br />\r\n- Double jump;<br />\r\n- Infinite, vertical-scrolling map;<br />\r\n- Increasing difficulty;<br />\r\n- Enemies stars and clouds that try to take your lives;<br />\r\n- Special stars to increase stats (gravity, jump speed);<br />\r\n- Hi-Score autosaving.",
-  "about_the_game": "Collecstar is a 2D platform arcade game where you have to climb as high as possible by jumping on randomly spawned clouds while collecting as many stars as you can to increase your score even more. But watch out, as some stars may not be so friendly, and some clouds as well! Regardless, climb high and shoot for the stars to score big!<br />\r\n<br />\r\n> Main features/characteristics:<br />\r\n- Double jump;<br />\r\n- Infinite, vertical-scrolling map;<br />\r\n- Increasing difficulty;<br />\r\n- Enemies stars and clouds that try to take your lives;<br />\r\n- Special stars to increase stats (gravity, jump speed);<br />\r\n- Hi-Score autosaving.",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

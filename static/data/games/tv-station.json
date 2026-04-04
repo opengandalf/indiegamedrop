@@ -3,8 +3,8 @@
   "name": "TV Station",
   "slug": "tv-station",
   "developer": "Upjump",
-  "publisher": "Upjump",
-  "release_date": "Mar 2, 2023",
+  "publisher": "",
+  "release_date": "2023-03-02",
   "price_usd": 4.99,
   "genres": [
     "Indie",
@@ -21,29 +21,9 @@
   ],
   "short_description": "This program allows you to schedule and play movies.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2314730/header.jpg?t=1677787122",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2314730/ss_18b49e894cd31e667fe3b459fa306b8a3fbb9d01.600x338.jpg?t=1677787122",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2314730/ss_103d8263062e5734bccb37341b04962786daa895.600x338.jpg?t=1677787122",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2314730/ss_8e37fdf1d637e8c3b0656a603a3f431dadaf32a4.600x338.jpg?t=1677787122",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2314730/ss_75589a5ad01d55e812e3ca5426d0afc7e74da1e2.600x338.jpg?t=1677787122",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2314730/ss_7c19666e9b16b8e5271ddf070e898c9402bbe899.600x338.jpg?t=1677787122"
-  ],
-  "detailed_description": "This program allows you to schedule and play movies. You can connect to a Twitch.TV chat room to let your viewers play movies from your inventory. Use in combination with OBS Studio or similar broadcast software to create your own television station. -No media is packaged with this product.",
-  "about_the_game": "This program allows you to schedule and play movies. You can connect to a Twitch.TV chat room to let your viewers play movies from your inventory. Use in combination with OBS Studio or similar broadcast software to create your own television station. -No media is packaged with this product.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

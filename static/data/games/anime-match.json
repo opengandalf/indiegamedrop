@@ -3,8 +3,8 @@
   "name": "ANIME MATCH",
   "slug": "anime-match",
   "developer": "Miss Pasture",
-  "publisher": "Miss Pasture",
-  "release_date": "May 25, 2021",
+  "publisher": "",
+  "release_date": "2021-05-25",
   "price_usd": 1.99,
   "genres": [
     "Casual"
@@ -17,33 +17,15 @@
   ],
   "short_description": "Match anime women and win cute pictures!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1625710/header.jpg?t=1622213379",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1625710/ss_c14475f6e18f71b54063b689bfcda9ca2bcd13b0.600x338.jpg?t=1622213379",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1625710/ss_6bcbe75bdb0c05632a9229a962d4d967725cca61.600x338.jpg?t=1622213379",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1625710/ss_29dec3e8e6db682b6c596f262cb968ccb738938c.600x338.jpg?t=1622213379",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1625710/ss_9d4280e996752aca406166e0eb4fd75136180b8e.600x338.jpg?t=1622213379",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1625710/ss_aaa4a7b035dd67f2061db50d146460b2be99cde8.600x338.jpg?t=1622213379"
-  ],
-  "detailed_description": "Discover all 9 matches in this exciting anime-style memory/concentration card game and win one of three different pictures!<br><br><ul class=\"bb_ul\"><li> 9 different cute anime women to discover under the cards<br></li><li> Funky soundtrack<br></li><li> 3 different pictures to win<br></li><li> 8 achievements to unlock<br></li><li> Proprietary random shuffle technique to ensure replayability</li></ul><br>Thank you for playing, friend.",
-  "about_the_game": "Discover all 9 matches in this exciting anime-style memory/concentration card game and win one of three different pictures!<br><br><ul class=\"bb_ul\"><li> 9 different cute anime women to discover under the cards<br></li><li> Funky soundtrack<br></li><li> 3 different pictures to win<br></li><li> 8 achievements to unlock<br></li><li> Proprietary random shuffle technique to ensure replayability</li></ul><br>Thank you for playing, friend.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 7,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

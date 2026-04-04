@@ -3,8 +3,8 @@
   "name": "DON'T DIE!",
   "slug": "dont-die-856220",
   "developer": "DEKLAZON",
-  "publisher": "DEKLAZON",
-  "release_date": "May 16, 2019",
+  "publisher": "",
+  "release_date": "2019-05-16",
   "price_usd": 0.99,
   "genres": [
     "Action"
@@ -17,62 +17,27 @@
   ],
   "short_description": "Find a key...Open the door.TRY DON'T DIE!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/856220/header.jpg?t=1576929403",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/856220/ss_5680741cf63e96c97fde1861eb1a76f8d85db312.600x338.jpg?t=1576929403",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/856220/ss_5b205042aabf1f27a531b82e37772cbf012d2d3e.600x338.jpg?t=1576929403",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/856220/ss_4f6f3245fa3f864663c7a8adbffa6a90b55825c1.600x338.jpg?t=1576929403",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/856220/ss_ccb22464ff9558a6801a3e1aca4a32b07dfef89b.600x338.jpg?t=1576929403",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/856220/ss_6648f8e5f9d39c7ab526ac4e2e1e6db01948e8f7.600x338.jpg?t=1576929403",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/856220/ss_12ccde86ac0be9b185d23ea0b6ac390fc4a39c04.600x338.jpg?t=1576929403",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/856220/ss_bd4c0768d8705db2a286d205ef2d6415cc763664.600x338.jpg?t=1576929403",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/856220/ss_32ae764e3833780adf828f73b9248ec4a165125c.600x338.jpg?t=1576929403"
-  ],
-  "detailed_description": "<strong>Find a key...<br>Open the door.<br>TRY DON'T DIE!</strong>",
-  "about_the_game": "<strong>Find a key...<br>Open the door.<br>TRY DON'T DIE!</strong>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 2.4000000000000004,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 48,
-  "review_positive": 42,
+  "review_positive": 0,
   "review_percentage": 87.5,
-  "owner_estimate": 10000,
+  "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 48,
-      "review_percentage": 85.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 48,
-      "review_percentage": 87.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
+      "date": "2026-04-04",
       "review_count": 48,
       "review_percentage": 87.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

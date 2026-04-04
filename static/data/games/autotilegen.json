@@ -3,8 +3,8 @@
   "name": "AutoTileGen",
   "slug": "autotilegen",
   "developer": "Pixelatto",
-  "publisher": "Pixelatto",
-  "release_date": "Jul 9, 2014",
+  "publisher": "",
+  "release_date": "2014-07-09",
   "price_usd": 0.0,
   "genres": [
     "Free To Play",
@@ -21,59 +21,29 @@
     "mac",
     "linux"
   ],
-  "short_description": "Make 2D tilesets for your games in seconds.Save development time and money by getting forty-eight tiles for the effort of three with added bonus features such as dynamic lighting, corner blending modes and more.",
+  "short_description": "Make 2D tilesets for your games in seconds.Save development time and money by getting forty-eight tiles for the effort of three with added bonus features such as dynamic lighting, corner blending mode",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305860/header.jpg?t=1744129613",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305860/ss_f75806e53cdd99de2464dca09331cc6cc2f0d5ff.600x338.jpg?t=1744129613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305860/ss_5fe6f6ecde2d5e3b0f450b273842474b32fd34af.600x338.jpg?t=1744129613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305860/ss_daf504786f8f981f9116409758776fd88a03bb48.600x338.jpg?t=1744129613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305860/ss_a3714227344bc167a3fe421f9c3ad3054ab13b63.600x338.jpg?t=1744129613"
-  ],
-  "detailed_description": "<strong>Make 2D tilesets for your games in seconds.</strong><br>Save development time and money by getting forty-eight tiles for the effort of making three with added bonus features such as dynamic lighting, corner blending modes and more.<h2 class=\"bb_tag\" >Main features</h2><ul class=\"bb_ul\"><li>Automatic tileset generation (48 tiles) from just three input tiles<br></li><li>In app pixel editor for pixel-art tiles with realtime tileset preview<br></li><li>Six different corner blending modes<br></li><li>Normal maps generation for dynamic lighting<br></li><li>Automatic corner mask generation<br></li><li>Slope generation for the complete tileset<br></li><li>Normal map generation for dynamic lighting<br></li><li>Any tile size supported<br></li><li>Transparency depth adjustment for surface details (e.g. grass, rocks...)<br></li><li>Full tileset exporting for use in your games (GameMaker, Unity, Construct 2 or any other IDE)<br></li><li>Manual rendering mode, project importing/exporting, dynamic color palletes and more</li></ul><br>Get AutoTileGen and start making tiles for your games in no time!",
-  "about_the_game": "<strong>Make 2D tilesets for your games in seconds.</strong><br>Save development time and money by getting forty-eight tiles for the effort of making three with added bonus features such as dynamic lighting, corner blending modes and more.<h2 class=\"bb_tag\" >Main features</h2><ul class=\"bb_ul\"><li>Automatic tileset generation (48 tiles) from just three input tiles<br></li><li>In app pixel editor for pixel-art tiles with realtime tileset preview<br></li><li>Six different corner blending modes<br></li><li>Normal maps generation for dynamic lighting<br></li><li>Automatic corner mask generation<br></li><li>Slope generation for the complete tileset<br></li><li>Normal map generation for dynamic lighting<br></li><li>Any tile size supported<br></li><li>Transparency depth adjustment for surface details (e.g. grass, rocks...)<br></li><li>Full tileset exporting for use in your games (GameMaker, Unity, Construct 2 or any other IDE)<br></li><li>Manual rendering mode, project importing/exporting, dynamic color palletes and more</li></ul><br>Get AutoTileGen and start making tiles for your games in no time!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 2.6500000000000004,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 53,
-  "review_positive": 33,
+  "review_positive": 0,
   "review_percentage": 62.3,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 227,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 47,
-      "review_percentage": 59.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 53,
-      "review_percentage": 62.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
+      "date": "2026-04-04",
       "review_count": 53,
       "review_percentage": 62.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

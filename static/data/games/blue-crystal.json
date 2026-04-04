@@ -3,8 +3,8 @@
   "name": "Blue Crystal",
   "slug": "blue-crystal",
   "developer": "Storm Signal",
-  "publisher": "Storm Signal",
-  "release_date": "May 1, 2019",
+  "publisher": "",
+  "release_date": "2019-05-01",
   "price_usd": 6.74,
   "genres": [
     "Action",
@@ -19,34 +19,11 @@
   ],
   "short_description": "This game is a twin stick shooter with time attack elements. Clear the target time and collect crystals.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/556200/header.jpg?t=1556785074",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/556200/ss_d7cf6420e3f181e696522c0bca42a379d13b43af.600x338.jpg?t=1556785074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/556200/ss_a4210468a4e7a23be255ed03a578ae0169d7e957.600x338.jpg?t=1556785074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/556200/ss_b980a276739fa9f9b49c6dbf83d7a2035375c360.600x338.jpg?t=1556785074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/556200/ss_7afa1aa3766ed02f2ac4884ef8bde51e4648641e.600x338.jpg?t=1556785074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/556200/ss_e08b23430622cb496e1e0d5dcf6be5ce26390a21.600x338.jpg?t=1556785074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/556200/ss_8e1338ececf3852eaffac5634f98cd87cec9b5ba.600x338.jpg?t=1556785074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/556200/ss_53da51de9dd41d7acf4fd696bbb1d574028e6aab.600x338.jpg?t=1556785074"
-  ],
-  "detailed_description": "Blue Crystal is a twin stick shooter with time attack elements.<h2 class=\"bb_tag\" > Crystal </h2>Clear the target time and collect crystals.<br>In total there are 120 crystals in 40 stages.<br>You can play more stages by collecting crystals.<h2 class=\"bb_tag\" > Weapon </h2>There are six weapons.<br>There is only one weapon at the start of the game.<br>You can use more weapons as you advance.<br>If you can't clear a difficult stage, try using other weapon.",
-  "about_the_game": "Blue Crystal is a twin stick shooter with time attack elements.<h2 class=\"bb_tag\" > Crystal </h2>Clear the target time and collect crystals.<br>In total there are 120 crystals in 40 stages.<br>You can play more stages by collecting crystals.<h2 class=\"bb_tag\" > Weapon </h2>There are six weapons.<br>There is only one weapon at the start of the game.<br>You can use more weapons as you advance.<br>If you can't clear a difficult stage, try using other weapon.",
-  "supported_languages": "English, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Trading Cards",
-    "Steam Cloud",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
@@ -58,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

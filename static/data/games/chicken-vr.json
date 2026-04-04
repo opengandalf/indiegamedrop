@@ -3,8 +3,8 @@
   "name": "Chicken VR",
   "slug": "chicken-vr",
   "developer": "Reuben Lewis, Elan Bustos",
-  "publisher": "LB Studios",
-  "release_date": "Sep 1, 2018",
+  "publisher": "",
+  "release_date": "2018-09-01",
   "price_usd": 2.99,
   "genres": [
     "Simulation"
@@ -17,41 +17,15 @@
   ],
   "short_description": "Chicken VR is a virtual reality first person chicken simulator. You can teleport around and explore, eating food, drinking water, and laying eggs.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910260/header.jpg?t=1535817749",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910260/ss_1b3312fee1f3311d83cedbb1440c34d286b87cdf.600x338.jpg?t=1535817749",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910260/ss_3b5274a341117bee88a1ab116e2bda66fec35be4.600x338.jpg?t=1535817749",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910260/ss_9a69ea2045ce13426888c37d3483e14f2d820c2f.600x338.jpg?t=1535817749",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910260/ss_20cf62cd4770ac49acc910d04a07d8378a9cd5a0.600x338.jpg?t=1535817749",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910260/ss_ac46d28ca9bc4e25000fad10cb6a74716ef8dca3.600x338.jpg?t=1535817749",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910260/ss_4607d3bc1d22157a64399eab09dcd7477a79bb54.600x338.jpg?t=1535817749",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910260/ss_50076b08d50f9d465640bc3b9153b186c388cfee.600x338.jpg?t=1535817749",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910260/ss_86caa96f599afac4adae6eaff8bbcce8b6d3d951.600x338.jpg?t=1535817749",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910260/ss_e9a4a1df0cd0811ffeae785370dfe933208b972d.600x338.jpg?t=1535817749",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910260/ss_67df2b315db59b60d96e621d882b37f6541a82e5.600x338.jpg?t=1535817749",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910260/ss_e11cc8169fa1889d6a89ca329974a991811cd926.600x338.jpg?t=1535817749",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910260/ss_a6fa14d6ea8924fe955c706148d86a900b145a42.600x338.jpg?t=1535817749"
-  ],
-  "detailed_description": "Chicken VR is a virtual reality first person chicken simulator. The play area contains a coop and a small house. You are able to eat and drink by sticking your beak into the bowls. By pressing the trigger on the HTC vive controller, you are able to lay eggs inside the coop. Using your thumb on the trackpad, you can point your controller and teleport around, finding all of the easter eggs on the map. <br />\r\n<br />\r\nCreated, Produced, and Published by LB Studios",
-  "about_the_game": "Chicken VR is a virtual reality first person chicken simulator. The play area contains a coop and a small house. You are able to eat and drink by sticking your beak into the bowls. By pressing the trigger on the HTC vive controller, you are able to lay eggs inside the coop. Using your thumb on the trackpad, you can point your controller and teleport around, finding all of the easter eggs on the map. <br />\r\n<br />\r\nCreated, Produced, and Published by LB Studios",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 4,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

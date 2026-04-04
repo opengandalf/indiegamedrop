@@ -3,8 +3,8 @@
   "name": "Gamepad Controller Template",
   "slug": "gamepad-controller-template",
   "developer": "K",
-  "publisher": "K",
-  "release_date": "Sep 1, 2016",
+  "publisher": "",
+  "release_date": "2016-09-01",
   "price_usd": 5.99,
   "genres": [
     "Action",
@@ -27,31 +27,8 @@
   "short_description": "",
   "header_image_url": null,
   "screenshots": [],
-  "detailed_description": "",
-  "about_the_game": "",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Co-op",
-    "Shared/Split Screen",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
   "review_count": 43,
-  "review_positive": 23,
+  "review_positive": 0,
   "review_percentage": 53.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +36,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 42,
-      "review_percentage": 54.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 43,
       "review_percentage": 53.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

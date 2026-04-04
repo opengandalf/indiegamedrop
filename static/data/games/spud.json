@@ -3,8 +3,8 @@
   "name": "Spud!",
   "slug": "spud",
   "developer": "Charybdis Ltd",
-  "publisher": "Alternative Software Ltd",
-  "release_date": "Mar 3, 2015",
+  "publisher": "",
+  "release_date": "2015-03-03",
   "price_usd": 0.79,
   "genres": [
     "Adventure"
@@ -17,82 +17,21 @@
   ],
   "short_description": "Take on the role of Spud and prevent the evil Doctor Chillblane from enslaving the world with his cruel tyranny. Travel the world from pole to pole running a gauntlet of strange creatures.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/header.jpg?t=1510310520",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_b23051967994aad4d286b021b1ef4702d712bbfa.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_cf5a3d1906e7bff6de3ae0e4704c41d84db2d181.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_6979aa534cc8434a787b196b79a62fa29baac832.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_556ce1ae7716f4019270f22f0a90849d911b6b2e.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_8ac819ce73a7eabba6cd8b8e3fc3217e4287a3a2.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_23bebd03ed7694eea7f7bf79952d5d9f56d00144.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_00895148fccfcb999f574d07eb937d087bba8b8f.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_bc1b49b042c73301b509926da8ae23ee99cd3146.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_185be287b96b3048bac648bf24351bdb22571560.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_9a39ec80637b10b1cc4ed6a18876ec079ec63b03.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_6a58f33f778c1c59a2dafc214ecb9f1635181202.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_35c884760561fe7e61ae04ba4f362ccc4a048cf4.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_8c23415043d1008f54fcf907590064d6e111bc7b.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_fd162ebf6730781a9bfae2668527105664dec628.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_910d159160776c3c9461d19c1490c73e6a2fcdcf.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_eaecdf9d2a8e4884dc44f8d7de566febaeee763f.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_642380f641547e730fd9f6a83c698c88fa62fb9f.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_17940cc3f138b3f3924bb4e10abec5f34bd5027b.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_42f9bd6974c5715d75afbea6639e7dfb4f3fcd32.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_c19b9b2b4cf2bdbf67c2c36c103263ab6590ddd7.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_45e7bd483d5634b0c70c328fb9138c99b16b5798.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_447581ffde4c37323167336d272240adfcf728eb.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_49b3a8564479fc0d91395225f1a39cd55a5c358e.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_052b4e2d6292eba01342d84c40d75f4dc61a4e8a.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_2bb01b47d36e9412651396654b1c03d8d1452c08.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_c9b558cad3fc779e4ae913a4eb951ac5ceae3da4.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_684701af6b51983de27832ccc58e1f80d3b24cde.600x338.jpg?t=1510310520",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/ss_6a2770638eea2cea05195cc1551853ee136ea875.600x338.jpg?t=1510310520"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/extras/ec6d34bf6a0cde53c1271d86ab7b9874.avif?t=1510310520\" width=663 height=130 /></span><br>In this superb classic retro adventure game from yesteryear, take on the role of Spud and prevent the evil Doctor Chillblane from enslaving the world with his cruel tyranny. Travel the world from pole to pole running a gauntlet of strange creatures such as... manic penguins, crazed pixies, paranoid polar bears and dangerous dragons... in order to complete your quest and save your Grand- father and his amazing magical invention.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/extras/7a1a988f6531fac87393d37e54e801ed.avif?t=1510310520\" width=663 height=130 /></span><br>Seeing is believing in this the world's first interactive cartoon. Find yourself slap-bang in the middle of a pre- rendered talking world, with a 1st person viewpoint scrolling seamlessly through 360 degrees.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/extras/077313fce69c9cd69b0354fd39e98201.avif?t=1510310520\" width=663 height=130 /></span><h2 class=\"bb_tag\" >FEATURES INCLUDE</h2><ul class=\"bb_ul\"><li>Over 200 stunning locations to explore and a multitude of cinematic cartoon animations</li></ul> <ul class=\"bb_ul\"><li>Over 16 different music compositions and a barrel full of wacky voice characterisations</li></ul> <ul class=\"bb_ul\"><li>A 3D inventory that allows you to construct new characters</li></ul> <ul class=\"bb_ul\"><li>SUPER-LOOKAROUND-O-VISION - 360 degrees of submersive entertainment</li></ul><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/extras/6881a938f48a055f8a2fee40b887a5e2.avif?t=1510310520\" width=663 height=130 /></span><h2 class=\"bb_tag\" >STORY</h2>When the fiendish Doctor Chillblane revealed his wacky plans to conquer the world nobody laughed!  At least not when he could hear them anyway.  <br><br>So it was, that late one snowy night Spud's Grandfather and his amazing magical toy making machine were spirited away - very noisely, by a huge gun totting mutant reindeer!  <br><br>And now it's up to SPUD to rescue his Grandfather and recover the toy making machine to prevent Doctor Chillblane from enslaving the world with his cruel tyranny!<br><br>You play the part of SPUD - a street wise kid, who has to travel the world from pole to pole running a gauntlet of strange creatures such as...... manic penguins, crazed pixies, paranoid polar pears and death breathing dragons..... in order to complete his quest within this amazing cartoon adventure.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/extras/84941bfb19a8b0a8110f1ea5f2e43150.avif?t=1510310520\" width=663 height=400 /></span>",
-  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/extras/ec6d34bf6a0cde53c1271d86ab7b9874.avif?t=1510310520\" width=663 height=130 /></span><br>In this superb classic retro adventure game from yesteryear, take on the role of Spud and prevent the evil Doctor Chillblane from enslaving the world with his cruel tyranny. Travel the world from pole to pole running a gauntlet of strange creatures such as... manic penguins, crazed pixies, paranoid polar bears and dangerous dragons... in order to complete your quest and save your Grand- father and his amazing magical invention.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/extras/7a1a988f6531fac87393d37e54e801ed.avif?t=1510310520\" width=663 height=130 /></span><br>Seeing is believing in this the world's first interactive cartoon. Find yourself slap-bang in the middle of a pre- rendered talking world, with a 1st person viewpoint scrolling seamlessly through 360 degrees.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/extras/077313fce69c9cd69b0354fd39e98201.avif?t=1510310520\" width=663 height=130 /></span><h2 class=\"bb_tag\" >FEATURES INCLUDE</h2><ul class=\"bb_ul\"><li>Over 200 stunning locations to explore and a multitude of cinematic cartoon animations</li></ul> <ul class=\"bb_ul\"><li>Over 16 different music compositions and a barrel full of wacky voice characterisations</li></ul> <ul class=\"bb_ul\"><li>A 3D inventory that allows you to construct new characters</li></ul> <ul class=\"bb_ul\"><li>SUPER-LOOKAROUND-O-VISION - 360 degrees of submersive entertainment</li></ul><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/extras/6881a938f48a055f8a2fee40b887a5e2.avif?t=1510310520\" width=663 height=130 /></span><h2 class=\"bb_tag\" >STORY</h2>When the fiendish Doctor Chillblane revealed his wacky plans to conquer the world nobody laughed!  At least not when he could hear them anyway.  <br><br>So it was, that late one snowy night Spud's Grandfather and his amazing magical toy making machine were spirited away - very noisely, by a huge gun totting mutant reindeer!  <br><br>And now it's up to SPUD to rescue his Grandfather and recover the toy making machine to prevent Doctor Chillblane from enslaving the world with his cruel tyranny!<br><br>You play the part of SPUD - a street wise kid, who has to travel the world from pole to pole running a gauntlet of strange creatures such as...... manic penguins, crazed pixies, paranoid polar pears and death breathing dragons..... in order to complete his quest within this amazing cartoon adventure.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/353790/extras/84941bfb19a8b0a8110f1ea5f2e43150.avif?t=1510310520\" width=663 height=400 /></span>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 40,
-  "review_positive": 25,
+  "review_positive": 0,
   "review_percentage": 62.5,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 17,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 35,
-      "review_percentage": 65.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 40,
-      "review_percentage": 62.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
+      "date": "2026-04-04",
       "review_count": 40,
       "review_percentage": 62.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

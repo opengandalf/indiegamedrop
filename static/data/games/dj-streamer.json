@@ -3,8 +3,8 @@
   "name": "DJ Streamer",
   "slug": "dj-streamer",
   "developer": "Screaming Bee",
-  "publisher": "Screaming Bee",
-  "release_date": "Jul 7, 2016",
+  "publisher": "",
+  "release_date": "2016-07-07",
   "price_usd": 4.99,
   "genres": [
     "Audio Production",
@@ -17,61 +17,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "The DJ Streamer plays your audio files out to other programs with a virtual microphone.You can now quickly create a play list from existing files on your computer to broadcast to others. Many popular file formats are supported, such as wave, ogg, windows media and MP3.",
+  "short_description": "The DJ Streamer plays your audio files out to other programs with a virtual microphone.You can now quickly create a play list from existing files on your computer to broadcast to others. Many popular ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/497150/header.jpg?t=1525884973",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/497150/ss_3d9144161b52eb9bc5a4dbef7e75e27f4934fd03.600x338.jpg?t=1525884973",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/497150/ss_7c246f46d7e87a655c73c26afec345b79386af43.600x338.jpg?t=1525884973",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/497150/ss_5800c2496cc2a51e6772d8cba66503faac7670a8.600x338.jpg?t=1525884973",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/497150/ss_7ab48f3ec49961890de7912eafa3ccf0a4ca4923.600x338.jpg?t=1525884973",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/497150/ss_79953f36e8ad84e74c4707d272d451af4e3f3676.600x338.jpg?t=1525884973"
-  ],
-  "detailed_description": "<strong>The DJ Streamer plays your audio files out to other programs with a virtual microphone.</strong><br><br>You can now quickly create a play list from existing files on your computer to broadcast to others. Many popular file formats are supported, such as wave, ogg, windows media and MP3. Files can be paused, stopped, skipped, and the order of the play list changed. <br><br>The DJ Streamer also works alongside MorphVOX to take advantage of built-in sound effects and backgrounds and provide a seamless mixing of the audio output to your chat or game application. The audio files in your playlist are cleanly mixed in, and have an independent volume control so you can determine how loud your morphed voice is above the music (or other content) you are sharing with others.<br><br>The DJ Streamer is a great way to share audio with your friends, in-game and online.",
-  "about_the_game": "<strong>The DJ Streamer plays your audio files out to other programs with a virtual microphone.</strong><br><br>You can now quickly create a play list from existing files on your computer to broadcast to others. Many popular file formats are supported, such as wave, ogg, windows media and MP3. Files can be paused, stopped, skipped, and the order of the play list changed. <br><br>The DJ Streamer also works alongside MorphVOX to take advantage of built-in sound effects and backgrounds and provide a seamless mixing of the audio output to your chat or game application. The audio files in your playlist are cleanly mixed in, and have an independent volume control so you can determine how loud your morphed voice is above the music (or other content) you are sharing with others.<br><br>The DJ Streamer is a great way to share audio with your friends, in-game and online.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Cloud",
-    "Stats"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.35,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 27,
-  "review_positive": 18,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 11,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 26,
-      "review_percentage": 65.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 27,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 27,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

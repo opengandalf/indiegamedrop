@@ -3,8 +3,8 @@
   "name": "Conga Cat",
   "slug": "conga-cat",
   "developer": "Caido",
-  "publisher": "Caido",
-  "release_date": "May 23, 2024",
+  "publisher": "",
+  "release_date": "2024-05-23",
   "price_usd": 2.99,
   "genres": [
     "Action",
@@ -19,34 +19,15 @@
   ],
   "short_description": "Experience an adrenaline-fueled 2D platformer where you'll navigate tough challenges with jumps, climbs, and dashes at a thrilling pace.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220580/header.jpg?t=1716459559",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220580/ss_a0bb458a62a362bfb112db64aa77ba9b94af020e.600x338.jpg?t=1716459559",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220580/ss_88d50f24734bfbfc80bbbfc8981a3e05131a011b.600x338.jpg?t=1716459559",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220580/ss_43dc89c2b93d18dfed44ff131a659897b6043891.600x338.jpg?t=1716459559",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220580/ss_52ce0f902341b0e55d503e5a67f58890ccfe6d95.600x338.jpg?t=1716459559",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220580/ss_15c34d5876a9f42a630771289f51b6d8e73ff970.600x338.jpg?t=1716459559"
-  ],
-  "detailed_description": "Join Conga Cat on a pulse-pounding quest to reclaim his missing drum kit in an adrenaline-fueled, lightning-fast action platformer.<br><br><ul class=\"bb_ul\"><li> Embark on an adventure filled with an array of diverse platforming challenges across a vibrant world.<br></li><li> Tough sets of collectibles in each level, inviting players to test their abilities.<br></li><li> Accessible controls with complex maneuvers, crafted to intrigue and challenge advanced players and speed-runners.</li></ul>",
-  "about_the_game": "Join Conga Cat on a pulse-pounding quest to reclaim his missing drum kit in an adrenaline-fueled, lightning-fast action platformer.<br><br><ul class=\"bb_ul\"><li> Embark on an adventure filled with an array of diverse platforming challenges across a vibrant world.<br></li><li> Tough sets of collectibles in each level, inviting players to test their abilities.<br></li><li> Accessible controls with complex maneuvers, crafted to intrigue and challenge advanced players and speed-runners.</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 5,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 40.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 25.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 40.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

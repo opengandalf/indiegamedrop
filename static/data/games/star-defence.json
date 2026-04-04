@@ -3,8 +3,8 @@
   "name": "Star Defence",
   "slug": "star-defence",
   "developer": "Stay",
-  "publisher": "Stay",
-  "release_date": "May 22, 2023",
+  "publisher": "",
+  "release_date": "2023-05-22",
   "price_usd": 0.99,
   "genres": [
     "Indie",
@@ -19,34 +19,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Star Defence is a unit-placement real-time tower defense game in which you can place any unit you like on a 2D free-form plane. All units in the game, including enemies, are composed of units you place. Place your units in a balance between enemies and allies to develop your civilization.",
+  "short_description": "Star Defence is a unit-placement real-time tower defense game in which you can place any unit you like on a 2D free-form plane. All units in the game, including enemies, are composed of units you plac",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2412420/header.jpg?t=1705851934",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2412420/ss_076dbcf04304e47849017ef381e248c2526585d3.600x338.jpg?t=1705851934",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2412420/ss_e6fda259ca019c0b67e01d47b1059fb140091ada.600x338.jpg?t=1705851934",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2412420/ss_f742723dd0c338314f832a7f49c56865d18517ec.600x338.jpg?t=1705851934",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2412420/ss_57aa552841be18b9661107959ffea1d9f2f991ff.600x338.jpg?t=1705851934",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2412420/ss_88df3a80bb4071681e5a1f60390eb726467e158f.600x338.jpg?t=1705851934"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Star Defence is a unit placement real-time tower defense game.</h2>Players can place their own units, \"white stars,\" anywhere in 2D.<br>The \"white star\" will turn into a hostile unit, a \"black star,\" over time.<br><br>The player's objective is to increase the number of \"Black Stars\" observed and to raise the \"Civilization Level\" of his planet.<br>Optimize the balance between \"white stars\" and \"black stars\" to be installed and observe \"black stars\" more efficiently.<br><br>[ h2 ] How to Play [ /h2 ]<br>Unit Selection and Placement: Left Click<br>Cancel: Right Click<br>Camera Movement: Right Click + Drag or WASD<br>Zoom: Mouse Wheel<br><br>Units will only operate when the number of black stars minus the number of white stars exceeds the civilization level.<br>To increase the civilization level, a certain cost is required, and reaching level 10 clears the stage.",
-  "about_the_game": "<h2 class=\"bb_tag\" >Star Defence is a unit placement real-time tower defense game.</h2>Players can place their own units, \"white stars,\" anywhere in 2D.<br>The \"white star\" will turn into a hostile unit, a \"black star,\" over time.<br><br>The player's objective is to increase the number of \"Black Stars\" observed and to raise the \"Civilization Level\" of his planet.<br>Optimize the balance between \"white stars\" and \"black stars\" to be installed and observe \"black stars\" more efficiently.<br><br>[ h2 ] How to Play [ /h2 ]<br>Unit Selection and Placement: Left Click<br>Cancel: Right Click<br>Camera Movement: Right Click + Drag or WASD<br>Zoom: Mouse Wheel<br><br>Units will only operate when the number of black stars minus the number of white stars exceeds the civilization level.<br>To increase the civilization level, a certain cost is required, and reaching level 10 clears the stage.",
-  "supported_languages": "English, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

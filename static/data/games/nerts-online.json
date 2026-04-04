@@ -3,8 +3,8 @@
   "name": "NERTS! Online",
   "slug": "nerts-online",
   "developer": "Zachtronics",
-  "publisher": "Zachtronics",
-  "release_date": "Jan 5, 2021",
+  "publisher": "",
+  "release_date": "2021-01-05",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -25,60 +25,27 @@
   ],
   "short_description": "NERTS! Online is a fast-paced competitive solitaire game for you and up to five of your friends, played the same way we play it at the Zachtronics office!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1131190/header.jpg?t=1667070415",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1131190/ss_9e54237f3006d4cdde132ae4720c0a4e673c0895.600x338.jpg?t=1667070415",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1131190/ss_9008775adfdf595b8ad69bbf04c49ae727dca6de.600x338.jpg?t=1667070415",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1131190/ss_c153fbfc3b1800b86a2020a7aad4859b88601b35.600x338.jpg?t=1667070415",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1131190/ss_eb1cef87962b0682e40be6425fca7daeade29d76.600x338.jpg?t=1667070415",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1131190/ss_320bbde52c0d9b5b9473a49006b5c402e06b2d97.600x338.jpg?t=1667070415"
-  ],
-  "detailed_description": "Nerts is a fast-paced competitive solitaire game for you and up to five of your friends!<br />\r\n<br />\r\nUnlike the rest of our solitaire games, we did not invent Nerts. We learned about it from our artist Kyle, who has played it for years, and started playing it after lunch in the Zachtronics office. Over time we added more to it, including house rules, longer tournaments, and even a theme song.<br />\r\n<br />\r\nWhen we started working from home in early 2020 we made a rough version of the game to play over the internet, which eventually (nine months later) was cleaned up and turned into this. The game includes a few Zachtronics additions, like players being allowed to move cards between their Nerts pile and their tableau after Nerts has been called. It's free, but you do technically unlock card backs by owning our other games, so let's pretend that's a legitimate monetization strategy. <br />\r\n<br />\r\n(UPDATE: We've also added an optional \"Sponsorship Package\" DLC you can purchase, which unlocks a NERTS! Online themed card back and a special holographic foil effect you can use with any of the other card backs.)<br />\r\n<br />\r\nHave fun!",
-  "about_the_game": "Nerts is a fast-paced competitive solitaire game for you and up to five of your friends!<br />\r\n<br />\r\nUnlike the rest of our solitaire games, we did not invent Nerts. We learned about it from our artist Kyle, who has played it for years, and started playing it after lunch in the Zachtronics office. Over time we added more to it, including house rules, longer tournaments, and even a theme song.<br />\r\n<br />\r\nWhen we started working from home in early 2020 we made a rough version of the game to play over the internet, which eventually (nine months later) was cleaned up and turned into this. The game includes a few Zachtronics additions, like players being allowed to move cards between their Nerts pile and their tableau after Nerts has been called. It's free, but you do technically unlock card backs by owning our other games, so let's pretend that's a legitimate monetization strategy. <br />\r\n<br />\r\n(UPDATE: We've also added an optional \"Sponsorship Package\" DLC you can purchase, which unlocks a NERTS! Online themed card back and a special holographic foil effect you can use with any of the other card backs.)<br />\r\n<br />\r\nHave fun!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "PvP",
-    "Online PvP"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0002,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 81.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 1643,
-  "review_positive": 1563,
+  "review_positive": 0,
   "review_percentage": 95.1,
   "owner_estimate": 150000,
-  "ccu_estimate": 2,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 950,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1562,
-      "review_percentage": 95.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 1643,
       "review_percentage": 95.1,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
-      "review_count": 1643,
-      "review_percentage": 95.1,
-      "ccu_estimate": 2,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

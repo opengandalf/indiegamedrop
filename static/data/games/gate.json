@@ -3,8 +3,8 @@
   "name": "GATE",
   "slug": "gate",
   "developer": "Banshee Cat",
-  "publisher": "Banshee Cat",
-  "release_date": "Jul 30, 2021",
+  "publisher": "",
+  "release_date": "2021-07-30",
   "price_usd": 4.49,
   "genres": [
     "Adventure",
@@ -25,60 +25,27 @@
   ],
   "short_description": "Easily play tabletop games like D&D with your friends online. GATE was built with simplicity in mind, allowing people to play games with friends quickly and easily.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689250/header.jpg?t=1767457100",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689250/ss_f6ec1c815c909514fb66ae2227630653f6ca3bff.600x338.jpg?t=1767457100",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689250/ss_39e4c8bf0896aa831bf3f22cac4508caab38ec47.600x338.jpg?t=1767457100",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689250/ss_74713287e6a08739ada66854d59d9f5f42f2cee1.600x338.jpg?t=1767457100",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689250/ss_176c7679ee9e0e9c7b7304efa75e31eb4ede8266.600x338.jpg?t=1767457100",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689250/ss_e9590693f7fcb1d3aaf422729bbf7883e6311584.600x338.jpg?t=1767457100",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689250/ss_9b29310fd3f29a411963ce63e17777a3cb6c2f16.600x338.jpg?t=1767457100",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1689250/ss_5292a81d0d7a9f3180549f9afac6a3682e9de911.600x338.jpg?t=1767457100"
-  ],
-  "detailed_description": "Easily play tabletop games like D&D with your friends. GATE was built with simplicity in mind - allowing people to play games and connect with friends online.<br>If you're hosting the game, your friends can download the demo version and <strong>join your games for free</strong>. No need to convince them to spend a dime.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> A simple server browser allowing you to host and join games with ease.<br></li><li> Included drawing tools let you draw out your session on the fly.<br></li><li> Support for 2D and 3D artwork. 3D content can be .STL, .FBX, or .OBJ. Yes, you can use your HeroForge mini.<br></li><li> Easily add and load maps in the middle of combat.<br></li><li> Add or remove fog to hide and reveal parts of your scene as players explore.<br></li><li> Steam Workshop lets players share tokens and maps.<br></li><li> Intuitive dice roller, with the ability to support complex rolls.<br></li><li> In-game chat option if voice chat is unavailable.</li></ul><h2 class=\"bb_tag\" >GATE Includes</h2><ul class=\"bb_ul\"><li> Hundreds of pieces of token art.<br></li><li> Access to the Steam Workshop with maps and tokens available to download - for free.<br></li><li> SRD content for D&D 5th edition spells and monsters.</li></ul>",
-  "about_the_game": "Easily play tabletop games like D&D with your friends. GATE was built with simplicity in mind - allowing people to play games and connect with friends online.<br>If you're hosting the game, your friends can download the demo version and <strong>join your games for free</strong>. No need to convince them to spend a dime.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> A simple server browser allowing you to host and join games with ease.<br></li><li> Included drawing tools let you draw out your session on the fly.<br></li><li> Support for 2D and 3D artwork. 3D content can be .STL, .FBX, or .OBJ. Yes, you can use your HeroForge mini.<br></li><li> Easily add and load maps in the middle of combat.<br></li><li> Add or remove fog to hide and reveal parts of your scene as players explore.<br></li><li> Steam Workshop lets players share tokens and maps.<br></li><li> Intuitive dice roller, with the ability to support complex rolls.<br></li><li> In-game chat option if voice chat is unavailable.</li></ul><h2 class=\"bb_tag\" >GATE Includes</h2><ul class=\"bb_ul\"><li> Hundreds of pieces of token art.<br></li><li> Access to the Steam Workshop with maps and tokens available to download - for free.<br></li><li> SRD content for D&D 5th edition spells and monsters.</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Online Co-op",
-    "Steam Workshop",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.858,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 35,
-  "review_positive": 33,
+  "review_positive": 0,
   "review_percentage": 94.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 34,
-      "review_percentage": 91.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 35,
       "review_percentage": 94.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Dungeon Online",
   "slug": "dungeon-online",
   "developer": "Gabriele Picchianti",
-  "publisher": "Gabriele Picchianti",
-  "release_date": "Sep 26, 2024",
+  "publisher": "",
+  "release_date": "2024-09-26",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -23,47 +23,15 @@
   ],
   "short_description": "A Dungeon Crawler that you can play alone or with your friends in online co-op. There's also Arena Mode where you can fight against other players in online pvp.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004330/58f44271d6e909ae42c2d26b7c4882652f09d94e/header.jpg?t=1763551708",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004330/ss_cdd7b694b06d9b707c964680dca6e57281438022.600x338.jpg?t=1763551708",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004330/ss_05bdebdef1946f3e3b2cc977081a7b6403b29942.600x338.jpg?t=1763551708",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004330/ss_25b855ed2e49f8c503f7ba167dc73a08c4229002.600x338.jpg?t=1763551708",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004330/ss_f137bc5d88706406786bd8e18674145132886ef9.600x338.jpg?t=1763551708",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004330/ss_3588de9c5dfb3634051ae02465590aacbc223e85.600x338.jpg?t=1763551708",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004330/ss_822bc5dfb2bf21aa9c528153866f0f58d00a09b7.600x338.jpg?t=1763551708",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004330/ss_a58a27a19214ae3a8f4ec786da967e9a08fcab9f.600x338.jpg?t=1763551708",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004330/ss_4dcf40f732305a4b8439e27004ad0fd5c3ed33be.600x338.jpg?t=1763551708",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004330/ss_111319617145fab2b77e5fe21178172c0ee90c84.600x338.jpg?t=1763551708",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004330/ss_a4bbd44ee2b613efb3d8f016e7a4581259678556.600x338.jpg?t=1763551708",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004330/ss_60dc94ca776576ee4129d73b9653658313320961.600x338.jpg?t=1763551708",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3004330/ss_2612ffc6a2c824aa86e965f4eff143e9424e9c76.600x338.jpg?t=1763551708"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Explore the Dungeon alone or with your friends in DUNGEON ONLINE.</p><p class=\"bb_paragraph\" >Create your character and dive into the Dungeon, fight various enemies like skeletons and goblins, fight dangerous Bosses,  and take your rewards to become even stronger.</p><p class=\"bb_paragraph\" >Defeating enemies you obtain items and experience points to equip your character to increase your stats and conquer the Dungeon. </p><p class=\"bb_paragraph\" >Enemies can drop items like their weapons, healing herbs, materials and summoning item.</p><p class=\"bb_paragraph\" >You can even dissamble your weapons to obtain materials to upgrade your favourite weapons.</p><p class=\"bb_paragraph\" >You can invite your friends to your lobby by in-game menu (they must be playing \"Dungeon Online\").</p><p class=\"bb_paragraph\" >In a multiplayer session, only the Host can summon units or interact with objects like doors, checkpoints or lootable chest.</p><p class=\"bb_paragraph\" >There is Arena Mode also, to fight other players in 3 types of PvP: Duel, Trio or Brawl.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Explore the Dungeon alone or with your friends in DUNGEON ONLINE.</p><p class=\"bb_paragraph\" >Create your character and dive into the Dungeon, fight various enemies like skeletons and goblins, fight dangerous Bosses,  and take your rewards to become even stronger.</p><p class=\"bb_paragraph\" >Defeating enemies you obtain items and experience points to equip your character to increase your stats and conquer the Dungeon. </p><p class=\"bb_paragraph\" >Enemies can drop items like their weapons, healing herbs, materials and summoning item.</p><p class=\"bb_paragraph\" >You can even dissamble your weapons to obtain materials to upgrade your favourite weapons.</p><p class=\"bb_paragraph\" >You can invite your friends to your lobby by in-game menu (they must be playing \"Dungeon Online\").</p><p class=\"bb_paragraph\" >In a multiplayer session, only the Host can summon units or interact with objects like doors, checkpoints or lootable chest.</p><p class=\"bb_paragraph\" >There is Arena Mode also, to fight other players in 3 types of PvP: Duel, Trio or Brawl.</p>",
-  "supported_languages": "English, Italian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Co-op",
-    "Online Co-op",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 33.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -71,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 33.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 33.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

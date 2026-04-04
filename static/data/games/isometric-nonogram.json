@@ -3,8 +3,8 @@
   "name": "Isometric Nonogram",
   "slug": "isometric-nonogram",
   "developer": "Fewjix",
-  "publisher": "Fewjix",
-  "release_date": "Feb 21, 2021",
+  "publisher": "",
+  "release_date": "2021-02-21",
   "price_usd": 0.79,
   "genres": [
     "Casual",
@@ -19,34 +19,9 @@
   ],
   "short_description": "Isometric version of classic nonograms. 3 visible sides of the cube are not independent. They are making common rows and columns with each other and it brings a fresh new feeling to the famous game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1495780/header.jpg?t=1613936654",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1495780/ss_9c0cb5953f005b02866d58372864a42a2f824f49.600x338.jpg?t=1613936654",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1495780/ss_f521cb5732561b60a9fc71425ad7a5ff0739aca0.600x338.jpg?t=1613936654",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1495780/ss_13cc90373937ad71befa245c62bb39d878f39b63.600x338.jpg?t=1613936654",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1495780/ss_e01c899556cc565d26ed4e898d354d37b59a379c.600x338.jpg?t=1613936654",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1495780/ss_bc2cc784c01186ce1d7a142c3214b83c036f063d.600x338.jpg?t=1613936654"
-  ],
-  "detailed_description": "Isometric version of classic nonograms. 3 visible sides of the cube are not independent. They are making common rows and columns with each other and it brings a fresh new feeling to the famous game.<br />\r\nEach puzzle is generated randomly and you can set the difficulty level and size of the cube.<br />\r\nDifficulty just depends on how many black and how many empty cells are on the cube.",
-  "about_the_game": "Isometric version of classic nonograms. 3 visible sides of the cube are not independent. They are making common rows and columns with each other and it brings a fresh new feeling to the famous game.<br />\r\nEach puzzle is generated randomly and you can set the difficulty level and size of the cube.<br />\r\nDifficulty just depends on how many black and how many empty cells are on the cube.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 14,
-  "review_positive": 12,
+  "review_positive": 0,
   "review_percentage": 85.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 14,
-      "review_percentage": 85.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 14,
       "review_percentage": 85.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

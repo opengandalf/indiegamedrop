@@ -3,8 +3,8 @@
   "name": "Blast Attack",
   "slug": "blast-attack",
   "developer": "Big Land Games",
-  "publisher": "Big Land Games",
-  "release_date": "May 12, 2023",
+  "publisher": "",
+  "release_date": "2023-05-12",
   "price_usd": 2.99,
   "genres": [
     "Action",
@@ -17,42 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "A short top-down game about dodging bullets and shooting a variety of enemies. Your arsenal evolves as you collect power-ups. Use a charged blast attack to destroy magenta shields and dashes to destroy cyan shields while fighting 6 different enemy types that can make use of shields and dashes.",
+  "short_description": "A short top-down game about dodging bullets and shooting a variety of enemies. Your arsenal evolves as you collect power-ups. Use a charged blast attack to destroy magenta shields and dashes to destro",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401420/header.jpg?t=1683939449",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401420/ss_f2bebec8c3f04f86e92e5756769fbe51b4089dba.600x338.jpg?t=1683939449",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401420/ss_7a1b4c2201d2891469e0dcd00b62f8765c64e176.600x338.jpg?t=1683939449",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401420/ss_b3623012a73cd990ac5e696455a4965445380dcb.600x338.jpg?t=1683939449",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401420/ss_023112f44565b8e32a4d55183822058cb4061c27.600x338.jpg?t=1683939449",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401420/ss_6bf8813cebbe063c159d2071895a76e4ec0cc0ba.600x338.jpg?t=1683939449",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401420/ss_b0ab5eae431bb34725eed1ad31f24e1eafbc0b0d.600x338.jpg?t=1683939449",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401420/ss_d657b94373a164bf2c4840119903a09c2d8a97ef.600x338.jpg?t=1683939449",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401420/ss_a737a0e71cc3f25eac83026bd35e3004311beb6a.600x338.jpg?t=1683939449",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401420/ss_b20dc38bc89898c03171b6b7850936e22fb0aa61.600x338.jpg?t=1683939449",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401420/ss_21bff05f314c0136377b5abe64e1f26abb15e4ff.600x338.jpg?t=1683939449",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401420/ss_d6c207a9a9bed184eaf162d7cff3feeafb95eb1f.600x338.jpg?t=1683939449"
-  ],
-  "detailed_description": "Blast Attack is a short and abstract top-down shooter about destroying enemies while avoiding damage. Use shooting, dashing, and a charged attack, the 'blast attack', to destroy 6 different types of enemies who can make use of 2 different types of shields and can dash themselves. Blast Attack has 10 levels each with a unique boss at the end and is built to reward rapidly destroying enemies and completing levels quickly. Collect power-ups throughout the levels to expand and improve your arsenal including multiple dash charges, a primary fire that increases its rate of fire the longer you hold it, and a super-charged version of the blast attack towards the end of the game. Beat all levels in par time to get extra bragging rights.<br />\r\n<br />\r\nBlast Attack is a very simple project that is designed to be an entry point for Big Land Games. If you see potential in this game or its mechanics then look forward to what Big Land Games will put together in the future! Any and all feedback is appreciated!",
-  "about_the_game": "Blast Attack is a short and abstract top-down shooter about destroying enemies while avoiding damage. Use shooting, dashing, and a charged attack, the 'blast attack', to destroy 6 different types of enemies who can make use of 2 different types of shields and can dash themselves. Blast Attack has 10 levels each with a unique boss at the end and is built to reward rapidly destroying enemies and completing levels quickly. Collect power-ups throughout the levels to expand and improve your arsenal including multiple dash charges, a primary fire that increases its rate of fire the longer you hold it, and a super-charged version of the blast attack towards the end of the game. Beat all levels in par time to get extra bragging rights.<br />\r\n<br />\r\nBlast Attack is a very simple project that is designed to be an entry point for Big Land Games. If you see potential in this game or its mechanics then look forward to what Big Land Games will put together in the future! Any and all feedback is appreciated!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Stats",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 5,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

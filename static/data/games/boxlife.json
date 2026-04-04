@@ -3,8 +3,8 @@
   "name": "boxlife",
   "slug": "boxlife",
   "developer": "tequibo",
-  "publisher": "tequibo",
-  "release_date": "Jan 14, 2016",
+  "publisher": "",
+  "release_date": "2016-01-14",
   "price_usd": 0.99,
   "genres": [
     "Indie"
@@ -19,34 +19,9 @@
   ],
   "short_description": "boxlife is a tiny first person metroidvania, where you gain abilities, find secrets and escape from the box",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314370/header.jpg?t=1461024717",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314370/ss_6e3d56bdbaae0c1348980cca3d76699feb119c45.600x338.jpg?t=1461024717",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314370/ss_8b3f242902824f8b606d8ba7483fdf1d3b39f3a2.600x338.jpg?t=1461024717",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314370/ss_0fa81ea9ed517d3f18fec68969a7418c2647505b.600x338.jpg?t=1461024717",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314370/ss_923c08cf74fb07f0d495f9afa5f9cd38ee0a3aff.600x338.jpg?t=1461024717",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314370/ss_e478019a470cca3cf84eb29d5620c53c6217f0d8.600x338.jpg?t=1461024717"
-  ],
-  "detailed_description": "boxlife is a tiny first person metroidvania, where you gain abilities, find secrets and escape from the box",
-  "about_the_game": "boxlife is a tiny first person metroidvania, where you gain abilities, find secrets and escape from the box",
-  "supported_languages": "English, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 145,
-  "review_positive": 114,
+  "review_positive": 0,
   "review_percentage": 78.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 145,
-      "review_percentage": 78.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
+      "date": "2026-04-04",
       "review_count": 145,
       "review_percentage": 78.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

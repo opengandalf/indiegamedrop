@@ -3,8 +3,8 @@
   "name": "Space Avengers",
   "slug": "space-avengers",
   "developer": "Gamer Girl",
-  "publisher": "Gamer Girl",
-  "release_date": "Sep 21, 2020",
+  "publisher": "",
+  "release_date": "2020-09-21",
   "price_usd": 0.0,
   "genres": [
     "Action"
@@ -17,33 +17,9 @@
   ],
   "short_description": "Shoot at alien spaceships and avoid incoming rockets in this retro 2D vertical scroller!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225220/header.jpg?t=1673973801",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225220/ss_515f55503345b380e7509cc965f21e03410699c2.600x338.jpg?t=1673973801",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225220/ss_0d04dfa6da04fd4f8808c348eec43a5b772e7ba0.600x338.jpg?t=1673973801",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225220/ss_655f965bdf2b48922657f45f01e9559994597e67.600x338.jpg?t=1673973801",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225220/ss_7a1049c3a4fc14e350196eaecdae2d444e8d9959.600x338.jpg?t=1673973801",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225220/ss_2ccac2465b306ffb1f836fbbd3db8fb4dba13425.600x338.jpg?t=1673973801",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225220/ss_e351c988241338a3f53d3fa5946ba00841567a5b.600x338.jpg?t=1673973801"
-  ],
-  "detailed_description": "<h1>Update Notes</h1><p>The game should now download and run fine! Sorry for the bugs at first release.</p><br><h1>About the Game</h1>A modern remake of classic vertical scrollers which were popular in the arcades of 1980s. Control a spaceship with directional keys or WASD, shoot rockets upwards with the Space key. Destroy incoming waves of alien spaceships and dodge rockets they fire at you!",
-  "about_the_game": "A modern remake of classic vertical scrollers which were popular in the arcades of 1980s. Control a spaceship with directional keys or WASD, shoot rockets upwards with the Space key. Destroy incoming waves of alien spaceships and dodge rockets they fire at you!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 12,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 41.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 13,
-      "review_percentage": 38.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 12,
       "review_percentage": 41.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

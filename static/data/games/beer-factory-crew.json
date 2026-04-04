@@ -3,8 +3,8 @@
   "name": "Beer Factory Crew",
   "slug": "beer-factory-crew",
   "developer": "Milos Trickovic",
-  "publisher": "Milos Trickovic",
-  "release_date": "Feb 13, 2024",
+  "publisher": "",
+  "release_date": "2024-02-13",
   "price_usd": 4.99,
   "genres": [
     "Simulation",
@@ -17,35 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Beer Factory Crew puts you in shoes of a production facility manager. Your goal is to produce finished shipments of beer and sell them. You can manage inventories and work in progress, machine orders, worker assignements and research new items.",
+  "short_description": "Beer Factory Crew puts you in shoes of a production facility manager. Your goal is to produce finished shipments of beer and sell them. You can manage inventories and work in progress, machine orders,",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2741600/header.jpg?t=1760391123",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2741600/ss_7c93729953543c8079f7cc3ac688ebea8fe175ae.600x338.jpg?t=1760391123",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2741600/ss_3e643d336d5bc2b584f2221b34136516b3cc60c3.600x338.jpg?t=1760391123",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2741600/ss_ea8099456ceb226d98846eb51b01d89763af2c39.600x338.jpg?t=1760391123",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2741600/ss_2b0aac649c4b063b03171d417e77ec45f5185fbd.600x338.jpg?t=1760391123",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2741600/ss_d38a2005eba407246ff0f17e7a12230e58562a3b.600x338.jpg?t=1760391123"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Beer Factory Crew will allow you to manage a beer production factory. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Update OCT-2025: The game is not dead, im working on a complete rebuild. Im switching to the industry engine used insted of building my own, and for the sake of playability im rebulding the core game mechanics.</strong></p><p class=\"bb_paragraph\" >I think you going to like it. At the moment I have the core game loop working. Im building the rest of game mechanics around it. The game will be isometric (yes, isometric) style and turn based. Most probably it will be released as a separate title, a successor to the original.</p><p class=\"bb_paragraph\" >I would like to expres the gratitute to everyone who is following and has purchased the game. As a solo game developer it means much to me to see there are people recognising and supporting the work.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >**UPDATE JAN-2024** I will be adding pipe system and transport conveyers to the game</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >You will be responsible for managing the inner works of a factory and making sure it runs smoothly and with optimal capacity and organization.</p><p class=\"bb_paragraph\" >The goal is to create profitable factory.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Game is intentionally made in 2D pixel art style to resemble older type of games (yay 1980s generation!)</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Machine management and production orders:</strong></p><p class=\"bb_paragraph\" >Set up exact mix of machines needed for your desired achievement.</p><p class=\"bb_paragraph\" >You can decide do you want less machines with more complex production orders or more machines with straightforward production runs.</p><p class=\"bb_paragraph\" >Machines also require dimension change on change of production order so bigger series are more desirable.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Worker Management:</strong></p><p class=\"bb_paragraph\" >Don't hire too much people or they will eat your budget.</p><p class=\"bb_paragraph\" >Don't hire any less because you will have production losses. </p><p class=\"bb_paragraph\" >Workers have traits (positive and negative) which will reflect on their speed of operation.</p><p class=\"bb_paragraph\" >Workers need to be taken care of in terms of hunger, toilet and rest.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Material management:</strong></p><p class=\"bb_paragraph\" >You can buy from input bays several raw materials in different quantities</p><p class=\"bb_paragraph\" >Don't buy too much at one time because it will overrun your storage areas</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Storage and material flow:</strong></p><p class=\"bb_paragraph\" >Each material and intermediate material needs to be delivered to machine and taken out (\"evacuated\") from the machine.</p><p class=\"bb_paragraph\" >This requires careful planning where to put storage areas in order to minimize walking distance of operators.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Economy simulation:</strong></p><p class=\"bb_paragraph\" >Prices can vary over time, so make sure to buy raw materials when they are low and sell final products when they are high.</p><p class=\"bb_paragraph\" >You can take loans to support your budget, but don't run in too much debt.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Research and perks:</strong></p><p class=\"bb_paragraph\" >Each item in game has ability to receive certain perks which improve performance.</p><p class=\"bb_paragraph\" >Some perks need to be researched first.</p><p class=\"bb_paragraph\" >Research is happening if you have a research room with researchers hired.</p><p class=\"bb_paragraph\" >Researchers are used only for research purposes and they don't contribute to production.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >And many more!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><i>An effort of a single person (single developer) for a certain (long) period of time.</i></strong></p><p class=\"bb_paragraph\" >As as single developer, I appreciate your support and I can promise many updates to the game.</p><p class=\"bb_paragraph\" >I will post features in roadmap for you to see what improvements will be added to the game.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Beer Factory Crew will allow you to manage a beer production factory. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Update OCT-2025: The game is not dead, im working on a complete rebuild. Im switching to the industry engine used insted of building my own, and for the sake of playability im rebulding the core game mechanics.</strong></p><p class=\"bb_paragraph\" >I think you going to like it. At the moment I have the core game loop working. Im building the rest of game mechanics around it. The game will be isometric (yes, isometric) style and turn based. Most probably it will be released as a separate title, a successor to the original.</p><p class=\"bb_paragraph\" >I would like to expres the gratitute to everyone who is following and has purchased the game. As a solo game developer it means much to me to see there are people recognising and supporting the work.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >**UPDATE JAN-2024** I will be adding pipe system and transport conveyers to the game</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >You will be responsible for managing the inner works of a factory and making sure it runs smoothly and with optimal capacity and organization.</p><p class=\"bb_paragraph\" >The goal is to create profitable factory.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Game is intentionally made in 2D pixel art style to resemble older type of games (yay 1980s generation!)</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Machine management and production orders:</strong></p><p class=\"bb_paragraph\" >Set up exact mix of machines needed for your desired achievement.</p><p class=\"bb_paragraph\" >You can decide do you want less machines with more complex production orders or more machines with straightforward production runs.</p><p class=\"bb_paragraph\" >Machines also require dimension change on change of production order so bigger series are more desirable.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Worker Management:</strong></p><p class=\"bb_paragraph\" >Don't hire too much people or they will eat your budget.</p><p class=\"bb_paragraph\" >Don't hire any less because you will have production losses. </p><p class=\"bb_paragraph\" >Workers have traits (positive and negative) which will reflect on their speed of operation.</p><p class=\"bb_paragraph\" >Workers need to be taken care of in terms of hunger, toilet and rest.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Material management:</strong></p><p class=\"bb_paragraph\" >You can buy from input bays several raw materials in different quantities</p><p class=\"bb_paragraph\" >Don't buy too much at one time because it will overrun your storage areas</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Storage and material flow:</strong></p><p class=\"bb_paragraph\" >Each material and intermediate material needs to be delivered to machine and taken out (\"evacuated\") from the machine.</p><p class=\"bb_paragraph\" >This requires careful planning where to put storage areas in order to minimize walking distance of operators.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Economy simulation:</strong></p><p class=\"bb_paragraph\" >Prices can vary over time, so make sure to buy raw materials when they are low and sell final products when they are high.</p><p class=\"bb_paragraph\" >You can take loans to support your budget, but don't run in too much debt.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Research and perks:</strong></p><p class=\"bb_paragraph\" >Each item in game has ability to receive certain perks which improve performance.</p><p class=\"bb_paragraph\" >Some perks need to be researched first.</p><p class=\"bb_paragraph\" >Research is happening if you have a research room with researchers hired.</p><p class=\"bb_paragraph\" >Researchers are used only for research purposes and they don't contribute to production.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >And many more!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong><i>An effort of a single person (single developer) for a certain (long) period of time.</i></strong></p><p class=\"bb_paragraph\" >As as single developer, I appreciate your support and I can promise many updates to the game.</p><p class=\"bb_paragraph\" >I will post features in roadmap for you to see what improvements will be added to the game.</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 3,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

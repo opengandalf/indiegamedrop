@@ -3,8 +3,8 @@
   "name": "AI Learns To Drive",
   "slug": "ai-learns-to-drive",
   "developer": "ActivationFunction",
-  "publisher": "ActivationFunction",
-  "release_date": "Jan 26, 2025",
+  "publisher": "",
+  "release_date": "2025-01-26",
   "price_usd": 5.99,
   "genres": [
     "Indie",
@@ -21,60 +21,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Train AI to drive! Create your own neural network and watch it evolve from chaos to mastery with the power of evolutionary algorithms and natural selection. Fine-tune the learning process to craft the ultimate AI driver, and test your creation in campaign challenges or on custom-built tracks.",
+  "short_description": "Train AI to drive! Create your own neural network and watch it evolve from chaos to mastery with the power of evolutionary algorithms and natural selection. Fine-tune the learning process to craft the",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/dd8af389299c59f82a8d6891c369efd7190ef482/header.jpg?t=1762788891",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/d42eeec6cd89e7f3411483eddbb35348d8379ba0/ss_d42eeec6cd89e7f3411483eddbb35348d8379ba0.600x338.jpg?t=1762788891",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/c9f0ecab6a648248b9b293111e5fb0e319d59b05/ss_c9f0ecab6a648248b9b293111e5fb0e319d59b05.600x338.jpg?t=1762788891",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/30772b88519742692a280dc475d65f6b2c973a07/ss_30772b88519742692a280dc475d65f6b2c973a07.600x338.jpg?t=1762788891",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/ss_b46fa157edcedda203744b7d3b9e3159b7fc0d84.600x338.jpg?t=1762788891",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/a15b9554a30481c662a865a199c309318890eb18/ss_a15b9554a30481c662a865a199c309318890eb18.600x338.jpg?t=1762788891"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>AI Learns To Drive</strong> is a sandbox simulation where you can create and train your own AI to drive a racing car across different tracks. The AI uses a simple feed-forward artificial neural network and is trained using evolutionary algorithms.</p><h2 class=\"bb_tag\" ><strong>Edit AI</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Customize your AI's neural network. Adjust settings like the number of <strong>layers</strong> and <strong>neurons</strong> to see how they affect learning. Experiment with different setups.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/extras/7c2ca5498209354be745e93d1fd5dffc.poster.avif?t=1762788891\" width=616 height=220 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/extras/7c2ca5498209354be745e93d1fd5dffc.webm?t=1762788891\" type=\"video/webm; codecs=vp9\"></video></span></p></li></ul><h2 class=\"bb_tag\" ><strong>Edit Tracks</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Design your own tracks with easy-to-use track editor. Choose from surfaces like <strong>asphalt</strong>, <strong>ice</strong>, and <strong>dirt</strong> to challenge your AI in various driving conditions.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/extras/1eaf99b5071dbf78971c63549cad45b7.poster.avif?t=1762788891\" width=616 height=220 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/extras/1eaf99b5071dbf78971c63549cad45b7.webm?t=1762788891\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/extras/1eaf99b5071dbf78971c63549cad45b7.mp4?t=1762788891\" type=\"video/mp4\"></video></span></p></li></ul><h2 class=\"bb_tag\" ><strong>Training</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Train your AI using evolutionary algorithms. Over multiple generations, select the best-performing agents to create new, improved ones. Adjust training settings like time <strong>time limit</strong>, <strong>learning rate</strong>, and the <strong>number of agents</strong> to optimize learning.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/extras/23722d57f34dd8b410f13951a4b56102.poster.avif?t=1762788891\" width=616 height=220 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/extras/23722d57f34dd8b410f13951a4b56102.webm?t=1762788891\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/extras/23722d57f34dd8b410f13951a4b56102.mp4?t=1762788891\" type=\"video/mp4\"></video></span></p></li></ul><h2 class=\"bb_tag\" ><strong>Challenges</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Test your AI's skills in campaign <strong>challenges</strong>. Earn <strong>stars</strong> by achieving goals like completing laps within a time limit, reaching high scores, or mastering tough tracks. Each challenge helps your AI improve.</p></li></ul>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>AI Learns To Drive</strong> is a sandbox simulation where you can create and train your own AI to drive a racing car across different tracks. The AI uses a simple feed-forward artificial neural network and is trained using evolutionary algorithms.</p><h2 class=\"bb_tag\" ><strong>Edit AI</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Customize your AI's neural network. Adjust settings like the number of <strong>layers</strong> and <strong>neurons</strong> to see how they affect learning. Experiment with different setups.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/extras/7c2ca5498209354be745e93d1fd5dffc.poster.avif?t=1762788891\" width=616 height=220 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/extras/7c2ca5498209354be745e93d1fd5dffc.webm?t=1762788891\" type=\"video/webm; codecs=vp9\"></video></span></p></li></ul><h2 class=\"bb_tag\" ><strong>Edit Tracks</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Design your own tracks with easy-to-use track editor. Choose from surfaces like <strong>asphalt</strong>, <strong>ice</strong>, and <strong>dirt</strong> to challenge your AI in various driving conditions.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/extras/1eaf99b5071dbf78971c63549cad45b7.poster.avif?t=1762788891\" width=616 height=220 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/extras/1eaf99b5071dbf78971c63549cad45b7.webm?t=1762788891\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/extras/1eaf99b5071dbf78971c63549cad45b7.mp4?t=1762788891\" type=\"video/mp4\"></video></span></p></li></ul><h2 class=\"bb_tag\" ><strong>Training</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Train your AI using evolutionary algorithms. Over multiple generations, select the best-performing agents to create new, improved ones. Adjust training settings like time <strong>time limit</strong>, <strong>learning rate</strong>, and the <strong>number of agents</strong> to optimize learning.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/extras/23722d57f34dd8b410f13951a4b56102.poster.avif?t=1762788891\" width=616 height=220 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/extras/23722d57f34dd8b410f13951a4b56102.webm?t=1762788891\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312030/extras/23722d57f34dd8b410f13951a4b56102.mp4?t=1762788891\" type=\"video/mp4\"></video></span></p></li></ul><h2 class=\"bb_tag\" ><strong>Challenges</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Test your AI's skills in campaign <strong>challenges</strong>. Earn <strong>stars</strong> by achieving goals like completing laps within a time limit, reaching high scores, or mastering tough tracks. Each challenge helps your AI improve.</p></li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Workshop",
-    "Steam Cloud",
-    "Steam Leaderboards",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 172,
-  "rising_score": 0.0057,
-  "gem_score": 0.6414,
+  "screenshots": [],
+  "rising_score": 0.0,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 103.0,
+  "review_velocity_7d": 8.9,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 178,
-  "review_positive": 172,
+  "review_positive": 0,
   "review_percentage": 96.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "rising",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 75,
-      "review_percentage": 97.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 178,
       "review_percentage": 96.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Bakka",
   "slug": "bakka",
   "developer": "Mathieu POWALKA",
-  "publisher": "Mathieu POWALKA",
-  "release_date": "Feb 13, 2025",
+  "publisher": "",
+  "release_date": "2025-02-13",
   "price_usd": 1.99,
   "genres": [
     "Indie",
@@ -17,38 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Bakka is a tactical infiltration game where your goal is to plan the perfect path in advance to avoid being detected. More specifically, you plot the way for the Reaper, who will follow your instructions to the letter. Watch out for the guards and good luck!",
+  "short_description": "Bakka is a tactical infiltration game where your goal is to plan the perfect path in advance to avoid being detected. More specifically, you plot the way for the Reaper, who will follow your instructi",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479150/header.jpg?t=1739434706",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479150/ss_13bdf9d5ac9b835783700bb2b10d98aea13424d8.600x338.jpg?t=1739434706",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479150/ss_1b7375ef685744f2be1577c930316da021305e84.600x338.jpg?t=1739434706",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479150/ss_7f141ad95d417c433f4744f1f4a477ebff22ea85.600x338.jpg?t=1739434706",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479150/ss_3eda4ab778d29ab3f19008ab860a6c5a2201d868.600x338.jpg?t=1739434706",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479150/ss_175f62d50cb80f77952940714ff582b6d0195817.600x338.jpg?t=1739434706",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3479150/ss_891addd7e865a183938bc93dc22cda1647dee27d.600x338.jpg?t=1739434706"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Bakka is a tactical infiltration game where your goal is to plan the perfect path in advance to avoid being detected. More specifically, you plot the way for the Reaper, who will follow your instructions.</p><h2 class=\"bb_tag\" >Gameplay:</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >The game consists of two phases. In the first, you must define the movements and actions to be performed to reach the level exit. The Reaper will not move until you are done!</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >In the second phase, the Reaper sets off and follows your path exactly. If the Reaper reaches the exit without being spotted, you win!</p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" >The challenge lies in your ability to plan the perfect path without knowing exactly how the actions will unfold!</p><p class=\"bb_paragraph\" >Good luck (and thank you so much if you purchased the game :) )!</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Bakka is a tactical infiltration game where your goal is to plan the perfect path in advance to avoid being detected. More specifically, you plot the way for the Reaper, who will follow your instructions.</p><h2 class=\"bb_tag\" >Gameplay:</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >The game consists of two phases. In the first, you must define the movements and actions to be performed to reach the level exit. The Reaper will not move until you are done!</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >In the second phase, the Reaper sets off and follows your path exactly. If the Reaper reaches the exit without being spotted, you win!</p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" >The challenge lies in your ability to plan the perfect path without knowing exactly how the actions will unfold!</p><p class=\"bb_paragraph\" >Good luck (and thank you so much if you purchased the game :) )!</p>",
-  "supported_languages": "English<strong>*</strong>, French<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.5,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 10,
-  "review_positive": 10,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 10,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

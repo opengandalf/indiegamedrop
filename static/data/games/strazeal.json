@@ -3,8 +3,8 @@
   "name": "Strazeal",
   "slug": "strazeal",
   "developer": "Tradosoft, Michiel Pater",
-  "publisher": "Tradosoft",
-  "release_date": "Aug 26, 2019",
+  "publisher": "",
+  "release_date": "2019-08-26",
   "price_usd": 1.99,
   "genres": [
     "Indie",
@@ -20,41 +20,9 @@
   ],
   "short_description": "A digital strategy board game for 2 - 4 players. Capture your opponent's bases while protecting all of your own using land, water and special weapons.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126970/header.jpg?t=1736295804",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126970/ss_e7ff0983c5047dd18f99b630ddea6656b8e6ef83.600x338.jpg?t=1736295804",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126970/ss_517fd87271e90f5f142428f39d5f8375ae7e80fe.600x338.jpg?t=1736295804",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126970/ss_d27393d4f2170c2cf66456fe1392b0102bf2d2e3.600x338.jpg?t=1736295804",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126970/ss_652cf3e56aef88fd7c163f3b7296f2f193ec1e73.600x338.jpg?t=1736295804",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126970/ss_e585187b511e54bf6ca33af20a455b09c27436a4.600x338.jpg?t=1736295804"
-  ],
-  "detailed_description": "<strong>A digital strategy board game for 2 - 4 players with online play.</strong><br><br>Capture your opponent's bases while protecting all of your own using land, water and special weapons. <br><br>Invite your friends and prepare your strategy to invade territories. Watch from your towers or sail with your boats to cross the seas. Find your way in the world of Strazeal!<br><br><strong>Features</strong><br>- Special weapons (undergrounds, traps, towers, chimneys and more)<br>- Defence upgrades (walls and floor upgrades)<br>- Water transport (boats and ships)<br>- Multiplayer (local and online)<br>- Advanced AI (Easy, Medium and Hard)<br>- Multiple maps with customization<br>- Graphic with game statistics<br><br>This game has been developed as a solo project in 2017 - 2019 using my own network, audio and graphics engines in C++. It is currently available in Beta.<br><br>Thank you for playing and have fun!",
-  "about_the_game": "<strong>A digital strategy board game for 2 - 4 players with online play.</strong><br><br>Capture your opponent's bases while protecting all of your own using land, water and special weapons. <br><br>Invite your friends and prepare your strategy to invade territories. Watch from your towers or sail with your boats to cross the seas. Find your way in the world of Strazeal!<br><br><strong>Features</strong><br>- Special weapons (undergrounds, traps, towers, chimneys and more)<br>- Defence upgrades (walls and floor upgrades)<br>- Water transport (boats and ships)<br>- Multiplayer (local and online)<br>- Advanced AI (Easy, Medium and Hard)<br>- Multiple maps with customization<br>- Graphic with game statistics<br><br>This game has been developed as a solo project in 2017 - 2019 using my own network, audio and graphics engines in C++. It is currently available in Beta.<br><br>Thank you for playing and have fun!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Shared/Split Screen PvP",
-    "Co-op",
-    "Online Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -62,19 +30,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

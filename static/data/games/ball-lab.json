@@ -3,8 +3,8 @@
   "name": "Ball laB",
   "slug": "ball-lab",
   "developer": "Viktor Yurchuk",
-  "publisher": "Viktor Yurchuk",
-  "release_date": "Mar 8, 2018",
+  "publisher": "",
+  "release_date": "2018-03-08",
   "price_usd": 0.49,
   "genres": [
     "Adventure",
@@ -19,63 +19,27 @@
   ],
   "short_description": "Ball laB is a hardcore platformer with minimalist graphics.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780800/header.jpg?t=1740814798",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780800/ss_cf2730534ca00a674dbdefcdc735be8873be20d5.600x338.jpg?t=1740814798",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780800/ss_fad096739e85637ed2507c3058bf37422d9030b3.600x338.jpg?t=1740814798",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780800/ss_6db634e6ccdba0ee38efd9324277fc5785a6b2b1.600x338.jpg?t=1740814798",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780800/ss_0245b2203f656c7936c041a1eb60b65164f0ebf5.600x338.jpg?t=1740814798",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780800/ss_c195a4b4d9eb778ffbb4070dc1279d445ee6dd7b.600x338.jpg?t=1740814798",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780800/ss_649598f0a95faaf0e4480ca3ddebfea5c2bc696e.600x338.jpg?t=1740814798"
-  ],
-  "detailed_description": "Ball laB is a hardcore platformer with minimalist graphics.<br>In the role of the ball you must overcome more than 60 challenging levels.<br>Can you do it?<h2 class=\"bb_tag\" >Features:</h2><br><ul class=\"bb_ul\"><li>60 levels<br></li><li>Difficult gameplay</li></ul>",
-  "about_the_game": "Ball laB is a hardcore platformer with minimalist graphics.<br>In the role of the ball you must overcome more than 60 challenging levels.<br>Can you do it?<h2 class=\"bb_tag\" >Features:</h2><br><ul class=\"bb_ul\"><li>60 levels<br></li><li>Difficult gameplay</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0002,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 11.0,
+  "review_velocity_7d": 43.650000000000006,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 873,
-  "review_positive": 563,
+  "review_positive": 0,
   "review_percentage": 64.5,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 31,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 862,
-      "review_percentage": 64.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 873,
-      "review_percentage": 64.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 873,
       "review_percentage": 64.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

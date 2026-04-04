@@ -3,8 +3,8 @@
   "name": "198X",
   "slug": "198x",
   "developer": "Hi-Bit Studios",
-  "publisher": "Hi-Bit Studios",
-  "release_date": "Jun 20, 2019",
+  "publisher": "",
+  "release_date": "2019-06-20",
   "price_usd": 9.99,
   "genres": [
     "Indie"
@@ -15,37 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Part 1 of arcade epic 198X. A coming-of-age story told through multiple games and genres. Experience the thrill of shooting, driving, jumping, fighting and role-playing in 5 full-blown arcade stages – combined with cinematic pixel-art storytelling.",
+  "short_description": "Part 1 of arcade epic 198X. A coming-of-age story told through multiple games and genres. Experience the thrill of shooting, driving, jumping, fighting and role-playing in 5 full-blown arcade stages –",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086010/header.jpg?t=1724087378",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086010/ss_745dff5b0e8e9732f80708b3625e572f87ecc0bb.600x338.jpg?t=1724087378",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086010/ss_7237664399aa1a7569a0658161e490b08185bd98.600x338.jpg?t=1724087378",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086010/ss_9aeb1afa36039659c6a10d50ac83fb3a8e4ac1bb.600x338.jpg?t=1724087378",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086010/ss_093e6a8d3a4dcb52610096bc3a1ac6e7bc1edb84.600x338.jpg?t=1724087378",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086010/ss_8376f7f98970710cf507d528c1a12281e83e19ad.600x338.jpg?t=1724087378",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086010/ss_5d6074ec56526d11382962026868d57cef0d76d6.600x338.jpg?t=1724087378",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086010/ss_eb76cb0da281db46abc3e47bc44527f93df66bb3.600x338.jpg?t=1724087378"
-  ],
-  "detailed_description": "Welcome to Suburbia, just outside the City, sometime in 198X. This is the journey of Kid, a teenager stuck between the limitations of innocent youth and the obligations of inevitable adulthood. The story unfolds when Kid discovers the local arcade – finding new worlds, and new meaning, in video games. For every visit to the arcade – every game uncovered, every move mastered, every demon defeated – Kid grows stronger. And the lines between game and reality starts to blur…<br />\r\n<br />\r\nThis is 198X – where a new life is just 1 credit away.<br />\r\n<br />\r\nEstimated play time: 2 hours",
-  "about_the_game": "Welcome to Suburbia, just outside the City, sometime in 198X. This is the journey of Kid, a teenager stuck between the limitations of innocent youth and the obligations of inevitable adulthood. The story unfolds when Kid discovers the local arcade – finding new worlds, and new meaning, in video games. For every visit to the arcade – every game uncovered, every move mastered, every demon defeated – Kid grows stronger. And the lines between game and reality starts to blur…<br />\r\n<br />\r\nThis is 198X – where a new life is just 1 credit away.<br />\r\n<br />\r\nEstimated play time: 2 hours",
-  "supported_languages": "English<strong>*</strong>, Japanese<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": 63,
-  "metacritic_url": "https://www.metacritic.com/game/pc/198x?ftag=MCD-06-10aaa1f",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 593,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0003,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 60.0,
+  "review_velocity_7d": 106.5,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2130,
-  "review_positive": 1624,
+  "review_positive": 0,
   "review_percentage": 76.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,26 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2070,
-      "review_percentage": 76.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 2130,
-      "review_percentage": 76.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 2130,
       "review_percentage": 76.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

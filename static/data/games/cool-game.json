@@ -3,8 +3,8 @@
   "name": "Cool Game",
   "slug": "cool-game",
   "developer": "Cool Games Studio",
-  "publisher": "Cool Games Studio",
-  "release_date": "Jun 10, 2022",
+  "publisher": "",
+  "release_date": "2022-06-10",
   "price_usd": 0.49,
   "genres": [
     "Action",
@@ -21,33 +21,15 @@
   ],
   "short_description": "Traditional roguelike where you build your team to defeat stronger and stronger opponents. Choose your teammates, their position and your opponents wisely, as one mistake can cost you the entire game",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2005000/header.jpg?t=1654855194",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2005000/ss_f1f2686951d92890711c7c06cfc7065fa880926b.600x338.jpg?t=1654855194",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2005000/ss_c8eff7cd580d11e792ad538d8f6f71008def32aa.600x338.jpg?t=1654855194",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2005000/ss_6b3aaa4a6964fdb288c64fa5414653aae270e00e.600x338.jpg?t=1654855194",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2005000/ss_b8b957a01c8253faf328a475665437ee959391ba.600x338.jpg?t=1654855194",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2005000/ss_c141aad06f6458b4c56fc3414e047d0d87da1486.600x338.jpg?t=1654855194"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >About This Game</h2>Traditional roguelike where you build your team to defeat stronger and stronger opponents. Your goal is to win 12 fights, each next one is more difficult than the previous one, in the meantime you will get heroes that you can incorporate into your team or leave them. Choose your teammates, their position and your opponents wisely, as one mistake can cost you the entire game<br><br>Each of the heroes needs energy to attack, which you get from destroying gems. Try to destroy as many gems as possible at once to achieve the best results<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li>Team Creating Roguelike<br></li><li>Turn-based combat<br></li><li>20+ Different Heroes<br></li><li>20+ Different Enemies<br></li><li>High level of difficulty</li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" >About This Game</h2>Traditional roguelike where you build your team to defeat stronger and stronger opponents. Your goal is to win 12 fights, each next one is more difficult than the previous one, in the meantime you will get heroes that you can incorporate into your team or leave them. Choose your teammates, their position and your opponents wisely, as one mistake can cost you the entire game<br><br>Each of the heroes needs energy to attack, which you get from destroying gems. Try to destroy as many gems as possible at once to achieve the best results<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li>Team Creating Roguelike<br></li><li>Turn-based combat<br></li><li>20+ Different Heroes<br></li><li>20+ Different Enemies<br></li><li>High level of difficulty</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.7000000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 14,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 57.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 14,
-      "review_percentage": 57.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 14,
       "review_percentage": 57.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

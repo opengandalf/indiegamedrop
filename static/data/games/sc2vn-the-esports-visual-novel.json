@@ -3,8 +3,8 @@
   "name": "SC2VN - The eSports Visual Novel",
   "slug": "sc2vn-the-esports-visual-novel",
   "developer": "Team Eleven",
-  "publisher": "Team Eleven",
-  "release_date": "Sep 22, 2015",
+  "publisher": "",
+  "release_date": "2015-09-22",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -27,54 +27,29 @@
     "mac",
     "linux"
   ],
-  "short_description": "SC2VN is a visual novel about the South Korean StarCraft 2 scene. You play as Mach, a foreign semi-pro trying to make it in eSports who soon learns that success in StarCraft takes more than in-game strategy.",
+  "short_description": "SC2VN is a visual novel about the South Korean StarCraft 2 scene. You play as Mach, a foreign semi-pro trying to make it in eSports who soon learns that success in StarCraft takes more than in-game st",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/404480/header.jpg?t=1560647315",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/404480/ss_7cffd55f455181936be5c26539bdc46361eb5590.600x338.jpg?t=1560647315",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/404480/ss_a049fd59cfb2358227e39e241207e8ff8bd66a39.600x338.jpg?t=1560647315",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/404480/ss_4267af549a161ab40db080eb24243ef10df993ef.600x338.jpg?t=1560647315",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/404480/ss_14fbca772a920280c90017fcfe24a44696b57bb9.600x338.jpg?t=1560647315",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/404480/ss_eea896369de0925f35be0363a88d9eab7c63aff3.600x338.jpg?t=1560647315"
-  ],
-  "detailed_description": "<strong>About</strong><br>SC2VN is a visual novel about the South Korean StarCraft 2 scene. You play as Mach, a foreign semi-pro trying to make it in eSports who soon learns that success in StarCraft takes more than in-game strategy. Meet fellow pros and build a team that can compete with the best.<br><br><i>This game is written for all players who want to live the dream. No previous knowledge of StarCraft and eSports required.</i>",
-  "about_the_game": "<strong>About</strong><br>SC2VN is a visual novel about the South Korean StarCraft 2 scene. You play as Mach, a foreign semi-pro trying to make it in eSports who soon learns that success in StarCraft takes more than in-game strategy. Meet fellow pros and build a team that can compete with the best.<br><br><i>This game is written for all players who want to live the dream. No previous knowledge of StarCraft and eSports required.</i>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.3907,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 872,
-  "review_positive": 809,
+  "review_positive": 0,
   "review_percentage": 92.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "proven",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 870,
-      "review_percentage": 92.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
+      "date": "2026-04-04",
       "review_count": 872,
       "review_percentage": 92.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

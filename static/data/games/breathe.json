@@ -3,8 +3,8 @@
   "name": "BREATHE",
   "slug": "breathe",
   "developer": "dotBunny",
-  "publisher": "dotBunny",
-  "release_date": "Mar 8, 2018",
+  "publisher": "",
+  "release_date": "2018-03-08",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -22,59 +22,27 @@
   ],
   "short_description": "Descend beneath the waves and explore treasure-filled waters! Scour a mysterious island for secret treasure, and unearth long-hidden secrets.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/799860/header.jpg?t=1520521106",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/799860/ss_c5b57442a99bbaf80cf7c0543c5265b7dee50d34.600x338.jpg?t=1520521106",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/799860/ss_0849a4e791842d13c84d420d7af65cf995c9c0bf.600x338.jpg?t=1520521106",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/799860/ss_0952bafed32760c3d583231c869fbf57984d8103.600x338.jpg?t=1520521106",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/799860/ss_2b44689d44847af39c36b192e54a95950095ce8b.600x338.jpg?t=1520521106",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/799860/ss_1d86168aaeb308bf013a9ce5bda284d4bd66d840.600x338.jpg?t=1520521106"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >WAKE</h2>In BREATHE you’re not the first to step foot on this mysterious island. If you want a shot at secret treasure, you’ll need to leave no stone on the sandy beaches unturned…<h2 class=\"bb_tag\" >DIVE</h2>Do hints and secrets lay beneath the waves? Only one way to find out, so take the plunge into the island’s beautiful reefs and sea beds! Just watch out for unwanted aquatic company…<h2 class=\"bb_tag\" >BREATHE</h2>The secrets of the island have been well kept, but no tale can go untold for so long. Enlightenment awaits those who find the secrets of BREATHE’s island… will you make it to the end alryte?<h2 class=\"bb_tag\" >PTBO GAME JAM</h2>This experience was built during a 32-hour <i>game jam</i> as an innovative way to reveal the theme of PTBO Game Jam 04.",
-  "about_the_game": "<h2 class=\"bb_tag\" >WAKE</h2>In BREATHE you’re not the first to step foot on this mysterious island. If you want a shot at secret treasure, you’ll need to leave no stone on the sandy beaches unturned…<h2 class=\"bb_tag\" >DIVE</h2>Do hints and secrets lay beneath the waves? Only one way to find out, so take the plunge into the island’s beautiful reefs and sea beds! Just watch out for unwanted aquatic company…<h2 class=\"bb_tag\" >BREATHE</h2>The secrets of the island have been well kept, but no tale can go untold for so long. Enlightenment awaits those who find the secrets of BREATHE’s island… will you make it to the end alryte?<h2 class=\"bb_tag\" >PTBO GAME JAM</h2>This experience was built during a 32-hour <i>game jam</i> as an innovative way to reveal the theme of PTBO Game Jam 04.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 18.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
-  "review_count": 361,
-  "review_positive": 175,
-  "review_percentage": 48.5,
-  "owner_estimate": 350000,
+  "classification": "tracked",
+  "review_count": 364,
+  "review_positive": 0,
+  "review_percentage": 48.9,
+  "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 21,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 367,
-      "review_percentage": 49.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 364,
       "review_percentage": 48.9,
       "ccu_estimate": 0,
       "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
-      "review_count": 361,
-      "review_percentage": 48.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

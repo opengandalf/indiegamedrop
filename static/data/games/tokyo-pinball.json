@@ -3,8 +3,8 @@
   "name": "Tokyo Pinball",
   "slug": "tokyo-pinball",
   "developer": "Rikiya Minami",
-  "publisher": "Rikiya Minami",
-  "release_date": "Jun 7, 2023",
+  "publisher": "",
+  "release_date": "2023-06-07",
   "price_usd": 2.39,
   "genres": [
     "Action",
@@ -23,35 +23,9 @@
   ],
   "short_description": "A game designed to introduce the fun of pinball. Whether you have never played pinball before or not, I hope you will enjoy playing it!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206820/header.jpg?t=1687774209",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206820/ss_03eb3b5d0d5e82c615770fb6437ca942a0010941.600x338.jpg?t=1687774209",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206820/ss_0545161746798849a2312b1b7ee555b6ccd356e5.600x338.jpg?t=1687774209",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206820/ss_aaa93837adb030dc6afea225e5e3383ae0051334.600x338.jpg?t=1687774209",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206820/ss_d16c960f169edf93223d57d73c7c86fc44f1ad3f.600x338.jpg?t=1687774209",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206820/ss_1eda21a4584d87de51ca71cd8a6d58862fa5baef.600x338.jpg?t=1687774209"
-  ],
-  "detailed_description": "A game designed to introduce the fun of pinball.<br>Whether you have never played pinball before or not, I hope you will enjoy playing it!<h2 class=\"bb_tag\" >🔰 Let's Play Pinball</h2>To make it easier for beginners to play, automatic slow motion, stamina-based kickback, and nudging are implemented. Tokyo Pinball is a good place to start if you have never played pinball.<h2 class=\"bb_tag\" >🎲 Features</h2>The game implements the following features that are familiar to pinball players. <br>Such as Jackpot, Nudging, Kickback, Extra Ball, Hold Bonus, Hurry Up, Score Multipliers, Ball Saver and Game End Bonus<h2 class=\"bb_tag\" >🙋 FAQ</h2><br><strong>Do you have multi-balls?</strong><br>No. I have tested multiball several times and decided that it is not suitable for this game for the following reasons:<br><ul class=\"bb_ul\"><li>the incompatibility of top view 2D pixel art and multiball.<br></li><li>frequently switch display layers (inside buildings) in the playfield.<br></li><li>slow motion and pauses occur when the player does not intend to.<br></li><li>narrow margins of the playfield designed for speedy single-ball play.</li></ul><br><strong>Are there multiple levels?</strong><br>No. I believe it is more important for players to play one level repeatedly and feel that their play improves than having multiple levels in this game. If additional levels are implemented, they will be sequels.<br><br><strong>My controller is not responding!</strong><br>Only XInput controllers are supported; you can play with other controllers by emulating keyboard input with a Steam client or other software.<br><br><strong>Do you have any information about the game rules or terms of use?</strong><br>Please check the \"README\" and \"GAMERULE\" files in the installation folder, or refer to the \"View the quick reference\" and \"View the manual\" on the store page.",
-  "about_the_game": "A game designed to introduce the fun of pinball.<br>Whether you have never played pinball before or not, I hope you will enjoy playing it!<h2 class=\"bb_tag\" >🔰 Let's Play Pinball</h2>To make it easier for beginners to play, automatic slow motion, stamina-based kickback, and nudging are implemented. Tokyo Pinball is a good place to start if you have never played pinball.<h2 class=\"bb_tag\" >🎲 Features</h2>The game implements the following features that are familiar to pinball players. <br>Such as Jackpot, Nudging, Kickback, Extra Ball, Hold Bonus, Hurry Up, Score Multipliers, Ball Saver and Game End Bonus<h2 class=\"bb_tag\" >🙋 FAQ</h2><br><strong>Do you have multi-balls?</strong><br>No. I have tested multiball several times and decided that it is not suitable for this game for the following reasons:<br><ul class=\"bb_ul\"><li>the incompatibility of top view 2D pixel art and multiball.<br></li><li>frequently switch display layers (inside buildings) in the playfield.<br></li><li>slow motion and pauses occur when the player does not intend to.<br></li><li>narrow margins of the playfield designed for speedy single-ball play.</li></ul><br><strong>Are there multiple levels?</strong><br>No. I believe it is more important for players to play one level repeatedly and feel that their play improves than having multiple levels in this game. If additional levels are implemented, they will be sequels.<br><br><strong>My controller is not responding!</strong><br>Only XInput controllers are supported; you can play with other controllers by emulating keyboard input with a Steam client or other software.<br><br><strong>Do you have any information about the game rules or terms of use?</strong><br>Please check the \"README\" and \"GAMERULE\" files in the installation folder, or refer to the \"View the quick reference\" and \"View the manual\" on the store page.",
-  "supported_languages": "English, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 4.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 26,
-  "review_positive": 22,
+  "review_positive": 0,
   "review_percentage": 84.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 22,
-      "review_percentage": 81.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 26,
       "review_percentage": 84.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Black Magic (C64/CPC/Spectrum)",
   "slug": "black-magic-c64cpcspectrum",
   "developer": "Datasoft, Inc.",
-  "publisher": "Pixel Games UK",
-  "release_date": "Apr 13, 2023",
+  "publisher": "",
+  "release_date": "2023-04-13",
   "price_usd": 2.49,
   "genres": [
     "Action",
@@ -19,37 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "In this side-scrolling fantasy game, originally released in 1987, take on the role of a lone hero, fighting to defeat an evil warlock. Utilise a wide range of magical spells. Collect experience points to upgrade your character, until you are ready to face Zahgrim!",
+  "short_description": "In this side-scrolling fantasy game, originally released in 1987, take on the role of a lone hero, fighting to defeat an evil warlock. Utilise a wide range of magical spells. Collect experience points",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2363660/header.jpg?t=1681376213",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2363660/ss_3acdf4603b590273b4c1e8b7f03d2e8f1f11c55d.600x338.jpg?t=1681376213",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2363660/ss_d74cf76374f1c9ca22fbb19be8f46adac8cd3220.600x338.jpg?t=1681376213",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2363660/ss_b44c486ac77b3e460daee9abd9755721e72589f4.600x338.jpg?t=1681376213",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2363660/ss_9fbc97315e53d4a770f15aa8f3d394e5cb63485d.600x338.jpg?t=1681376213",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2363660/ss_1269c93cd12c29f9437f46d48600650ad1fd9396.600x338.jpg?t=1681376213",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2363660/ss_85f669a13de11663075994cf32eb893522c47aa7.600x338.jpg?t=1681376213"
-  ],
-  "detailed_description": "Originally released in 1987 for home microcomputers, this tricky magical sidescroller from DataSoft saw players take on the role of a lone hero, fighting to defeat the evil Red Warlock, Zahgrim, and restore peace to the land. Now, relive those days in this remastered emulated version.<br><br>Contains the Commodore 64, Amstrad CPC, and ZX Spectrum versions of the game.<h2 class=\"bb_tag\" >Gameplay</h2>Journey across a side-scrolling environment, searching for the magical eyes of Anakar the Wise. Fight using arrows, and utilise a wide range of magical spells. Collect food to heal and avoid going hungry. Find scrolls to learn new spells. Collect experience points to upgrade your character, until you are ready to face the evil Zahgrim at his castle!<br><br><br>This enhanced version introduces a number of modern features to this retro classic, including:<br><br><ul class=\"bb_ul\"><li> Saving/loading the game at any point<br></li><li> Support for most modern game controllers<br></li><li> Full control remapping<br></li><li> Image scaling and smoothing options</li></ul>",
-  "about_the_game": "Originally released in 1987 for home microcomputers, this tricky magical sidescroller from DataSoft saw players take on the role of a lone hero, fighting to defeat the evil Red Warlock, Zahgrim, and restore peace to the land. Now, relive those days in this remastered emulated version.<br><br>Contains the Commodore 64, Amstrad CPC, and ZX Spectrum versions of the game.<h2 class=\"bb_tag\" >Gameplay</h2>Journey across a side-scrolling environment, searching for the magical eyes of Anakar the Wise. Fight using arrows, and utilise a wide range of magical spells. Collect food to heal and avoid going hungry. Find scrolls to learn new spells. Collect experience points to upgrade your character, until you are ready to face the evil Zahgrim at his castle!<br><br><br>This enhanced version introduces a number of modern features to this retro classic, including:<br><br><ul class=\"bb_ul\"><li> Saving/loading the game at any point<br></li><li> Support for most modern game controllers<br></li><li> Full control remapping<br></li><li> Image scaling and smoothing options</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Angra",
   "slug": "angra",
   "developer": "EnochianStudios",
-  "publisher": "EnochianStudios",
-  "release_date": "Apr 3, 2023",
+  "publisher": "",
+  "release_date": "2023-04-03",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -21,31 +21,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Angra is an open-world cooperative sandbox game for single and multiplayer. Players will experience the zombie apocalypse, they will have to deal with it to survive amid difficulties such as saving hostages, searching for resources, water and food, wild animals, survivors with weapons",
+  "short_description": "Angra is an open-world cooperative sandbox game for single and multiplayer. Players will experience the zombie apocalypse, they will have to deal with it to survive amid difficulties such as saving ho",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2094430/header.jpg?t=1693394624",
   "screenshots": [],
-  "detailed_description": "",
-  "about_the_game": "",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Online Co-op",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 4,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

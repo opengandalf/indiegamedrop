@@ -3,8 +3,8 @@
   "name": "Chestnut Grove",
   "slug": "chestnut-grove",
   "developer": "Philip Drobar",
-  "publisher": "Philip Drobar",
-  "release_date": "Jan 23, 2023",
+  "publisher": "",
+  "release_date": "2023-01-23",
   "price_usd": 1.99,
   "genres": [
     "Adventure",
@@ -20,33 +20,15 @@
   ],
   "short_description": "How do you go about your life when self-isolation has become the new normal? CHESTNUT GROVE is based on my personal experience of quarantine and features 100% real documents and notices.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2248590/header.jpg?t=1674489438",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2248590/ss_0bbb76bd8d7331da635c8b31052ffab37a7baf46.600x338.jpg?t=1674489438",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2248590/ss_bc942b60ed949c6c70e74cc1ab620076d4554130.600x338.jpg?t=1674489438",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2248590/ss_fb99ed34d3355643fc3e65ea0183db2c7c543c84.600x338.jpg?t=1674489438",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2248590/ss_20580b5224dee0dd768f7fb81fd3d5a200df204b.600x338.jpg?t=1674489438",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2248590/ss_5c6f18bb6b46ad18405013834596f81bcd0bbed1.600x338.jpg?t=1674489438"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >EXPERIENCE CONFINEMENT</h2>When your daily life is confined to a small area, you start to take a closer look at the familiar. See how the crisis impacts your usual environment.<br><br>CHESTNUT GROVE is a short first-person experience, created to document the early days of the COVID-19 pandemic through a personal lens.<br><br>This game is a <strong>short walking simulator with some light puzzles</strong> and can usually be completed within 30 minutes.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2248590/extras/32cad58a2c61fb143b7e362cbb8d5eeb.poster.avif?t=1674489438\" width=550 height=310 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2248590/extras/32cad58a2c61fb143b7e362cbb8d5eeb.webm?t=1674489438\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2248590/extras/32cad58a2c61fb143b7e362cbb8d5eeb.mp4?t=1674489438\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >FEATURES</h2><ul class=\"bb_ul\"><li>a short first-person experience portraying life during the early COVID-19 pandemic.<br></li><li>a focus on atmosphere and mood.<br></li><li>all documents featured within the game are authentic and taken from real life<br></li><li>light puzzles and environmental interactions.</li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" >EXPERIENCE CONFINEMENT</h2>When your daily life is confined to a small area, you start to take a closer look at the familiar. See how the crisis impacts your usual environment.<br><br>CHESTNUT GROVE is a short first-person experience, created to document the early days of the COVID-19 pandemic through a personal lens.<br><br>This game is a <strong>short walking simulator with some light puzzles</strong> and can usually be completed within 30 minutes.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2248590/extras/32cad58a2c61fb143b7e362cbb8d5eeb.poster.avif?t=1674489438\" width=550 height=310 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2248590/extras/32cad58a2c61fb143b7e362cbb8d5eeb.webm?t=1674489438\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2248590/extras/32cad58a2c61fb143b7e362cbb8d5eeb.mp4?t=1674489438\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >FEATURES</h2><ul class=\"bb_ul\"><li>a short first-person experience portraying life during the early COVID-19 pandemic.<br></li><li>a focus on atmosphere and mood.<br></li><li>all documents featured within the game are authentic and taken from real life<br></li><li>light puzzles and environmental interactions.</li></ul>",
-  "supported_languages": "English, German, Spanish - Spain",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +36,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

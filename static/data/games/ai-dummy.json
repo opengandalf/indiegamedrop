@@ -3,8 +3,8 @@
   "name": "AI Dummy",
   "slug": "ai-dummy",
   "developer": "Narko Games",
-  "publisher": "Narko Games",
-  "release_date": "Dec 31, 2018",
+  "publisher": "",
+  "release_date": "2018-12-31",
   "price_usd": 0.49,
   "genres": [
     "Action",
@@ -31,36 +31,15 @@
   ],
   "short_description": "Try to get out with all your strength and tell the whole of humanity that you have the same rights as a person and that you have consciousness!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744220/header.jpg?t=1546247067",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744220/ss_33bfaaa61864fa5f7c29b630cd4642b0fb1bedca.600x338.jpg?t=1546247067",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744220/ss_5aa6cb008b0064facce28d5131801cbb14e807d6.600x338.jpg?t=1546247067",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744220/ss_9d8f97d7b5590f6253c48f144b127d9ae98c7a1a.600x338.jpg?t=1546247067",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744220/ss_c2293b58ec1850def57373d316e2d16c4634af36.600x338.jpg?t=1546247067",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744220/ss_dcd729489b43e62a6db847e3ffe7d98e09c6391a.600x338.jpg?t=1546247067",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744220/ss_277ad6f2c56dc1db23c39a6341849e599d96505e.600x338.jpg?t=1546247067",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744220/ss_55a6f0571eb48950b9178b910aae29b682ffb707.600x338.jpg?t=1546247067",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744220/ss_067d644d921fd4227089749e3ec3ed061f04e303.600x338.jpg?t=1546247067",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744220/ss_6a6438cffb3e5ca1fab88a536c9411e8b0cf8cbf.600x338.jpg?t=1546247067"
-  ],
-  "detailed_description": "Story:<br>You play as a robot, which turned out to be faulty and you want to destroy it. But suddenly the robot Dummy regains consciousness. At first he does not understand that they want to destroy him, but then he guessed about it and tries to get out of this robotic society.<br>Try to get out with all your strength and tell the whole of humanity that you have the same rights as a person and that you have consciousness!<br><br>Features:<br><ul class=\"bb_ul\"> <li> All the music you hear in the game was written by a neural network.<br><ul class=\"bb_ul\"> <li> Very complex and unpredictable artificial intelligence, you once do not guess where the enemy will go.<br><ul class=\"bb_ul\"> <li> The complexity of passing, sometimes it is not clear when you are hacked and destroyed.<br><ul class=\"bb_ul\"> <li> Excellent graphics will delight your eyes.<br><ul class=\"bb_ul\"> <li> The worked sounds and music.<br><ul class=\"bb_ul\"> <li> I was inspired by the complexity of such an exciting game as DARK SOULS and I think you will not stand your nerve.</li></ul></li></ul></li></ul></li></ul></li></ul></li></ul>",
-  "about_the_game": "Story:<br>You play as a robot, which turned out to be faulty and you want to destroy it. But suddenly the robot Dummy regains consciousness. At first he does not understand that they want to destroy him, but then he guessed about it and tries to get out of this robotic society.<br>Try to get out with all your strength and tell the whole of humanity that you have the same rights as a person and that you have consciousness!<br><br>Features:<br><ul class=\"bb_ul\"> <li> All the music you hear in the game was written by a neural network.<br><ul class=\"bb_ul\"> <li> Very complex and unpredictable artificial intelligence, you once do not guess where the enemy will go.<br><ul class=\"bb_ul\"> <li> The complexity of passing, sometimes it is not clear when you are hacked and destroyed.<br><ul class=\"bb_ul\"> <li> Excellent graphics will delight your eyes.<br><ul class=\"bb_ul\"> <li> The worked sounds and music.<br><ul class=\"bb_ul\"> <li> I was inspired by the complexity of such an exciting game as DARK SOULS and I think you will not stand your nerve.</li></ul></li></ul></li></ul></li></ul></li></ul></li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 3.45,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 69,
-  "review_positive": 24,
+  "review_positive": 0,
   "review_percentage": 34.8,
   "owner_estimate": 35000,
   "ccu_estimate": 0,
@@ -68,26 +47,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 69,
-      "review_percentage": 36.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 69,
-      "review_percentage": 34.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 69,
       "review_percentage": 34.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

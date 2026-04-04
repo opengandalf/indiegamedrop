@@ -3,8 +3,8 @@
   "name": "Clean VR",
   "slug": "clean-vr",
   "developer": "LookPeople",
-  "publisher": "Ahlman Game Studio",
-  "release_date": "May 27, 2019",
+  "publisher": "",
+  "release_date": "2019-05-27",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -17,35 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Clean VR is a small scale relaxed VR experience for HTC Vive. Your mission should you choose to accept it is to organize the house before the time runs out! Or you could just let yourself loose and smash the piano with random objects.",
+  "short_description": "Clean VR is a small scale relaxed VR experience for HTC Vive. Your mission should you choose to accept it is to organize the house before the time runs out! Or you could just let yourself loose and sm",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1071090/header.jpg?t=1558950949",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1071090/ss_ffef71937ecc40d1d86b9a03c5f3d32ae8b09387.600x338.jpg?t=1558950949",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1071090/ss_b18680190d64784eff82a6477c04f9f0b63d1206.600x338.jpg?t=1558950949",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1071090/ss_b71799629b757daecfcbef6cfa19c90c9dcc4a03.600x338.jpg?t=1558950949",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1071090/ss_1f139c1ab838fcd1057f2893e5f416d73b7ea3f0.600x338.jpg?t=1558950949",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1071090/ss_6a4ee0ed6fb70b5a739992b56889eb4f19d02136.600x338.jpg?t=1558950949"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >About</h2>Clean VR is a small scale relaxed VR experience for HTC Vive. Your mission should you choose to accept it is to organize the house before the time runs out!<br>Or you could just let yourself loose and smash the piano with random objects.<br><br>Clean VR was created as a five week long school project by the game industry students of Ahlman Institute.<h2 class=\"bb_tag\" >Features</h2><strong><u>Free mode:</u></strong><br><ul class=\"bb_ul\"><li>Play the piano<br></li><li>Try to get your toy plane to fly<br></li><li>Throw objects around</li></ul><br><strong><u>Timed mode: </u></strong><br><ul class=\"bb_ul\"><li>Clean the room</li></ul><h2 class=\"bb_tag\" >Tools used</h2><strong><u>Programmers:</u></strong><br><ul class=\"bb_ul\"><li>C#<br></li><li>Visual Studio<br></li><li>Unity<br></li><li>Google<br></li><li></li></ul><strong><u>Visual Artists:</u></strong><br><ul class=\"bb_ul\"><li>Blender<br></li><li>Gimp<br></li><li>Unity</li></ul><br><strong><u>General:</u></strong><br><ul class=\"bb_ul\"><li>Audacity<br></li><li>Steam VRTK</li></ul><h2 class=\"bb_tag\" >Requirements</h2><ul class=\"bb_ul\"><li>HTC Vive<br></li><li>VR Capable PC<br></li><li></li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" >About</h2>Clean VR is a small scale relaxed VR experience for HTC Vive. Your mission should you choose to accept it is to organize the house before the time runs out!<br>Or you could just let yourself loose and smash the piano with random objects.<br><br>Clean VR was created as a five week long school project by the game industry students of Ahlman Institute.<h2 class=\"bb_tag\" >Features</h2><strong><u>Free mode:</u></strong><br><ul class=\"bb_ul\"><li>Play the piano<br></li><li>Try to get your toy plane to fly<br></li><li>Throw objects around</li></ul><br><strong><u>Timed mode: </u></strong><br><ul class=\"bb_ul\"><li>Clean the room</li></ul><h2 class=\"bb_tag\" >Tools used</h2><strong><u>Programmers:</u></strong><br><ul class=\"bb_ul\"><li>C#<br></li><li>Visual Studio<br></li><li>Unity<br></li><li>Google<br></li><li></li></ul><strong><u>Visual Artists:</u></strong><br><ul class=\"bb_ul\"><li>Blender<br></li><li>Gimp<br></li><li>Unity</li></ul><br><strong><u>General:</u></strong><br><ul class=\"bb_ul\"><li>Audacity<br></li><li>Steam VRTK</li></ul><h2 class=\"bb_tag\" >Requirements</h2><ul class=\"bb_ul\"><li>HTC Vive<br></li><li>VR Capable PC<br></li><li></li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.0,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 20,
-  "review_positive": 11,
+  "review_positive": 0,
   "review_percentage": 55.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 19,
-      "review_percentage": 57.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 20,
       "review_percentage": 55.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

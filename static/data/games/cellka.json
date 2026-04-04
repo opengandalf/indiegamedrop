@@ -3,8 +3,8 @@
   "name": "Cellka",
   "slug": "cellka",
   "developer": "Kcorbco",
-  "publisher": "Kcorbco",
-  "release_date": "Sep 1, 2024",
+  "publisher": "",
+  "release_date": "2024-09-01",
   "price_usd": 2.0,
   "genres": [
     "Casual",
@@ -19,32 +19,15 @@
   ],
   "short_description": "Cellka is a cute little merger game based around the cells of the human body! Merge cells together to try and get the high score before the entire body fills up!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3154600/header.jpg?t=1749610667",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3154600/ss_631b48eedb83bec5998429176906417b1b93a394.600x338.jpg?t=1749610667",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3154600/ss_b77c382ba471019324718c5389eb04b3b71e3966.600x338.jpg?t=1749610667",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3154600/ss_802fb7142c13df597cba4bd208637e4b9b4a76b4.600x338.jpg?t=1749610667",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3154600/ss_83da9324ac000e770ecd0a446d90f39f78812894.600x338.jpg?t=1749610667",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3154600/ss_88740c8003d909dc475d234265b123c8b49067bb.600x338.jpg?t=1749610667"
-  ],
-  "detailed_description": "Cellka is a casual puzzle game that teaches you about the cells of the body as you play it.<br />\r\nMerge together cells to get points and create new ones, make chain reactions with the 14 different types of cells you have at your disposal, and unlock the two special cell variants to spice up gameplay!<br />\r\nAll your unlocked cells and your high score will carry over between game sessions and you can read the bios of the cells you have unlocked in between your attempts at the high score!",
-  "about_the_game": "Cellka is a casual puzzle game that teaches you about the cells of the body as you play it.<br />\r\nMerge together cells to get points and create new ones, make chain reactions with the 14 different types of cells you have at your disposal, and unlock the two special cell variants to spice up gameplay!<br />\r\nAll your unlocked cells and your high score will carry over between game sessions and you can read the bios of the cells you have unlocked in between your attempts at the high score!",
-  "supported_languages": "English, French, Spanish - Spain, Portuguese - Brazil, Portuguese - Portugal, Spanish - Latin America",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 4,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

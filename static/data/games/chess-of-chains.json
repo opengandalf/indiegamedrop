@@ -3,8 +3,8 @@
   "name": "Chess of Chains",
   "slug": "chess-of-chains",
   "developer": "int22Creates",
-  "publisher": "int22Creates",
-  "release_date": "Jul 14, 2020",
+  "publisher": "",
+  "release_date": "2020-07-14",
   "price_usd": 4.99,
   "genres": [
     "Casual",
@@ -21,35 +21,15 @@
   ],
   "short_description": "A 2D turn-based strategy game. PUSH, PULL, CHAIN, SWING. Check out what's new on the game board!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325220/header.jpg?t=1594783317",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325220/ss_65c176ff74bfa9f01c78ae9741c18aa62a0de411.600x338.jpg?t=1594783317",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325220/ss_b908f3cc5cb68db6b362eae58251fcd6c717e8a7.600x338.jpg?t=1594783317",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325220/ss_4d4c959d3d1b9b43e34810ffc79ff1feb5d2f552.600x338.jpg?t=1594783317",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325220/ss_04ca9420353677f68ee6f2eb2203109ccd450d4d.600x338.jpg?t=1594783317",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325220/ss_7218062964895087a784e5c9fba14569b95895a3.600x338.jpg?t=1594783317",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325220/ss_c74583f9707b8f0fec9508b7ae2d3e13c0356121.600x338.jpg?t=1594783317"
-  ],
-  "detailed_description": "<strong>Chess of Chains</strong> is a <strong>2D turn-based strategy game</strong>. Control chess pieces to <i>tear down tight defense</i>, like never before.<br><br>The levels start with a \"stalemate\" full of hidden opportunities. Every action taken has the chance to change the game state in multiple ways, leading to more <i>creative</i> plays. It goes on and on from there.<br><br>Chess of Chains currently has 20 <i>hand-crafted</i> levels. Ranging from beginner levels to complex ones that need more thought. Together they capture the most interesting interactions within the set of mechanics.",
-  "about_the_game": "<strong>Chess of Chains</strong> is a <strong>2D turn-based strategy game</strong>. Control chess pieces to <i>tear down tight defense</i>, like never before.<br><br>The levels start with a \"stalemate\" full of hidden opportunities. Every action taken has the chance to change the game state in multiple ways, leading to more <i>creative</i> plays. It goes on and on from there.<br><br>Chess of Chains currently has 20 <i>hand-crafted</i> levels. Ranging from beginner levels to complex ones that need more thought. Together they capture the most interesting interactions within the set of mechanics.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

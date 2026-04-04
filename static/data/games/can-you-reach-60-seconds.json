@@ -3,8 +3,8 @@
   "name": "Can you reach 60 seconds",
   "slug": "can-you-reach-60-seconds",
   "developer": "Mike's Party",
-  "publisher": "Mike's Party",
-  "release_date": "Apr 11, 2025",
+  "publisher": "",
+  "release_date": "2025-04-11",
   "price_usd": 1.99,
   "genres": [
     "Casual",
@@ -19,32 +19,15 @@
   ],
   "short_description": "In this game you just have to wait 60 seconds to win, but every second, your chances of getting to the next one reduces. That's it! Can you reach 60 seconds?",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562180/925d8371eafff6fd6e6ef48811ba5a69cc8d9ffb/header.jpg?t=1745423577",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562180/bed3ba65d6ce121c84e9708a86b599a0c2654f22/ss_bed3ba65d6ce121c84e9708a86b599a0c2654f22.600x338.jpg?t=1745423577",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562180/e1842689cad2af7845b7358eff8b7590cf3a91ff/ss_e1842689cad2af7845b7358eff8b7590cf3a91ff.600x338.jpg?t=1745423577",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562180/89f70800e3fbf8264e75e6d11d56db38540d6ec9/ss_89f70800e3fbf8264e75e6d11d56db38540d6ec9.600x338.jpg?t=1745423577",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562180/f377022bb9d7ad953e84eaf7ce3a73b49a6868df/ss_f377022bb9d7ad953e84eaf7ce3a73b49a6868df.600x338.jpg?t=1745423577",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562180/5aa480da41fa710c3f52dc2a20c6e5c409cee317/ss_5aa480da41fa710c3f52dc2a20c6e5c409cee317.600x338.jpg?t=1745423577"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >In this game you just have to wait 60 seconds to win, but every second, your chances of getting to the next one reduces. That's it!<br>Can you reach 60 seconds?</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >In this game you just have to wait 60 seconds to win, but every second, your chances of getting to the next one reduces. That's it!<br>Can you reach 60 seconds?</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

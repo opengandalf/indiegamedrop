@@ -3,8 +3,8 @@
   "name": "Blobby Tennis",
   "slug": "blobby-tennis",
   "developer": "SlinDev",
-  "publisher": "SlinDev",
-  "release_date": "May 12, 2017",
+  "publisher": "",
+  "release_date": "2017-05-12",
   "price_usd": 0.0,
   "genres": [
     "Indie",
@@ -22,34 +22,15 @@
   ],
   "short_description": "Standing in a relaxing beach scene, you are controlling a racket and a ball. You can do tricks, play the ball back and forth over the net with Blobby or outplay him to score points.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/628530/header.jpg?t=1503866341",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/628530/ss_6783f551048f7dac9965739f359ff7669692861e.600x338.jpg?t=1503866341",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/628530/ss_547bccd6e0d79b8928c4184245c9da7dc0883371.600x338.jpg?t=1503866341",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/628530/ss_9d659978cef719bace55c36e64c71a583a8b813a.600x338.jpg?t=1503866341",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/628530/ss_15952038472511829b61afaa1e815b63c0214f6f.600x338.jpg?t=1503866341",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/628530/ss_3b2c98ec1532bd28a90c5b9f52dc30155086eca5.600x338.jpg?t=1503866341"
-  ],
-  "detailed_description": "In <i>Blobby Tennis</i> you are standing in a relaxing beach scene, controlling a tennis racket and ball. You can do tricks, play the ball back and forth over the net with Blobby or outplay him to score points. Because beach sand isn't very bouncy this is obviously no real tennis, but open ended play with a ball without fixed rules or goals.",
-  "about_the_game": "In <i>Blobby Tennis</i> you are standing in a relaxing beach scene, controlling a tennis racket and ball. You can do tricks, play the ball back and forth over the net with Blobby or outplay him to score points. Because beach sand isn't very bouncy this is obviously no real tennis, but open ended play with a ball without fixed rules or goals.",
-  "supported_languages": "English<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
+  "review_velocity_7d": 3.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 62,
-  "review_positive": 46,
+  "review_positive": 0,
   "review_percentage": 74.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +38,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 59,
-      "review_percentage": 74.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 62,
       "review_percentage": 74.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

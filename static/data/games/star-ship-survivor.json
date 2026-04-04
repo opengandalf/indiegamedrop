@@ -3,8 +3,8 @@
   "name": "Star Ship Survivor",
   "slug": "star-ship-survivor",
   "developer": "DogGottenGame",
-  "publisher": "DogGottenGame",
-  "release_date": "Dec 20, 2023",
+  "publisher": "",
+  "release_date": "2023-12-20",
   "price_usd": 0.49,
   "genres": [
     "Indie",
@@ -17,34 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Player move ship and dock with blocks. This docking will be on contacted position, so your ship can be ugly shap. But if your control was good at moving ship, your ship will be cool. Try this trip and survive. And if you can, try making cool shape ship.",
+  "short_description": "Player move ship and dock with blocks. This docking will be on contacted position, so your ship can be ugly shap. But if your control was good at moving ship, your ship will be cool. Try this trip and",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2714510/header.jpg?t=1713355049",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2714510/ss_d06127bb1c8e5ca6926ca0b807c0d522f44bdc1d.600x338.jpg?t=1713355049",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2714510/ss_11fe09297256eec83997eed041665ad460180aea.600x338.jpg?t=1713355049",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2714510/ss_80735f058ffced1803525431c264164cf07ce5f2.600x338.jpg?t=1713355049",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2714510/ss_d582e764c22556a41de017d34f8a1dfb394c8b85.600x338.jpg?t=1713355049",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2714510/ss_0614dec7546c2a11c5fd72135f10226a60b514a4.600x338.jpg?t=1713355049"
-  ],
-  "detailed_description": "When player start survive, can move with igniting engines. Ship can move all direction(using arrow keys or 'w,a,s,d' keys) but can't rotate. When ships contact with other blocks(not enemies's blocks) this blocks will dock with player's ship. Blocks are 3 types, protect, attack, support. Protect type block will protect from enemy's attack. Attack type block will attack enemy's block automatically. And certain timed, station will generate. Ship will attack this station too and if station destroyed, some blocks will generate randomly. Support type blocks are just support ship automatically.<br />\r\nCertain timed, enemy boss will generate. This enemy is very powerful. If your ship destroyed, don't worry. Your surviving action will upgrade your level and this level will reinforce your start block mass.<br />\r\nSurvive. You can do it.",
-  "about_the_game": "When player start survive, can move with igniting engines. Ship can move all direction(using arrow keys or 'w,a,s,d' keys) but can't rotate. When ships contact with other blocks(not enemies's blocks) this blocks will dock with player's ship. Blocks are 3 types, protect, attack, support. Protect type block will protect from enemy's attack. Attack type block will attack enemy's block automatically. And certain timed, station will generate. Ship will attack this station too and if station destroyed, some blocks will generate randomly. Support type blocks are just support ship automatically.<br />\r\nCertain timed, enemy boss will generate. This enemy is very powerful. If your ship destroyed, don't worry. Your surviving action will upgrade your level and this level will reinforce your start block mass.<br />\r\nSurvive. You can do it.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 5,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 20.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 20.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 20.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

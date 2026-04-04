@@ -3,8 +3,8 @@
   "name": "DOOM Eternal: idStudio",
   "slug": "doom-eternal-idstudio",
   "developer": "id Software",
-  "publisher": "Bethesda Softworks",
-  "release_date": "Aug 8, 2024",
+  "publisher": "",
+  "release_date": "2024-08-08",
   "price_usd": 0.0,
   "genres": [
     "Free To Play"
@@ -17,31 +17,15 @@
   ],
   "short_description": "",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545650/header.jpg?t=1723157009",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545650/ss_6f54e2202342bc610861c94a2d24788ee9fc8147.600x338.jpg?t=1723157009",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545650/ss_72aa9727a99b8fd31d6ebcae82319120d325a724.600x338.jpg?t=1723157009",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545650/ss_852d2fe596e54e7249f51d3781d5c6919447739f.600x338.jpg?t=1723157009",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545650/ss_aa24f39d796006f5b0476944345b56e1651d5f72.600x338.jpg?t=1723157009",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2545650/ss_38a5b6138993f993cd18b29bfa9fefb931164a5f.600x338.jpg?t=1723157009"
-  ],
-  "detailed_description": "",
-  "about_the_game": "",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 6.3500000000000005,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 127,
-  "review_positive": 120,
+  "review_positive": 0,
   "review_percentage": 94.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -49,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 100,
-      "review_percentage": 95.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 127,
       "review_percentage": 94.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

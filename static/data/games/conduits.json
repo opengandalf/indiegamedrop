@@ -3,8 +3,8 @@
   "name": "Conduits",
   "slug": "conduits",
   "developer": "Conduits Development Team",
-  "publisher": "Conduits Development Team",
-  "release_date": "Aug 16, 2024",
+  "publisher": "",
+  "release_date": "2024-08-16",
   "price_usd": 0.0,
   "genres": [
     "Free To Play",
@@ -19,31 +19,15 @@
   ],
   "short_description": "Nostalgic Screensaver Simulator - With Teapots!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2923380/header.jpg?t=1736511465",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2923380/ss_6ee18d634c3b8cf5cca004d305812e56cceea663.600x338.jpg?t=1736511465",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2923380/ss_0810fd3d52bf9052e51c52b5375f8af2050c66c8.600x338.jpg?t=1736511465",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2923380/ss_6a875871ed1935a3be6861309644ce22c6d5e0e1.600x338.jpg?t=1736511465",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2923380/ss_ff0f79ff637750ef784e1794d72319393452cc36.600x338.jpg?t=1736511465",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2923380/ss_e3f270dd9acbd7058fe64f7b7fc12e1ec332274e.600x338.jpg?t=1736511465",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2923380/ss_9732732ea6594df7c38ac7ffcd4372bb73990c6a.600x338.jpg?t=1736511465",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2923380/ss_932b3f58d8ec070685121039935ce484a10e0e51.600x338.jpg?t=1736511465"
-  ],
-  "detailed_description": "Conduits allows you to create nostalgic and original scenes full of colorful pipes using a custom GUI.<br />\r\n<br />\r\nSave presets, modify the environment, choose and tailor camera modes, and of course customize the conduits!<br />\r\n<br />\r\nUnfortunately due to Windows limitations you cannot set your screensaver with this program. However, if you own Wallpaper Engine you can set one of your presets to be your wallpaper! Check out the guides page for a detailed tutorial!",
-  "about_the_game": "Conduits allows you to create nostalgic and original scenes full of colorful pipes using a custom GUI.<br />\r\n<br />\r\nSave presets, modify the environment, choose and tailor camera modes, and of course customize the conduits!<br />\r\n<br />\r\nUnfortunately due to Windows limitations you cannot set your screensaver with this program. However, if you own Wallpaper Engine you can set one of your presets to be your wallpaper! Check out the guides page for a detailed tutorial!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.65,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 13,
-  "review_positive": 12,
+  "review_positive": 0,
   "review_percentage": 92.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 13,
       "review_percentage": 92.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

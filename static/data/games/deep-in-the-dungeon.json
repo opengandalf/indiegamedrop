@@ -3,8 +3,8 @@
   "name": "Deep in the Dungeon",
   "slug": "deep-in-the-dungeon",
   "developer": "Zemon",
-  "publisher": "Zemon",
-  "release_date": "Sep 11, 2024",
+  "publisher": "",
+  "release_date": "2024-09-11",
   "price_usd": 2.99,
   "genres": [
     "Simulation"
@@ -15,35 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "A roguelike game where players explore a mysterious dungeon. Monsters and items are randomly placed each time, adding unique challenges to every playthrough. Your goal is to find the way out, using your skills and strategy to fight and survive",
+  "short_description": "A roguelike game where players explore a mysterious dungeon. Monsters and items are randomly placed each time, adding unique challenges to every playthrough. Your goal is to find the way out, using yo",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185260/header.jpg?t=1726661035",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185260/ss_3bac143c7697f502517bfe405d3ed1354ef4ba60.600x338.jpg?t=1726661035",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185260/ss_64a604d2960f442c0c19f0509595bda136081c29.600x338.jpg?t=1726661035",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185260/ss_728b61316f556153e895d12a48e3e4a49453c7f4.600x338.jpg?t=1726661035",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185260/ss_f1e8691c4230aa9aabf4e02e138e35288c59df2b.600x338.jpg?t=1726661035",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185260/ss_93e405cfd7b45cbb3a89751ea9f2a2240da89044.600x338.jpg?t=1726661035"
-  ],
-  "detailed_description": "<strong>About This Game</strong><br>A roguelike game that challenges players with random placement of monsters and items. Enter a mysterious dungeon filled with dangers and secrets. Every playthrough offers fresh experiences as monsters and items are placed differently each time. Additionally, players can unlock new characters and upgrade skills to improve their chances of survival in this challenging dungeon.<br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li>Unlock a variety of characters<br></li><li>Randomized monsters and items in each run<br></li><li>Shop system and skill upgrades<br></li><li>Challenging and unique adventures every time</li></ul>",
-  "about_the_game": "<strong>About This Game</strong><br>A roguelike game that challenges players with random placement of monsters and items. Enter a mysterious dungeon filled with dangers and secrets. Every playthrough offers fresh experiences as monsters and items are placed differently each time. Additionally, players can unlock new characters and upgrade skills to improve their chances of survival in this challenging dungeon.<br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li>Unlock a variety of characters<br></li><li>Randomized monsters and items in each run<br></li><li>Shop system and skill upgrades<br></li><li>Challenging and unique adventures every time</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.8,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 16,
-  "review_positive": 14,
+  "review_positive": 0,
   "review_percentage": 87.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 15,
-      "review_percentage": 86.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 16,
       "review_percentage": 87.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

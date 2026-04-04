@@ -3,8 +3,8 @@
   "name": "Player One",
   "slug": "player-one",
   "developer": "Prime2Gold",
-  "publisher": "Prime2Gold",
-  "release_date": "Oct 10, 2019",
+  "publisher": "",
+  "release_date": "2019-10-10",
   "price_usd": 1.99,
   "genres": [
     "Indie",
@@ -19,32 +19,9 @@
   ],
   "short_description": "3D Game, Thirdperson Platformer",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1160190/header.jpg?t=1570744503",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1160190/ss_71c28a4c406e4e367843a2ad9b0b6de2e12d420b.600x338.jpg?t=1570744503",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1160190/ss_523eeb03e4ed799a868892183644499011bd0cd4.600x338.jpg?t=1570744503",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1160190/ss_3828d2a6c12db756c4aa856628f4d8d3a4dbbb90.600x338.jpg?t=1570744503",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1160190/ss_da2be3e1e15e3bf725574eafae545a45e19c8121.600x338.jpg?t=1570744503",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1160190/ss_cd21d3ffee50b65329f8796308584943e1a66cb1.600x338.jpg?t=1570744503"
-  ],
-  "detailed_description": "Player One is a new 3D game where you take control of a Third Person Character and to pass challanges until the End.<br />\r\n<br />\r\nThis is an early access release. While this version of Player One includes 18 Levels and a Special easter egg.",
-  "about_the_game": "Player One is a new 3D game where you take control of a Third Person Character and to pass challanges until the End.<br />\r\n<br />\r\nThis is an early access release. While this version of Player One includes 18 Levels and a Special easter egg.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 3,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

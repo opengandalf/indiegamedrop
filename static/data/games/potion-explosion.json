@@ -3,8 +3,8 @@
   "name": "Potion Explosion",
   "slug": "potion-explosion",
   "developer": "Studio Clangore",
-  "publisher": "Horrible Guild",
-  "release_date": "May 16, 2018",
+  "publisher": "",
+  "release_date": "2018-05-16",
   "price_usd": 6.99,
   "genres": [
     "Casual",
@@ -18,68 +18,23 @@
     "windows",
     "mac"
   ],
-  "short_description": "The official adaptation of Potion Explosion, the award-winning puzzle board game. Explode ingredients, trigger chain reactions and gather it all in your caldron to craft powerful mixtures with wacky effects! May the best wizard win!",
+  "short_description": "The official adaptation of Potion Explosion, the award-winning puzzle board game. Explode ingredients, trigger chain reactions and gather it all in your caldron to craft powerful mixtures with wacky e",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/788420/header.jpg?t=1731075937",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/788420/ss_763c24a96246922aae5c80826bc732c2dff9128c.600x338.jpg?t=1731075937",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/788420/ss_fd429685efae6229cd12835b42121e6ab89b4ed7.600x338.jpg?t=1731075937",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/788420/ss_754d78920e6f09c8df0739602d3e461a1ba5f227.600x338.jpg?t=1731075937",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/788420/ss_15e61113f58840539fc45bab73c832cc4fca03d8.600x338.jpg?t=1731075937",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/788420/ss_83aa7657fcbde8092a42ae0ee5d0ff3a75feb5e3.600x338.jpg?t=1731075937",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/788420/ss_68c82ffe38298c7e49afb8840dfd1e4cf1bf2045.600x338.jpg?t=1731075937"
-  ],
-  "detailed_description": "<h1>ATTENTION</h1><p>Online functionality is temporarily suspended because our provider has ceased operation. A new online integration is in development and will be released soon!\r\n\r\nThere is an issue that prevents Potion Explosion to load because it tries to connect to the servers when the game starts. To restore the offline functionality follow these steps:\r\n1. Switch Steam to offline mode\r\n2. Turn off internet connection on your Windows/Mac\r\n3. Start the game\r\n4. Enter the Online section and try to log in with your credentials\r\n5. Cancel the login process\r\n6. Close the game\r\n7. Enable internet connection and switch steam to online mode\r\n8. Start the game again</p><br><h1>About the Game</h1>The official adaptation of Potion Explosion, the award-winning puzzle board game.\r\nPlay this game solo or against players from all over the world with Solo, Online and Local Pass & Play modes!\r\n\r\nIn Potion Explosion, you will explode ingredients, trigger chain reactions and gather it all in your caldron. You will then use your hard-earned unicorn tears, fairy dandruff and whatnot to craft powerful mixtures with wacky effects! May the best wizard win! \r\n\r\nHOW TO PLAY\r\nAt the beginning of the game, each player is given potions to complete with specific effects and ingredients. You will have to select ingredients in the dispenser; once your selected ingredient is removed, the ingredients above will slide down. If two ingredients of the same nature collide, they explode and you get them too! You can then use your ingredients to cook up your potions. You only have a limited tank space to store remaining ingredients from one turn to another, so choose carefully! Once a potion is completed, you score points, get to use its powerful effect and pick another potion to craft. The wizard with the most points wins!\r\n\r\nPREPARE FOR THE POTIONS EXAM IN SOLO\r\nPlay against up to 3 adjustable AIs to sharpen your potion crafting skills!\r\n\r\nOR PROVE YOUR MASTERY IN MULTIPLAYER MODE!\r\nPlay against wizards from all over the world online and get to the top of the worldwide leaderboard!\r\n\r\nTo sum up, the game features include:\r\n• The magical universe of the board game, fleshed out and digitally enhanced\r\n• A tactical gameplay, allowing for different playstyles and strategies\r\n• A Solo mode against up to 3 adjustable AIs\r\n• An online Multiplayer Mode with a worldwide leaderboard",
-  "about_the_game": "The official adaptation of Potion Explosion, the award-winning puzzle board game.<br />\r\nPlay this game solo or against players from all over the world with Solo, Online and Local Pass & Play modes!<br />\r\n<br />\r\nIn Potion Explosion, you will explode ingredients, trigger chain reactions and gather it all in your caldron. You will then use your hard-earned unicorn tears, fairy dandruff and whatnot to craft powerful mixtures with wacky effects! May the best wizard win! <br />\r\n<br />\r\nHOW TO PLAY<br />\r\nAt the beginning of the game, each player is given potions to complete with specific effects and ingredients. You will have to select ingredients in the dispenser; once your selected ingredient is removed, the ingredients above will slide down. If two ingredients of the same nature collide, they explode and you get them too! You can then use your ingredients to cook up your potions. You only have a limited tank space to store remaining ingredients from one turn to another, so choose carefully! Once a potion is completed, you score points, get to use its powerful effect and pick another potion to craft. The wizard with the most points wins!<br />\r\n<br />\r\nPREPARE FOR THE POTIONS EXAM IN SOLO<br />\r\nPlay against up to 3 adjustable AIs to sharpen your potion crafting skills!<br />\r\n<br />\r\nOR PROVE YOUR MASTERY IN MULTIPLAYER MODE!<br />\r\nPlay against wizards from all over the world online and get to the top of the worldwide leaderboard!<br />\r\n<br />\r\nTo sum up, the game features include:<br />\r\n• The magical universe of the board game, fleshed out and digitally enhanced<br />\r\n• A tactical gameplay, allowing for different playstyles and strategies<br />\r\n• A Solo mode against up to 3 adjustable AIs<br />\r\n• An online Multiplayer Mode with a worldwide leaderboard",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Polish, Portuguese - Brazil, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Shared/Split Screen PvP",
-    "Cross-Platform Multiplayer",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 118,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 264,
-  "review_positive": 223,
+  "review_positive": 0,
   "review_percentage": 84.5,
   "owner_estimate": 35000,
-  "ccu_estimate": 3,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 258,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 253,
-      "review_percentage": 84.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 264,
       "review_percentage": 84.5,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
-      "review_count": 264,
-      "review_percentage": 84.5,
-      "ccu_estimate": 3,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

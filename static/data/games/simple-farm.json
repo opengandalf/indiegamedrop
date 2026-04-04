@@ -3,8 +3,8 @@
   "name": "Simple Farm",
   "slug": "simple-farm",
   "developer": "Charmeager",
-  "publisher": "Charmeager",
-  "release_date": "Apr 1, 2020",
+  "publisher": "",
+  "release_date": "2020-04-01",
   "price_usd": 0.0,
   "genres": [
     "Indie"
@@ -17,31 +17,9 @@
   ],
   "short_description": "Craft lights and grow your farm after a cataclysmic event wipes out the light.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1264900/header.jpg?t=1729881485",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1264900/ss_04cb36049fbfdf27f4f73ab87b0bc69f17385350.600x338.jpg?t=1729881485",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1264900/ss_abebfaed9a06938d711ea90a37b2f25ff73bf4bb.600x338.jpg?t=1729881485",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1264900/ss_65c51277c1aa9a2c2d1239b9366e47eb81282509.600x338.jpg?t=1729881485",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1264900/ss_d3a7a1b05d9b1f60376e77a0fa38f1c48a5061aa.600x338.jpg?t=1729881485",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1264900/ss_44b0b0f9d591b62c98df2f4c74fff5c992a11e53.600x338.jpg?t=1729881485"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Start off on a small island in the middle of nowhere. A terrible event has wiped out the light.  </p><p class=\"bb_paragraph\" >As the island slowly expands, you’ll have to build lights to grow crops. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Build guns to ward off the enemies that are attracted to your light.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Start off on a small island in the middle of nowhere. A terrible event has wiped out the light.  </p><p class=\"bb_paragraph\" >As the island slowly expands, you’ll have to build lights to grow crops. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Build guns to ward off the enemies that are attracted to your light.</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 12,
-  "review_positive": 11,
+  "review_positive": 0,
   "review_percentage": 91.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -49,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 10,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 12,
       "review_percentage": 91.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

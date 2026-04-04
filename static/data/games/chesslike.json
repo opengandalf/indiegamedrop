@@ -3,8 +3,8 @@
   "name": "Chesslike",
   "slug": "chesslike",
   "developer": "Bad Habit Gaming",
-  "publisher": "Bad Habit Gaming",
-  "release_date": "Apr 30, 2024",
+  "publisher": "",
+  "release_date": "2024-04-30",
   "price_usd": 9.99,
   "genres": [
     "Casual",
@@ -24,38 +24,15 @@
   ],
   "short_description": "A new outlook on the classic strategy game, battle your way to winning.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2655760/header.jpg?t=1714465656",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2655760/ss_ad407106f4add624801a219724a86cf7b3a5899b.600x338.jpg?t=1714465656",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2655760/ss_340c8bda27ff8e3e9a23c0b99c90ff5d651b59b4.600x338.jpg?t=1714465656",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2655760/ss_0447f0708f3ff1ccaf48f983c265d6923720137a.600x338.jpg?t=1714465656",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2655760/ss_916482b47cd1734a94d5d6abab2f673abafd8f5b.600x338.jpg?t=1714465656",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2655760/ss_b986165865fa793bb93a59330a0be79d27fc67b2.600x338.jpg?t=1714465656"
-  ],
-  "detailed_description": "Introducing an innovative new iteration of the classic strategy game, Chesslike provides a new outlook on the strategy of battle.  You will have to adapt your chess strategies, as pieces will not immediately be captured and the opposing King must be defeated in battle in order to win.  This game takes the classic Chess board game and adds individual stats to each piece for Health, Attack and Defense.  The movement is the same, but the altered strategy makes for a whole new experience.  Battle your friends or take on the AI.",
-  "about_the_game": "Introducing an innovative new iteration of the classic strategy game, Chesslike provides a new outlook on the strategy of battle.  You will have to adapt your chess strategies, as pieces will not immediately be captured and the opposing King must be defeated in battle in order to win.  This game takes the classic Chess board game and adds individual stats to each piece for Health, Attack and Defense.  The movement is the same, but the altered strategy makes for a whole new experience.  Battle your friends or take on the AI.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Shared/Split Screen PvP",
-    "Shared/Split Screen",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.75,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 15,
-  "review_positive": 15,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -63,19 +40,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 15,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 15,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

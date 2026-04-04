@@ -3,8 +3,8 @@
   "name": "RollingBall",
   "slug": "rollingball",
   "developer": "BluePrinting",
-  "publisher": "BluePrinting",
-  "release_date": "Sep 21, 2023",
+  "publisher": "",
+  "release_date": "2023-09-21",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -19,32 +19,7 @@
   ],
   "short_description": "This is a physical simulation rolling ball game. You will control the rolling ball to move to the destination across platforms.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765240/header.jpg?t=1695346144",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765240/ss_14c711f61dae8c19e24ead7261c01c94186b802f.600x338.jpg?t=1695346144",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765240/ss_8f2efc10b2febfb895112f6d675b39024247ab24.600x338.jpg?t=1695346144",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765240/ss_f7138423175e900a0e84c4b40e6609e874576c6b.600x338.jpg?t=1695346144",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765240/ss_69a111091ed4ab42699ae00af05e9702b63d87be.600x338.jpg?t=1695346144",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765240/ss_5f5655db31123a2a6104dc7afe083f563854259d.600x338.jpg?t=1695346144",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765240/ss_706d62a5e27dcba6b087deef77481a36ec96255e.600x338.jpg?t=1695346144",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1765240/ss_93a66992e079ac56a28e6520d7ebeb415fe4131b.600x338.jpg?t=1695346144"
-  ],
-  "detailed_description": "RollingBall is a physical simulation rolling ball game. The idea was from Hamster Ball.<br />\r\nYou will control the rolling ball to move to the destination across platforms.<br />\r\nYou can move with WASD, jump with spacebar, hook with left click, super jump with right click, use items with Q,and more and more....",
-  "about_the_game": "RollingBall is a physical simulation rolling ball game. The idea was from Hamster Ball.<br />\r\nYou will control the rolling ball to move to the destination across platforms.<br />\r\nYou can move with WASD, jump with spacebar, hook with left click, super jump with right click, use items with Q,and more and more....",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 1,
   "review_positive": 0,
   "review_percentage": 0.0,
@@ -54,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Battle for Esturia",
   "slug": "battle-for-esturia",
   "developer": "Esturia Games",
-  "publisher": "Esturia Games",
-  "release_date": "Mar 19, 2021",
+  "publisher": "",
+  "release_date": "2021-03-19",
   "price_usd": 9.99,
   "genres": [
     "RPG",
@@ -20,36 +20,15 @@
   ],
   "short_description": "A turn-based strategy RPG featuring an open world filled with monsters, dungeons, and interesting characters.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1514780/header.jpg?t=1616339220",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1514780/ss_db95e1e10e655abbb723400a769c0a08c572a5c2.600x338.jpg?t=1616339220",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1514780/ss_caa4589d84cd55c921daf09918e6d08d927dde3a.600x338.jpg?t=1616339220",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1514780/ss_8ff1f276a8a11b524c1230caec68b2c2b40360a9.600x338.jpg?t=1616339220",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1514780/ss_65e8fcfa0817c5ac7212585c7b607e5ea41191d0.600x338.jpg?t=1616339220",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1514780/ss_9b0d8f43114620ea1c68ed300e2a306d9a78bc87.600x338.jpg?t=1616339220",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1514780/ss_67d4915f2b8b9ec032358bea8e97dd1a664aefcb.600x338.jpg?t=1616339220",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1514780/ss_acefc9e54bcc14b256e2f5e294d23d0d31f59960.600x338.jpg?t=1616339220",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1514780/ss_bc19450036262b9992ca089e14be7fbd75a8d17a.600x338.jpg?t=1616339220",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1514780/ss_71abaebbb64163a0f4f0191d88dd92df0491b904.600x338.jpg?t=1616339220"
-  ],
-  "detailed_description": "Battle for Esturia is a turn-based strategy RPG featuring an open world filled with monsters, dungeons, and interesting characters. You control the fate of your party as they journey across a dangerous land in an attempt to retake the throne from an undead king. You will be faced with many difficult choices along the way and your actions will determine the challenges you face, the battles you fight, and the destiny of your people.<br><br>Key Features:<br><ul class=\"bb_ul\">    <li>Explore a large open world filled with side quests and interesting characters.<br>    </li><li>Recruit a party of up to six companions, each with a unique character class.<br>    </li><li>Battle enemies in a tactical grid-based combat system.<br>    </li><li>Learn over 30 unique skills and abilities.<br>    </li><li>Make decisions that have important consequences.</li></ul>",
-  "about_the_game": "Battle for Esturia is a turn-based strategy RPG featuring an open world filled with monsters, dungeons, and interesting characters. You control the fate of your party as they journey across a dangerous land in an attempt to retake the throne from an undead king. You will be faced with many difficult choices along the way and your actions will determine the challenges you face, the battles you fight, and the destiny of your people.<br><br>Key Features:<br><ul class=\"bb_ul\">    <li>Explore a large open world filled with side quests and interesting characters.<br>    </li><li>Recruit a party of up to six companions, each with a unique character class.<br>    </li><li>Battle enemies in a tactical grid-based combat system.<br>    </li><li>Learn over 30 unique skills and abilities.<br>    </li><li>Make decisions that have important consequences.</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 2.0500000000000003,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 41,
-  "review_positive": 39,
+  "review_positive": 0,
   "review_percentage": 95.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +36,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 40,
-      "review_percentage": 95.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 41,
       "review_percentage": 95.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

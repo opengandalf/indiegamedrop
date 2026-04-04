@@ -3,8 +3,8 @@
   "name": "Jelly in the sky",
   "slug": "jelly-in-the-sky",
   "developer": "Zolden Games",
-  "publisher": "Zolden Games",
-  "release_date": "Dec 11, 2017",
+  "publisher": "",
+  "release_date": "2017-12-11",
   "price_usd": 9.99,
   "genres": [
     "Action"
@@ -15,66 +15,23 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Experimental approach to 2d artillery genre: everything is realistically destructible, because the game world is a physics simulation. There are no sprites in the game. All you see is made of dynamically simulated matter, and thus can be destroyed. This innovative approach opens the new layer of physics based gameplay features.",
+  "short_description": "Experimental approach to 2d artillery genre: everything is realistically destructible, because the game world is a physics simulation. There are no sprites in the game. All you see is made of dynamica",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593530/header.jpg?t=1527024952",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593530/ss_4d8fd68685a6254f198ba091a4a024348f0d1850.600x338.jpg?t=1527024952",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593530/ss_c355d8993b3cea1a38d1912f2bf903324605c416.600x338.jpg?t=1527024952",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593530/ss_cb886c18634f0703ef50fd5860f94a20c326d91d.600x338.jpg?t=1527024952",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593530/ss_a189a0357f21a0c1d5976a52eb43553a85f8c1e6.600x338.jpg?t=1527024952",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593530/ss_6d33281ddfa03a8ba5298552aec0cca017f03d45.600x338.jpg?t=1527024952"
-  ],
-  "detailed_description": "This is an innovative, physically realistic 2d artillery game. The whole game world - is a physics simulation! But on a deeper level than you ever seen in games. There's no sprites, no constantly shaped physical blocks. Everything is made of dynamically and realistically permutating matter.<br />\r\n<br />\r\nTens of thousands of tiny interacting particles form this dynamic matter, which is being simulated in real time. Everything in the game is made of this matter, no excuses: ground, player characters, enemies, projectiles, bonuses. And everything can be blown up in a realistic way.<br />\r\n<br />\r\nThe calculations required to run this simulation in real time are enormous, but luckily we have supercomputers inside our computers. Modern videocards provide enough computational power to run this kind of simulation in a real time. Computational performance of GPU is usually 50-100 times higher than a CPU can provide. And this whole power is used to calculate the physics of the game world. So, the game literally runs on GPU instead of CPU.<br />\r\n<br />\r\nOn the big picture it is an alternative branch of games' evolution. The games used to evolve towards better graphics. My game has rather simple graphics, but is pretty advanced on physics level. From the different point of view, modern technologies like VR or AR bring virtuality to reality. While physics simulations bring reality to virtuality.<br />\r\n<br />\r\nThis approach is innovative technically, but also opens new physics related gameplay mechanics. Some are already implemented. But collective imagination is wider than individual one. So, I invite the players to play and share their ideas and thoughts. Together we can make the gameplay unique and exclusive.",
-  "about_the_game": "This is an innovative, physically realistic 2d artillery game. The whole game world - is a physics simulation! But on a deeper level than you ever seen in games. There's no sprites, no constantly shaped physical blocks. Everything is made of dynamically and realistically permutating matter.<br />\r\n<br />\r\nTens of thousands of tiny interacting particles form this dynamic matter, which is being simulated in real time. Everything in the game is made of this matter, no excuses: ground, player characters, enemies, projectiles, bonuses. And everything can be blown up in a realistic way.<br />\r\n<br />\r\nThe calculations required to run this simulation in real time are enormous, but luckily we have supercomputers inside our computers. Modern videocards provide enough computational power to run this kind of simulation in a real time. Computational performance of GPU is usually 50-100 times higher than a CPU can provide. And this whole power is used to calculate the physics of the game world. So, the game literally runs on GPU instead of CPU.<br />\r\n<br />\r\nOn the big picture it is an alternative branch of games' evolution. The games used to evolve towards better graphics. My game has rather simple graphics, but is pretty advanced on physics level. From the different point of view, modern technologies like VR or AR bring virtuality to reality. While physics simulations bring reality to virtuality.<br />\r\n<br />\r\nThis approach is innovative technically, but also opens new physics related gameplay mechanics. Some are already implemented. But collective imagination is wider than individual one. So, I invite the players to play and share their ideas and thoughts. Together we can make the gameplay unique and exclusive.",
-  "supported_languages": "English, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Shared/Split Screen",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 117,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 124,
-  "review_positive": 68,
+  "review_positive": 0,
   "review_percentage": 54.8,
   "owner_estimate": 35000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 179,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 125,
-      "review_percentage": 53.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 124,
-      "review_percentage": 54.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 124,
       "review_percentage": 54.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

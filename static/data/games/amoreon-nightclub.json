@@ -3,8 +3,8 @@
   "name": "Amoreon NightClub",
   "slug": "amoreon-nightclub",
   "developer": "Citor3",
-  "publisher": "Citor3",
-  "release_date": "Sep 6, 2017",
+  "publisher": "",
+  "release_date": "2017-09-06",
   "price_usd": 0.0,
   "genres": [
     "Free To Play",
@@ -17,63 +17,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "The Amoreon NightClub is a single player disco, where you can dance with virtual characters, challenge yourself to gain points by following the dance moves, select songs and add your own music. You can see your own VR body, use your hands and fingers with thumb sticks.",
+  "short_description": "The Amoreon NightClub is a single player disco, where you can dance with virtual characters, challenge yourself to gain points by following the dance moves, select songs and add your own music. You ca",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701100/header.jpg?t=1614076765",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701100/ss_b50d774897da5b3f0a4f665b0d7a78dbf8a1084a.600x338.jpg?t=1614076765",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701100/ss_dd3725363c88d72376c9551330fb5478a0f743f6.600x338.jpg?t=1614076765",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701100/ss_9dcd297a32776d3fcd3df4c529d1d9d21eaa2ef7.600x338.jpg?t=1614076765",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701100/ss_424ff5d226ac74306686c6fc1773cdbd0bbaed73.600x338.jpg?t=1614076765",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701100/ss_1c307a473b3717b76c3b00cbc10db79d4881bb0a.600x338.jpg?t=1614076765",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701100/ss_61820a8ad324725443ac8347dfaa5ab00210dc52.600x338.jpg?t=1614076765"
-  ],
-  "detailed_description": "<strong>The Amoreon NightClub</strong> is a single player disco, where you can dance with virtual characters, challenge yourself to gain points by following the dance moves, select songs and add your own music. You can see your own VR body, use your hands and fingers with thumb sticks. All nightclub visuals (lasers, particles, dances) are controlled by the music. Watch yourself dancing on a big screen while cameras rotate around the dance floor.<br><br>You can move yourself by controllers, even flying is possible! This is a free scene, so have fun in your personal night club!",
-  "about_the_game": "<strong>The Amoreon NightClub</strong> is a single player disco, where you can dance with virtual characters, challenge yourself to gain points by following the dance moves, select songs and add your own music. You can see your own VR body, use your hands and fingers with thumb sticks. All nightclub visuals (lasers, particles, dances) are controlled by the music. Watch yourself dancing on a big screen while cameras rotate around the dance floor.<br><br>You can move yourself by controllers, even flying is possible! This is a free scene, so have fun in your personal night club!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 4.0,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 80,
-  "review_positive": 59,
+  "review_positive": 0,
   "review_percentage": 73.8,
   "owner_estimate": 35000,
-  "ccu_estimate": 1,
+  "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 79,
-      "review_percentage": 74.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 80,
       "review_percentage": 73.8,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
-      "review_count": 80,
-      "review_percentage": 73.8,
-      "ccu_estimate": 1,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

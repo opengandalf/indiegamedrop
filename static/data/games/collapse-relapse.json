@@ -3,8 +3,8 @@
   "name": "Collapse Relapse",
   "slug": "collapse-relapse",
   "developer": "Jermrellum",
-  "publisher": "Jermrellum",
-  "release_date": "Jun 22, 2022",
+  "publisher": "",
+  "release_date": "2022-06-22",
   "price_usd": 3.99,
   "genres": [
     "Action",
@@ -21,34 +21,15 @@
   ],
   "short_description": "Explore and collect upgrades before the timeloop resets! Collapse Relapse is a 2D platformer where you have to think and plan out your route in order to be able to escape in time, with secrets galore!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2005750/header.jpg?t=1655891950",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2005750/ss_80a78b0a392abdda7784f156fe3e099abdd62fcd.600x338.jpg?t=1655891950",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2005750/ss_91b22fd525bf5c04f0a1fb45d3b438c08408eb05.600x338.jpg?t=1655891950",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2005750/ss_d5314bce71de1e1996064dc0ace3b1c009ed4fc1.600x338.jpg?t=1655891950",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2005750/ss_34b0810a316512e46f3d143a01a4fb0fa76065da.600x338.jpg?t=1655891950",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2005750/ss_d3ac5d97c0ad1e068c6bb54a61c963a83409fb02.600x338.jpg?t=1655891950"
-  ],
-  "detailed_description": "You have 60 seconds to explore a collapsing cave before time resets, and then you'll lose everything but your map and one item. In order to escape, you'll have to plan your route and uncover secrets. Use items to find other items and get to new places in this metroidvania with clay graphics!<br><br><ul class=\"bb_ul\"><li><strong>Extra modes and challenges</strong> -- Unlockables flip the game on its head! Hidden codes uncover unique gameplay challenges!<br><br></li><li><strong>Randomizer</strong> -- The customizable randomizer mode lets you play with the item layout entirely rearranged. The game's logic will ensure each game is possible to complete in respect to both item order and time. The logic can be set to normal, difficult, or off and you can even entirely turn the game's clock off as well.<br><br></li><li><strong>Sequence breaking</strong> -- Don't like playing in the dev-intended order? You can abuse the game's design to get items early, or not at all! Go for low%!<br><br></li><li><strong>Speedrun timekeeping</strong> -- Turn on a speedrun timer to place in the corner; best times are kept for any%, 100%, and low% for each different mode. Each random seed you generate also has its own best times saved and they are easily selectable to be played again.</li></ul>",
-  "about_the_game": "You have 60 seconds to explore a collapsing cave before time resets, and then you'll lose everything but your map and one item. In order to escape, you'll have to plan your route and uncover secrets. Use items to find other items and get to new places in this metroidvania with clay graphics!<br><br><ul class=\"bb_ul\"><li><strong>Extra modes and challenges</strong> -- Unlockables flip the game on its head! Hidden codes uncover unique gameplay challenges!<br><br></li><li><strong>Randomizer</strong> -- The customizable randomizer mode lets you play with the item layout entirely rearranged. The game's logic will ensure each game is possible to complete in respect to both item order and time. The logic can be set to normal, difficult, or off and you can even entirely turn the game's clock off as well.<br><br></li><li><strong>Sequence breaking</strong> -- Don't like playing in the dev-intended order? You can abuse the game's design to get items early, or not at all! Go for low%!<br><br></li><li><strong>Speedrun timekeeping</strong> -- Turn on a speedrun timer to place in the corner; best times are kept for any%, 100%, and low% for each different mode. Each random seed you generate also has its own best times saved and they are easily selectable to be played again.</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.30000000000000004,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 6,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 83.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 80.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 83.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

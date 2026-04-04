@@ -3,8 +3,8 @@
   "name": "Default Unreal Physics and Assets AKA DUPA Project",
   "slug": "default-unreal-physics-and-assets-aka-dupa-project",
   "developer": "Karol Mirowski",
-  "publisher": "BPP",
-  "release_date": "Nov 11, 2020",
+  "publisher": "",
+  "release_date": "2020-11-11",
   "price_usd": 3.49,
   "genres": [
     "Indie"
@@ -17,35 +17,15 @@
   ],
   "short_description": "Physics based FPP puzzler (with a short lesson of Polish).",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1350590/header.jpg?t=1605119419",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1350590/ss_8edc5bbc61ad29e0c7d583bfa692c88e0398dc63.600x338.jpg?t=1605119419",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1350590/ss_6331413e760b775cd80712b3901328a4feaf3630.600x338.jpg?t=1605119419",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1350590/ss_11bc7c8a927886eca096a2dec57bd983d875559c.600x338.jpg?t=1605119419",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1350590/ss_9867d9819ff6aa0a0ba1e5c806ecd8bc147e9254.600x338.jpg?t=1605119419",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1350590/ss_6e427df304d3827fcaa633e633ebc0707662ff63.600x338.jpg?t=1605119419",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1350590/ss_201806b87d261e3aa008f268713ad5b59a4d70fd.600x338.jpg?t=1605119419"
-  ],
-  "detailed_description": "Simple yet amusing FPP puzzler with physics, unlimited bullets, limited graphics, secret extras, poor puns, lousy jokes and a short lesson of Polish.  20 levels (or more), 10 dictionary pages (unless something changes), several obscure references (some over 50 years old). Never intended to be an overly serious project, started as an attempt to learn basics of Unreal Engine, grew to the point where I wasn't afraid of showing it to my friends. Don't expect a ground breaking game and you shall receive.",
-  "about_the_game": "Simple yet amusing FPP puzzler with physics, unlimited bullets, limited graphics, secret extras, poor puns, lousy jokes and a short lesson of Polish.  20 levels (or more), 10 dictionary pages (unless something changes), several obscure references (some over 50 years old). Never intended to be an overly serious project, started as an attempt to learn basics of Unreal Engine, grew to the point where I wasn't afraid of showing it to my friends. Don't expect a ground breaking game and you shall receive.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

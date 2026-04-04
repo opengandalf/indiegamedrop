@@ -3,8 +3,8 @@
   "name": "Blue Print",
   "slug": "blue-print",
   "developer": "8AAFFF",
-  "publisher": "8AAFFF",
-  "release_date": "Sep 18, 2022",
+  "publisher": "",
+  "release_date": "2022-09-18",
   "price_usd": 2.99,
   "genres": [
     "Casual",
@@ -23,33 +23,15 @@
   ],
   "short_description": "play a sandbox with infinite possibilities.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113210/header.jpg?t=1663520722",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113210/ss_ac28d8d8346e931596c6e388e11993ecf446bcf5.600x338.jpg?t=1663520722",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113210/ss_fe598965ab7765cee5e8b4923106867e9605da28.600x338.jpg?t=1663520722",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113210/ss_3582f28dc4809bddd6571a6a5d99bee727f4e397.600x338.jpg?t=1663520722",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113210/ss_59e2d242192aa795edec6a2479c8b43a756bd2d3.600x338.jpg?t=1663520722",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113210/ss_35a78bc493fcb59a2448d6cd489f07951576a65a.600x338.jpg?t=1663520722",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113210/ss_2769a554d10e63af7791dfeba2788165c4eb0c9a.600x338.jpg?t=1663520722"
-  ],
-  "detailed_description": "A game where you can build amazing contraptions using the simple parts given to you.<br>such as:<br><br>computers using logic gates,<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113210/extras/afa656a31754b8814e06ea40dfced3ab.avif?t=1663520722\" width=400 height=200 /></span><br><br>build buildings using the parts available to you, and add transportation systems for them!<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113210/extras/601123641f9029ff36c3d23b6fc8b966.avif?t=1663520722\" width=400 height=200 /></span><br><br>or create precise timing machines that execute the functions that you made them do.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113210/extras/bda4a9113556b1dd9e099e796874bd6c.avif?t=1663520722\" width=400 height=200 /></span><br><br>features:<br>- simple building blocks that you can rely on to support your buildings.<br>- electrical cables to power components on and off.<br>- basic logic gates to create computers, calculators, etc...<br>- pistons, accelerators, and more blocks to move stuff around more efficiently.",
-  "about_the_game": "A game where you can build amazing contraptions using the simple parts given to you.<br>such as:<br><br>computers using logic gates,<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113210/extras/afa656a31754b8814e06ea40dfced3ab.avif?t=1663520722\" width=400 height=200 /></span><br><br>build buildings using the parts available to you, and add transportation systems for them!<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113210/extras/601123641f9029ff36c3d23b6fc8b966.avif?t=1663520722\" width=400 height=200 /></span><br><br>or create precise timing machines that execute the functions that you made them do.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113210/extras/bda4a9113556b1dd9e099e796874bd6c.avif?t=1663520722\" width=400 height=200 /></span><br><br>features:<br>- simple building blocks that you can rely on to support your buildings.<br>- electrical cables to power components on and off.<br>- basic logic gates to create computers, calculators, etc...<br>- pistons, accelerators, and more blocks to move stuff around more efficiently.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

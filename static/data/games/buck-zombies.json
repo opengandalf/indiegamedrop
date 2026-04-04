@@ -3,8 +3,8 @@
   "name": "Buck Zombies",
   "slug": "buck-zombies",
   "developer": "Harsh Reality Productions",
-  "publisher": "Harsh Reality Productions",
-  "release_date": "Aug 17, 2019",
+  "publisher": "",
+  "release_date": "2019-08-17",
   "price_usd": 0.99,
   "genres": [
     "Action"
@@ -17,42 +17,15 @@
   ],
   "short_description": "First-person shooter that allows up to four team members to face an unending horde of zombies.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1132750/header.jpg?t=1566056642",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1132750/ss_0006d069544a5e2b2695c5608c90ab81fef4cd72.600x338.jpg?t=1566056642",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1132750/ss_9903a100900c4dfc57d299b5d87bda6b4ba53543.600x338.jpg?t=1566056642",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1132750/ss_c0b5018f9076b8bc31f4e512b773aaa2edd45f0e.600x338.jpg?t=1566056642",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1132750/ss_da40261465fba47cbb6f2aed19cfc7a6e00e3295.600x338.jpg?t=1566056642",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1132750/ss_a95b5489b51e2f9258c368c316c2efb445810f6d.600x338.jpg?t=1566056642",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1132750/ss_d0e0a2d0d6ff03968fb97e61c7ddda67ee621054.600x338.jpg?t=1566056642",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1132750/ss_f95baf736e7af71b978f270dca17675fc004443a.600x338.jpg?t=1566056642",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1132750/ss_e5c4e937ff92a7b9eb3085f7fa6991d5bdbf3c96.600x338.jpg?t=1566056642"
-  ],
-  "detailed_description": "The object of this first person shooter is to survive as long as possible as endless hordes of zombies attempt to take you down.  With support for up to four players, you can play single-player or host a game to allow others to join you.  The higher the number of team kills, the quicker the zombies spawn with your personal kill count opening up new weapons for yourself as well as allowing more charges of your team buff.  Work as a team or turn on friendly fire and take down your teammates to slow down the spawn of zombies.  Just don't stand still or the zombies will get you.",
-  "about_the_game": "The object of this first person shooter is to survive as long as possible as endless hordes of zombies attempt to take you down.  With support for up to four players, you can play single-player or host a game to allow others to join you.  The higher the number of team kills, the quicker the zombies spawn with your personal kill count opening up new weapons for yourself as well as allowing more charges of your team buff.  Work as a team or turn on friendly fire and take down your teammates to slow down the spawn of zombies.  Just don't stand still or the zombies will get you.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Co-op",
-    "Online Co-op",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.4,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 8,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 8,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

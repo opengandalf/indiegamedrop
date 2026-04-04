@@ -3,8 +3,8 @@
   "name": "Bejeweled Deluxe",
   "slug": "bejeweled-deluxe",
   "developer": "PopCap Games, Inc.",
-  "publisher": "PopCap Games, Inc., Electronic Arts",
-  "release_date": "Aug 30, 2006",
+  "publisher": "",
+  "release_date": "2006-08-30",
   "price_usd": 0.99,
   "genres": [
     "Casual"
@@ -15,54 +15,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "In the game, you must swap two adjacent gems to line up three or more of the same jewel type horizontally or vertically to eliminate them. Keep playing until there are no moves left or you've conquered the board. Bejeweled's gameplay can be fun for both kids and adults.",
+  "short_description": "In the game, you must swap two adjacent gems to line up three or more of the same jewel type horizontally or vertically to eliminate them. Keep playing until there are no moves left or you've conquere",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3350/header.jpg?t=1628006310",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3350/0000000545.600x338.jpg?t=1628006310",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3350/0000000546.600x338.jpg?t=1628006310",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3350/0000000547.600x338.jpg?t=1628006310"
-  ],
-  "detailed_description": "In the game, you must swap two adjacent gems to line up three or more of the same jewel type horizontally or vertically to eliminate them. Keep playing until there are no moves left or you've conquered the board. Bejeweled's gameplay can be fun for both kids and adults.",
-  "about_the_game": "In the game, you must swap two adjacent gems to line up three or more of the same jewel type horizontally or vertically to eliminate them. Keep playing until there are no moves left or you've conquered the board. Bejeweled's gameplay can be fun for both kids and adults.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Remote Play on Phone",
-    "Remote Play on Tablet",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 296,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 15.5,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 310,
-  "review_positive": 271,
+  "review_positive": 0,
   "review_percentage": 87.4,
   "owner_estimate": 75000,
-  "ccu_estimate": 7,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 73,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 268,
-      "review_percentage": 88.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 310,
       "review_percentage": 87.4,
-      "ccu_estimate": 7,
+      "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

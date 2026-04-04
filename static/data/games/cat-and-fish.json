@@ -3,8 +3,8 @@
   "name": "Cat and fish",
   "slug": "cat-and-fish",
   "developer": "Neki4 Electronics",
-  "publisher": "Neki4 Electronics",
-  "release_date": "Jan 27, 2022",
+  "publisher": "",
+  "release_date": "2022-01-27",
   "price_usd": 9.99,
   "genres": [
     "Casual",
@@ -17,35 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "You are a brave cat who got lost in the forest in search of food. You have to collect all the food, while getting out of the forest alive. Be careful, because the forest is full of various traps and obstacles!",
+  "short_description": "You are a brave cat who got lost in the forest in search of food. You have to collect all the food, while getting out of the forest alive. Be careful, because the forest is full of various traps and o",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872130/header.jpg?t=1643305137",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872130/ss_91eb4f197043e7fefe6f99ae7f7f6b49cf55186d.600x338.jpg?t=1643305137",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872130/ss_7f562e9d6af3eb0eed59cb0b9a530a198cf5c982.600x338.jpg?t=1643305137",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872130/ss_17dd36fab031ada00e2570bb5ad1927b67a04fb1.600x338.jpg?t=1643305137",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872130/ss_a972e48a28848300ce98fcda5b1809345bc734f1.600x338.jpg?t=1643305137",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872130/ss_fadff9f95b8d1251897cb9dbde862a6390ff0ba6.600x338.jpg?t=1643305137",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1872130/ss_18fd08410fb34fa5d13e50d4650889a622996045.600x338.jpg?t=1643305137"
-  ],
-  "detailed_description": "You are a brave cat who got lost in the forest in search of food. You have to collect all the food, while getting out of the forest alive.<br />\r\nBe careful, because the forest is full of various traps and obstacles!<br />\r\n<br />\r\nControl the player using the arrows on the keyboard.<br />\r\n<br />\r\nFeatures:<br />\r\n- For all ages.<br />\r\n- An exciting puzzle game.<br />\r\n- Nice graphics.<br />\r\n- Simple gameplay.",
-  "about_the_game": "You are a brave cat who got lost in the forest in search of food. You have to collect all the food, while getting out of the forest alive.<br />\r\nBe careful, because the forest is full of various traps and obstacles!<br />\r\n<br />\r\nControl the player using the arrows on the keyboard.<br />\r\n<br />\r\nFeatures:<br />\r\n- For all ages.<br />\r\n- An exciting puzzle game.<br />\r\n- Nice graphics.<br />\r\n- Simple gameplay.",
-  "supported_languages": "English, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.45,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 9,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 55.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 10,
-      "review_percentage": 60.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 55.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

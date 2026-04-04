@@ -3,8 +3,8 @@
   "name": "Hotdog Runner",
   "slug": "hotdog-runner",
   "developer": "Aidor Games",
-  "publisher": "Neebs Gaming Games",
-  "release_date": "Mar 6, 2024",
+  "publisher": "",
+  "release_date": "2024-03-06",
   "price_usd": 1.99,
   "genres": [
     "Casual"
@@ -17,33 +17,9 @@
   ],
   "short_description": "You are Simon, a lover of hotdogs. Can you guide him and his friends to collect the most hotdogs EVER?",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779440/header.jpg?t=1764793729",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779440/ss_5039d9e7e629b2d6df3ee5fbb7271c6ccc5c239c.600x338.jpg?t=1764793729",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779440/ss_4cd4b778a6e31db724470d2a45bdbff3d43c7c53.600x338.jpg?t=1764793729",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779440/ss_c463badee3a06b1b5ab55b400192bcfd1b444b3d.600x338.jpg?t=1764793729",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779440/ss_039d591722fa7778d976df15c709759267850a38.600x338.jpg?t=1764793729",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2779440/ss_da33bef213c5cb0272b056449f6ce8c7a89fc7c7.600x338.jpg?t=1764793729"
-  ],
-  "detailed_description": "<h1>Update!</h1><p><p class=\"bb_paragraph\" >Check out our latest update - Version 1.2! - </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >- added scenery changes (scary forest, zombie city, t44) including lighting & fog</p><p class=\"bb_paragraph\" >- all power ups now stack</p><p class=\"bb_paragraph\" >- moved power up timers to top right</p><p class=\"bb_paragraph\" >- created global leaderboard</p><p class=\"bb_paragraph\" >- changed texture on barrels & crates</p><p class=\"bb_paragraph\" >- sped up firing rate of bullets a little</p><p class=\"bb_paragraph\" >- edited corners on original scenery to prevent chances of course overlap</p><p class=\"bb_paragraph\" >- updated menu</p><p class=\"bb_paragraph\" >- updated credits</p></p><br><h1>About the Game</h1>Welcome to Hot Dog Runner! Simon's on a mission - collect as many hot dogs and power ups as he can, for the best possible score! Will you be THE Hot Dog Runner?!<br><br>You are Simon - a ravenous but oddly adorable little man who desperately wants one thing in life - HOT DOGS!<br><br>On your journey you must avoid obstacles like walls, pits and logs, while collecting power ups that will suck all the surrounding hot dogs to you, or destroy obstacles in your path!<br><br>Race against your personal best and become THE HOT DOG RUNNER!<br><br><strong>Scoring and power ups:</strong><br><br>- A Hotdog will get you 1 point.<br>- A Golden Hotdog will get you 5 points.<br>- The magnet attracts hotdogs towards the player.<br>- The shield makes the player invincible against obstacles that shine red (barrels & crates). Collect 10 bonus points by destroying an obstacle in invincible mode!",
-  "about_the_game": "Welcome to Hot Dog Runner! Simon's on a mission - collect as many hot dogs and power ups as he can, for the best possible score! Will you be THE Hot Dog Runner?!<br><br>You are Simon - a ravenous but oddly adorable little man who desperately wants one thing in life - HOT DOGS!<br><br>On your journey you must avoid obstacles like walls, pits and logs, while collecting power ups that will suck all the surrounding hot dogs to you, or destroy obstacles in your path!<br><br>Race against your personal best and become THE HOT DOG RUNNER!<br><br><strong>Scoring and power ups:</strong><br><br>- A Hotdog will get you 1 point.<br>- A Golden Hotdog will get you 5 points.<br>- The magnet attracts hotdogs towards the player.<br>- The shield makes the player invincible against obstacles that shine red (barrels & crates). Collect 10 bonus points by destroying an obstacle in invincible mode!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 236,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 252,
-  "review_positive": 249,
+  "review_positive": 0,
   "review_percentage": 98.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 246,
-      "review_percentage": 99.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 252,
       "review_percentage": 98.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Tom's Mansion",
   "slug": "toms-mansion",
   "developer": "RayKingArts",
-  "publisher": "RayKingArts",
-  "release_date": "Dec 6, 2017",
+  "publisher": "",
+  "release_date": "2017-12-06",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -19,31 +19,9 @@
   ],
   "short_description": "Escape or Die. Not in real life, of course. It's all just a simulation, in a mansion, with 20 minutes to escape.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/748660/header.jpg?t=1512592847",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/748660/ss_ca065419384504442ed78f96f89c5abe9dae4ad1.600x338.jpg?t=1512592847",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/748660/ss_b400f9e72bab0ddda5105a6eb9e94316df2ea31d.600x338.jpg?t=1512592847",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/748660/ss_f519919af269bb05e32507f3d7753e0b0d0485da.600x338.jpg?t=1512592847",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/748660/ss_062419cda6b2bf14c696fe25b118a96ee83039cc.600x338.jpg?t=1512592847",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/748660/ss_92e4fa56400a94acd7a65e2864d6b786cee1a23e.600x338.jpg?t=1512592847"
-  ],
-  "detailed_description": "You start off in front of a black door with multiple locks. Where are you? You look around and see a typical living room with not so typical furniture. That's when you see a timer at the top of your screen. You remember reading the description for this game, and you saw that it said \"Escape or Die\". So, you start figuring out how to escape. In the end, there are 3 ways to escape, each one involving the collection of multiple parts that can work together and help you finally escape this isolated mansion. Controls: WASD or Arrows, SPACEBAR for Jump, F to Collect Parts.",
-  "about_the_game": "You start off in front of a black door with multiple locks. Where are you? You look around and see a typical living room with not so typical furniture. That's when you see a timer at the top of your screen. You remember reading the description for this game, and you saw that it said \"Escape or Die\". So, you start figuring out how to escape. In the end, there are 3 ways to escape, each one involving the collection of multiple parts that can work together and help you finally escape this isolated mansion. Controls: WASD or Arrows, SPACEBAR for Jump, F to Collect Parts.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 22,
-  "review_positive": 18,
+  "review_positive": 0,
   "review_percentage": 81.8,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -51,26 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 20,
-      "review_percentage": 80.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 22,
-      "review_percentage": 81.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 22,
       "review_percentage": 81.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

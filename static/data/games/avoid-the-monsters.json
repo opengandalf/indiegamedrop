@@ -3,8 +3,8 @@
   "name": "Avoid The Monsters",
   "slug": "avoid-the-monsters",
   "developer": "Wouter van Oortmerssen",
-  "publisher": "Wouter van Oortmerssen",
-  "release_date": "Aug 15, 2017",
+  "publisher": "",
+  "release_date": "2017-08-15",
   "price_usd": 0.0,
   "genres": [
     "RPG",
@@ -19,60 +19,27 @@
   ],
   "short_description": "A mix of puzzle and (roguelike) RPG where your aim is to upgrade yourself as much as possible while.. avoiding the monsters!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/687560/header.jpg?t=1591238580",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/687560/ss_c7e3373cde7a1b02aeb08973281582258ac0fe42.600x338.jpg?t=1591238580",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/687560/ss_ecc9cbef4dd38c3fbe64513a2706e953a52f2aec.600x338.jpg?t=1591238580",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/687560/ss_e69e9537acc615a7874147b1fc46861104a00cd4.600x338.jpg?t=1591238580",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/687560/ss_d0a5d4851a0ecceac59ea671198cecf7a43030a8.600x338.jpg?t=1591238580",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/687560/ss_afbc1b8abaa753a1b7daf6029887469fdfef0acc.600x338.jpg?t=1591238580",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/687560/ss_73682503b637b150a5bedc6e9b7b93362954ed00.600x338.jpg?t=1591238580"
-  ],
-  "detailed_description": "A mix of puzzle and (roguelike) RPG where your aim is to upgrade yourself as much as possible while.. avoiding the monsters!<br><ul class=\"bb_ul\"><li> 50 levels (10 each in 5 sizes) that can be played at 3 difficulty levels!<br></li><li> Different choices can mean life, or death! Unlock random spells to give you a leg up.. or not!<br></li><li> 8 bit sounds and 12 bit graphics, with incredible \"floating sprite\" animations!<br></li><li> 15 achievements for completing level sets!<br></li><li> No social features whatsoever!</li></ul>",
-  "about_the_game": "A mix of puzzle and (roguelike) RPG where your aim is to upgrade yourself as much as possible while.. avoiding the monsters!<br><ul class=\"bb_ul\"><li> 50 levels (10 each in 5 sizes) that can be played at 3 difficulty levels!<br></li><li> Different choices can mean life, or death! Unlock random spells to give you a leg up.. or not!<br></li><li> 8 bit sounds and 12 bit graphics, with incredible \"floating sprite\" animations!<br></li><li> 15 achievements for completing level sets!<br></li><li> No social features whatsoever!</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 2.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 44,
-  "review_positive": 31,
+  "review_positive": 0,
   "review_percentage": 70.5,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 55,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 38,
-      "review_percentage": 68.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 44,
-      "review_percentage": 70.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
+      "date": "2026-04-04",
       "review_count": 44,
       "review_percentage": 70.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

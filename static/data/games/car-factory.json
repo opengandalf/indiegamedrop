@@ -3,8 +3,8 @@
   "name": "Car Factory",
   "slug": "car-factory",
   "developer": "5 Games",
-  "publisher": "5 Games",
-  "release_date": "Aug 14, 2023",
+  "publisher": "",
+  "release_date": "2023-08-14",
   "price_usd": 9.99,
   "genres": [
     "Indie",
@@ -23,35 +23,15 @@
   ],
   "short_description": "Assemble vehicles on a realistic production line, from the chassis to the final assembly. Optimize your production process to work more efficiently and unlock new models.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501680/header.jpg?t=1743427600",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501680/cbdd7d46d2bf9d68199bd473fc3ed6fd451b7808/ss_cbdd7d46d2bf9d68199bd473fc3ed6fd451b7808.600x338.jpg?t=1743427600",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501680/ss_fa3efe95b382af67cdceb8b377d61ba6948c82a3.600x338.jpg?t=1743427600",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501680/ss_c41b538b19d784aa5b4579be36961d15dd0c4822.600x338.jpg?t=1743427600",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501680/ss_2942b4cd529df912bf507e5cc35a7d264d402bc6.600x338.jpg?t=1743427600",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501680/ss_db54cca7bc048a05c7f71f8a60255209ef4a883c.600x338.jpg?t=1743427600",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501680/ss_fa55e04c75cd9b1251f5b671530b520e51f4e003.600x338.jpg?t=1743427600",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501680/ss_7b31f3b26daece091b78a437cc64344048215756.600x338.jpg?t=1743427600",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2501680/7877db2f0afde91caaec33123bcfc1219139566b/ss_7877db2f0afde91caaec33123bcfc1219139566b.600x338.jpg?t=1743427600"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Assemble vehicles on a realistic production line, from the chassis to the final assembly.</p><p class=\"bb_paragraph\" >Enhance your cars with upgrades.</p><p class=\"bb_paragraph\" >Optimize your production process to work more efficiently and unlock new models.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Logistics System: </h2><p class=\"bb_paragraph\" >Restock car parts by driving a forklift.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Car Maintenance & Repairs: </h2><p class=\"bb_paragraph\" >Fix vehicle issues such as scratches, check tire pressure, and ensure everything is in top condition.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Build different types of vehicles:</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Compact</p></li><li><p class=\"bb_paragraph\" >Sedan</p></li><li><p class=\"bb_paragraph\" >Sport</p></li><li><p class=\"bb_paragraph\" >Electric</p></li></ul>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Assemble vehicles on a realistic production line, from the chassis to the final assembly.</p><p class=\"bb_paragraph\" >Enhance your cars with upgrades.</p><p class=\"bb_paragraph\" >Optimize your production process to work more efficiently and unlock new models.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Logistics System: </h2><p class=\"bb_paragraph\" >Restock car parts by driving a forklift.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Car Maintenance & Repairs: </h2><p class=\"bb_paragraph\" >Fix vehicle issues such as scratches, check tire pressure, and ensure everything is in top condition.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Build different types of vehicles:</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Compact</p></li><li><p class=\"bb_paragraph\" >Sedan</p></li><li><p class=\"bb_paragraph\" >Sport</p></li><li><p class=\"bb_paragraph\" >Electric</p></li></ul>",
-  "supported_languages": "English<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 3.0,
+  "review_velocity_7d": 0.4,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 8,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 25.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 40.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 25.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

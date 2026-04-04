@@ -3,8 +3,8 @@
   "name": "The Castle",
   "slug": "the-castle",
   "developer": "Kaimaro",
-  "publisher": "Kaimaro",
-  "release_date": "Dec 13, 2023",
+  "publisher": "",
+  "release_date": "2023-12-13",
   "price_usd": 0.99,
   "genres": [
     "Adventure",
@@ -19,32 +19,9 @@
   ],
   "short_description": "Title: Hidden Castle This is a first-person perspective exploration horror game where you aim to escape from a mysterious castle you stumbled upon while seeking shelter from the rain.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672300/header.jpg?t=1702635795",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672300/ss_32170d2c365ef1a396b6113837c878fe245d4984.600x338.jpg?t=1702635795",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672300/ss_d40a6d5a2b4cee317ebd4d0a4caba475926d055d.600x338.jpg?t=1702635795",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672300/ss_75b7433c582821b1e669f22e516f8173197eb328.600x338.jpg?t=1702635795",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672300/ss_14c6c620ec35b7c3b05ccd0f3cda6ed77e2694c8.600x338.jpg?t=1702635795",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672300/ss_dcaed669f5fa39cf1ff6bf7a48fbb87b71ca3014.600x338.jpg?t=1702635795"
-  ],
-  "detailed_description": "Title: Hidden Castle<br />\r\nHidden Castle is an exploration-based horror game.<br />\r\n<br />\r\nDescription: Attempt to escape from a castle you've wandered into.<br />\r\n<br />\r\nEstimated Playtime: You can clear it in approximately 20 minutes, making it suitable for playing during your free time.<br />\r\n<br />\r\nFeatures: There are no restart elements like death, so we have not implemented a save feature. Please understand.<br />\r\n<br />\r\nEndings: The ending changes depending on the items you possess, and there are a total of three different endings.<br />\r\n<br />\r\nNote: You are welcome to live-stream or record gameplay.",
-  "about_the_game": "Title: Hidden Castle<br />\r\nHidden Castle is an exploration-based horror game.<br />\r\n<br />\r\nDescription: Attempt to escape from a castle you've wandered into.<br />\r\n<br />\r\nEstimated Playtime: You can clear it in approximately 20 minutes, making it suitable for playing during your free time.<br />\r\n<br />\r\nFeatures: There are no restart elements like death, so we have not implemented a save feature. Please understand.<br />\r\n<br />\r\nEndings: The ending changes depending on the items you possess, and there are a total of three different endings.<br />\r\n<br />\r\nNote: You are welcome to live-stream or record gameplay.",
-  "supported_languages": "Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 7,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

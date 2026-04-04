@@ -3,8 +3,8 @@
   "name": "Air Rage",
   "slug": "air-rage",
   "developer": "Emblematic Group",
-  "publisher": "Emblematic Group",
-  "release_date": "Feb 3, 2017",
+  "publisher": "",
+  "release_date": "2017-02-03",
   "price_usd": 0.0,
   "genres": [
     "Education"
@@ -17,32 +17,15 @@
   ],
   "short_description": "Air Rage is a 90 second Virtual Reality piece illustrating how changes to air travel have increased aggression in passengers.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/583510/header.jpg?t=1486146734",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/583510/ss_cf930cb1942b44eebe82601ba789785d875198c9.600x338.jpg?t=1486146734",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/583510/ss_6774ddb0ca52d5b2f4e4eacb402e43db1398d78f.600x338.jpg?t=1486146734",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/583510/ss_1aa7977cec6e043d750f33861f13744b70ee7c6e.600x338.jpg?t=1486146734",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/583510/ss_3a910e3f04b5876036675e3bf8a9d79f24795c6e.600x338.jpg?t=1486146734",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/583510/ss_e900f920e0ccc40214c70a1945b9eaa7dd1cce54.600x338.jpg?t=1486146734"
-  ],
-  "detailed_description": "Between 2007 and 2013 there were more than 28,000 reported cases of unruly passenger incidents. Air Rage is a 90 second Virtual Reality piece that illustrates how changes to air travel may have led to increased aggression among passengers.",
-  "about_the_game": "Between 2007 and 2013 there were more than 28,000 reported cases of unruly passenger incidents. Air Rage is a 90 second Virtual Reality piece that illustrates how changes to air travel may have led to increased aggression among passengers.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.8500000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 17,
-  "review_positive": 13,
+  "review_positive": 0,
   "review_percentage": 76.5,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -50,26 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 15,
-      "review_percentage": 73.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 17,
-      "review_percentage": 76.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 17,
       "review_percentage": 76.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

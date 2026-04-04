@@ -3,8 +3,8 @@
   "name": "DED",
   "slug": "ded",
   "developer": "L. Stotch, Vladimir Soldatov",
-  "publisher": "L. Stotch, Vladimir Soldatov",
-  "release_date": "Mar 3, 2017",
+  "publisher": "",
+  "release_date": "2017-03-03",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -20,63 +20,29 @@
     "windows",
     "linux"
   ],
-  "short_description": "DED - a game in the shoot'em up genre. Your granddaughter has been kidnapped, and your daughter and son-in-law murdered. Having just bits and pieces of information about the abductors, you will have to save your granddaughter and find the masterminds behind these crimes.",
+  "short_description": "DED - a game in the shoot'em up genre. Your granddaughter has been kidnapped, and your daughter and son-in-law murdered. Having just bits and pieces of information about the abductors, you will have t",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571350/header.jpg?t=1667043210",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571350/ss_cbee8a4fb0516ed0643319e14ce04e17f99bab3d.600x338.jpg?t=1667043210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571350/ss_2900b576f93b6573207eeb08946a920996363952.600x338.jpg?t=1667043210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571350/ss_1b1faa600d40a60d40707eaf1cb52ee849a7a415.600x338.jpg?t=1667043210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571350/ss_a07bd33b577d72b23e2edaaaccada56d84db7a7e.600x338.jpg?t=1667043210",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571350/ss_08c8c66782aebbc5b0a5a50c64c5f3be028fff6d.600x338.jpg?t=1667043210"
-  ],
-  "detailed_description": "DED - a game in the shoot'em up genre. Your granddaughter has been kidnapped, and your daughter and son-in-law murdered. Having just bits and pieces of information about the abductors, you will have to save your granddaughter and find the masterminds behind these crimes.<br>A moderately hardcore game with dynamic gameplay that will help you while away a few evenings.<h2 class=\"bb_tag\" >Survival Mode</h2><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571350/extras/89c7315df211bdcac19bb51fd7bb53d7.poster.avif?t=1667043210\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571350/extras/89c7315df211bdcac19bb51fd7bb53d7.webm?t=1667043210\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571350/extras/89c7315df211bdcac19bb51fd7bb53d7.mp4?t=1667043210\" type=\"video/mp4\"></video></span><br><br>FAQ.",
-  "about_the_game": "DED - a game in the shoot'em up genre. Your granddaughter has been kidnapped, and your daughter and son-in-law murdered. Having just bits and pieces of information about the abductors, you will have to save your granddaughter and find the masterminds behind these crimes.<br>A moderately hardcore game with dynamic gameplay that will help you while away a few evenings.<h2 class=\"bb_tag\" >Survival Mode</h2><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571350/extras/89c7315df211bdcac19bb51fd7bb53d7.poster.avif?t=1667043210\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571350/extras/89c7315df211bdcac19bb51fd7bb53d7.webm?t=1667043210\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571350/extras/89c7315df211bdcac19bb51fd7bb53d7.mp4?t=1667043210\" type=\"video/mp4\"></video></span><br><br>FAQ.",
-  "supported_languages": "English, Russian, German, Spanish - Spain",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 113,
-  "rising_score": 0.0001,
+  "screenshots": [],
+  "rising_score": 0.0002,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 19.0,
+  "review_velocity_7d": 37.300000000000004,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 746,
-  "review_positive": 609,
+  "review_positive": 0,
   "review_percentage": 81.6,
   "owner_estimate": 150000,
-  "ccu_estimate": 1,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 1043,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 727,
-      "review_percentage": 81.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 746,
       "review_percentage": 81.6,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
-      "review_count": 746,
-      "review_percentage": 81.6,
-      "ccu_estimate": 1,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Cossacks: Art of War",
   "slug": "cossacks-art-of-war",
   "developer": "GSC Game World",
-  "publisher": "GSC World Publishing",
-  "release_date": "Aug 26, 2011",
+  "publisher": "",
+  "release_date": "2011-08-26",
   "price_usd": 1.24,
   "genres": [
     "Strategy"
@@ -17,58 +17,27 @@
   ],
   "short_description": "Cossacks: The Art of War continues the history of the great battles of XVII–XVIII centuries",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4870/header.jpg?t=1685134248",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4870/ss_a1014a19890d4942ece271170af6b74b4c4fb15b.600x338.jpg?t=1685134248",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4870/ss_cfac329075c52e50179d2a08406d504c836569e9.600x338.jpg?t=1685134248",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4870/ss_ed84c2475567709ff12bae7d19e6965e8d185be6.600x338.jpg?t=1685134248",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4870/ss_2b09321923084bea52e00206f23d25de949a765f.600x338.jpg?t=1685134248"
-  ],
-  "detailed_description": "<strong>Cossacks: The Art of War</strong> – continues the history of the great battles of XVII–XVIII centuries, and introduces five new campaigns, two nations, some new units and much more.",
-  "about_the_game": "<strong>Cossacks: The Art of War</strong> – continues the history of the great battles of XVII–XVIII centuries, and introduces five new campaigns, two nations, some new units and much more.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 313,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 18.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 362,
-  "review_positive": 295,
+  "review_positive": 0,
   "review_percentage": 81.5,
   "owner_estimate": 150000,
-  "ccu_estimate": 15,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 65,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 335,
-      "review_percentage": 80.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
+      "date": "2026-04-04",
       "review_count": 362,
       "review_percentage": 81.5,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 362,
-      "review_percentage": 81.5,
-      "ccu_estimate": 15,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

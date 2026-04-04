@@ -3,8 +3,8 @@
   "name": "CyberRunner",
   "slug": "cyberrunner",
   "developer": "Cybershoes GmbH",
-  "publisher": "Cybershoes GmbH",
-  "release_date": "Aug 30, 2019",
+  "publisher": "",
+  "release_date": "2019-08-30",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -19,35 +19,15 @@
   ],
   "short_description": "CyberRunner is a VR running game for playing with your Cybershoes®",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117000/header.jpg?t=1667390074",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117000/ss_e5c3876ea1bfad449b3e6b679750d518e108fff3.600x338.jpg?t=1667390074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117000/ss_d36e030e948a17cc36ce015a2e2eec6e1b858e74.600x338.jpg?t=1667390074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117000/ss_963be6a7216d30c96579a95481b5b1a4403bf07c.600x338.jpg?t=1667390074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117000/ss_11d8a5f6715f9e8ed31e38615ea962540af1175b.600x338.jpg?t=1667390074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117000/ss_8cb7f55efb649a0ebf44b8b1b74a6915ceff6ee5.600x338.jpg?t=1667390074"
-  ],
-  "detailed_description": "Welcome, CyberRunners<br />\r\nput your Cybershoes® on your feet and run through the CyberRunner VR game.<br />\r\nRun and collect the gems, jump from the cliffs, fly through the desert and be first of all our Cyberbuddies.",
-  "about_the_game": "Welcome, CyberRunners<br />\r\nput your Cybershoes® on your feet and run through the CyberRunner VR game.<br />\r\nRun and collect the gems, jump from the cliffs, fly through the desert and be first of all our Cyberbuddies.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Tracked Controller Support",
-    "VR Only",
-    "Steam Leaderboards"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.5,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 10,
-  "review_positive": 9,
+  "review_positive": 0,
   "review_percentage": 90.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 77.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 90.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

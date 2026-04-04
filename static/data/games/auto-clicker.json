@@ -3,8 +3,8 @@
   "name": "Auto Clicker",
   "slug": "auto-clicker",
   "developer": "Playsaurus",
-  "publisher": "Playsaurus",
-  "release_date": "Sep 19, 2024",
+  "publisher": "",
+  "release_date": "2024-09-19",
   "price_usd": 3.74,
   "genres": [
     "Utilities"
@@ -18,33 +18,15 @@
   ],
   "short_description": "Auto Clicker is secure, works with games and apps, and removes the need for repeated clicking. You can use the Standard or Advanced mode according to what best suits your needs.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2888120/header.jpg?t=1767649396",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2888120/ss_db42af10eaec12a67d3d02e001ea52fd5e2055d3.600x338.jpg?t=1767649396",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2888120/ss_a145d59b458219984e16f89c0591cf5da0d253e9.600x338.jpg?t=1767649396",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2888120/ss_609b15f5ff9e5ebe7cdaa586c24e2655dc55cd20.600x338.jpg?t=1767649396",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2888120/ss_7f91d042401e5638d8932b09b86b06822559e56f.600x338.jpg?t=1767649396",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2888120/ss_d012378e62e84e2878dc1e5b6d67a012c9ac60a8.600x338.jpg?t=1767649396"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Automate your clicks with Playsaurus's trusted Auto Clicker on Steam. Auto Clicker can automate clicks and other inputs in <strong>Steam games, standalone PC titles, Windows apps, and even web games</strong>.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Standard Mode</strong></h2><p class=\"bb_paragraph\" >Start with Standard Mode if you need a simple auto clicker that’s quick to set up:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Configure intervals between clicks, including random offsets</p></li><li><p class=\"bb_paragraph\" >Choose your mouse button type: left, right, middle, or side</p></li><li><p class=\"bb_paragraph\" >Use single, double, and hold clicks </p></li><li><p class=\"bb_paragraph\" >Specify a fixed number of clicks or run indefinitely</p></li><li><p class=\"bb_paragraph\" >Click at the current cursor location, fixed coordinates, or on detected images</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Advanced Mode</strong></h2><p class=\"bb_paragraph\" >For deeper customization, Advanced Mode provides a user-friendly, drag-and-drop interface to build complex automation sequences using different types of actions:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Click Action:</strong> Perform specific clicks at chosen locations</p></li><li><p class=\"bb_paragraph\" ><strong>Scroll Action:</strong> Simulate mouse wheel scrolling</p></li><li><p class=\"bb_paragraph\" ><strong>Interval Action:</strong> Insert delays between actions</p></li><li><p class=\"bb_paragraph\" ><strong>Repeat Action:</strong> Loop actions multiple times or until stopped</p></li><li><p class=\"bb_paragraph\" ><strong>Detection Action:</strong> Search for images and branch your logic</p></li><li><p class=\"bb_paragraph\" ><strong>Key Action:</strong> Simulate keystrokes</p></li><li><p class=\"bb_paragraph\" ><strong>Random Action:</strong> Randomize your actions</p></li><li><p class=\"bb_paragraph\" ><strong>Custom Action:</strong> Group sets of actions for reuse and organization</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Recordings</strong></h2><p class=\"bb_paragraph\" >Record all clicks, keypresses, and delays, then replay or import them into custom actions for advanced routines.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Macros</strong></h2><p class=\"bb_paragraph\" >Assign any custom set of actions to a key, triggering complex sequences on demand.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>About Us</strong></h2><p class=\"bb_paragraph\" >Playsaurus has developed several popular clicker games including Clicker Heroes and Mr.Mine. We are also the Steam publisher of the classic game Cookie Clicker. So we are providing you a solution to the problem we created. Please enjoy!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Notes:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Automations like Auto Clicker may be against the terms of games and other applications, be sure to consult their terms of use</p></li><li><p class=\"bb_paragraph\" >Image detection may fail with scaled, distorted, or rotated images</p></li><li><p class=\"bb_paragraph\" >Compatible with Windows 10+</p></li></ul>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Automate your clicks with Playsaurus's trusted Auto Clicker on Steam. Auto Clicker can automate clicks and other inputs in <strong>Steam games, standalone PC titles, Windows apps, and even web games</strong>.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Standard Mode</strong></h2><p class=\"bb_paragraph\" >Start with Standard Mode if you need a simple auto clicker that’s quick to set up:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Configure intervals between clicks, including random offsets</p></li><li><p class=\"bb_paragraph\" >Choose your mouse button type: left, right, middle, or side</p></li><li><p class=\"bb_paragraph\" >Use single, double, and hold clicks </p></li><li><p class=\"bb_paragraph\" >Specify a fixed number of clicks or run indefinitely</p></li><li><p class=\"bb_paragraph\" >Click at the current cursor location, fixed coordinates, or on detected images</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Advanced Mode</strong></h2><p class=\"bb_paragraph\" >For deeper customization, Advanced Mode provides a user-friendly, drag-and-drop interface to build complex automation sequences using different types of actions:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Click Action:</strong> Perform specific clicks at chosen locations</p></li><li><p class=\"bb_paragraph\" ><strong>Scroll Action:</strong> Simulate mouse wheel scrolling</p></li><li><p class=\"bb_paragraph\" ><strong>Interval Action:</strong> Insert delays between actions</p></li><li><p class=\"bb_paragraph\" ><strong>Repeat Action:</strong> Loop actions multiple times or until stopped</p></li><li><p class=\"bb_paragraph\" ><strong>Detection Action:</strong> Search for images and branch your logic</p></li><li><p class=\"bb_paragraph\" ><strong>Key Action:</strong> Simulate keystrokes</p></li><li><p class=\"bb_paragraph\" ><strong>Random Action:</strong> Randomize your actions</p></li><li><p class=\"bb_paragraph\" ><strong>Custom Action:</strong> Group sets of actions for reuse and organization</p></li></ul><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Recordings</strong></h2><p class=\"bb_paragraph\" >Record all clicks, keypresses, and delays, then replay or import them into custom actions for advanced routines.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Macros</strong></h2><p class=\"bb_paragraph\" >Assign any custom set of actions to a key, triggering complex sequences on demand.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>About Us</strong></h2><p class=\"bb_paragraph\" >Playsaurus has developed several popular clicker games including Clicker Heroes and Mr.Mine. We are also the Steam publisher of the classic game Cookie Clicker. So we are providing you a solution to the problem we created. Please enjoy!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Notes:</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Automations like Auto Clicker may be against the terms of games and other applications, be sure to consult their terms of use</p></li><li><p class=\"bb_paragraph\" >Image detection may fail with scaled, distorted, or rotated images</p></li><li><p class=\"bb_paragraph\" >Compatible with Windows 10+</p></li></ul>",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Japanese, Korean, Norwegian, Polish, Portuguese - Brazil, Portuguese - Portugal, Romanian, Russian, Simplified Chinese, Spanish - Latin America, Swedish, Thai, Traditional Chinese, Turkish, Ukrainian, Vietnamese, Croatian, Filipino",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Achievements",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 500,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 25.5,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 510,
-  "review_positive": 450,
+  "review_positive": 0,
   "review_percentage": 88.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +34,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 221,
-      "review_percentage": 85.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 510,
       "review_percentage": 88.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

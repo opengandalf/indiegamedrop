@@ -3,8 +3,8 @@
   "name": "Curiosity",
   "slug": "curiosity",
   "developer": "Nicholas Pellegrino",
-  "publisher": "Nicholas Pellegrino",
-  "release_date": "Aug 10, 2018",
+  "publisher": "",
+  "release_date": "2018-08-10",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -19,33 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "A simple world where the player is able to change things that are not supposed to be changed. Welcome to Curiosity, the game where you can hack. Try out different hacks, get creative, entertain yourself! And hey, maybe you'll find a secret or two along the way!",
+  "short_description": "A simple world where the player is able to change things that are not supposed to be changed. Welcome to Curiosity, the game where you can hack. Try out different hacks, get creative, entertain yourse",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/918170/header.jpg?t=1533918455",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/918170/ss_27a38cdcb5221be98637c347596d99067c42a31d.600x338.jpg?t=1533918455",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/918170/ss_d3b0e83f9d0710c383118800101285e0ac55ce8a.600x338.jpg?t=1533918455",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/918170/ss_8af2043a1583dc403239f668e141eecd74161150.600x338.jpg?t=1533918455",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/918170/ss_a689717815910083c63d582bb316e1ea803ef9ad.600x338.jpg?t=1533918455",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/918170/ss_5617ab498ecb6ad499266b8baeb513e2cbbc9f20.600x338.jpg?t=1533918455"
-  ],
-  "detailed_description": "A simple world where the player is able to change things that are not supposed to be changed. Welcome to Curiosity, the game where you can hack. Try out different hacks, get creative, entertain yourself! And hey, maybe you'll find a secret or two along the way!<br><br>This is an infinite platformer with horizontal player movement. When the game is started, two tabs open: one with the platformer itself, and one that appears to be a command prompt. A narrator starts speaking, and quickly notes that the platformer seems to be dull and uninteresting. He then tutorials the player on how to \"hack\". \"Hacking\" gives the ability to change important variables in the code and to enable things that affect the environment.<br><br>As the narrator will explain, to \"hack\", the player must press the \"h\" key while the platformer tab is selected. The platformer will then freeze as it waits for input from the hacking tab (the one that looks like a command prompt). The player then must switch to the command prompt, type in a \"hack\", and press enter. They will then be prompted to enter an integer (numbers), string (words), or boolean (true/false) to complete the hack. After completing the hack, the player can go back to the platformer to see what changed.<br><br>Here's an example of what happens in the hacking tab with a player doubling their speed:<br>-------------------<br>Enter Hack: <strong>speed</strong><br>-------------------<br>Speed Hack:<br>-------------------<br>Variable Type: Integer<br>Default State: 6<br>Current State: 6<br>-------------------<br>Enter new speed: <strong>12</strong><br>Hack Successful!<br>-------------------<br>Hacking process complete<br>Go back to the game<br>-------------------<br><br>The game encourages using trial and error to see what each hack does (and using the hack \"list\" to see which hacks exist), but here's what they do if you don't want to test them out for yourself:<br><br>\"ascend\" - Enter a boolean. When enabled, platforms rise into the sky whenever the player steps on them.<br>\"birdNumber\" - Enter an integer. Affects the maximum amount of birds the player can spawn.<br>\"birdPoop\" - Enter a boolean. When enabled, birds will occasionally drop bird poop.<br>\"birdPoopRate\" - Enter an integer. Affects the rate at which birds can drop poop (\"birdPoop\" must be enabled to see this change).<br>\"birdSpeed\" - Enter an integer. Affects the speed at which the birds fly.<br>\"blackhole\" - Enter a boolean. Enables a blackhole that sucks in all sprites and the player's mouse. The game warns you to have caution, since it will take control of your mouse while this hack is enabled.<br>\"clearScreen\" - Enter a boolean. When enabled, the command prompt is cleared.<br>\"clone\" - Enter a boolean. When enabled, clones of the player can be created by pressing the space bar.<br>\"color\" - Enter three integers, as instructed. Affects the background color of the sky.<br>\"deathTouch\" - Enter a boolean. When enabled, the player destroys whatever they touch.<br>\"fly\" - Enter a boolean. When enabled, the player can fly.<br>\"gravity\" - Enter an integer. Affects the strength of the game's gravity.<br>\"jump\" - Enter an integer. Affects the player's jump height.<br>\"language\" - Enter a string as prompted. Changes the language of the words \"Dull Platformer\" at the top of the tab, and of the \"Ouch\" said by sprites when they crash their heads into platforms.<br>\"list\" - Shows this list of hacks. Does not show the hack \"secret\".<br>\"morph\" - Enter a string as prompted. Changes the player into other sprites in the game. Your hit-box and abilities are updated accordingly.<br>\"mousePlay\" - Enter a boolean. When enabled, the player becomes your mouse, and the game attempts to give your mouse collision detection. As with the hack \"blackhole\", the game cautions you that this hack will take control of your mouse.<br>\"multiplayer\" - Enter a boolean. When enabled, a second player can join by playing on the same keyboard as instructed.<br>\"music\" - Enter a string as prompted. Allows players to change the sounds of the game to a song, silence, or the tutorial again.<br>\"secret\" - Enter a boolean. When enabled, the birds and flowers get sunglasses.<br>\"speed\" - Enter an integer. Affects the speed of the player.<br>\"weather\" - Enter a string as prompted. Changes the weather of the platformer.<br><br>As players experiment with different hacks, 5 pieces of a key can be found. When the player finds all 5 pieces, the narrator comes back to speak to you and the ending is unlocked.",
-  "about_the_game": "A simple world where the player is able to change things that are not supposed to be changed. Welcome to Curiosity, the game where you can hack. Try out different hacks, get creative, entertain yourself! And hey, maybe you'll find a secret or two along the way!<br><br>This is an infinite platformer with horizontal player movement. When the game is started, two tabs open: one with the platformer itself, and one that appears to be a command prompt. A narrator starts speaking, and quickly notes that the platformer seems to be dull and uninteresting. He then tutorials the player on how to \"hack\". \"Hacking\" gives the ability to change important variables in the code and to enable things that affect the environment.<br><br>As the narrator will explain, to \"hack\", the player must press the \"h\" key while the platformer tab is selected. The platformer will then freeze as it waits for input from the hacking tab (the one that looks like a command prompt). The player then must switch to the command prompt, type in a \"hack\", and press enter. They will then be prompted to enter an integer (numbers), string (words), or boolean (true/false) to complete the hack. After completing the hack, the player can go back to the platformer to see what changed.<br><br>Here's an example of what happens in the hacking tab with a player doubling their speed:<br>-------------------<br>Enter Hack: <strong>speed</strong><br>-------------------<br>Speed Hack:<br>-------------------<br>Variable Type: Integer<br>Default State: 6<br>Current State: 6<br>-------------------<br>Enter new speed: <strong>12</strong><br>Hack Successful!<br>-------------------<br>Hacking process complete<br>Go back to the game<br>-------------------<br><br>The game encourages using trial and error to see what each hack does (and using the hack \"list\" to see which hacks exist), but here's what they do if you don't want to test them out for yourself:<br><br>\"ascend\" - Enter a boolean. When enabled, platforms rise into the sky whenever the player steps on them.<br>\"birdNumber\" - Enter an integer. Affects the maximum amount of birds the player can spawn.<br>\"birdPoop\" - Enter a boolean. When enabled, birds will occasionally drop bird poop.<br>\"birdPoopRate\" - Enter an integer. Affects the rate at which birds can drop poop (\"birdPoop\" must be enabled to see this change).<br>\"birdSpeed\" - Enter an integer. Affects the speed at which the birds fly.<br>\"blackhole\" - Enter a boolean. Enables a blackhole that sucks in all sprites and the player's mouse. The game warns you to have caution, since it will take control of your mouse while this hack is enabled.<br>\"clearScreen\" - Enter a boolean. When enabled, the command prompt is cleared.<br>\"clone\" - Enter a boolean. When enabled, clones of the player can be created by pressing the space bar.<br>\"color\" - Enter three integers, as instructed. Affects the background color of the sky.<br>\"deathTouch\" - Enter a boolean. When enabled, the player destroys whatever they touch.<br>\"fly\" - Enter a boolean. When enabled, the player can fly.<br>\"gravity\" - Enter an integer. Affects the strength of the game's gravity.<br>\"jump\" - Enter an integer. Affects the player's jump height.<br>\"language\" - Enter a string as prompted. Changes the language of the words \"Dull Platformer\" at the top of the tab, and of the \"Ouch\" said by sprites when they crash their heads into platforms.<br>\"list\" - Shows this list of hacks. Does not show the hack \"secret\".<br>\"morph\" - Enter a string as prompted. Changes the player into other sprites in the game. Your hit-box and abilities are updated accordingly.<br>\"mousePlay\" - Enter a boolean. When enabled, the player becomes your mouse, and the game attempts to give your mouse collision detection. As with the hack \"blackhole\", the game cautions you that this hack will take control of your mouse.<br>\"multiplayer\" - Enter a boolean. When enabled, a second player can join by playing on the same keyboard as instructed.<br>\"music\" - Enter a string as prompted. Allows players to change the sounds of the game to a song, silence, or the tutorial again.<br>\"secret\" - Enter a boolean. When enabled, the birds and flowers get sunglasses.<br>\"speed\" - Enter an integer. Affects the speed of the player.<br>\"weather\" - Enter a string as prompted. Changes the weather of the platformer.<br><br>As players experiment with different hacks, 5 pieces of a key can be found. When the player finds all 5 pieces, the narrator comes back to speak to you and the ending is unlocked.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 3.7,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 74,
-  "review_positive": 59,
+  "review_positive": 0,
   "review_percentage": 79.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 74,
-      "review_percentage": 79.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 74,
       "review_percentage": 79.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

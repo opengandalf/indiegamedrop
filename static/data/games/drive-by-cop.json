@@ -3,8 +3,8 @@
   "name": "Drive-By Cop",
   "slug": "drive-by-cop",
   "developer": "qrnch Tech AB",
-  "publisher": "qrnch Tech AB",
-  "release_date": "Jul 26, 2021",
+  "publisher": "",
+  "release_date": "2021-07-26",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -22,40 +22,15 @@
   ],
   "short_description": "You take the role as drive-by cop, load your gun and try to steer and shoot at the same time as you drive through the city and bust as many criminals as you can. Supports both VR and Non-VR.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324630/header.jpg?t=1627397269",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324630/ss_ae7ef190e036d0e82873dffb50fa7daf9eb5d053.600x338.jpg?t=1627397269",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324630/ss_2fff52c090e2a68618a27dacd2fa24612f0dad5e.600x338.jpg?t=1627397269",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324630/ss_0c7cf991833f69691e111fb29923086b6b90c0f2.600x338.jpg?t=1627397269",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324630/ss_df2d34719feb9d35fdeca209bdba9f5d148959e1.600x338.jpg?t=1627397269",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324630/ss_546f98a43cc983d57499261e7b5a02696ea70498.600x338.jpg?t=1627397269",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324630/ss_8edaba5e41ef883d86fa79c7b01fc2ac6887b7ce.600x338.jpg?t=1627397269",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324630/ss_fc4a490547724057694ee964ac85f1e868943fe8.600x338.jpg?t=1627397269",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324630/ss_bee043c3a7a635e54331e55b8e5f2f3971763318.600x338.jpg?t=1627397269",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324630/ss_158e38b9b6244e7af3239d9cf218a5a0fca9c929.600x338.jpg?t=1627397269",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324630/ss_a1916e209d3f44950a4e3bf439e542c64d1aaf5e.600x338.jpg?t=1627397269"
-  ],
-  "detailed_description": "Drive-by Cop: a driving and shooting game made specifically for VR, but can also be played in desktop mode.<br><br>Criminals are invading the city.<br>Drive-by Cop is the only one who can stop them.<br><br>You take the role as drive-by cop, load your gun and try to steer and shoot at the same time as you drive through the city and bust as many criminals as you can. Navigate the busy streets, narrow back alleys or down to the beach. You have 3 minutes to bust as many criminals as possible to get the highest score.<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li>Optional interactive steering wheel<br></li><li>Different speed options to minimize motion sickness<br></li><li>Cloud saved highscore<br></li><li>Original soundtrack</li></ul><h2 class=\"bb_tag\" >Supported controls</h2><ul class=\"bb_ul\"><li>Steam VR: Vive and Valve Index Controllers<br></li><li>Oculus VR: Oculus Touch Controllers<br></li><li>Non-VR: Keyboard / Mouse, Standard Controller</li></ul>",
-  "about_the_game": "Drive-by Cop: a driving and shooting game made specifically for VR, but can also be played in desktop mode.<br><br>Criminals are invading the city.<br>Drive-by Cop is the only one who can stop them.<br><br>You take the role as drive-by cop, load your gun and try to steer and shoot at the same time as you drive through the city and bust as many criminals as you can. Navigate the busy streets, narrow back alleys or down to the beach. You have 3 minutes to bust as many criminals as possible to get the highest score.<h2 class=\"bb_tag\" >Key Features</h2><ul class=\"bb_ul\"><li>Optional interactive steering wheel<br></li><li>Different speed options to minimize motion sickness<br></li><li>Cloud saved highscore<br></li><li>Original soundtrack</li></ul><h2 class=\"bb_tag\" >Supported controls</h2><ul class=\"bb_ul\"><li>Steam VR: Vive and Valve Index Controllers<br></li><li>Oculus VR: Oculus Touch Controllers<br></li><li>Non-VR: Keyboard / Mouse, Standard Controller</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Supported",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -63,19 +38,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Corona Find Us",
   "slug": "corona-find-us",
   "developer": "LKHTest",
-  "publisher": "LKHTest",
-  "release_date": "Jun 10, 2020",
+  "publisher": "",
+  "release_date": "2020-06-10",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -25,37 +25,15 @@
   ],
   "short_description": "A party game about cleaning virus. Shared/Split Screen Co-op gameplay for no limitation of player numbers.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321760/header.jpg?t=1712591084",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321760/ss_396ba840d356a020c43ad6f88b768a04f0e55326.600x338.jpg?t=1712591084",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321760/ss_e05bbcbb9c0267bc55d054b9322cf900d49da878.600x338.jpg?t=1712591084",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321760/ss_f282846e7c420356cfb88a7758b1b31dbc99bf5b.600x338.jpg?t=1712591084",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321760/ss_38d8dfdac6a44feb347947f1c78e386173c07585.600x338.jpg?t=1712591084",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1321760/ss_e5b6ceb48109134ccc4d2dd587cab37467ecbf08.600x338.jpg?t=1712591084"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >About this game</h2><strong>Corona Find Us: </strong> A party game about cleaning corona virus.<br>You are going to control a nano technology robot to destroy corona virus in people's lung.<br>Which is the best game for family, you and your friends during the isolation because of the covid-19.<h2 class=\"bb_tag\" >Feature</h2><br>• Shared/Split Screen Co-op<br>• Randomly generated levels<br>• No limitation of player numbers (2 to 16players are suggested)<br>• Fancy particle effect",
-  "about_the_game": "<h2 class=\"bb_tag\" >About this game</h2><strong>Corona Find Us: </strong> A party game about cleaning corona virus.<br>You are going to control a nano technology robot to destroy corona virus in people's lung.<br>Which is the best game for family, you and your friends during the isolation because of the covid-19.<h2 class=\"bb_tag\" >Feature</h2><br>• Shared/Split Screen Co-op<br>• Randomly generated levels<br>• No limitation of player numbers (2 to 16players are suggested)<br>• Fancy particle effect",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.30000000000000004,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 6,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 33.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -63,19 +41,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 33.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 33.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

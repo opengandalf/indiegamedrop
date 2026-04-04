@@ -3,8 +3,8 @@
   "name": "Ultimate Sudoku Collection",
   "slug": "ultimate-sudoku-collection",
   "developer": "Stanley Lam",
-  "publisher": "Stanley Lam",
-  "release_date": "May 18, 2018",
+  "publisher": "",
+  "release_date": "2018-05-18",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -22,59 +22,27 @@
   ],
   "short_description": "The best Sudoku game on Steam.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851810/header.jpg?t=1667008740",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851810/ss_074c1c364e9f890652ac0937f281894cdbd88d62.600x338.jpg?t=1667008740",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851810/ss_caa8bc0711d23bf0fc0c666c8fec6ccd27697670.600x338.jpg?t=1667008740",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851810/ss_121a228ee76d7932b4bb3435d7977b0096859ace.600x338.jpg?t=1667008740",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851810/ss_d55843e22e29dde29ec256963d10735c9318c34c.600x338.jpg?t=1667008740",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851810/ss_7de46b2b185ab84974e9b60cbe17b1ea4d09d956.600x338.jpg?t=1667008740"
-  ],
-  "detailed_description": "Ultimate Sudoku Collection contains several variations of Sudoku game.<br />\r\n<br />\r\nSudoku basic rule: Fill numbers in the board such that every row, column and region contains one occurrence of each number. <br />\r\n<br />\r\nFeatures:<br />\r\n- Beginner, Easy, Moderate, Hard and Expert difficulties for every game type<br />\r\n- Tons of puzzles guarenteed to have only one solution<br />\r\n- Easy note taking<br />\r\n- Autosave the process of unfinished levels<br />\r\n- Record best completion time for each level<br />\r\n- Hint feature<br />\r\n- Achievements<br />\r\n<br />\r\nCurrent Game Types:<br />\r\n- Basic<br />\r\n- Gattai-3<br />\r\n- Gattai-3 Diagonal<br />\r\n- Gattai-3 Anti-Diagonal<br />\r\n- Butterfly<br />\r\n- Sohei<br />\r\n- Flower<br />\r\n- Samurai<br />\r\n- Samurai Jigsaw<br />\r\n- Samurai Diagonal<br />\r\n- Samurai Anti-Diagonal<br />\r\n- Cross",
-  "about_the_game": "Ultimate Sudoku Collection contains several variations of Sudoku game.<br />\r\n<br />\r\nSudoku basic rule: Fill numbers in the board such that every row, column and region contains one occurrence of each number. <br />\r\n<br />\r\nFeatures:<br />\r\n- Beginner, Easy, Moderate, Hard and Expert difficulties for every game type<br />\r\n- Tons of puzzles guarenteed to have only one solution<br />\r\n- Easy note taking<br />\r\n- Autosave the process of unfinished levels<br />\r\n- Record best completion time for each level<br />\r\n- Hint feature<br />\r\n- Achievements<br />\r\n<br />\r\nCurrent Game Types:<br />\r\n- Basic<br />\r\n- Gattai-3<br />\r\n- Gattai-3 Diagonal<br />\r\n- Gattai-3 Anti-Diagonal<br />\r\n- Butterfly<br />\r\n- Sohei<br />\r\n- Flower<br />\r\n- Samurai<br />\r\n- Samurai Jigsaw<br />\r\n- Samurai Diagonal<br />\r\n- Samurai Anti-Diagonal<br />\r\n- Cross",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 8.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 192,
-  "review_positive": 146,
+  "review_positive": 0,
   "review_percentage": 76.0,
-  "owner_estimate": 75000,
-  "ccu_estimate": 3,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 186,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 184,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 192,
       "review_percentage": 76.0,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
-      "review_count": 192,
-      "review_percentage": 76.0,
-      "ccu_estimate": 3,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

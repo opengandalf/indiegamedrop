@@ -3,8 +3,8 @@
   "name": "Antiquitas",
   "slug": "antiquitas",
   "developer": "Ape Apps",
-  "publisher": "Ape Apps",
-  "release_date": "Sep 29, 2018",
+  "publisher": "",
+  "release_date": "2018-09-29",
   "price_usd": 2.99,
   "genres": [
     "Simulation",
@@ -21,35 +21,15 @@
   ],
   "short_description": "Build a thriving Roman empire in this offline city-building simulation game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/935750/f67191adf5dd69d3e8d501e357cf9e990977610c/header.jpg?t=1745594445",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/935750/2f374af438c281fb6bfc52561327c895c65dedb2/ss_2f374af438c281fb6bfc52561327c895c65dedb2.600x338.jpg?t=1745594445",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/935750/c468d51d23689ee096d3191e64e224dd044896d8/ss_c468d51d23689ee096d3191e64e224dd044896d8.600x338.jpg?t=1745594445",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/935750/ef28e8dad8fb8dc8f41dfe9d785bc77eec866e0f/ss_ef28e8dad8fb8dc8f41dfe9d785bc77eec866e0f.600x338.jpg?t=1745594445",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/935750/ab4e4973fb4ca74056cd2a5770e39427a9c08c99/ss_ab4e4973fb4ca74056cd2a5770e39427a9c08c99.600x338.jpg?t=1745594445",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/935750/f53d3632fd4ba356244ef96430edace97869ff5b/ss_f53d3632fd4ba356244ef96430edace97869ff5b.600x338.jpg?t=1745594445"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Step into the toga of a Roman governor and build your own ancient empire from the ground up!</p><p class=\"bb_paragraph\" >Antiquitas is a historical city-building simulation from the creator of My Colony, set in the golden age of Rome. Grow your civilization from a humble village into a mighty empire, managing resources, citizens, and trade across expansive ancient landscapes.</p><p class=\"bb_paragraph\" >- Build anytime, anywhere - no connection required!</p><p class=\"bb_paragraph\" >- Resource production and trade</p><p class=\"bb_paragraph\" >- Full colony simulation – housing, jobs, education, entertainment</p><p class=\"bb_paragraph\" >- Deep tech tree spanning Roman innovation</p><p class=\"bb_paragraph\" >- Trade and interact with other players online (optional)!</p><p class=\"bb_paragraph\" >Whether you’re a seasoned city-builder or new to the genre, Antiquitas offers a rewarding and relaxing empire management experience with no time limits or paywalls.</p><p class=\"bb_paragraph\" >Begin your rise to glory today!</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Step into the toga of a Roman governor and build your own ancient empire from the ground up!</p><p class=\"bb_paragraph\" >Antiquitas is a historical city-building simulation from the creator of My Colony, set in the golden age of Rome. Grow your civilization from a humble village into a mighty empire, managing resources, citizens, and trade across expansive ancient landscapes.</p><p class=\"bb_paragraph\" >- Build anytime, anywhere - no connection required!</p><p class=\"bb_paragraph\" >- Resource production and trade</p><p class=\"bb_paragraph\" >- Full colony simulation – housing, jobs, education, entertainment</p><p class=\"bb_paragraph\" >- Deep tech tree spanning Roman innovation</p><p class=\"bb_paragraph\" >- Trade and interact with other players online (optional)!</p><p class=\"bb_paragraph\" >Whether you’re a seasoned city-builder or new to the genre, Antiquitas offers a rewarding and relaxing empire management experience with no time limits or paywalls.</p><p class=\"bb_paragraph\" >Begin your rise to glory today!</p>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "In-App Purchases",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.9,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 18,
-  "review_positive": 14,
+  "review_positive": 0,
   "review_percentage": 77.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 19,
-      "review_percentage": 78.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 18,
       "review_percentage": 77.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

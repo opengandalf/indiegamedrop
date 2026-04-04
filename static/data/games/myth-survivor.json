@@ -3,8 +3,8 @@
   "name": "Myth Survivor",
   "slug": "myth-survivor",
   "developer": "Myth Studio",
-  "publisher": "Myth Studio",
-  "release_date": "Aug 9, 2024",
+  "publisher": "",
+  "release_date": "2024-08-09",
   "price_usd": 3.99,
   "genres": [
     "Action",
@@ -25,41 +25,9 @@
   ],
   "short_description": "",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178390/header.jpg?t=1760259491",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178390/ss_ad8eaf2590ed3f96b9c2865d0ef9c9486662f67b.600x338.jpg?t=1760259491",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178390/ss_65701c0c35640d7f9c57d970f825b2f5e73e2a6e.600x338.jpg?t=1760259491",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178390/ss_407e5f87c497434bd8b214c448665554327499bb.600x338.jpg?t=1760259491",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178390/ss_a77af5ba2d7f0a75f7ade703ecb9c1961df61858.600x338.jpg?t=1760259491",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178390/ss_33d53e34fd71eb0a5b6b8efd7a9bea64a0a44f3d.600x338.jpg?t=1760259491"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ></p>",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Ukrainian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Online Co-op",
-    "LAN Co-op",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Steam Cloud",
-    "Stats",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -67,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

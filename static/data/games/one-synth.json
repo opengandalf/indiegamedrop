@@ -3,8 +3,8 @@
   "name": "One Synth",
   "slug": "one-synth",
   "developer": "Kawaiisun Games",
-  "publisher": "Kawaiisun Games",
-  "release_date": "Feb 16, 2019",
+  "publisher": "",
+  "release_date": "2019-02-16",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -24,34 +24,9 @@
   ],
   "short_description": "A text based adventure editor - upload and play text based games from across the world using Steam Workshop",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014550/header.jpg?t=1553049096",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014550/ss_86cffbeff73e9bfb47a756db6f1e5ad45b4e0dd1.600x338.jpg?t=1553049096",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014550/ss_a3b76bb9735b9c5bb1569798faa375823e98b6aa.600x338.jpg?t=1553049096",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014550/ss_fa03e74de77aa7a6e3ff76f93dec6015970dd384.600x338.jpg?t=1553049096",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014550/ss_712ddd3577ac4e2ced282b3001fcd8e7872c6ba8.600x338.jpg?t=1553049096",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014550/ss_854cf0779ff626daeb26447f423389da24525c73.600x338.jpg?t=1553049096",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014550/ss_eaafb43af53801117f85e275127e3a4bb4853cfc.600x338.jpg?t=1553049096"
-  ],
-  "detailed_description": "This is a simple game. Use it to make, share, and play text-only stories.<br><br>One Synth is a text based adventure editor based in a Gameboy aesthetic. <br>Using the Create feature you can design stories that:<ul class=\"bb_ul\"><li>Have multiple endings<br></li><li>Can be manipulated by user interaction<br></li><li>Loop back to checkpoints<br></li><li>Store variables when decisions are made<br></li><li>Alternate stories based on saved variables<br></li><li>Are fun to play</li></ul><br>The game is directly fueled by Steam Workshop, featuring upload and download capabilities from within game.<br>This allows anybody with a Steam account to play completely for free and enjoy an expansive, ever-growing community effort.<br><br>Make stories. Share stories. Play stories.<br><br>This, is One Synth.",
-  "about_the_game": "This is a simple game. Use it to make, share, and play text-only stories.<br><br>One Synth is a text based adventure editor based in a Gameboy aesthetic. <br>Using the Create feature you can design stories that:<ul class=\"bb_ul\"><li>Have multiple endings<br></li><li>Can be manipulated by user interaction<br></li><li>Loop back to checkpoints<br></li><li>Store variables when decisions are made<br></li><li>Alternate stories based on saved variables<br></li><li>Are fun to play</li></ul><br>The game is directly fueled by Steam Workshop, featuring upload and download capabilities from within game.<br>This allows anybody with a Steam account to play completely for free and enjoy an expansive, ever-growing community effort.<br><br>Make stories. Share stories. Play stories.<br><br>This, is One Synth.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Workshop",
-    "Includes level editor"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 4.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 55,
-  "review_positive": 48,
+  "review_positive": 0,
   "review_percentage": 87.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +34,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 51,
-      "review_percentage": 86.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 55,
       "review_percentage": 87.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

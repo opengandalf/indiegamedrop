@@ -3,8 +3,8 @@
   "name": "3tene",
   "slug": "3tene",
   "developer": "PLUSPLUS Co.,LTD",
-  "publisher": "PLUSPLUS Co.,LTD",
-  "release_date": "Jul 17, 2018",
+  "publisher": "",
+  "release_date": "2018-07-17",
   "price_usd": 0.0,
   "genres": [
     "Animation & Modeling"
@@ -16,31 +16,17 @@
     "windows",
     "mac"
   ],
-  "short_description": "It is an application made for the person who aims for virtual youtube from now on easily for easy handling. If there is a web camera, it blinks with face recognition, the direction of the face. You can project from microphone to lip sync (interlocking of lip movement) avatar.",
+  "short_description": "It is an application made for the person who aims for virtual youtube from now on easily for easy handling. If there is a web camera, it blinks with face recognition, the direction of the face. You ca",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/871170/header.jpg?t=1750225728",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/871170/ss_64712445d66ee1dc58e39735d634e794d637bf9c.600x338.jpg?t=1750225728",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/871170/ss_22242da4f8f1e32fe77f9165160313e67858ad4d.600x338.jpg?t=1750225728",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/871170/ss_fe278832ec1591836111ee0a519e3bceabe9b18c.600x338.jpg?t=1750225728",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/871170/ss_bbbadf626d3645062f8bae15c1717d75db42897d.600x338.jpg?t=1750225728",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/871170/ss_51a13f7e0e44faa64b4ef876e664c80df9885e21.600x338.jpg?t=1750225728"
-  ],
-  "detailed_description": "It is an application made for the person who aims for virtual youtube from now on easily for easy handling.<br />\r\nIf there is a web camera, it blinks with face recognition, the direction of the face. You can project from microphone to lip sync (interlocking of lip movement) avatar.<br />\r\nYou can also change your avatar by changing expressions and poses without a web camera.<br />\r\nIt corresponds to VRM of 3D avatar format format for VR proposed by Dwango.<br />\r\nRecording function, screenshot shooting function, blue background for chromakey synthesis, background effects, effect design and all necessary functions are included.",
-  "about_the_game": "It is an application made for the person who aims for virtual youtube from now on easily for easy handling.<br />\r\nIf there is a web camera, it blinks with face recognition, the direction of the face. You can project from microphone to lip sync (interlocking of lip movement) avatar.<br />\r\nYou can also change your avatar by changing expressions and poses without a web camera.<br />\r\nIt corresponds to VRM of 3D avatar format format for VR proposed by Dwango.<br />\r\nRecording function, screenshot shooting function, blue background for chromakey synthesis, background effects, effect design and all necessary functions are included.",
-  "supported_languages": "English, Simplified Chinese, Traditional Chinese, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0008,
+  "screenshots": [],
+  "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 10.0,
+  "review_velocity_7d": 16.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 324,
-  "review_positive": 281,
+  "review_positive": 0,
   "review_percentage": 86.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -48,26 +34,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 314,
-      "review_percentage": 86.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 324,
-      "review_percentage": 86.7,
-      "ccu_estimate": 38,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 324,
       "review_percentage": 86.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Agent of Chaos",
   "slug": "agent-of-chaos",
   "developer": "Order & Entropy Studios",
-  "publisher": "Order & Entropy Studios",
-  "release_date": "Dec 22, 2020",
+  "publisher": "",
+  "release_date": "2020-12-22",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -21,31 +21,15 @@
   ],
   "short_description": "Agent of Chaos is a top-down wave survival game about an avatar of chaos using powerful elemental weapons to defeat hordes of heroes.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486270/header.jpg?t=1608624062",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486270/ss_0f96646d768afbba2b3d0b5ade32524c828f277f.600x338.jpg?t=1608624062",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486270/ss_37a570f547719fc64c80fc7c486a9fda887f123e.600x338.jpg?t=1608624062",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486270/ss_c72d358a180f6c2f51774aeee8d1c307435a2947.600x338.jpg?t=1608624062",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486270/ss_48e5661f5165dd72b7013fa788a95ab19b090435.600x338.jpg?t=1608624062",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1486270/ss_fe5267f2188a151a51a805494d55805d1d5c98c5.600x338.jpg?t=1608624062"
-  ],
-  "detailed_description": "Agent of Chaos is a top-down wave survival game about an avatar of chaos using powerful elemental weapons to defeat hordes of heroes.<br />\r\n<br />\r\nYou are the minion of the Agent, pointing them in the direction of the heroes to brutally crush. Utilize an array of constantly swapping weapons to defeat a cast of heroes come to claim glory in defeating the Agent. How long can you last against the heroes of the kingdom?",
-  "about_the_game": "Agent of Chaos is a top-down wave survival game about an avatar of chaos using powerful elemental weapons to defeat hordes of heroes.<br />\r\n<br />\r\nYou are the minion of the Agent, pointing them in the direction of the heroes to brutally crush. Utilize an array of constantly swapping weapons to defeat a cast of heroes come to claim glory in defeating the Agent. How long can you last against the heroes of the kingdom?",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.1500000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 23,
-  "review_positive": 19,
+  "review_positive": 0,
   "review_percentage": 82.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 21,
-      "review_percentage": 85.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 23,
       "review_percentage": 82.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

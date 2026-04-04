@@ -3,8 +3,8 @@
   "name": "Ice Lakes",
   "slug": "ice-lakes",
   "developer": "Iceflake Studios",
-  "publisher": "Paradox Interactive",
-  "release_date": "Apr 19, 2016",
+  "publisher": "",
+  "release_date": "2016-04-19",
   "price_usd": 14.99,
   "genres": [
     "Indie",
@@ -21,153 +21,23 @@
     "mac",
     "linux"
   ],
-  "short_description": "Ice Lakes is a modern ice fishing simulator with different single and multiplayer game modes and sandbox approach to wintertime fishing. Use and customize wide selection of fishing gear and learn how changing season, bottom topology, time of day and weather conditions affects fish behavior.",
+  "short_description": "Ice Lakes is a modern ice fishing simulator with different single and multiplayer game modes and sandbox approach to wintertime fishing. Use and customize wide selection of fishing gear and learn how ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/header.jpg?t=1711379282",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_6c353137347403b1056e50b39e3126105c53ab90.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_555284548469f76ba8757aec2f0e8964d5904a8a.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_b2d9d4a705d35c710f066ebacdb5bfc17b6246a0.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_7d81d3f81c69f2e35b7f27b4ae66f145612a8612.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_6e6ec989eec3c179d7742ff55efe1d7cae81ebe8.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_213e18f42309862f42df1e7313e4a8e237aea62b.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_91b3dd4b883f6c8d7b1cd327248c07671a67cd5c.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_21245b919355c1dfefd796fba3181457f7736ec9.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_26930f32be35103cdcd619cb5e1250ead6ca7699.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_fa3dd6f4c8358cf08f48087ebd1b360d96406999.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_b6ec6cf812faa9ef2620f8be80b39af0d89fedda.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_03127a5a2d4067850c1bd414db2270aa17f98aad.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_4f6ac531b8b7cf09e58d3814da2e48db527c2706.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_b87b37d67d22254504c302d1e6b0402ba61574d7.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_0796d546fd3c594cd7027b1518003dea1d0c463c.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_d0c653550d48951dd37609f0fb188258c4650da5.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_134ec8217bde37cc1210f38ce9aef1b3a236389d.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_dfb83aac8eb9f8e7de4fa96209bd4d4ddadda031.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_b2137148d69f0f33edd1879b4e454766b19d0580.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_25dc29d504e5567f669f68d181434d70bb97d814.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_f1a86e10ed9cfe8512a6e0152c0f2c6d0bbb3094.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_792fab0e8093f586ec4876fb8b194bcd61b8b25c.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_37aa87196ebcc4654ea686c811bd6579edc3caf2.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_2137e9f4dab05776519e9b488a3ca24e54aca1c9.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_fa650bfd8e9b6a8fa8dd6956a966941125738ea9.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_5a5e23df64b41dbf5b7b4013db864c810c2bf723.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_1add35b8c1e08c43d280612808969920bfeacf85.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_0ccd8acb355951062f888d04a34558c8e4f9eb91.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_8749fa64aa1f984a5340ac6f1e9d101f66b58701.600x338.jpg?t=1711379282",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393430/ss_ebce0ded8d43d71e0595199a76afa5e6e0bd1f2e.600x338.jpg?t=1711379282"
-  ],
-  "detailed_description": "Ice Lakes is an ultimate ice fishing game with a sandbox approach to wintertime fishing. Rare subject, stunning graphics, realistic physics, fish behavior system, wide selection of fishing gear, single and multiplayer with different game modes in the various locations around the world, changing season, day time and weather conditions that also affect fish behavior makes Ice Lakes the ultimate ice fishing simulator. What makes this a unique fishing game are features like fish fights, VR support, fishing locations and species around the world, which no other ice fishing game has! The game can be played both with or without VR system.<h2 class=\"bb_tag\" >Game Features</h2><ul class=\"bb_ul\"><li>Single player<br></li><li>Multiplayer up to 32 players (Online and LAN)<br></li><li>Dedicated servers (alpha version)<br></li><li>35 fish species<br></li><li>23 open world maps<br></li><li>18 competition modes<br></li><li>18 tournaments<br></li><li>Battle Royale mode<br></li><li>Fish fights<br></li><li>Extensive statistics about everything<br></li><li>Character customization<br></li><li>Rod movement. Lure the fish to take a bait by rod movement<br></li><li>Changing weather and time of day<br></li><li>Change of seasons (fall, winter, spring)<br></li><li>Fish behavior engine. A fish AI and swarm system controlling each species<br></li><li>Fishing equipment. Learn and master the use of dozens of jigs, rods, augers, baits and lures<br></li><li>Online leaderboards<br></li><li>VR Support</li></ul><h2 class=\"bb_tag\" >Game Description</h2><br>In this game players can roam freely in the beautiful open world maps and explore river, pond and lake locations in diverse environments. Dare to go deeper into the wild where no fisherman has gone before and find the biggest catches. All maps are playable both in single player and multiplayer modes.<br><br>Finding the best fishing spots by learning the depth maps and bottom topology of each location is fun, but requires patience and dedication. Nothing wins the expectation of finding the best location or catching the biggest fish from each lake.<br><br>The real excitement starts when it is time to throw fishing lines into the water and start fishing! The right equipment for right conditions are as essential as is mastering the location. The realistic fish behavior system, fish AI and fish swarms for almost 30 fish species makes this game a lifelike fishing experience. Fishing gear can be chosen from a wide selection of different jigs, rods, augers and baits. A perfect combination of equipment for different species depends on the season, but especially weather and daytime conditions. Controlling a rod and a jig in the water in a right way and at the right depth in Ice Lakes is a skill of its own. Rod and jig physics guarantees that fish react authentically to player's actions. <br><br>Fishing independently without time limits or competitors makes Ice Lakes a relaxing game to play and tune your fishing skills in the comfort of your home. On the other hand, lengthy tournaments and very customizable single competitions will test the player's skills and knowledge, but will reward them with new equipment and limitless fame.<h2 class=\"bb_tag\" >Future development</h2>After the release the development of Ice Lakes will continue and is improved based on the wishes of the community. Moreover, the game will get free content updates including more maps, game modes, fish species, equipment and more.",
-  "about_the_game": "Ice Lakes is an ultimate ice fishing game with a sandbox approach to wintertime fishing. Rare subject, stunning graphics, realistic physics, fish behavior system, wide selection of fishing gear, single and multiplayer with different game modes in the various locations around the world, changing season, day time and weather conditions that also affect fish behavior makes Ice Lakes the ultimate ice fishing simulator. What makes this a unique fishing game are features like fish fights, VR support, fishing locations and species around the world, which no other ice fishing game has! The game can be played both with or without VR system.<h2 class=\"bb_tag\" >Game Features</h2><ul class=\"bb_ul\"><li>Single player<br></li><li>Multiplayer up to 32 players (Online and LAN)<br></li><li>Dedicated servers (alpha version)<br></li><li>35 fish species<br></li><li>23 open world maps<br></li><li>18 competition modes<br></li><li>18 tournaments<br></li><li>Battle Royale mode<br></li><li>Fish fights<br></li><li>Extensive statistics about everything<br></li><li>Character customization<br></li><li>Rod movement. Lure the fish to take a bait by rod movement<br></li><li>Changing weather and time of day<br></li><li>Change of seasons (fall, winter, spring)<br></li><li>Fish behavior engine. A fish AI and swarm system controlling each species<br></li><li>Fishing equipment. Learn and master the use of dozens of jigs, rods, augers, baits and lures<br></li><li>Online leaderboards<br></li><li>VR Support</li></ul><h2 class=\"bb_tag\" >Game Description</h2><br>In this game players can roam freely in the beautiful open world maps and explore river, pond and lake locations in diverse environments. Dare to go deeper into the wild where no fisherman has gone before and find the biggest catches. All maps are playable both in single player and multiplayer modes.<br><br>Finding the best fishing spots by learning the depth maps and bottom topology of each location is fun, but requires patience and dedication. Nothing wins the expectation of finding the best location or catching the biggest fish from each lake.<br><br>The real excitement starts when it is time to throw fishing lines into the water and start fishing! The right equipment for right conditions are as essential as is mastering the location. The realistic fish behavior system, fish AI and fish swarms for almost 30 fish species makes this game a lifelike fishing experience. Fishing gear can be chosen from a wide selection of different jigs, rods, augers and baits. A perfect combination of equipment for different species depends on the season, but especially weather and daytime conditions. Controlling a rod and a jig in the water in a right way and at the right depth in Ice Lakes is a skill of its own. Rod and jig physics guarantees that fish react authentically to player's actions. <br><br>Fishing independently without time limits or competitors makes Ice Lakes a relaxing game to play and tune your fishing skills in the comfort of your home. On the other hand, lengthy tournaments and very customizable single competitions will test the player's skills and knowledge, but will reward them with new equipment and limitless fame.<h2 class=\"bb_tag\" >Future development</h2>After the release the development of Ice Lakes will continue and is improved based on the wishes of the community. Moreover, the game will get free content updates including more maps, game modes, fish species, equipment and more.",
-  "supported_languages": "English, Finnish, German, Korean, Japanese, Russian, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Cross-Platform Multiplayer",
-    "Steam Achievements",
-    "Tracked Controller Support",
-    "VR Supported",
-    "Steam Trading Cards",
-    "Steam Cloud",
-    "Stats",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 1120,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 1640,
-  "review_positive": 1409,
+  "review_positive": 0,
   "review_percentage": 85.9,
   "owner_estimate": 350000,
-  "ccu_estimate": 3,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 237,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1599,
-      "review_percentage": 85.7,
+      "date": "2026-04-04",
+      "review_count": 1640,
+      "review_percentage": 85.9,
       "ccu_estimate": 0,
       "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 1639,
-      "review_percentage": 85.9,
-      "ccu_estimate": 3,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
-      "review_count": 1639,
-      "review_percentage": 85.9,
-      "ccu_estimate": 3,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
-      "review_count": 1639,
-      "review_percentage": 85.9,
-      "ccu_estimate": 3,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
-      "review_count": 1639,
-      "review_percentage": 85.9,
-      "ccu_estimate": 3,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
-      "review_count": 1640,
-      "review_percentage": 85.9,
-      "ccu_estimate": 3,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-29",
-      "review_count": 1640,
-      "review_percentage": 85.9,
-      "ccu_estimate": 3,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
-      "review_count": 1639,
-      "review_percentage": 85.9,
-      "ccu_estimate": 3,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
-      "review_count": 1639,
-      "review_percentage": 85.9,
-      "ccu_estimate": 3,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-01",
-      "review_count": 1640,
-      "review_percentage": 85.9,
-      "ccu_estimate": 3,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
-      "review_count": 1640,
-      "review_percentage": 85.9,
-      "ccu_estimate": 3,
-      "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

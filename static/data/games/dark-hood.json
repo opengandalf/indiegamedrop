@@ -3,8 +3,8 @@
   "name": "Dark Hood",
   "slug": "dark-hood",
   "developer": "Kanakov",
-  "publisher": "Kanakov",
-  "release_date": "Jun 20, 2022",
+  "publisher": "",
+  "release_date": "2022-06-20",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -21,28 +21,11 @@
   ],
   "short_description": "2D Platformer. Cyberpunk.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1876060/header.jpg?t=1720723855",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1876060/ss_bd8889c271a08e3366ae372df803d7a341c8d769.600x338.jpg?t=1720723855",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1876060/ss_a88f1f4ee5d74c0495e0714752f82c591f9e1ac0.600x338.jpg?t=1720723855",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1876060/ss_63bd2c6ee5f56adedc20913b36827eedaf7394e3.600x338.jpg?t=1720723855",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1876060/ss_29e70636d0b2bc71b0272b2d67884375f9abb7b2.600x338.jpg?t=1720723855",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1876060/ss_9950fb45d5dae21aeadc8c9749e65e173e0a4148.600x338.jpg?t=1720723855"
-  ],
-  "detailed_description": "Immerse yourself in the world of \"Dark Hood\" and learn the secrets of a world filled with deceit and fraud, play as a Hacker in the world of the future.<br />\r\n<br />\r\nYou play as a Hacker in the world of the future and must eliminate bandits, hacking door control panels and get further and further. You will visit the brutal world of the future filled with secrets.",
-  "about_the_game": "Immerse yourself in the world of \"Dark Hood\" and learn the secrets of a world filled with deceit and fraud, play as a Hacker in the world of the future.<br />\r\n<br />\r\nYou play as a Hacker in the world of the future and must eliminate bandits, hacking door control panels and get further and further. You will visit the brutal world of the future filled with secrets.",
-  "supported_languages": "English<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
@@ -54,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 0.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 0.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

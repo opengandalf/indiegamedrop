@@ -3,8 +3,8 @@
   "name": "Lavender",
   "slug": "lavender",
   "developer": "Take Over Games",
-  "publisher": "Take Over Games",
-  "release_date": "Dec 11, 2019",
+  "publisher": "",
+  "release_date": "2019-12-11",
   "price_usd": 19.99,
   "genres": [
     "Casual",
@@ -23,45 +23,9 @@
   ],
   "short_description": "Lavender is a community-driven social sandbox. There are no limits on performance, physics or scripting. If you want to make it, you can. Come imagine with us.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886710/header.jpg?t=1576263347",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886710/ss_66bcda78a25b4cdd7651cb20c1100a0ba51f0af6.600x338.jpg?t=1576263347",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886710/ss_e0f37a0fe53e7f2794309cce0e377f14c9b29150.600x338.jpg?t=1576263347",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886710/ss_481be317c0b9f52d647ee9d032a0835c0dd1a297.600x338.jpg?t=1576263347",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886710/ss_c45615e93004fd1a97f10b36f9957f5e81f0e2b6.600x338.jpg?t=1576263347",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886710/ss_28aaf2bf423c7a620b090d9822951db8eda6a63b.600x338.jpg?t=1576263347",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886710/ss_ff39d1885472d6c6a219c70dfe3ac694d3201531.600x338.jpg?t=1576263347",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886710/ss_3fa307c7a0da683c1e6d8d28d3c0ebaae283a82a.600x338.jpg?t=1576263347",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886710/ss_0da77f4203b22b5f2821bd2a1b5ec33bb4aa63af.600x338.jpg?t=1576263347",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886710/ss_dfab6c2f0a91a1e21206967ce08674452284826d.600x338.jpg?t=1576263347",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886710/ss_6df957af3bb5269a12a4f78544f153a3b97aa946.600x338.jpg?t=1576263347",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886710/ss_e3303e7c38703713b09b67399c4962ef9b13b58d.600x338.jpg?t=1576263347",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886710/ss_d75422d77ef078c1db02a839c14a36e88d777ef0.600x338.jpg?t=1576263347",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886710/ss_d8965abea95fcdef77d536ad43fdf7053e1425ca.600x338.jpg?t=1576263347",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886710/ss_27f3fd80b4a1d2c0acae46a320d5b4e9003fa2ed.600x338.jpg?t=1576263347"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >What is Lavender</h2>Lavender is a community driven social sandbox centered around users expressing themselves and having a great time. We want our users to be able to create and share their ideas in an easy and intuitive manner. We support both VR and Desktop players together on the same server. We are working hard to make sure you can create exactly what you imagine with ease. Personal expression is one of the cornerstones of VR. In order to satisfy this requirement, we pack a full customizable avatar system with outfits, physics, gestures and visemes. <br><br><strong>We want you to be whatever you want to create.</strong><br><br>One of our goals with Lavender was to make the smoothest possible VR experience for our users. To accomplish this Lavender is built on the newest version of Unity: Unity 2019.3.0b12, using Unity's newest ECS and DOTS technology. This gives us amazing performance, while also pushing what's possible in a video game like this. We provide an experience that can scale from a few players to hundreds in a single server, VR 'Full-body' and Desktop players alike.<h2 class=\"bb_tag\" >Current key Features</h2><ul class=\"bb_ul\"><li> Full body tracked expressive avatars with eye tracking and lip sync<br></li><li> Steam audio integration providing a rich complex experience that immerses you into the soundscape of the game<br></li><li> Physical bodies and movement that allows you to experience everything from zero gravity to climbing up a cliff and swimming underwater<br></li><li> User supplied custom worlds and avatars with minimal restrictions on expression<br></li><li> Full content management system through a modern web interface that allows users to upload and track their content<br></li><li> A rich scripting experience with a fully featured API that allows content creators to make crazy contraptions and surreal worlds<br></li><li> A powerful but user friendly SDK experience to aid new content creators<br></li><li> Create and customise your entire games UI though HTML, CSS, JS. (Check the games folder, BrowserAssets)</li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" >What is Lavender</h2>Lavender is a community driven social sandbox centered around users expressing themselves and having a great time. We want our users to be able to create and share their ideas in an easy and intuitive manner. We support both VR and Desktop players together on the same server. We are working hard to make sure you can create exactly what you imagine with ease. Personal expression is one of the cornerstones of VR. In order to satisfy this requirement, we pack a full customizable avatar system with outfits, physics, gestures and visemes. <br><br><strong>We want you to be whatever you want to create.</strong><br><br>One of our goals with Lavender was to make the smoothest possible VR experience for our users. To accomplish this Lavender is built on the newest version of Unity: Unity 2019.3.0b12, using Unity's newest ECS and DOTS technology. This gives us amazing performance, while also pushing what's possible in a video game like this. We provide an experience that can scale from a few players to hundreds in a single server, VR 'Full-body' and Desktop players alike.<h2 class=\"bb_tag\" >Current key Features</h2><ul class=\"bb_ul\"><li> Full body tracked expressive avatars with eye tracking and lip sync<br></li><li> Steam audio integration providing a rich complex experience that immerses you into the soundscape of the game<br></li><li> Physical bodies and movement that allows you to experience everything from zero gravity to climbing up a cliff and swimming underwater<br></li><li> User supplied custom worlds and avatars with minimal restrictions on expression<br></li><li> Full content management system through a modern web interface that allows users to upload and track their content<br></li><li> A rich scripting experience with a fully featured API that allows content creators to make crazy contraptions and surreal worlds<br></li><li> A powerful but user friendly SDK experience to aid new content creators<br></li><li> Create and customise your entire games UI though HTML, CSS, JS. (Check the games folder, BrowserAssets)</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Steam Achievements",
-    "Tracked Controller Support",
-    "VR Supported",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 71,
-  "review_positive": 30,
+  "review_positive": 0,
   "review_percentage": 42.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -69,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 71,
-      "review_percentage": 43.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 71,
       "review_percentage": 42.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

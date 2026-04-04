@@ -3,8 +3,8 @@
   "name": "Castle survival",
   "slug": "castle-survival",
   "developer": "Skull Box Games",
-  "publisher": "Skull Box Games",
-  "release_date": "Mar 22, 2021",
+  "publisher": "",
+  "release_date": "2021-03-22",
   "price_usd": 0.99,
   "genres": [
     "Indie"
@@ -17,33 +17,15 @@
   ],
   "short_description": "Castle survival is a game where you need to destroy an enemy castle with your army.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567270/header.jpg?t=1616400721",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567270/ss_55891b6213872b55265bb64184d70ede6484433b.600x338.jpg?t=1616400721",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567270/ss_b4122753472ba58e3aa963a4bcf5c7b64818be45.600x338.jpg?t=1616400721",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567270/ss_107e80360bddca4e7840eb1c76d506e07f17600a.600x338.jpg?t=1616400721",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567270/ss_ce45db60363f44659239a58b4be0e59eeaac6968.600x338.jpg?t=1616400721",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1567270/ss_9160f49e556e746593f883c44ecbf28017505494.600x338.jpg?t=1616400721"
-  ],
-  "detailed_description": "Castle survival is a strategy building game with tower defense elements. The goal in this game is to destroy the enemy's castle and save yours.<br>Build the perfect defense with a mix of towers and different abilities. Create buildings that produce units. Each unit has its own parameters. Units automatically go to destroy the enemy castle, attack their enemies along the way.<br><br>In the game, you can improve:<br><ul class=\"bb_ul\"> <li> increased movement speed at the castle<br></li><li> increased health<br></li><li> increased damage<br></li><li> increased armor<br></li><li> creating discounts for buildings<br></li><li> acceleration of the appearance of troops<br></li><li> slowing down enemy units near the castle </li></ul><br>But you can get them when you get a new level (<u>except for damage and armor</u>).<br>You can also improve the neighboring tower. If you improve it as much as possible, then a hero will emerge from it.",
-  "about_the_game": "Castle survival is a strategy building game with tower defense elements. The goal in this game is to destroy the enemy's castle and save yours.<br>Build the perfect defense with a mix of towers and different abilities. Create buildings that produce units. Each unit has its own parameters. Units automatically go to destroy the enemy castle, attack their enemies along the way.<br><br>In the game, you can improve:<br><ul class=\"bb_ul\"> <li> increased movement speed at the castle<br></li><li> increased health<br></li><li> increased damage<br></li><li> increased armor<br></li><li> creating discounts for buildings<br></li><li> acceleration of the appearance of troops<br></li><li> slowing down enemy units near the castle </li></ul><br>But you can get them when you get a new level (<u>except for damage and armor</u>).<br>You can also improve the neighboring tower. If you improve it as much as possible, then a hero will emerge from it.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.3,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 26,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 30.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -51,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 26,
-      "review_percentage": 30.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 26,
       "review_percentage": 30.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

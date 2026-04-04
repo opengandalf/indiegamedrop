@@ -3,8 +3,8 @@
   "name": "Extend Desktop",
   "slug": "extend-desktop",
   "developer": "chengcong",
-  "publisher": "chengcong",
-  "release_date": "Sep 21, 2019",
+  "publisher": "",
+  "release_date": "2019-09-21",
   "price_usd": 1.99,
   "genres": [
     "Utilities"
@@ -17,31 +17,15 @@
   ],
   "short_description": "Extended Desktop is a tool application that extends the four-sided area of a computer desktop. Can reduce the number of desktop icons, make the desktop more neat, achieve zero desktop icons!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155230/header.jpg?t=1667026134",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155230/ss_f93862ba901f8b1cc1c1d0dda9f50f6d43b0d430.600x338.jpg?t=1667026134",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155230/ss_0ae546ad6c3074d611f9efb9b569ad65027fb605.600x338.jpg?t=1667026134",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155230/ss_18311b63d4067bfec803813a0842f6e1753457b8.600x338.jpg?t=1667026134",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155230/ss_5ec75262460f7e2178da1239f668e1dd69c13e67.600x338.jpg?t=1667026134",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155230/ss_8a378ce3a4777df820692ee24fe8b40d3048ed08.600x338.jpg?t=1667026134",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155230/ss_6f06448c2f51ab86ee331daa1d93354b2f77168d.600x338.jpg?t=1667026134",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1155230/ss_e052d62bf594a9949636fc6a0f11e4cbb795fa6d.600x338.jpg?t=1667026134"
-  ],
-  "detailed_description": "Extended Desktop is a tool application that extends the four-sided area of a computer desktop. When the mouse moves to four drawers around the desktop, users can store applications, files and folders in four drawers, reducing the number of desktop icons. Realize desktop zero icon!",
-  "about_the_game": "Extended Desktop is a tool application that extends the four-sided area of a computer desktop. When the mouse moves to four drawers around the desktop, users can store applications, files and folders in four drawers, reducing the number of desktop icons. Realize desktop zero icon!",
-  "supported_languages": "English, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 5,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 40.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -49,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 40.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 40.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

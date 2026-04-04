@@ -3,8 +3,8 @@
   "name": "Run!!!",
   "slug": "run",
   "developer": "John Xu, John Morris",
-  "publisher": "John Xu",
-  "release_date": "Jun 23, 2020",
+  "publisher": "",
+  "release_date": "2020-06-23",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -20,31 +20,9 @@
   ],
   "short_description": "This game is cool! You can parkour while you run from enemy, and if you escape, you win.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283620/header.jpg?t=1592927461",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283620/ss_ac528deda4e73499efdcf0bebcb795aad7495af9.600x338.jpg?t=1592927461",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283620/ss_c0223082153d99fc7c0a6783dc5697f6d5001d7a.600x338.jpg?t=1592927461",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283620/ss_240f4c7b5aa98059ebfeeedd8d010749947a7efb.600x338.jpg?t=1592927461",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283620/ss_327ba677ffefc3ebf949568a7dbc9cb9f7dbce8c.600x338.jpg?t=1592927461",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283620/ss_35fe1355ff40b2a0f1d802fd594a08cde3e6f9bf.600x338.jpg?t=1592927461"
-  ],
-  "detailed_description": "This game is a 3D first person parkour game with a catch! There will be an enemy chasing you!!!! You have to run away from it and get to the end as quick as possible. Basically, it's a parkour survival game. There are four different level each with a different style.",
-  "about_the_game": "This game is a 3D first person parkour game with a catch! There will be an enemy chasing you!!!! You have to run away from it and get to the end as quick as possible. Basically, it's a parkour survival game. There are four different level each with a different style.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 11,
-  "review_positive": 7,
+  "review_positive": 0,
   "review_percentage": 63.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +30,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 10,
-      "review_percentage": 60.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 11,
       "review_percentage": 63.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

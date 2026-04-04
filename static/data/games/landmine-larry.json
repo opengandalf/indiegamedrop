@@ -3,8 +3,8 @@
   "name": "Landmine Larry",
   "slug": "landmine-larry",
   "developer": "H3 Game Studio",
-  "publisher": "H3 Game Studio",
-  "release_date": "Dec 17, 2016",
+  "publisher": "",
+  "release_date": "2016-12-17",
   "price_usd": 6.99,
   "genres": [
     "Action",
@@ -23,34 +23,9 @@
   ],
   "short_description": "Landmine Larry is the challenge you've been waiting for. Clear through crazy levels with twists that make you watch your footing... Landmines, TNT and more!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535240/header.jpg?t=1737857009",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535240/ss_899bc5848bba05d05376836db42891bfaeaf3d60.600x338.jpg?t=1737857009",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535240/ss_ce160cfaafe4e06bd1ecc672e138a772c1d0d040.600x338.jpg?t=1737857009",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535240/ss_4e5901219520716712b251aef5ab0c22318643a7.600x338.jpg?t=1737857009",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535240/ss_8ba89e3b8a6cb55ab97247abb487b5cc790c4af7.600x338.jpg?t=1737857009",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/535240/ss_81eb47d364ae3d123e8fc5fe78edb7fa42759167.600x338.jpg?t=1737857009"
-  ],
-  "detailed_description": "<h1>Roadmap</h1><p><p class=\"bb_paragraph\" >Update November 23, 2024</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >As mentioned; Source code that has been recovered has been transitioning over to the latest LTS of Unity.</p></li><li><p class=\"bb_paragraph\" >As of today, all game mechanic's that are present in the current release build of Landmine Larry are up-to-date.  Movement controller has been redeveloped, and should be a bit nicer to control based on feedback.</p></li><li><p class=\"bb_paragraph\" >UI, Level controller, and some other graphical stuffs need to be cleaned up and updated and next on the list.</p></li><li><p class=\"bb_paragraph\" >As soon as its back to where it was, an update will be pushed (Before end of 2025)</p></li></ul></p><br><h1>About the Game</h1><h2 class=\"bb_tag\" >Landmine Larry is explosive action... Literally.</h2><br>The Enchanted Forest has been overrun with an obscene amount of Landmines (and other explosives). Larry must clear (or avoid) landmines scattered throughout; While dodging traps, monsters and other surprises. Get Larry to the goal to clear the level... While trying to keep your keyboard in one piece.  The game's concept is simple, but the levels will have twists and turns to keep you on your toes.<br><br><strong>Features</strong> <br><ul class=\"bb_ul\"><li>Cartoon style environment and characters. <br></li><li>Challenging Levels... Good Luck.<br></li><li>Easy to use control interface (WASD setup, with mouse axis movement) <br></li><li>Numerous power-ups and weapons (Exploding carrots, cluster bombs & exploding sheep to name a few!) <br></li><li>Steam Achievements</li></ul><br><strong>Full Release (After Early Access)</strong><br><ul class=\"bb_ul\"><li>More Steam Achievements - Suggest Achievements To Us As Well!<br></li><li>Many, Many More Levels!<br></li><li>New Traps And Puzzles<br></li><li>Steam Leaderboard Feature / Time Trial<br></li><li>..Suggest An Idea And It May Be Featured Here Too!</li></ul>",
-  "about_the_game": "<h2 class=\"bb_tag\" >Landmine Larry is explosive action... Literally.</h2><br>The Enchanted Forest has been overrun with an obscene amount of Landmines (and other explosives). Larry must clear (or avoid) landmines scattered throughout; While dodging traps, monsters and other surprises. Get Larry to the goal to clear the level... While trying to keep your keyboard in one piece.  The game's concept is simple, but the levels will have twists and turns to keep you on your toes.<br><br><strong>Features</strong> <br><ul class=\"bb_ul\"><li>Cartoon style environment and characters. <br></li><li>Challenging Levels... Good Luck.<br></li><li>Easy to use control interface (WASD setup, with mouse axis movement) <br></li><li>Numerous power-ups and weapons (Exploding carrots, cluster bombs & exploding sheep to name a few!) <br></li><li>Steam Achievements</li></ul><br><strong>Full Release (After Early Access)</strong><br><ul class=\"bb_ul\"><li>More Steam Achievements - Suggest Achievements To Us As Well!<br></li><li>Many, Many More Levels!<br></li><li>New Traps And Puzzles<br></li><li>Steam Leaderboard Feature / Time Trial<br></li><li>..Suggest An Idea And It May Be Featured Here Too!</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

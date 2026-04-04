@@ -3,8 +3,8 @@
   "name": "Dodge",
   "slug": "dodge-2794300",
   "developer": "Bisso",
-  "publisher": "Bisso",
-  "release_date": "Feb 16, 2024",
+  "publisher": "",
+  "release_date": "2024-02-16",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -19,33 +19,15 @@
   ],
   "short_description": "Bullet hell with the mouse.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2794300/header.jpg?t=1721848405",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2794300/ss_d900ce84b160bd32eccf0f44fdf312322c5947bc.600x338.jpg?t=1721848405",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2794300/ss_b46a947a82b7b34d20e1dd6041b8a1c67d7a9d93.600x338.jpg?t=1721848405",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2794300/ss_46a4a8158e06cb16d18efcbddac47e679d21a812.600x338.jpg?t=1721848405",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2794300/ss_f588c99edb254de5e1d0961e44399fdfcf49b31c.600x338.jpg?t=1721848405",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2794300/ss_6ee08805901b862b523a236351cc55e87e32e93e.600x338.jpg?t=1721848405",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2794300/ss_5b1d6481ab2355090fc4d75f6193dedd90e2f70b.600x338.jpg?t=1721848405"
-  ],
-  "detailed_description": "Dodge is a game about dodging hazards with your mouse for as long as you can, while you gather score to unlock the next stages.",
-  "about_the_game": "Dodge is a game about dodging hazards with your mouse for as long as you can, while you gather score to unlock the next stages.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Power Supplied",
   "slug": "power-supplied",
   "developer": "King's Lance Games",
-  "publisher": "King's Lance Games",
-  "release_date": "Dec 12, 2017",
+  "publisher": "",
+  "release_date": "2017-12-12",
   "price_usd": 9.99,
   "genres": [
     "Adventure",
@@ -20,43 +20,11 @@
     "windows",
     "mac"
   ],
-  "short_description": "Power Supplied is a multiplayer puzzle game, a one-to-four player game where four characters are controlled, each with different methods of traversing levels. Constantly changing routes will mean passing over the same ground many times to try and reach your freedom.",
+  "short_description": "Power Supplied is a multiplayer puzzle game, a one-to-four player game where four characters are controlled, each with different methods of traversing levels. Constantly changing routes will mean pass",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/755760/header.jpg?t=1513083753",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/755760/ss_5d5d4614780bc3e1d0a0f079a988037da49f6e36.600x338.jpg?t=1513083753",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/755760/ss_3ffa452c87aa517df624cc18232107c04a98e991.600x338.jpg?t=1513083753",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/755760/ss_1d7bd693d3d8703a99fa65ef1828ea8fc994e87d.600x338.jpg?t=1513083753",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/755760/ss_5a0d5b3a88bac89116fb45fd0f7b22387dc43da1.600x338.jpg?t=1513083753",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/755760/ss_082caa77f6906b5cdd5cd48e1967883c3f66e4bf.600x338.jpg?t=1513083753",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/755760/ss_2343daa8683bc2e9256cec8cf9712f9a9065872e.600x338.jpg?t=1513083753"
-  ],
-  "detailed_description": "<strong>Power Supplied</strong> is a multiplayer puzzle game, a one-to-four player game where four characters are simultaneously controlled, with each having individual and unique abilities to help them along. The end goal is to get to get everyone to the end of each level, working together with your friends to solve the challenge presented before you. You'll need your wits about you, as the constantly changing path of doors and routes will mean passing over the same ground many times in a level to try and reach that one last lever needed for your freedom.<br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li> 40 levels of increasing difficulty to keep you challenged and playing for hours.<br></li><li> One to four players, dynamically adjusting controls as controllers are added or removed.<br></li><li> Each character has unique methods of traversing the map, from water pipes to using fans to reach far-off ledges.<br></li><li> Death results in only a minor setback to the nearest safe location, to minimise punishment for bad moves on long levels.</li></ul>",
-  "about_the_game": "<strong>Power Supplied</strong> is a multiplayer puzzle game, a one-to-four player game where four characters are simultaneously controlled, with each having individual and unique abilities to help them along. The end goal is to get to get everyone to the end of each level, working together with your friends to solve the challenge presented before you. You'll need your wits about you, as the constantly changing path of doors and routes will mean passing over the same ground many times in a level to try and reach that one last lever needed for your freedom.<br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li> 40 levels of increasing difficulty to keep you challenged and playing for hours.<br></li><li> One to four players, dynamically adjusting controls as controllers are added or removed.<br></li><li> Each character has unique methods of traversing the map, from water pipes to using fans to reach far-off ledges.<br></li><li> Death results in only a minor setback to the nearest safe location, to minimise punishment for bad moves on long levels.</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Shared/Split Screen",
-    "Full controller support",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -64,26 +32,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

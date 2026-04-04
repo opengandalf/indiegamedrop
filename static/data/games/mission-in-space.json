@@ -3,8 +3,8 @@
   "name": "Mission In Space",
   "slug": "mission-in-space",
   "developer": "Mixtor, Tero Lunkka",
-  "publisher": "Tero Lunkka",
-  "release_date": "Oct 20, 2022",
+  "publisher": "",
+  "release_date": "2022-10-20",
   "price_usd": 0.69,
   "genres": [
     "Adventure",
@@ -21,33 +21,9 @@
   ],
   "short_description": "2d space shooter game where need avoid and destroy enemies and big boss",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2177200/header.jpg?t=1765101384",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2177200/ss_656fef8f89077123339036b7796a7297941f9707.600x338.jpg?t=1765101384",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2177200/ss_9743c45cf56bc3163e1cfd5da124f92bb1aa3c2d.600x338.jpg?t=1765101384",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2177200/ss_ff4d7f891911582795e6caf66b1b9ed9afb04ced.600x338.jpg?t=1765101384",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2177200/ss_d9a428da70eb989d14c9eb253a134665d3621952.600x338.jpg?t=1765101384",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2177200/ss_4d4c473e8d87d7c99a259a5c33831ff38e46fef7.600x338.jpg?t=1765101384"
-  ],
-  "detailed_description": "<h1>FIND HMUR!</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2177200/extras/b009372be95605a3fb4580f8fe3b1d8f.poster.avif?t=1765101384\" width=1170 height=426 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2177200/extras/b009372be95605a3fb4580f8fe3b1d8f.webm?t=1765101384\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2177200/extras/b009372be95605a3fb4580f8fe3b1d8f.mp4?t=1765101384\" type=\"video/mp4\"></video></span></p></p><br><h1>About the Game</h1><h2 class=\"bb_tag\" >STORY:</h2><br>2d space shooter with 6 levels. Player controls ship which have missiles and rockets. Every level player need avoid and destroy enemy ships which some have weapons. Also need avoid or shoot asteroid waves. End of every level has big boss who need to be defeated to finish level. Player has 3 lives at every level to survive.<h2 class=\"bb_tag\" >FEATURES:</h2>- 6 levels<br>- Enemies which fly and shoots<br>- Asteroid waves <br>- Big boss in end of every level<br>- Steam achievements<br>- 3 lives at every level",
-  "about_the_game": "<h2 class=\"bb_tag\" >STORY:</h2><br>2d space shooter with 6 levels. Player controls ship which have missiles and rockets. Every level player need avoid and destroy enemy ships which some have weapons. Also need avoid or shoot asteroid waves. End of every level has big boss who need to be defeated to finish level. Player has 3 lives at every level to survive.<h2 class=\"bb_tag\" >FEATURES:</h2>- 6 levels<br>- Enemies which fly and shoots<br>- Asteroid waves <br>- Big boss in end of every level<br>- Steam achievements<br>- 3 lives at every level",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 12,
-  "review_positive": 9,
+  "review_positive": 0,
   "review_percentage": 75.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 10,
-      "review_percentage": 70.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 12,
       "review_percentage": 75.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

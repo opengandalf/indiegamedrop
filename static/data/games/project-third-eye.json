@@ -3,8 +3,8 @@
   "name": "Project Third Eye",
   "slug": "project-third-eye",
   "developer": "Marcel Remmers",
-  "publisher": "Marcel Remmers",
-  "release_date": "Aug 18, 2023",
+  "publisher": "",
+  "release_date": "2023-08-18",
   "price_usd": 11.99,
   "genres": [
     "Action",
@@ -21,35 +21,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Enter the groundbreaking world of Project Third Eye, a VR physics game where creativity meets interactivity. Build anything with powerful tools and add logic using the visual scripting panel. Embark on an immersive adventure of endless possibilities. Get your copy now!",
+  "short_description": "Enter the groundbreaking world of Project Third Eye, a VR physics game where creativity meets interactivity. Build anything with powerful tools and add logic using the visual scripting panel. Embark o",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2425290/header.jpg?t=1692381655",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2425290/ss_a8c782a5975f70ada974b4c99a437f2435c5f493.600x338.jpg?t=1692381655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2425290/ss_60d2e812930fcdfbe4a0b4cd330934f464c7cb21.600x338.jpg?t=1692381655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2425290/ss_a38a518c1174c4a213a63081fc7fa0695eb4170d.600x338.jpg?t=1692381655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2425290/ss_38fdb1d1609d648f279f226dafa5149bcbe5ff20.600x338.jpg?t=1692381655",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2425290/ss_cd8c406e4896ff9511f5776d2616345da0f22f9a.600x338.jpg?t=1692381655"
-  ],
-  "detailed_description": "Project Third Eye is an enthralling and immersive virtual reality sandbox that takes players on an exhilarating journey. Within this captivating experience, you will find yourself exploring an action-packed physics sandbox, brimming with endless possibilities. What sets this game apart is its ingenious inclusion of a built-in visual scripting panel, granting you the power to apply intricate logic and manipulate spawnable items. This innovative feature serves as a gateway for unleashing your creativity, allowing you to construct unique modifications and seamlessly customize the behaviors within the game. With Project Third Eye, the virtual world becomes your canvas, inviting you to craft a gaming experience that is truly tailored to your desires and preferences.",
-  "about_the_game": "Project Third Eye is an enthralling and immersive virtual reality sandbox that takes players on an exhilarating journey. Within this captivating experience, you will find yourself exploring an action-packed physics sandbox, brimming with endless possibilities. What sets this game apart is its ingenious inclusion of a built-in visual scripting panel, granting you the power to apply intricate logic and manipulate spawnable items. This innovative feature serves as a gateway for unleashing your creativity, allowing you to construct unique modifications and seamlessly customize the behaviors within the game. With Project Third Eye, the virtual world becomes your canvas, inviting you to craft a gaming experience that is truly tailored to your desires and preferences.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 163,
+  "screenshots": [],
   "rising_score": 0.0005,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 26.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 174,
-  "review_positive": 127,
+  "review_positive": 0,
   "review_percentage": 73.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 148,
-      "review_percentage": 78.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 174,
       "review_percentage": 73.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Hexterio",
   "slug": "hexterio",
   "developer": "Eurus Games",
-  "publisher": "Eurus Games",
-  "release_date": "Oct 15, 2019",
+  "publisher": "",
+  "release_date": "2019-10-15",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -22,35 +22,9 @@
   ],
   "short_description": "Hexterio is a puzzle game with simple mechanics and a soothing atmosphere. Containing 60 puzzles with varying mechanics and rules, this is the perfect game to relax and play during breaks.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166790/header.jpg?t=1571158945",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166790/ss_cb94149f56a887ce42b51e8ab7d5438f4956fd10.600x338.jpg?t=1571158945",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166790/ss_975ab2652ab5462ba9fd0a9cb046a76ec174e6e7.600x338.jpg?t=1571158945",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166790/ss_c1b7625ddf72341327dc1b9f3437b84009bb7a92.600x338.jpg?t=1571158945",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166790/ss_208a900ac67219af893ac189c699c99568fe5fd3.600x338.jpg?t=1571158945",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166790/ss_0783a9f2c6b279aba118ffb5e0bb0abc3f51d853.600x338.jpg?t=1571158945",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166790/ss_7cedc16f18fc0221705a19b15c26fc41e606b40c.600x338.jpg?t=1571158945",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166790/ss_91299d7b0844506ac6def8e71c018bbd9dbbdc7e.600x338.jpg?t=1571158945",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166790/ss_28ca6ab6a3edea8ea4b2c0011a5acd66f970ebc4.600x338.jpg?t=1571158945"
-  ],
-  "detailed_description": "Hexterio is a simple puzzle game with a relaxing atmosphere - with simple rules and mechanics, yet interesting puzzles. <br />\r\nThe game consists of 5 different modes with 12 puzzles each, with each mode having a different element or rule to it. <br />\r\n<br />\r\nAll the modes require the player to reach a certain \"Final Tile\" of the level, but the methods or requirements to fulfill before reaching there, vary.<br />\r\nA brief description of the modes is as follows:<br />\r\n<br />\r\nTraverse all tiles - Player must visit each tile before reaching the Final tile.<br />\r\nDestroy all tiles - Player must destroy all other tiles before reaching the Final tile.<br />\r\nSum it up - Tiles in this mode carry certain value on each of its front and back faces. The player is required to accumulate the exact value required at the Final Tile.<br />\r\nRotating tiles - Tiles in this mode rotate clockwise or anti-clockwise, changing their accessible neighbors in the process, adding another layer of difficulty to the puzzle.<br />\r\nGrouped tiles - Certain tiles in this mode will be grouped together. Grouped tiles flip and rotate together. The player will have to carve a way to the final tile using this behavior.",
-  "about_the_game": "Hexterio is a simple puzzle game with a relaxing atmosphere - with simple rules and mechanics, yet interesting puzzles. <br />\r\nThe game consists of 5 different modes with 12 puzzles each, with each mode having a different element or rule to it. <br />\r\n<br />\r\nAll the modes require the player to reach a certain \"Final Tile\" of the level, but the methods or requirements to fulfill before reaching there, vary.<br />\r\nA brief description of the modes is as follows:<br />\r\n<br />\r\nTraverse all tiles - Player must visit each tile before reaching the Final tile.<br />\r\nDestroy all tiles - Player must destroy all other tiles before reaching the Final tile.<br />\r\nSum it up - Tiles in this mode carry certain value on each of its front and back faces. The player is required to accumulate the exact value required at the Final Tile.<br />\r\nRotating tiles - Tiles in this mode rotate clockwise or anti-clockwise, changing their accessible neighbors in the process, adding another layer of difficulty to the puzzle.<br />\r\nGrouped tiles - Certain tiles in this mode will be grouped together. Grouped tiles flip and rotate together. The player will have to carve a way to the final tile using this behavior.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 13,
-  "review_positive": 11,
+  "review_positive": 0,
   "review_percentage": 84.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +32,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 12,
-      "review_percentage": 83.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 13,
       "review_percentage": 84.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

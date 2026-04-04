@@ -3,8 +3,8 @@
   "name": "Falling words",
   "slug": "falling-words",
   "developer": "Mikhail Melnikov",
-  "publisher": "SA Industry",
-  "release_date": "May 16, 2018",
+  "publisher": "",
+  "release_date": "2018-05-16",
   "price_usd": 0.49,
   "genres": [
     "Indie",
@@ -21,64 +21,21 @@
   ],
   "short_description": "Falling Words - a simulator game created to improve the results of high-speed typing with three different difficulty levels, detailed statistics and a global ranking.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/856490/header.jpg?t=1613074050",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/856490/ss_70ef235abbac4bb27852d1f8ba98168c07bfe645.600x338.jpg?t=1613074050",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/856490/ss_0ef98345daf4d2cf5dc83519093dc3568f2ac430.600x338.jpg?t=1613074050",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/856490/ss_3cd5caaf4e98c6cffdebb1ba1ad3706aec2f1647.600x338.jpg?t=1613074050",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/856490/ss_5244bbb6fcefb2aaa96b8f4544d0e7efe6cec1ea.600x338.jpg?t=1613074050",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/856490/ss_16ba311bc67db386b080b3cbe253ce80c8095433.600x338.jpg?t=1613074050",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/856490/ss_9f2dd0e15218af06a0e9165d8bdc7e24bd1f29f5.600x338.jpg?t=1613074050"
-  ],
-  "detailed_description": "Falling Words - a simulator game created to improve the results of high-speed typing with three different difficulty levels, detailed statistics and a global ranking.<br />\r\nThe game has three modes that differ in the rate of falling words, the gaps between them and their average length. You can play in two languages: English and Russian. Each dictionary contains more than five thousand of the most popular words of the language.<br />\r\nYour task is to print the falling words as fast as possible without letting them fall below the danger zone.<br />\r\nThere is a detailed statistics of your games, which you can view, both in short and in detail. The better your results (the number of words and speed dial) are entered into the global leaderboard.",
-  "about_the_game": "Falling Words - a simulator game created to improve the results of high-speed typing with three different difficulty levels, detailed statistics and a global ranking.<br />\r\nThe game has three modes that differ in the rate of falling words, the gaps between them and their average length. You can play in two languages: English and Russian. Each dictionary contains more than five thousand of the most popular words of the language.<br />\r\nYour task is to print the falling words as fast as possible without letting them fall below the danger zone.<br />\r\nThere is a detailed statistics of your games, which you can view, both in short and in detail. The better your results (the number of words and speed dial) are entered into the global leaderboard.",
-  "supported_languages": "English, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Stats",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 10.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 152,
-  "review_positive": 95,
+  "review_positive": 0,
   "review_percentage": 62.5,
-  "owner_estimate": 35000,
-  "ccu_estimate": 1,
+  "owner_estimate": 0,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 16,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 142,
-      "review_percentage": 61.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 152,
       "review_percentage": 62.5,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
-      "review_count": 152,
-      "review_percentage": 62.5,
-      "ccu_estimate": 1,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

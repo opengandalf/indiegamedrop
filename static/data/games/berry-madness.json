@@ -3,8 +3,8 @@
   "name": "Berry Madness",
   "slug": "berry-madness",
   "developer": "Ready To Play",
-  "publisher": "Ready To Play",
-  "release_date": "Feb 6, 2023",
+  "publisher": "",
+  "release_date": "2023-02-06",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -21,36 +21,15 @@
   ],
   "short_description": "In Berry Madness you need to find all the berries in the world to beat the game. Berry Madness takes place in beatiful world. You need to find all the berries to become a champion berry hunter.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288580/header.jpg?t=1743728428",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288580/ss_9c667524fb1bd8c06eac4370b063f4531b123fe2.600x338.jpg?t=1743728428",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288580/ss_46626cfed364ac5635f38dad79eeb0e86efe0f92.600x338.jpg?t=1743728428",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288580/ss_7f90ecce05f9da5c75a02c7f1e213b6c0268671c.600x338.jpg?t=1743728428",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288580/ss_0ad99e6cd6bbe9e471e195b64a8bf515d87ce25a.600x338.jpg?t=1743728428",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288580/ss_0d95f6bc3bb24c6c61797abf5ff4eb006a6a34de.600x338.jpg?t=1743728428",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288580/ss_9ee4a40a2e780e98ee347ebb8a0310771542b714.600x338.jpg?t=1743728428",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288580/ss_d6f1a78f89bf421a4a7a8ea4c822265898736808.600x338.jpg?t=1743728428",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288580/ss_44a4e6330bb09a16669142b21bc883ee800196b5.600x338.jpg?t=1743728428",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288580/ss_555d2746df5f9d784e3fb8b8caad58b4ab8c9541.600x338.jpg?t=1743728428"
-  ],
-  "detailed_description": "<strong>About</strong><br>Berry Madness is a casual walking simulator game where you need to find all of the berries to win the game and claim your champion of the berries.<br>You can find berries in different locatioins and listen to awesome music.<br><strong>story</strong><br>You spawn in a new beatiful world and your mission is to hunt all the berries and become a champion berry hunter.<br><strong>Features</strong><br>Jumping<br><strong>Controls:</strong><br>W=FORWARD<br>A=LEFT<br>S=BACKWARDS<br>D=RIGHT<br>SPACE=JUMP",
-  "about_the_game": "<strong>About</strong><br>Berry Madness is a casual walking simulator game where you need to find all of the berries to win the game and claim your champion of the berries.<br>You can find berries in different locatioins and listen to awesome music.<br><strong>story</strong><br>You spawn in a new beatiful world and your mission is to hunt all the berries and become a champion berry hunter.<br><strong>Features</strong><br>Jumping<br><strong>Controls:</strong><br>W=FORWARD<br>A=LEFT<br>S=BACKWARDS<br>D=RIGHT<br>SPACE=JUMP",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.35,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 27,
-  "review_positive": 14,
+  "review_positive": 0,
   "review_percentage": 51.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 27,
-      "review_percentage": 48.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 27,
       "review_percentage": 51.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

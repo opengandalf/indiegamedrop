@@ -3,8 +3,8 @@
   "name": "Sinabro",
   "slug": "sinabro",
   "developer": "Lemiraum",
-  "publisher": "Lemiraum",
-  "release_date": "Dec 12, 2023",
+  "publisher": "",
+  "release_date": "2023-12-12",
   "price_usd": 1.99,
   "genres": [
     "Action",
@@ -17,34 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Sinabro is a 2D adventer platformer game. Explore the level with characters that have different action mechanisms and find ways to break through obstacles. Depending on your proficiency in platformers and avoid genre, the experience of this game will be different.",
+  "short_description": "Sinabro is a 2D adventer platformer game. Explore the level with characters that have different action mechanisms and find ways to break through obstacles. Depending on your proficiency in platformers",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2708850/header.jpg?t=1702429841",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2708850/ss_58ec07ea127795b35c615fe9216281bb5de7872e.600x338.jpg?t=1702429841",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2708850/ss_ec6e91128381b1f0444d237f8b8953c25f3fccd8.600x338.jpg?t=1702429841",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2708850/ss_2b731f9bfaccd446f5ccd2e95d7edd111ccc39cd.600x338.jpg?t=1702429841",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2708850/ss_43996e53d6f0937ed1e6e023ade3ffc8dbbc9046.600x338.jpg?t=1702429841",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2708850/ss_c9126597855e985bac367617c31fa53af13e30cd.600x338.jpg?t=1702429841"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2708850/extras/19b1c126018963f493f4e72dde6c3b59.avif?t=1702429841\" width=568 height=64 /></span><h2 class=\"bb_tag\" >About Game</h2>'Sinabro' is a game that explore a level called a 'server' using eight characters that have different action mechanisms.<br><br>Explore the level and find out how to break through obstacles using each character's type, and acquire collection elements!<h2 class=\"bb_tag\" >Collection Elements</h2>Collection elements are objects that you need to acquire to clear the game.<br><br>Server Piece : It is deployed throughout the server, and your goal is to collect it.<br>Router Point : You can explore other connected server if activate it.<h2 class=\"bb_tag\" >Keyboard Action</h2>Normally, you can select options with an arrow key, and interaction with the space bar.<br><br>If you are exploring the level, you can perform the following keyboard actions.<br>Arrow key : You can make movements such as move or jump a character. The required key is different depending on the direction of gravity and the action mechanism.<br>Space bar : <br>If press the space bar at the skill point, you can use a skill unique to the character.<br>If press the space bar at the character change point, you can change the type to the specified character.<br>If press the space bar at the recording point, you can save the collection elements that acquired on that server.<br>Q : Check the tutorial of current character.<br>W : Check the structure of current level and the location of collection elements.",
-  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2708850/extras/19b1c126018963f493f4e72dde6c3b59.avif?t=1702429841\" width=568 height=64 /></span><h2 class=\"bb_tag\" >About Game</h2>'Sinabro' is a game that explore a level called a 'server' using eight characters that have different action mechanisms.<br><br>Explore the level and find out how to break through obstacles using each character's type, and acquire collection elements!<h2 class=\"bb_tag\" >Collection Elements</h2>Collection elements are objects that you need to acquire to clear the game.<br><br>Server Piece : It is deployed throughout the server, and your goal is to collect it.<br>Router Point : You can explore other connected server if activate it.<h2 class=\"bb_tag\" >Keyboard Action</h2>Normally, you can select options with an arrow key, and interaction with the space bar.<br><br>If you are exploring the level, you can perform the following keyboard actions.<br>Arrow key : You can make movements such as move or jump a character. The required key is different depending on the direction of gravity and the action mechanism.<br>Space bar : <br>If press the space bar at the skill point, you can use a skill unique to the character.<br>If press the space bar at the character change point, you can change the type to the specified character.<br>If press the space bar at the recording point, you can save the collection elements that acquired on that server.<br>Q : Check the tutorial of current character.<br>W : Check the structure of current level and the location of collection elements.",
-  "supported_languages": "English, Korean",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

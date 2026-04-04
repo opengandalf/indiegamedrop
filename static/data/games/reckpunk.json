@@ -3,8 +3,8 @@
   "name": "Reckpunk",
   "slug": "reckpunk",
   "developer": "dlan",
-  "publisher": "dlan",
-  "release_date": "Jan 12, 2017",
+  "publisher": "",
+  "release_date": "2017-01-12",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -21,32 +21,9 @@
   ],
   "short_description": "Reckpunk is a platformer/endless runner where you control level elements rather than the main characters.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495750/header.jpg?t=1484245070",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495750/ss_dae08ba52bfdb03b9afd28b31ae28271e85a611a.600x338.jpg?t=1484245070",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495750/ss_03b400695709a41f2684552bd870871d79ca01ef.600x338.jpg?t=1484245070",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495750/ss_ccc87f4af6d2f81b8bf22b46eb728d29447ea2b0.600x338.jpg?t=1484245070",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495750/ss_4c00f9b1190085d82f1be0853dbff9de7f618910.600x338.jpg?t=1484245070",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495750/ss_78d2e0b42f61b93da4f31f69900e26379477960f.600x338.jpg?t=1484245070"
-  ],
-  "detailed_description": "Reckpunk is a platformer where you destroy obstacles and move level elements directly using your mouse, rather than controlling the main characters. Even though the characters move by themselves, you can push them, use blocks to slow them down, and bring them to inaccessible places.<br />\r\n<br />\r\nEach level got it own theme. It could be avoiding indestructible spikes, making bridges over a cliff or escaping angry dragons.",
-  "about_the_game": "Reckpunk is a platformer where you destroy obstacles and move level elements directly using your mouse, rather than controlling the main characters. Even though the characters move by themselves, you can push them, use blocks to slow them down, and bring them to inaccessible places.<br />\r\n<br />\r\nEach level got it own theme. It could be avoiding indestructible spikes, making bridges over a cliff or escaping angry dragons.",
-  "supported_languages": "English, French",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 33,
-  "review_positive": 26,
+  "review_positive": 0,
   "review_percentage": 78.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +31,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 31,
-      "review_percentage": 77.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 33,
       "review_percentage": 78.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

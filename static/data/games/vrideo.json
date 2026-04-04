@@ -3,8 +3,8 @@
   "name": "Vrideo",
   "slug": "vrideo",
   "developer": "Vrideo, Inc.",
-  "publisher": "Vrideo, Inc.",
-  "release_date": "Apr 12, 2016",
+  "publisher": "",
+  "release_date": "2016-04-12",
   "price_usd": 0.0,
   "genres": [
     "Utilities"
@@ -15,62 +15,23 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Vrideo is the world's premier platform for immersive video, also known as \"360° video\" or \"VR video.\" Stream videos, see trending and recommended videos, browse content categories, search for videos and channels, and explore channels.",
+  "short_description": "Vrideo is the world's premier platform for immersive video, also known as \"360° video\" or \"VR video.\" Stream videos, see trending and recommended videos, browse content categories,",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457670/header.jpg?t=1468631181",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457670/ss_6a9a3b8ea2a14c2f025cc6cd75f37925b3ca05c1.600x338.jpg?t=1468631181",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457670/ss_a6be40379993f8e6f57997d0d4d3f9433dfa7f95.600x338.jpg?t=1468631181",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457670/ss_9838fa7a9eee0181380413ff753c38ff4c91214d.600x338.jpg?t=1468631181",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457670/ss_03dda734431cd3074a119ad217f59e4aa99914b9.600x338.jpg?t=1468631181",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457670/ss_338b3ae32972a7ce876548d0bcdd18ec3a97471f.600x338.jpg?t=1468631181"
-  ],
-  "detailed_description": "Vrideo is the world's premier platform for immersive video, also known as \"360° video\" or \"VR video.\"  Stream videos, see trending and recommended videos, browse content categories, search for videos and channels, and explore channels.  Create your own account to subscribe to other channels, like and dislike videos, and add videos to your playlists.  Download videos for playback when offline.",
-  "about_the_game": "Vrideo is the world's premier platform for immersive video, also known as \"360° video\" or \"VR video.\"  Stream videos, see trending and recommended videos, browse content categories, search for videos and channels, and explore channels.  Create your own account to subscribe to other channels, like and dislike videos, and add videos to your playlists.  Download videos for playback when offline.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Full controller support",
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 72,
-  "review_positive": 43,
+  "review_positive": 0,
   "review_percentage": 59.7,
   "owner_estimate": 35000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 215,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 72,
-      "review_percentage": 59.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 72,
-      "review_percentage": 59.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-29",
+      "date": "2026-04-04",
       "review_count": 72,
       "review_percentage": 59.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

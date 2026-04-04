@@ -3,8 +3,8 @@
   "name": "Malody V",
   "slug": "malody-v",
   "developer": "Mugzone",
-  "publisher": "Mugzone",
-  "release_date": "Feb 27, 2023",
+  "publisher": "",
+  "release_date": "2023-02-27",
   "price_usd": 2.99,
   "genres": [
     "Casual",
@@ -19,38 +19,15 @@
   ],
   "short_description": "Ultimate music game simulator",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512940/header.jpg?t=1752740265",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512940/ss_b3260a43d189e8b188645898cbf58a1a42b85117.600x338.jpg?t=1752740265",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512940/ss_302903df394697db75946481e75df548352b53b2.600x338.jpg?t=1752740265",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512940/ss_42b28ef3921ee5f872493d73257c8bbc2e12f9aa.600x338.jpg?t=1752740265",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512940/3741ff8e9f3073a6db1d2b4c1dfe11a7083fddf3/ss_3741ff8e9f3073a6db1d2b4c1dfe11a7083fddf3.600x338.jpg?t=1752740265",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512940/2060fc7643d1f23e16bcb1aa95d5334a9aacf053/ss_2060fc7643d1f23e16bcb1aa95d5334a9aacf053.600x338.jpg?t=1752740265",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1512940/29aeb2988b02a5c5c6c5821ebc952daad9d8e0ff/ss_29aeb2988b02a5c5c6c5821ebc952daad9d8e0ff.600x338.jpg?t=1752740265"
-  ],
-  "detailed_description": "Malody V is a cross-platform music game (Simulator) which is developed by a group of dedicated volunteers. Malody was first relesed in 2014 with Key mode at the beginning. Now it supports Key, Catch, Pad, Taiko, Ring, Slide Live and Cube. Each mode has a full featured chart editor, skin editor and online ranking, also can be played in multiplayer room with friends online.<br />\r\n<br />\r\nAs we moved from old Malody to Malody V, we rewrited the game with new engine. In Malody V, we fixed hundred of bugs in old one, and improved editor, profile, collection, music player etc. Please feel free to explorer more.<br />\r\n<br />\r\nFeatures:<br />\r\n* Support variety of chart formats: osu, sm, bms, pms, mc, tja<br />\r\n* In game editor, for creating and sharing charts.<br />\r\n* In game skin editor, easy to use.<br />\r\n* Multiplayer, for all mode.<br />\r\n* Support full keysound chart.<br />\r\n* Support play recording.<br />\r\n* Support play effect: random, flip, const, rush, hide, origin, death.<br />\r\n* Support online ranking.<br />\r\n* Support private server.",
-  "about_the_game": "Malody V is a cross-platform music game (Simulator) which is developed by a group of dedicated volunteers. Malody was first relesed in 2014 with Key mode at the beginning. Now it supports Key, Catch, Pad, Taiko, Ring, Slide Live and Cube. Each mode has a full featured chart editor, skin editor and online ranking, also can be played in multiplayer room with friends online.<br />\r\n<br />\r\nAs we moved from old Malody to Malody V, we rewrited the game with new engine. In Malody V, we fixed hundred of bugs in old one, and improved editor, profile, collection, music player etc. Please feel free to explorer more.<br />\r\n<br />\r\nFeatures:<br />\r\n* Support variety of chart formats: osu, sm, bms, pms, mc, tja<br />\r\n* In game editor, for creating and sharing charts.<br />\r\n* In game skin editor, easy to use.<br />\r\n* Multiplayer, for all mode.<br />\r\n* Support full keysound chart.<br />\r\n* Support play recording.<br />\r\n* Support play effect: random, flip, const, rush, hide, origin, death.<br />\r\n* Support online ranking.<br />\r\n* Support private server.",
-  "supported_languages": "English, Japanese, Simplified Chinese, French, German, Traditional Chinese, Vietnamese, Italian, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Steam Workshop",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 527,
+  "screenshots": [],
   "rising_score": 0.001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 179.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 544,
-  "review_positive": 386,
+  "review_positive": 0,
   "review_percentage": 71.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 365,
-      "review_percentage": 61.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 544,
       "review_percentage": 71.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

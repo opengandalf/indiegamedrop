@@ -3,8 +3,8 @@
   "name": "CoreOptimizer",
   "slug": "coreoptimizer",
   "developer": "Nincent",
-  "publisher": "Nincent",
-  "release_date": "Oct 16, 2018",
+  "publisher": "",
+  "release_date": "2018-10-16",
   "price_usd": 9.99,
   "genres": [
     "Utilities"
@@ -17,37 +17,15 @@
   ],
   "short_description": "CoreOptimizer improves your game playing performance through optimizing your computer's hardware resource.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910370/header.jpg?t=1553819338",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910370/ss_7764dbf8017ade7d83114e8774e4cbddfcccbb0b.600x338.jpg?t=1553819338",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910370/ss_691b803d17085f312403ed7b3c1eaabab2b0b858.600x338.jpg?t=1553819338",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910370/ss_df06477cbe86e100e76816054b4d2e7d8195924b.600x338.jpg?t=1553819338",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910370/ss_2b2e08a90536d17b8acddcd536584f762f4e7259.600x338.jpg?t=1553819338",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910370/ss_1508119057fabab667f2f0fa1aa0540ca5c1730c.600x338.jpg?t=1553819338",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910370/ss_637194922c3d4c17db7ccf0d39596aa6bddedf55.600x338.jpg?t=1553819338",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910370/ss_beed87634b3617016c9629bd046bb2f2a600ae5f.600x338.jpg?t=1553819338",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910370/ss_827770e6bbfe04a7f734f362c71ccae10f44e853.600x338.jpg?t=1553819338",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910370/ss_3bc256304740a2aed97925c98ed46ef7dc0c014d.600x338.jpg?t=1553819338",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910370/ss_230d0efcaa22288a45dda2a75dc94dca190e6db4.600x338.jpg?t=1553819338",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910370/ss_23bffdf357d3a58ef8da12b798a54fd203ac7b54.600x338.jpg?t=1553819338",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910370/ss_44d7c83996a987c18404327d9adcd763c69ba25b.600x338.jpg?t=1553819338",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/910370/ss_815726cbcd986bd885d3beda5d6af2c769dff85e.600x338.jpg?t=1553819338"
-  ],
-  "detailed_description": "CoreOptimizer improves your game playing performance through optimizing your computer's hardware resource. It could also be used as a general system optimization tool.<h2 class=\"bb_tag\" >Features</h2><br><strong>Core Optimization</strong> <br><ul class=\"bb_ul\"><li>Restrict system processes to run on a single core such that all remaining cores are left for game.<br></li><li>Run game with high priority.<br></li><li>Run game on a single core(Suitable for single core game not optimized for multi-cores).<br></li><li>Prohibit hyper-threading for game.<br></li><li>Run game on designated multi-cores.<br></li><li>Auto launch with OS start.<br></li><li>Constrain Web browser to run on a single core.<br></li><li>Filter applications to not be restricted to single core.<br></li><li>Run any streaming software on designated core.<br></li><li>Restrict the priority of any streaming software.<br></li><li>List of processes to select for optimization.<br></li><li>Kill selected process.<br></li><li>Copy a process's PID to be used in Memory Clean.<br></li><li>Stop optimization.</li></ul><br><strong>Game Utility(including Steam, non-Steam games and applications)</strong> <br><ul class=\"bb_ul\"><li>Auto detection of all Steam games to be launched for optimization.<br></li><li>Manually add any game or application for optimization.<br></li><li>Auto detection of designated games for optimization.<br></li><li>Steam Store and Community link.<br></li><li>Favorite your game.<br></li><li>Add launch options of Steam game.<br></li><li>Customize display name of Steam game.<br></li><li>Change display image of any game or application.</li></ul><br><strong>Memory Cleaning</strong> <br><ul class=\"bb_ul\"><li>Used memory in GB.<br></li><li>Memory footprint in %.<br></li><li>One key press to clean memory for all processes.<br></li><li>List of statistic data after memory cleaning.<br></li><li>Chart display of the memory uses in real time.</li></ul><br><strong>Hardware Analyzer</strong> <br><ul class=\"bb_ul\"><li>List all the resources belonging to your computer, including CPU, GPU, RAM, OS, Motherboard, HDD, Optical Drives, Audio, and Network etc.</li></ul><br><strong>FPS Benchmark</strong> <br><ul class=\"bb_ul\"><li>Paste copied PID for fps tracking of the process.<br></li><li>Auto detection of all windows belonging to the game launched within CoreOptimizer.<br></li><li>Select the detected game window for benchmark.<br></li><li>One key press to start FPS tracking.<br></li><li>Show real time FPS in the tracked game window.<br></li><li>Chart display of FPS data for statistic analysis.</li></ul><br><strong>Disk Compression</strong> <br><ul class=\"bb_ul\"><li>Four compression method.<br></li><li>Batch compression of all Steam games.<br></li><li>Select a folder for compression.<br></li><li>Compress the selected folder.<br></li><li>Decompress the selected folder.<br></li><li>List all compressed folders.</li></ul><br><strong>System tray</strong> <br><ul class=\"bb_ul\"><li>Show/hide the window.<br></li><li>Auto remember latest played 5 games.<br></li><li>Stop optimization.<br></li><li>Recover window position</li></ul>",
-  "about_the_game": "CoreOptimizer improves your game playing performance through optimizing your computer's hardware resource. It could also be used as a general system optimization tool.<h2 class=\"bb_tag\" >Features</h2><br><strong>Core Optimization</strong> <br><ul class=\"bb_ul\"><li>Restrict system processes to run on a single core such that all remaining cores are left for game.<br></li><li>Run game with high priority.<br></li><li>Run game on a single core(Suitable for single core game not optimized for multi-cores).<br></li><li>Prohibit hyper-threading for game.<br></li><li>Run game on designated multi-cores.<br></li><li>Auto launch with OS start.<br></li><li>Constrain Web browser to run on a single core.<br></li><li>Filter applications to not be restricted to single core.<br></li><li>Run any streaming software on designated core.<br></li><li>Restrict the priority of any streaming software.<br></li><li>List of processes to select for optimization.<br></li><li>Kill selected process.<br></li><li>Copy a process's PID to be used in Memory Clean.<br></li><li>Stop optimization.</li></ul><br><strong>Game Utility(including Steam, non-Steam games and applications)</strong> <br><ul class=\"bb_ul\"><li>Auto detection of all Steam games to be launched for optimization.<br></li><li>Manually add any game or application for optimization.<br></li><li>Auto detection of designated games for optimization.<br></li><li>Steam Store and Community link.<br></li><li>Favorite your game.<br></li><li>Add launch options of Steam game.<br></li><li>Customize display name of Steam game.<br></li><li>Change display image of any game or application.</li></ul><br><strong>Memory Cleaning</strong> <br><ul class=\"bb_ul\"><li>Used memory in GB.<br></li><li>Memory footprint in %.<br></li><li>One key press to clean memory for all processes.<br></li><li>List of statistic data after memory cleaning.<br></li><li>Chart display of the memory uses in real time.</li></ul><br><strong>Hardware Analyzer</strong> <br><ul class=\"bb_ul\"><li>List all the resources belonging to your computer, including CPU, GPU, RAM, OS, Motherboard, HDD, Optical Drives, Audio, and Network etc.</li></ul><br><strong>FPS Benchmark</strong> <br><ul class=\"bb_ul\"><li>Paste copied PID for fps tracking of the process.<br></li><li>Auto detection of all windows belonging to the game launched within CoreOptimizer.<br></li><li>Select the detected game window for benchmark.<br></li><li>One key press to start FPS tracking.<br></li><li>Show real time FPS in the tracked game window.<br></li><li>Chart display of FPS data for statistic analysis.</li></ul><br><strong>Disk Compression</strong> <br><ul class=\"bb_ul\"><li>Four compression method.<br></li><li>Batch compression of all Steam games.<br></li><li>Select a folder for compression.<br></li><li>Compress the selected folder.<br></li><li>Decompress the selected folder.<br></li><li>List all compressed folders.</li></ul><br><strong>System tray</strong> <br><ul class=\"bb_ul\"><li>Show/hide the window.<br></li><li>Auto remember latest played 5 games.<br></li><li>Stop optimization.<br></li><li>Recover window position</li></ul>",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Danish, Ukrainian, Russian, Bulgarian, Hungarian, Turkish, Greek, Norwegian, Czech, Japanese, Polish, Thai, Swedish, Simplified Chinese, Traditional Chinese, Romanian, Finnish, Dutch, Portuguese - Portugal, Portuguese - Brazil, Arabic, Korean",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 2.2,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 44,
-  "review_positive": 26,
+  "review_positive": 0,
   "review_percentage": 59.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 45,
-      "review_percentage": 60.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 44,
       "review_percentage": 59.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

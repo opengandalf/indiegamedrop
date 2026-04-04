@@ -3,8 +3,8 @@
   "name": "Snakebird",
   "slug": "snakebird",
   "developer": "Noumenon Games",
-  "publisher": "Noumenon Games",
-  "release_date": "May 4, 2015",
+  "publisher": "",
+  "release_date": "2015-05-04",
   "price_usd": 3.49,
   "genres": [
     "Indie"
@@ -17,66 +17,29 @@
     "mac",
     "linux"
   ],
-  "short_description": "Do you like puzzles, fruit and the notion of crossing a snake with a bird for no good reason? If the answer to at least one of those questions is yes, then Snakebird might be the game for you. Solve your way through this headscratcher of a puzzle game and help the snakebirds sate their hunger.",
+  "short_description": "Do you like puzzles, fruit and the notion of crossing a snake with a bird for no good reason? If the answer to at least one of those questions is yes, then Snakebird might be the game for you. Solve y",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/357300/header.jpg?t=1732195053",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/357300/ss_240bf31200160505a31b7c26565ea2d0ae7ec854.600x338.jpg?t=1732195053",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/357300/ss_e302e562e06086cd0a04d34db7f0f1515fbcad5b.600x338.jpg?t=1732195053",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/357300/ss_559b92d98b29b2e5dff0f977a2f81320b9633d6e.600x338.jpg?t=1732195053",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/357300/ss_adbf92107dfe1c1ef342814ccb59be5ec453a344.600x338.jpg?t=1732195053",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/357300/ss_05c66c12fc0112e23c3f4c8458d6fea6a01051a1.600x338.jpg?t=1732195053",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/357300/ss_af85c3bfc48ca7eaa737ef32078044deaf5747d0.600x338.jpg?t=1732195053"
-  ],
-  "detailed_description": "What is the longest possible length a bird can be? Obviously a question only all the fruit in the world can answer! But where could all this fruit be hiding? Follow Redbird, Greenbird and Bluebird on a quest for an amount of fruit beyond any birds wildest dreams.<br><br>Snakebird is a very simple but deceptively challenging puzzle game about assuming the right shapes for the task at hand, be it pushing, lifting, teleporting or just defying the laws of physics.<h2 class=\"bb_tag\" >Key features:</h2><ul class=\"bb_ul\"><li>Over fifty challenging levels<br></li><li>Non-linear world map<br></li><li>Several different zones with their own themed puzzles<br></li><li>Snake-like birds with narcolepsy<br></li><li>Dynamic fruit-powered length gain system</li></ul>",
-  "about_the_game": "What is the longest possible length a bird can be? Obviously a question only all the fruit in the world can answer! But where could all this fruit be hiding? Follow Redbird, Greenbird and Bluebird on a quest for an amount of fruit beyond any birds wildest dreams.<br><br>Snakebird is a very simple but deceptively challenging puzzle game about assuming the right shapes for the task at hand, be it pushing, lifting, teleporting or just defying the laws of physics.<h2 class=\"bb_tag\" >Key features:</h2><ul class=\"bb_ul\"><li>Over fifty challenging levels<br></li><li>Non-linear world map<br></li><li>Several different zones with their own themed puzzles<br></li><li>Snake-like birds with narcolepsy<br></li><li>Dynamic fruit-powered length gain system</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Trading Cards",
-    "Partial Controller Support",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 881,
+  "screenshots": [],
   "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 54.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 1226,
-  "review_positive": 1146,
+  "review_positive": 0,
   "review_percentage": 93.5,
   "owner_estimate": 75000,
-  "ccu_estimate": 2,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 160,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1172,
-      "review_percentage": 93.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
+      "date": "2026-04-04",
       "review_count": 1226,
       "review_percentage": 93.5,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
-      "review_count": 1226,
-      "review_percentage": 93.5,
-      "ccu_estimate": 2,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

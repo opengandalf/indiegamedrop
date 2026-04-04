@@ -3,8 +3,8 @@
   "name": "CrossHud - Crosshair Overlay",
   "slug": "crosshud-crosshair-overlay",
   "developer": "CrossHud",
-  "publisher": "CrossHud",
-  "release_date": "Sep 29, 2022",
+  "publisher": "",
+  "release_date": "2022-09-29",
   "price_usd": 1.49,
   "genres": [
     "Utilities"
@@ -17,31 +17,15 @@
   ],
   "short_description": "Use custom crosshairs for all your games, enjoy both fullscreen and desktop crosshairs for other window modes.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095190/header.jpg?t=1763273312",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095190/ss_c2d08efa7b2db826cdfd51b32e0fd3a42b20492e.600x338.jpg?t=1763273312",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095190/ss_f9e8ada3c3ee73b88f6db7f37e079fea7ae64adf.600x338.jpg?t=1763273312",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095190/ss_3400320b4964c2500a6430dbf1abc745405d04b8.600x338.jpg?t=1763273312",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095190/ss_769e9488eb7ea0d277b120b69e72334568c2b9cd.600x338.jpg?t=1763273312",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095190/ss_2a0fab940faeb14e3c58073bd504a3edaa53ef3e.600x338.jpg?t=1763273312",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095190/bfd7ce05a61c5bb1791d95d9414aedffcfa12cee/ss_bfd7ce05a61c5bb1791d95d9414aedffcfa12cee.600x338.jpg?t=1763273312",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095190/3c2ffbe62b91a86ee827b5d0bc30d2042f998287/ss_3c2ffbe62b91a86ee827b5d0bc30d2042f998287.600x338.jpg?t=1763273312"
-  ],
-  "detailed_description": "CrossHud allows you to use a custom crosshair reticle in your games. Full customization tools enable you to tweak and create the perfect crosshair for your game.<h2 class=\"bb_tag\" ><strong>Key Features</strong></h2><br><ul class=\"bb_ul\"><li>Works in fullscreen and other window modes<br></li><li>Both 64-bit and 32-bit games are supported<br></li><li>Full crosshair editor to allow you to change color, crosshair type, offset etc all in real time while game is running<br></li><li>Whitelist allows you to only allow specific games to use crosshair overlay </li></ul><br>Some games don’t allow third party overlays, in this case you can use the desktop crosshair option in fullscreen borderless or other window modes. CrossHud works exactly like other game overlay tools, you just need to make sure the game you are playing does not deny such enhancement in terms of service.",
-  "about_the_game": "CrossHud allows you to use a custom crosshair reticle in your games. Full customization tools enable you to tweak and create the perfect crosshair for your game.<h2 class=\"bb_tag\" ><strong>Key Features</strong></h2><br><ul class=\"bb_ul\"><li>Works in fullscreen and other window modes<br></li><li>Both 64-bit and 32-bit games are supported<br></li><li>Full crosshair editor to allow you to change color, crosshair type, offset etc all in real time while game is running<br></li><li>Whitelist allows you to only allow specific games to use crosshair overlay </li></ul><br>Some games don’t allow third party overlays, in this case you can use the desktop crosshair option in fullscreen borderless or other window modes. CrossHud works exactly like other game overlay tools, you just need to make sure the game you are playing does not deny such enhancement in terms of service.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 187,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 9.65,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 193,
-  "review_positive": 129,
+  "review_positive": 0,
   "review_percentage": 66.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -49,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 187,
-      "review_percentage": 67.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 193,
       "review_percentage": 66.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "A Cats Life",
   "slug": "a-cats-life",
   "developer": "Kratos",
-  "publisher": "Kratos",
-  "release_date": "Mar 3, 2023",
+  "publisher": "",
+  "release_date": "2023-03-03",
   "price_usd": 0.49,
   "genres": [
     "Action",
@@ -19,36 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "A VR simulation game. Climb, jump, grab, run(zoom). With lots of parkour, rhythmic, and maze levels. Collect all the stars and milk. Save the town. With an auto climb feature taking VR climbing to another level of accessibility.",
+  "short_description": "A VR simulation game. Climb, jump, grab, run(zoom). With lots of parkour, rhythmic, and maze levels. Collect all the stars and milk. Save the town. With an auto climb feature taking VR climbing to ano",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2234080/header.jpg?t=1677848663",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2234080/ss_540bd2a16aa6a24a6bd8bf6266577b1ef52de8c2.600x338.jpg?t=1677848663",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2234080/ss_992dd894ac52d39c3c32f2eee21d705714c702a6.600x338.jpg?t=1677848663",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2234080/ss_15507e48ca2fe655b19dc766c27f12fad52ac17e.600x338.jpg?t=1677848663",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2234080/ss_06e8dbbf63efbc2dc6b758ea62ce8a86c6c261fd.600x338.jpg?t=1677848663",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2234080/ss_9cc2e9c58253aa94d3dfce42fdcd0addcfbe0f16.600x338.jpg?t=1677848663"
-  ],
-  "detailed_description": "A VR cat simulation game. A volcano erupts outside of a small town leaving debris, mutating squirrels and scaring the dogs . The hoomans quicky wall them self's in to protect themself. Talk the towns people, and animals find your quest. Face giant squirrels smarter then the hoomans. Collect the stars, and milk. Avoid the panic, save the town!",
-  "about_the_game": "A VR cat simulation game. A volcano erupts outside of a small town leaving debris, mutating squirrels and scaring the dogs . The hoomans quicky wall them self's in to protect themself. Talk the towns people, and animals find your quest. Face giant squirrels smarter then the hoomans. Collect the stars, and milk. Avoid the panic, save the town!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,26 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

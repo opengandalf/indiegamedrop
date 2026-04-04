@@ -3,8 +3,8 @@
   "name": "Eonica Chess Battle",
   "slug": "eonica-chess-battle",
   "developer": "StandArts",
-  "publisher": "StandArts",
-  "release_date": "Oct 31, 2020",
+  "publisher": "",
+  "release_date": "2020-10-31",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -23,34 +23,15 @@
   ],
   "short_description": "Eonica Chess Battle is an auto-battler game, mixing together elements of the classic chess game with elements from the fantasy fiction world.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1171040/header.jpg?t=1637596714",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1171040/ss_f51a22bea0b62763c26bb02f608d53e0627939ac.600x338.jpg?t=1637596714",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1171040/ss_3102b0481a94a95dda3b1727118787ebba5ef4a7.600x338.jpg?t=1637596714",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1171040/ss_28cdabcd44d0af2b693eb3658039654af881c4a2.600x338.jpg?t=1637596714",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1171040/ss_27c247a4bc931d8aba1633c159796213063689f9.600x338.jpg?t=1637596714",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1171040/ss_9587153f551a5dc19a36c830de6703710e2cd68b.600x338.jpg?t=1637596714"
-  ],
-  "detailed_description": "Inspired by the popular <i>Dota 2 Auto Chess</i> game mode, <i>Eonica Chess Battle</i> is an auto-battler game, mixing together elements of the classic chess game with elements from the fantasy fiction world. The game features 8 players competing against each other in an exciting last man standing duel.<br><br><strong>The ultimate goal:</strong> carefully engage chess pieces in strong combinations and optimal arrangement on the board to successfully encounter the opponent formations. Mastering the mechanics and synergies governing chess pieces, understanding the probabilities of getting certain pieces and carefully following the in-game economy are some of the key skills required, in order to adopt a successful strategy.<br><br><strong>The result:</strong> a fun and entertaining game, which can be enjoyed together with friends.",
-  "about_the_game": "Inspired by the popular <i>Dota 2 Auto Chess</i> game mode, <i>Eonica Chess Battle</i> is an auto-battler game, mixing together elements of the classic chess game with elements from the fantasy fiction world. The game features 8 players competing against each other in an exciting last man standing duel.<br><br><strong>The ultimate goal:</strong> carefully engage chess pieces in strong combinations and optimal arrangement on the board to successfully encounter the opponent formations. Mastering the mechanics and synergies governing chess pieces, understanding the probabilities of getting certain pieces and carefully following the in-game economy are some of the key skills required, in order to adopt a successful strategy.<br><br><strong>The result:</strong> a fun and entertaining game, which can be enjoyed together with friends.",
-  "supported_languages": "English<strong>*</strong>, Russian<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.7000000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 34,
-  "review_positive": 19,
+  "review_positive": 0,
   "review_percentage": 55.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -58,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 32,
-      "review_percentage": 56.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 34,
       "review_percentage": 55.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

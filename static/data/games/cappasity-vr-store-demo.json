@@ -3,8 +3,8 @@
   "name": "Cappasity VR Store Demo",
   "slug": "cappasity-vr-store-demo",
   "developer": "Cappasity Inc.",
-  "publisher": "Cappasity Inc.",
-  "release_date": "Aug 5, 2019",
+  "publisher": "",
+  "release_date": "2019-08-05",
   "price_usd": 0.0,
   "genres": [
     "Education",
@@ -17,34 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Right now you can visit the VR Store, which was created on Unity with all the bags shot in the Cappasity 3D View format. You will be able to see how our format seamlessly merges with a real 3D environment.",
+  "short_description": "Right now you can visit the VR Store, which was created on Unity with all the bags shot in the Cappasity 3D View format. You will be able to see how our format seamlessly merges with a real 3D environ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102770/header.jpg?t=1565004547",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102770/ss_c0c5f0b552c2cb686b45f1926249978023b33f43.600x338.jpg?t=1565004547",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102770/ss_670dc21d89cf911dfcdbb03ff18251a7448e5ded.600x338.jpg?t=1565004547",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102770/ss_cc3e9230fd3670b583888ae6078f7ecbd3923985.600x338.jpg?t=1565004547",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102770/ss_157f75f0badc087a78093191065fa53e8b65c16a.600x338.jpg?t=1565004547",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1102770/ss_0b788708c6dab138ba0456ae0f78fc15ad9be74a.600x338.jpg?t=1565004547"
-  ],
-  "detailed_description": "Right now you can visit the VR store, which was created on Unity with all the bags shot in the Cappasity 3D View format. You will be able to see how our format seamlessly merges with a real 3D environment.<br><br><strong>This is not a photogrammetry solution. Not a game. This is a demonstration of Cappasity 3D format and Cappasity plug-in for Unity. Just a few minutes to create one 3D image! </strong><br><br>Creating a 3D image of any bag is a simple 3-step process: shoot the chosen object with a digital camera, upload the result into Cappasity platform to get a 3D View and once it’s ready, embed it into anything you wish, be it website, mobile or 3D/AR/VR application. Besides the simplicity of use Cappasity software is also very fast, in fact, it is ten times faster in 3D production than any known 3D technology and doesn’t require any specific equipment.<br><br>Our mission is to make 3D imaging as easy as photography!<br><br>“Using 3D technologies is a perfect way for e-merchants to boost their conversion rates and significantly decrease the number of returns, letting customers make right choices and engage emotionally. We believe in the effectiveness of 3D and VR/AR technologies for e-commerce, and this is why we are aiming at making them easy and accessible for everyone.”<br><br>Kosta Popov, CEO at Cappasity Inc.",
-  "about_the_game": "Right now you can visit the VR store, which was created on Unity with all the bags shot in the Cappasity 3D View format. You will be able to see how our format seamlessly merges with a real 3D environment.<br><br><strong>This is not a photogrammetry solution. Not a game. This is a demonstration of Cappasity 3D format and Cappasity plug-in for Unity. Just a few minutes to create one 3D image! </strong><br><br>Creating a 3D image of any bag is a simple 3-step process: shoot the chosen object with a digital camera, upload the result into Cappasity platform to get a 3D View and once it’s ready, embed it into anything you wish, be it website, mobile or 3D/AR/VR application. Besides the simplicity of use Cappasity software is also very fast, in fact, it is ten times faster in 3D production than any known 3D technology and doesn’t require any specific equipment.<br><br>Our mission is to make 3D imaging as easy as photography!<br><br>“Using 3D technologies is a perfect way for e-merchants to boost their conversion rates and significantly decrease the number of returns, letting customers make right choices and engage emotionally. We believe in the effectiveness of 3D and VR/AR technologies for e-commerce, and this is why we are aiming at making them easy and accessible for everyone.”<br><br>Kosta Popov, CEO at Cappasity Inc.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.4,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 8,
-  "review_positive": 8,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -52,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 8,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

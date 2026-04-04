@@ -3,8 +3,8 @@
   "name": "Dungeonball",
   "slug": "dungeonball",
   "developer": "Sokpop Collective",
-  "publisher": "Sokpop Collective",
-  "release_date": "Dec 13, 2021",
+  "publisher": "",
+  "release_date": "2021-12-13",
   "price_usd": 2.49,
   "genres": [
     "Action",
@@ -22,33 +22,15 @@
   ],
   "short_description": "Dungeonball is a first-person dodgeball roguelike. Use your hands and throwing power to fight your way through the dungeons.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845370/header.jpg?t=1643190252",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845370/ss_4fa925d36914e5a66ae035e05b3ce8d62fc435ce.600x338.jpg?t=1643190252",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845370/ss_2b61917e96c83119388ab21be3a656fa8f475ba6.600x338.jpg?t=1643190252",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845370/ss_7fecfb87045033a118114ebd2a345af14bb46acf.600x338.jpg?t=1643190252",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845370/ss_441df30b95a896d77515652d32344f47f3facfb5.600x338.jpg?t=1643190252",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845370/ss_0c02f5eb6bbedb648062473699bad9ed350202d1.600x338.jpg?t=1643190252"
-  ],
-  "detailed_description": "Dungeonball is a first-person dodgeball roguelike. Use your hands and throwing power to fight your way through the dungeons. You'll also use your hands to block enemy attacks, to carry keys around, and hold potions if you want to save them for later. Slowly fight your way through the procedurally generated levels - how deep into the dungeons can you get? <br><br><strong>Features</strong><br><br><ul class=\"bb_ul\"><li>Fun physics-based combat with emergent elements<br></li><li>Procedurally generated dungeons with ever increasing difficulty<br></li><li>Pick up nasty slimes and throw 'em against the wall<br></li><li>~1 hour of gameplay</li></ul>",
-  "about_the_game": "Dungeonball is a first-person dodgeball roguelike. Use your hands and throwing power to fight your way through the dungeons. You'll also use your hands to block enemy attacks, to carry keys around, and hold potions if you want to save them for later. Slowly fight your way through the procedurally generated levels - how deep into the dungeons can you get? <br><br><strong>Features</strong><br><br><ul class=\"bb_ul\"><li>Fun physics-based combat with emergent elements<br></li><li>Procedurally generated dungeons with ever increasing difficulty<br></li><li>Pick up nasty slimes and throw 'em against the wall<br></li><li>~1 hour of gameplay</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 0.7000000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 14,
-  "review_positive": 13,
+  "review_positive": 0,
   "review_percentage": 92.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +38,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 12,
-      "review_percentage": 91.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 14,
       "review_percentage": 92.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Akuya",
   "slug": "akuya",
   "developer": "Indie Dynamics",
-  "publisher": "Indie Dynamics",
-  "release_date": "Dec 15, 2016",
+  "publisher": "",
+  "release_date": "2016-12-15",
   "price_usd": 1.99,
   "genres": [
     "Adventure"
@@ -17,32 +17,15 @@
   ],
   "short_description": "Have you played enough serious games? Do you want to relax and have some fun with your friends? Well, maybe you can laugh on your own, it is only your decision.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/545490/header.jpg?t=1497718382",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/545490/ss_e828f494697226915c241311dae355b378c46149.600x338.jpg?t=1497718382",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/545490/ss_15050e4ada13995a344038f7cf647c2fd6c0c963.600x338.jpg?t=1497718382",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/545490/ss_a4ad2ad40229f91ad6ad21ef703a0f5d162b8208.600x338.jpg?t=1497718382",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/545490/ss_c9313cbbc6a8c3ae7d7965a2bc5a6bb3c94f7e26.600x338.jpg?t=1497718382",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/545490/ss_b1a781197eabe7ef68922ed7d3ef5d33bf5021a1.600x338.jpg?t=1497718382"
-  ],
-  "detailed_description": "Have you played enough serious games?<br />\r\nDo you want to relax and have some fun with your friends?<br />\r\nWell, maybe you can laugh on your own, it is only your decision.<br />\r\n<br />\r\n\"Akuya\" is not a normal game.<br />\r\nIt's actually weird to call it a game.<br />\r\nIT'S NOT A GAME!<br />\r\n<br />\r\nAre you here to buy a \"NO-GAME\"?<br />\r\nIf you are, then go on!<br />\r\nTry it!<br />\r\n<br />\r\nBe the person who tries desperatly to survive on an island in the middle of the ocean.<br />\r\nIs it possible to survive?<br />\r\nOf course not!<br />\r\nAfter all we want to be realistic!<br />\r\n<br />\r\nHave fun!",
-  "about_the_game": "Have you played enough serious games?<br />\r\nDo you want to relax and have some fun with your friends?<br />\r\nWell, maybe you can laugh on your own, it is only your decision.<br />\r\n<br />\r\n\"Akuya\" is not a normal game.<br />\r\nIt's actually weird to call it a game.<br />\r\nIT'S NOT A GAME!<br />\r\n<br />\r\nAre you here to buy a \"NO-GAME\"?<br />\r\nIf you are, then go on!<br />\r\nTry it!<br />\r\n<br />\r\nBe the person who tries desperatly to survive on an island in the middle of the ocean.<br />\r\nIs it possible to survive?<br />\r\nOf course not!<br />\r\nAfter all we want to be realistic!<br />\r\n<br />\r\nHave fun!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 21,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 14.3,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -50,26 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 21,
-      "review_percentage": 14.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 21,
-      "review_percentage": 14.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 21,
       "review_percentage": 14.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

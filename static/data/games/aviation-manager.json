@@ -3,8 +3,8 @@
   "name": "Aviation Manager",
   "slug": "aviation-manager",
   "developer": "Light Game",
-  "publisher": "Light Game",
-  "release_date": "Sep 2, 2022",
+  "publisher": "",
+  "release_date": "2022-09-02",
   "price_usd": 5.99,
   "genres": [
     "Adventure",
@@ -23,37 +23,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Choose your origin, create a route to nearby airports, choose the right plane, set a schedule for your flight. Maximize the use of planes, airports, transit routes, etc. to earn wealth, and expand routes to the world.",
+  "short_description": "Choose your origin, create a route to nearby airports, choose the right plane, set a schedule for your flight. Maximize the use of planes, airports, transit routes, etc. to earn wealth, and expand rou",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026060/header.jpg?t=1663349666",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026060/ss_4c1f78bbeee89f75ec39607917ca69901596cc2b.600x338.jpg?t=1663349666",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026060/ss_f69344da18ce38791449a03076c9469991eb6465.600x338.jpg?t=1663349666",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026060/ss_415b7174bb279cc4b67bd0f3810723da08d15485.600x338.jpg?t=1663349666",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026060/ss_09144680bbf82c7a0005294d79cdc15a02db3363.600x338.jpg?t=1663349666",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026060/ss_755eee18d94fcb07532dde7fdeb196d8fd180495.600x338.jpg?t=1663349666",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2026060/ss_10ef8d1ba2d4db0b8b413614dcab5c33ecb4a155.600x338.jpg?t=1663349666"
-  ],
-  "detailed_description": "Choose your origin, create a route to nearby airports, choose the right plane, set a schedule for your flight. Maximize the use of planes, airports, transit routes, etc. to earn wealth, and expand routes to the world.<h2 class=\"bb_tag\" >Route</h2>Each route starts from the starting point, passes through multiple airports, and finally returns to the starting point, waiting for the next dispatch. Reasonable route design enables passengers to reach their destination conveniently and improves the utilization rate of the route.<h2 class=\"bb_tag\" >Timetable</h2>Configure a schedule for each route, and when a certain time is reached, if there are planes waiting to be dispatched, the route will issue a flight. Configure the layover time of the flight through the airport to stagger the peak, improve the utilization of the airport, and reduce the waiting time of the aircraft.<h2 class=\"bb_tag\" >Transit</h2>When there is no direct flight, passengers will choose to make a reasonable connecting flight.<h2 class=\"bb_tag\" >Extension</h2>Expand the seats at the airport to increase the passenger capacity limit, and expand the airport gate to increase the maximum number of parked aircraft.",
-  "about_the_game": "Choose your origin, create a route to nearby airports, choose the right plane, set a schedule for your flight. Maximize the use of planes, airports, transit routes, etc. to earn wealth, and expand routes to the world.<h2 class=\"bb_tag\" >Route</h2>Each route starts from the starting point, passes through multiple airports, and finally returns to the starting point, waiting for the next dispatch. Reasonable route design enables passengers to reach their destination conveniently and improves the utilization rate of the route.<h2 class=\"bb_tag\" >Timetable</h2>Configure a schedule for each route, and when a certain time is reached, if there are planes waiting to be dispatched, the route will issue a flight. Configure the layover time of the flight through the airport to stagger the peak, improve the utilization of the airport, and reduce the waiting time of the aircraft.<h2 class=\"bb_tag\" >Transit</h2>When there is no direct flight, passengers will choose to make a reasonable connecting flight.<h2 class=\"bb_tag\" >Extension</h2>Expand the seats at the airport to increase the passenger capacity limit, and expand the airport gate to increase the maximum number of parked aircraft.",
-  "supported_languages": "English, Russian, Simplified Chinese, French, German, Spanish - Spain, Japanese, Portuguese - Portugal",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.55,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 11,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 27.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -61,19 +41,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 11,
-      "review_percentage": 27.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 11,
       "review_percentage": 27.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

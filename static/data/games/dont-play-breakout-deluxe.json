@@ -3,8 +3,8 @@
   "name": "Don't Play Breakout Deluxe",
   "slug": "dont-play-breakout-deluxe",
   "developer": "LM2play, Marion L'asticot",
-  "publisher": "LM2play",
-  "release_date": "Nov 13, 2024",
+  "publisher": "",
+  "release_date": "2024-11-13",
   "price_usd": 4.99,
   "genres": [
     "Casual",
@@ -17,56 +17,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "A little stroll with a ball that you only control horizontally, while it keeps going up and down, inverting itself each time you touch a floor or a ceiling. Just a comfy, short game, with nice ambiance.",
+  "short_description": "A little stroll with a ball that you only control horizontally, while it keeps going up and down, inverting itself each time you touch a floor or a ceiling. Just a comfy, short game, with nice ambianc",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3285480/header.jpg?t=1764950650",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3285480/ss_f4a016fd58886791eb9eaa22ca2ff7bc5da39587.600x338.jpg?t=1764950650",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3285480/ss_a4ff7485f7d2cb35a967d7d79f18b0beccd53fdd.600x338.jpg?t=1764950650",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3285480/ss_e43e0d93cc126e3aa9dcce6e12241b5b8cc0a841.600x338.jpg?t=1764950650",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3285480/ss_b34d1702323f6a6774f8c1eddac78f14a9eb2196.600x338.jpg?t=1764950650",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3285480/ss_1e1b60095121978331045ef715d876ef83478af2.600x338.jpg?t=1764950650"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Breakout is a cruel game: when a level is finished, the bar goes away, and the ball is forced to die. In Don't Play Breakout Deluxe, you can discover what happenned to the ball that didn't had this fate.</p><p class=\"bb_paragraph\" >Don't Play Breakout Deluxe is a simple game, nearly a walk in a park. You travel inside multiple worlds, eight precisely, to get eight keys, needed to quit the big tower you're a prisonner of.</p><p class=\"bb_paragraph\" >Don't Play Breakout Deluxe is a short and pleasant game, just trying to share some comfort to whoever plays it.</p><p class=\"bb_paragraph\" >You only need the left and right button to play the game, but a menu exist by pressing start or enter.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Breakout is a cruel game: when a level is finished, the bar goes away, and the ball is forced to die. In Don't Play Breakout Deluxe, you can discover what happenned to the ball that didn't had this fate.</p><p class=\"bb_paragraph\" >Don't Play Breakout Deluxe is a simple game, nearly a walk in a park. You travel inside multiple worlds, eight precisely, to get eight keys, needed to quit the big tower you're a prisonner of.</p><p class=\"bb_paragraph\" >Don't Play Breakout Deluxe is a short and pleasant game, just trying to share some comfort to whoever plays it.</p><p class=\"bb_paragraph\" >You only need the left and right button to play the game, but a menu exist by pressing start or enter.</p>",
-  "supported_languages": "English, French",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0016,
-  "gem_score": 0.9786,
+  "screenshots": [],
+  "rising_score": 0.0,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 6.0,
+  "review_velocity_7d": 1.1,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 22,
-  "review_positive": 22,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 16,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 22,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

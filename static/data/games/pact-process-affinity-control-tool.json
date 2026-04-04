@@ -3,8 +3,8 @@
   "name": "PACT - Process Affinity Control Tool",
   "slug": "pact-process-affinity-control-tool",
   "developer": "Berk Alyamach",
-  "publisher": "Berk Alyamach",
-  "release_date": "Jan 31, 2021",
+  "publisher": "",
+  "release_date": "2021-01-31",
   "price_usd": 9.99,
   "genres": [
     "Utilities"
@@ -17,31 +17,9 @@
   ],
   "short_description": "PACT is a tool that allows you to section different programs in to different cores/threads on your CPU automagically.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517370/header.jpg?t=1667003515",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517370/ss_a1fb28be46b30b64c302774e953cc6469a7fb4d0.600x338.jpg?t=1667003515",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517370/ss_3a4bc6498e41f28e51ca956fc31e4e98e42ca11e.600x338.jpg?t=1667003515",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517370/ss_bc6684649a7a35ff3a0ec76bd8b0878219a47fd6.600x338.jpg?t=1667003515",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517370/ss_ed9891376b1bceda009a0d2366ffc07277a2bfbf.600x338.jpg?t=1667003515",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517370/ss_c5185c5459f7e9854ef9e4a0e030092df74926e7.600x338.jpg?t=1667003515"
-  ],
-  "detailed_description": "<u><h2 class=\"bb_tag\" >PACT is an open-source tool that allows you to run different programs in different cores of your CPU automagically.</h2></u><br><strong>Here is a quick list of it's current features:</strong><br><ul class=\"bb_ul\"><li> Automatically assign processes to threads/cores set by you.<br></li><li> Automatically detect games launched by Steam and others.<br></li><li> Minimize to System Tray (Windows).<br></li><li> Show you a basic overview of your system load.<br></li><li> Backup, Export, Import your configurations.</li></ul><br><strong>PACT is ready to go in three easy steps:</strong><br><ul class=\"bb_ul\"><li> You pick your default cores where most of your programs will run.<br></li><li> You pick your high-performance cores where you want your high-performance programs to run.<br></li><li> You designate programs or let PACT do it automatically for Steam games and other launchers.</li></ul><br>For special occasions you can choose to tag some program as \"Custom Performance\" with a configuration just for that program, exempt from the High Performance and Default configurations.<br><br>There is also a blacklist option, to ignore processes that don't play nice with PACT.<br><br><u><h2 class=\"bb_tag\" >Software by the people, for the people.</h2></u><br>PACT is open-source and the community is welcome to make suggestions, file for bugs or contribute to the project.<br>You can visit the website on the side, that will take you to the repository of the project.<br><br><u><h2 class=\"bb_tag\" >Disclaimers:</h2></u><br>PACT is a powerful tool that does not limit you.<br>It allows you to set priorities and affinities as you will.<br>If configured wrong, it can lead to worse performance, use it's advanced features with caution.<br><br>PACT offers performance gains by automating things already present on your system, primarily the process priority and affinity controls found in the task manager.<br><br>Processes that run at the SYSTEM level or KERNEL level may or may not be accessible to PACT, this can include Easy Anti Cheat.",
-  "about_the_game": "<u><h2 class=\"bb_tag\" >PACT is an open-source tool that allows you to run different programs in different cores of your CPU automagically.</h2></u><br><strong>Here is a quick list of it's current features:</strong><br><ul class=\"bb_ul\"><li> Automatically assign processes to threads/cores set by you.<br></li><li> Automatically detect games launched by Steam and others.<br></li><li> Minimize to System Tray (Windows).<br></li><li> Show you a basic overview of your system load.<br></li><li> Backup, Export, Import your configurations.</li></ul><br><strong>PACT is ready to go in three easy steps:</strong><br><ul class=\"bb_ul\"><li> You pick your default cores where most of your programs will run.<br></li><li> You pick your high-performance cores where you want your high-performance programs to run.<br></li><li> You designate programs or let PACT do it automatically for Steam games and other launchers.</li></ul><br>For special occasions you can choose to tag some program as \"Custom Performance\" with a configuration just for that program, exempt from the High Performance and Default configurations.<br><br>There is also a blacklist option, to ignore processes that don't play nice with PACT.<br><br><u><h2 class=\"bb_tag\" >Software by the people, for the people.</h2></u><br>PACT is open-source and the community is welcome to make suggestions, file for bugs or contribute to the project.<br>You can visit the website on the side, that will take you to the repository of the project.<br><br><u><h2 class=\"bb_tag\" >Disclaimers:</h2></u><br>PACT is a powerful tool that does not limit you.<br>It allows you to set priorities and affinities as you will.<br>If configured wrong, it can lead to worse performance, use it's advanced features with caution.<br><br>PACT offers performance gains by automating things already present on your system, primarily the process priority and affinity controls found in the task manager.<br><br>Processes that run at the SYSTEM level or KERNEL level may or may not be accessible to PACT, this can include Easy Anti Cheat.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Includes Source SDK"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -49,19 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

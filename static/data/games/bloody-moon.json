@@ -3,8 +3,8 @@
   "name": "Bloody Moon",
   "slug": "bloody-moon",
   "developer": "俊哥哥",
-  "publisher": "俊哥哥",
-  "release_date": "Oct 23, 2023",
+  "publisher": "",
+  "release_date": "2023-10-23",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -21,32 +21,15 @@
   ],
   "short_description": "This is a single-player third-person shooter about the zombie virus outbreak in the future world, as the last survivor and the last resistance of the zombies!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2598770/header.jpg?t=1698047640",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2598770/ss_d45a68e599e81f00b9950d83a5b67071fa47ddd8.600x338.jpg?t=1698047640",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2598770/ss_125faedae491b858c2a7efc13280fd676a257a19.600x338.jpg?t=1698047640",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2598770/ss_77c245efa9345d13ba4fbdf58d9a00a318df393f.600x338.jpg?t=1698047640",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2598770/ss_c6e98c7ceefe563a6456ae2782486b64f06f4940.600x338.jpg?t=1698047640",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2598770/ss_70c9212a0c5c0630737dc70ef2e28ec101b634cc.600x338.jpg?t=1698047640"
-  ],
-  "detailed_description": "This is a single-player third-person shooter about the zombie virus outbreak in the future world, as the last survivor and the last resistance of the zombies!<br />\r\n<br />\r\nIntroduction to the gameplay<br />\r\nPure zombie fighting game where equipment can be found in every corner of the map<br />\r\nWeapons have limited ammunition and cannot waste every round<br />\r\nMaterial points are refreshed every once in a while<br />\r\n<br />\r\nThere will be leaderboards in the game to compete with your friends for the first place!",
-  "about_the_game": "This is a single-player third-person shooter about the zombie virus outbreak in the future world, as the last survivor and the last resistance of the zombies!<br />\r\n<br />\r\nIntroduction to the gameplay<br />\r\nPure zombie fighting game where equipment can be found in every corner of the map<br />\r\nWeapons have limited ammunition and cannot waste every round<br />\r\nMaterial points are refreshed every once in a while<br />\r\n<br />\r\nThere will be leaderboards in the game to compete with your friends for the first place!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

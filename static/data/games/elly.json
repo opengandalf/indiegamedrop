@@ -3,8 +3,8 @@
   "name": "Elly",
   "slug": "elly",
   "developer": "EmotionalMingo",
-  "publisher": "EmotionalMingo",
-  "release_date": "Feb 5, 2021",
+  "publisher": "",
+  "release_date": "2021-02-05",
   "price_usd": 0.99,
   "genres": [
     "Action",
@@ -23,33 +23,15 @@
   ],
   "short_description": "A metroidvania style 2D adventure platformer. Speak to the locals, level up your power and seek to find the truth.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1513690/header.jpg?t=1665448550",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1513690/ss_b93d9e0421340d949f49018c6891f680aeda8ed4.600x338.jpg?t=1665448550",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1513690/ss_76be4e0b615873d6c518ebd0fc2da32df7a94837.600x338.jpg?t=1665448550",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1513690/ss_3ba4544ba779a598e1adcc08f50fa43dc413d2c7.600x338.jpg?t=1665448550",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1513690/ss_15e8e19211de70237c4ff32810229246030a4192.600x338.jpg?t=1665448550",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1513690/ss_10a780df93b207597d21a082591132740020632d.600x338.jpg?t=1665448550"
-  ],
-  "detailed_description": "[Elly Update 2.0.1<br><br>INVENTORY OVERHAUL<br>Inventory now shows stats for :<br><br>Player Level<br>Max Health<br>Max Stamina<br>Exp Needed<br>Current Exp Held<br>Melee DMG<br>EllyCoins Holding<br><br>Elly's Journal Entries Have been scattered among the bosses<br>11 new weapons with status effects added to the game - Chance to Poison/Freeze and Fire/Lightning/Ice +DMG added to certain weapons<br>Weapons now have flavor text and are shown in the Inventory<br>Inventory Expanded and weapons are select-able/equip-able<br>You can now hot swap between gun/ray gun once unlocked in the inventory<br>Dash/jump potions are now collectables and stack-able in the inventory - used now in inventory by selecting<br>Enemies are now weak to status effects and a indicator will show when effected next to enemy health bar<br>Menu cleanups<br>Down melee attack added<br>Weapon projectiles added<br>Wall jumps refined<br>Test Items : Teleporter/New seeking enemies/and water mechanics added in new area]<br><br><br>You wake up on a planet not your own. You can turn into a gun? Yes! Things are about to get weird.<br>A metroidvania style 2D adventure platformer. Speak to the locals, level up your power and seek to find the truth.<br>Movement is key to exploring and revealing the secrets tangled into the heart of Elly. <br><br>Key Features :<br>Everything Is Hand Drawn<br>Dialogue System - Choices Matter!<br>Unique Large Zones To Explore<br>Player Upgrades<br>Challenging Platforming<br>Dynamic/Fast Paced Movement System - Dodge Spam, Wall Slides/Jumps, Glider To Rule The Air<br>Deep And Strange Story Lore To Uncover<br>Full Controller Support<br>Full Key Mapping System<br>Unique and Original Music",
-  "about_the_game": "[Elly Update 2.0.1<br><br>INVENTORY OVERHAUL<br>Inventory now shows stats for :<br><br>Player Level<br>Max Health<br>Max Stamina<br>Exp Needed<br>Current Exp Held<br>Melee DMG<br>EllyCoins Holding<br><br>Elly's Journal Entries Have been scattered among the bosses<br>11 new weapons with status effects added to the game - Chance to Poison/Freeze and Fire/Lightning/Ice +DMG added to certain weapons<br>Weapons now have flavor text and are shown in the Inventory<br>Inventory Expanded and weapons are select-able/equip-able<br>You can now hot swap between gun/ray gun once unlocked in the inventory<br>Dash/jump potions are now collectables and stack-able in the inventory - used now in inventory by selecting<br>Enemies are now weak to status effects and a indicator will show when effected next to enemy health bar<br>Menu cleanups<br>Down melee attack added<br>Weapon projectiles added<br>Wall jumps refined<br>Test Items : Teleporter/New seeking enemies/and water mechanics added in new area]<br><br><br>You wake up on a planet not your own. You can turn into a gun? Yes! Things are about to get weird.<br>A metroidvania style 2D adventure platformer. Speak to the locals, level up your power and seek to find the truth.<br>Movement is key to exploring and revealing the secrets tangled into the heart of Elly. <br><br>Key Features :<br>Everything Is Hand Drawn<br>Dialogue System - Choices Matter!<br>Unique Large Zones To Explore<br>Player Upgrades<br>Challenging Platforming<br>Dynamic/Fast Paced Movement System - Dodge Spam, Wall Slides/Jumps, Glider To Rule The Air<br>Deep And Strange Story Lore To Uncover<br>Full Controller Support<br>Full Key Mapping System<br>Unique and Original Music",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 7,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 85.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 85.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 85.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Disc Golf Valley",
   "slug": "disc-golf-valley",
   "developer": "Spinoff Games",
-  "publisher": "Spinoff Games",
-  "release_date": "Jun 9, 2021",
+  "publisher": "",
+  "release_date": "2021-06-09",
   "price_usd": 4.99,
   "genres": [
     "Casual",
@@ -22,37 +22,15 @@
   ],
   "short_description": "Disc Golf Valley is home to some of the most beautiful and challenging disc golf courses in the world. Fill up your disc bag, sign up for tournaments and challenge every course in the Valley.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1642890/header.jpg?t=1743668687",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1642890/ss_48433d0ac21be0af7a4cbb1903f82d475a346c77.600x338.jpg?t=1743668687",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1642890/ss_dd068d9dd656b9f2dd16bb0fe5d376e41377b357.600x338.jpg?t=1743668687",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1642890/ss_e881b7c61f9db260642bd91ab84b162c3af0564c.600x338.jpg?t=1743668687",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1642890/ss_e183307aa99b2bfd20391416457a23b8088f1dac.600x338.jpg?t=1743668687",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1642890/ss_7599009da2acb3deab5e11a8f9a537c427308017.600x338.jpg?t=1743668687",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1642890/ss_be4e2db4db0b9be98c309179442c36b27ca3b32a.600x338.jpg?t=1743668687"
-  ],
-  "detailed_description": "Disc Golf Valley is a Disc Golf Game aiming to capture the thrill and excitement of playing real Disc Golf. <br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li> 14 spectacular courses.<br></li><li> Thousands of unique discs to collect and throw.<br></li><li> Challenge mode where you get to challenge each course and unlock new discs.<br></li><li> Tournament mode.<br></li><li> Three different practice modes.<br></li><li> Pro shop where you can buy new discs.</li></ul>",
-  "about_the_game": "Disc Golf Valley is a Disc Golf Game aiming to capture the thrill and excitement of playing real Disc Golf. <br><br><strong>Features</strong><br><ul class=\"bb_ul\"><li> 14 spectacular courses.<br></li><li> Thousands of unique discs to collect and throw.<br></li><li> Challenge mode where you get to challenge each course and unlock new discs.<br></li><li> Tournament mode.<br></li><li> Three different practice modes.<br></li><li> Pro shop where you can buy new discs.</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Cross-Platform Multiplayer",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 471,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 24.8,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 496,
-  "review_positive": 408,
+  "review_positive": 0,
   "review_percentage": 82.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +38,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 411,
-      "review_percentage": 85.2,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 496,
       "review_percentage": 82.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "DarkMaze",
   "slug": "darkmaze",
   "developer": "Chongqing Yan Wan network technology Co.Ltd.",
-  "publisher": "Chongqing Yan Wan network technology Co.Ltd. ",
-  "release_date": "Jul 8, 2017",
+  "publisher": "",
+  "release_date": "2017-07-08",
   "price_usd": 9.99,
   "genres": [
     "Adventure",
@@ -21,34 +21,15 @@
   ],
   "short_description": "In the dark claustrophobic labyrinth, would you feel scared, depression and at a loss? Give you a flashlight, forward exploration; start your sixth sense, find the end point through the maze!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/649630/header.jpg?t=1499507195",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/649630/ss_3884826dd9cc2bfce09a32876bb83222e68ce23b.600x338.jpg?t=1499507195",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/649630/ss_39a6f52d1cae99dd36c8b08d7f9c3f2c484b36b8.600x338.jpg?t=1499507195",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/649630/ss_7823ae0ddc30b0eeee55e198a0e8b1e09aabd627.600x338.jpg?t=1499507195",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/649630/ss_a511b2bc8adf26000d95539f04eae23b88552ec3.600x338.jpg?t=1499507195",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/649630/ss_3f40af12c390fa39cc98fb2cfb59f2d1cded2907.600x338.jpg?t=1499507195"
-  ],
-  "detailed_description": "In the dark claustrophobic labyrinth, would you feel scared, depression and at a loss?<br />\r\nGive you a flashlight, forward exploration; start your sixth sense, find the end point through the maze!<br />\r\nTrap, waters, organs, monsters. Start your brain to overcome the difficulties.<br />\r\nEach level play is different in method ,a variety of maze challenge you。",
-  "about_the_game": "In the dark claustrophobic labyrinth, would you feel scared, depression and at a loss?<br />\r\nGive you a flashlight, forward exploration; start your sixth sense, find the end point through the maze!<br />\r\nTrap, waters, organs, monsters. Start your brain to overcome the difficulties.<br />\r\nEach level play is different in method ,a variety of maze challenge you。",
-  "supported_languages": "English, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.35000000000000003,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 7,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 14.3,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -56,26 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 7,
-      "review_percentage": 14.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 7,
-      "review_percentage": 14.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 7,
       "review_percentage": 14.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

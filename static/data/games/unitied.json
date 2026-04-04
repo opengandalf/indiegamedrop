@@ -3,8 +3,8 @@
   "name": "Unitied",
   "slug": "unitied",
   "developer": "Peter Hijma",
-  "publisher": "Peter Hijma",
-  "release_date": "Nov 27, 2019",
+  "publisher": "",
+  "release_date": "2019-11-27",
   "price_usd": 0.49,
   "genres": [
     "Casual",
@@ -23,54 +23,27 @@
   ],
   "short_description": "Unitied is a minimalistic & relaxing puzzle game",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184900/header.jpg?t=1738078722",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184900/ss_fef3997ae3d4e97864110d67257bbbcb3a1a7bf9.600x338.jpg?t=1738078722",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184900/ss_7a0c0636afbbc319bfaf49c6c40059774e6d58a0.600x338.jpg?t=1738078722",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184900/ss_9c8ce7e294855feec12a32008a722156e9bbadda.600x338.jpg?t=1738078722",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184900/ss_b17f29e68fa76a000a4e7ed295f98b40b947f56d.600x338.jpg?t=1738078722",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184900/ss_e2c48832fc7f7084834e96efba158ed2faff382c.600x338.jpg?t=1738078722"
-  ],
-  "detailed_description": "Unitied is a minimalistic & relaxing puzzle game. The simple goal is to finish all blocks.<br />\r\nYou do so by moving all blocks in one direction: up, left, down or right.<br />\r\nThe blocks have to use each other to be able to finish.<br />\r\n<br />\r\nThere are 50 levels, increasing in difficulty.",
-  "about_the_game": "Unitied is a minimalistic & relaxing puzzle game. The simple goal is to finish all blocks.<br />\r\nYou do so by moving all blocks in one direction: up, left, down or right.<br />\r\nThe blocks have to use each other to be able to finish.<br />\r\n<br />\r\nThere are 50 levels, increasing in difficulty.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.8344,
   "hype_score": 0.0,
   "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 52,
-  "review_positive": 51,
+  "review_positive": 0,
   "review_percentage": 98.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 52,
-      "review_percentage": 98.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 52,
       "review_percentage": 98.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

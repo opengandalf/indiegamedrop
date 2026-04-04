@@ -3,8 +3,8 @@
   "name": "Archer VR",
   "slug": "archer-vr",
   "developer": "ARVI VR INC.",
-  "publisher": "ARVI VR INC.",
-  "release_date": "Apr 30, 2020",
+  "publisher": "",
+  "release_date": "2020-04-30",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -23,40 +23,15 @@
   ],
   "short_description": "Have you ever wanted to try yourself at archery? Have you ever dreamt of becoming a hero of the Middle Ages? Hurry!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1277900/header.jpg?t=1684278130",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1277900/ss_00f03fa93d107bdbf70849cc21db1547e0142d7c.600x338.jpg?t=1684278130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1277900/ss_317bcb2478de801f46080a00fa717cefa49a14ea.600x338.jpg?t=1684278130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1277900/ss_093c353110cb1e53be21963eb6cff20e1ff69d1e.600x338.jpg?t=1684278130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1277900/ss_a3fb4228ee96439957bec1dc3f1cee08f65c850e.600x338.jpg?t=1684278130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1277900/ss_f01be480c57a5e6b84093288aba11f78b89090ef.600x338.jpg?t=1684278130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1277900/ss_99f90427163864c0080f602f27d64cc8a0ead581.600x338.jpg?t=1684278130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1277900/ss_a175b80552a85ce2860a58c1fc92ed8680fe2c3e.600x338.jpg?t=1684278130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1277900/ss_97a8fcdf0b3fb26ab9a7773be601ad707ca699f6.600x338.jpg?t=1684278130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1277900/ss_1ce0787c86e5ebc51dc71170e7e9b5e9d381d8a0.600x338.jpg?t=1684278130",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1277900/ss_b3c5f2e3ca0a9e7e3684cfe64cb3e7e761f8d9cc.600x338.jpg?t=1684278130"
-  ],
-  "detailed_description": "Have you ever wanted to try yourself at archery? Have you ever dreamt of becoming a hero of the Middle Ages? In Archer, you are to fight hordes of orcs, goblins, and trolls attacking your fortress, and in the end - defeat the main boss! <br><strong>Hurry! Grab a bow and defend your castle against uninvited guests!</strong><h2 class=\"bb_tag\" >Gameplay and features</h2><ul class=\"bb_ul\"><li>Take the bow… Aim… Shot… Kill. <br></li><li>3 different levels are waiting for you<br></li><li>The more accurate you are – the better your results. Headshots increase damage level as far as bow pool force<br></li><li>Move between shotzones to get the best position and dominate the battleground<br></li><li>Use special arrows to stop the most dangerous enemies</li></ul>",
-  "about_the_game": "Have you ever wanted to try yourself at archery? Have you ever dreamt of becoming a hero of the Middle Ages? In Archer, you are to fight hordes of orcs, goblins, and trolls attacking your fortress, and in the end - defeat the main boss! <br><strong>Hurry! Grab a bow and defend your castle against uninvited guests!</strong><h2 class=\"bb_tag\" >Gameplay and features</h2><ul class=\"bb_ul\"><li>Take the bow… Aim… Shot… Kill. <br></li><li>3 different levels are waiting for you<br></li><li>The more accurate you are – the better your results. Headshots increase damage level as far as bow pool force<br></li><li>Move between shotzones to get the best position and dominate the battleground<br></li><li>Use special arrows to stop the most dangerous enemies</li></ul>",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Traditional Chinese, Simplified Chinese, Polish, Portuguese - Portugal, Russian, Turkish, Ukrainian, Czech, Japanese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.30000000000000004,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 6,
-  "review_positive": 5,
+  "review_positive": 0,
   "review_percentage": 83.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -64,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 83.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 83.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

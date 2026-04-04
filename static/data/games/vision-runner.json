@@ -3,8 +3,8 @@
   "name": "Vision Runner",
   "slug": "vision-runner",
   "developer": "Snowbit Interactive",
-  "publisher": "Snowbit Interactive",
-  "release_date": "Oct 19, 2016",
+  "publisher": "",
+  "release_date": "2016-10-19",
   "price_usd": 9.99,
   "genres": [
     "Indie",
@@ -19,34 +19,9 @@
   ],
   "short_description": "Vision Runner is a First Person Parkour game with an In-Game map editor. Build and Share your parkours or play parkours from other players.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429480/header.jpg?t=1493674541",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429480/ss_1268561b24f2b7320580da55679bec38e90dc6c2.600x338.jpg?t=1493674541",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429480/ss_71e5b595705748b2ced3df46f56e34ec982e7aec.600x338.jpg?t=1493674541",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429480/ss_ff1009f8a0f91dc38464336da14418b128b9608a.600x338.jpg?t=1493674541",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429480/ss_a40074aac9a80ba8c58000e2332f1d337eddc821.600x338.jpg?t=1493674541",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429480/ss_968cb895a5220b51554c0d93a6a59522d0cd52df.600x338.jpg?t=1493674541"
-  ],
-  "detailed_description": "<strong>Vision Runner</strong> is a First Person Parkour game currently in development with Unreal Engine 4.<br><br>The concept of Vision Runner is the Build, Share & Play principle. You got the opportunity to make your own maps/parkour’s with the In-Game map editor and then sharing them by uploading it automatically after the press of a button to our servers. Then all players can download and play the map in a race against the clock from the map browser or as we call it “Parkour Central”.<br><br>The Editor is easy to use, since we’ve made it completely grid-based. Players can simply place Blocks or Objects on the floor or other blocks.<h2 class=\"bb_tag\" >Early Access Features</h2><ul class=\"bb_ul\"><li>In-Game map editor with basic features and map sharing<br></li><li>Parkour Central (map browser)<br></li><li>Playing maps from us or other players against the time.<br></li><li>Basic parkour movement: climbing, sliding, wall running, jump over</li></ul><h2 class=\"bb_tag\" >Planned Features</h2><ul class=\"bb_ul\"><li>Multiplayer<br></li><li>More Game Modes like Trick Running<br></li><li>Various Textures for Objects<br></li><li>More Content for the Editor<br></li><li>More Tricks<br></li><li>Various Characters<br></li><li>Weather<br></li><li>Map Locations<br></li><li>Mini-Story Creator*</li></ul><br>*Low Priority",
-  "about_the_game": "<strong>Vision Runner</strong> is a First Person Parkour game currently in development with Unreal Engine 4.<br><br>The concept of Vision Runner is the Build, Share & Play principle. You got the opportunity to make your own maps/parkour’s with the In-Game map editor and then sharing them by uploading it automatically after the press of a button to our servers. Then all players can download and play the map in a race against the clock from the map browser or as we call it “Parkour Central”.<br><br>The Editor is easy to use, since we’ve made it completely grid-based. Players can simply place Blocks or Objects on the floor or other blocks.<h2 class=\"bb_tag\" >Early Access Features</h2><ul class=\"bb_ul\"><li>In-Game map editor with basic features and map sharing<br></li><li>Parkour Central (map browser)<br></li><li>Playing maps from us or other players against the time.<br></li><li>Basic parkour movement: climbing, sliding, wall running, jump over</li></ul><h2 class=\"bb_tag\" >Planned Features</h2><ul class=\"bb_ul\"><li>Multiplayer<br></li><li>More Game Modes like Trick Running<br></li><li>Various Textures for Objects<br></li><li>More Content for the Editor<br></li><li>More Tricks<br></li><li>Various Characters<br></li><li>Weather<br></li><li>Map Locations<br></li><li>Mini-Story Creator*</li></ul><br>*Low Priority",
-  "supported_languages": "English<strong>*</strong>, German<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 13,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 30.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 12,
-      "review_percentage": 33.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
+      "date": "2026-04-04",
       "review_count": 13,
       "review_percentage": 30.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

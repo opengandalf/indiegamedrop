@@ -3,8 +3,8 @@
   "name": "Blocks by Google",
   "slug": "blocks-by-google",
   "developer": "Google",
-  "publisher": "Google",
-  "release_date": "Jul 6, 2017",
+  "publisher": "",
+  "release_date": "2017-07-06",
   "price_usd": 0.0,
   "genres": [
     "Free To Play",
@@ -17,66 +17,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Blocks lets you easily create 3D objects in virtual reality, no matter your modelling experience. Using six simple tools, you can bring your applications to life, create a volumetric masterpiece, or simply let your imagination run wild.",
+  "short_description": "Blocks lets you easily create 3D objects in virtual reality, no matter your modelling experience. Using six simple tools, you can bring your applications to life, create a volumetric masterpiece, or s",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/533970/header.jpg?t=1507251190",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/533970/ss_5c793cc286a764f89d2c7cdc682f9c7a356c0351.600x338.jpg?t=1507251190",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/533970/ss_ee109c3bc6cf72ce2b608a1e800230820ae25d46.600x338.jpg?t=1507251190",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/533970/ss_0a7a23213f81a25d6fa6ab542f3f0b6f457f3229.600x338.jpg?t=1507251190",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/533970/ss_c5e06812fe7fa9ad28622290a1ee7bfad49ccf0f.600x338.jpg?t=1507251190",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/533970/ss_86fb516753131f10166f92288fafafe8b8052841.600x338.jpg?t=1507251190",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/533970/ss_cf10781d19c709b899fd9f04e3ba41f25ccae781.600x338.jpg?t=1507251190",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/533970/ss_340e4052a14ef2deaa47980e20cb71c60f08d438.600x338.jpg?t=1507251190",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/533970/ss_b5ca74bc458c319c89ae45811f49c7af38ed5a0c.600x338.jpg?t=1507251190",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/533970/ss_4d9253095c0a77b0053e25e73f463ad1d7b53c82.600x338.jpg?t=1507251190"
-  ],
-  "detailed_description": "Blocks lets you easily create 3D objects in virtual reality, no matter your modelling experience. Using six simple tools, you can bring your applications to life, create a volumetric masterpiece, or simply let your imagination run wild.<br />\r\n<br />\r\nGet inspired by others’ creations or publish your own to inspire the world around you. No matter your modeling experience, you’ll create beautiful 3D objects in no time.",
-  "about_the_game": "Blocks lets you easily create 3D objects in virtual reality, no matter your modelling experience. Using six simple tools, you can bring your applications to life, create a volumetric masterpiece, or simply let your imagination run wild.<br />\r\n<br />\r\nGet inspired by others’ creations or publish your own to inspire the world around you. No matter your modeling experience, you’ll create beautiful 3D objects in no time.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 11.3,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 226,
-  "review_positive": 193,
+  "review_positive": 0,
   "review_percentage": 85.4,
   "owner_estimate": 150000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 27,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 220,
-      "review_percentage": 85.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 226,
-      "review_percentage": 85.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 226,
       "review_percentage": 85.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Easy Quiz",
   "slug": "easy-quiz",
   "developer": "Octillion Entertainment",
-  "publisher": "Octillion Entertainment",
-  "release_date": "Mar 24, 2021",
+  "publisher": "",
+  "release_date": "2021-03-24",
   "price_usd": 0.99,
   "genres": [
     "Casual",
@@ -19,33 +19,15 @@
   ],
   "short_description": "An Easy Quiz to test your skills.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1564590/header.jpg?t=1736531564",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1564590/ss_df45cc15d88ee425b8f125a57885cd8c270b1ddf.600x338.jpg?t=1736531564",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1564590/ss_eec9fd153d27e0a96b973ddb9f23f7b3b1575bab.600x338.jpg?t=1736531564",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1564590/ss_7c0162c7a4666559766b418bfb4b3fe92c387071.600x338.jpg?t=1736531564",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1564590/ss_078a103f2e8bac685c7515ca4bd7d121f4068afd.600x338.jpg?t=1736531564",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1564590/ss_1fb14e05c18e225402079bd657b69b1217e0ddf5.600x338.jpg?t=1736531564"
-  ],
-  "detailed_description": "This is Easy Quiz.<br />\r\nIt is an easy quiz, but it will still test your skills. <br />\r\nYou will require some patience, basic knowledge, and some very simple math.<br />\r\nIf you pick the wrong choice, you lose and will have to start from the beginning.<br />\r\nCan you get to the end?<br />\r\n<br />\r\nThe game features very simple controls.<br />\r\nAll art is hand-drawn.",
-  "about_the_game": "This is Easy Quiz.<br />\r\nIt is an easy quiz, but it will still test your skills. <br />\r\nYou will require some patience, basic knowledge, and some very simple math.<br />\r\nIf you pick the wrong choice, you lose and will have to start from the beginning.<br />\r\nCan you get to the end?<br />\r\n<br />\r\nThe game features very simple controls.<br />\r\nAll art is hand-drawn.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.8500000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 17,
-  "review_positive": 13,
+  "review_positive": 0,
   "review_percentage": 76.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 16,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 17,
       "review_percentage": 76.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

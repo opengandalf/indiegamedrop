@@ -3,8 +3,8 @@
   "name": "Ancient Go",
   "slug": "ancient-go",
   "developer": "Hart Laboratories LLC",
-  "publisher": "Hart Laboratories LLC",
-  "release_date": "May 30, 2017",
+  "publisher": "",
+  "release_date": "2017-05-30",
   "price_usd": 4.99,
   "genres": [
     "Casual",
@@ -19,45 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Go is a 3000-year-old game of strategy played by over 24 million people world-wide. Play is simple, place stones at key positions to surround territory and capture enemies. The rules can be learned in minutes, but Go has yet to be completely mastered. Ancient Go is designed for new players.",
+  "short_description": "Go is a 3000-year-old game of strategy played by over 24 million people world-wide. Play is simple, place stones at key positions to surround territory and capture enemies. The rules can be learned in",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/468160/header.jpg?t=1496152693",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/468160/ss_aa2ecae4938238e1785f0bc02734b402d565d5af.600x338.jpg?t=1496152693",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/468160/ss_5cb58633210950a57554fbc6acacf10617505c37.600x338.jpg?t=1496152693",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/468160/ss_090411686d07e8b757e435515cbfb6de07036ebf.600x338.jpg?t=1496152693",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/468160/ss_d5143d6bba17c36acebf3ce23d852469e10a2a01.600x338.jpg?t=1496152693",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/468160/ss_59d90494a284824484d54c66573f87188466ed3d.600x338.jpg?t=1496152693",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/468160/ss_90244c295a3ef566427101b5fd33a13f45813c4b.600x338.jpg?t=1496152693",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/468160/ss_ff56e30250295632f025bfce66e7205dc5a0caf2.600x338.jpg?t=1496152693",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/468160/ss_90dec83ecbc2b7f52b13148a451a145bbada883c.600x338.jpg?t=1496152693",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/468160/ss_905922f6f17b2f0cbc63ea11ae539af1b59f9467.600x338.jpg?t=1496152693",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/468160/ss_3ed72ea8255fe49da320318fa30ba04e441a0a1c.600x338.jpg?t=1496152693",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/468160/ss_bf0f9b00666e1c48b2f7f7b00a66230d3cdb2572.600x338.jpg?t=1496152693"
-  ],
-  "detailed_description": "Go is a 3000-year-old game of strategy played by over 24 million people world-wide. Play is simple, place stones at key positions to surround territory and capture enemies. The rules can be learned in minutes, but Go has yet to be completely mastered.<br />\r\n<br />\r\nAncient Go includes tutorials, an AI opponent, ranked online play, and Steam friend challenges.<br />\r\n<br />\r\nThe easy AI has been custom designed for beginners to play against, a place where many AIs fail. For harder difficulties a second AI is brought in that is strong enough to beat players with hundreds of hours of experience.<br />\r\n<br />\r\nOnline play uses free accounts on the OGS server with 400,000 registered users, around 2,000 logged in at any one time. There are quickmatch buttons for the common board sizes, as well as custom open, and Steam challenges. If you end up playing a lot becoming an OGS supporter is highly recommended as we are not affiliated.<br />\r\n<br />\r\nAncient Go uses Unreal Engine 4 and is 64 bit. As such the minimum requirements may be more than some expect. It is full 3D, you can move the camera with the mouse by hold the right mouse button down, and by scrolling. Graphics settings are tuned automatically based on the current frame-rate. It is possible to play on slower machines, but the graphics may tune down substantially for you.<br />\r\n<br />\r\nFor new players the rest probably wont mean much, but players who know Go, read on. <br />\r\n<br />\r\nAncient Go uses visual hints to indicate when playing into atari, positions on the board in atari, ko's and snapbacks. These are places the new players often have trouble, so it speeds up the learning process and increases the fun factor while people learn the rules. They can be disabled in the options menu.<br />\r\n<br />\r\nAGA, Chinese, and Japanese rules are supported and can be selected in the options menu. AGA is default as it solves some problems with online play the popular Japanese rule set does not.<br />\r\n<br />\r\nStone removal uses the Fuego AI to mark dead stones, but can be set manually as well.<br />\r\n<br />\r\nThe AI used is a combination of Fuego (which is open source) and a custom AI. It is tuned to approximate 22 kyu, 18 kyu, 14 kyu, 2 dan. If new players are reading, it means most likely you can have many hundreds into thousands of hours of experience and the AI will still be a useful opponent. There are issues present which are in most AI's where on larger boards especially the AI fails to see larger strategy, but performs well in tactical situations. As such the AI ranks become significantly worse if play is geared to take advantage of this fact. It is possible for users to replace the Fuego.exe in the working directory with newer or custom versions.",
-  "about_the_game": "Go is a 3000-year-old game of strategy played by over 24 million people world-wide. Play is simple, place stones at key positions to surround territory and capture enemies. The rules can be learned in minutes, but Go has yet to be completely mastered.<br />\r\n<br />\r\nAncient Go includes tutorials, an AI opponent, ranked online play, and Steam friend challenges.<br />\r\n<br />\r\nThe easy AI has been custom designed for beginners to play against, a place where many AIs fail. For harder difficulties a second AI is brought in that is strong enough to beat players with hundreds of hours of experience.<br />\r\n<br />\r\nOnline play uses free accounts on the OGS server with 400,000 registered users, around 2,000 logged in at any one time. There are quickmatch buttons for the common board sizes, as well as custom open, and Steam challenges. If you end up playing a lot becoming an OGS supporter is highly recommended as we are not affiliated.<br />\r\n<br />\r\nAncient Go uses Unreal Engine 4 and is 64 bit. As such the minimum requirements may be more than some expect. It is full 3D, you can move the camera with the mouse by hold the right mouse button down, and by scrolling. Graphics settings are tuned automatically based on the current frame-rate. It is possible to play on slower machines, but the graphics may tune down substantially for you.<br />\r\n<br />\r\nFor new players the rest probably wont mean much, but players who know Go, read on. <br />\r\n<br />\r\nAncient Go uses visual hints to indicate when playing into atari, positions on the board in atari, ko's and snapbacks. These are places the new players often have trouble, so it speeds up the learning process and increases the fun factor while people learn the rules. They can be disabled in the options menu.<br />\r\n<br />\r\nAGA, Chinese, and Japanese rules are supported and can be selected in the options menu. AGA is default as it solves some problems with online play the popular Japanese rule set does not.<br />\r\n<br />\r\nStone removal uses the Fuego AI to mark dead stones, but can be set manually as well.<br />\r\n<br />\r\nThe AI used is a combination of Fuego (which is open source) and a custom AI. It is tuned to approximate 22 kyu, 18 kyu, 14 kyu, 2 dan. If new players are reading, it means most likely you can have many hundreds into thousands of hours of experience and the AI will still be a useful opponent. There are issues present which are in most AI's where on larger boards especially the AI fails to see larger strategy, but performs well in tactical situations. As such the AI ranks become significantly worse if play is geared to take advantage of this fact. It is possible for users to replace the Fuego.exe in the working directory with newer or custom versions.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 5.050000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 101,
-  "review_positive": 66,
+  "review_positive": 0,
   "review_percentage": 65.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -65,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 102,
-      "review_percentage": 64.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 101,
       "review_percentage": 65.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

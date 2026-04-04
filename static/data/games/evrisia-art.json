@@ -3,8 +3,8 @@
   "name": "Evrisia Art",
   "slug": "evrisia-art",
   "developer": "Electric Puppets Inc.",
-  "publisher": "Electric Puppets Inc.",
-  "release_date": "Sep 23, 2019",
+  "publisher": "",
+  "release_date": "2019-09-23",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -19,35 +19,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Evrisia Art is a VR painting program that can help introduce new users to Virtual Reality in a fun, relaxed and easy to use way. By drawing simple shapes, new users can immediately get a sense of control over their environment without having to learn complex tools.",
+  "short_description": "Evrisia Art is a VR painting program that can help introduce new users to Virtual Reality in a fun, relaxed and easy to use way. By drawing simple shapes, new users can immediately get a sense of cont",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1154150/header.jpg?t=1569246179",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1154150/ss_388efdc01297ef2f64d81a4e4e5edfafbf6cb4cc.600x338.jpg?t=1569246179",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1154150/ss_d6f1168df87ce8b76092ba82a5341482ef9566ef.600x338.jpg?t=1569246179",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1154150/ss_d17ab92e6c8bc3d12632cac4086bb3ab6835fc10.600x338.jpg?t=1569246179",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1154150/ss_c1a07f651a18d4bdeb851b6a1e104a0f0e963822.600x338.jpg?t=1569246179",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1154150/ss_4a940013ed5303dcf68acb36cf56b3453a18ea6e.600x338.jpg?t=1569246179"
-  ],
-  "detailed_description": "Evrisia Art is a VR based painting program intended to help introduce new users to VR and to feel comfortable using the Steam VR VIVE controllers and system.  PC / VIVE only, it allows the person in VR to paint shapes all around them, but also allows the computer operator to guide them while inside the experience, as well as changing settings to make it simpler or easier to use depending on their skillset.  Available to anyone who meets the requirements of the HTC Vive System.  Evrisia Art is integrated into the Evrisia Eye testing system.",
-  "about_the_game": "Evrisia Art is a VR based painting program intended to help introduce new users to VR and to feel comfortable using the Steam VR VIVE controllers and system.  PC / VIVE only, it allows the person in VR to paint shapes all around them, but also allows the computer operator to guide them while inside the experience, as well as changing settings to make it simpler or easier to use depending on their skillset.  Available to anyone who meets the requirements of the HTC Vive System.  Evrisia Art is integrated into the Evrisia Eye testing system.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.65,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 13,
-  "review_positive": 10,
+  "review_positive": 0,
   "review_percentage": 76.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 12,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 13,
       "review_percentage": 76.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

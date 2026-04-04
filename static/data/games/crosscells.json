@@ -3,8 +3,8 @@
   "name": "CrossCells",
   "slug": "crosscells",
   "developer": "Matthew Brown",
-  "publisher": "Matthew Brown",
-  "release_date": "May 26, 2017",
+  "publisher": "",
+  "release_date": "2017-05-26",
   "price_usd": 0.89,
   "genres": [
     "Casual",
@@ -23,62 +23,27 @@
   ],
   "short_description": "CrossCells is an ambient logic puzzle game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632000/header.jpg?t=1560433944",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632000/ss_0446a482a0dd9892abc37245263fb88f7c1898fc.600x338.jpg?t=1560433944",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632000/ss_36bdec2d9a1db5a662be8eabec59111652920d3e.600x338.jpg?t=1560433944",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632000/ss_591b652a300ed84011fd081a0a1fdeadea9c2151.600x338.jpg?t=1560433944",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632000/ss_e1c264ed3bf5a48ca35c482f81ede227bc5619d4.600x338.jpg?t=1560433944",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632000/ss_3a43f9f90dc693c6bf02434ac67171c5903d5e49.600x338.jpg?t=1560433944",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632000/ss_29b4f45072f13174dafb2d33233a3350a80697c1.600x338.jpg?t=1560433944"
-  ],
-  "detailed_description": "CrossCells is an ambient logic puzzle game.<br />\r\n<br />\r\nUse number clues to remove tiles and solve the puzzle.<br />\r\n<br />\r\nIncludes 50 brain teasing puzzles.",
-  "about_the_game": "CrossCells is an ambient logic puzzle game.<br />\r\n<br />\r\nUse number clues to remove tiles and solve the puzzle.<br />\r\n<br />\r\nIncludes 50 brain teasing puzzles.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 878,
-  "rising_score": 0.0001,
+  "screenshots": [],
+  "rising_score": 0.0002,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 50.0,
+  "review_velocity_7d": 44.300000000000004,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 886,
-  "review_positive": 739,
+  "review_positive": 0,
   "review_percentage": 83.4,
   "owner_estimate": 150000,
-  "ccu_estimate": 3,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 63,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 836,
-      "review_percentage": 83.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 886,
       "review_percentage": 83.4,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
-      "review_count": 886,
-      "review_percentage": 83.4,
-      "ccu_estimate": 3,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

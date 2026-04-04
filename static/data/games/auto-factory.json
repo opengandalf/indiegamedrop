@@ -3,8 +3,8 @@
   "name": "Auto Factory",
   "slug": "auto-factory",
   "developer": "Architect Studios",
-  "publisher": "Architect Studios",
-  "release_date": "Oct 2, 2019",
+  "publisher": "",
+  "release_date": "2019-10-02",
   "price_usd": 5.99,
   "genres": [
     "Simulation"
@@ -17,37 +17,15 @@
   ],
   "short_description": "Build and run your own automated factory to turn materials into a range of products!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1143170/header.jpg?t=1596364104",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1143170/ss_dcb65f64f4c76aa7a5969302c70be9bbc8fcdcb6.600x338.jpg?t=1596364104",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1143170/ss_577952cc401bd23090ee84cc9626a7be5d769c3e.600x338.jpg?t=1596364104",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1143170/ss_5228c77efddc6b28623bba9105dedacdd9f33769.600x338.jpg?t=1596364104",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1143170/ss_7ee6e819e160f3171f8c52cfe43e7429d522cefd.600x338.jpg?t=1596364104",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1143170/ss_86c4ee3973afbce7f59df28204f097bbc0551aa0.600x338.jpg?t=1596364104",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1143170/ss_26fdbe06dd68cccb04eac6f2cc32a726a5fec6fe.600x338.jpg?t=1596364104",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1143170/ss_965bbf8b9da1f576b705d531a1c19415453095dd.600x338.jpg?t=1596364104",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1143170/ss_64e3d4a9467c2be6c9b3dcb1622a685d56aa2c68.600x338.jpg?t=1596364104",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1143170/ss_49b3e2d55502e22240be66b10e1d1f3f437ab0aa.600x338.jpg?t=1596364104",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1143170/ss_0dd61020d111c9125bbe3d657119663ade1b5942.600x338.jpg?t=1596364104"
-  ],
-  "detailed_description": "In <strong>Auto Factory</strong> you get to build your own automated factory and then crush, shred, slice, melt and cast materials into lots of different things.<br><br>You have full creative freedom to build however you like. Construct a simple system out of conveyor belts to move the materials around<br>or if that's too slow for you, make use of all the wacky block types at your disposal such as <strong>Cannons</strong> and <strong>Levitators</strong> to get everything moving fast!<br><br>The only limit is your own imagination in this wacky world of <strong>crazy automated assembly</strong>!",
-  "about_the_game": "In <strong>Auto Factory</strong> you get to build your own automated factory and then crush, shred, slice, melt and cast materials into lots of different things.<br><br>You have full creative freedom to build however you like. Construct a simple system out of conveyor belts to move the materials around<br>or if that's too slow for you, make use of all the wacky block types at your disposal such as <strong>Cannons</strong> and <strong>Levitators</strong> to get everything moving fast!<br><br>The only limit is your own imagination in this wacky world of <strong>crazy automated assembly</strong>!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.45,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 9,
-  "review_positive": 6,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -55,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

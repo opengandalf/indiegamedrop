@@ -3,8 +3,8 @@
   "name": "Berry Picker",
   "slug": "berry-picker",
   "developer": "Azeree",
-  "publisher": "Azeree",
-  "release_date": "Jan 31, 2025",
+  "publisher": "",
+  "release_date": "2025-01-31",
   "price_usd": 1.99,
   "genres": [
     "Casual",
@@ -19,33 +19,15 @@
   ],
   "short_description": "Pick berries off of an infinitely upgradable bush, employ garden gnomes to do some of the picking, and sell your picked product. Do all of that in this relaxing, single player, clicker game.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3461110/header.jpg?t=1738340270",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3461110/ss_bd0cace999007e4e3b16e11669eeb20342dadbc6.600x338.jpg?t=1738340270",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3461110/ss_cd1524b92af3ed8ce62ec30d29c4375a0ab47dc2.600x338.jpg?t=1738340270",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3461110/ss_4b19e984f1839e6dd1f2f887be3fe3cba5fe4661.600x338.jpg?t=1738340270",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3461110/ss_cbe12e37394fa459c805bc735ec5d085e1214494.600x338.jpg?t=1738340270",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3461110/ss_1e284b9db7e0f4b28425e54e438cce8ed7439b57.600x338.jpg?t=1738340270"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >A single-player clicker game that has you picking berries from a berry bush. Those berries can be processed and sold for coin using a cannon to ship your product. Upgrade your berry bush enough times to get some garden gnomes to employ. There's no limit to how much your berry bush can be upgraded.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >A single-player clicker game that has you picking berries from a berry bush. Those berries can be processed and sold for coin using a cannon to ship your product. Upgrade your berry bush enough times to get some garden gnomes to employ. There's no limit to how much your berry bush can be upgraded.</p>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 2,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -53,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

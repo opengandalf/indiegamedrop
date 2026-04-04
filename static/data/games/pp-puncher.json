@@ -3,8 +3,8 @@
   "name": "PP Puncher",
   "slug": "pp-puncher",
   "developer": "brennfeu",
-  "publisher": "brennfeu",
-  "release_date": "Oct 7, 2020",
+  "publisher": "",
+  "release_date": "2020-10-07",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -25,57 +25,29 @@
     "mac",
     "linux"
   ],
-  "short_description": "PP Puncher was a turn-based RPG, mostly text-based, about a guy going on a quest to save his waifus, by punching his opponents' PP. The game stacks new game mechanics to the fight system, as the player progresses into the game.",
+  "short_description": "PP Puncher was a turn-based RPG, mostly text-based, about a guy going on a quest to save his waifus, by punching his opponents' PP. The game stacks new game mechanics to the fight system, as the playe",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422150/header.jpg?t=1699272369",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422150/ss_f78308920d286202dd94944d98fc051aa0866096.600x338.jpg?t=1699272369",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422150/ss_e36fb7816bc15317549f12456211d39bac761ce6.600x338.jpg?t=1699272369",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422150/ss_655cd040b931fad4cd59a4a8021ada6352a8335e.600x338.jpg?t=1699272369",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422150/ss_8d5c9ba39d14c1dec3ee6f180c028dd0c70fbd85.600x338.jpg?t=1699272369",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422150/ss_ac7e05304b526424b5f83772b9453b93738e7d96.600x338.jpg?t=1699272369"
-  ],
-  "detailed_description": "<strong><h2 class=\"bb_tag\" >THE GAME IS CANCELLED</h2></strong>",
-  "about_the_game": "<strong><h2 class=\"bb_tag\" >THE GAME IS CANCELLED</h2></strong>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Stats",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.866,
   "hype_score": 0.0,
   "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 32,
-  "review_positive": 30,
+  "review_positive": 0,
   "review_percentage": 93.8,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 32,
-      "review_percentage": 93.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 32,
       "review_percentage": 93.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

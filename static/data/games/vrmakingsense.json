@@ -3,8 +3,8 @@
   "name": "VRMakingSense",
   "slug": "vrmakingsense",
   "developer": "Greg Dziemidowicz",
-  "publisher": "Greg Dziemidowicz",
-  "release_date": "Oct 20, 2017",
+  "publisher": "",
+  "release_date": "2017-10-20",
   "price_usd": 0.99,
   "genres": [
     "Utilities",
@@ -19,32 +19,9 @@
   ],
   "short_description": "Visualize and understand concepts. Enter your list on PC and explore and understand in VR.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720330/header.jpg?t=1511135374",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720330/ss_24a59c4c938eda9d4ce798c88d9d3554acefd6c8.600x338.jpg?t=1511135374",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720330/ss_fb242f0a37caa2654decd369220453c9100fcbd4.600x338.jpg?t=1511135374",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720330/ss_a893d17274593f6ee1b5252c15feabcda02dd2dd.600x338.jpg?t=1511135374",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720330/ss_017b98b6c78c936bf18506669060323988d958be.600x338.jpg?t=1511135374",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720330/ss_8d35bbd36fa7b64a6bdf4a8c4c1677b972466dfc.600x338.jpg?t=1511135374"
-  ],
-  "detailed_description": "Visualize and understand concepts.<br><br>This app is pretty simple - if you are familiar with CRC ( Class Responsibility Collaborator ) - this app takes this idea and brings it to virtual reality.<br><br>The main design goal of this app is to keep it super simple and low friction. Think \"Nodepad\" as opposed to \"WordPad\" or \"Word\".<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Easily add \"Elements\" using PC input field ( One item per line )<br></li><li> Drag and drop \"Element\" in VR using controllers.<br></li><li> Position of \"Elements\" is saved ( as well as the list ).<br></li><li> See Early Access info for more planned features.</li></ul><h2 class=\"bb_tag\" >Design goals</h2><ul class=\"bb_ul\"><li> Small and simple<br></li><li> Very easy to use, low friction, no confusing interactions <br></li><li> 30 seconds from idea/desire  to \"doing\"<br></li><li> Use strengths of keyboard ( flat ) world and VR<br></li><li> Sharable with others</li></ul>",
-  "about_the_game": "Visualize and understand concepts.<br><br>This app is pretty simple - if you are familiar with CRC ( Class Responsibility Collaborator ) - this app takes this idea and brings it to virtual reality.<br><br>The main design goal of this app is to keep it super simple and low friction. Think \"Nodepad\" as opposed to \"WordPad\" or \"Word\".<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Easily add \"Elements\" using PC input field ( One item per line )<br></li><li> Drag and drop \"Element\" in VR using controllers.<br></li><li> Position of \"Elements\" is saved ( as well as the list ).<br></li><li> See Early Access info for more planned features.</li></ul><h2 class=\"bb_tag\" >Design goals</h2><ul class=\"bb_ul\"><li> Small and simple<br></li><li> Very easy to use, low friction, no confusing interactions <br></li><li> 30 seconds from idea/desire  to \"doing\"<br></li><li> Use strengths of keyboard ( flat ) world and VR<br></li><li> Sharable with others</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Tracked Controller Support",
-    "VR Only"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -52,26 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-31",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

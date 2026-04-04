@@ -3,8 +3,8 @@
   "name": "Eternower",
   "slug": "eternower",
   "developer": "Rokas",
-  "publisher": "Rokas",
-  "release_date": "Mar 29, 2020",
+  "publisher": "",
+  "release_date": "2020-03-29",
   "price_usd": 1.0,
   "genres": [
     "Casual",
@@ -23,33 +23,15 @@
   ],
   "short_description": "Eternower is a mazing-focused Tower Defense. Minimalistic thematically, opportunistic mechanically.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031790/header.jpg?t=1662018985",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031790/ss_59b1f552a93927bab61aa0f3af65080fdd9397be.600x338.jpg?t=1662018985",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031790/ss_31a27a6266962775e45563b18559545f3874db3c.600x338.jpg?t=1662018985",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031790/ss_b01b94b71e8a1b2c66e1966f5da4531325441b4d.600x338.jpg?t=1662018985",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031790/ss_583ab3c2059700c33e927bfa141d76e22d5f6175.600x338.jpg?t=1662018985",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031790/ss_d9b7b4882a1df9823f8ff12b12786c2418243ade.600x338.jpg?t=1662018985"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Game</h2>Eternower is a mazing-focused Tower Defense.<br><br>Minimalistic thematically, opportunistic mechanically.<h2 class=\"bb_tag\" >TD Features</h2><ul class=\"bb_ul\"><li>Branching - most towers are built through other towers<br></li><li>Pathing focus - always visible and dynamic enemy paths<br></li><li>Viability - supports a range of alternative solutions<br></li><li>Control - game logic is discrete, ensuring reliability</li></ul><h2 class=\"bb_tag\" >Message</h2>I hope you have fun.<br><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031790/extras/439a985f1037b001207feff0e76edb35.poster.avif?t=1662018985\" width=464 height=118 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031790/extras/439a985f1037b001207feff0e76edb35.webm?t=1662018985\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031790/extras/439a985f1037b001207feff0e76edb35.mp4?t=1662018985\" type=\"video/mp4\"></video></span>",
-  "about_the_game": "<h2 class=\"bb_tag\" >Game</h2>Eternower is a mazing-focused Tower Defense.<br><br>Minimalistic thematically, opportunistic mechanically.<h2 class=\"bb_tag\" >TD Features</h2><ul class=\"bb_ul\"><li>Branching - most towers are built through other towers<br></li><li>Pathing focus - always visible and dynamic enemy paths<br></li><li>Viability - supports a range of alternative solutions<br></li><li>Control - game logic is discrete, ensuring reliability</li></ul><h2 class=\"bb_tag\" >Message</h2>I hope you have fun.<br><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031790/extras/439a985f1037b001207feff0e76edb35.poster.avif?t=1662018985\" width=464 height=118 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031790/extras/439a985f1037b001207feff0e76edb35.webm?t=1662018985\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031790/extras/439a985f1037b001207feff0e76edb35.mp4?t=1662018985\" type=\"video/mp4\"></video></span>",
-  "supported_languages": "English, Simplified Chinese, Russian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 2.3000000000000003,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 46,
-  "review_positive": 41,
+  "review_positive": 0,
   "review_percentage": 89.1,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 45,
-      "review_percentage": 91.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 46,
       "review_percentage": 89.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

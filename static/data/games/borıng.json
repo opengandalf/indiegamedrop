@@ -3,8 +3,8 @@
   "name": "Borıng.",
   "slug": "borıng",
   "developer": "Pixelatto",
-  "publisher": "Pixelatto",
-  "release_date": "Mar 3, 2025",
+  "publisher": "",
+  "release_date": "2025-03-03",
   "price_usd": 0.0,
   "genres": [
     "Adventure",
@@ -23,73 +23,27 @@
   ],
   "short_description": "The best worst game on Steam.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128950/header.jpg?t=1744142245",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128950/ss_ca840e01e16556fc617ae10ca9433e9ef87d6b07.600x338.jpg?t=1744142245",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128950/ss_0e2993fef194f384a1be545a4f5335d7396535e0.600x338.jpg?t=1744142245",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128950/ss_d1f6463cf4db52953c22bd12e7b3318e643673fe.600x338.jpg?t=1744142245",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128950/ss_955206969a2e6904270a1fc1f4e6447e5b667f92.600x338.jpg?t=1744142245",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128950/ss_02e8bf0df4028677ecf366ed0ca667d7dd0b0daf.600x338.jpg?t=1744142245"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>Borıng.™ is a boring game about doing boring things.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Most games try to be fun and enjoyable. Borıng.™ doesn't.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >In Borıng.™, you'll face multiple monotonous tasks that will make you quit and put your time into something more productive. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >If you’ve read this far, it means you're already interested—so why spoil the rest? Just give it a try.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >You’ve got nothing to lose. <strong>You're already bored.</strong></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>Borıng.™ is a boring game about doing boring things.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Most games try to be fun and enjoyable. Borıng.™ doesn't.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >In Borıng.™, you'll face multiple monotonous tasks that will make you quit and put your time into something more productive. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >If you’ve read this far, it means you're already interested—so why spoil the rest? Just give it a try.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >You’ve got nothing to lose. <strong>You're already bored.</strong></p>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0041,
+  "screenshots": [],
+  "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 204.0,
+  "review_velocity_7d": 17.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
-  "review_count": 343,
-  "review_positive": 290,
+  "review_count": 342,
+  "review_positive": 0,
   "review_percentage": 84.5,
   "owner_estimate": 10000,
-  "ccu_estimate": 1,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 62,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 138,
-      "review_percentage": 81.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
-      "review_count": 339,
-      "review_percentage": 84.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
-      "review_count": 340,
-      "review_percentage": 84.4,
-      "ccu_estimate": 1,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 342,
       "review_percentage": 84.5,
-      "ccu_estimate": 1,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
-      "review_count": 343,
-      "review_percentage": 84.5,
-      "ccu_estimate": 1,
+      "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

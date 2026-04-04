@@ -3,8 +3,8 @@
   "name": "xPack Texture Packing",
   "slug": "xpack-texture-packing",
   "developer": "Kevan Hampson",
-  "publisher": "GraPhiX Design Studio",
-  "release_date": "Jul 1, 2021",
+  "publisher": "",
+  "release_date": "2021-07-01",
   "price_usd": 4.99,
   "genres": [
     "Design & Illustration",
@@ -19,29 +19,9 @@
   ],
   "short_description": "xPack allows you to create 'Packed Textures' with a clear and efficient user interface to build your Packed Textures, supporting RGBA PNG files and DDS files.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1665830/header.jpg?t=1625129139",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1665830/ss_6f812f0b1d58069c6f5ea9d8416911bece307caf.600x338.jpg?t=1625129139",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1665830/ss_52723493bc87e9ab645d459359bd8ca0bf2e9bdd.600x338.jpg?t=1625129139",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1665830/ss_2415897c7db9a4f1c2393eecfb682952ece5f1c1.600x338.jpg?t=1625129139",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1665830/ss_2906caa2ba74fd2b3436bf9dc51881f9068e6d3c.600x338.jpg?t=1625129139",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1665830/ss_c7f88d6302425fda40eaaefe2bb40edf16fa7fd4.600x338.jpg?t=1625129139"
-  ],
-  "detailed_description": "xPack allows you to create 'Packed Textures' with a clear and efficient user interface to build your Packed Textures, supporting  RGBA PNG files and DDS files.<br />\r\nPacked Textures are used in many Game engines,  GameGuruMAX, Unity and Unreal, textures need to be at the power of 2 i.e 512x512, 1024x1024 etc.<br />\r\nEach ARGB channel can have different images to create a single 'Packed' Image for example Unity uses a Metallic-Smoothness Map:<br />\r\n<br />\r\nRED Channel = Metallic<br />\r\nGREEN Channel = NOT USED<br />\r\nBLUE Channel = NOT USED<br />\r\nALPHA Channel = Smoothness",
-  "about_the_game": "xPack allows you to create 'Packed Textures' with a clear and efficient user interface to build your Packed Textures, supporting  RGBA PNG files and DDS files.<br />\r\nPacked Textures are used in many Game engines,  GameGuruMAX, Unity and Unreal, textures need to be at the power of 2 i.e 512x512, 1024x1024 etc.<br />\r\nEach ARGB channel can have different images to create a single 'Packed' Image for example Unity uses a Metallic-Smoothness Map:<br />\r\n<br />\r\nRED Channel = Metallic<br />\r\nGREEN Channel = NOT USED<br />\r\nBLUE Channel = NOT USED<br />\r\nALPHA Channel = Smoothness",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 4,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -49,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 4,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

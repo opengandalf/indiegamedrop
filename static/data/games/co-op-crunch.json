@@ -3,8 +3,8 @@
   "name": "Co-Op Crunch",
   "slug": "co-op-crunch",
   "developer": "Smart Systems Technology Incorporated",
-  "publisher": "Smart Systems Technology Incorporated",
-  "release_date": "Jul 19, 2024",
+  "publisher": "",
+  "release_date": "2024-07-19",
   "price_usd": 4.99,
   "genres": [
     "Casual"
@@ -15,40 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "A third person 3D take on an 80's iconic maze chasing game that you can play by yourself or play online with up to three other players. Multiple challenging levels which explore many ways to test your, or your team's collaborative, or competitive, skills. Paku paku!",
+  "short_description": "A third person 3D take on an 80's iconic maze chasing game that you can play by yourself or play online with up to three other players. Multiple challenging levels which explore many ways to test your",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2848140/header.jpg?t=1728612292",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2848140/ss_37401e53744766103f2e836e3f9eaf888778a38d.600x338.jpg?t=1728612292",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2848140/ss_71153254beea8e297923143d1a4113ab2b91b710.600x338.jpg?t=1728612292",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2848140/ss_454d1148d241096d1a81a0415f1cde10cb933597.600x338.jpg?t=1728612292",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2848140/ss_f2a4211a7e471c020f74b3d7fa8e47e353fe0e7d.600x338.jpg?t=1728612292",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2848140/ss_02edd5686fb77a7d664824bfab54ff4fcdaf72d8.600x338.jpg?t=1728612292"
-  ],
-  "detailed_description": "A third person 3D take on an 80's iconic maze chasing game that you can play by yourself or play online with up to three other players.  Multiple challenging levels which explore many ways to test your, or your team's collaborative, or competitive, skills.<br />\r\n<br />\r\nPaku paku!",
-  "about_the_game": "A third person 3D take on an 80's iconic maze chasing game that you can play by yourself or play online with up to three other players.  Multiple challenging levels which explore many ways to test your, or your team's collaborative, or competitive, skills.<br />\r\n<br />\r\nPaku paku!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Co-op",
-    "Online Co-op",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -56,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

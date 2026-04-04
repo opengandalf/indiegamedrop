@@ -3,8 +3,8 @@
   "name": "Colorzzle",
   "slug": "colorzzle",
   "developer": "Darong Studio",
-  "publisher": "PsychoFlux Entertainment",
-  "release_date": "Aug 10, 2018",
+  "publisher": "",
+  "release_date": "2018-08-10",
   "price_usd": 0.65,
   "genres": [
     "Casual",
@@ -17,65 +17,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Colorzzle is an easy and relaxing puzzle game. When you match the colors, the trees grow and flowers bloom. Grow up every plants to clear the stage. You can start easily, but it will become more and more difficult as you proceed.",
+  "short_description": "Colorzzle is an easy and relaxing puzzle game. When you match the colors, the trees grow and flowers bloom. Grow up every plants to clear the stage. You can start easily, but it will become more and m",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/818500/header.jpg?t=1727467768",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/818500/ss_abcc9ad03c2dc5d352a859a3ab1a74294a554d96.600x338.jpg?t=1727467768",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/818500/ss_91958ef287269b77feffafd93cfd720fc60473ee.600x338.jpg?t=1727467768",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/818500/ss_256b3ae60e95d9ea1c21e34361c36bb39f264d4e.600x338.jpg?t=1727467768",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/818500/ss_52d882eeb4560501b9387df675002f5e100098c3.600x338.jpg?t=1727467768",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/818500/ss_5a4002c705b9b5fd07a23831b868a7fbfb767856.600x338.jpg?t=1727467768",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/818500/ss_fff82aa8b8b6b1f4b3929e0b92f6b1ba29cb8c6d.600x338.jpg?t=1727467768",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/818500/ss_cb5cf9ab1cb87a4a7b6923a22bc72e79eb02cad9.600x338.jpg?t=1727467768",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/818500/ss_5bb3dab0f9075884ce164cf415305c8764ce5707.600x338.jpg?t=1727467768"
-  ],
-  "detailed_description": "<strong>Colorzzle</strong> is an easy and relaxing puzzle game. When you match the colors, the trees grow and flowers bloom. Grow up every plants to clear the stage. You can start easily, but it will become more and more difficult as you proceed.",
-  "about_the_game": "<strong>Colorzzle</strong> is an easy and relaxing puzzle game. When you match the colors, the trees grow and flowers bloom. Grow up every plants to clear the stage. You can start easily, but it will become more and more difficult as you proceed.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 146,
-  "rising_score": 0.0003,
-  "gem_score": 0.6624,
+  "screenshots": [],
+  "rising_score": 0.0,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 10.0,
+  "review_velocity_7d": 7.5,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
-  "review_count": 154,
-  "review_positive": 148,
-  "review_percentage": 96.1,
-  "owner_estimate": 10000,
+  "classification": "tracked",
+  "review_count": 150,
+  "review_positive": 0,
+  "review_percentage": 96.0,
+  "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "rising",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 140,
-      "review_percentage": 95.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 150,
       "review_percentage": 96.0,
       "ccu_estimate": 0,
       "follower_count": 0
-    },
-    {
-      "date": "2026-04-03",
-      "review_count": 154,
-      "review_percentage": 96.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

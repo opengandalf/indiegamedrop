@@ -3,8 +3,8 @@
   "name": "Lament",
   "slug": "lament",
   "developer": "Radcroc",
-  "publisher": "Radcroc",
-  "release_date": "Mar 31, 2017",
+  "publisher": "",
+  "release_date": "2017-03-31",
   "price_usd": 0.99,
   "genres": [
     "Action"
@@ -17,33 +17,9 @@
   ],
   "short_description": "Lament, an NES styled Action-Platformer about a wolf with a buster sword!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/598340/header.jpg?t=1490952468",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/598340/ss_46c7d0b7b6815b77fcee146b8b7e82c8c296faa8.600x338.jpg?t=1490952468",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/598340/ss_fa7c15c50f26cda11c00fa1dd587a747c0bcda46.600x338.jpg?t=1490952468",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/598340/ss_bc90c71229eb03ef93040a454b2f8380eddc9b08.600x338.jpg?t=1490952468",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/598340/ss_6ed7fe6d9d57103f620efac8a5245e7c3eb54712.600x338.jpg?t=1490952468",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/598340/ss_19e29835411c3b85a7d1604cc7c362bafbaca34d.600x338.jpg?t=1490952468"
-  ],
-  "detailed_description": "Lament, an NES styled Action-Platformer about a wolf with a buster sword!<br />\r\n<br />\r\nInspired mostly by Castlevania and Ninja Gaiden on the NES. Swing your way through countless enemies<br />\r\nand try to restore the cursed sword to its former glory!",
-  "about_the_game": "Lament, an NES styled Action-Platformer about a wolf with a buster sword!<br />\r\n<br />\r\nInspired mostly by Castlevania and Ninja Gaiden on the NES. Swing your way through countless enemies<br />\r\nand try to restore the cursed sword to its former glory!",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 43,
-  "review_positive": 31,
+  "review_positive": 0,
   "review_percentage": 72.1,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -51,26 +27,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 40,
-      "review_percentage": 75.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 43,
-      "review_percentage": 72.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-30",
+      "date": "2026-04-04",
       "review_count": 43,
       "review_percentage": 72.1,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

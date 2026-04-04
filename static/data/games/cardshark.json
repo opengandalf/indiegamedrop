@@ -3,8 +3,8 @@
   "name": "CardShark",
   "slug": "cardshark",
   "developer": "Brandon Taylor",
-  "publisher": "Brandon Taylor",
-  "release_date": "Mar 1, 2023",
+  "publisher": "",
+  "release_date": "2023-03-01",
   "price_usd": 5.99,
   "genres": [
     "Adventure",
@@ -21,35 +21,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "CardShark is a roguelike card-battler game in which you take the role of a young daring shark, seeking adventure. Battle your way through each floor of a dangerous dungeon in an endeavour to reach the bottom...",
+  "short_description": "CardShark is a roguelike card-battler game in which you take the role of a young daring shark, seeking adventure. Battle your way through each floor of a dangerous dungeon in an endeavour to reach the",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2316840/header.jpg?t=1677777469",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2316840/ss_338dfdd317bfcb1d7ab264a3510b119552d964f2.600x338.jpg?t=1677777469",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2316840/ss_dd5bfb04e16846311c9048c1a02c0b239ad3d7c6.600x338.jpg?t=1677777469",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2316840/ss_649a1d5e737be2626fae26d4a1c8e5b741b0d7db.600x338.jpg?t=1677777469",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2316840/ss_3d8bf2e21d1ae84f73dc4bd8dd64574384a912a3.600x338.jpg?t=1677777469",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2316840/ss_b541ee2f359e23d85e6684dc8c5d63626f8eda59.600x338.jpg?t=1677777469",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2316840/ss_fb3724132903d4305413c54583a2efc41729ca5e.600x338.jpg?t=1677777469"
-  ],
-  "detailed_description": "CardShark is a roguelike card-battler game in which you take the role of a young daring shark, seeking adventure. Battle your way through each floor of a dangerous dungeon in an endeavour to reach the bottom...<br><br><strong>Gameplay & Features</strong><br><br><ul class=\"bb_ul\"><li>Turn-Based Combat requiring strategy and wit to outplay your opponents<br></li><li>Many different enemies and bosses to fight your way past to further your conquest<br></li><li>Randomly generated dungeons, for a different experience every playthrough<br></li><li>A vast array of different abilities to forge various interesting combinations with</li></ul><br>CardShark takes the idea of drawing from an ordinary deck of playing cards, and depending on the card suit/number value, they can be used to activate various different abilities. These abilities you will find more and more of along the way while battling your way through the dungeon floors, allowing you to experiment with different combinations and builds in an attempt to yield better results while venturing through the depths, wiping out anything that may stand in your way.",
-  "about_the_game": "CardShark is a roguelike card-battler game in which you take the role of a young daring shark, seeking adventure. Battle your way through each floor of a dangerous dungeon in an endeavour to reach the bottom...<br><br><strong>Gameplay & Features</strong><br><br><ul class=\"bb_ul\"><li>Turn-Based Combat requiring strategy and wit to outplay your opponents<br></li><li>Many different enemies and bosses to fight your way past to further your conquest<br></li><li>Randomly generated dungeons, for a different experience every playthrough<br></li><li>A vast array of different abilities to forge various interesting combinations with</li></ul><br>CardShark takes the idea of drawing from an ordinary deck of playing cards, and depending on the card suit/number value, they can be used to activate various different abilities. These abilities you will find more and more of along the way while battling your way through the dungeon floors, allowing you to experiment with different combinations and builds in an attempt to yield better results while venturing through the depths, wiping out anything that may stand in your way.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 5,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 80.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 80.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 5,
       "review_percentage": 80.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

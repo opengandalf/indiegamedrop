@@ -3,8 +3,8 @@
   "name": "Brawl Hopper",
   "slug": "brawl-hopper",
   "developer": "@ustinCameron",
-  "publisher": "@ustinCameron",
-  "release_date": "Jan 1, 2020",
+  "publisher": "",
+  "release_date": "2020-01-01",
   "price_usd": 3.99,
   "genres": [
     "Casual",
@@ -22,37 +22,15 @@
   ],
   "short_description": "A New Procedural Arena Brawler - Battle Between Up to 8 Players Per Match - New Levels Generated Daily.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203280/header.jpg?t=1577922060",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203280/ss_e86f447a983b023b504d1c79e1d0887de3473b5b.600x338.jpg?t=1577922060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203280/ss_4ae984c431e3a72d441910c2457ba88a93c7e3ec.600x338.jpg?t=1577922060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203280/ss_dbb58a8381a4fba1b4916881dfe817ee5b5ebbcc.600x338.jpg?t=1577922060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203280/ss_17722ea86133970ea360ef64aba648dc08e38b08.600x338.jpg?t=1577922060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203280/ss_6fc9e320fa2ba5c1cffb656320b223d83a1752c6.600x338.jpg?t=1577922060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203280/ss_7c81078b70d740d70f2a5ce3814b51fabff2b5a9.600x338.jpg?t=1577922060",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203280/ss_aa66000efe808d6b60c32352d72382365b055ba2.600x338.jpg?t=1577922060"
-  ],
-  "detailed_description": "<strong>**This Game is in BETA - Download the free iOS or Android app if you want to test out gameplay before purchasing!**<br>*During Early Access, please leave ALL FEEDBACK in Discord so we can improve this project together.*</strong><br><br>Brawl Hopper, a new 3d, online multiplayer, procedural arena brawler - is the big brother to the beloved Cloud Hopper game.<br><br>Battle between up to 8 players per procedurally generated level. New level generated each day! Multiplayer is cross-platform between Windows, OSX, Android, iOS & tvOS.<br><br>Brawl Hopper v0.1 was originally created in a collective 24 hours, though is part of a Devlog series and will continue to get monthly releases led by our community feedback.<br><br>Over the course of Early Access there will be more levels, characters, weapons, powerups, music, Steam achievements, etc. to come.",
-  "about_the_game": "<strong>**This Game is in BETA - Download the free iOS or Android app if you want to test out gameplay before purchasing!**<br>*During Early Access, please leave ALL FEEDBACK in Discord so we can improve this project together.*</strong><br><br>Brawl Hopper, a new 3d, online multiplayer, procedural arena brawler - is the big brother to the beloved Cloud Hopper game.<br><br>Battle between up to 8 players per procedurally generated level. New level generated each day! Multiplayer is cross-platform between Windows, OSX, Android, iOS & tvOS.<br><br>Brawl Hopper v0.1 was originally created in a collective 24 hours, though is part of a Devlog series and will continue to get monthly releases led by our community feedback.<br><br>Over the course of Early Access there will be more levels, characters, weapons, powerups, music, Steam achievements, etc. to come.",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Cross-Platform Multiplayer",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +38,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

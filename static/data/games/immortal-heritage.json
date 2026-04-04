@@ -3,8 +3,8 @@
   "name": "Immortal Heritage",
   "slug": "immortal-heritage",
   "developer": "LC.Game",
-  "publisher": "LC.Game",
-  "release_date": "Aug 5, 2022",
+  "publisher": "",
+  "release_date": "2022-08-05",
   "price_usd": 39.99,
   "genres": [
     "Action",
@@ -25,33 +25,9 @@
   ],
   "short_description": "A 3D RPG !",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2082520/header.jpg?t=1718684556",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2082520/ss_6e101259d6e65cbcd8e5cfaefe1b2448af9ff72a.600x338.jpg?t=1718684556",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2082520/ss_c8c7b86e7b6d8f46809d02a215dea8034e30cdea.600x338.jpg?t=1718684556",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2082520/ss_3c37507caa2b774d69852fdae342436aaa501cd8.600x338.jpg?t=1718684556"
-  ],
-  "detailed_description": "<strong><h2 class=\"bb_tag\" >How to download the English version:</h2></strong><br>To download the English version, please follow these steps:<br>Open Steam and log in to your account.<br>Go to the \"Library\" tab at the top of the screen.<br>Locate the game you want to download in English.<br>Right-click on the game and select \"Properties\" from the dropdown menu.<br>In the Properties window, go to the \"General\" tab.<br>Choose \"English\" from the Language dropdown menu.<br>Click on \"Close\" to save the changes.<br>Steam will then begin downloading the English version of the game. Please wait for the download to complete before launching the game.",
-  "about_the_game": "<strong><h2 class=\"bb_tag\" >How to download the English version:</h2></strong><br>To download the English version, please follow these steps:<br>Open Steam and log in to your account.<br>Go to the \"Library\" tab at the top of the screen.<br>Locate the game you want to download in English.<br>Right-click on the game and select \"Properties\" from the dropdown menu.<br>In the Properties window, go to the \"General\" tab.<br>Choose \"English\" from the Language dropdown menu.<br>Click on \"Close\" to save the changes.<br>Steam will then begin downloading the English version of the game. Please wait for the download to complete before launching the game.",
-  "supported_languages": "Simplified Chinese<strong>*</strong>, English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Captions available",
-    "Stats",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 96,
-  "review_positive": 79,
+  "review_positive": 0,
   "review_percentage": 82.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 96,
-      "review_percentage": 82.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 96,
       "review_percentage": 82.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Crown and Council",
   "slug": "crown-and-council",
   "developer": "Mojang",
-  "publisher": "Mojang",
-  "release_date": "Apr 22, 2016",
+  "publisher": "",
+  "release_date": "2016-04-22",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -21,67 +21,27 @@
   ],
   "short_description": "Crown and Council is a casual strategy game with short game sessions.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444250/header.jpg?t=1486544602",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444250/ss_849b0ac91c4afbb754906e191b8273c1488cba9e.600x338.jpg?t=1486544602",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444250/ss_ed50121016565e8172e35bbae7b42902b34d5a28.600x338.jpg?t=1486544602",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444250/ss_dd2c25c654d6d57512eeeef517a7169763377cfb.600x338.jpg?t=1486544602",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444250/ss_5047e00c53f61fc02a60257eb030a9e3316662de.600x338.jpg?t=1486544602",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444250/ss_bc6bb217bd608594b987eb423277fff3b99858c3.600x338.jpg?t=1486544602",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444250/ss_ed50121016565e8172e35bbae7b42902b34d5a28.600x338.jpg?t=1486544602",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444250/ss_849b0ac91c4afbb754906e191b8273c1488cba9e.600x338.jpg?t=1486544602",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444250/ss_5047e00c53f61fc02a60257eb030a9e3316662de.600x338.jpg?t=1486544602",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444250/ss_dd2c25c654d6d57512eeeef517a7169763377cfb.600x338.jpg?t=1486544602",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444250/ss_bc6bb217bd608594b987eb423277fff3b99858c3.600x338.jpg?t=1486544602"
-  ],
-  "detailed_description": "Originally a jam game, <strong>Crown and Council</strong> is a casual strategy game of geopolitical drama. Conquer, expand, build and develop your kingdom, until all your foes are crushed!<br><br>Crown and Council relied on procedural generation for the 75 included maps. The generator is built into the game, and you can generate new maps on the fly.",
-  "about_the_game": "Originally a jam game, <strong>Crown and Council</strong> is a casual strategy game of geopolitical drama. Conquer, expand, build and develop your kingdom, until all your foes are crushed!<br><br>Crown and Council relied on procedural generation for the 75 included maps. The generator is built into the game, and you can generate new maps on the fly.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Remote Play Together"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0002,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 8.0,
+  "review_velocity_7d": 38.300000000000004,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 766,
-  "review_positive": 496,
+  "review_positive": 0,
   "review_percentage": 64.8,
   "owner_estimate": 350000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 57,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 758,
-      "review_percentage": 64.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 767,
-      "review_percentage": 64.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 766,
       "review_percentage": 64.8,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

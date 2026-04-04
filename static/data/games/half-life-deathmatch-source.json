@@ -3,8 +3,8 @@
   "name": "Half-Life Deathmatch: Source",
   "slug": "half-life-deathmatch-source",
   "developer": "Valve",
-  "publisher": "Valve",
-  "release_date": "May 1, 2006",
+  "publisher": "",
+  "release_date": "2006-05-01",
   "price_usd": 1.99,
   "genres": [
     "Action"
@@ -18,58 +18,21 @@
   ],
   "short_description": "Half-Life Deathmatch: Source is a recreation of the first multiplayer game set in the Half-Life universe. Features all the classic weapons and most-played maps, now running on the Source engine.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360/header.jpg?t=1745368549",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360/ss_7a571ed8e766ab8cf9913c1000a3dbf9308550b7.600x338.jpg?t=1745368549",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360/ss_679d0036062b254569a78966183dec599069fead.600x338.jpg?t=1745368549",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360/ss_65b464dd068f4a256e0bfbf9110788554d28aaa2.600x338.jpg?t=1745368549",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360/ss_29cdd791483f8facbe7daa8f1b59b55b386d24c1.600x338.jpg?t=1745368549",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360/ss_a9b7bb493ac15b4b5d6dc7b81b2a80d3923de441.600x338.jpg?t=1745368549"
-  ],
-  "detailed_description": "Half-Life Deathmatch: Source is a recreation of the first multiplayer game set in the Half-Life universe. Features all the classic weapons and most-played maps, now running on the Source engine.",
-  "about_the_game": "Half-Life Deathmatch: Source is a recreation of the first multiplayer game set in the Half-Life universe. Features all the classic weapons and most-played maps, now running on the Source engine.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "Camera Comfort",
-    "Custom Volume Controls",
-    "Playable without Timed Input",
-    "Stereo Sound",
-    "Surround Sound",
-    "Valve Anti-Cheat enabled",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 4209,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "screenshots": [],
   "review_count": 5373,
-  "review_positive": 4060,
+  "review_positive": 0,
   "review_percentage": 75.6,
   "owner_estimate": 7500000,
-  "ccu_estimate": 43,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 12,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 4899,
-      "review_percentage": 74.6,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 5373,
       "review_percentage": 75.6,
-      "ccu_estimate": 43,
+      "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

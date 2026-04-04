@@ -3,8 +3,8 @@
   "name": "Eggroll",
   "slug": "eggroll",
   "developer": "Scott Howarth",
-  "publisher": "Scott Howarth",
-  "release_date": "Jan 25, 2022",
+  "publisher": "",
+  "release_date": "2022-01-25",
   "price_usd": 1.99,
   "genres": [
     "Action",
@@ -19,34 +19,15 @@
   ],
   "short_description": "Roll the egg back into the nest... without cracking! This 2D platformer features amusing physics, original art, and randomly generated jazz music!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853890/header.jpg?t=1643610971",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853890/ss_a2b84047b1e9c7fed2156e3944b5858afbbd91cd.600x338.jpg?t=1643610971",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853890/ss_b11d388f437ba8aee2bea46c10fa98cea5e3ec86.600x338.jpg?t=1643610971",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853890/ss_febb99da6d747f1f0b3aac4758d29ba765d9df05.600x338.jpg?t=1643610971",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853890/ss_56174fc9dea02749043f8b9164a488600c186e7c.600x338.jpg?t=1643610971",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853890/ss_c342ed8aabaa4060ad7f96f72d645780c20cebe8.600x338.jpg?t=1643610971",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853890/ss_a9dc80900c0bf37727da50215db8165e9d14fdcf.600x338.jpg?t=1643610971"
-  ],
-  "detailed_description": "Roll the egg back into the nest in record time... without cracking!<br />\r\nEggroll is a 2D platformer featuring amusing physics, original art on every level, and randomly generated jazz music! <br />\r\nPlayers control an egg, which can roll and jump - and crack! <br />\r\n<br />\r\n24 levels to unlock each with a different theme<br />\r\n9 different player characters to unlock<br />\r\nJazz generator makes endless variations of jazz music",
-  "about_the_game": "Roll the egg back into the nest in record time... without cracking!<br />\r\nEggroll is a 2D platformer featuring amusing physics, original art on every level, and randomly generated jazz music! <br />\r\nPlayers control an egg, which can roll and jump - and crack! <br />\r\n<br />\r\n24 levels to unlock each with a different theme<br />\r\n9 different player characters to unlock<br />\r\nJazz generator makes endless variations of jazz music",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Partial Controller Support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.7000000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 14,
-  "review_positive": 13,
+  "review_positive": 0,
   "review_percentage": 92.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 14,
-      "review_percentage": 92.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 14,
       "review_percentage": 92.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

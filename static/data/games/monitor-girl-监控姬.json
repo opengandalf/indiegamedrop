@@ -3,8 +3,8 @@
   "name": "Monitor Girl | 监控姬",
   "slug": "monitor-girl-监控姬",
   "developer": "GCN",
-  "publisher": "GCN",
-  "release_date": "Jan 8, 2021",
+  "publisher": "",
+  "release_date": "2021-01-08",
   "price_usd": 1.59,
   "genres": [
     "Casual",
@@ -17,36 +17,11 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "This is a PC computer monitoring software, which can monitor the performance of your computer in real time, with excellent performance and low CPU and GPU occupancy. It supports hardware detection, Steam Workshop...",
+  "short_description": "This is a PC computer monitoring software, which can monitor the performance of your computer in real time, with excellent performance and low CPU and GPU occupancy. It supports hardware detection, St",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500130/header.jpg?t=1700491229",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500130/ss_0d4364687481190a992d93ee2bf3ed71100e90d8.600x338.jpg?t=1700491229",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500130/ss_067a7c366c86702f95b787aaa0c12f019dce2ecb.600x338.jpg?t=1700491229",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500130/ss_de8142657041c84f9250a7ec0acaf92f43956b20.600x338.jpg?t=1700491229",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500130/ss_16206a2863c5d0a4befca23eca3b22fee1fd4f0c.600x338.jpg?t=1700491229",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500130/ss_6ed59ba0bc60c81e0c39c75bb1b275e64aaa7e37.600x338.jpg?t=1700491229",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1500130/ss_f2b76a2d08b51e03c412c1173c0eea1861c0c2fe.600x338.jpg?t=1700491229"
-  ],
-  "detailed_description": "On February 11, 2022, it was newly upgraded, adding a variety of functions, such as hardware detection, creative workshop, etc., and retaining the previous version. I hope to reverse the previous evaluation, and I hope you can support it!<h2 class=\"bb_tag\" >About solving the problem of incomplete information acquisition of some machines</h2><br>Right mouse button attribute of game list in Steam client ==> Local file ==> Browse => Find \"MonitorGirl2. exe\" ==> Right mouse button attribute ==> Compatibility ==> Change settings of all users ==> Check to run this program as administrator == >OK<h2 class=\"bb_tag\" > New upgrade on February 11, 2022</h2><ul class=\"bb_ul\"><li> 1. Add hardware detection (CPU, GPU, ram, disk...)<br></li><li> 2. Support steam workshops<br></li><li> 3. Three sets of templates, diversified window monitoring Pendant</li></ul><h2 class=\"bb_tag\" >Old Version Feature List</h2><ul class=\"bb_ul\"><li> 1. The younger sister swings her lower leg to help you monitor the PC on the video card. As the CPU temperature increases, the younger sister will change.<br></li><li> 2. Identify CPU model, monitor CPU utilization rate and CPU temperature.<br></li><li> 3. Identify the model of GPU, monitor the usage rate of GPU and monitor the temperature of GPU.<br></li><li> 4. Monitor memory usage.<br></li><li> 5. Monitor the utilization rate of hard disk space.<br></li><li> 6. Display time.</li></ul>",
-  "about_the_game": "On February 11, 2022, it was newly upgraded, adding a variety of functions, such as hardware detection, creative workshop, etc., and retaining the previous version. I hope to reverse the previous evaluation, and I hope you can support it!<h2 class=\"bb_tag\" >About solving the problem of incomplete information acquisition of some machines</h2><br>Right mouse button attribute of game list in Steam client ==> Local file ==> Browse => Find \"MonitorGirl2. exe\" ==> Right mouse button attribute ==> Compatibility ==> Change settings of all users ==> Check to run this program as administrator == >OK<h2 class=\"bb_tag\" > New upgrade on February 11, 2022</h2><ul class=\"bb_ul\"><li> 1. Add hardware detection (CPU, GPU, ram, disk...)<br></li><li> 2. Support steam workshops<br></li><li> 3. Three sets of templates, diversified window monitoring Pendant</li></ul><h2 class=\"bb_tag\" >Old Version Feature List</h2><ul class=\"bb_ul\"><li> 1. The younger sister swings her lower leg to help you monitor the PC on the video card. As the CPU temperature increases, the younger sister will change.<br></li><li> 2. Identify CPU model, monitor CPU utilization rate and CPU temperature.<br></li><li> 3. Identify the model of GPU, monitor the usage rate of GPU and monitor the temperature of GPU.<br></li><li> 4. Monitor memory usage.<br></li><li> 5. Monitor the utilization rate of hard disk space.<br></li><li> 6. Display time.</li></ul>",
-  "supported_languages": "Simplified Chinese<strong>*</strong>, English<strong>*</strong>, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Steam Workshop",
-    "Steam Workshop",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 34,
-  "review_positive": 24,
+  "review_positive": 0,
   "review_percentage": 70.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 33,
-      "review_percentage": 69.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 34,
       "review_percentage": 70.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "BURNER",
   "slug": "burner",
   "developer": "Tecmiba",
-  "publisher": "Tecmiba",
-  "release_date": "May 10, 2022",
+  "publisher": "",
+  "release_date": "2022-05-10",
   "price_usd": 1.01,
   "genres": [
     "Action"
@@ -15,47 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "voxel style survival game with rouge like, platformer, and brawler elements, randomly generated levels in real time. sent to another dimension, burner must collect $50,000 to make it back home, upgrade stats and buy weapons between levels. In development since 2021.",
+  "short_description": "voxel style survival game with rouge like, platformer, and brawler elements, randomly generated levels in real time. sent to another dimension, burner must collect $50,000 to make it back home, upgrad",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926820/header.jpg?t=1761204488",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926820/ss_8a73eb6652deee5550934b76f9170b62d8f1eca8.600x338.jpg?t=1761204488",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926820/ss_ac4d0d01a2040117b4b88b11ef3aeda12756cb17.600x338.jpg?t=1761204488",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926820/ss_07742e518332b9a9e78ce8433979cccc0310b49f.600x338.jpg?t=1761204488",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926820/ss_66852f809213662c41dd360a19b0a226f40b51c0.600x338.jpg?t=1761204488",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926820/ss_d45a589ab16b1638a4017d2fee3c1dc9248e717d.600x338.jpg?t=1761204488",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926820/ss_13794de85ff03c91cde5e6194d2efc075fa6bfec.600x338.jpg?t=1761204488",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926820/ss_20d02128dc40440248deea734c1dcd208f17b67a.600x338.jpg?t=1761204488",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926820/ss_ca474f23544711632555acd2b503214efdd3586b.600x338.jpg?t=1761204488",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926820/ss_e685fb76fed0a5bb66623d7d96564cde2914cf51.600x338.jpg?t=1761204488",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926820/ss_5eecd0e5931b88aae8b3e635ecb7b9c236270891.600x338.jpg?t=1761204488",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926820/ss_d2b15b3b9b5fbf7786a7d7ca537ae6f02d949e19.600x338.jpg?t=1761204488",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926820/ss_00f28c2aef7fcf7318a79be1c0667b145e21c39a.600x338.jpg?t=1761204488"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Voxel style, survival game with rouge like, platformer, and beatemup/brawler elements, randomly generated levels in real time. sent to another dimension, burner must collect $50,000 to make it back home, upgrade stats and buy weapons between levels. Gamepad Recommended. In development since 2021.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >local multiplayer across 2 separate windows.</p></li></ul>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Voxel style, survival game with rouge like, platformer, and beatemup/brawler elements, randomly generated levels in real time. sent to another dimension, burner must collect $50,000 to make it back home, upgrade stats and buy weapons between levels. Gamepad Recommended. In development since 2021.</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >local multiplayer across 2 separate windows.</p></li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "PvP",
-    "Shared/Split Screen PvP",
-    "Shared/Split Screen",
-    "Full controller support",
-    "Remote Play Together",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.15000000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 3,
-  "review_positive": 3,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -63,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 3,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

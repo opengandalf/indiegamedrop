@@ -3,8 +3,8 @@
   "name": "County Courier",
   "slug": "county-courier",
   "developer": "Speedtrap Studios",
-  "publisher": "Speedtrap Studios",
-  "release_date": "Mar 1, 2024",
+  "publisher": "",
+  "release_date": "2024-03-01",
   "price_usd": 0.74,
   "genres": [
     "Casual",
@@ -27,32 +27,15 @@
   ],
   "short_description": "Drive around town to deliver the packages loaded in your truck! Earn a paycheck to pay for gas and truck upgrades!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2798340/header.jpg?t=1738719479",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2798340/ss_e4279b0554d657d30146586191d17a4a94b79587.600x338.jpg?t=1738719479",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2798340/ss_1d1645a0915c979f114a02466da9dec4235156a1.600x338.jpg?t=1738719479",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2798340/ss_89c34b468e842bf78e0ff71c249e51fe81ce15c9.600x338.jpg?t=1738719479",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2798340/ss_8c9bfd7801366c6cc7a31c11a9756740e7fcfb6f.600x338.jpg?t=1738719479",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2798340/ss_089e8597548450269e8dd2318c39b691459cac75.600x338.jpg?t=1738719479"
-  ],
-  "detailed_description": "A casual 2D package delivery simulation game! Drive a truck across a diverse county while you pick up and drop off packages along the way. Explore the neighborhood, the rural area, the city and the small town, and overcome timed delivery challenges. Use your paychecks to pay for gas, upgrade your skills, and customize your truck!",
-  "about_the_game": "A casual 2D package delivery simulation game! Drive a truck across a diverse county while you pick up and drop off packages along the way. Explore the neighborhood, the rural area, the city and the small town, and overcome timed delivery challenges. Use your paychecks to pay for gas, upgrade your skills, and customize your truck!",
-  "supported_languages": "English, French, Spanish - Latin America",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +43,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

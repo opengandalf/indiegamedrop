@@ -3,8 +3,8 @@
   "name": "Briquid",
   "slug": "briquid",
   "developer": "Gamious",
-  "publisher": "Gamious",
-  "release_date": "Dec 6, 2018",
+  "publisher": "",
+  "release_date": "2018-12-06",
   "price_usd": 4.99,
   "genres": [
     "Indie",
@@ -20,62 +20,27 @@
   ],
   "short_description": "Briquid is a simple yet challenging water physics puzzle game. Build bricks, remove them, or change the direction of gravity to get the water to its destination.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803280/header.jpg?t=1749018645",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803280/ss_939c365a192804bc9daa6d7f938145f1ad667ba8.600x338.jpg?t=1749018645",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803280/ss_e6e93f401f426826c7e7523d71484af83e6222ac.600x338.jpg?t=1749018645",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803280/ss_93e9cc25ee22585b8950726ab13cc54728d3add1.600x338.jpg?t=1749018645",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803280/ss_0d372f222dc33d5c84a9d74af8345d2663ae4616.600x338.jpg?t=1749018645",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803280/ss_df5876aa6cd453f3bb0af33f92ec3207e52242da.600x338.jpg?t=1749018645",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803280/ss_3689ad99287443251a39438374b42b636318ccc9.600x338.jpg?t=1749018645",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803280/ss_e0812de62c2ddd420fa06edbf84a2efb7877275b.600x338.jpg?t=1749018645",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803280/ss_1e9b92f3dc4fa2b3b08da2bace383bbfe1c0cc6c.600x338.jpg?t=1749018645",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803280/ss_0673fc8286f9c8d74fed48c4754d2ce7197eb823.600x338.jpg?t=1749018645"
-  ],
-  "detailed_description": "Build bricks, remove them, or change the direction of gravity to get the water to its destination. Some levels take a few minutes to solve, others might take hours! Try to fill all the reservoirs with 100% water in all of the 100 levels.<br><br>Briquid is a critically acclaimed puzzle game, released a few years ago for mobile devices. For this special PC/Steam edition, the graphics have been updated, new levels are added and a level editor and lots of Steam features have been included. While Briquid was originally released for mobile, its simple yet challenging puzzle gameplay may actually be best suited for PC.<br><br><strong>Features</strong><br><br><ul class=\"bb_ul\"><li>100 levels in the core game, many more in the Steam Workshop.<br></li><li>Expert mode after completing all 100 levels.<br></li><li>A Level Editor with Steam Workshop integration.<br></li><li>Steam Leaderboards.<br></li><li>Fully localized in English, German, Russian, Brazilian Portuguese, Chinese, Italian, Spanish, French and Dutch.</li></ul>",
-  "about_the_game": "Build bricks, remove them, or change the direction of gravity to get the water to its destination. Some levels take a few minutes to solve, others might take hours! Try to fill all the reservoirs with 100% water in all of the 100 levels.<br><br>Briquid is a critically acclaimed puzzle game, released a few years ago for mobile devices. For this special PC/Steam edition, the graphics have been updated, new levels are added and a level editor and lots of Steam features have been included. While Briquid was originally released for mobile, its simple yet challenging puzzle gameplay may actually be best suited for PC.<br><br><strong>Features</strong><br><br><ul class=\"bb_ul\"><li>100 levels in the core game, many more in the Steam Workshop.<br></li><li>Expert mode after completing all 100 levels.<br></li><li>A Level Editor with Steam Workshop integration.<br></li><li>Steam Leaderboards.<br></li><li>Fully localized in English, German, Russian, Brazilian Portuguese, Chinese, Italian, Spanish, French and Dutch.</li></ul>",
-  "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Portuguese - Brazil, Russian, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Steam Workshop",
-    "Steam Cloud",
-    "Steam Leaderboards",
-    "Includes level editor",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
-  "gem_score": 0.9378,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 1.4500000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 29,
-  "review_positive": 29,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 29,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 29,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

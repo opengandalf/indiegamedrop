@@ -3,8 +3,8 @@
   "name": "Star Rogue",
   "slug": "star-rogue",
   "developer": "Julian Wehrmann",
-  "publisher": "Julian Wehrmann",
-  "release_date": "Feb 1, 2016",
+  "publisher": "",
+  "release_date": "2016-02-01",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -19,64 +19,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Star Rogue is a sci-fi roguelike platformer. This pixel indie game will challenge you with a randomly generated spacestation full of deadly traps, collectable items, nasty enemies and strong bosses, each time you play it.",
+  "short_description": "Star Rogue is a sci-fi roguelike platformer. This pixel indie game will challenge you with a randomly generated spacestation full of deadly traps, collectable items, nasty enemies and strong bosses, e",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438440/header.jpg?t=1692100047",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438440/ss_a8d773b4165a48bde99ae85af1f44c691528858c.600x338.jpg?t=1692100047",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438440/ss_52b9ed0469f5153bc63a4a110861b5bb2aeaa2a6.600x338.jpg?t=1692100047",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438440/ss_1ed39e6a290f15849b7f8b3e9f7fcbed22309f11.600x338.jpg?t=1692100047",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438440/ss_973d473141d96fa61e6c5b98758962951f88b24d.600x338.jpg?t=1692100047",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438440/ss_38b20119b4634df6abff0be0ca205f378d33f5be.600x338.jpg?t=1692100047",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438440/ss_4f02aae58f6656455744c036180c39bba7513529.600x338.jpg?t=1692100047",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438440/ss_efa3b50348b1f8250d26943d87dafaf3204bf46e.600x338.jpg?t=1692100047",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438440/ss_99665c0a60bbee78497481b9119f60efffe68fbc.600x338.jpg?t=1692100047",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438440/ss_b1a0965b483e163b78233b2f23d97c568cd9c507.600x338.jpg?t=1692100047"
-  ],
-  "detailed_description": "<i>Star Rogue</i> is a sci-fi roguelike platformer. In this challenging pixel indie game you will take control over a brave space marine to investigate an abandoned space station full of traps, robots and aliens. In each playthrough you will encounter a different environment full of randomly arranged rooms. With the choice between several weapons, abilites and different items, your playing experience will be unique each time you play.<br><br><strong>!!! ATTENTION !!!</strong><br>This game is still in development! Here is a rough list of planned improvements:<br><ul class=\"bb_ul\"><li>Improved and more diverse enemy AI/movement<br></li><li>Better graphics and animations<br></li><li>More abilities, stages, rooms, enemies, bosses, items and unlocks</li></ul><br>If you have any questions or want to contact me, feel free to write to:<br><strong>starrogue [at] julianwehrmann [dot] com</strong>",
-  "about_the_game": "<i>Star Rogue</i> is a sci-fi roguelike platformer. In this challenging pixel indie game you will take control over a brave space marine to investigate an abandoned space station full of traps, robots and aliens. In each playthrough you will encounter a different environment full of randomly arranged rooms. With the choice between several weapons, abilites and different items, your playing experience will be unique each time you play.<br><br><strong>!!! ATTENTION !!!</strong><br>This game is still in development! Here is a rough list of planned improvements:<br><ul class=\"bb_ul\"><li>Improved and more diverse enemy AI/movement<br></li><li>Better graphics and animations<br></li><li>More abilities, stages, rooms, enemies, bosses, items and unlocks</li></ul><br>If you have any questions or want to contact me, feel free to write to:<br><strong>starrogue [at] julianwehrmann [dot] com</strong>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Multi-player",
-    "Co-op",
-    "Shared/Split Screen Co-op",
-    "Steam Achievements",
-    "Partial Controller Support",
-    "Remote Play Together"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.8379,
   "hype_score": 0.0,
-  "review_velocity_7d": 2.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 31,
-  "review_positive": 28,
+  "review_positive": 0,
   "review_percentage": 90.3,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 29,
-      "review_percentage": 89.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
+      "date": "2026-04-04",
       "review_count": 31,
       "review_percentage": 90.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

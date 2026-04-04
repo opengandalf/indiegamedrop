@@ -3,8 +3,8 @@
   "name": "Dorky Fork",
   "slug": "dorky-fork",
   "developer": "Aaron Moon",
-  "publisher": "Aaron Moon",
-  "release_date": "Aug 24, 2020",
+  "publisher": "",
+  "release_date": "2020-08-24",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -23,35 +23,15 @@
   ],
   "short_description": "Dorky Fork is a simple yet сhallenging puzzle game about pushing cubes.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203500/header.jpg?t=1687975728",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203500/ss_74ead3bb08d99f80a4cc044f17295713aff8a92b.600x338.jpg?t=1687975728",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203500/ss_f401960e536b3394c84959a7ac092388a3d1c63e.600x338.jpg?t=1687975728",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203500/ss_2b36634c4ba8fd1c294ce0f966fea8b8b84b0d5f.600x338.jpg?t=1687975728",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203500/ss_ec113e107dd87bac9d278b21334df6fefdfba160.600x338.jpg?t=1687975728",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203500/ss_05dab5fa60d6ea12e9f34d64385d0d08e6919435.600x338.jpg?t=1687975728",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203500/ss_25b7a39fc195bb834de8656433a2c2abbe80043f.600x338.jpg?t=1687975728",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203500/ss_f70846e38212c7e0db56c3b9ab7a184404fa2021.600x338.jpg?t=1687975728",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203500/ss_9e5f1c3605e6f98ad7301236a061881c22360141.600x338.jpg?t=1687975728"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203500/extras/52d1402166b46ab2b2c4f226b2f8bede.avif?t=1687975728\" width=500 height=262 /></span><br><strong>Dorky Fork</strong> is an indie game in which you need to arrange cubes to complete levels.<br><br><br>Take a journey through diverse and vibrant stages and then use <strong>ingame level editor</strong> to create your own puzzles.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Challenging levels<br></li><li>Dreamy soundtrack by <strong>there will be nø sadness</strong><br></li><li>Colorful graphics<br></li><li>Ingame editor<br></li></ul>",
-  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203500/extras/52d1402166b46ab2b2c4f226b2f8bede.avif?t=1687975728\" width=500 height=262 /></span><br><strong>Dorky Fork</strong> is an indie game in which you need to arrange cubes to complete levels.<br><br><br>Take a journey through diverse and vibrant stages and then use <strong>ingame level editor</strong> to create your own puzzles.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Challenging levels<br></li><li>Dreamy soundtrack by <strong>there will be nø sadness</strong><br></li><li>Colorful graphics<br></li><li>Ingame editor<br></li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Includes level editor"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.55,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 11,
-  "review_positive": 10,
+  "review_positive": 0,
   "review_percentage": 90.9,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -59,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 11,
-      "review_percentage": 81.8,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 11,
       "review_percentage": 90.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

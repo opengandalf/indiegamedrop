@@ -3,8 +3,8 @@
   "name": "Sail the Seas",
   "slug": "sail-the-seas",
   "developer": "Viking Game Studio",
-  "publisher": "Viking Game Studio",
-  "release_date": "Nov 24, 2024",
+  "publisher": "",
+  "release_date": "2024-11-24",
   "price_usd": 19.99,
   "genres": [
     "Indie",
@@ -21,39 +21,15 @@
   ],
   "short_description": "Sail the Seas is a sailing, trading simulator set in 18th century, spanning whole world",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866270/header.jpg?t=1744210802",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866270/ss_9d12f593acd8d4d6b3eb1e49fa05d5ca42c43e08.600x338.jpg?t=1744210802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866270/ss_a0ded4df8566ea5daef28e5dad01015eebf79352.600x338.jpg?t=1744210802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866270/ss_8e804cd6ca39d94e8823d10d79927c11df494ed2.600x338.jpg?t=1744210802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866270/ss_081a87e30d9bbf54e4faf8f20b3a123af5ee8704.600x338.jpg?t=1744210802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866270/ss_93e52d58b586e65f9687b27de2a11bdc2060b1e6.600x338.jpg?t=1744210802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866270/ss_0575b2f83f17092f3518b1b4569609c8dd93a071.600x338.jpg?t=1744210802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866270/ss_f5493e1f5367c7e09c86e7737f69e88c0c4166f3.600x338.jpg?t=1744210802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866270/ss_2a45e8de1c292048da25d0be6c64e4cb02f8ef23.600x338.jpg?t=1744210802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866270/ss_bbf92adcbd7561b3ffab633fe283adfdcee175ee.600x338.jpg?t=1744210802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866270/ss_56428974550a71e7177bc7cc167d160893bc7532.600x338.jpg?t=1744210802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866270/ss_8071facb031f15670e8b0da15790ace1eaf767ce.600x338.jpg?t=1744210802",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866270/ss_59abd9957d7730cf4b0278dc47cba34519b668be.600x338.jpg?t=1744210802"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Featuring realistic sailing this game lets you explore world, amass wealth or go down to fishes - it's up to you!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > - Interact with sails, yards, rudder to keep your ship on course</p><p class=\"bb_paragraph\" > - Follow your ships condition and water level to keep it afloat</p><p class=\"bb_paragraph\" > - Stock it up with supplies to keep you alive</p><p class=\"bb_paragraph\" > - Take contracts or trade</p><p class=\"bb_paragraph\" > - Historically accurate ships<br>- 140 ports to visit all over the world</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Featuring realistic sailing this game lets you explore world, amass wealth or go down to fishes - it's up to you!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > - Interact with sails, yards, rudder to keep your ship on course</p><p class=\"bb_paragraph\" > - Follow your ships condition and water level to keep it afloat</p><p class=\"bb_paragraph\" > - Stock it up with supplies to keep you alive</p><p class=\"bb_paragraph\" > - Take contracts or trade</p><p class=\"bb_paragraph\" > - Historically accurate ships<br>- 140 ports to visit all over the world</p>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 113,
+  "screenshots": [],
   "rising_score": 0.0016,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 42.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 114,
-  "review_positive": 92,
+  "review_positive": 0,
   "review_percentage": 80.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -61,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 72,
-      "review_percentage": 84.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-26",
+      "date": "2026-04-04",
       "review_count": 114,
       "review_percentage": 80.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Agent X: Equation Rider",
   "slug": "agent-x-equation-rider",
   "developer": "Fred Ells",
-  "publisher": "Fred Ells",
-  "release_date": "Jan 3, 2018",
+  "publisher": "",
+  "release_date": "2018-01-03",
   "price_usd": 3.99,
   "genres": [
     "Indie"
@@ -17,36 +17,15 @@
   ],
   "short_description": "A bike game with an educational twist. Build and ride on algebraic equations!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767010/header.jpg?t=1515026755",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767010/ss_1a04a760a074c7691ecff0320314711f47678a13.600x338.jpg?t=1515026755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767010/ss_ee4f9a967858b2cee6ee6c7008cdd7efbc7ee7de.600x338.jpg?t=1515026755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767010/ss_a72bb50c89446cc28a0963e4e67f34f37afcfa0c.600x338.jpg?t=1515026755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767010/ss_62d415cd84f847a3875fae1980bf4e1b1a652786.600x338.jpg?t=1515026755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767010/ss_d4a3713211b1dad897237262b9ae80c9914dd9e1.600x338.jpg?t=1515026755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767010/ss_204b4be02441e40c6a11b864f419bdf4d743e713.600x338.jpg?t=1515026755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767010/ss_af0eef9c3be54f3c7ff1620badb92b4923428cce.600x338.jpg?t=1515026755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767010/ss_0fa1fa6e951f47f99109fa03b88ba214b3676097.600x338.jpg?t=1515026755",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767010/ss_bf19acaa7c05662b6b2059ff8fc6d46c807243c0.600x338.jpg?t=1515026755"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >The Gameplay</h2><br>The gameplay is a fun mix of puzzle game and arcade style.<br><br>At the start of each level you need to build missing parts of the terrain by creating algebraic equations. This feature lets you choose your path, dodge obstacles, and find hidden items.<br><br>When you are happy with your equations you press start and ride down the level on your vehicle! And of course you can do tricks to score extra experience!<h2 class=\"bb_tag\" >Inspiring Future Engineers</h2><br>Agent X was designed to make learning happen through exploration.<br><br>The player is introduced to the concepts of algebraic equations and how to manipulate them by modifying the terms.<br><br>The simple buttons makes learning the concepts of algebraic equations fun and easy.<h2 class=\"bb_tag\" >The Vehicles</h2><br>Agent X has 10 vehicles that you can unlock with experience points that you gain from collecting items and doing tricks.<br><br>Vehicles have different stats and also design considerations. Explore the different benefits of each vehicle and find the one that best suits your play style!",
-  "about_the_game": "<h2 class=\"bb_tag\" >The Gameplay</h2><br>The gameplay is a fun mix of puzzle game and arcade style.<br><br>At the start of each level you need to build missing parts of the terrain by creating algebraic equations. This feature lets you choose your path, dodge obstacles, and find hidden items.<br><br>When you are happy with your equations you press start and ride down the level on your vehicle! And of course you can do tricks to score extra experience!<h2 class=\"bb_tag\" >Inspiring Future Engineers</h2><br>Agent X was designed to make learning happen through exploration.<br><br>The player is introduced to the concepts of algebraic equations and how to manipulate them by modifying the terms.<br><br>The simple buttons makes learning the concepts of algebraic equations fun and easy.<h2 class=\"bb_tag\" >The Vehicles</h2><br>Agent X has 10 vehicles that you can unlock with experience points that you gain from collecting items and doing tricks.<br><br>Vehicles have different stats and also design considerations. Explore the different benefits of each vehicle and find the one that best suits your play style!",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

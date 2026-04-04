@@ -3,8 +3,8 @@
   "name": "12 Hours",
   "slug": "12-hours",
   "developer": "Barley Entertainment",
-  "publisher": "Barley Entertainment",
-  "release_date": "Nov 9, 2024",
+  "publisher": "",
+  "release_date": "2024-11-09",
   "price_usd": 4.99,
   "genres": [
     "Adventure"
@@ -15,34 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "You’re trapped in an infinite, repeating corridor. If you encounter an anomaly, turn back immediately. Make the right decisions, and time will advance. True exits will appear at 12:00. Remember, you are alone.",
+  "short_description": "You’re trapped in an infinite, repeating corridor. If you encounter an anomaly, turn back immediately. Make the right decisions, and time will advance. True exits will appear at 12:00. Remember, you a",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218080/header.jpg?t=1731219145",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218080/ss_e4ce20880008bddb55d52c48ad9731f27d1abadb.600x338.jpg?t=1731219145",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218080/ss_4e0addfbcebc15750a3c74ab067b97b7fa1bdfba.600x338.jpg?t=1731219145",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218080/ss_f80b453a765c3f9afd752d0e351bf05db03e5625.600x338.jpg?t=1731219145",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218080/ss_a31f88a49db19edd458a2432e33ed1335ae39472.600x338.jpg?t=1731219145",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218080/ss_0f06cbe5ac53e6a7a60c56bb409869d7de5fb1c8.600x338.jpg?t=1731219145"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >A short walking simulator where you explore the environment and decide whether to move forward or turn back.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Expect about 1 hour gameplay to find exit for the first time.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >You’re trapped in an infinite, repeating corridor. Observe and make the right decisions. Everytime you make an correct decision the time will advance for one hour. Otherwise you will be punished in different ways. You will be able to leave the room at 12:00.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >If you have something to tell me, join Discord server</p><p class=\"bb_paragraph\" >https : / / discord.gg / 9A89b6zPsD</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Basic rules:</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >If you see an anormaly, turn back.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >If you don't see anormaly in the corridor, continue moving forward.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Make the decision before battery runs out.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >When you make a correct decision the time will advance for one hour.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >When you make a wrong decision the time will be reset to 0:00.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >In particular, if you missed an anormaly and continue moving forward, the battery life will be damaged and you end up with less time in next round.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >There is no anormaly on 0:00 so that you can use it as a reference.</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >A short walking simulator where you explore the environment and decide whether to move forward or turn back.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Expect about 1 hour gameplay to find exit for the first time.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >You’re trapped in an infinite, repeating corridor. Observe and make the right decisions. Everytime you make an correct decision the time will advance for one hour. Otherwise you will be punished in different ways. You will be able to leave the room at 12:00.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >If you have something to tell me, join Discord server</p><p class=\"bb_paragraph\" >https : / / discord.gg / 9A89b6zPsD</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Basic rules:</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >If you see an anormaly, turn back.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >If you don't see anormaly in the corridor, continue moving forward.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Make the decision before battery runs out.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >When you make a correct decision the time will advance for one hour.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >When you make a wrong decision the time will be reset to 0:00.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >In particular, if you missed an anormaly and continue moving forward, the battery life will be damaged and you end up with less time in next round.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >There is no anormaly on 0:00 so that you can use it as a reference.</p>",
-  "supported_languages": "English, Japanese, Simplified Chinese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Bunny's Flowers",
   "slug": "bunnys-flowers",
   "developer": "zuza",
-  "publisher": "zuza",
-  "release_date": "Mar 15, 2021",
+  "publisher": "",
+  "release_date": "2021-03-15",
   "price_usd": 7.99,
   "genres": [
     "Indie"
@@ -17,56 +17,27 @@
   ],
   "short_description": "A cute puzzle game about taking a trip to your grandma.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375480/header.jpg?t=1674045735",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375480/ss_92e11c3cd28d6fb334297282a7c07cbbd389632d.600x338.jpg?t=1674045735",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375480/ss_9d198f71c98f7141db4a25751dbefdaa8de22d6c.600x338.jpg?t=1674045735",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375480/ss_e118ab2e9b6299703c627b72c8707884826eabc5.600x338.jpg?t=1674045735",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375480/ss_54a7c3af37455ddb73fe41df1cbdcbda18e196ed.600x338.jpg?t=1674045735",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375480/ss_8fe39d69a94fda4386baffde82f3021bf17a8549.600x338.jpg?t=1674045735",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375480/ss_e1709fcbefb77e02f93edc6ef2f0a2801f63657a.600x338.jpg?t=1674045735"
-  ],
-  "detailed_description": "Bunny’s Flowers is a cute, wholesome puzzle game about taking a trip to your grandma's house. Overcome box-pushing challenges using your mysterious magical power.<br><br><br><strong>Features</strong><br><br><ul class=\"bb_ul\"><li> Unique puzzle-solving mechanic<br></li><li> Adorable minimalist artstyle<br></li><li> Calming soundtrack<br></li><li> Talking animal friends who live in their lil houses</li></ul>",
-  "about_the_game": "Bunny’s Flowers is a cute, wholesome puzzle game about taking a trip to your grandma's house. Overcome box-pushing challenges using your mysterious magical power.<br><br><br><strong>Features</strong><br><br><ul class=\"bb_ul\"><li> Unique puzzle-solving mechanic<br></li><li> Adorable minimalist artstyle<br></li><li> Calming soundtrack<br></li><li> Talking animal friends who live in their lil houses</li></ul>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
-  "gem_score": 0.7862,
+  "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 3.7,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "tracked",
   "review_count": 74,
-  "review_positive": 73,
+  "review_positive": 0,
   "review_percentage": 98.6,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 75,
-      "review_percentage": 98.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 74,
       "review_percentage": 98.6,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "KLAWS",
   "slug": "klaws",
   "developer": "Night Drive Interactive",
-  "publisher": "Night Drive Interactive",
-  "release_date": "Jan 10, 2025",
+  "publisher": "",
+  "release_date": "2025-01-10",
   "price_usd": 1.99,
   "genres": [
     "Action",
@@ -23,33 +23,15 @@
   ],
   "short_description": "Embark on a chilling adventure through a mysterious forest on a cold Christmas Eve night, searching for ornaments to decorate a Christmas tree. But beware—something lurks in the  snowy darkness…",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403880/header.jpg?t=1736548961",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403880/ss_459a13cdc792ece2a43c5ba7c1b24fa750711dd8.600x338.jpg?t=1736548961",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403880/ss_d950712fe121bb0fac6af0d663555ce5772918fd.600x338.jpg?t=1736548961",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403880/ss_6fea323b0f41369cb64918589bbefc073c06c303.600x338.jpg?t=1736548961",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403880/ss_ba4c95c27d8b6e8f6682b26e220d045f0c41ee0e.600x338.jpg?t=1736548961",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403880/ss_545d4335ae26e05d28c02fbaa9a0d3abdac24e8b.600x338.jpg?t=1736548961",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403880/ss_827155d85f2611210560333b930493cd0e64b600.600x338.jpg?t=1736548961"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" >Embark on a chilling adventure through a mysterious forest on a cold Christmas Eve night, searching for ornaments to decorate a Christmas tree. But beware—something lurks in the  snowy darkness…</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Realistic graphics, viewed through the lens of a retro home video camera, create an immersive and chilling experience.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >This is a short, Christmas-themed horror game I created for the holiday season. I hope you find it both festive and fun! It’s built using the same framework as my other game, <i>Backrooms: The Project</i>. This will help speed up development for that title and help me optimize it for the Steam Deck.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Have fun, and don't get lost in the forest!</p>",
-  "about_the_game": "<p class=\"bb_paragraph\" >Embark on a chilling adventure through a mysterious forest on a cold Christmas Eve night, searching for ornaments to decorate a Christmas tree. But beware—something lurks in the  snowy darkness…</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Realistic graphics, viewed through the lens of a retro home video camera, create an immersive and chilling experience.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >This is a short, Christmas-themed horror game I created for the holiday season. I hope you find it both festive and fun! It’s built using the same framework as my other game, <i>Backrooms: The Project</i>. This will help speed up development for that title and help me optimize it for the Steam Deck.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Have fun, and don't get lost in the forest!</p>",
-  "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0008,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 9.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
+  "classification": "new_release",
   "review_count": 40,
-  "review_positive": 35,
+  "review_positive": 0,
   "review_percentage": 87.5,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -57,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 31,
-      "review_percentage": 87.1,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-27",
+      "date": "2026-04-04",
       "review_count": 40,
       "review_percentage": 87.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

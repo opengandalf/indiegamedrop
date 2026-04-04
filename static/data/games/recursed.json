@@ -3,8 +3,8 @@
   "name": "Recursed",
   "slug": "recursed",
   "developer": "Portponky",
-  "publisher": "Shambles Software",
-  "release_date": "Sep 30, 2016",
+  "publisher": "",
+  "release_date": "2016-09-30",
   "price_usd": 1.99,
   "genres": [
     "Adventure",
@@ -21,67 +21,27 @@
   ],
   "short_description": "A puzzle game where the rooms are items and the items are rooms. Get to the goal by moving, rearranging and duplicating rooms and altering the structure of the world.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/497780/header.jpg?t=1745879407",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/497780/ss_4a8bda8795d87e8eb6f4ec47c37d781390328dc2.600x338.jpg?t=1745879407",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/497780/ss_3f9406a04b2be61eec1ffcfd60dbe439dd1d561e.600x338.jpg?t=1745879407",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/497780/ss_dca5433d81db2ba254cdbf43f89b9fb772407dc8.600x338.jpg?t=1745879407",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/497780/ss_42533f3e18e89191b8e38f9a44d7e66f90d9cae6.600x338.jpg?t=1745879407",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/497780/ss_7baf005fef6e56facb6cb56edbae60e4729d7fe4.600x338.jpg?t=1745879407",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/497780/ss_809332c44bdacb014d2531260a572b85b6f13c6f.600x338.jpg?t=1745879407",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/497780/ss_c1712eb19e362293e1c2d99e2e06084601a3b245.600x338.jpg?t=1745879407",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/497780/ss_c0c14998bef66a9aa493bc97cf67a65927603a8e.600x338.jpg?t=1745879407"
-  ],
-  "detailed_description": "<strong>Recursed</strong> is a 2D puzzle-platform game where the structure of the world can be twisted. Stack up boxes and use keys to unlock doors to get the crystal at the end of each level. Jump into chests to enter other rooms, or pick up the chests and move the rooms around. Duplicate, destroy or alter the structure of the level to solve the puzzles.<br><br>There's no way to die, no enemies to fight and no holes to fall in or spikes to hit. The only tool you need is logic.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Over <strong>60</strong> levels with hundreds of rooms.<br></li><li>Hidden bonus puzzles.<br></li><li>An extensive, atmospheric soundtrack.<br></li><li>Large amounts of acid.<br></li><li>Several sound effects.<br></li><li>Graphics.</li></ul>",
-  "about_the_game": "<strong>Recursed</strong> is a 2D puzzle-platform game where the structure of the world can be twisted. Stack up boxes and use keys to unlock doors to get the crystal at the end of each level. Jump into chests to enter other rooms, or pick up the chests and move the rooms around. Duplicate, destroy or alter the structure of the level to solve the puzzles.<br><br>There's no way to die, no enemies to fight and no holes to fall in or spikes to hit. The only tool you need is logic.<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>Over <strong>60</strong> levels with hundreds of rooms.<br></li><li>Hidden bonus puzzles.<br></li><li>An extensive, atmospheric soundtrack.<br></li><li>Large amounts of acid.<br></li><li>Several sound effects.<br></li><li>Graphics.</li></ul>",
-  "supported_languages": "English<strong>*</strong>, French, German, Czech, Spanish - Spain, Polish, Russian, Korean, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Trading Cards",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 600,
+  "screenshots": [],
   "rising_score": 0.0003,
   "gem_score": 0.4566,
   "hype_score": 0.0,
-  "review_velocity_7d": 54.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 634,
-  "review_positive": 616,
+  "review_positive": 0,
   "review_percentage": 97.2,
   "owner_estimate": 35000,
-  "ccu_estimate": 5,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 138,
-  "gem_tier": "proven",
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 580,
-      "review_percentage": 97.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 634,
       "review_percentage": 97.2,
       "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
-      "review_count": 634,
-      "review_percentage": 97.2,
-      "ccu_estimate": 5,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

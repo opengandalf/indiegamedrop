@@ -3,8 +3,8 @@
   "name": "DrugRunner",
   "slug": "drugrunner",
   "developer": "STuNT",
-  "publisher": "STuNT",
-  "release_date": "Nov 8, 2022",
+  "publisher": "",
+  "release_date": "2022-11-08",
   "price_usd": 0.49,
   "genres": [
     "Sports"
@@ -15,34 +15,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Drug Runner is a 3D game in which you have to run along the road and dodge obstacles, on the way collecting bonuses and coins that give you points. If you can jump over the barrier by pressing the \"space bar\".",
+  "short_description": "Drug Runner is a 3D game in which you have to run along the road and dodge obstacles, on the way collecting bonuses and coins that give you points. If you can jump over the barrier by pressing the &qu",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2197000/header.jpg?t=1701315820",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2197000/ss_8c6e2545420b9d29f896f59e9eef6f2855504be0.600x338.jpg?t=1701315820",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2197000/ss_634b32b054391c5de2aa3ca1dfb94ddb48db14f5.600x338.jpg?t=1701315820",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2197000/ss_2cb1e77654858e810aac4e1df2792bb8f8dfe552.600x338.jpg?t=1701315820",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2197000/ss_0b2e19624197d30b95ec53dc685c70671a5827de.600x338.jpg?t=1701315820",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2197000/ss_c5bd6141e0ca41c5dffb2ab75a61b9e6769c5cc7.600x338.jpg?t=1701315820"
-  ],
-  "detailed_description": "Drug Runner is a 3D game in which you have to run along the road and dodge obstacles, on the way collecting bonuses and coins that give you points. If you can jump over the barrier by pressing the \"space bar\", the billboards with messages about the dangers of smoking you must avoid, any collision with the shield will be the end of the game and have to start again. The game has many graphics settings that you can make to suit you for a comfortable game.<br />\r\nSpace bar - jump<br />\r\ncontrols - WSAD<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n- nice graphics;<br />\r\n- simple controls;<br />\r\n- interesting gameplay;<br />\r\n- light music;<br />\r\n- unforgettable adventures;",
-  "about_the_game": "Drug Runner is a 3D game in which you have to run along the road and dodge obstacles, on the way collecting bonuses and coins that give you points. If you can jump over the barrier by pressing the \"space bar\", the billboards with messages about the dangers of smoking you must avoid, any collision with the shield will be the end of the game and have to start again. The game has many graphics settings that you can make to suit you for a comfortable game.<br />\r\nSpace bar - jump<br />\r\ncontrols - WSAD<br />\r\n<br />\r\nFeatures:<br />\r\n<br />\r\n- nice graphics;<br />\r\n- simple controls;<br />\r\n- interesting gameplay;<br />\r\n- light music;<br />\r\n- unforgettable adventures;",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.30000000000000004,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 6,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -50,19 +33,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 6,
-      "review_percentage": 66.7,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

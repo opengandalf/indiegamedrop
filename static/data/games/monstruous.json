@@ -3,8 +3,8 @@
   "name": "Monstruous",
   "slug": "monstruous",
   "developer": "Arnaud Millot",
-  "publisher": "Arnaud Millot",
-  "release_date": "Dec 15, 2019",
+  "publisher": "",
+  "release_date": "2019-12-15",
   "price_usd": 0.0,
   "genres": [
     "Casual",
@@ -21,52 +21,27 @@
   ],
   "short_description": "a short (about 20-30 min long) but epic animated puzzle game !",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169420/header.jpg?t=1711627509",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169420/ss_af78b7d4ef4ea50fc5698afdb1320e05e737ee9d.600x338.jpg?t=1711627509",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169420/ss_013d6356dbaf1ccb640fff4cf91263ff00c8fb9e.600x338.jpg?t=1711627509",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169420/ss_c5ecedff8f7594e2cfbe222e78abf82f37bc0bb7.600x338.jpg?t=1711627509",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169420/ss_d97afc2a1779eb88e83feffd4984442129cf9b1a.600x338.jpg?t=1711627509",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1169420/ss_1c0995963e7d3ffda808b56f8c7f0fd36a60ca77.600x338.jpg?t=1711627509"
-  ],
-  "detailed_description": "Monstrüous is a puzzle game in which you have to figure out in which order to use 8 actions to kill the monstruous creature. It usually takes about 20-30 min to complete the game. No crazy gaming skills required, it's the perfect game to play with your non-gamer friends or family !",
-  "about_the_game": "Monstrüous is a puzzle game in which you have to figure out in which order to use 8 actions to kill the monstruous creature. It usually takes about 20-30 min to complete the game. No crazy gaming skills required, it's the perfect game to play with your non-gamer friends or family !",
-  "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.001,
   "gem_score": 0.8316,
   "hype_score": 0.0,
-  "review_velocity_7d": 9.0,
+  "review_velocity_7d": 0.0,
   "follower_velocity_7d": 0.0,
-  "classification": "hidden_gem",
+  "classification": "new_release",
   "review_count": 46,
-  "review_positive": 44,
+  "review_positive": 0,
   "review_percentage": 95.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
-  "gem_tier": "early",
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 37,
-      "review_percentage": 97.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 46,
       "review_percentage": 95.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

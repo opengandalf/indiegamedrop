@@ -3,8 +3,8 @@
   "name": "Connectify",
   "slug": "connectify",
   "developer": "NikiGames",
-  "publisher": "NikiGames",
-  "release_date": "Dec 10, 2021",
+  "publisher": "",
+  "release_date": "2021-12-10",
   "price_usd": 0.59,
   "genres": [
     "Casual",
@@ -19,34 +19,15 @@
   ],
   "short_description": "Welcome to the Connectify puzzle! The object of the game is to connect dots with the same numbers in a line without crossing other lines.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1821150/header.jpg?t=1698092126",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1821150/ss_60736f83abab7a7f706a22d81df8a26b4d605501.600x338.jpg?t=1698092126",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1821150/ss_9936d1b99dff8014ffced206118ea25850a274cf.600x338.jpg?t=1698092126",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1821150/ss_4fc9abe7eab528fb41551c8762214b913a5cd0cb.600x338.jpg?t=1698092126",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1821150/ss_9ae03a18564d3268a8e45c5d3eec9b8dbac7e41f.600x338.jpg?t=1698092126",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1821150/ss_db68db053009ec186e7b22d623b7c76e7393582b.600x338.jpg?t=1698092126",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1821150/ss_52b24ea1f187b789f4b71465488f4695261a1d82.600x338.jpg?t=1698092126"
-  ],
-  "detailed_description": "Welcome to the Connectify puzzle! The object of the game is to connect dots with the same numbers in a line without crossing other lines. For an easy game, a 3x3 playing field is available, and for fans of complex riddles there is a 6x6 field. If the field is larger, then there will be more points to connect.<br />\r\n<br />\r\nThe game records your time to reward you with stars. If you complete the puzzle faster, than you can get more stars.",
-  "about_the_game": "Welcome to the Connectify puzzle! The object of the game is to connect dots with the same numbers in a line without crossing other lines. For an easy game, a 3x3 playing field is available, and for fans of complex riddles there is a 6x6 field. If the field is larger, then there will be more points to connect.<br />\r\n<br />\r\nThe game records your time to reward you with stars. If you complete the puzzle faster, than you can get more stars.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 1.0,
+  "review_velocity_7d": 0.30000000000000004,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 6,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 66.7,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -54,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 5,
-      "review_percentage": 60.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 6,
       "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

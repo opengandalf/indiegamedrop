@@ -3,8 +3,8 @@
   "name": "Castle of no Escape",
   "slug": "castle-of-no-escape",
   "developer": "Xitilon, Esdeer",
-  "publisher": "Xitilon",
-  "release_date": "Jun 22, 2017",
+  "publisher": "",
+  "release_date": "2017-06-22",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -21,63 +21,29 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Explore the mysterious castle full of monsters and secrets in a quest to collect all the treasures (that will also protect you from the curses on your way) and crush the main boss. The game won't let you exit the castle, no matter how you try. Technically you can win, but there is no end.",
+  "short_description": "Explore the mysterious castle full of monsters and secrets in a quest to collect all the treasures (that will also protect you from the curses on your way) and crush the main boss. The game won't let ",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/635060/header.jpg?t=1755690720",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/635060/ss_349317285d2ac161aa98490f51d4dfc3a46f4ebd.600x338.jpg?t=1755690720",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/635060/ss_6ebcb986b48d2b475b15e376bc3e3fdee8dfb27d.600x338.jpg?t=1755690720",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/635060/ss_2dd094b1171ef823404de116a38ef9d9d7060b53.600x338.jpg?t=1755690720",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/635060/ss_5df0788003f69f7ec3853a31f9a1b5cf1cd50929.600x338.jpg?t=1755690720",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/635060/ss_718a4fa40e46dac65cfa266cdacde26c40259163.600x338.jpg?t=1755690720",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/635060/ss_ca3ddcb4a0297625baf0a2b604078040e1c06d36.600x338.jpg?t=1755690720"
-  ],
-  "detailed_description": "\"CRAWL THE DUNGEONS AT YOUR HOME TV!\"<br />\r\n\"ULTRA 8-BIT CASTLE ACTION\"<br />\r\n\"UNLEASH YOUR INNER NIKOLAI\"<br />\r\n\"MULTI STEREO GRAPHICS RESOLUTION!!!\"<br />\r\n\"SECTOR-EFFECTOR 1.21 GIGAWATT SUPERSOUND!!!\"<br />\r\n<br />\r\nTHE GAME<br />\r\n<br />\r\nExplore the mysterious castle full of monsters and secrets in a quest to collect all the treasures (that will also protect you from the curses on your way) and crush the main boss. The game won't let you exit the castle, no matter how you try. Technically you can win, but there is no end.<br />\r\n<br />\r\nCONTROLS<br />\r\n<br />\r\nPress Enter to start the game<br />\r\n<br />\r\nPress 1, 2 or 3 to select a hero<br />\r\n<br />\r\nStrength, Intelligence and Dexterity at the hero selection screen are the maximal values which that hero can get. Strength is both for life and attack power, intelligence is both for mana and spell power. Dexterity affects your attack and defence accuracy.<br />\r\n<br />\r\nYou lose the game when either of those parameters gets below zero!<br />\r\n<br />\r\nON THE MAP<br />\r\n<br />\r\nArrow keys to walk around<br />\r\nZ or Enter to perform action (attack, open chest, read book, buy potions, use the stairs, gaze into an orb, drink from a pool)<br />\r\nX or Space to cast spells in battle or to light a flare otherwise<br />\r\n1, 2 or 3 to select a potion to buy or a spell to use<br />\r\nPress M to turn background music on/off<br />\r\n<br />\r\nARTEFACTS AND CURSES<br />\r\n<br />\r\nOpal VS Blindness - you forget the map and don't see any new rooms, flares become useless<br />\r\nPearl VS Forgetfulness - you don't remember where have you been before<br />\r\nRuby VS Lethargy - monsters get the first turn to attack<br />\r\nDiamond VS Weakness - you lose 1 strength point every 20 turns<br />\r\nEmerald VS Bad luck - your minimal attack power drop to 1 instead of 50% of strength value<br />\r\nBlue Fire VS Bookstuck - book sticks to your hands and you can't attack anyone in this state<br />\r\nSign VS everything except Bookstuck<br />\r\n<br />\r\nSPELLS<br />\r\n<br />\r\nWeb prevents the monster from attacking and lasts 0-3 turns. Costs 1 point of intelligence.<br />\r\nFireball is obvious enough. Costs 2 points of intelligence.<br />\r\nIQ instantly kills your opponent if it's intelligence is less than yours. Otherwise, you lose. This spell doesn't spend anything.<br />\r\n<br />\r\nPROGRAMS USED<br />\r\n<br />\r\nGame Maker 8.1 Standard<br />\r\nsfxr/bfxr<br />\r\nFamiTracker<br />\r\nFruityLoops<br />\r\nNotepad (obviously, for Readme.txt)<br />\r\nMS Paint<br />\r\n<br />\r\nCREDITS<br />\r\n<br />\r\nXitilon.HD408 - game design/adaptation, programming, sound generation<br />\r\nEsdeer aka BSOD - graphics, music, sound design, testing<br />\r\nInspired by Leygref's Castle etc.",
-  "about_the_game": "\"CRAWL THE DUNGEONS AT YOUR HOME TV!\"<br />\r\n\"ULTRA 8-BIT CASTLE ACTION\"<br />\r\n\"UNLEASH YOUR INNER NIKOLAI\"<br />\r\n\"MULTI STEREO GRAPHICS RESOLUTION!!!\"<br />\r\n\"SECTOR-EFFECTOR 1.21 GIGAWATT SUPERSOUND!!!\"<br />\r\n<br />\r\nTHE GAME<br />\r\n<br />\r\nExplore the mysterious castle full of monsters and secrets in a quest to collect all the treasures (that will also protect you from the curses on your way) and crush the main boss. The game won't let you exit the castle, no matter how you try. Technically you can win, but there is no end.<br />\r\n<br />\r\nCONTROLS<br />\r\n<br />\r\nPress Enter to start the game<br />\r\n<br />\r\nPress 1, 2 or 3 to select a hero<br />\r\n<br />\r\nStrength, Intelligence and Dexterity at the hero selection screen are the maximal values which that hero can get. Strength is both for life and attack power, intelligence is both for mana and spell power. Dexterity affects your attack and defence accuracy.<br />\r\n<br />\r\nYou lose the game when either of those parameters gets below zero!<br />\r\n<br />\r\nON THE MAP<br />\r\n<br />\r\nArrow keys to walk around<br />\r\nZ or Enter to perform action (attack, open chest, read book, buy potions, use the stairs, gaze into an orb, drink from a pool)<br />\r\nX or Space to cast spells in battle or to light a flare otherwise<br />\r\n1, 2 or 3 to select a potion to buy or a spell to use<br />\r\nPress M to turn background music on/off<br />\r\n<br />\r\nARTEFACTS AND CURSES<br />\r\n<br />\r\nOpal VS Blindness - you forget the map and don't see any new rooms, flares become useless<br />\r\nPearl VS Forgetfulness - you don't remember where have you been before<br />\r\nRuby VS Lethargy - monsters get the first turn to attack<br />\r\nDiamond VS Weakness - you lose 1 strength point every 20 turns<br />\r\nEmerald VS Bad luck - your minimal attack power drop to 1 instead of 50% of strength value<br />\r\nBlue Fire VS Bookstuck - book sticks to your hands and you can't attack anyone in this state<br />\r\nSign VS everything except Bookstuck<br />\r\n<br />\r\nSPELLS<br />\r\n<br />\r\nWeb prevents the monster from attacking and lasts 0-3 turns. Costs 1 point of intelligence.<br />\r\nFireball is obvious enough. Costs 2 points of intelligence.<br />\r\nIQ instantly kills your opponent if it's intelligence is less than yours. Otherwise, you lose. This spell doesn't spend anything.<br />\r\n<br />\r\nPROGRAMS USED<br />\r\n<br />\r\nGame Maker 8.1 Standard<br />\r\nsfxr/bfxr<br />\r\nFamiTracker<br />\r\nFruityLoops<br />\r\nNotepad (obviously, for Readme.txt)<br />\r\nMS Paint<br />\r\n<br />\r\nCREDITS<br />\r\n<br />\r\nXitilon.HD408 - game design/adaptation, programming, sound generation<br />\r\nEsdeer aka BSOD - graphics, music, sound design, testing<br />\r\nInspired by Leygref's Castle etc.",
-  "supported_languages": "English, Russian, Ukrainian",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Trading Cards",
-    "Partial Controller Support"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 108,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 11.0,
+  "review_velocity_7d": 8.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 162,
-  "review_positive": 109,
+  "review_positive": 0,
   "review_percentage": 67.3,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 155,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 151,
-      "review_percentage": 67.5,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 162,
-      "review_percentage": 67.3,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-25",
+      "date": "2026-04-04",
       "review_count": 162,
       "review_percentage": 67.3,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Espresso Tycoon",
   "slug": "espresso-tycoon",
   "developer": "DreamWay Games",
-  "publisher": "PlayWay S.A.",
-  "release_date": "Jun 7, 2023",
+  "publisher": "",
+  "release_date": "2023-06-07",
   "price_usd": 3.59,
   "genres": [
     "Simulation",
@@ -17,59 +17,17 @@
   "platforms": [
     "windows"
   ],
-  "short_description": "Espresso Tycoon - a coffee shop simulator. Create your brand, decorate the coffee shop, manage your employees, and take care of your customers. Use the 3D coffee editor to create coffee recipes, order supplies, and collect rating points. Build the whole coffee business and complete all the missions!",
+  "short_description": "Espresso Tycoon - a coffee shop simulator. Create your brand, decorate the coffee shop, manage your employees, and take care of your customers. Use the 3D coffee editor to create coffee recipes, order",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/header.jpg?t=1773390400",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/7fff14d2727ff6e8f786ca14b0d6ac46f824ce73/ss_7fff14d2727ff6e8f786ca14b0d6ac46f824ce73.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/a26c0cc15b0216fbf5908ee3681a85f405e8072c/ss_a26c0cc15b0216fbf5908ee3681a85f405e8072c.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/43ea9bcef02226b2be495208f8b21c2b7d3c7d15/ss_43ea9bcef02226b2be495208f8b21c2b7d3c7d15.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/ss_a304b2dd25c5ed18ca5ae835bdea934b06c8fd93.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/c0ffe66cb6bfc27b57e0ca46bfacd843d0857ded/ss_c0ffe66cb6bfc27b57e0ca46bfacd843d0857ded.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/ss_5922757ca053f57d5a183e877e22dd3f13d423ab.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/f9b5b6467227503fc03f5d72ba23060948fc53df/ss_f9b5b6467227503fc03f5d72ba23060948fc53df.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/654f6c0c9c434567ab2c639050b49e8f9a226c03/ss_654f6c0c9c434567ab2c639050b49e8f9a226c03.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/3df8716d192038410423c0d863185a30161d4049/ss_3df8716d192038410423c0d863185a30161d4049.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/ebc41932b6c9a80d9db058705ddaa63e8772a05e/ss_ebc41932b6c9a80d9db058705ddaa63e8772a05e.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/ss_7c6500c59f218d3e7e996b971942ac57649e49a7.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/2a4fe1e28011812b6ecae9598d6901086e172076/ss_2a4fe1e28011812b6ecae9598d6901086e172076.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/f6d18df27410bd050d98542b341185779a179b72/ss_f6d18df27410bd050d98542b341185779a179b72.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/0e13ef6dcc55b66389a3e4aa5dd7e37c10f2390c/ss_0e13ef6dcc55b66389a3e4aa5dd7e37c10f2390c.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/14f9ea8efedf82364070435d35d80a7edd987872/ss_14f9ea8efedf82364070435d35d80a7edd987872.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/3462940baff73385ba7497f34b97040376d5a06b/ss_3462940baff73385ba7497f34b97040376d5a06b.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/ss_62c57f7aacc09ecc2bb898dd7e4b720a0b71b077.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/c13df2ebe6d43edf9b579c87ae5d5d88bb00719f/ss_c13df2ebe6d43edf9b579c87ae5d5d88bb00719f.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/3b81696f04897c0c1396338b1854296a2bd344b9/ss_3b81696f04897c0c1396338b1854296a2bd344b9.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/192b2240fe7a1e389b366e9b14112d637c1dfa9b/ss_192b2240fe7a1e389b366e9b14112d637c1dfa9b.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/d2fcedc4ba8c5d571f871621ab2faf6c0a38638c/ss_d2fcedc4ba8c5d571f871621ab2faf6c0a38638c.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/4133174956561d39a832181c526f8f0f486bf44a/ss_4133174956561d39a832181c526f8f0f486bf44a.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/ss_cd4d55f52ec98e503dabb422f98dfa5bd599bb9f.600x338.jpg?t=1773390400",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/6bf19b0804ff535ae99046343463ed0ee7007bee/ss_6bf19b0804ff535ae99046343463ed0ee7007bee.600x338.jpg?t=1773390400"
-  ],
-  "detailed_description": "<p class=\"bb_paragraph\" ><strong>Espresso Tycoon</strong> is a brand-new approach to the old classic tycoon games you remember from your childhood. Build a <strong>coffee shop</strong> from your dreams, where your customers can relax and drink delicious coffee. Deal with the emotional rollercoaster and <strong>build a successful coffee business</strong>. <br> <br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/ccdc33e0c55101486517a4e7d2ec4a63.poster.avif?t=1773390400\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/ccdc33e0c55101486517a4e7d2ec4a63.webm?t=1773390400\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/ccdc33e0c55101486517a4e7d2ec4a63.mp4?t=1773390400\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Just imagine… you’re the boss here! Feel like the real <strong>cafe owner</strong>, an <strong>empire builder</strong>, and create the whole strategy, which includes: </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >decorating </p></li><li><p class=\"bb_paragraph\" >hiring and managing employees </p></li><li><p class=\"bb_paragraph\" >taking care of the supply chain </p></li><li><p class=\"bb_paragraph\" >analyzing the budget </p></li><li><p class=\"bb_paragraph\" >advertising your coffee shop </p></li><li><p class=\"bb_paragraph\" >and, what’s most important, keeping your customers happy <br> </p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/4e53e5ef3ef177c24aceed9fed85969f.poster.avif?t=1773390400\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/4e53e5ef3ef177c24aceed9fed85969f.webm?t=1773390400\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/4e53e5ef3ef177c24aceed9fed85969f.mp4?t=1773390400\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >You have your favorite <strong>coffee</strong>, right? So do your customers. Do the <strong>market research</strong> to find out their preferences. Use a <strong>3D coffee editor</strong> to make different recipes to delight them. You can combine multiple ingredients in a very creative way.  </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/ca756f2350f0fe030695e0fdfb1f9dee.poster.avif?t=1773390400\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/ca756f2350f0fe030695e0fdfb1f9dee.webm?t=1773390400\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/ca756f2350f0fe030695e0fdfb1f9dee.mp4?t=1773390400\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Start, build and develop your <strong>coffee shop</strong>. Check your budget - do you have enough money to invest, or will you have to make some cuts? Decide where and when you want to start your new <strong>coffee business</strong>. Hire (or fire) a barista, do the marketing campaign, create a relaxing place, and collect the rating points. </p><p class=\"bb_paragraph\" ><strong>Complete all the missions!</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/2c057a65760f448a4d12ce126cad27a1.poster.avif?t=1773390400\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/2c057a65760f448a4d12ce126cad27a1.webm?t=1773390400\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/2c057a65760f448a4d12ce126cad27a1.mp4?t=1773390400\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Immerse yourself in the new coffee shop simulator. Build the best café in the city. Create, customize, sell snacks, cookie, and manage baristas – all of that in the new coffee shop simulation game. Become the coffee tycoon, don't feel stray, build the circle of trust with your customers, cross the frontier, and create the whole empire - the best on the planet! </p><p class=\"bb_paragraph\" ></p>",
-  "about_the_game": "<p class=\"bb_paragraph\" ><strong>Espresso Tycoon</strong> is a brand-new approach to the old classic tycoon games you remember from your childhood. Build a <strong>coffee shop</strong> from your dreams, where your customers can relax and drink delicious coffee. Deal with the emotional rollercoaster and <strong>build a successful coffee business</strong>. <br> <br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/ccdc33e0c55101486517a4e7d2ec4a63.poster.avif?t=1773390400\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/ccdc33e0c55101486517a4e7d2ec4a63.webm?t=1773390400\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/ccdc33e0c55101486517a4e7d2ec4a63.mp4?t=1773390400\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Just imagine… you’re the boss here! Feel like the real <strong>cafe owner</strong>, an <strong>empire builder</strong>, and create the whole strategy, which includes: </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >decorating </p></li><li><p class=\"bb_paragraph\" >hiring and managing employees </p></li><li><p class=\"bb_paragraph\" >taking care of the supply chain </p></li><li><p class=\"bb_paragraph\" >analyzing the budget </p></li><li><p class=\"bb_paragraph\" >advertising your coffee shop </p></li><li><p class=\"bb_paragraph\" >and, what’s most important, keeping your customers happy <br> </p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/4e53e5ef3ef177c24aceed9fed85969f.poster.avif?t=1773390400\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/4e53e5ef3ef177c24aceed9fed85969f.webm?t=1773390400\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/4e53e5ef3ef177c24aceed9fed85969f.mp4?t=1773390400\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >You have your favorite <strong>coffee</strong>, right? So do your customers. Do the <strong>market research</strong> to find out their preferences. Use a <strong>3D coffee editor</strong> to make different recipes to delight them. You can combine multiple ingredients in a very creative way.  </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/ca756f2350f0fe030695e0fdfb1f9dee.poster.avif?t=1773390400\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/ca756f2350f0fe030695e0fdfb1f9dee.webm?t=1773390400\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/ca756f2350f0fe030695e0fdfb1f9dee.mp4?t=1773390400\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Start, build and develop your <strong>coffee shop</strong>. Check your budget - do you have enough money to invest, or will you have to make some cuts? Decide where and when you want to start your new <strong>coffee business</strong>. Hire (or fire) a barista, do the marketing campaign, create a relaxing place, and collect the rating points. </p><p class=\"bb_paragraph\" ><strong>Complete all the missions!</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/2c057a65760f448a4d12ce126cad27a1.poster.avif?t=1773390400\" width=800 height=450 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/2c057a65760f448a4d12ce126cad27a1.webm?t=1773390400\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1543280/extras/2c057a65760f448a4d12ce126cad27a1.mp4?t=1773390400\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Immerse yourself in the new coffee shop simulator. Build the best café in the city. Create, customize, sell snacks, cookie, and manage baristas – all of that in the new coffee shop simulation game. Become the coffee tycoon, don't feel stray, build the circle of trust with your customers, cross the frontier, and create the whole empire - the best on the planet! </p><p class=\"bb_paragraph\" ></p>",
-  "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Simplified Chinese, Polish, Portuguese - Brazil, Russian, Italian, Japanese, Korean, Dutch, Turkish, Ukrainian<br><strong>*</strong>languages with full audio support",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Custom Volume Controls",
-    "Adjustable Difficulty",
-    "Save Anytime",
-    "Stereo Sound",
-    "Steam Cloud",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 1120,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0002,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 62.25,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 1245,
-  "review_positive": 1061,
+  "review_positive": 0,
   "review_percentage": 85.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -77,19 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1082,
-      "review_percentage": 86.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1245,
       "review_percentage": 85.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

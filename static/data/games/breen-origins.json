@@ -3,8 +3,8 @@
   "name": "Breen Origins",
   "slug": "breen-origins",
   "developer": "Breen Studios",
-  "publisher": "Breen Studios",
-  "release_date": "Jun 30, 2019",
+  "publisher": "",
+  "release_date": "2019-06-30",
   "price_usd": 0.0,
   "genres": [
     "Action",
@@ -21,42 +21,15 @@
   ],
   "short_description": "Breen Origins is a First Person Shooter set in the near future, and the struggles to survive after the war.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/908030/header.jpg?t=1561963451",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/908030/ss_1d1a1aa308d082cc9c1acd21d916dcfde73a4dbd.600x338.jpg?t=1561963451",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/908030/ss_4fa5452f7ca749f22dcf8fe5c985c9ee29853ea8.600x338.jpg?t=1561963451",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/908030/ss_2d682a79355b9edfd727d517feff28f502e09760.600x338.jpg?t=1561963451",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/908030/ss_dc9c27cf016aa12383e49075c160e977eba5037f.600x338.jpg?t=1561963451",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/908030/ss_f75faefd0421b0912095103c9c8eb9381f17a643.600x338.jpg?t=1561963451",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/908030/ss_efe6fa8f44ee6d59bc162e5eb181721022f339e4.600x338.jpg?t=1561963451",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/908030/ss_9f3eda2ba1428ee2e579e0f4e8caa71c0318f320.600x338.jpg?t=1561963451",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/908030/ss_c5e172482ae37f04e34f3aa23ab9a0af26284600.600x338.jpg?t=1561963451",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/908030/ss_969bac138471b593df16fbcc5a9136fa5584cbaf.600x338.jpg?t=1561963451",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/908030/ss_f28811334621f7d5be37127d14759e0cbbc9412e.600x338.jpg?t=1561963451",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/908030/ss_3f86a62bfba9a96ae2dbb48fac78a09b423336e0.600x338.jpg?t=1561963451",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/908030/ss_e5cdd42a0c42c0f9115114e30c2b37bf0ac5a1ec.600x338.jpg?t=1561963451",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/908030/ss_23f9dc769a2b299d79062cdab83e9bfdad89ef14.600x338.jpg?t=1561963451"
-  ],
-  "detailed_description": "Breen Origins aims to bring a fun experience to the FPS genre. It is a back to basics, boots on the ground game, where the only thing that matters is your skill and how you choose to use it. This is a multiplayer experience where players can play game modes like Gun Race, Team deathmatch, Capture the flag or Free-For-All Modes. <br><br>Breen Origins is built with Unity and will expand throughout the Early Access period.<br><br><strong>\"Never turn your back on a Breen.\"</strong><br><i>—Romulan maxim (DS9 episode: \"By Inferno's Light\")</i>",
-  "about_the_game": "Breen Origins aims to bring a fun experience to the FPS genre. It is a back to basics, boots on the ground game, where the only thing that matters is your skill and how you choose to use it. This is a multiplayer experience where players can play game modes like Gun Race, Team deathmatch, Capture the flag or Free-For-All Modes. <br><br>Breen Origins is built with Unity and will expand throughout the Early Access period.<br><br><strong>\"Never turn your back on a Breen.\"</strong><br><i>—Romulan maxim (DS9 episode: \"By Inferno's Light\")</i>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Multi-player",
-    "PvP",
-    "Online PvP",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 2,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 50.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -64,19 +37,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 2,
-      "review_percentage": 50.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
+      "date": "2026-04-04",
       "review_count": 2,
       "review_percentage": 50.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

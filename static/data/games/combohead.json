@@ -3,8 +3,8 @@
   "name": "COMBOHEAD",
   "slug": "combohead",
   "developer": "namleets",
-  "publisher": "namleets",
-  "release_date": "Apr 5, 2021",
+  "publisher": "",
+  "release_date": "2021-04-05",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -23,36 +23,15 @@
   ],
   "short_description": "An action brick-breaking kicking physics game. Score medals by clearing levels quickly.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1568320/header.jpg?t=1617741302",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1568320/ss_d0da19efe71cd01e43865d60d89f1770d4462f12.600x338.jpg?t=1617741302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1568320/ss_b99de3a5440bfb0b7daf132366168b135e928291.600x338.jpg?t=1617741302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1568320/ss_bb13d8358d6993c8c97818aec80f06054cccf58b.600x338.jpg?t=1617741302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1568320/ss_4171bc687e074d9451c239ab994273d78bd7f570.600x338.jpg?t=1617741302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1568320/ss_f13777dd27aa48a2ffe40056bd26eec99ae83181.600x338.jpg?t=1617741302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1568320/ss_ebad58caaa3f6fbc2f426fbc0e9a7a39ceb25cab.600x338.jpg?t=1617741302"
-  ],
-  "detailed_description": "Part 2D fighter, part block-breaker, in COMBOHEAD you combine mighty kicks, slow motion, and finesse to break all the blocks and clear each level in record time.  The balls simulate gravity and friction, so you'll have to attack relentlessly to keep them going. Play through 50+ levels of increasingly wild mechanics in the campaign, or try for a high score in endless mode.<br><br><strong>Campaign</strong> - Keep the balls going while you fight gravity, wind, chaos, and the timer to score gold on each level.  Use directional strong and weak attacks to place your shots exactly where you want them, while rationing your limited pool of slow motion to perfect your timing.  The farther you go, the more extreme the behavior of both the balls and the levels gets.<br><br><strong>One Bounce Mode</strong> - go for a high score in the more deliberate and skillful endless mode, where the ball can only bounce once before you have to kick it again.  Collect the targets to increase your score.",
-  "about_the_game": "Part 2D fighter, part block-breaker, in COMBOHEAD you combine mighty kicks, slow motion, and finesse to break all the blocks and clear each level in record time.  The balls simulate gravity and friction, so you'll have to attack relentlessly to keep them going. Play through 50+ levels of increasingly wild mechanics in the campaign, or try for a high score in endless mode.<br><br><strong>Campaign</strong> - Keep the balls going while you fight gravity, wind, chaos, and the timer to score gold on each level.  Use directional strong and weak attacks to place your shots exactly where you want them, while rationing your limited pool of slow motion to perfect your timing.  The farther you go, the more extreme the behavior of both the balls and the levels gets.<br><br><strong>One Bounce Mode</strong> - go for a high score in the more deliberate and skillful endless mode, where the ball can only bounce once before you have to kick it again.  Collect the targets to increase your score.",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Leaderboards",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 1,
-  "review_positive": 1,
+  "review_positive": 0,
   "review_percentage": 100.0,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -60,19 +39,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 1,
-      "review_percentage": 100.0,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 1,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

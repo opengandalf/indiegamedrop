@@ -3,8 +3,8 @@
   "name": "rod (removed)",
   "slug": "rod-removed",
   "developer": "AB Studio",
-  "publisher": "AB Studio",
-  "release_date": "Nov 30, 2023",
+  "publisher": "",
+  "release_date": "2023-11-30",
   "price_usd": 0.0,
   "genres": [
     "Free To Play",
@@ -19,27 +19,9 @@
   ],
   "short_description": "",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442910/header.jpg?t=1740622775",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1442910/ss_c94dc6c8c44214175a1e435b39c4601012759118.600x338.jpg?t=1740622775"
-  ],
-  "detailed_description": "",
-  "about_the_game": "",
-  "supported_languages": "",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 109,
-  "rising_score": 0.0,
-  "gem_score": 0.0,
-  "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
-  "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "screenshots": [],
   "review_count": 326,
-  "review_positive": 193,
+  "review_positive": 0,
   "review_percentage": 59.2,
   "owner_estimate": 0,
   "ccu_estimate": 0,
@@ -47,19 +29,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 325,
-      "review_percentage": 59.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-24",
+      "date": "2026-04-04",
       "review_count": 326,
       "review_percentage": 59.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

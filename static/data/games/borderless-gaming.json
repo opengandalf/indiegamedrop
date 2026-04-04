@@ -3,8 +3,8 @@
   "name": "Borderless Gaming",
   "slug": "borderless-gaming",
   "developer": "AndrewMD5",
-  "publisher": "Codeusa, viorae",
-  "release_date": "Jul 23, 2015",
+  "publisher": "",
+  "release_date": "2015-07-23",
   "price_usd": 3.49,
   "genres": [
     "Action",
@@ -20,62 +20,27 @@
   ],
   "short_description": "Borderless Gaming: Seamlessly play games in borderless full-screen mode for uninterrupted gaming and effortless multitasking.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388080/1be19585edd27158ff8d7f60f7557665671a09be/header.jpg?t=1772425749",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388080/40f9f0b046eba6f6d07451f408ee67248b065582/ss_40f9f0b046eba6f6d07451f408ee67248b065582.600x338.jpg?t=1772425749",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388080/5e7630f7bae68125c8ec32306d2759fccd1811df/ss_5e7630f7bae68125c8ec32306d2759fccd1811df.600x338.jpg?t=1772425749",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388080/55b3d6833fa9776a4bb69b9da4f380f380fd566b/ss_55b3d6833fa9776a4bb69b9da4f380f380fd566b.600x338.jpg?t=1772425749",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388080/58aa0b2af6417ec5448ba62c32336ad49f5b0cc1/ss_58aa0b2af6417ec5448ba62c32336ad49f5b0cc1.600x338.jpg?t=1772425749",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388080/9054c2028e97884c0639c85edc9bc8e1379f4f02/ss_9054c2028e97884c0639c85edc9bc8e1379f4f02.600x338.jpg?t=1772425749"
-  ],
-  "detailed_description": "<h2 class=\"bb_tag\" >Borderless fullscreen for every game. GPU effects and upscaling. Old games that actually work.</h2><p class=\"bb_paragraph\" >Borderless Gaming has three tools that all work together: borderless fullscreen, BGFX for visual effects, and BGProxy for games that refuse to cooperate.</p><h2 class=\"bb_tag\" >Borderless fullscreen</h2><p class=\"bb_paragraph\" >Force any game into borderless fullscreen. Alt-tab without crashes, hide the taskbar, lock the cursor to the game window, mute games in the background, position a game at any size on any monitor. Set up a profile once and it applies automatically every time you launch.</p><h2 class=\"bb_tag\" >BGFX — effects and upscaling</h2><p class=\"bb_paragraph\" >BGFX captures your game and runs it through a GPU effect pipeline. 390+ effects — FSR, neural network upscalers, CRT scanlines, VHS, sharpening, anti-aliasing, LUT color grading. Stack as many as you want, each one feeds into the next.</p><p class=\"bb_paragraph\" >On Steam Deck, BGFX runs natively in Game Mode. Full gamepad navigation, per-game presets, and an in-game overlay to tweak everything while you play. No desktop mode required.</p><p class=\"bb_paragraph\" >On Windows, the same effect library runs through a Vulkan backend alongside D3D11 capture.</p><h2 class=\"bb_tag\" >BGProxy — fix old and broken games</h2><p class=\"bb_paragraph\" >BGProxy intercepts a game's graphics pipeline and makes it work properly on a modern PC. OpenGL, DirectX 8 through 12 — from early 2000s classics to modern titles that just won't cooperate.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Fullscreen-only games become real, resizable windows. The game re-renders to fit — drag the border, maximize, go ultra-wide, and the resolution follows. Alt-tabbing no longer pauses the game, and input is blocked in the background so you can multitask. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >BGProxy also upgrades how the game talks to your hardware. DirectX games get FLIP model presentation for lower input latency and smoother frame pacing. OpenGL games are re-rendered through a DirectX 12 pipeline and their GL contexts are upgraded to the highest compatibility profile your driver supports, so the driver can apply optimizations that the original game never asked for. Broken timer code that causes micro-stutter is intercepted and fixed automatically — old 1–16ms sleep timers become sub-millisecond precision. Games that won't launch because they don't recognize your GPU can be spoofed into thinking you have a different graphics card.</p><p class=\"bb_paragraph\" >Pair it with BGFX to upscale and apply effects on top.</p>",
-  "about_the_game": "<h2 class=\"bb_tag\" >Borderless fullscreen for every game. GPU effects and upscaling. Old games that actually work.</h2><p class=\"bb_paragraph\" >Borderless Gaming has three tools that all work together: borderless fullscreen, BGFX for visual effects, and BGProxy for games that refuse to cooperate.</p><h2 class=\"bb_tag\" >Borderless fullscreen</h2><p class=\"bb_paragraph\" >Force any game into borderless fullscreen. Alt-tab without crashes, hide the taskbar, lock the cursor to the game window, mute games in the background, position a game at any size on any monitor. Set up a profile once and it applies automatically every time you launch.</p><h2 class=\"bb_tag\" >BGFX — effects and upscaling</h2><p class=\"bb_paragraph\" >BGFX captures your game and runs it through a GPU effect pipeline. 390+ effects — FSR, neural network upscalers, CRT scanlines, VHS, sharpening, anti-aliasing, LUT color grading. Stack as many as you want, each one feeds into the next.</p><p class=\"bb_paragraph\" >On Steam Deck, BGFX runs natively in Game Mode. Full gamepad navigation, per-game presets, and an in-game overlay to tweak everything while you play. No desktop mode required.</p><p class=\"bb_paragraph\" >On Windows, the same effect library runs through a Vulkan backend alongside D3D11 capture.</p><h2 class=\"bb_tag\" >BGProxy — fix old and broken games</h2><p class=\"bb_paragraph\" >BGProxy intercepts a game's graphics pipeline and makes it work properly on a modern PC. OpenGL, DirectX 8 through 12 — from early 2000s classics to modern titles that just won't cooperate.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Fullscreen-only games become real, resizable windows. The game re-renders to fit — drag the border, maximize, go ultra-wide, and the resolution follows. Alt-tabbing no longer pauses the game, and input is blocked in the background so you can multitask. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >BGProxy also upgrades how the game talks to your hardware. DirectX games get FLIP model presentation for lower input latency and smoother frame pacing. OpenGL games are re-rendered through a DirectX 12 pipeline and their GL contexts are upgraded to the highest compatibility profile your driver supports, so the driver can apply optimizations that the original game never asked for. Broken timer code that causes micro-stutter is intercepted and fixed automatically — old 1–16ms sleep timers become sub-millisecond precision. Games that won't launch because they don't recognize your GPU can be spoofed into thinking you have a different graphics card.</p><p class=\"bb_paragraph\" >Pair it with BGFX to upscale and apply effects on top.</p>",
-  "supported_languages": "English, German, Russian, French, Simplified Chinese, Spanish - Spain, Korean, Polish, Traditional Chinese, Japanese, Ukrainian, Italian, Arabic, Bulgarian, Czech, Danish, Dutch, Finnish, Greek, Hungarian, Indonesian, Norwegian, Portuguese - Brazil, Portuguese - Portugal, Romanian, Spanish - Latin America, Swedish, Thai, Turkish, Vietnamese",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Steam Achievements",
-    "Full controller support",
-    "Steam Trading Cards",
-    "Steam Cloud"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 4242,
-  "rising_score": 0.0,
+  "screenshots": [],
+  "rising_score": 0.0006,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 226.35000000000002,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
   "review_count": 4527,
-  "review_positive": 3663,
+  "review_positive": 0,
   "review_percentage": 80.9,
   "owner_estimate": 350000,
-  "ccu_estimate": 569,
+  "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 976,
+  "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 3933,
-      "review_percentage": 83.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-22",
-      "review_count": 4521,
-      "review_percentage": 80.9,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-28",
+      "date": "2026-04-04",
       "review_count": 4527,
       "review_percentage": 80.9,
-      "ccu_estimate": 569,
+      "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }

@@ -3,8 +3,8 @@
   "name": "Beat Miner",
   "slug": "beat-miner",
   "developer": "MZ Games",
-  "publisher": "MZ Games",
-  "release_date": "Apr 3, 2019",
+  "publisher": "",
+  "release_date": "2019-04-03",
   "price_usd": 4.99,
   "genres": [
     "Action",
@@ -19,34 +19,15 @@
   ],
   "short_description": "Mine and collect ore blocks to the rhythm of your music in procedurally generated caves. Featuring many levels and different gameplay modes, Beat Miner will challenge your mining reflexes!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/769540/header.jpg?t=1554339521",
-  "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/769540/ss_7274d4633805fd5503a9f745982703a5181b5482.600x338.jpg?t=1554339521",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/769540/ss_b382aa0fb5e0d78ce46649887d54352cec6dbd5e.600x338.jpg?t=1554339521",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/769540/ss_ac25e077d638e6c8e734113f807c95a5b4c7f435.600x338.jpg?t=1554339521",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/769540/ss_9f8e4d8ca4db8e0036c4ca3d7826dfa19ccc5d84.600x338.jpg?t=1554339521",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/769540/ss_11b1929a799f2acc6e6eae41d4e60d1f12329d94.600x338.jpg?t=1554339521"
-  ],
-  "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/769540/extras/a6a56fb143ca5a44bb4f73f9fb158b40.avif?t=1554339521\" width=616 height=120 /></span><br><br>Mine and collect ore blocks to the rhythm of your music in procedurally generated caves!<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Arcade Mode: challenge your mining ability in dozens of exciting levels.<br></li><li> Custom Mode: set up your own challenges<br></li><li> Personal music: play any song from your music library!<br></li><li> Adjustable difficulty: unlock 5 different difficulty settings<br></li><li> Dynamic player height adjustment: both kids and adults can play standing or seated<br></li><li> Performance stats: compete against friends and family locally<br></li><li> Inventory management: keep an eye on your inventory to upgrade your block storage capacity<br></li><li> Toolbox: unlock and pick the right tool to mine the beats from a collection of hammers</li></ul><h2 class=\"bb_tag\" >Compatible music files</h2>Beat Miner supports any song in MP3 and WAV file formats.<h2 class=\"bb_tag\" >Notes</h2><ul class=\"bb_ul\"><li> Beat Miner does not include any music and requires the user to have a local library of music in compatible song formats.</li></ul>",
-  "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/769540/extras/a6a56fb143ca5a44bb4f73f9fb158b40.avif?t=1554339521\" width=616 height=120 /></span><br><br>Mine and collect ore blocks to the rhythm of your music in procedurally generated caves!<h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li> Arcade Mode: challenge your mining ability in dozens of exciting levels.<br></li><li> Custom Mode: set up your own challenges<br></li><li> Personal music: play any song from your music library!<br></li><li> Adjustable difficulty: unlock 5 different difficulty settings<br></li><li> Dynamic player height adjustment: both kids and adults can play standing or seated<br></li><li> Performance stats: compete against friends and family locally<br></li><li> Inventory management: keep an eye on your inventory to upgrade your block storage capacity<br></li><li> Toolbox: unlock and pick the right tool to mine the beats from a collection of hammers</li></ul><h2 class=\"bb_tag\" >Compatible music files</h2>Beat Miner supports any song in MP3 and WAV file formats.<h2 class=\"bb_tag\" >Notes</h2><ul class=\"bb_ul\"><li> Beat Miner does not include any music and requires the user to have a local library of music in compatible song formats.</li></ul>",
-  "supported_languages": "English",
-  "metacritic_score": null,
-  "metacritic_url": "",
-  "categories": [
-    "Single-player",
-    "Tracked Controller Support",
-    "VR Only",
-    "Family Sharing"
-  ],
-  "trailer_url": "",
-  "total_recommendations": 0,
+  "screenshots": [],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.0,
+  "review_velocity_7d": 0.45,
   "follower_velocity_7d": 0.0,
-  "classification": "new_release",
+  "classification": "tracked",
   "review_count": 9,
-  "review_positive": 4,
+  "review_positive": 0,
   "review_percentage": 44.4,
   "owner_estimate": 10000,
   "ccu_estimate": 0,
@@ -54,26 +35,11 @@
   "median_playtime_minutes": 0,
   "history": [
     {
-      "date": "2026-03-21",
-      "review_count": 9,
-      "review_percentage": 44.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-03-23",
-      "review_count": 9,
-      "review_percentage": 44.4,
-      "ccu_estimate": 0,
-      "follower_count": 0
-    },
-    {
-      "date": "2026-04-02",
+      "date": "2026-04-04",
       "review_count": 9,
       "review_percentage": 44.4,
       "ccu_estimate": 0,
       "follower_count": 0
     }
-  ],
-  "reviews": []
+  ]
 }
