@@ -334,8 +334,10 @@ def _export_game_profiles(db, games_dir):
         if not slug:
             continue
         # Truncate overly long slugs to avoid filesystem errors
-        if len(slug) > 200:
-            slug = slug[:200]
+        # Use byte length (ext4 limit is 255 bytes; leave room for .json)
+        encoded = slug.encode('utf-8')
+        if len(encoded) > 200:
+            slug = encoded[:200].decode('utf-8', errors='ignore').rstrip('-')
         scores = db.get_scores(game["steam_app_id"])
         data = _game_to_json(game, scores)
         data = _enrich_with_snapshot(data, db)

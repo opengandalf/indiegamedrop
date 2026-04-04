@@ -8,13 +8,22 @@ import re
 logger = logging.getLogger(__name__)
 
 
-def slugify(name):
-    """Convert a game name to a URL-safe slug."""
+def slugify(name, max_bytes=200):
+    """Convert a game name to a URL-safe slug.
+
+    Truncates to max_bytes UTF-8 bytes to avoid filesystem filename limits
+    (ext4 allows 255 bytes; we leave room for the .json extension).
+    """
     slug = name.lower().strip()
     slug = re.sub(r'[^\w\s-]', '', slug)
     slug = re.sub(r'[\s_]+', '-', slug)
     slug = re.sub(r'-+', '-', slug)
-    return slug.strip('-')
+    slug = slug.strip('-')
+    # Truncate to max_bytes UTF-8 bytes, cutting at a character boundary
+    encoded = slug.encode('utf-8')
+    if len(encoded) > max_bytes:
+        slug = encoded[:max_bytes].decode('utf-8', errors='ignore').rstrip('-')
+    return slug
 
 
 class Database:
