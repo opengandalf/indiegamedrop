@@ -261,6 +261,8 @@ def _export_watchlist(db, out_dir):
 def _export_market_stats(db, out_dir):
     """Export aggregate market stats JSON."""
     stats = db.get_market_stats()
+    gems = db.get_hidden_gems(limit=1000)
+    stats["hidden_gems"] = len(gems)
     _write_json(os.path.join(out_dir, "market_stats.json"), stats)
     logger.info("Exported market stats")
 

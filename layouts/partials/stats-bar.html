@@ -17,9 +17,9 @@
     .then(r => r.json())
     .then(data => {
       const fmt = n => Number(n || 0).toLocaleString('en-GB');
-      document.getElementById('stat-tracked').textContent = fmt(data.enriched_games);
+      document.getElementById('stat-tracked').textContent = fmt(data.total_games || data.enriched_games);
       document.getElementById('stat-new').textContent = fmt(data.new_this_week);
-      document.getElementById('stat-gems').textContent = fmt(data.hidden_gems);
+      document.getElementById('stat-gems').textContent = fmt(data.hidden_gems || '—');
     })
     .catch(() => {});
 </script>
