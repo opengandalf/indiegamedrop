@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const section = document.getElementById('rising-section');
         const container = document.getElementById('rising-preview');
         section.style.display = 'block';
-        games.slice(0, 3).forEach(game => {
+        games.slice(0, 4).forEach(game => {
           container.innerHTML += buildGameCard(game, baseURL);
         });
       }
@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
     .then(r => r.json())
     .then(games => {
       const container = document.getElementById('new-releases-preview');
-      games.slice(0, 3).forEach(game => {
+      games.slice(0, 4).forEach(game => {
         container.innerHTML += buildGameCard(game, baseURL);
       });
       if (games.length === 0) {
