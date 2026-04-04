@@ -1,6 +1,6 @@
 ---
 title: "Nova Roma deep dive: a Roman city builder with gods, floods, and a 97% rating"
-date: 2026-04-04T19:30:00
+date: 2026-04-04T18:00:00
 draft: false
 type: "posts"
 tags: ["deep-dive", "city-builder", "early-access", "strategy"]
