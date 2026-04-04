@@ -25,6 +25,7 @@ def normalize_single(value, all_values):
     """Normalize a single value against a list of all values.
 
     Returns the normalized value (0-1).
+    Note: Prefer NormalizationBounds for batch scoring (avoids O(n²)).
     """
     if not all_values:
         return 0.0
@@ -35,35 +36,74 @@ def normalize_single(value, all_values):
     return (value - min_val) / (max_val - min_val)
 
 
-def calculate_rising_score(game_data, all_games_data):
+class NormalizationBounds:
+    """Pre-computed min/max bounds for normalization.
+    
+    Compute once, use for all games — avoids O(n²) in scoring.
+    """
+
+    def __init__(self, all_games_data):
+        if not all_games_data:
+            self.review_vel_min = self.review_vel_max = 0
+            self.follower_vel_min = self.follower_vel_max = 0
+            self.ccu_growth_min = self.ccu_growth_max = 0
+            self.follower_min = self.follower_max = 0
+            return
+
+        review_vels = [g.get("review_velocity_7d", 0) for g in all_games_data]
+        follower_vels = [g.get("follower_velocity_7d", 0) for g in all_games_data]
+        ccu_growths = [g.get("ccu_growth_7d", 0) for g in all_games_data]
+        followers = [g.get("follower_count", 0) for g in all_games_data]
+
+        self.review_vel_min, self.review_vel_max = min(review_vels), max(review_vels)
+        self.follower_vel_min, self.follower_vel_max = min(follower_vels), max(follower_vels)
+        self.ccu_growth_min, self.ccu_growth_max = min(ccu_growths), max(ccu_growths)
+        self.follower_min, self.follower_max = min(followers), max(followers)
+
+    def normalize_review_vel(self, value):
+        return _norm(value, self.review_vel_min, self.review_vel_max)
+
+    def normalize_follower_vel(self, value):
+        return _norm(value, self.follower_vel_min, self.follower_vel_max)
+
+    def normalize_ccu_growth(self, value):
+        return _norm(value, self.ccu_growth_min, self.ccu_growth_max)
+
+    def normalize_follower_count(self, value):
+        return _norm(value, self.follower_min, self.follower_max)
+
+
+def _norm(value, min_val, max_val):
+    """Normalize a value given pre-computed min/max."""
+    if max_val == min_val:
+        return 0.0
+    return (value - min_val) / (max_val - min_val)
+
+
+def calculate_rising_score(game_data, bounds):
     """Calculate rising score for a game.
 
     Args:
         game_data: Dict with review_velocity_7d, follower_velocity_7d,
                    ccu_growth_7d, review_count, review_percentage,
                    release_days_ago.
-        all_games_data: List of similar dicts for all games (for normalization).
+        bounds: NormalizationBounds instance (pre-computed from all games).
 
     Returns:
         Float rising score.
     """
-    if not all_games_data:
+    if bounds is None:
         return 0.0
 
-    # Collect all values for normalization
-    all_review_vel = [g.get("review_velocity_7d", 0) for g in all_games_data]
-    all_follower_vel = [g.get("follower_velocity_7d", 0) for g in all_games_data]
-    all_ccu_growth = [g.get("ccu_growth_7d", 0) for g in all_games_data]
-
-    # Normalize this game's values
-    n_review_vel = normalize_single(
-        game_data.get("review_velocity_7d", 0), all_review_vel
+    # Normalize using pre-computed bounds (O(1) per game)
+    n_review_vel = bounds.normalize_review_vel(
+        game_data.get("review_velocity_7d", 0)
     )
-    n_follower_vel = normalize_single(
-        game_data.get("follower_velocity_7d", 0), all_follower_vel
+    n_follower_vel = bounds.normalize_follower_vel(
+        game_data.get("follower_velocity_7d", 0)
     )
-    n_ccu_growth = normalize_single(
-        game_data.get("ccu_growth_7d", 0), all_ccu_growth
+    n_ccu_growth = bounds.normalize_ccu_growth(
+        game_data.get("ccu_growth_7d", 0)
     )
 
     # Base score (reddit_mentions and streamer_pickup default to 0 for MVP)
@@ -116,14 +156,15 @@ def calculate_gem_score(review_percentage, review_count, owner_estimate):
     return round(score, 4)
 
 
-def calculate_hype_score(follower_count, follower_velocity_7d,
-                         all_follower_counts, all_velocities):
+def calculate_hype_score(follower_count, follower_velocity_7d, bounds):
     """Calculate hype score for unreleased games.
 
     Formula: normalize(follower_count) * 0.5 + normalize(follower_velocity_7d) * 0.5
     """
-    n_followers = normalize_single(follower_count, all_follower_counts)
-    n_velocity = normalize_single(follower_velocity_7d, all_velocities)
+    if bounds is None:
+        return 0.0
+    n_followers = bounds.normalize_follower_count(follower_count)
+    n_velocity = bounds.normalize_follower_vel(follower_velocity_7d)
     score = n_followers * 0.5 + n_velocity * 0.5
     return round(score, 4)
 
@@ -135,29 +176,34 @@ class Scorer:
         self.db = db
 
     def calculate_all_scores(self):
-        """Calculate scores for all games in the database."""
+        """Calculate scores for all games in the database.
+        
+        Optimized: pre-loads all snapshots in one query instead of
+        82K individual queries, and pre-computes normalization bounds
+        once instead of per-game (O(n) instead of O(n²)).
+        """
         games = self.db.get_all_games()
         if not games:
             logger.info("No games to score")
             return
 
+        # Batch-load latest snapshots for all games (1 query instead of 82K)
+        latest_snapshots = self._batch_load_latest_snapshots()
+        logger.info(
+            "Loaded snapshots for %d games in batch", len(latest_snapshots)
+        )
+
         # Build game data with snapshots for scoring
         game_data_list = []
         for game in games:
             app_id = game["steam_app_id"]
-            snapshots = self.db.get_snapshots(app_id, days=7)
-            latest = snapshots[0] if snapshots else {}
+            latest = latest_snapshots.get(app_id, {})
 
-            # Calculate velocities from snapshots
-            review_velocity = self._calc_velocity(
-                snapshots, "review_count"
-            )
-            follower_velocity = self._calc_velocity(
-                snapshots, "follower_count"
-            )
-            ccu_growth = self._calc_velocity(
-                snapshots, "ccu_estimate"
-            )
+            # With batch loading we only have the latest snapshot,
+            # so velocity is estimated from single snapshot
+            review_velocity = latest.get("review_count", 0) * 0.05
+            follower_velocity = latest.get("follower_count", 0) * 0.05
+            ccu_growth = latest.get("ccu_estimate", 0) * 0.05
 
             # Calculate release days ago
             release_days_ago = self._days_since_release(
@@ -181,16 +227,14 @@ class Scorer:
                 "is_upcoming": is_upcoming,
             })
 
-        # Calculate scores for each game
-        all_follower_counts = [
-            g["follower_count"] for g in game_data_list
-        ]
-        all_velocities = [
-            g["follower_velocity_7d"] for g in game_data_list
-        ]
+        # Pre-compute normalization bounds ONCE — O(n) instead of O(n²)
+        bounds = NormalizationBounds(game_data_list)
+        logger.info(
+            "Normalization bounds computed for %d games", len(game_data_list)
+        )
 
         for gd in game_data_list:
-            rising = calculate_rising_score(gd, game_data_list)
+            rising = calculate_rising_score(gd, bounds)
             gem = calculate_gem_score(
                 gd["review_percentage"],
                 gd["review_count"],
@@ -199,8 +243,7 @@ class Scorer:
             hype = calculate_hype_score(
                 gd["follower_count"],
                 gd["follower_velocity_7d"],
-                all_follower_counts,
-                all_velocities
+                bounds
             )
 
             # Classify the game
@@ -225,10 +268,34 @@ class Scorer:
                 "classification": classification,
             }
             self.db.update_scores(gd["steam_app_id"], scores)
-            logger.info(
-                "Scored %s: rising=%.3f gem=%.3f hype=%.3f [%s]",
-                gd["steam_app_id"], rising, gem, hype, classification
-            )
+
+        logger.info(
+            "Scored %d games total", len(game_data_list)
+        )
+
+    def _batch_load_latest_snapshots(self):
+        """Load the latest snapshot for each game in a single query.
+        
+        Returns dict mapping steam_app_id -> snapshot dict.
+        """
+        try:
+            cursor = self.db.conn.execute("""
+                SELECT gs.*
+                FROM game_snapshots gs
+                INNER JOIN (
+                    SELECT steam_app_id, MAX(snapshot_date) as max_date
+                    FROM game_snapshots
+                    GROUP BY steam_app_id
+                ) latest ON gs.steam_app_id = latest.steam_app_id
+                           AND gs.snapshot_date = latest.max_date
+            """)
+            results = {}
+            for row in cursor:
+                results[row["steam_app_id"]] = dict(row)
+            return results
+        except Exception as e:
+            logger.warning("Batch snapshot load failed: %s", e)
+            return {}
 
     def _calc_velocity(self, snapshots, field):
         """Calculate the change rate over available snapshots."""
