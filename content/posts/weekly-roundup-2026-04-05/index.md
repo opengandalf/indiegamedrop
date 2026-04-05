@@ -52,17 +52,17 @@ Another week, another batch of indie games making moves. Here's what the data is
 
 **Gem Score:** 72.72
 
-### SeaBed
+### Find 100 Ducks and Blast Them!
 
-![SeaBed](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/583090/header.jpg?t=1773470679)
+![Find 100 Ducks and Blast Them!](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3222970/header.jpg?t=1769685288)
 
-**Gem Score:** 72.65
+**Gem Score:** 72.15
 
-### DEEP SPACE WAIFU: NEKOMIMI
+### Rain on Your Parade
 
-![DEEP SPACE WAIFU: NEKOMIMI](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/868980/header.jpg?t=1732555382)
+![Rain on Your Parade](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1213230/header.jpg?t=1726253271)
 
-**Gem Score:** 72.46
+**Gem Score:** 70.96
 
 ## New Releases Worth Watching
 

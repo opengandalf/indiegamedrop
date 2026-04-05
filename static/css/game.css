@@ -284,6 +284,11 @@
   color: var(--igdrop-text);
 }
 
+/* Plain-text about (from about_text column) — preserve newlines from Steam */
+.about-content.about-text {
+  white-space: pre-wrap;
+}
+
 .about-content img {
   max-width: 100%;
   height: auto;
