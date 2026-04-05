@@ -25,24 +25,31 @@
   "short_description": "Steal gold from the Lerpikon's dungeons! Get rich!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449940/header.jpg?t=1668681370",
   "screenshots": [],
-  "rising_score": 0.0,
+  "rising_score": 0.0001,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 7.0,
+  "review_velocity_7d": 12.05,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
-  "review_count": 140,
-  "review_positive": 0,
-  "review_percentage": 44.3,
+  "review_count": 241,
+  "review_positive": 164,
+  "review_percentage": 68.0,
   "owner_estimate": 75000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 0,
+  "median_playtime_minutes": 382,
   "history": [
     {
       "date": "2026-04-04",
       "review_count": 140,
       "review_percentage": 44.3,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-05",
+      "review_count": 241,
+      "review_percentage": 68.0,
       "ccu_estimate": 0,
       "follower_count": 0
     }

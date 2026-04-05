@@ -22,25 +22,32 @@
   "short_description": "Hidden object game in a fairytale setting. Black and white hand-drawn visual style. A very difficult game for any age!",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573750/header.jpg?t=1722094146",
   "screenshots": [],
-  "rising_score": 0.0001,
+  "rising_score": 0.0002,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 23.6,
+  "review_velocity_7d": 21.6,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
-  "review_count": 472,
-  "review_positive": 0,
-  "review_percentage": 91.3,
-  "owner_estimate": 0,
-  "ccu_estimate": 0,
+  "review_count": 432,
+  "review_positive": 393,
+  "review_percentage": 91.0,
+  "owner_estimate": 75000,
+  "ccu_estimate": 1,
   "follower_count": 0,
-  "median_playtime_minutes": 0,
+  "median_playtime_minutes": 22,
   "history": [
     {
       "date": "2026-04-04",
       "review_count": 472,
       "review_percentage": 91.3,
       "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-05",
+      "review_count": 432,
+      "review_percentage": 91.0,
+      "ccu_estimate": 1,
       "follower_count": 0
     }
   ]

@@ -21,25 +21,32 @@
   "short_description": "Pretty simple game combination between 2048 and match-3 settings with awesome monster cakes. Put your monster cake in the good hole and combine them together to get higher monster cake. Combine them a",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/614910/header.jpg?t=1571851168",
   "screenshots": [],
-  "rising_score": 0.0002,
+  "rising_score": 0.0057,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 43.050000000000004,
+  "review_velocity_7d": 42.75,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
-  "review_count": 861,
-  "review_positive": 0,
+  "review_count": 855,
+  "review_positive": 752,
   "review_percentage": 88.0,
   "owner_estimate": 150000,
-  "ccu_estimate": 0,
+  "ccu_estimate": 72,
   "follower_count": 0,
-  "median_playtime_minutes": 0,
+  "median_playtime_minutes": 208,
   "history": [
     {
       "date": "2026-04-04",
       "review_count": 861,
       "review_percentage": 88.0,
       "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-05",
+      "review_count": 855,
+      "review_percentage": 88.0,
+      "ccu_estimate": 72,
       "follower_count": 0
     }
   ]

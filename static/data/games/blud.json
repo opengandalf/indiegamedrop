@@ -24,25 +24,32 @@
   "short_description": "Save your friends, fight off the vampire apocalypse, and survive the horrors of freshman field hockey practice in #BLUD, a delightfully zany animated dungeon crawler that blurs the line between action",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1921480/header.jpg?t=1773690349",
   "screenshots": [],
-  "rising_score": 0.0001,
+  "rising_score": 0.0005,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 18.1,
+  "review_velocity_7d": 15.8,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
-  "review_count": 362,
-  "review_positive": 0,
-  "review_percentage": 80.1,
-  "owner_estimate": 0,
-  "ccu_estimate": 0,
+  "review_count": 316,
+  "review_positive": 251,
+  "review_percentage": 79.4,
+  "owner_estimate": 10000,
+  "ccu_estimate": 5,
   "follower_count": 0,
-  "median_playtime_minutes": 0,
+  "median_playtime_minutes": 960,
   "history": [
     {
       "date": "2026-04-04",
       "review_count": 362,
       "review_percentage": 80.1,
       "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-05",
+      "review_count": 316,
+      "review_percentage": 79.4,
+      "ccu_estimate": 5,
       "follower_count": 0
     }
   ]

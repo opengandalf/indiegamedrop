@@ -19,25 +19,32 @@
   "short_description": "An action rogue-lite set in the comedic 1 Trait Danger universe. Fight your way through swarms of enemies and epic bosses with minigames sprinkled in-between. Grow stronger every time you fail until y",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2149630/header.jpg?t=1737918506",
   "screenshots": [],
-  "rising_score": 0.0001,
-  "gem_score": 0.0,
+  "rising_score": 0.0002,
+  "gem_score": 55.1408,
   "hype_score": 0.0,
-  "review_velocity_7d": 10.5,
+  "review_velocity_7d": 8.950000000000001,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
-  "review_count": 210,
-  "review_positive": 0,
-  "review_percentage": 98.1,
-  "owner_estimate": 0,
-  "ccu_estimate": 0,
+  "classification": "hidden_gem",
+  "review_count": 179,
+  "review_positive": 175,
+  "review_percentage": 97.8,
+  "owner_estimate": 10000,
+  "ccu_estimate": 2,
   "follower_count": 0,
-  "median_playtime_minutes": 0,
+  "median_playtime_minutes": 202,
   "history": [
     {
       "date": "2026-04-04",
       "review_count": 210,
       "review_percentage": 98.1,
       "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-05",
+      "review_count": 179,
+      "review_percentage": 97.8,
+      "ccu_estimate": 2,
       "follower_count": 0
     }
   ]

@@ -23,13 +23,13 @@
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 10.9,
+  "review_velocity_7d": 10.25,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
-  "review_count": 218,
-  "review_positive": 0,
-  "review_percentage": 87.6,
-  "owner_estimate": 0,
+  "review_count": 205,
+  "review_positive": 174,
+  "review_percentage": 84.9,
+  "owner_estimate": 35000,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
@@ -38,6 +38,13 @@
       "date": "2026-04-04",
       "review_count": 218,
       "review_percentage": 87.6,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-05",
+      "review_count": 205,
+      "review_percentage": 84.9,
       "ccu_estimate": 0,
       "follower_count": 0
     }

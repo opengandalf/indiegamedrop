@@ -24,17 +24,17 @@
   "short_description": "1 Bit Survivor is a unique blend of turn-based combat and survival horror! Carefully manage your resources to solve procedurally generated combat puzzles. Survive 28 Days and save your Pet Cat from th",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2493160/header.jpg?t=1691761173",
   "screenshots": [],
-  "rising_score": 0.0,
-  "gem_score": 0.0,
+  "rising_score": 0.0001,
+  "gem_score": 46.4086,
   "hype_score": 0.0,
-  "review_velocity_7d": 4.7,
+  "review_velocity_7d": 3.75,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
-  "review_count": 94,
-  "review_positive": 0,
-  "review_percentage": 98.9,
-  "owner_estimate": 0,
-  "ccu_estimate": 0,
+  "classification": "hidden_gem",
+  "review_count": 75,
+  "review_positive": 74,
+  "review_percentage": 98.7,
+  "owner_estimate": 10000,
+  "ccu_estimate": 1,
   "follower_count": 0,
   "median_playtime_minutes": 0,
   "history": [
@@ -43,6 +43,13 @@
       "review_count": 94,
       "review_percentage": 98.9,
       "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-05",
+      "review_count": 75,
+      "review_percentage": 98.7,
+      "ccu_estimate": 1,
       "follower_count": 0
     }
   ]

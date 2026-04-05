@@ -23,23 +23,30 @@
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522560/header.jpg?t=1721252528",
   "screenshots": [],
   "rising_score": 0.0001,
-  "gem_score": 0.0,
+  "gem_score": 54.5323,
   "hype_score": 0.0,
-  "review_velocity_7d": 22.55,
+  "review_velocity_7d": 20.900000000000002,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
-  "review_count": 451,
-  "review_positive": 0,
-  "review_percentage": 94.7,
-  "owner_estimate": 0,
+  "classification": "hidden_gem",
+  "review_count": 418,
+  "review_positive": 395,
+  "review_percentage": 94.5,
+  "owner_estimate": 35000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 0,
+  "median_playtime_minutes": 28,
   "history": [
     {
       "date": "2026-04-04",
       "review_count": 451,
       "review_percentage": 94.7,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-05",
+      "review_count": 418,
+      "review_percentage": 94.5,
       "ccu_estimate": 0,
       "follower_count": 0
     }
