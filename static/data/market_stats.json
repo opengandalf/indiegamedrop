@@ -1,11 +1,11 @@
 {
-  "total_games": 82309,
+  "total_games": 82311,
   "genre_distribution": {
-    "Action": 35239,
-    "Adventure": 32964,
-    "Free To Play": 4745,
-    "Indie": 58658,
-    "Strategy": 16703,
+    "Action": 35241,
+    "Adventure": 32965,
+    "Free To Play": 4744,
+    "Indie": 58660,
+    "Strategy": 16702,
     "RPG": 14917,
     "Animation & Modeling": 433,
     "Video Production": 325,
@@ -27,17 +27,19 @@
     "Gore": 217,
     "Accounting": 19,
     "Movie": 1,
-    "Short": 1
+    "Short": 1,
+    "Simuladores": 1,
+    "Estrategia": 1
   },
   "price_distribution": {
     "Free": 11598,
-    "$0-$5": 46936,
-    "$5-$10": 14489,
-    "$10-$20": 7536,
+    "$0-$5": 46940,
+    "$5-$10": 14487,
+    "$10-$20": 7537,
     "$20-$30": 1015,
-    "$30+": 735
+    "$30+": 734
   },
   "avg_review_score": 77.2,
-  "new_this_week": 82309,
+  "new_this_week": 82311,
   "hidden_gems": 928
 }
