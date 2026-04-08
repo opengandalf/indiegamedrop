@@ -3,35 +3,39 @@
   "name": "CodeRed: Agent Sarah's Story - Day one",
   "slug": "codered-agent-sarahs-story-day-one",
   "developer": "LivinThing Studio",
-  "publisher": "",
-  "release_date": "2017-12-12",
+  "publisher": "LivinThing Studio",
+  "release_date": "Apr 8, 2026",
   "price_usd": 14.99,
   "genres": [
     "Adventure",
-    "Indie",
-    "Early Access"
+    "Indie"
   ],
   "tags": [
     "Adventure",
-    "Indie",
-    "Early Access"
+    "Indie"
   ],
   "platforms": [
     "windows"
   ],
-  "short_description": "Point-and-click adventure game. Together with special agent Sarah Young, follow and catch dangerous terrorist.",
-  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/639240/289b4f0432efdcc8c68021bba921c6b80eb2491f/header.jpg?t=1768244784",
-  "screenshots": [],
+  "short_description": "Take on the role of Special Agent Sarah Young and immerse yourself in a gripping point-and-click adventure, where every lead may bring you closer to stopping a threat to New York City. Follow the trail of a dangerous terrorist, analyzing events that hide more than they seem.",
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/639240/289b4f0432efdcc8c68021bba921c6b80eb2491f/header.jpg?t=1775659539",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/639240/ss_f92d241660a15368a0dc0d43f1eb1aa4cfb02d2a.600x338.jpg?t=1775659539",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/639240/ss_ded8f0ddd5c63ce7d305550036b17b526ceeda27.600x338.jpg?t=1775659539",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/639240/ss_9c1698c475a83f3e1f6aa6f479701c2925955731.600x338.jpg?t=1775659539",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/639240/ss_ee6a53429b528da4bdecf1d0aafd733465e4ffde.600x338.jpg?t=1775659539",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/639240/ss_50b2af2a2dc3de0a36dc8444d4ffb30b264da07c.600x338.jpg?t=1775659539"
+  ],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.5,
+  "review_velocity_7d": 0.45,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
-  "review_count": 10,
-  "review_positive": 0,
-  "review_percentage": 60.0,
-  "owner_estimate": 0,
+  "classification": "new_release",
+  "review_count": 9,
+  "review_positive": 6,
+  "review_percentage": 66.7,
+  "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
@@ -40,6 +44,13 @@
       "date": "2026-04-04",
       "review_count": 10,
       "review_percentage": 60.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-09",
+      "review_count": 9,
+      "review_percentage": 66.7,
       "ccu_estimate": 0,
       "follower_count": 0
     }

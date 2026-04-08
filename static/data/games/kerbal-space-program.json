@@ -3,9 +3,9 @@
   "name": "Kerbal Space Program",
   "slug": "kerbal-space-program",
   "developer": "Squad",
-  "publisher": "",
-  "release_date": "2015-04-27",
-  "price_usd": 9.99,
+  "publisher": "Private Division",
+  "release_date": "27 Apr, 2015",
+  "price_usd": 36.99,
   "genres": [
     "Indie",
     "Simulation"
@@ -21,26 +21,46 @@
   ],
   "short_description": "In Kerbal Space Program, take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics.",
   "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/header.jpg?t=1738037585",
-  "screenshots": [],
-  "rising_score": 0.0241,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_44f586b0c58ed455c309efd87ce15f46e072242b.600x338.jpg?t=1738037585",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_d393792997ca01960a6843a5f6eb381895866662.600x338.jpg?t=1738037585",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_25cce0f89404bb3ddc4028644a040784082b0763.600x338.jpg?t=1738037585",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_dcfe84a90aba509e459d1e7d119aa7d365faf34a.600x338.jpg?t=1738037585",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_395fa5eeac33f83a3f80cfabfe221899d41e21d0.600x338.jpg?t=1738037585",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_04fade61dd5ebce0f8cec9efe67e6e9d23d3b9a7.600x338.jpg?t=1738037585",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_56a37855f26e4737222e912a2e309cb26386ae68.600x338.jpg?t=1738037585",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_65398e623d014d17fbf963b94ae69c4034d95c40.600x338.jpg?t=1738037585",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_9fc2032db736a2a9919aba739566a8353c2cd3cb.600x338.jpg?t=1738037585",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_c5b19aad79ad37ba36708f22742c1bf81f9220ca.600x338.jpg?t=1738037585",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_f258c8ebef5e2bf47a2feca529a2cd3f864cfbb0.600x338.jpg?t=1738037585",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_f93547d532f3b0b19dbc23a1500fd313f3619e03.600x338.jpg?t=1738037585"
+  ],
+  "rising_score": 0.1464,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 6670.400000000001,
+  "review_velocity_7d": 6358.1,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
-  "review_count": 133408,
-  "review_positive": 0,
-  "review_percentage": 95.3,
+  "review_count": 127162,
+  "review_positive": 121084,
+  "review_percentage": 95.2,
   "owner_estimate": 3500000,
-  "ccu_estimate": 0,
+  "ccu_estimate": 1844,
   "follower_count": 0,
-  "median_playtime_minutes": 0,
+  "median_playtime_minutes": 603,
   "history": [
     {
       "date": "2026-04-04",
       "review_count": 133408,
       "review_percentage": 95.3,
       "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-09",
+      "review_count": 127162,
+      "review_percentage": 95.2,
+      "ccu_estimate": 1844,
       "follower_count": 0
     }
   ]

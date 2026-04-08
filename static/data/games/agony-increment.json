@@ -3,35 +3,40 @@
   "name": "Agony Increment",
   "slug": "agony-increment",
   "developer": "Parish Softworks",
-  "publisher": "",
-  "release_date": "2025-04-18",
-  "price_usd": 7.99,
+  "publisher": "Parish Softworks",
+  "release_date": "8 Apr, 2026",
+  "price_usd": 4.01,
   "genres": [
     "Action",
-    "Indie",
-    "Early Access"
+    "Indie"
   ],
   "tags": [
     "Action",
-    "Indie",
-    "Early Access"
+    "Indie"
   ],
   "platforms": [
     "windows"
   ],
   "short_description": "Abrasive Bullet Hell FPS with linear campaign and Pseudo‑RPG progression. No prophecy. No destiny. No heroes. You are the Primordus. And it's time to wake up.",
-  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440580/header.jpg?t=1773776750",
-  "screenshots": [],
+  "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440580/header.jpg?t=1775676047",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440580/4c107946d7f26504bffa3c3c62f57092065d9cdd/ss_4c107946d7f26504bffa3c3c62f57092065d9cdd.600x338.jpg?t=1775676047",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440580/50b95f0cbc0a843607e04b450ee72b3af38a2c96/ss_50b95f0cbc0a843607e04b450ee72b3af38a2c96.600x338.jpg?t=1775676047",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440580/06f478d01efef0ea152cb72d7ab78abce3ea5fea/ss_06f478d01efef0ea152cb72d7ab78abce3ea5fea.600x338.jpg?t=1775676047",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440580/1802dc5aedbadc63547e3e2d8a1fe2478682e18a/ss_1802dc5aedbadc63547e3e2d8a1fe2478682e18a.600x338.jpg?t=1775676047",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440580/db05862114e494816435fde7774f3dce1af9bdcd/ss_db05862114e494816435fde7774f3dce1af9bdcd.600x338.jpg?t=1775676047",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3440580/32967b8676907ada3843fa3993b31ab856517866/ss_32967b8676907ada3843fa3993b31ab856517866.600x338.jpg?t=1775676047"
+  ],
   "rising_score": 0.0,
   "gem_score": 0.0,
   "hype_score": 0.0,
-  "review_velocity_7d": 0.30000000000000004,
+  "review_velocity_7d": 0.2,
   "follower_velocity_7d": 0.0,
-  "classification": "tracked",
-  "review_count": 6,
-  "review_positive": 0,
+  "classification": "new_release",
+  "review_count": 4,
+  "review_positive": 4,
   "review_percentage": 100.0,
-  "owner_estimate": 0,
+  "owner_estimate": 10000,
   "ccu_estimate": 0,
   "follower_count": 0,
   "median_playtime_minutes": 0,
@@ -39,6 +44,13 @@
     {
       "date": "2026-04-04",
       "review_count": 6,
+      "review_percentage": 100.0,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-09",
+      "review_count": 4,
       "review_percentage": 100.0,
       "ccu_estimate": 0,
       "follower_count": 0
