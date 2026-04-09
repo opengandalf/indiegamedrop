@@ -34,7 +34,7 @@
   "owner_estimate": 75000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 45,
+  "median_playtime_minutes": 53,
   "history": [
     {
       "date": "2026-04-04",
@@ -66,6 +66,13 @@
     },
     {
       "date": "2026-04-08",
+      "review_count": 555,
+      "review_percentage": 28.1,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-09",
       "review_count": 555,
       "review_percentage": 28.1,
       "ccu_estimate": 0,
