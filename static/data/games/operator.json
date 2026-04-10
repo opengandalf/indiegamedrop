@@ -4,8 +4,8 @@
   "slug": "operator",
   "developer": "VECTOR INTERACTIVE PTY LTD",
   "publisher": "VECTOR INTERACTIVE PTY LTD",
-  "release_date": "1 Aug, 2023",
-  "price_usd": 82999.0,
+  "release_date": "Aug 1, 2023",
+  "price_usd": 9.99,
   "genres": [
     "Action",
     "Indie",
@@ -51,7 +51,7 @@
   "owner_estimate": 75000,
   "ccu_estimate": 55,
   "follower_count": 0,
-  "median_playtime_minutes": 255,
+  "median_playtime_minutes": 705,
   "history": [
     {
       "date": "2026-04-04",
@@ -90,6 +90,13 @@
     },
     {
       "date": "2026-04-10",
+      "review_count": 2709,
+      "review_percentage": 79.6,
+      "ccu_estimate": 55,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-11",
       "review_count": 2709,
       "review_percentage": 79.6,
       "ccu_estimate": 55,
