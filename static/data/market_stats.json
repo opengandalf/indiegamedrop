@@ -1,20 +1,20 @@
 {
-  "total_games": 82399,
+  "total_games": 82403,
   "genre_distribution": {
-    "Action": 35268,
-    "Adventure": 32995,
+    "Action": 35269,
+    "Adventure": 32996,
     "Free To Play": 4757,
-    "Indie": 58748,
-    "Strategy": 16723,
+    "Indie": 58752,
+    "Strategy": 16724,
     "RPG": 14932,
     "Animation & Modeling": 433,
     "Video Production": 325,
-    "Casual": 33558,
-    "Simulation": 17119,
+    "Casual": 33561,
+    "Simulation": 17120,
     "Racing": 3166,
     "Massively Multiplayer": 1884,
     "Sports": 3825,
-    "Early Access": 7895,
+    "Early Access": 7896,
     "Design & Illustration": 538,
     "Education": 387,
     "Photo Editing": 161,
@@ -31,13 +31,13 @@
   },
   "price_distribution": {
     "Free": 11627,
-    "$0-$5": 46964,
-    "$5-$10": 14512,
+    "$0-$5": 46967,
+    "$5-$10": 14510,
     "$10-$20": 7542,
     "$20-$30": 1019,
-    "$30+": 735
+    "$30+": 738
   },
   "avg_review_score": 77.1,
-  "new_this_week": 82399,
+  "new_this_week": 82403,
   "hidden_gems": 929
 }
