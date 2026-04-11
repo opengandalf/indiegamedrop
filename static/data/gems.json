@@ -537,6 +537,43 @@
     "median_playtime_minutes": 0
   },
   {
+    "steam_app_id": 3087650,
+    "name": "A Shelter Full of Cats",
+    "slug": "a-shelter-full-of-cats",
+    "developer": "Devcats",
+    "publisher": "",
+    "release_date": "2024-12-09",
+    "price_usd": 3.49,
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "tags": [
+      "Casual",
+      "Indie"
+    ],
+    "platforms": [
+      "windows",
+      "linux"
+    ],
+    "short_description": "Everyone can be a hero! Help a cat rescuer take care of her rescuees and root for their adoption! Every cat deserves a chance to be loved. ❤️",
+    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3087650/639ba529edd870c2e6c12d986c35719ef47be5a7/header.jpg?t=1764106671",
+    "screenshots": [],
+    "rising_score": 0.0003,
+    "gem_score": 69.0942,
+    "hype_score": 0,
+    "review_velocity_7d": 0,
+    "follower_velocity_7d": 0,
+    "classification": "",
+    "review_count": 660,
+    "review_positive": 647,
+    "review_percentage": 98.0,
+    "owner_estimate": 10000,
+    "ccu_estimate": 9,
+    "follower_count": 0,
+    "median_playtime_minutes": 214
+  },
+  {
     "steam_app_id": 2943150,
     "name": "SNØ: Ultimate Freeriding",
     "slug": "snø-ultimate-freeriding",
@@ -728,42 +765,6 @@
     "review_count": 705,
     "review_positive": 0,
     "review_percentage": 96.2,
-    "owner_estimate": 10000,
-    "ccu_estimate": 0,
-    "follower_count": 0,
-    "median_playtime_minutes": 0
-  },
-  {
-    "steam_app_id": 3257490,
-    "name": "There Exists Nobody",
-    "slug": "there-exists-nobody",
-    "developer": "HeavyLight Studio",
-    "publisher": "",
-    "release_date": "2024-12-11",
-    "price_usd": 4.99,
-    "genres": [
-      "Adventure",
-      "Indie"
-    ],
-    "tags": [
-      "Adventure",
-      "Indie"
-    ],
-    "platforms": [
-      "windows"
-    ],
-    "short_description": "You arrive at a deserted street that feels familiar yet is filled with unease. Pick up your camera, capture the hidden anomalies, and break this endless loop.",
-    "header_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3257490/header.jpg?t=1755267852",
-    "screenshots": [],
-    "rising_score": 0.0002,
-    "gem_score": 68.1497,
-    "hype_score": 0,
-    "review_velocity_7d": 0,
-    "follower_velocity_7d": 0,
-    "classification": "",
-    "review_count": 865,
-    "review_positive": 0,
-    "review_percentage": 92.8,
     "owner_estimate": 10000,
     "ccu_estimate": 0,
     "follower_count": 0,
