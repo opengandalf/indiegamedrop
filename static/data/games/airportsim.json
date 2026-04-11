@@ -28,19 +28,26 @@
   "review_velocity_7d": 79.30000000000001,
   "follower_velocity_7d": 0.0,
   "classification": "tracked",
-  "review_count": 1586,
-  "review_positive": 0,
-  "review_percentage": 68.9,
-  "owner_estimate": 0,
-  "ccu_estimate": 0,
+  "review_count": 1388,
+  "review_positive": 974,
+  "review_percentage": 70.2,
+  "owner_estimate": 35000,
+  "ccu_estimate": 11,
   "follower_count": 0,
-  "median_playtime_minutes": 0,
+  "median_playtime_minutes": 588,
   "history": [
     {
       "date": "2026-04-04",
       "review_count": 1586,
       "review_percentage": 68.9,
       "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-11",
+      "review_count": 1388,
+      "review_percentage": 70.2,
+      "ccu_estimate": 11,
       "follower_count": 0
     }
   ]

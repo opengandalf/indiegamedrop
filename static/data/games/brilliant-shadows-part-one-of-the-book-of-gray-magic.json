@@ -29,18 +29,25 @@
   "review_velocity_7d": 9.55,
   "follower_velocity_7d": 0.0,
   "classification": "hidden_gem",
-  "review_count": 191,
-  "review_positive": 0,
-  "review_percentage": 93.2,
+  "review_count": 190,
+  "review_positive": 179,
+  "review_percentage": 94.2,
   "owner_estimate": 35000,
   "ccu_estimate": 0,
   "follower_count": 0,
-  "median_playtime_minutes": 0,
+  "median_playtime_minutes": 246,
   "history": [
     {
       "date": "2026-04-04",
       "review_count": 191,
       "review_percentage": 93.2,
+      "ccu_estimate": 0,
+      "follower_count": 0
+    },
+    {
+      "date": "2026-04-11",
+      "review_count": 190,
+      "review_percentage": 94.2,
       "ccu_estimate": 0,
       "follower_count": 0
     }
